@@ -28,6 +28,7 @@ import logging
 import re
 import time
 from dataclasses import dataclass, field
+from enum import Enum
 
 import httpx
 
@@ -35,28 +36,33 @@ from .fetcher import Paper
 
 logger = logging.getLogger(__name__)
 
+
+class _CircuitState(Enum):
+    CLOSED = "closed"
+    OPEN = "open"
+    HALF_OPEN = "half_open"
+
+
 # ---------------------------------------------------------------------------
-# Adaptive concurrency semaphore
+# Adaptive concurrency semaphore with circuit breaker
 # ---------------------------------------------------------------------------
 
 class AdaptiveSemaphore:
-    """Concurrency limiter that adjusts its permit count based on feedback.
+    """Concurrency limiter with TCP-style ramp-up and circuit breaker.
 
     Ramp-up strategy (inspired by TCP congestion control):
 
-    * **Probe phase** (before first failure ceiling hit): on success, double
-      the limit (``×2``) to quickly discover the safe ceiling.
-    * **Stable phase** (after hitting the ceiling): on success, grow linearly
-      (``+1``) for smooth adjustment.
+    * **Probe phase**: on success, double the limit (``×2``).
+    * **Stable phase** (after reaching max): on success, grow linearly (``+1``).
     * On ``report_failure()`` the limit decreases by 1 (down to *min_limit*).
 
-    **Failure ceiling**: tracks the lowest concurrency level at which failures
-    occurred.  Once the same level has been confirmed as failing *N* times
-    (default 3), the effective max is capped at ``level - 1`` and no further
-    ramp-up is attempted.
+    **Failure ceiling**: once the same concurrency level fails *N* times,
+    effective max is capped at ``level - 1``.
 
-    Uses an internal ``asyncio.Condition`` so that waiters are woken when
-    permits increase.
+    **Circuit breaker**: after *cb_threshold* consecutive failures, the circuit
+    opens and all ``acquire()`` calls block for a cooldown period.  After the
+    cooldown, one probe request is allowed (HALF_OPEN).  If it succeeds, the
+    circuit closes; if it fails, the cooldown doubles.
     """
 
     def __init__(
@@ -65,6 +71,9 @@ class AdaptiveSemaphore:
         min_limit: int = 1,
         max_limit: int = 5,
         fail_ceiling_hits: int = 3,
+        cb_threshold: int = 3,
+        cb_base_cooldown: float = 5.0,
+        cb_max_cooldown: float = 300.0,
     ) -> None:
         self._min = min_limit
         self._max = max_limit
@@ -76,15 +85,42 @@ class AdaptiveSemaphore:
         self._effective_max = max_limit
         self._reached_max = False
 
+        self._cb_threshold = cb_threshold
+        self._cb_base_cooldown = cb_base_cooldown
+        self._cb_max_cooldown = cb_max_cooldown
+        self._cb_state = _CircuitState.CLOSED
+        self._cb_consecutive_failures = 0
+        self._cb_open_count = 0
+        self._cb_open_until: float = 0.0
+
     def _get_cond(self) -> asyncio.Condition:
         if self._cond is None:
             self._cond = asyncio.Condition()
         return self._cond
 
+    @property
+    def circuit_state(self) -> _CircuitState:
+        return self._cb_state
+
     async def acquire(self) -> None:
         cond = self._get_cond()
         async with cond:
-            while self._count <= 0:
+            while True:
+                if self._cb_state == _CircuitState.OPEN:
+                    now = time.monotonic()
+                    if now >= self._cb_open_until:
+                        self._cb_state = _CircuitState.HALF_OPEN
+                        logger.info("AdaptiveSemaphore: circuit HALF_OPEN — probing")
+                        break
+                    remaining = self._cb_open_until - now
+                    logger.info(
+                        "AdaptiveSemaphore: circuit OPEN — waiting %.0fs",
+                        remaining,
+                    )
+                    await asyncio.sleep(remaining)
+                    continue
+                if self._count > 0:
+                    break
                 await cond.wait()
             self._count -= 1
 
@@ -94,9 +130,28 @@ class AdaptiveSemaphore:
             self._count += 1
             cond.notify()
 
+    def _open_circuit(self) -> None:
+        cooldown = min(
+            self._cb_base_cooldown * (2 ** self._cb_open_count),
+            self._cb_max_cooldown,
+        )
+        self._cb_open_until = time.monotonic() + cooldown
+        self._cb_open_count += 1
+        self._cb_state = _CircuitState.OPEN
+        self._cb_consecutive_failures = 0
+        logger.warning(
+            "AdaptiveSemaphore: circuit OPEN — cooldown %.0fs (trip #%d)",
+            cooldown, self._cb_open_count,
+        )
+
     async def report_success(self) -> None:
         cond = self._get_cond()
         async with cond:
+            self._cb_consecutive_failures = 0
+            if self._cb_state == _CircuitState.HALF_OPEN:
+                self._cb_state = _CircuitState.CLOSED
+                self._cb_open_count = 0
+                logger.info("AdaptiveSemaphore: circuit CLOSED — API recovered")
             if self._limit >= self._effective_max:
                 return
             if self._reached_max:
@@ -113,12 +168,21 @@ class AdaptiveSemaphore:
     async def report_failure(self) -> None:
         cond = self._get_cond()
         async with cond:
+            if self._cb_state == _CircuitState.HALF_OPEN:
+                self._open_circuit()
+                return
+            self._cb_consecutive_failures += 1
+            if self._cb_consecutive_failures >= self._cb_threshold:
+                self._open_circuit()
+                return
+
             old = self._limit
             level = self._limit
             hits = self._fail_levels.get(level, 0) + 1
             self._fail_levels[level] = hits
-            if hits >= self._fail_ceiling_hits and level - 1 < self._effective_max:
-                self._effective_max = max(level - 1, self._min)
+            new_max = max(level - 1, self._min)
+            if hits >= self._fail_ceiling_hits and new_max < self._effective_max:
+                self._effective_max = new_max
                 logger.info(
                     "AdaptiveSemaphore: failure ceiling confirmed at %d "
                     "(%d hits) → effective_max=%d",
@@ -280,6 +344,16 @@ class LLMConfig:
 
     timeout_pool: float = 10.0
     """HTTP connection-pool wait timeout in seconds."""
+
+    cb_threshold: int = 3
+    """Consecutive failures before the circuit breaker opens."""
+
+    cb_base_cooldown: float = 5.0
+    """Initial cooldown in seconds when the circuit opens.  Doubles on each
+    subsequent trip, up to *cb_max_cooldown*."""
+
+    cb_max_cooldown: float = 60.0
+    """Maximum cooldown in seconds for the circuit breaker."""
 
 
 # ---------------------------------------------------------------------------
@@ -649,6 +723,9 @@ async def _evaluate_batch(
         initial=config.initial_concurrent,
         min_limit=1,
         max_limit=config.max_concurrent,
+        cb_threshold=config.cb_threshold,
+        cb_base_cooldown=config.cb_base_cooldown,
+        cb_max_cooldown=config.cb_max_cooldown,
     )
 
     async def _limited(client: httpx.AsyncClient, paper: Paper) -> FilterResult:

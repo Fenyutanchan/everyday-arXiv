@@ -11,6 +11,7 @@ from src.filter import (
     FilterOutcome,
     FilterResult,
     LLMConfig,
+    _CircuitState,
     _build_user_prompt,
     _call_llm,
     _extract_response_text,
@@ -365,17 +366,20 @@ class TestAdaptiveSemaphore:
         assert sem.limit == 5
 
     async def test_failure_decrements_by_one(self):
-        sem = AdaptiveSemaphore(initial=4, min_limit=1, max_limit=10)
+        sem = AdaptiveSemaphore(initial=4, min_limit=1, max_limit=10, cb_threshold=100)
         await sem.report_failure()
         assert sem.limit == 3
 
     async def test_failure_floored_at_min(self):
-        sem = AdaptiveSemaphore(initial=1, min_limit=1, max_limit=10)
+        sem = AdaptiveSemaphore(initial=1, min_limit=1, max_limit=10, cb_threshold=100)
         await sem.report_failure()
         assert sem.limit == 1
 
     async def test_failure_ceiling_stops_ramp_up(self):
-        sem = AdaptiveSemaphore(initial=1, min_limit=1, max_limit=10, fail_ceiling_hits=3)
+        sem = AdaptiveSemaphore(
+            initial=1, min_limit=1, max_limit=10,
+            fail_ceiling_hits=3, cb_threshold=100,
+        )
         await sem.report_success()
         assert sem.limit == 2
         await sem.report_failure()
@@ -389,17 +393,72 @@ class TestAdaptiveSemaphore:
         await sem.report_failure()
         assert sem.limit == 1
         assert sem._effective_max == 1
+
+    async def test_ceiling_at_min_locks_effective_max(self):
+        sem = AdaptiveSemaphore(
+            initial=1, min_limit=1, max_limit=10,
+            fail_ceiling_hits=3, cb_threshold=100,
+        )
+        for _ in range(3):
+            await sem.report_failure()
+        assert sem.limit == 1
+        assert sem._effective_max == 1
         await sem.report_success()
         assert sem.limit == 1
 
     async def test_linear_growth_after_reaching_max(self):
-        sem = AdaptiveSemaphore(initial=3, min_limit=1, max_limit=4)
+        sem = AdaptiveSemaphore(initial=3, min_limit=1, max_limit=4, cb_threshold=100)
         await sem.report_success()
         assert sem.limit == 4
         await sem.report_failure()
         assert sem.limit == 3
         await sem.report_success()
         assert sem.limit == 4
+
+
+class TestCircuitBreaker:
+    async def test_opens_after_consecutive_failures(self):
+        sem = AdaptiveSemaphore(initial=1, min_limit=1, max_limit=5, cb_threshold=3)
+        for _ in range(3):
+            await sem.report_failure()
+        assert sem.circuit_state == _CircuitState.OPEN
+
+    async def test_does_not_open_below_threshold(self):
+        sem = AdaptiveSemaphore(initial=1, min_limit=1, max_limit=5, cb_threshold=5)
+        for _ in range(4):
+            await sem.report_failure()
+        assert sem.circuit_state == _CircuitState.CLOSED
+
+    async def test_success_resets_consecutive_count(self):
+        sem = AdaptiveSemaphore(initial=1, min_limit=1, max_limit=5, cb_threshold=3)
+        await sem.report_failure()
+        await sem.report_failure()
+        await sem.report_success()
+        await sem.report_failure()
+        assert sem.circuit_state == _CircuitState.CLOSED
+
+    async def test_half_open_probe_success_closes(self):
+        sem = AdaptiveSemaphore(initial=1, min_limit=1, max_limit=5, cb_threshold=3)
+        for _ in range(3):
+            await sem.report_failure()
+        assert sem.circuit_state == _CircuitState.OPEN
+        sem._cb_open_until = 0
+        await sem.acquire()
+        assert sem.circuit_state == _CircuitState.HALF_OPEN
+        await sem.report_success()
+        assert sem.circuit_state == _CircuitState.CLOSED
+
+    async def test_half_open_probe_failure_reopens(self):
+        sem = AdaptiveSemaphore(initial=1, min_limit=1, max_limit=5, cb_threshold=3)
+        for _ in range(3):
+            await sem.report_failure()
+        assert sem.circuit_state == _CircuitState.OPEN
+        sem._cb_open_until = 0
+        await sem.acquire()
+        assert sem.circuit_state == _CircuitState.HALF_OPEN
+        await sem.report_failure()
+        assert sem.circuit_state == _CircuitState.OPEN
+        assert sem._cb_open_count == 2
 
 
 class TestFilterPapers:

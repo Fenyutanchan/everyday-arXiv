@@ -89,6 +89,13 @@ llm:
   timeout_write: 10      # Sending request body / 发送请求体
   timeout_pool: 10       # Waiting for connection from pool / 等待连接池
 
+  # Circuit breaker / 熔断器
+  # After N consecutive failures, pause all requests for a cooldown period.
+  # 连续失败 N 次后暂停所有请求，等待冷却。
+  cb_threshold: 3         # Consecutive failures to trip / 触发熔断的连续失败次数
+  cb_base_cooldown: 5     # Initial cooldown in seconds / 初始冷却时间（秒）
+  cb_max_cooldown: 60     # Max cooldown in seconds / 最大冷却时间（秒）
+
   # --------------------------------------------------------------------------
   # Content sources / 内容来源
   # --------------------------------------------------------------------------
@@ -121,10 +128,6 @@ llm:
   # 边界分数范围（含）— 此范围内的论文会进入第二轮。
   borderline_min: 4
   borderline_max: 7
-
-  # Retry count when LLM returns invalid JSON.
-  # LLM 返回无效 JSON 时的重试次数。
-  max_retries: 1
 
   # --------------------------------------------------------------------------
   # Research interest profile / 研究兴趣描述
