@@ -127,8 +127,9 @@ class AdaptiveSemaphore:
     async def release(self) -> None:
         cond = self._get_cond()
         async with cond:
-            self._count += 1
-            cond.notify()
+            if self._count < self._limit:
+                self._count += 1
+                cond.notify()
 
     def _open_circuit(self) -> None:
         cooldown = min(
