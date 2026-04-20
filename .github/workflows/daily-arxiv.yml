@@ -28,6 +28,21 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Restore data from orphan branch
+        run: |
+          git fetch origin data 2>/dev/null || true
+          if git rev-parse --verify origin/data >/dev/null 2>&1; then
+            TMP=$(mktemp -d)
+            git worktree add "$TMP" origin/data
+            cp -r "$TMP/output" . 2>/dev/null || true
+            cp -r "$TMP/trash" . 2>/dev/null || true
+            cp -r "$TMP/data" . 2>/dev/null || true
+            git worktree remove "$TMP"
+            echo "Restored data from orphan branch"
+          else
+            echo "No data branch yet — first run"
+          fi
+
       - name: Install uv
         uses: astral-sh/setup-uv@v4
         with:
