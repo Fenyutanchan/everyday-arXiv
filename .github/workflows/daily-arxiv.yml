@@ -1,0 +1,116 @@
+name: Daily arXiv Update
+
+on:
+  schedule:
+    - cron: "0 8 * * *"
+  workflow_dispatch:
+    inputs:
+      days:
+        description: "Number of days to look back"
+        required: false
+        default: "1"
+      date:
+        description: "Date to filter (YYYY-MM-DD, default: today)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  fetch-and-filter:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v4
+        with:
+          version: "latest"
+
+      - name: Set up Python
+        run: uv python install 3.13
+
+      - name: Install dependencies
+        run: uv sync --extra dev
+
+      - name: Fetch arXiv papers
+        run: |
+          uv run python -m src.main fetch --days ${{ github.event.inputs.days || '1' }}
+
+      - name: Filter papers with LLM
+        env:
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+        run: |
+          DATE_ARG=""
+          if [ -n "${{ github.event.inputs.date }}" ]; then
+            DATE_ARG="--date ${{ github.event.inputs.date }}"
+          fi
+          uv run python -m src.main filter $DATE_ARG
+
+      - name: Refilter unevaluated papers
+        env:
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+        run: |
+          DATE_ARG=""
+          if [ -n "${{ github.event.inputs.date }}" ]; then
+            DATE_ARG="--date ${{ github.event.inputs.date }}"
+          fi
+          uv run python -m src.main refilter $DATE_ARG || true
+
+      - name: Cleanup old trash
+        run: uv run python -m src.main cleanup --keep 7
+
+      - name: Generate dates index
+        run: |
+          python3 -c "
+          import json, glob
+          dates = sorted(set(
+              f.split('/')[-1].replace('.json','')
+              for f in glob.glob('output/*.json')
+          ))
+          with open('dates.json','w') as f:
+              json.dump(dates[-90:], f)
+          "
+
+      - name: Push data to orphan data branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          DATA_DIR=$(mktemp -d)
+
+          # Create or reset orphan data branch
+          git worktree add "$DATA_DIR" --detach 2>/dev/null
+          cd "$DATA_DIR"
+          git checkout --orphan data
+          git rm -rf . 2>/dev/null || true
+
+          # Copy data files from main worktree
+          cp -r "$GITHUB_WORKSPACE/output" . 2>/dev/null || true
+          cp -r "$GITHUB_WORKSPACE/trash" . 2>/dev/null || true
+          cp -r "$GITHUB_WORKSPACE/data" . 2>/dev/null || true
+          cp "$GITHUB_WORKSPACE/dates.json" . 2>/dev/null || true
+
+          git add -A
+          git diff --cached --quiet || git commit -m "data: update $(date +%Y-%m-%d)"
+          git push origin data --force
+
+          cd "$GITHUB_WORKSPACE"
+          git worktree remove "$DATA_DIR"
+
+      - name: Build docs and frontend
+        run: |
+          uv run mkdocs build
+          cp -r site-ui/* site/
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./site

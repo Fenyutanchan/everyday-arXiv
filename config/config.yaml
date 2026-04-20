@@ -1,0 +1,159 @@
+# ==============================================================================
+# Everyday arXiv — Configuration / 配置文件
+# ==============================================================================
+# English comments are primary; Chinese translations follow on the same line.
+# 英文注释为主，中文翻译紧跟其后。
+# ==============================================================================
+
+# arXiv categories to monitor / 要监控的 arXiv 分类
+# Full list: https://arxiv.org/category_taxonomy
+# 完整分类列表：https://arxiv.org/category_taxonomy
+categories:
+  - hep-ph
+  - astro-ph.CO
+  - gr-qc
+  - hep-th
+
+# Fetch settings / 拉取设置
+fetch:
+  # Number of results per API request (controls pagination granularity).
+  # Total papers are NOT capped — the client auto-paginates until it exits the date window.
+  # 每次 API 请求的结果数（控制分页粒度）。总论文数无上限——客户端自动翻页直到超出日期窗口。
+  page_size: 100
+
+# Output settings / 输出设置
+output:
+  # Directory for raw daily JSON files (created automatically).
+  # 原始每日 JSON 文件的输出目录（自动创建）。
+  raw_dir: data
+  # Directory for filtered output (organized by filter run date).
+  # 筛选输出目录（按筛选运行日期组织）。
+  filtered_dir: output
+  # Directory for discarded papers with rejection reasons.
+  # 被筛掉的论文（含拒绝理由）的输出目录。
+  trash_dir: trash
+
+# ==============================================================================
+# LLM-based filtering / 基于 LLM 的筛选
+# ==============================================================================
+# - Supports any OpenAI-compatible chat completion API.
+#   支持任何兼容 OpenAI 的 chat completion API。
+# - Set `research_profile` to describe your research interests.
+#   设置 `research_profile` 来描述你的研究兴趣。
+# - The LLM scores each paper 1-10 and decides if it's relevant.
+#   LLM 会给每篇论文打分（1-10）并判断是否相关。
+# ==============================================================================
+llm:
+  # API base URL — change this for non-OpenAI providers.
+  # API 基础 URL — 非OpenAI 提供商需要修改此项。
+  # Examples / 示例:
+  #   Azure:    https://<resource>.openai.azure.com/openai/deployments/<deployment>
+  #   Ollama:   http://localhost:11434/v1
+  #   Together: https://api.together.xyz/v1
+  base_url: https://api.openai.com/v1
+  base_url_env: LLM_BASE_URL       # Env var that overrides base_url / 覆盖 base_url 的环境变量
+
+  # Model identifier / 模型标识符
+  model: gpt-4o-mini
+  model_env: LLM_MODEL                   # Env var that overrides model / 覆盖 model 的环境变量
+
+  # Name of the environment variable that holds the API key.
+  # 存放 API 密钥的环境变量名。
+  api_key_env: LLM_API_KEY
+
+  # Maximum concurrent requests to the LLM endpoint.
+  # 发往 LLM 端点的最大并发请求数。
+  # Lower this if you hit rate limits; raise it for faster processing.
+  # 如果触发限流则降低此值；要提高处理速度则增大此值。
+  max_concurrent: 3
+
+  # Unified retry count for all failures (HTTP 429/5xx, timeout, empty content,
+  # JSON parse).  Actual delay = min(2^attempt, max_backoff).
+  # 统一重试次数，涵盖所有失败场景。实际延迟 = min(2^attempt, max_backoff)。
+  max_retries: 3
+  max_backoff: 32
+
+  # Maximum tokens in the LLM completion response.
+  # LLM 补全响应的最大 token 数。
+  # Reasoning models (GLM-5.1, DeepSeek-R1) consume reasoning tokens from the
+  # same budget — use 2048+.  For non-reasoning models, 512 is sufficient.
+  # 推理模型的 reasoning tokens 也从这个额度扣除——建议 2048+。非推理模型 512 即可。
+  max_tokens: 4096
+
+  # HTTP timeouts (seconds) / HTTP 超时设置（秒）
+  timeout_connect: 10    # TCP connect / 建立 TCP 连接
+  timeout_read: 60       # Waiting for LLM response / 等待 LLM 响应（含推理时间）
+  timeout_write: 10      # Sending request body / 发送请求体
+  timeout_pool: 10       # Waiting for connection from pool / 等待连接池
+
+  # --------------------------------------------------------------------------
+  # Content sources / 内容来源
+  # --------------------------------------------------------------------------
+  # When enabled, full text is prefetched before LLM evaluation.
+  # PDF is preferred over HTML when both are available.
+  # 开启后会在 LLM 评估前预拉取全文。PDF 优先于 HTML。
+  # --------------------------------------------------------------------------
+
+  # Fetch arXiv HTML full text when available (default: true).
+  # 当 HTML 版本可用时拉取全文（默认开启）。
+  use_html: true
+
+  # Download and extract PDF full text (default: false).
+  # Significantly increases latency and token usage.
+  # 下载 PDF 并提取全文（默认关闭）。会显著增加延迟和 token 用量。
+  use_pdf: false
+
+  # Maximum characters of full text to include in the LLM prompt.
+  # 发送给 LLM 的全文最大字符数。
+  max_content_chars: 50000
+
+  # --------------------------------------------------------------------------
+  # Two-pass agent loop / 两轮 Agent 循环
+  # --------------------------------------------------------------------------
+  # Pass 1: abstract-only quick screen / 第一轮：仅摘要快速筛选
+  # Pass 2: full-text deep review for borderline papers / 第二轮：对边界论文深度复审
+  # --------------------------------------------------------------------------
+
+  # Borderline score range (inclusive) — papers in this range get a second pass.
+  # 边界分数范围（含）— 此范围内的论文会进入第二轮。
+  borderline_min: 4
+  borderline_max: 7
+
+  # Retry count when LLM returns invalid JSON.
+  # LLM 返回无效 JSON 时的重试次数。
+  max_retries: 1
+
+  # --------------------------------------------------------------------------
+  # Research interest profile / 研究兴趣描述
+  # --------------------------------------------------------------------------
+  # This is the KEY field to iterate on. Treat it like prompt engineering:
+  # 这是需要反复调优的**核心字段**。把它当作 prompt engineering 来对待：
+  #
+  # Loading priority / 加载优先级:
+  #   1. research_profile_file (if the file exists) / 文件存在时使用文件
+  #   2. research_profile (inline fallback) / 内联回退值
+  #   3. Empty string (if neither is set) / 都未设置则为空
+  #
+  # Tips / 提示:
+  # 1. Start broad, then narrow down based on actual filtering results.
+  #    先宽泛描述，再根据实际筛选结果逐步收窄。
+  # 2. Include both "interested in" AND "not interested in" sections.
+  #    同时包含"感兴趣"和"不感兴趣"的部分。
+  # 3. Be specific about methodologies, not just topics.
+  #    具体描述方法论，而不仅仅是主题。
+  # --------------------------------------------------------------------------
+  research_profile_file: config/research_profile.md
+  research_profile: |
+    I am researching theoretical and phenomenological aspects of high-energy physics,
+    cosmology, and quantum gravity.  Key topics of interest include:
+    - BSM physics: supersymmetry, extra dimensions, dark matter models, neutrino mass generation
+    - Collider phenomenology: LHC / HL-LHC searches, EFT interpretations, Monte Carlo tools
+    - Cosmology & astrophysics: CMB analysis, large-scale structure, dark energy, inflation
+    - Gravitational physics: gravitational waves, compact binary mergers, tests of GR
+    - Quantum gravity & string theory: AdS/CFT correspondence, holography, swampland conjectures
+    - Formal aspects: scattering amplitudes, quantum field theory on curved spacetime
+
+    I am less interested in:
+    - Purely instrumental or detector-focused papers without physics results
+    - Machine learning applications in HEP unless they introduce novel methodology
+    - Lattice QCD calculations without new theoretical insight

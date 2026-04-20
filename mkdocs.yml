@@ -1,0 +1,22 @@
+site_name: Everyday arXiv
+site_description: Daily arXiv paper fetcher with LLM-based relevance filtering
+repo_url: https://github.com/<your-username>/everyday-arxiv
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - content.code.copy
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - admonition
+extra_javascript:
+  - https://unpkg.com/mermaid@11/dist/mermaid.min.js
+nav:
+  - Home: index.md
