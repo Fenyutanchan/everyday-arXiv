@@ -193,7 +193,9 @@ dev = [
 dev = [
     { name = "mkdocs" },
     { name = "mkdocs-material" },
+    { name = "pytest-asyncio" },
     { name = "pytest-httpx" },
+    { name = "respx" },
 ]
 
 [package.metadata]
@@ -213,7 +215,9 @@ provides-extras = ["dev"]
 dev = [
     { name = "mkdocs", specifier = ">=1.6.1" },
     { name = "mkdocs-material", specifier = ">=9.7.6" },
+    { name = "pytest-asyncio", specifier = ">=0.23" },
     { name = "pytest-httpx", specifier = ">=0.36.2" },
+    { name = "respx", specifier = ">=0.21" },
 ]
 
 [[package]]

@@ -29,7 +29,7 @@ from dotenv import load_dotenv
 
 from .fetcher import Paper, fetch_papers, _resolve_html_urls
 from .filter import FilterOutcome, FilterResult, LLMConfig, filter_papers
-from .storage import save_papers, save_filtered, save_trash, load_raw, load_filtered, load_all_filtered
+from .storage import save_papers, save_filtered, save_trash, load_raw, load_filtered, load_all_filtered, latest_raw_date
 
 load_dotenv()
 
@@ -136,7 +136,6 @@ async def cmd_filter(cfg: dict, date_str: str | None = None) -> list[Path]:
 
     Output is organized by filter run date, not article date.
     """
-    from datetime import datetime
 
     llm_config = build_llm_config(cfg)
 
@@ -152,9 +151,19 @@ async def cmd_filter(cfg: dict, date_str: str | None = None) -> list[Path]:
     raw_dir = cfg.get("output", {}).get("raw_dir", cfg.get("output", {}).get("dir", "data"))
     filtered_dir = cfg.get("output", {}).get("filtered_dir", "output")
     trash_dir = cfg.get("output", {}).get("trash_dir", "trash")
-    run_date = date_str or datetime.now().strftime("%Y-%m-%d")
 
-    raw_papers = load_raw(date_str or run_date, output_dir=raw_dir)
+    if date_str:
+        target_date = date_str
+    else:
+        target_date = latest_raw_date(raw_dir)
+        if not target_date:
+            logger.error("No raw data found in %s", raw_dir)
+            sys.exit(1)
+        logger.info("Auto-selected latest raw data date: %s", target_date)
+
+    run_date = target_date
+
+    raw_papers = load_raw(target_date, output_dir=raw_dir)
     if not raw_papers:
         logger.info("No raw papers found for %s", date_str or run_date)
         sys.exit(0)
@@ -250,7 +259,6 @@ async def cmd_refilter(cfg: dict, date_str: str | None = None) -> list[Path]:
     Reads the filtered output for *date_str*, picks papers with
     ``evaluated=false``, re-runs them through the LLM, and overwrites the file.
     """
-    from datetime import datetime
 
     llm_config = build_llm_config(cfg)
 
@@ -265,7 +273,21 @@ async def cmd_refilter(cfg: dict, date_str: str | None = None) -> list[Path]:
 
     filtered_dir = cfg.get("output", {}).get("filtered_dir", "output")
     trash_dir = cfg.get("output", {}).get("trash_dir", "trash")
-    run_date = date_str or datetime.now().strftime("%Y-%m-%d")
+
+    if date_str:
+        run_date = date_str
+    else:
+        out_path = Path(filtered_dir)
+        if out_path.is_dir():
+            dates = sorted(f.stem for f in out_path.glob("*.json"))
+            if not dates:
+                logger.error("No filtered output found in %s", filtered_dir)
+                sys.exit(1)
+            run_date = dates[-1]
+            logger.info("Auto-selected latest filtered output date: %s", run_date)
+        else:
+            logger.error("No filtered output found in %s", filtered_dir)
+            sys.exit(1)
 
     filtered = load_filtered(run_date, output_dir=filtered_dir)
     if not filtered:

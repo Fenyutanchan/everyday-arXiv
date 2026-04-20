@@ -338,6 +338,15 @@ def load_raw(date_str: str, output_dir: str | Path = "data") -> list[dict]:
     return day.get("papers", [])
 
 
+def latest_raw_date(output_dir: str | Path = "data") -> str | None:
+    """Return the latest date string found in the raw data directory."""
+    out = Path(output_dir)
+    if not out.is_dir():
+        return None
+    dates = sorted(f.stem for f in out.glob("*.json"))
+    return dates[-1] if dates else None
+
+
 def load_filtered(date_str: str, output_dir: str | Path = "output") -> list[dict]:
     """Load filtered paper dicts for a given run date."""
     path = Path(output_dir) / f"{date_str}.json"

@@ -193,3 +193,34 @@ class TestCmdCleanup:
             }
             with pytest.raises(SystemExit):
                 await cmd_filter(cfg, date_str="2026-04-16")
+
+    async def test_auto_selects_latest_date(self, tmp_path):
+        from src.storage import save_papers
+        save_papers([_make_paper()], output_dir=tmp_path)
+
+        mock_outcome = FilterOutcome(
+            relevant=[FilterResult(paper=_make_paper(), relevant=True, score=9, reason="yes")],
+            discarded=[],
+        )
+
+        with patch("src.main.filter_papers", new_callable=AsyncMock, return_value=mock_outcome), \
+             patch.dict("os.environ", {"LLM_API_KEY": "sk-test"}):
+            cfg = {
+                "output": {"raw_dir": str(tmp_path), "filtered_dir": str(tmp_path / "out")},
+                "llm": {"research_profile": "physics", "api_key_env": "LLM_API_KEY"},
+            }
+            paths = await cmd_filter(cfg)
+
+        assert len(paths) == 1
+        assert paths[0].name == "2026-04-16.json"
+
+    async def test_no_date_arg_and_no_raw_data_exits(self, tmp_path):
+        empty_dir = tmp_path / "empty"
+        empty_dir.mkdir()
+        with patch.dict("os.environ", {"LLM_API_KEY": "sk-test"}):
+            cfg = {
+                "output": {"raw_dir": str(empty_dir)},
+                "llm": {"research_profile": "physics"},
+            }
+            with pytest.raises(SystemExit):
+                await cmd_filter(cfg)

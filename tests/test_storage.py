@@ -20,6 +20,7 @@ from src.storage import (
     load_all_filtered,
     load_filtered,
     load_raw,
+    latest_raw_date,
     load_results,
     save_filtered,
     save_papers,
@@ -347,3 +348,16 @@ class TestSaveTrash:
         trash_dir = tmp_path / "new_trash"
         save_trash([_make_result(score=1)], run_date="2026-04-19", output_dir=trash_dir)
         assert trash_dir.is_dir()
+
+
+class TestLatestRawDate:
+    def test_returns_latest_date(self, tmp_path):
+        for d in ["2026-04-10", "2026-04-15", "2026-04-12"]:
+            (tmp_path / f"{d}.json").write_text("{}")
+        assert latest_raw_date(tmp_path) == "2026-04-15"
+
+    def test_empty_dir(self, tmp_path):
+        assert latest_raw_date(tmp_path) is None
+
+    def test_nonexistent_dir(self, tmp_path):
+        assert latest_raw_date(tmp_path / "nope") is None
