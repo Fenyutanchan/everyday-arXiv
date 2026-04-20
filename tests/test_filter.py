@@ -354,27 +354,52 @@ class TestAdaptiveSemaphore:
         assert sem.limit == 2
         await sem.release()
 
-    async def test_success_increases_limit(self):
-        sem = AdaptiveSemaphore(initial=2, min_limit=1, max_limit=5)
+    async def test_success_doubles_in_probe_phase(self):
+        sem = AdaptiveSemaphore(initial=2, min_limit=1, max_limit=10)
         await sem.report_success()
-        assert sem.limit == 3
+        assert sem.limit == 4
 
-    async def test_success_capped_at_max(self):
+    async def test_success_capped_at_effective_max(self):
         sem = AdaptiveSemaphore(initial=5, min_limit=1, max_limit=5)
         await sem.report_success()
         assert sem.limit == 5
 
-    async def test_failure_halves_limit(self):
+    async def test_failure_decrements_by_one(self):
         sem = AdaptiveSemaphore(initial=4, min_limit=1, max_limit=10)
         await sem.report_failure()
-        assert sem.limit == 2
+        assert sem.limit == 3
 
     async def test_failure_floored_at_min(self):
-        sem = AdaptiveSemaphore(initial=2, min_limit=1, max_limit=10)
+        sem = AdaptiveSemaphore(initial=1, min_limit=1, max_limit=10)
         await sem.report_failure()
         assert sem.limit == 1
+
+    async def test_failure_ceiling_stops_ramp_up(self):
+        sem = AdaptiveSemaphore(initial=1, min_limit=1, max_limit=10, fail_ceiling_hits=3)
+        await sem.report_success()
+        assert sem.limit == 2
         await sem.report_failure()
         assert sem.limit == 1
+        await sem.report_success()
+        assert sem.limit == 2
+        await sem.report_failure()
+        assert sem.limit == 1
+        await sem.report_success()
+        assert sem.limit == 2
+        await sem.report_failure()
+        assert sem.limit == 1
+        assert sem._effective_max == 1
+        await sem.report_success()
+        assert sem.limit == 1
+
+    async def test_linear_growth_after_reaching_max(self):
+        sem = AdaptiveSemaphore(initial=3, min_limit=1, max_limit=4)
+        await sem.report_success()
+        assert sem.limit == 4
+        await sem.report_failure()
+        assert sem.limit == 3
+        await sem.report_success()
+        assert sem.limit == 4
 
 
 class TestFilterPapers:

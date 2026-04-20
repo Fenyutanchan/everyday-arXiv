@@ -42,19 +42,39 @@ logger = logging.getLogger(__name__)
 class AdaptiveSemaphore:
     """Concurrency limiter that adjusts its permit count based on feedback.
 
-    * On ``report_success()`` the permit count grows by one (up to *max_limit*).
-    * On ``report_failure()`` the permit count halves (down to *min_limit*).
+    Ramp-up strategy (inspired by TCP congestion control):
+
+    * **Probe phase** (before first failure ceiling hit): on success, double
+      the limit (``×2``) to quickly discover the safe ceiling.
+    * **Stable phase** (after hitting the ceiling): on success, grow linearly
+      (``+1``) for smooth adjustment.
+    * On ``report_failure()`` the limit decreases by 1 (down to *min_limit*).
+
+    **Failure ceiling**: tracks the lowest concurrency level at which failures
+    occurred.  Once the same level has been confirmed as failing *N* times
+    (default 3), the effective max is capped at ``level - 1`` and no further
+    ramp-up is attempted.
 
     Uses an internal ``asyncio.Condition`` so that waiters are woken when
     permits increase.
     """
 
-    def __init__(self, initial: int = 5, min_limit: int = 1, max_limit: int = 10) -> None:
+    def __init__(
+        self,
+        initial: int = 1,
+        min_limit: int = 1,
+        max_limit: int = 5,
+        fail_ceiling_hits: int = 3,
+    ) -> None:
         self._min = min_limit
         self._max = max_limit
         self._limit = max(min(initial, max_limit), min_limit)
         self._count = self._limit
         self._cond: asyncio.Condition | None = None
+        self._fail_ceiling_hits = fail_ceiling_hits
+        self._fail_levels: dict[int, int] = {}
+        self._effective_max = max_limit
+        self._reached_max = False
 
     def _get_cond(self) -> asyncio.Condition:
         if self._cond is None:
@@ -77,18 +97,34 @@ class AdaptiveSemaphore:
     async def report_success(self) -> None:
         cond = self._get_cond()
         async with cond:
-            if self._limit < self._max:
+            if self._limit >= self._effective_max:
+                return
+            if self._reached_max:
                 self._limit += 1
-                self._count += 1
-                logger.debug("AdaptiveSemaphore: success → limit=%d", self._limit)
-                cond.notify()
+            else:
+                self._limit = min(self._limit * 2, self._effective_max)
+            self._limit = min(self._limit, self._effective_max)
+            if self._limit >= self._max:
+                self._reached_max = True
+            self._count += 1
+            logger.debug("AdaptiveSemaphore: success → limit=%d", self._limit)
+            cond.notify()
 
     async def report_failure(self) -> None:
         cond = self._get_cond()
         async with cond:
             old = self._limit
-            self._limit = max(self._min, self._limit // 2)
-            # If we reduced permits below current count, absorb the excess
+            level = self._limit
+            hits = self._fail_levels.get(level, 0) + 1
+            self._fail_levels[level] = hits
+            if hits >= self._fail_ceiling_hits and level - 1 < self._effective_max:
+                self._effective_max = max(level - 1, self._min)
+                logger.info(
+                    "AdaptiveSemaphore: failure ceiling confirmed at %d "
+                    "(%d hits) → effective_max=%d",
+                    level, hits, self._effective_max,
+                )
+            self._limit = max(self._min, self._limit - 1)
             excess = self._count - self._limit
             if excess > 0:
                 self._count = self._limit
@@ -192,6 +228,10 @@ class LLMConfig:
 
     max_concurrent: int = 5
     """Maximum number of in-flight HTTP requests."""
+
+    initial_concurrent: int = 1
+    """Starting concurrency level.  The adaptive semaphore ramps up from
+    this value toward *max_concurrent* on success."""
 
     system_prompt: str = field(default_factory=lambda: DEFAULT_SYSTEM_PROMPT)
     user_prompt_template: str = field(default_factory=lambda: DEFAULT_USER_PROMPT_TEMPLATE)
@@ -606,7 +646,7 @@ async def _evaluate_batch(
 ) -> list[FilterResult]:
     """Evaluate a batch of papers concurrently via the LLM."""
     semaphore = AdaptiveSemaphore(
-        initial=config.max_concurrent,
+        initial=config.initial_concurrent,
         min_limit=1,
         max_limit=config.max_concurrent,
     )

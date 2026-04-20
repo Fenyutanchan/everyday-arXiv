@@ -167,6 +167,7 @@ llm:
   model_env: LLM_MODEL                  # Env var override / 环境变量覆盖
   api_key_env: LLM_API_KEY
   max_concurrent: 3                     # Max parallel requests / 最大并发请求数
+  initial_concurrent: 1                 # Starting concurrency / 起始并发数（自动爬升）
 
   max_retries: 3                        # Unified retry for HTTP/timeout/parse / 统一重试次数
   max_backoff: 32                       # Max backoff delay in seconds / 最大退避延迟（秒）
@@ -253,9 +254,16 @@ All retry scenarios are controlled by a single `max_retries` / `max_backoff` pai
 | **Empty response content** | Same unified retry / 同样走统一重试 |
 | **JSON parse failure** | Retry with a correction hint appended to prompt / 附加修正提示后重试 |
 
-The adaptive semaphore reduces concurrency on failure and recovers on success.
+The adaptive semaphore (inspired by TCP congestion control) adjusts concurrency:
 
-> 自适应信号量在失败时自动降低并发，成功时逐步恢复。
+> 自适应信号量（参考 TCP 拥塞控制）自动调节并发：
+
+| Event / 事件 | Action / 动作 |
+|---|---|
+| **Success** (probe phase) | `limit = limit × 2` — fast ramp-up / 快速爬升 |
+| **Success** (stable phase, after reaching max) | `limit += 1` — linear growth / 线性增长 |
+| **Failure** | `limit -= 1` — gentle back-off / 温和回退 |
+| **Same level fails 3 times** | Ceiling confirmed — effective max capped at `level - 1` / 确认上限，封顶 |
 
 **Unevaluated papers** — if all retries are exhausted, the paper is **included in output** with `evaluated=false` so it is never silently lost.  Run `refilter` to retry later.
 

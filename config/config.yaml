@@ -63,9 +63,12 @@ llm:
 
   # Maximum concurrent requests to the LLM endpoint.
   # 发往 LLM 端点的最大并发请求数。
-  # Lower this if you hit rate limits; raise it for faster processing.
-  # 如果触发限流则降低此值；要提高处理速度则增大此值。
   max_concurrent: 3
+
+  # Starting concurrency level.  The adaptive semaphore ramps up from this
+  # value toward max_concurrent on success.  Set to 1 for reasoning models.
+  # 起始并发数。自适应信号量在成功后逐步爬升到 max_concurrent。推理模型建议设 1。
+  initial_concurrent: 1
 
   # Unified retry count for all failures (HTTP 429/5xx, timeout, empty content,
   # JSON parse).  Actual delay = min(2^attempt, max_backoff).

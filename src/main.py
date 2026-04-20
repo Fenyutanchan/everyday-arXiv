@@ -72,6 +72,7 @@ def build_llm_config(cfg: dict) -> LLMConfig:
         model_env=model_env,
         api_key_env=llm.get("api_key_env", "LLM_API_KEY"),
         max_concurrent=llm.get("max_concurrent", 5),
+        initial_concurrent=llm.get("initial_concurrent", 1),
         max_retries=llm.get("max_retries", 3),
         max_backoff=llm.get("max_backoff", 32.0),
         max_tokens=llm.get("max_tokens", 2048),
