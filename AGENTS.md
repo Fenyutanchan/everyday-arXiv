@@ -1,9 +1,9 @@
 # Project Guidance / 项目指南
 
 Everyday arXiv — a daily arXiv paper fetcher with LLM-based relevance filtering.
-Full documentation: [`docs/index.md`](docs/index.md).
+Full documentation: [`docs/index.md`](docs/index.md) (deployed at [/guide/](https://fenyutanchan.github.io/everyday-arXiv/guide/)).
 
-> 每日 arXiv 论文获取与 LLM 智能筛选框架。完整文档：[`docs/index.md`](docs/index.md)。
+> 每日 arXiv 论文获取与 LLM 智能筛选框架。完整文档：[`docs/index.md`](docs/index.md)（部署在 [/guide/](https://fenyutanchan.github.io/everyday-arXiv/guide/)）。
 
 ## Setup / 环境搭建
 

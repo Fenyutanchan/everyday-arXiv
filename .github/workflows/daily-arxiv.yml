@@ -22,6 +22,10 @@ permissions:
 jobs:
   fetch-and-filter:
     runs-on: ubuntu-latest
+    env:
+      LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+      LLM_BASE_URL: ${{ vars.LLM_BASE_URL }}
+      LLM_MODEL: ${{ vars.LLM_MODEL }}
 
     steps:
       - uses: actions/checkout@v4
@@ -59,8 +63,6 @@ jobs:
           uv run python -m src.main fetch --days ${{ github.event.inputs.days || '1' }}
 
       - name: Filter papers with LLM
-        env:
-          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
         run: |
           DATE_ARG=""
           if [ -n "${{ github.event.inputs.date }}" ]; then
@@ -69,8 +71,6 @@ jobs:
           uv run python -m src.main filter $DATE_ARG
 
       - name: Refilter unevaluated papers
-        env:
-          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
         run: |
           DATE_ARG=""
           if [ -n "${{ github.event.inputs.date }}" ]; then
@@ -121,8 +121,9 @@ jobs:
 
       - name: Build docs and frontend
         run: |
-          uv run mkdocs build
+          mkdir -p site
           cp -r site-ui/* site/
+          uv run mkdocs build -d site/guide
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
