@@ -7,41 +7,83 @@
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
 body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;background:#0d1117;color:#c9d1d9;line-height:1.6}
+
 .container{max-width:960px;margin:0 auto;padding:20px}
-header{display:flex;align-items:center;justify-content:space-between;margin-bottom:24px;border-bottom:1px solid #30363d;padding-bottom:16px}
+
+header{display:flex;align-items:center;justify-content:space-between;margin-bottom:20px;border-bottom:1px solid #30363d;padding-bottom:16px}
 header h1{font-size:1.5em;color:#58a6ff}
-header a{color:#8b949e;text-decoration:none;font-size:.9em}
-.date-nav{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:16px}
-.date-nav button{padding:6px 14px;border:1px solid #30363d;border-radius:6px;background:#161b22;color:#c9d1d9;cursor:pointer;font-size:.85em}
-.date-nav button:hover,.date-nav button.active{background:#1f6feb;border-color:#1f6feb;color:#fff}
+header .header-right{display:flex;align-items:center;gap:16px}
+header a{color:#8b949e;text-decoration:none;font-size:.85em}
+header a:hover{color:#c9d1d9}
+
+.date-rail{display:flex;align-items:center;gap:4px;margin-bottom:16px;position:relative}
+.date-rail .arrow{background:none;border:1px solid #30363d;color:#8b949e;width:32px;height:32px;border-radius:6px;cursor:pointer;font-size:1em;display:flex;align-items:center;justify-content:center;flex-shrink:0}
+.date-rail .arrow:hover{background:#21262d;color:#c9d1d9}
+.date-rail .arrow:disabled{opacity:.3;cursor:default}
+.date-scroll{display:flex;gap:6px;overflow-x:auto;scroll-behavior:smooth;scrollbar-width:none;-ms-overflow-style:none;flex:1;padding:4px 0}
+.date-scroll::-webkit-scrollbar{display:none}
+.date-btn{display:flex;flex-direction:column;align-items:center;padding:6px 12px;border:1px solid #30363d;border-radius:8px;background:#161b22;color:#8b949e;cursor:pointer;font-size:.8em;white-space:nowrap;flex-shrink:0;min-width:64px;transition:all .15s ease}
+.date-btn:hover{background:#21262d;border-color:#484f58;color:#c9d1d9}
+.date-btn.active{background:#1f6feb22;border-color:#1f6feb;color:#58a6ff}
+.date-btn .day{font-weight:600;font-size:1em}
+.date-btn .weekday{font-size:.75em;opacity:.7;margin-top:1px}
+.date-btn .count{font-size:.7em;background:#30363d;color:#8b949e;padding:0 5px;border-radius:8px;margin-top:2px}
+.date-btn.active .count{background:#1f6feb44;color:#58a6ff}
+
 .tabs{display:flex;gap:0;margin-bottom:16px}
-.tabs button{padding:8px 20px;border:1px solid #30363d;background:#161b22;color:#8b949e;cursor:pointer;font-size:.9em}
+.tabs button{padding:8px 20px;border:1px solid #30363d;background:#161b22;color:#8b949e;cursor:pointer;font-size:.9em;transition:all .15s ease}
 .tabs button:first-child{border-radius:6px 0 0 6px}
 .tabs button:last-child{border-radius:0 6px 6px 0}
+.tabs button:hover{background:#21262d;color:#c9d1d9}
 .tabs button.active{background:#1f6feb;border-color:#1f6feb;color:#fff}
+
 .stats{font-size:.85em;color:#8b949e;margin-bottom:16px}
-.paper-card{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:16px;margin-bottom:12px}
-.paper-card .score{display:inline-block;background:#1f6feb33;color:#58a6ff;padding:2px 8px;border-radius:4px;font-weight:600;font-size:.85em;margin-right:8px}
-.paper-card .score.discard{background:#da363033;color:#f85149}
-.paper-card .title{font-weight:600;color:#c9d1d9;margin:6px 0}
-.paper-card .title a{color:#58a6ff;text-decoration:none}
-.paper-card .meta{font-size:.8em;color:#8b949e;margin-bottom:8px}
+
+.paper-card{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:16px 16px 12px;margin-bottom:10px;transition:border-color .15s ease}
+.paper-card:hover{border-color:#484f58}
+.paper-card .card-header{display:flex;align-items:center;gap:8px;margin-bottom:6px}
+.score{display:inline-flex;align-items:center;justify-content:center;background:#1f6feb33;color:#58a6ff;padding:2px 8px;border-radius:4px;font-weight:700;font-size:.85em;min-width:28px}
+.score.discard{background:#da363033;color:#f85149}
+.score.unevaluated{background:#d2992233;color:#d29922;font-weight:600;font-size:.7em}
+.paper-card .title{font-weight:600;font-size:1.05em}
+.paper-card .title a{color:#c9d1d9;text-decoration:none}
+.paper-card .title a:hover{color:#58a6ff}
+.paper-card .meta{font-size:.8em;color:#8b949e;margin-top:4px;display:flex;flex-wrap:wrap;gap:4px;align-items:center}
+.paper-card .meta .cat{background:#21262d;padding:1px 6px;border-radius:4px;font-size:.85em}
 .paper-card .reason{font-size:.85em;color:#8b949e;border-left:3px solid #30363d;padding-left:10px;margin-top:8px}
-.paper-card .abstract{font-size:.85em;color:#8b949e;margin-top:8px;max-height:0;overflow:hidden;transition:max-height .3s ease;cursor:pointer}
+.paper-card .abstract{font-size:.85em;color:#8b949e;margin-top:8px;max-height:0;overflow:hidden;transition:max-height .3s ease}
 .paper-card .abstract.open{max-height:600px}
-.paper-card .abstract-toggle{font-size:.8em;color:#58a6ff;cursor:pointer;margin-top:4px}
-.empty{color:#8b949e;text-align:center;padding:40px 0}
-.loading{color:#8b949e;text-align:center;padding:40px 0}
-.error{color:#f85149;text-align:center;padding:40px 0}
+.abstract-toggle{font-size:.8em;color:#58a6ff;cursor:pointer;margin-top:6px;display:inline-block}
+.abstract-toggle:hover{color:#79c0ff}
+
+.empty,.loading,.error{text-align:center;padding:48px 0;color:#8b949e}
+.error{color:#f85149}
+
+@media(max-width:600px){
+  .container{padding:12px}
+  .date-btn{padding:5px 8px;min-width:52px}
+  .date-btn .day{font-size:.9em}
+  .tabs button{padding:6px 14px;font-size:.85em}
+}
+
+@media(prefers-reduced-motion:reduce){
+  *{transition:none!important;scroll-behavior:auto!important}
+}
 </style>
 </head>
 <body>
 <div class="container">
   <header>
     <h1>Everyday arXiv</h1>
-    <a href="https://github.com/fytc/everyday-arxiv">GitHub</a>
+    <div class="header-right">
+      <a href="https://github.com/fytc/everyday-arxiv">GitHub</a>
+    </div>
   </header>
-  <div class="date-nav" id="dateNav"></div>
+  <div class="date-rail">
+    <button class="arrow" id="arrowLeft" onclick="scrollDates(-1)">◀</button>
+    <div class="date-scroll" id="dateScroll"></div>
+    <button class="arrow" id="arrowRight" onclick="scrollDates(1)">▶</button>
+  </div>
   <div class="tabs">
     <button id="tabRelevant" class="active" onclick="switchTab('relevant')">Relevant</button>
     <button id="tabTrash" onclick="switchTab('trash')">Discarded</button>
@@ -56,6 +98,20 @@ let currentDate = '';
 let currentTab = 'relevant';
 let relevantCache = {};
 let trashCache = {};
+let countCache = {};
+
+const WEEKDAYS = ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'];
+const MONTHS = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+
+function parseDate(s) {
+  const [y, m, d] = s.split('-').map(Number);
+  return new Date(y, m - 1, d);
+}
+
+function formatDate(s) {
+  const dt = parseDate(s);
+  return { day: dt.getDate(), weekday: WEEKDAYS[dt.getDay()], month: MONTHS[dt.getMonth()] };
+}
 
 async function loadDates() {
   try {
@@ -64,21 +120,75 @@ async function loadDates() {
   } catch {
     dates = [];
   }
-  const nav = document.getElementById('dateNav');
-  nav.innerHTML = '';
-  dates.slice().reverse().forEach(d => {
-    const btn = document.createElement('button');
-    btn.textContent = d;
-    btn.onclick = () => selectDate(d);
-    if (d === currentDate) btn.classList.add('active');
-    nav.appendChild(btn);
-  });
+  renderDateRail();
   if (!currentDate && dates.length) selectDate(dates[dates.length - 1]);
+}
+
+function renderDateRail() {
+  const scroll = document.getElementById('dateScroll');
+  scroll.innerHTML = '';
+  dates.slice().reverse().forEach(d => {
+    const f = formatDate(d);
+    const btn = document.createElement('button');
+    btn.className = 'date-btn' + (d === currentDate ? ' active' : '');
+    btn.dataset.date = d;
+    btn.innerHTML = `<span class="day">${f.day} ${f.month}</span><span class="weekday">${f.weekday}</span><span class="count" data-count-date="${d}">-</span>`;
+    btn.onclick = () => selectDate(d);
+    scroll.appendChild(btn);
+  });
+  preloadCounts();
+}
+
+async function preloadCounts() {
+  for (const d of dates) {
+    loadCount(d, 'relevant');
+    loadCount(d, 'trash');
+  }
+}
+
+async function loadCount(date, type) {
+  const key = `${type}:${date}`;
+  if (countCache[key] !== undefined) {
+    updateCountBadge(date);
+    return countCache[key];
+  }
+  try {
+    const resp = await fetch(`${DATA_BRANCH}/${type}/${date}.json`);
+    if (!resp.ok) { countCache[key] = 0; updateCountBadge(date); return 0; }
+    const data = await resp.json();
+    const n = (data.papers || []).length;
+    countCache[key] = n;
+    updateCountBadge(date);
+    return n;
+  } catch {
+    countCache[key] = 0;
+    updateCountBadge(date);
+    return 0;
+  }
+}
+
+function updateCountBadge(date) {
+  const rKey = `relevant:${date}`;
+  const tKey = `trash:${date}`;
+  const r = countCache[rKey] !== undefined ? countCache[rKey] : null;
+  const t = countCache[tKey] !== undefined ? countCache[tKey] : null;
+  const badge = document.querySelector(`[data-count-date="${date}"]`);
+  if (!badge) return;
+  if (r !== null && t !== null) badge.textContent = `${r}/${t}`;
+  else if (r !== null) badge.textContent = `${r}/-`;
+  else if (t !== null) badge.textContent = `-${t}`;
+}
+
+function scrollDates(dir) {
+  const scroll = document.getElementById('dateScroll');
+  scroll.scrollBy({ left: dir * 200 });
 }
 
 function selectDate(d) {
   currentDate = d;
-  document.querySelectorAll('.date-nav button').forEach(b => b.classList.toggle('active', b.textContent === d));
+  document.querySelectorAll('.date-btn').forEach(b => b.classList.toggle('active', b.dataset.date === d));
+  const btn = document.querySelector(`.date-btn[data-date="${d}"]`);
+  if (btn) btn.scrollIntoView({ behavior: 'smooth', inline: 'center', block: 'nearest' });
   render();
 }
 
@@ -112,20 +222,29 @@ async function render() {
   if (!data) { el.innerHTML = '<div class="empty">No data for this date</div>'; statsEl.textContent = ''; return; }
 
   const papers = data.papers || [];
-  statsEl.textContent = `${currentTab === 'relevant' ? 'Relevant' : 'Discarded'}: ${papers.length} papers — ${currentDate}`;
+  const f = formatDate(currentDate);
+  statsEl.textContent = `${currentTab === 'relevant' ? 'Relevant' : 'Discarded'}: ${papers.length} papers — ${f.weekday} ${f.day} ${f.month} ${currentDate.split('-')[0]}`;
 
   if (!papers.length) { el.innerHTML = '<div class="empty">No papers</div>'; return; }
 
   el.innerHTML = papers.map(p => {
     const r = p.relevance || {};
-    const scoreClass = (currentTab === 'trash' || !r.evaluated) ? 'score discard' : 'score';
-    const evalTag = r.evaluated ? '' : ' <span style="color:#f85149">[unevaluated]</span>';
+    let scoreHtml;
+    if (!r.evaluated) {
+      scoreHtml = '<span class="score unevaluated">NEW</span>';
+    } else if (currentTab === 'trash' || !r.evaluated) {
+      scoreHtml = '<span class="score discard">✕</span>';
+    } else {
+      scoreHtml = `<span class="score">${r.score ?? '-'}</span>`;
+    }
+    const cats = (p.categories || []).map(c => `<span class="cat">${esc(c)}</span>`).join('');
+    const authors = (p.authors || []).slice(0, 3).join(', ') + (p.authors?.length > 3 ? ' et al.' : '');
+    const reason = r.reason ? `<div class="reason">${esc(r.reason)}</div>` : '';
     return `<div class="paper-card">
-      <span class="${scoreClass}">${r.score ?? '-'}</span>
-      <span class="meta">${p.arxiv_id}</span>${evalTag}
-      <div class="title"><a href="${p.entry_url}" target="_blank">${esc(p.title)}</a></div>
-      <div class="meta">${(p.authors || []).slice(0, 3).join(', ')}${p.authors?.length > 3 ? ' et al.' : ''} · ${(p.categories || []).join(', ')}</div>
-      <div class="reason">${esc(r.reason || '')}</div>
+      <div class="card-header">${scoreHtml}<span style="font-size:.8em;color:#8b949e">${esc(p.arxiv_id || '')}</span></div>
+      <div class="title"><a href="${p.entry_url}" target="_blank" rel="noopener">${esc(p.title)}</a></div>
+      <div class="meta">${authors}${cats ? ' · ' + cats : ''}</div>
+      ${reason}
       <div class="abstract-toggle" onclick="toggleAbstract(this)">Show abstract ▾</div>
       <div class="abstract">${esc(p.abstract || '')}</div>
     </div>`;
@@ -139,6 +258,14 @@ function toggleAbstract(el) {
 }
 
 function esc(s) { const d = document.createElement('div'); d.textContent = s; return d.innerHTML; }
+
+document.addEventListener('keydown', e => {
+  if (!dates.length) return;
+  if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
+  const idx = dates.indexOf(currentDate);
+  if (e.key === 'ArrowLeft' && idx < dates.length - 1) { e.preventDefault(); selectDate(dates[idx + 1]); }
+  if (e.key === 'ArrowRight' && idx > 0) { e.preventDefault(); selectDate(dates[idx - 1]); }
+});
 
 loadDates();
 </script>
