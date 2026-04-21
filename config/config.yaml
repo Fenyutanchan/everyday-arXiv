@@ -79,7 +79,7 @@ llm:
   # Unified retry count for all failures (HTTP 429/5xx, timeout, empty content,
   # JSON parse).  Actual delay = min(2^attempt, max_backoff).
   # 统一重试次数，涵盖所有失败场景。实际延迟 = min(2^attempt, max_backoff)。
-  max_retries: 3
+  max_retries: 10
   max_backoff: 32
 
   # Maximum tokens in the LLM completion response.

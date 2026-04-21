@@ -59,7 +59,7 @@ class TestLLMConfigDefaults:
         assert cfg.max_content_chars == 50000
         assert cfg.borderline_min == 4
         assert cfg.borderline_max == 7
-        assert cfg.max_retries == 3
+        assert cfg.max_retries == 10
         assert cfg.max_backoff == 32.0
 
     def test_custom(self):

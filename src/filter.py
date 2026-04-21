@@ -342,7 +342,7 @@ class LLMConfig:
     borderline_max: int = 7
     """Maximum score (inclusive) to be considered borderline."""
 
-    max_retries: int = 3
+    max_retries: int = 10
     """Unified retry count for all retry scenarios: HTTP 429/5xx, timeouts,
     empty content, and JSON parse failures."""
 
