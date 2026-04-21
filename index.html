@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Everyday arXiv</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;background:#0d1117;color:#c9d1d9;line-height:1.6}
+.container{max-width:960px;margin:0 auto;padding:20px}
+header{display:flex;align-items:center;justify-content:space-between;margin-bottom:24px;border-bottom:1px solid #30363d;padding-bottom:16px}
+header h1{font-size:1.5em;color:#58a6ff}
+header a{color:#8b949e;text-decoration:none;font-size:.9em}
+.date-nav{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:16px}
+.date-nav button{padding:6px 14px;border:1px solid #30363d;border-radius:6px;background:#161b22;color:#c9d1d9;cursor:pointer;font-size:.85em}
+.date-nav button:hover,.date-nav button.active{background:#1f6feb;border-color:#1f6feb;color:#fff}
+.tabs{display:flex;gap:0;margin-bottom:16px}
+.tabs button{padding:8px 20px;border:1px solid #30363d;background:#161b22;color:#8b949e;cursor:pointer;font-size:.9em}
+.tabs button:first-child{border-radius:6px 0 0 6px}
+.tabs button:last-child{border-radius:0 6px 6px 0}
+.tabs button.active{background:#1f6feb;border-color:#1f6feb;color:#fff}
+.stats{font-size:.85em;color:#8b949e;margin-bottom:16px}
+.paper-card{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:16px;margin-bottom:12px}
+.paper-card .score{display:inline-block;background:#1f6feb33;color:#58a6ff;padding:2px 8px;border-radius:4px;font-weight:600;font-size:.85em;margin-right:8px}
+.paper-card .score.discard{background:#da363033;color:#f85149}
+.paper-card .title{font-weight:600;color:#c9d1d9;margin:6px 0}
+.paper-card .title a{color:#58a6ff;text-decoration:none}
+.paper-card .meta{font-size:.8em;color:#8b949e;margin-bottom:8px}
+.paper-card .reason{font-size:.85em;color:#8b949e;border-left:3px solid #30363d;padding-left:10px;margin-top:8px}
+.paper-card .abstract{font-size:.85em;color:#8b949e;margin-top:8px;max-height:0;overflow:hidden;transition:max-height .3s ease;cursor:pointer}
+.paper-card .abstract.open{max-height:600px}
+.paper-card .abstract-toggle{font-size:.8em;color:#58a6ff;cursor:pointer;margin-top:4px}
+.empty{color:#8b949e;text-align:center;padding:40px 0}
+.loading{color:#8b949e;text-align:center;padding:40px 0}
+.error{color:#f85149;text-align:center;padding:40px 0}
+</style>
+</head>
+<body>
+<div class="container">
+  <header>
+    <h1>Everyday arXiv</h1>
+    <a href="https://github.com/fytc/everyday-arxiv">GitHub</a>
+  </header>
+  <div class="date-nav" id="dateNav"></div>
+  <div class="tabs">
+    <button id="tabRelevant" class="active" onclick="switchTab('relevant')">Relevant</button>
+    <button id="tabTrash" onclick="switchTab('trash')">Discarded</button>
+  </div>
+  <div class="stats" id="stats"></div>
+  <div id="content"><div class="loading">Loading...</div></div>
+</div>
+<script>
+const DATA_BRANCH = 'https://raw.githubusercontent.com/fytc/everyday-arxiv/data';
+let dates = [];
+let currentDate = '';
+let currentTab = 'relevant';
+let relevantCache = {};
+let trashCache = {};
+
+async function loadDates() {
+  try {
+    const resp = await fetch(`${DATA_BRANCH}/dates.json`);
+    dates = await resp.json();
+  } catch {
+    dates = [];
+  }
+  const nav = document.getElementById('dateNav');
+  nav.innerHTML = '';
+  dates.slice().reverse().forEach(d => {
+    const btn = document.createElement('button');
+    btn.textContent = d;
+    btn.onclick = () => selectDate(d);
+    if (d === currentDate) btn.classList.add('active');
+    nav.appendChild(btn);
+  });
+  if (!currentDate && dates.length) selectDate(dates[dates.length - 1]);
+}
+
+function selectDate(d) {
+  currentDate = d;
+  document.querySelectorAll('.date-nav button').forEach(b => b.classList.toggle('active', b.textContent === d));
+  render();
+}
+
+function switchTab(tab) {
+  currentTab = tab;
+  document.getElementById('tabRelevant').classList.toggle('active', tab === 'relevant');
+  document.getElementById('tabTrash').classList.toggle('active', tab === 'trash');
+  render();
+}
+
+async function loadData(date, type) {
+  const cache = type === 'relevant' ? relevantCache : trashCache;
+  if (cache[date]) return cache[date];
+  try {
+    const resp = await fetch(`${DATA_BRANCH}/${type}/${date}.json`);
+    if (!resp.ok) return null;
+    const data = await resp.json();
+    cache[date] = data;
+    return data;
+  } catch {
+    return null;
+  }
+}
+
+async function render() {
+  const el = document.getElementById('content');
+  const statsEl = document.getElementById('stats');
+  if (!currentDate) { el.innerHTML = '<div class="empty">No data available</div>'; statsEl.textContent = ''; return; }
+
+  const data = await loadData(currentDate, currentTab);
+  if (!data) { el.innerHTML = '<div class="empty">No data for this date</div>'; statsEl.textContent = ''; return; }
+
+  const papers = data.papers || [];
+  statsEl.textContent = `${currentTab === 'relevant' ? 'Relevant' : 'Discarded'}: ${papers.length} papers — ${currentDate}`;
+
+  if (!papers.length) { el.innerHTML = '<div class="empty">No papers</div>'; return; }
+
+  el.innerHTML = papers.map(p => {
+    const r = p.relevance || {};
+    const scoreClass = (currentTab === 'trash' || !r.evaluated) ? 'score discard' : 'score';
+    const evalTag = r.evaluated ? '' : ' <span style="color:#f85149">[unevaluated]</span>';
+    return `<div class="paper-card">
+      <span class="${scoreClass}">${r.score ?? '-'}</span>
+      <span class="meta">${p.arxiv_id}</span>${evalTag}
+      <div class="title"><a href="${p.entry_url}" target="_blank">${esc(p.title)}</a></div>
+      <div class="meta">${(p.authors || []).slice(0, 3).join(', ')}${p.authors?.length > 3 ? ' et al.' : ''} · ${(p.categories || []).join(', ')}</div>
+      <div class="reason">${esc(r.reason || '')}</div>
+      <div class="abstract-toggle" onclick="toggleAbstract(this)">Show abstract ▾</div>
+      <div class="abstract">${esc(p.abstract || '')}</div>
+    </div>`;
+  }).join('');
+}
+
+function toggleAbstract(el) {
+  const abs = el.nextElementSibling;
+  abs.classList.toggle('open');
+  el.textContent = abs.classList.contains('open') ? 'Hide abstract ▴' : 'Show abstract ▾';
+}
+
+function esc(s) { const d = document.createElement('div'); d.textContent = s; return d.innerHTML; }
+
+loadDates();
+</script>
+</body>
+</html>
