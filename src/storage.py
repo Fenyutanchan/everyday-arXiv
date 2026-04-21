@@ -300,6 +300,9 @@ def save_trash(
 ) -> list[Path]:
     """Persist discarded papers (with rejection reasons) into a trash file.
 
+    Merges with any existing trash for *run_date* by ``base_id`` — new entries
+    are appended; existing entries with the same ``base_id`` are replaced.
+
     Parameters
     ----------
     discarded:
@@ -317,14 +320,28 @@ def save_trash(
     out = Path(output_dir)
     out.mkdir(parents=True, exist_ok=True)
 
-    paper_dicts = [_result_to_dict(r) for r in discarded]
+    new_dicts = [_result_to_dict(r) for r in discarded]
 
     path = out / f"{run_date}.json"
-    data = {"date": run_date, "total": len(paper_dicts), "papers": paper_dicts}
+    existing: list[dict] = []
+    if path.exists():
+        with open(path) as f:
+            existing = json.load(f).get("papers", [])
+
+    existing_index = {_base_id(p.get("arxiv_id", "")): i for i, p in enumerate(existing)}
+    for d in new_dicts:
+        base = d.get("base_id", _base_id(d.get("arxiv_id", "")))
+        if base in existing_index:
+            existing[existing_index[base]] = d
+        else:
+            existing.append(d)
+            existing_index[base] = len(existing) - 1
+
+    data = {"date": run_date, "total": len(existing), "papers": existing}
     with open(path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
-    logger.info("Saved %d discarded papers to %s", len(paper_dicts), path.name)
+    logger.info("Saved %d discarded papers to %s", len(existing), path.name)
     return [path]
 
 

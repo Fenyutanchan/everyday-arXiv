@@ -349,6 +349,43 @@ class TestSaveTrash:
         save_trash([_make_result(score=1)], run_date="2026-04-19", output_dir=trash_dir)
         assert trash_dir.is_dir()
 
+    def test_merges_with_existing_trash(self, tmp_path):
+        trash_dir = tmp_path / "trash"
+        save_trash(
+            [_make_result(score=1, arxiv_id="2604.00001v1"), _make_result(score=2, arxiv_id="2604.00002v1")],
+            run_date="2026-04-19",
+            output_dir=trash_dir,
+        )
+        save_trash(
+            [_make_result(score=3, arxiv_id="2604.00003v1")],
+            run_date="2026-04-19",
+            output_dir=trash_dir,
+        )
+
+        data = json.loads((trash_dir / "2026-04-19.json").read_text())
+        assert data["total"] == 3
+        ids = [p["base_id"] for p in data["papers"]]
+        assert "2604.00001" in ids
+        assert "2604.00002" in ids
+        assert "2604.00003" in ids
+
+    def test_replaces_existing_entry(self, tmp_path):
+        trash_dir = tmp_path / "trash"
+        save_trash(
+            [_make_result(score=1, arxiv_id="2604.00001v1")],
+            run_date="2026-04-19",
+            output_dir=trash_dir,
+        )
+        save_trash(
+            [_make_result(score=5, arxiv_id="2604.00001v1")],
+            run_date="2026-04-19",
+            output_dir=trash_dir,
+        )
+
+        data = json.loads((trash_dir / "2026-04-19.json").read_text())
+        assert data["total"] == 1
+        assert data["papers"][0]["relevance"]["score"] == 5
+
 
 class TestLatestRawDate:
     def test_returns_latest_date(self, tmp_path):

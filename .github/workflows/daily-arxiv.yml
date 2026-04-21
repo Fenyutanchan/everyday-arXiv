@@ -64,19 +64,25 @@ jobs:
 
       - name: Filter papers with LLM
         run: |
-          DATE_ARG=""
           if [ -n "${{ github.event.inputs.date }}" ]; then
-            DATE_ARG="--date ${{ github.event.inputs.date }}"
+            uv run python -m src.main filter --date ${{ github.event.inputs.date }}
+          else
+            ls data/*.json 2>/dev/null | sort -r | head -7 | while read f; do
+              d=$(basename "$f" .json)
+              uv run python -m src.main filter --date "$d"
+            done
           fi
-          uv run python -m src.main filter $DATE_ARG
 
       - name: Refilter unevaluated papers
         run: |
-          DATE_ARG=""
           if [ -n "${{ github.event.inputs.date }}" ]; then
-            DATE_ARG="--date ${{ github.event.inputs.date }}"
+            uv run python -m src.main refilter --date ${{ github.event.inputs.date }} || true
+          else
+            ls output/*.json 2>/dev/null | sort -r | head -7 | while read f; do
+              d=$(basename "$f" .json)
+              uv run python -m src.main refilter --date "$d" || true
+            done
           fi
-          uv run python -m src.main refilter $DATE_ARG || true
 
       - name: Cleanup old trash
         run: uv run python -m src.main cleanup --keep 7
