@@ -1,4 +1,5 @@
 import json
+import time
 
 import httpx
 import pytest
@@ -347,6 +348,25 @@ class TestCallLlm:
         assert result.evaluated is False
         assert "timeout" in result.reason.lower()
 
+    async def test_retry_waits_for_circuit_breaker(self, httpx_mock):
+        httpx_mock.add_response(url="https://api.openai.com/v1/chat/completions", status_code=429)
+        good_body = {"choices": [{"message": {"content": '{"relevant": true, "score": 8, "reason": "ok"}'}}]}
+        httpx_mock.add_response(url="https://api.openai.com/v1/chat/completions", json=good_body)
+
+        config = LLMConfig(max_retries=2)
+        paper = _make_paper()
+        sem = AdaptiveSemaphore(initial=1, min_limit=1, max_limit=3, cb_threshold=1)
+        for _ in range(1):
+            await sem.report_failure()
+        assert sem.circuit_state == _CircuitState.OPEN
+        sem._cb_open_until = time.monotonic() + 0.05
+
+        async with httpx.AsyncClient() as client:
+            result = await _call_llm(client, config, paper, "test-key", semaphore=sem)
+
+        assert result.score == 8
+        assert result.evaluated is True
+
 
 class TestAdaptiveSemaphore:
     async def test_acquire_release(self):
@@ -459,6 +479,20 @@ class TestCircuitBreaker:
         await sem.report_failure()
         assert sem.circuit_state == _CircuitState.OPEN
         assert sem._cb_open_count == 2
+
+    async def test_wait_if_circuit_open_returns_immediately_when_closed(self):
+        sem = AdaptiveSemaphore(initial=1, min_limit=1, max_limit=5, cb_threshold=3)
+        assert sem.circuit_state == _CircuitState.CLOSED
+        await sem.wait_if_circuit_open()
+
+    async def test_wait_if_circuit_open_blocks_until_half_open(self):
+        sem = AdaptiveSemaphore(initial=1, min_limit=1, max_limit=5, cb_threshold=3)
+        for _ in range(3):
+            await sem.report_failure()
+        assert sem.circuit_state == _CircuitState.OPEN
+        sem._cb_open_until = time.monotonic() + 0.05
+        await sem.wait_if_circuit_open()
+        assert sem.circuit_state == _CircuitState.HALF_OPEN
 
 
 class TestFilterPapers:

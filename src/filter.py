@@ -124,6 +124,28 @@ class AdaptiveSemaphore:
                 await cond.wait()
             self._count -= 1
 
+    async def wait_if_circuit_open(self) -> None:
+        """Block until the circuit breaker is no longer OPEN.
+
+        Unlike ``acquire()``, this does not consume a semaphore slot.  Use it
+        in retry loops where the caller already holds a slot but should respect
+        the circuit breaker cooldown.
+        """
+        cond = self._get_cond()
+        async with cond:
+            while self._cb_state == _CircuitState.OPEN:
+                now = time.monotonic()
+                if now >= self._cb_open_until:
+                    self._cb_state = _CircuitState.HALF_OPEN
+                    logger.info("AdaptiveSemaphore: circuit HALF_OPEN — probing")
+                    return
+                remaining = self._cb_open_until - now
+                logger.info(
+                    "AdaptiveSemaphore: retry blocked by circuit — waiting %.0fs",
+                    remaining,
+                )
+                await asyncio.sleep(remaining)
+
     async def release(self) -> None:
         cond = self._get_cond()
         async with cond:
@@ -638,6 +660,8 @@ async def _call_llm(
 
     attempt = 0
     while attempt <= config.max_retries:
+        if attempt > 0 and semaphore:
+            await semaphore.wait_if_circuit_open()
         resp, terminal = await _send_llm(
             client, config, api_key, messages, paper, semaphore, attempt, pass_number,
         )
