@@ -106,13 +106,11 @@ jobs:
 
           DATA_DIR=$(mktemp -d)
 
-          # Create or reset orphan data branch
           git worktree add "$DATA_DIR" --detach 2>/dev/null
           cd "$DATA_DIR"
           git checkout --orphan data
           git rm -rf . 2>/dev/null || true
 
-          # Copy data files from main worktree
           cp -r "$GITHUB_WORKSPACE/relevant" . 2>/dev/null || true
           cp -r "$GITHUB_WORKSPACE/trash" . 2>/dev/null || true
           cp -r "$GITHUB_WORKSPACE/data" . 2>/dev/null || true
@@ -131,8 +129,21 @@ jobs:
           cp -r site-ui/* site/
           uv run mkdocs build -d site/guide
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./site
+          path: site
+
+  deploy-pages:
+    needs: fetch-and-filter
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deploy
+        uses: actions/deploy-pages@v4
