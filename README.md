@@ -1,8 +1,8 @@
 # Everyday arXiv
 
-Daily arXiv paper fetcher with LLM-based relevance filtering.  **[Full documentation →](https://fenyutanchan.github.io/everyday-arXiv/guide/)**
+Daily arXiv paper fetcher with LLM-based relevance filtering.  **[Full documentation →](https://fytc.ac/guide/)**
 
-> 每日 arXiv 论文获取与 LLM 智能筛选框架。**[完整文档 →](https://fenyutanchan.github.io/everyday-arXiv/guide/)**
+> 每日 arXiv 论文获取与 LLM 智能筛选框架。**[完整文档 →](https://fytc.ac/guide/)**
 
 ```bash
 uv sync

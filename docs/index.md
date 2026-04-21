@@ -30,8 +30,8 @@
 ### Install / 安装
 
 ```bash
-git clone https://github.com/<your-username>/everyday-arxiv.git
-cd everyday-arxiv
+git clone https://github.com/Fenyutanchan/everyday-arXiv.git
+cd everyday-arXiv
 
 # Runtime only / 仅运行时
 uv sync
