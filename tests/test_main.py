@@ -101,6 +101,12 @@ class TestCmdFetch:
             with pytest.raises(SystemExit):
                 await cmd_fetch(cfg, days=1)
 
+    async def test_fetch_failure_returns_empty(self, tmp_path):
+        with patch("src.main.fetch_papers", side_effect=Exception("API error")):
+            cfg = {"categories": ["hep-ph"], "output": {"dir": str(tmp_path)}}
+            paths = await cmd_fetch(cfg, days=1)
+        assert paths == []
+
 
 class TestCmdFilter:
     async def test_reads_raw_and_saves_filtered(self, tmp_path):

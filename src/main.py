@@ -109,9 +109,18 @@ async def cmd_fetch(cfg: dict, days: int = 1) -> list[Path]:
     categories = cfg.get("categories", ["hep-ph"])
     fetch_opts = cfg.get("fetch", {})
     page_size = fetch_opts.get("page_size", 100)
+    num_retries = fetch_opts.get("num_retries", 3)
+    delay_seconds = fetch_opts.get("delay_seconds", 3.0)
 
     logger.info("Fetching papers from categories: %s (last %d days)", categories, days)
-    papers = fetch_papers(categories, days=days, page_size=page_size)
+    try:
+        papers = fetch_papers(
+            categories, days=days, page_size=page_size,
+            num_retries=num_retries, delay_seconds=delay_seconds,
+        )
+    except Exception:
+        logger.exception("Fetch failed")
+        return []
     logger.info("Fetched %d papers", len(papers))
 
     if not papers:

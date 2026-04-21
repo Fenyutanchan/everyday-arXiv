@@ -20,6 +20,12 @@ fetch:
   # Total papers are NOT capped — the client auto-paginates until it exits the date window.
   # 每次 API 请求的结果数（控制分页粒度）。总论文数无上限——客户端自动翻页直到超出日期窗口。
   page_size: 100
+  # Retry count for arXiv API errors (HTTP 429/5xx, empty responses).
+  # arXiv API 错误重试次数（HTTP 429/5xx、空响应）。
+  num_retries: 5
+  # Delay between retries in seconds.
+  # 重试间隔（秒）。
+  delay_seconds: 5.0
 
 # Output settings / 输出设置
 output:

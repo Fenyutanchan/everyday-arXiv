@@ -96,6 +96,8 @@ def fetch_papers(
     categories: list[str],
     days: int = 1,
     page_size: int = 100,
+    num_retries: int = 3,
+    delay_seconds: float = 3.0,
 ) -> list[Paper]:
     """Fetch recent arXiv papers from the given categories.
 
@@ -116,6 +118,10 @@ def fetch_papers(
     page_size:
         Number of results per API request (passed to :class:`arxiv.Client`).
         Controls granularity of pagination; does **not** limit total results.
+    num_retries:
+        Number of retries for arXiv API errors (HTTP 429/5xx, empty responses).
+    delay_seconds:
+        Delay between retries in seconds.
 
     Returns
     -------
@@ -130,7 +136,11 @@ def fetch_papers(
         - datetime.timedelta(days=days)
     ).strftime("%Y%m%d%H%M%S")
 
-    client = arxiv.Client(page_size=page_size)
+    client = arxiv.Client(
+        page_size=page_size,
+        num_retries=num_retries,
+        delay_seconds=delay_seconds,
+    )
     search = arxiv.Search(
         query=query,
         max_results=10_000,
