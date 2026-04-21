@@ -28,7 +28,7 @@ output:
   raw_dir: data
   # Directory for filtered output (organized by filter run date).
   # 筛选输出目录（按筛选运行日期组织）。
-  filtered_dir: output
+  filtered_dir: relevant
   # Directory for discarded papers with rejection reasons.
   # 被筛掉的论文（含拒绝理由）的输出目录。
   trash_dir: trash

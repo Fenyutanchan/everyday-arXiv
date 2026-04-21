@@ -273,7 +273,7 @@ class TestSaveFiltered:
 class TestRawFilteredIsolation:
     def test_raw_and_filtered_do_not_interfere(self, tmp_path):
         raw_dir = tmp_path / "data"
-        filtered_dir = tmp_path / "output"
+        filtered_dir = tmp_path / "relevant"
         raw_dir.mkdir()
         filtered_dir.mkdir()
 

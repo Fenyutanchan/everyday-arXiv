@@ -19,7 +19,7 @@ Two tiers of data
 **Raw** (``data/YYYY-MM-DD.json``)
     Fetched directly from arXiv.  Each paper dict has no ``relevance`` field.
 
-**Filtered** (``output/YYYY-MM-DD.json``)
+**Filtered** (``relevant/YYYY-MM-DD.json``)
     Produced by the LLM filter step.  Organized by **filter run date**, not
     article date.  Each paper dict additionally contains a ``relevance`` dict
     with ``relevant``, ``score``, ``reason``, ``pass_number``, and ``evaluated`` fields.
@@ -258,7 +258,7 @@ def save_papers(
 def save_filtered(
     results: list[FilterResult],
     run_date: str,
-    output_dir: str | Path = "output",
+    output_dir: str | Path = "relevant",
 ) -> list[Path]:
     """Persist LLM-filtered papers into a single file keyed by *run_date*.
 
@@ -364,7 +364,7 @@ def latest_raw_date(output_dir: str | Path = "data") -> str | None:
     return dates[-1] if dates else None
 
 
-def load_filtered(date_str: str, output_dir: str | Path = "output") -> list[dict]:
+def load_filtered(date_str: str, output_dir: str | Path = "relevant") -> list[dict]:
     """Load filtered paper dicts for a given run date."""
     path = Path(output_dir) / f"{date_str}.json"
     if path.exists():
@@ -373,7 +373,7 @@ def load_filtered(date_str: str, output_dir: str | Path = "output") -> list[dict
     return []
 
 
-def load_all_filtered(output_dir: str | Path = "output") -> list[dict]:
+def load_all_filtered(output_dir: str | Path = "relevant") -> list[dict]:
     """Load all filtered paper dicts from every run-date file.
 
     Returns papers sorted by file date (oldest first) so that later runs

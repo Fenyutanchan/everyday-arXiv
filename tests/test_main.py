@@ -121,7 +121,7 @@ class TestCmdFilter:
         with patch("src.main.filter_papers", new_callable=AsyncMock, return_value=mock_outcome), \
              patch.dict("os.environ", {"LLM_API_KEY": "sk-test"}):
             cfg = {
-                "output": {"raw_dir": str(tmp_path), "filtered_dir": str(tmp_path / "output")},
+                "output": {"raw_dir": str(tmp_path), "filtered_dir": str(tmp_path / "relevant")},
                 "llm": {
                     "research_profile": "I like physics.",
                     "api_key_env": "LLM_API_KEY",

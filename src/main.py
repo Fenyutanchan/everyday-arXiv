@@ -153,7 +153,7 @@ async def cmd_filter(cfg: dict, date_str: str | None = None) -> list[Path]:
         sys.exit(1)
 
     raw_dir = cfg.get("output", {}).get("raw_dir", cfg.get("output", {}).get("dir", "data"))
-    filtered_dir = cfg.get("output", {}).get("filtered_dir", "output")
+    filtered_dir = cfg.get("output", {}).get("filtered_dir", "relevant")
     trash_dir = cfg.get("output", {}).get("trash_dir", "trash")
 
     if date_str:
@@ -275,7 +275,7 @@ async def cmd_refilter(cfg: dict, date_str: str | None = None) -> list[Path]:
         logger.error("%s not set — cannot refilter", llm_config.api_key_env)
         sys.exit(1)
 
-    filtered_dir = cfg.get("output", {}).get("filtered_dir", "output")
+    filtered_dir = cfg.get("output", {}).get("filtered_dir", "relevant")
     trash_dir = cfg.get("output", {}).get("trash_dir", "trash")
 
     if date_str:

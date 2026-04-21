@@ -38,7 +38,7 @@ jobs:
           if git rev-parse --verify origin/data >/dev/null 2>&1; then
             TMP=$(mktemp -d)
             git worktree add "$TMP" origin/data
-            cp -r "$TMP/output" . 2>/dev/null || true
+            cp -r "$TMP/relevant" . 2>/dev/null || true
             cp -r "$TMP/trash" . 2>/dev/null || true
             cp -r "$TMP/data" . 2>/dev/null || true
             git worktree remove "$TMP"
@@ -78,7 +78,7 @@ jobs:
           if [ -n "${{ github.event.inputs.date }}" ]; then
             uv run python -m src.main refilter --date ${{ github.event.inputs.date }} || true
           else
-            ls output/*.json 2>/dev/null | sort -r | head -7 | while read f; do
+            ls relevant/*.json 2>/dev/null | sort -r | head -7 | while read f; do
               d=$(basename "$f" .json)
               uv run python -m src.main refilter --date "$d" || true
             done
@@ -93,7 +93,7 @@ jobs:
           import json, glob
           dates = sorted(set(
               f.split('/')[-1].replace('.json','')
-              for f in glob.glob('output/*.json')
+              for f in glob.glob('relevant/*.json')
           ))
           with open('dates.json','w') as f:
               json.dump(dates[-90:], f)
@@ -113,7 +113,7 @@ jobs:
           git rm -rf . 2>/dev/null || true
 
           # Copy data files from main worktree
-          cp -r "$GITHUB_WORKSPACE/output" . 2>/dev/null || true
+          cp -r "$GITHUB_WORKSPACE/relevant" . 2>/dev/null || true
           cp -r "$GITHUB_WORKSPACE/trash" . 2>/dev/null || true
           cp -r "$GITHUB_WORKSPACE/data" . 2>/dev/null || true
           cp "$GITHUB_WORKSPACE/dates.json" . 2>/dev/null || true
