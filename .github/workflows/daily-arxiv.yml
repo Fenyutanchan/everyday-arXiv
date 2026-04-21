@@ -6,11 +6,11 @@ on:
   workflow_dispatch:
     inputs:
       days:
-        description: "Number of days to look back"
+        description: "Fetch window in days (only used when date is blank)"
         required: false
         default: "7"
       date:
-        description: "Date to filter (YYYY-MM-DD, default: today)"
+        description: "Specific date to filter (YYYY-MM-DD). Leave blank to process the latest 7 dates."
         required: false
         default: ""
 
