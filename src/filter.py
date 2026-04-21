@@ -117,7 +117,10 @@ class AdaptiveSemaphore:
                         "AdaptiveSemaphore: circuit OPEN — waiting %.0fs",
                         remaining,
                     )
-                    await asyncio.sleep(remaining)
+                    try:
+                        await asyncio.wait_for(cond.wait(), timeout=remaining)
+                    except asyncio.TimeoutError:
+                        pass
                     continue
                 if self._count > 0:
                     break
@@ -144,7 +147,10 @@ class AdaptiveSemaphore:
                     "AdaptiveSemaphore: retry blocked by circuit — waiting %.0fs",
                     remaining,
                 )
-                await asyncio.sleep(remaining)
+                try:
+                    await asyncio.wait_for(cond.wait(), timeout=remaining)
+                except asyncio.TimeoutError:
+                    pass
 
     async def release(self) -> None:
         cond = self._get_cond()

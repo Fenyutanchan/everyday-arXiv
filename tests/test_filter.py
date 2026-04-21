@@ -1,3 +1,4 @@
+import asyncio
 import json
 import time
 
@@ -298,10 +299,10 @@ class TestCallLlm:
 
     async def test_empty_content_all_retries_exhausted(self, httpx_mock):
         empty_body = {"choices": [{"message": {"content": ""}}]}
-        for _ in range(1 + LLMConfig().max_retries):
+        config = LLMConfig(max_retries=2, max_backoff=0.01)
+        for _ in range(1 + config.max_retries):
             httpx_mock.add_response(url="https://api.openai.com/v1/chat/completions", json=empty_body)
 
-        config = LLMConfig()
         paper = _make_paper()
         async with httpx.AsyncClient() as client:
             result = await _call_llm(client, config, paper, "test-key")
@@ -493,6 +494,32 @@ class TestCircuitBreaker:
         sem._cb_open_until = time.monotonic() + 0.05
         await sem.wait_if_circuit_open()
         assert sem.circuit_state == _CircuitState.HALF_OPEN
+
+    async def test_lock_released_during_circuit_breaker_wait(self):
+        sem = AdaptiveSemaphore(initial=1, min_limit=1, max_limit=5, cb_threshold=1)
+        await sem.report_failure()
+        assert sem.circuit_state == _CircuitState.OPEN
+        sem._cb_open_until = time.monotonic() + 0.1
+
+        done = asyncio.Event()
+
+        async def acquire_task():
+            await sem.acquire()
+            done.set()
+            await sem.release()
+
+        task = asyncio.create_task(acquire_task())
+        await asyncio.sleep(0.01)
+
+        await sem.release()
+
+        await asyncio.wait_for(done.wait(), timeout=0.3)
+        assert sem.circuit_state == _CircuitState.HALF_OPEN
+        task.cancel()
+        try:
+            await task
+        except asyncio.CancelledError:
+            pass
 
 
 class TestFilterPapers:
