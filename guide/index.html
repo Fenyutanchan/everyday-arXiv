@@ -1,0 +1,1850 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Daily arXiv paper fetcher with LLM-based relevance filtering">
+      
+      
+      
+        <link rel="canonical" href="https://fenyutanchan.github.io/everyday-arXiv/">
+      
+      
+      
+      
+        
+      
+      
+      <link rel="icon" href="assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.6">
+    
+    
+      
+        <title>Everyday arXiv</title>
+      
+    
+    
+      <link rel="stylesheet" href="assets/stylesheets/main.484c7ddc.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL(".",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#everyday-arxiv" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="." title="Everyday arXiv" class="md-header__button md-logo" aria-label="Everyday arXiv" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Everyday arXiv
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Home
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/Fenyutanchan/everyday-arXiv" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    
+  
+  
+    <li class="md-tabs__item md-tabs__item--active">
+      <a href="." class="md-tabs__link">
+        
+  
+  
+    
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="." title="Everyday arXiv" class="md-nav__button md-logo" aria-label="Everyday arXiv" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Everyday arXiv
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/Fenyutanchan/everyday-arXiv" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="." class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#features" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Features / 功能特性
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#installation" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Installation / 安装
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Installation / 安装">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#prerequisites" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Prerequisites / 前置条件
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#install" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Install / 安装
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#local-api-key" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Local API Key / 本地密钥管理
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#usage" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Usage / 使用方法
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Usage / 使用方法">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#fetch-fetch-papers-from-arxiv" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        fetch — Fetch papers from arXiv
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#filter-run-llm-filter-on-saved-data" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        filter — Run LLM filter on saved data
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#refilter-re-evaluate-failed-papers" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        refilter — Re-evaluate failed papers
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#cleanup-remove-old-trash-files" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        cleanup — Remove old trash files
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#configuration" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Configuration / 配置说明
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Configuration / 配置说明">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#tuning-the-research-profile" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tuning the Research Profile / 调优研究兴趣描述
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#using-non-openai-providers-openai" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Using Non-OpenAI Providers / 使用非 OpenAI 提供商
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#filtering-pipeline" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Filtering Pipeline / 筛选流程
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Filtering Pipeline / 筛选流程">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#pass-1-quick-screen" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Pass 1 — Quick Screen / 第一轮：快速筛选
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#pass-2-deep-review" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Pass 2 — Deep Review / 第二轮：深度复审
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#retry-adaptive-concurrency" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Retry &amp; Adaptive Concurrency / 重试与自适应并发
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#reasoning-model-support" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Reasoning Model Support / 推理模型支持
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#flow-diagram" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Flow Diagram / 流程图
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#storage-model" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Storage Model / 存储模型
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Storage Model / 存储模型">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#three-directories" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Three Directories / 三个目录
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#raw-filing-rules" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Raw Filing Rules / 原始归档规则
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#filtered-output" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Filtered Output / 筛选输出
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#discarded-papers" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Discarded Papers / 被丢弃的论文
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#incremental-filtering" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Incremental Filtering / 增量筛选
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#directory-example" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Directory Example / 目录示例
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#output-format" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Output Format / 输出格式
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#data-code-branch-separation" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Data / Code Branch Separation / 数据与代码分支分离
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#github-actions" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        GitHub Actions / 自动化
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="GitHub Actions / 自动化">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#pipeline-steps" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Pipeline Steps / 工作流步骤
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#required-secrets-secrets" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Required Secrets / 必须配置的 Secrets
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#manual-trigger" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Manual Trigger / 手动触发
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#project-structure" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Project Structure / 项目结构
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#license" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        License
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#features" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Features / 功能特性
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#installation" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Installation / 安装
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Installation / 安装">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#prerequisites" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Prerequisites / 前置条件
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#install" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Install / 安装
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#local-api-key" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Local API Key / 本地密钥管理
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#usage" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Usage / 使用方法
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Usage / 使用方法">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#fetch-fetch-papers-from-arxiv" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        fetch — Fetch papers from arXiv
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#filter-run-llm-filter-on-saved-data" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        filter — Run LLM filter on saved data
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#refilter-re-evaluate-failed-papers" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        refilter — Re-evaluate failed papers
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#cleanup-remove-old-trash-files" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        cleanup — Remove old trash files
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#configuration" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Configuration / 配置说明
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Configuration / 配置说明">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#tuning-the-research-profile" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tuning the Research Profile / 调优研究兴趣描述
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#using-non-openai-providers-openai" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Using Non-OpenAI Providers / 使用非 OpenAI 提供商
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#filtering-pipeline" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Filtering Pipeline / 筛选流程
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Filtering Pipeline / 筛选流程">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#pass-1-quick-screen" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Pass 1 — Quick Screen / 第一轮：快速筛选
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#pass-2-deep-review" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Pass 2 — Deep Review / 第二轮：深度复审
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#retry-adaptive-concurrency" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Retry &amp; Adaptive Concurrency / 重试与自适应并发
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#reasoning-model-support" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Reasoning Model Support / 推理模型支持
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#flow-diagram" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Flow Diagram / 流程图
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#storage-model" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Storage Model / 存储模型
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Storage Model / 存储模型">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#three-directories" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Three Directories / 三个目录
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#raw-filing-rules" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Raw Filing Rules / 原始归档规则
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#filtered-output" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Filtered Output / 筛选输出
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#discarded-papers" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Discarded Papers / 被丢弃的论文
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#incremental-filtering" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Incremental Filtering / 增量筛选
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#directory-example" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Directory Example / 目录示例
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#output-format" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Output Format / 输出格式
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#data-code-branch-separation" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Data / Code Branch Separation / 数据与代码分支分离
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#github-actions" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        GitHub Actions / 自动化
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="GitHub Actions / 自动化">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#pipeline-steps" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Pipeline Steps / 工作流步骤
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#required-secrets-secrets" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Required Secrets / 必须配置的 Secrets
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#manual-trigger" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Manual Trigger / 手动触发
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#project-structure" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Project Structure / 项目结构
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#license" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        License
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+  
+  
+
+
+<h1 id="everyday-arxiv">Everyday arXiv</h1>
+<hr />
+<h2 id="features">Features / 功能特性</h2>
+<ul>
+<li><strong>Category-based fetching</strong> — monitor any arXiv category (e.g. <code>hep-ph</code>, <code>astro-ph.CO</code>, <code>gr-qc</code>).</li>
+<li><strong>LLM relevance filtering</strong> — describe your research interests in plain text; an LLM scores each paper 1–10 and decides relevance.</li>
+<li><strong>Decoupled pipeline</strong> — fetch and filter are separate steps.  Re-run the filter with a different profile without re-fetching.</li>
+<li><strong>Incremental filtering</strong> — already-evaluated papers are skipped on subsequent runs; only new, updated, or previously-failed papers are sent to the LLM.</li>
+<li><strong>Adaptive concurrency</strong> — automatically backs off on HTTP 429 rate-limit errors and recovers when the API stabilises.</li>
+<li><strong>Unified retry</strong> — single <code>max_retries</code> / <code>max_backoff</code> controls all retry scenarios (HTTP 429/5xx, timeouts, empty content, JSON parse failures).</li>
+<li><strong>Reasoning model support</strong> — auto-fallback from <code>reasoning_content</code> to <code>content</code> for models like GLM-5.1 / DeepSeek-R1.</li>
+<li><strong>Date-aware raw storage</strong> — papers are filed by first submission / latest update date with automatic intermediate cleanup.</li>
+<li><strong>Trash management</strong> — discarded papers saved with rejection reasons; auto-cleanup after N days.</li>
+<li><strong>Data/code branch separation</strong> — code lives on <code>main</code>; data lives on an orphan <code>data</code> branch.</li>
+<li><strong>Static frontend</strong> — vanilla JS SPA reads data from the <code>data</code> branch via <code>raw.githubusercontent.com</code>.</li>
+<li><strong>GitHub Actions</strong> — runs automatically every day at UTC 08:00, pushes data, and deploys GitHub Pages.</li>
+<li><strong>Any OpenAI-compatible API</strong> — swap <code>base_url</code> to use Azure, Ollama, Together AI, etc.</li>
+</ul>
+<hr />
+<h2 id="installation">Installation / 安装</h2>
+<h3 id="prerequisites">Prerequisites / 前置条件</h3>
+<ul>
+<li>Python ≥ 3.11</li>
+<li><a href="https://docs.astral.sh/uv/">uv</a> (recommended) or pip</li>
+</ul>
+<h3 id="install">Install / 安装</h3>
+<div class="highlight"><pre><span></span><code>git<span class="w"> </span>clone<span class="w"> </span>https://github.com/&lt;your-username&gt;/everyday-arxiv.git
+<span class="nb">cd</span><span class="w"> </span>everyday-arxiv
+
+<span class="c1"># Runtime only / 仅运行时</span>
+uv<span class="w"> </span>sync
+
+<span class="c1"># With test dependencies / 含测试依赖</span>
+uv<span class="w"> </span>sync<span class="w"> </span>--extra<span class="w"> </span>dev
+</code></pre></div>
+<h3 id="local-api-key">Local API Key / 本地密钥管理</h3>
+<div class="highlight"><pre><span></span><code>cp<span class="w"> </span>.env.example<span class="w"> </span>.env
+<span class="c1"># Edit .env with your values / 编辑 .env 填入你的配置</span>
+</code></pre></div>
+<p><code>.env</code> file:</p>
+<div class="highlight"><pre><span></span><code><span class="nv">LLM_API_KEY</span><span class="o">=</span>sk-...
+<span class="nv">LLM_BASE_URL</span><span class="o">=</span>https://api.openai.com/v1
+<span class="nv">LLM_MODEL</span><span class="o">=</span>gpt-4o-mini
+</code></pre></div>
+<p>Environment variables take priority over <code>config.yaml</code>.</p>
+<blockquote>
+<p>环境变量优先级高于配置文件。</p>
+</blockquote>
+<hr />
+<h2 id="usage">Usage / 使用方法</h2>
+<h3 id="fetch-fetch-papers-from-arxiv"><code>fetch</code> — Fetch papers from arXiv</h3>
+<div class="highlight"><pre><span></span><code><span class="c1"># Fetch papers from the last 1 day (default)</span>
+uv<span class="w"> </span>run<span class="w"> </span>python<span class="w"> </span>-m<span class="w"> </span>src.main<span class="w"> </span>fetch<span class="w"> </span>--days<span class="w"> </span><span class="m">1</span>
+
+<span class="c1"># Fetch papers from the last 3 days</span>
+uv<span class="w"> </span>run<span class="w"> </span>python<span class="w"> </span>-m<span class="w"> </span>src.main<span class="w"> </span>fetch<span class="w"> </span>--days<span class="w"> </span><span class="m">3</span>
+</code></pre></div>
+<table>
+<thead>
+<tr>
+<th>Flag</th>
+<th>Default</th>
+<th>Description / 描述</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>--days</code></td>
+<td><code>1</code></td>
+<td>How many days back to fetch / 回溯天数</td>
+</tr>
+<tr>
+<td><code>--config</code></td>
+<td><code>config/config.yaml</code></td>
+<td>Config file path / 配置文件路径</td>
+</tr>
+</tbody>
+</table>
+<p>No API key required.  Results are sorted by <strong>last updated date</strong> (descending), capturing both new submissions and recently replaced / cross-listed papers.  The client <strong>auto-paginates</strong> with no total cap — it keeps fetching until it encounters papers outside the date window.  Writes raw JSON to <code>data/YYYY-MM-DD.json</code>.</p>
+<blockquote>
+<p>无需 API 密钥。结果按<strong>最近更新日期</strong>降序排列，同时捕获新提交和最近替换/跨分类的论文。客户端<strong>自动翻页</strong>，总数无上限——持续获取直到遇到超出日期窗口的论文。输出原始数据到 <code>data/YYYY-MM-DD.json</code>。</p>
+</blockquote>
+<h3 id="filter-run-llm-filter-on-saved-data"><code>filter</code> — Run LLM filter on saved data</h3>
+<div class="highlight"><pre><span></span><code><span class="nb">export</span><span class="w"> </span><span class="nv">LLM_API_KEY</span><span class="o">=</span><span class="s2">&quot;sk-...&quot;</span>
+uv<span class="w"> </span>run<span class="w"> </span>python<span class="w"> </span>-m<span class="w"> </span>src.main<span class="w"> </span>filter<span class="w"> </span>--date<span class="w"> </span><span class="m">2026</span>-04-19
+
+<span class="c1"># Default date is today / 默认日期为今天</span>
+uv<span class="w"> </span>run<span class="w"> </span>python<span class="w"> </span>-m<span class="w"> </span>src.main<span class="w"> </span>filter
+</code></pre></div>
+<table>
+<thead>
+<tr>
+<th>Flag</th>
+<th>Default</th>
+<th>Description / 描述</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>--date</code></td>
+<td>today</td>
+<td>Date of raw data to filter (<code>YYYY-MM-DD</code>) / 要筛选的原始数据日期</td>
+</tr>
+<tr>
+<td><code>--config</code></td>
+<td><code>config/config.yaml</code></td>
+<td>Config file path / 配置文件路径</td>
+</tr>
+</tbody>
+</table>
+<p>Reads raw papers from <code>data/YYYY-MM-DD.json</code>, sends them to the LLM, and writes results to <code>output/YYYY-MM-DD.json</code> (organised by <strong>run date</strong>, not article date).</p>
+<p>Papers already successfully evaluated in previous runs are <strong>automatically skipped</strong> unless their <code>updated</code> field has changed.  Only new, updated, or previously-unevaluated papers consume LLM API calls.</p>
+<blockquote>
+<p>从 <code>data/</code> 读取原始论文，经 LLM 评估后写入 <code>output/YYYY-MM-DD.json</code>（按运行日期组织）。已成功评估的论文自动跳过，仅新论文、有更新的论文或上次评估失败的论文会调用 LLM。</p>
+</blockquote>
+<h3 id="refilter-re-evaluate-failed-papers"><code>refilter</code> — Re-evaluate failed papers</h3>
+<div class="highlight"><pre><span></span><code>uv<span class="w"> </span>run<span class="w"> </span>python<span class="w"> </span>-m<span class="w"> </span>src.main<span class="w"> </span>refilter<span class="w"> </span>--date<span class="w"> </span><span class="m">2026</span>-04-19
+</code></pre></div>
+<table>
+<thead>
+<tr>
+<th>Flag</th>
+<th>Default</th>
+<th>Description / 描述</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>--date</code></td>
+<td>today</td>
+<td>Date of filtered output to refilter (<code>YYYY-MM-DD</code>) / 要重新筛选的输出日期</td>
+</tr>
+<tr>
+<td><code>--config</code></td>
+<td><code>config/config.yaml</code></td>
+<td>Config file path / 配置文件路径</td>
+</tr>
+</tbody>
+</table>
+<p>Re-runs only papers marked <code>evaluated=false</code> from a previous filter run.  Already-evaluated papers are preserved.</p>
+<blockquote>
+<p>仅重新评估上次标记为 <code>evaluated=false</code> 的论文，已评估的保留不动。</p>
+</blockquote>
+<h3 id="cleanup-remove-old-trash-files"><code>cleanup</code> — Remove old trash files</h3>
+<div class="highlight"><pre><span></span><code><span class="c1"># Remove trash files older than 7 days (default)</span>
+uv<span class="w"> </span>run<span class="w"> </span>python<span class="w"> </span>-m<span class="w"> </span>src.main<span class="w"> </span>cleanup
+
+<span class="c1"># Keep trash files from the last 30 days</span>
+uv<span class="w"> </span>run<span class="w"> </span>python<span class="w"> </span>-m<span class="w"> </span>src.main<span class="w"> </span>cleanup<span class="w"> </span>--keep<span class="w"> </span><span class="m">30</span>
+</code></pre></div>
+<table>
+<thead>
+<tr>
+<th>Flag</th>
+<th>Default</th>
+<th>Description / 描述</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>--keep</code></td>
+<td><code>7</code></td>
+<td>Keep trash files from the last N days / 保留最近 N 天的 trash 文件</td>
+</tr>
+<tr>
+<td><code>--config</code></td>
+<td><code>config/config.yaml</code></td>
+<td>Config file path / 配置文件路径</td>
+</tr>
+</tbody>
+</table>
+<p>Scans <code>trash/YYYY-MM-DD.json</code> files and removes any older than the specified retention period.</p>
+<blockquote>
+<p>扫描 <code>trash/</code> 目录，删除超过保留期的文件。</p>
+</blockquote>
+<hr />
+<h2 id="configuration">Configuration / 配置说明</h2>
+<p>All settings live in <code>config/config.yaml</code>.</p>
+<blockquote>
+<p>所有配置在 <code>config/config.yaml</code> 中。</p>
+</blockquote>
+<div class="highlight"><pre><span></span><code><span class="nt">categories</span><span class="p">:</span>
+<span class="w">  </span><span class="p p-Indicator">-</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">hep-ph</span>
+<span class="w">  </span><span class="p p-Indicator">-</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">astro-ph.CO</span>
+<span class="w">  </span><span class="p p-Indicator">-</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">gr-qc</span>
+<span class="w">  </span><span class="p p-Indicator">-</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">hep-th</span>
+
+<span class="nt">fetch</span><span class="p">:</span>
+<span class="w">  </span><span class="nt">page_size</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">100</span><span class="w">         </span><span class="c1"># Results per API request / 每次 API 请求结果数（总数无上限）</span>
+
+<span class="nt">output</span><span class="p">:</span>
+<span class="w">  </span><span class="nt">raw_dir</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">data</span><span class="w">          </span><span class="c1"># Raw fetched data / 原始拉取数据</span>
+<span class="w">  </span><span class="nt">filtered_dir</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">output</span><span class="w">   </span><span class="c1"># Filtered results / 筛选结果</span>
+<span class="w">  </span><span class="nt">trash_dir</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">trash</span><span class="w">       </span><span class="c1"># Discarded papers with reasons / 被丢弃的论文（含理由）</span>
+
+<span class="nt">llm</span><span class="p">:</span>
+<span class="w">  </span><span class="nt">base_url</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">https://api.openai.com/v1</span>
+<span class="w">  </span><span class="nt">base_url_env</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">LLM_BASE_URL</span><span class="w">           </span><span class="c1"># Env var override / 环境变量覆盖</span>
+<span class="w">  </span><span class="nt">model</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">gpt-4o-mini</span>
+<span class="w">  </span><span class="nt">model_env</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">LLM_MODEL</span><span class="w">                  </span><span class="c1"># Env var override / 环境变量覆盖</span>
+<span class="w">  </span><span class="nt">api_key_env</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">LLM_API_KEY</span>
+<span class="w">  </span><span class="nt">max_concurrent</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">3</span><span class="w">                     </span><span class="c1"># Max parallel requests / 最大并发请求数</span>
+<span class="w">  </span><span class="nt">initial_concurrent</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">1</span><span class="w">                 </span><span class="c1"># Starting concurrency / 起始并发数（自动爬升）</span>
+
+<span class="w">  </span><span class="nt">max_retries</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">3</span><span class="w">                        </span><span class="c1"># Unified retry for HTTP/timeout/parse / 统一重试次数</span>
+<span class="w">  </span><span class="nt">max_backoff</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">32</span><span class="w">                       </span><span class="c1"># Max backoff delay in seconds / 最大退避延迟（秒）</span>
+<span class="w">  </span><span class="nt">max_tokens</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">4096</span><span class="w">                      </span><span class="c1"># Max completion tokens / 最大补全 token 数</span>
+<span class="w">                                          </span><span class="c1"># (2048+ for reasoning models / 推理模型建议 2048+)</span>
+
+<span class="w">  </span><span class="nt">timeout_connect</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">10</span><span class="w">                   </span><span class="c1"># TCP connect timeout / TCP 连接超时</span>
+<span class="w">  </span><span class="nt">timeout_read</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">60</span><span class="w">                      </span><span class="c1"># LLM response timeout / LLM 响应超时</span>
+<span class="w">  </span><span class="nt">timeout_write</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">10</span><span class="w">                     </span><span class="c1"># Request body send timeout / 请求体发送超时</span>
+<span class="w">  </span><span class="nt">timeout_pool</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">10</span><span class="w">                      </span><span class="c1"># Connection pool wait timeout / 连接池等待超时</span>
+
+<span class="w">  </span><span class="nt">use_html</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">true</span>
+<span class="w">  </span><span class="nt">use_pdf</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">false</span>
+<span class="w">  </span><span class="nt">max_content_chars</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">50000</span>
+
+<span class="w">  </span><span class="nt">borderline_min</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">4</span>
+<span class="w">  </span><span class="nt">borderline_max</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">7</span>
+
+<span class="w">  </span><span class="nt">research_profile_file</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">config/research_profile.md</span>
+<span class="w">  </span><span class="nt">research_profile</span><span class="p">:</span><span class="w"> </span><span class="p p-Indicator">|</span>
+<span class="w">    </span><span class="no">I am researching ...</span>
+</code></pre></div>
+<h3 id="tuning-the-research-profile">Tuning the Research Profile / 调优研究兴趣描述</h3>
+<p>Edit <code>config/research_profile.md</code> (or the inline <code>research_profile</code> in config).  Re-run <code>filter</code> — <strong>no need to re-fetch</strong>.</p>
+<blockquote>
+<p>编辑 <code>config/research_profile.md</code>（或配置中的内联 <code>research_profile</code>），重新运行 <code>filter</code> 即可——<strong>无需重新拉取</strong>。</p>
+</blockquote>
+<h3 id="using-non-openai-providers-openai">Using Non-OpenAI Providers / 使用非 OpenAI 提供商</h3>
+<p>Set environment variables (no config change needed):</p>
+<blockquote>
+<p>设置环境变量即可，无需改配置：</p>
+</blockquote>
+<div class="highlight"><pre><span></span><code><span class="nb">export</span><span class="w"> </span><span class="nv">LLM_BASE_URL</span><span class="o">=</span>http://localhost:11434/v1<span class="w">   </span><span class="c1"># Ollama</span>
+<span class="nb">export</span><span class="w"> </span><span class="nv">LLM_MODEL</span><span class="o">=</span>llama3
+</code></pre></div>
+<hr />
+<h2 id="filtering-pipeline">Filtering Pipeline / 筛选流程</h2>
+<p>The <code>filter</code> command uses a <strong>two-pass agent loop</strong> with <strong>adaptive concurrency</strong>.</p>
+<blockquote>
+<p><code>filter</code> 命令使用<strong>两轮 Agent 循环</strong>和<strong>自适应并发</strong>。</p>
+</blockquote>
+<h3 id="pass-1-quick-screen">Pass 1 — Quick Screen / 第一轮：快速筛选</h3>
+<p>Every paper is evaluated using <strong>title + abstract only</strong> — no full text is fetched. The LLM returns a score (1–10) and a relevance decision.</p>
+<blockquote>
+<p>每篇论文仅用<strong>标题+摘要</strong>评估，不拉取全文。LLM 返回 1–10 分和相关性判断。</p>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th>Score range / 分数范围</th>
+<th>Action / 处理方式</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>&gt; borderline_max</code> (e.g. 8–10)</td>
+<td><strong>Accepted</strong> — no further review / 直接通过</td>
+</tr>
+<tr>
+<td><code>borderline_min</code> – <code>borderline_max</code> (e.g. 4–7)</td>
+<td><strong>Borderline</strong> — proceeds to Pass 2 / 进入第二轮</td>
+</tr>
+<tr>
+<td><code>&lt; borderline_min</code> (e.g. 1–3)</td>
+<td><strong>Discarded</strong> / 丢弃</td>
+</tr>
+</tbody>
+</table>
+<h3 id="pass-2-deep-review">Pass 2 — Deep Review / 第二轮：深度复审</h3>
+<p>Borderline papers are <strong>re-evaluated with full text</strong> (HTML or PDF). The LLM gets the complete paper content alongside the abstract and makes a final relevance decision.</p>
+<blockquote>
+<p>边界论文会获取<strong>全文</strong>（HTML 或 PDF）后重新评估。LLM 结合完整论文内容做出最终判断。</p>
+</blockquote>
+<ul>
+<li><strong>PDF preferred over HTML</strong> when both are available.<blockquote>
+<p>PDF 和 HTML 同时可用时优先使用 PDF。</p>
+</blockquote>
+</li>
+<li>Full text is truncated to <code>max_content_chars</code> (default: 50 000 characters).<blockquote>
+<p>全文截断至 <code>max_content_chars</code>（默认 50 000 字符）。</p>
+</blockquote>
+</li>
+<li>If content fetching is disabled (<code>use_html: false</code>, <code>use_pdf: false</code>), Pass 2 still runs but without full text.<blockquote>
+<p>如果全文获取关闭，第二轮仍会运行但没有全文。</p>
+</blockquote>
+</li>
+</ul>
+<h3 id="retry-adaptive-concurrency">Retry &amp; Adaptive Concurrency / 重试与自适应并发</h3>
+<p>All retry scenarios are controlled by a single <code>max_retries</code> / <code>max_backoff</code> pair:</p>
+<blockquote>
+<p>所有重试场景由统一的 <code>max_retries</code> / <code>max_backoff</code> 控制：</p>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th>Failure type / 失败类型</th>
+<th>Behaviour / 行为</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>HTTP 429 / 5xx</strong></td>
+<td>Retry with exponential backoff (<code>delay = min(2^n, max_backoff)</code>) / 指数退避重试</td>
+</tr>
+<tr>
+<td><strong>Timeout</strong> (<code>httpx.ReadTimeout</code>, etc.)</td>
+<td>Same unified retry / 同样走统一重试</td>
+</tr>
+<tr>
+<td><strong>Empty response content</strong></td>
+<td>Same unified retry / 同样走统一重试</td>
+</tr>
+<tr>
+<td><strong>JSON parse failure</strong></td>
+<td>Retry with a correction hint appended to prompt / 附加修正提示后重试</td>
+</tr>
+</tbody>
+</table>
+<p>The adaptive semaphore (inspired by TCP congestion control) adjusts concurrency:</p>
+<blockquote>
+<p>自适应信号量（参考 TCP 拥塞控制）自动调节并发：</p>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th>Event / 事件</th>
+<th>Action / 动作</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Success</strong> (probe phase)</td>
+<td><code>limit = limit × 2</code> — fast ramp-up / 快速爬升</td>
+</tr>
+<tr>
+<td><strong>Success</strong> (stable phase, after reaching max)</td>
+<td><code>limit += 1</code> — linear growth / 线性增长</td>
+</tr>
+<tr>
+<td><strong>Failure</strong></td>
+<td><code>limit -= 1</code> — gentle back-off / 温和回退</td>
+</tr>
+<tr>
+<td><strong>Same level fails 3 times</strong></td>
+<td>Ceiling confirmed — effective max capped at <code>level - 1</code> / 确认上限，封顶</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Unevaluated papers</strong> — if all retries are exhausted, the paper is <strong>included in output</strong> with <code>evaluated=false</code> so it is never silently lost.  Run <code>refilter</code> to retry later.</p>
+<blockquote>
+<p><strong>未评估论文</strong> — 全部重试耗尽后以 <code>evaluated=false</code> 保留在输出中，不会静默丢失。后续可用 <code>refilter</code> 重新评估。</p>
+</blockquote>
+<h3 id="reasoning-model-support">Reasoning Model Support / 推理模型支持</h3>
+<p>For reasoning models (GLM-5.1, DeepSeek-R1, etc.) that put their output in <code>reasoning_content</code> instead of <code>content</code>, the filter automatically falls back to parsing JSON from <code>reasoning_content</code>.  Set <code>max_tokens</code> to 2048+ to ensure enough budget for both reasoning and the JSON output.</p>
+<blockquote>
+<p>推理模型将输出放在 <code>reasoning_content</code> 中时，筛选器会自动回退解析。设置 <code>max_tokens</code> 为 2048+ 以确保足够空间。</p>
+</blockquote>
+<h3 id="flow-diagram">Flow Diagram / 流程图</h3>
+<pre class="mermaid"><code>flowchart TD
+    A[All papers] --&gt; P1[Pass 1: title + abstract]
+    P1 --&gt;|score &gt; 7| ACC[Accept]
+    P1 --&gt;|score 4–7| BL[Borderline]
+    P1 --&gt;|score &lt; 4| DIS[Discard]
+    P1 --&gt;|HTTP/parse fail| UE[Unevaluated&lt;br/&gt;evaluated=false]
+    BL --&gt; PF[Prefetch full text&lt;br/&gt;HTML / PDF]
+    PF --&gt; P2[Pass 2: title + abstract + full text]
+    P2 --&gt;|relevant = true| ACC
+    P2 --&gt;|relevant = false| DIS
+    P2 --&gt;|HTTP/parse fail| UE
+    ACC --&gt; OUT[Sorted results&lt;br/&gt;highest score first]
+    UE --&gt; OUT
+    DIS --&gt; TRASH[trash/YYYY-MM-DD.json]</code></pre>
+<hr />
+<h2 id="storage-model">Storage Model / 存储模型</h2>
+<h3 id="three-directories">Three Directories / 三个目录</h3>
+<table>
+<thead>
+<tr>
+<th>Directory / 目录</th>
+<th>Content / 内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>data/</code></td>
+<td>Raw fetched papers, organised by article published/updated date / 原始拉取数据，按文章日期组织</td>
+</tr>
+<tr>
+<td><code>output/</code></td>
+<td>Filtered results, organised by <strong>filter run date</strong> / 筛选结果，按运行日期组织</td>
+</tr>
+<tr>
+<td><code>trash/</code></td>
+<td>Discarded papers with rejection reasons, organised by <strong>filter run date</strong> / 被丢弃的论文（含拒绝理由），按运行日期组织</td>
+</tr>
+</tbody>
+</table>
+<h3 id="raw-filing-rules">Raw Filing Rules / 原始归档规则</h3>
+<p>Papers in <code>data/</code> are tracked by <strong>base arXiv ID</strong> (version stripped):</p>
+<blockquote>
+<p><code>data/</code> 中的论文通过 <strong>base arXiv ID</strong>（去除版本号）追踪：</p>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th>Scenario / 场景</th>
+<th>Where the record lives / 记录位置</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>First submission / 首次提交</td>
+<td>File for the <code>published</code> date only / 仅在 <code>published</code> 日期文件中</td>
+</tr>
+<tr>
+<td>Single replacement / 单次替换</td>
+<td><code>published</code> date <strong>+</strong> <code>updated</code> date / <code>published</code> 日期 <strong>+</strong> <code>updated</code> 日期</td>
+</tr>
+<tr>
+<td>Multiple replacements / 多次替换</td>
+<td><code>published</code> date <strong>+</strong> latest <code>updated</code> date only; intermediate dates cleaned up / 仅保留首次和最新日期；中间日期自动清除</td>
+</tr>
+</tbody>
+</table>
+<h3 id="filtered-output">Filtered Output / 筛选输出</h3>
+<p>Filtered output is a <strong>single file per run date</strong> — all relevant papers from that run are in <code>output/YYYY-MM-DD.json</code>.</p>
+<blockquote>
+<p>筛选输出按运行日期存储，每次运行一个文件 <code>output/YYYY-MM-DD.json</code>。</p>
+</blockquote>
+<h3 id="discarded-papers">Discarded Papers / 被丢弃的论文</h3>
+<p>Papers that score below <code>borderline_min</code> or are rejected in Pass 2 are saved to <code>trash/YYYY-MM-DD.json</code> with their rejection reasons.  Use the <code>cleanup</code> subcommand to remove old trash files.</p>
+<blockquote>
+<p>低于 <code>borderline_min</code> 或在第二轮被拒绝的论文保存到 <code>trash/YYYY-MM-DD.json</code>，附拒绝理由。使用 <code>cleanup</code> 子命令清理旧文件。</p>
+</blockquote>
+<h3 id="incremental-filtering">Incremental Filtering / 增量筛选</h3>
+<p>On each <code>filter</code> run:</p>
+<ol>
+<li>Scan all existing files in <code>output/</code> to build an index of previously evaluated papers.</li>
+<li>For each raw paper:</li>
+<li><strong>Already <code>evaluated=true</code></strong> and <code>updated</code> unchanged → <strong>skip</strong> (carry over as-is).</li>
+<li><strong><code>evaluated=false</code></strong> or <code>updated</code> has changed → send to LLM.</li>
+<li>Merge new results with carried-over results, sort by score.</li>
+</ol>
+<blockquote>
+<p>每次 <code>filter</code> 运行时：扫描 <code>output/</code> 历史结果，已成功评估且未更新的论文自动跳过，仅对新增/更新/失败的论文调用 LLM。</p>
+</blockquote>
+<h3 id="directory-example">Directory Example / 目录示例</h3>
+<div class="highlight"><pre><span></span><code>data/
+├── 2026-04-14.json            # Raw: papers published/updated on Apr 14
+├── 2026-04-18.json            # Raw: papers published/updated on Apr 18
+└── 2026-04-19.json            # Raw: papers published/updated on Apr 19
+output/
+├── 2026-04-19.json            # Filtered: run on Apr 19
+└── 2026-04-20.json            # Filtered: run on Apr 20 (carries over Apr 19 results)
+trash/
+├── 2026-04-19.json            # Discarded papers from Apr 19 run
+└── 2026-04-20.json            # Discarded papers from Apr 20 run
+</code></pre></div>
+<h3 id="output-format">Output Format / 输出格式</h3>
+<p>Raw file (<code>data/YYYY-MM-DD.json</code>):</p>
+<div class="highlight"><pre><span></span><code><span class="p">{</span>
+<span class="w">  </span><span class="nt">&quot;date&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;2026-04-14&quot;</span><span class="p">,</span>
+<span class="w">  </span><span class="nt">&quot;total&quot;</span><span class="p">:</span><span class="w"> </span><span class="mi">42</span><span class="p">,</span>
+<span class="w">  </span><span class="nt">&quot;papers&quot;</span><span class="p">:</span><span class="w"> </span><span class="p">[</span>
+<span class="w">    </span><span class="p">{</span>
+<span class="w">      </span><span class="nt">&quot;arxiv_id&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;2501.12345v1&quot;</span><span class="p">,</span>
+<span class="w">      </span><span class="nt">&quot;base_id&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;2501.12345&quot;</span><span class="p">,</span>
+<span class="w">      </span><span class="nt">&quot;title&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;Paper Title&quot;</span><span class="p">,</span>
+<span class="w">      </span><span class="nt">&quot;authors&quot;</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="s2">&quot;Alice&quot;</span><span class="p">,</span><span class="w"> </span><span class="s2">&quot;Bob&quot;</span><span class="p">],</span>
+<span class="w">      </span><span class="nt">&quot;abstract&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;Paper abstract...&quot;</span><span class="p">,</span>
+<span class="w">      </span><span class="nt">&quot;categories&quot;</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="s2">&quot;hep-ph&quot;</span><span class="p">,</span><span class="w"> </span><span class="s2">&quot;gr-qc&quot;</span><span class="p">],</span>
+<span class="w">      </span><span class="nt">&quot;published&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;2026-04-14T10:30:00+00:00&quot;</span><span class="p">,</span>
+<span class="w">      </span><span class="nt">&quot;updated&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;2026-04-14T10:30:00+00:00&quot;</span><span class="p">,</span>
+<span class="w">      </span><span class="nt">&quot;pdf_url&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;https://arxiv.org/pdf/2501.12345v1&quot;</span><span class="p">,</span>
+<span class="w">      </span><span class="nt">&quot;html_url&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;https://arxiv.org/html/2501.12345v1&quot;</span><span class="p">,</span>
+<span class="w">      </span><span class="nt">&quot;entry_url&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;https://arxiv.org/abs/2501.12345v1&quot;</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="w">  </span><span class="p">]</span>
+<span class="p">}</span>
+</code></pre></div>
+<p>Filtered file (<code>output/YYYY-MM-DD.json</code>) — same structure with an added <code>relevance</code> field per paper:</p>
+<blockquote>
+<p>筛选文件结构相同，每篇论文额外包含 <code>relevance</code> 字段：</p>
+</blockquote>
+<div class="highlight"><pre><span></span><code><span class="p">{</span>
+<span class="w">  </span><span class="nt">&quot;relevance&quot;</span><span class="p">:</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="nt">&quot;relevant&quot;</span><span class="p">:</span><span class="w"> </span><span class="kc">true</span><span class="p">,</span>
+<span class="w">    </span><span class="nt">&quot;score&quot;</span><span class="p">:</span><span class="w"> </span><span class="mi">8</span><span class="p">,</span>
+<span class="w">    </span><span class="nt">&quot;reason&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;Directly relevant to dark matter detection.&quot;</span><span class="p">,</span>
+<span class="w">    </span><span class="nt">&quot;pass_number&quot;</span><span class="p">:</span><span class="w"> </span><span class="mi">1</span><span class="p">,</span>
+<span class="w">    </span><span class="nt">&quot;evaluated&quot;</span><span class="p">:</span><span class="w"> </span><span class="kc">true</span>
+<span class="w">  </span><span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div>
+<hr />
+<h2 id="data-code-branch-separation">Data / Code Branch Separation / 数据与代码分支分离</h2>
+<p>The project uses two Git branches to keep code and data separate:</p>
+<blockquote>
+<p>项目使用两个 Git 分支来分离代码和数据：</p>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th>Branch / 分支</th>
+<th>Content / 内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>main</code></td>
+<td>Source code, config, tests, docs / 源代码、配置、测试、文档</td>
+</tr>
+<tr>
+<td><code>data</code></td>
+<td>Orphan branch — only <code>output/</code>, <code>data/</code>, <code>trash/</code>, <code>dates.json</code> / 孤儿分支——仅数据文件</td>
+</tr>
+</tbody>
+</table>
+<p>The <code>data</code> branch is force-pushed by GitHub Actions after each daily run.  The static frontend (<code>site-ui/index.html</code>) reads JSON directly from this branch via <code>raw.githubusercontent.com</code>.</p>
+<blockquote>
+<p><code>data</code> 分支由 GitHub Actions 在每次日运行后强制推送。静态前端通过 <code>raw.githubusercontent.com</code> 直接读取此分支上的 JSON。</p>
+</blockquote>
+<hr />
+<h2 id="github-actions">GitHub Actions / 自动化</h2>
+<p>The included workflow runs daily at UTC 08:00 — it fetches, filters, refilters, cleans up, pushes data, and deploys Pages.</p>
+<blockquote>
+<p>内置工作流每天 UTC 08:00 自动运行，依次执行以下步骤。</p>
+</blockquote>
+<h3 id="pipeline-steps">Pipeline Steps / 工作流步骤</h3>
+<ol>
+<li><strong>Fetch</strong> — <code>fetch --days 1</code></li>
+<li><strong>Filter</strong> — <code>filter</code> (incremental, skips already-evaluated papers)</li>
+<li><strong>Refilter</strong> — <code>refilter</code> (retries papers with <code>evaluated=false</code>)</li>
+<li><strong>Cleanup</strong> — <code>cleanup --keep 7</code> (removes trash files older than 7 days)</li>
+<li><strong>Generate dates index</strong> — creates <code>dates.json</code> (last 90 dates)</li>
+<li><strong>Push to <code>data</code> branch</strong> — orphan branch with only data files</li>
+<li><strong>Build docs &amp; frontend</strong> — <code>mkdocs build</code> + copy <code>site-ui/</code></li>
+<li><strong>Deploy GitHub Pages</strong> — via <code>peaceiris/actions-gh-pages</code></li>
+</ol>
+<h3 id="required-secrets-secrets">Required Secrets / 必须配置的 Secrets</h3>
+<p>Go to <strong>Settings → Secrets and variables → Actions</strong> and add:</p>
+<blockquote>
+<p>进入 <strong>Settings → Secrets and variables → Actions</strong>，添加：</p>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th>Secret</th>
+<th>Description / 描述</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>LLM_API_KEY</code></td>
+<td>API key for the LLM / LLM API 密钥</td>
+</tr>
+<tr>
+<td><code>LLM_BASE_URL</code></td>
+<td><em>(optional)</em> API endpoint / API 端点（可选）</td>
+</tr>
+<tr>
+<td><code>LLM_MODEL</code></td>
+<td><em>(optional)</em> Model name / 模型名称（可选）</td>
+</tr>
+</tbody>
+</table>
+<h3 id="manual-trigger">Manual Trigger / 手动触发</h3>
+<p>Trigger from the Actions tab with custom parameters:</p>
+<blockquote>
+<p>在 Actions 页面手动触发，支持自定义参数：</p>
+</blockquote>
+<ul>
+<li><strong>days</strong> — number of days to look back / 回溯天数</li>
+<li><strong>date</strong> — specific date to filter / 要筛选的日期</li>
+</ul>
+<hr />
+<h2 id="project-structure">Project Structure / 项目结构</h2>
+<div class="highlight"><pre><span></span><code>src/
+├── fetcher.py    # arXiv API client + HTML detection / arXiv API 客户端
+├── filter.py     # LLM filter + adaptive concurrency / LLM 筛选 + 自适应并发
+├── storage.py    # JSON persistence (raw + filtered + trash) / JSON 持久化
+└── main.py       # CLI entry point (fetch / filter / refilter / cleanup) / 命令行入口
+tests/
+├── test_fetcher.py
+├── test_filter.py
+├── test_storage.py
+└── test_main.py
+config/
+├── config.yaml             # Configuration / 配置文件
+└── research_profile.md     # Research interests / 研究兴趣描述
+site-ui/
+└── index.html              # Static frontend (vanilla JS) / 静态前端
+.github/workflows/
+├── daily-arxiv.yml         # Daily fetch + filter + deploy / 日工作流
+└── ci.yml                  # Push/PR test / 推送/PR 测试
+docs/
+└── index.md                # This documentation / 本文档
+.env.example                # Environment variable template / 环境变量模板
+mkdocs.yml                  # MkDocs configuration / MkDocs 配置
+</code></pre></div>
+<hr />
+<h2 id="license">License</h2>
+<p>MIT</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": ".", "features": ["navigation.tabs", "navigation.sections", "content.code.copy"], "search": "assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+        <script src="https://unpkg.com/mermaid@11/dist/mermaid.min.js"></script>
+      
+    
+  </body>
+</html>
