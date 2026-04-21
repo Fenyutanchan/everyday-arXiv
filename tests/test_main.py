@@ -80,6 +80,18 @@ class TestBuildLlmConfig:
         cfg = build_llm_config({"llm": {"base_url": "https://api.openai.com/v1"}})
         assert cfg.base_url == "http://ollama:11434/v1"
 
+    def test_max_retries_defaults_to_dataclass_default(self, monkeypatch):
+        monkeypatch.delenv("LLM_BASE_URL", raising=False)
+        monkeypatch.delenv("LLM_MODEL", raising=False)
+        cfg = build_llm_config({})
+        assert cfg.max_retries == 10
+
+    def test_max_retries_from_config(self, monkeypatch):
+        monkeypatch.delenv("LLM_BASE_URL", raising=False)
+        monkeypatch.delenv("LLM_MODEL", raising=False)
+        cfg = build_llm_config({"llm": {"max_retries": 5}})
+        assert cfg.max_retries == 5
+
 
 class TestCmdFetch:
     async def test_saves_raw_data(self, tmp_path):

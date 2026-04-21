@@ -19,6 +19,7 @@ from __future__ import annotations
 
 import argparse
 import asyncio
+import dataclasses
 import logging
 import os
 import sys
@@ -50,48 +51,24 @@ def load_config(path: str | Path) -> dict:
 
 def build_llm_config(cfg: dict) -> LLMConfig:
     """Construct an :class:`LLMConfig` from the ``llm`` section of the config."""
-    from .filter import DEFAULT_SYSTEM_PROMPT, DEFAULT_USER_PROMPT_TEMPLATE
     llm = cfg.get("llm", {})
 
-    base_url_env = llm.get("base_url_env", "LLM_BASE_URL")
-    base_url = os.environ.get(base_url_env, llm.get("base_url", "https://api.openai.com/v1"))
+    pf = llm.get("research_profile_file", "")
+    if pf and Path(pf).is_file():
+        llm = {**llm, "research_profile": Path(pf).read_text(encoding="utf-8").strip()}
 
-    model_env = llm.get("model_env", "LLM_MODEL")
-    model = os.environ.get(model_env, llm.get("model", "gpt-4o-mini"))
+    known_fields = {f.name for f in dataclasses.fields(LLMConfig)}
+    kwargs = {k: v for k, v in llm.items() if k in known_fields}
 
-    profile_file = llm.get("research_profile_file", "")
-    if profile_file and Path(profile_file).is_file():
-        research_profile = Path(profile_file).read_text(encoding="utf-8").strip()
-    else:
-        research_profile = llm.get("research_profile", "")
+    base_url_env = kwargs.get("base_url_env", "LLM_BASE_URL")
+    if base_url_env in os.environ:
+        kwargs["base_url"] = os.environ[base_url_env]
 
-    return LLMConfig(
-        base_url=base_url,
-        base_url_env=base_url_env,
-        model=model,
-        model_env=model_env,
-        api_key_env=llm.get("api_key_env", "LLM_API_KEY"),
-        max_concurrent=llm.get("max_concurrent", 5),
-        initial_concurrent=llm.get("initial_concurrent", 1),
-        max_retries=llm.get("max_retries", 3),
-        max_backoff=llm.get("max_backoff", 32.0),
-        max_tokens=llm.get("max_tokens", 2048),
-        timeout_connect=llm.get("timeout_connect", 10.0),
-        timeout_read=llm.get("timeout_read", 60.0),
-        timeout_write=llm.get("timeout_write", 10.0),
-        timeout_pool=llm.get("timeout_pool", 10.0),
-        cb_threshold=llm.get("cb_threshold", 3),
-        cb_base_cooldown=llm.get("cb_base_cooldown", 5.0),
-        cb_max_cooldown=llm.get("cb_max_cooldown", 60.0),
-        system_prompt=llm.get("system_prompt", DEFAULT_SYSTEM_PROMPT),
-        user_prompt_template=llm.get("user_prompt_template", DEFAULT_USER_PROMPT_TEMPLATE),
-        research_profile=research_profile,
-        use_html=llm.get("use_html", True),
-        use_pdf=llm.get("use_pdf", False),
-        max_content_chars=llm.get("max_content_chars", 50000),
-        borderline_min=llm.get("borderline_min", 4),
-        borderline_max=llm.get("borderline_max", 7),
-    )
+    model_env = kwargs.get("model_env", "LLM_MODEL")
+    if model_env in os.environ:
+        kwargs["model"] = os.environ[model_env]
+
+    return LLMConfig(**kwargs)
 
 
 # ---------------------------------------------------------------------------
