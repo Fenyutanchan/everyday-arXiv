@@ -170,6 +170,48 @@ class TestParseLlmResponse:
         result = _parse_llm_response("not json", paper)
         assert result is None
 
+    def test_relevant_string_false_is_false(self):
+        paper = _make_paper()
+        raw = '{"relevant": "false", "score": 3, "reason": "nope"}'
+        result = _parse_llm_response(raw, paper)
+        assert result is not None
+        assert result.relevant is False
+
+    def test_relevant_string_true_is_true(self):
+        paper = _make_paper()
+        raw = '{"relevant": "true", "score": 7, "reason": "yep"}'
+        result = _parse_llm_response(raw, paper)
+        assert result is not None
+        assert result.relevant is True
+
+    def test_score_clamped_to_1_when_below(self):
+        paper = _make_paper()
+        raw = '{"relevant": false, "score": -5, "reason": "no"}'
+        result = _parse_llm_response(raw, paper)
+        assert result is not None
+        assert result.score == 1
+
+    def test_score_clamped_to_10_when_above(self):
+        paper = _make_paper()
+        raw = '{"relevant": true, "score": 42, "reason": "yes"}'
+        result = _parse_llm_response(raw, paper)
+        assert result is not None
+        assert result.score == 10
+
+    def test_missing_score_defaults_to_1(self):
+        paper = _make_paper()
+        raw = '{"relevant": true, "reason": "ok"}'
+        result = _parse_llm_response(raw, paper)
+        assert result is not None
+        assert result.score == 1
+
+    def test_missing_relevant_defaults_to_false(self):
+        paper = _make_paper()
+        raw = '{"score": 5, "reason": "maybe"}'
+        result = _parse_llm_response(raw, paper)
+        assert result is not None
+        assert result.relevant is False
+
 
 class TestExtractResponseText:
     def test_content_present(self):

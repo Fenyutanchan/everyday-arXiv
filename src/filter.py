@@ -521,6 +521,15 @@ def _build_user_prompt(
 # LLM call (with retry)
 # ---------------------------------------------------------------------------
 
+def _coerce_bool(value: object) -> bool:
+    """Coerce a value to bool, handling string \"true\"/\"false\" from LLMs."""
+    if isinstance(value, bool):
+        return value
+    if isinstance(value, str):
+        return value.lower() == "true"
+    return bool(value)
+
+
 def _parse_llm_response(raw: str, paper: Paper) -> FilterResult | None:
     """Try to parse the LLM response into a FilterResult.
 
@@ -534,8 +543,8 @@ def _parse_llm_response(raw: str, paper: Paper) -> FilterResult | None:
 
     return FilterResult(
         paper=paper,
-        relevant=bool(parsed.get("relevant", False)),
-        score=int(parsed.get("score", 0)),
+        relevant=_coerce_bool(parsed.get("relevant", False)),
+        score=max(1, min(10, int(parsed.get("score", 0)))),
         reason=str(parsed.get("reason", "")),
     )
 
