@@ -27,34 +27,7 @@ from src.storage import (
     save_trash,
 )
 
-
-def _make_paper(**overrides) -> Paper:
-    defaults = dict(
-        arxiv_id="2604.15309v1",
-        title="Test Paper",
-        authors=["Alice"],
-        abstract="Abstract text.",
-        categories=["hep-ph"],
-        published="2026-04-16T10:00:00+00:00",
-        updated="2026-04-16T10:00:00+00:00",
-        pdf_url="https://arxiv.org/pdf/2604.15309v1",
-        entry_url="https://arxiv.org/abs/2604.15309v1",
-        html_url="https://arxiv.org/html/2604.15309v1",
-    )
-    defaults.update(overrides)
-    return Paper(**defaults)
-
-
-def _make_result(**overrides) -> FilterResult:
-    paper_kw = {k: v for k, v in overrides.items() if k in Paper.__dataclass_fields__}
-    result_kw = {k: v for k, v in overrides.items()
-                 if k in FilterResult.__dataclass_fields__ and k != "paper"}
-    defaults = dict(relevant=True, score=5, reason="test")
-    defaults.update(result_kw)
-    return FilterResult(
-        paper=_make_paper(**paper_kw),
-        **defaults,
-    )
+from .conftest import _make_paper, _make_result
 
 
 class TestBaseId:
@@ -99,7 +72,7 @@ class TestResultToDict:
         result = _make_result()
         d = _result_to_dict(result)
         assert d["base_id"] == "2604.15309"
-        assert d["relevance"]["score"] == 5
+        assert d["relevance"]["score"] == 7
         assert d["relevance"]["relevant"] is True
 
 
@@ -243,7 +216,7 @@ class TestSaveFiltered:
         assert len(paths) == 1
         assert paths[0].name == "2026-04-20.json"
         day = load_results(paths[0])
-        assert day["papers"][0]["relevance"]["score"] == 5
+        assert day["papers"][0]["relevance"]["score"] == 7
         assert day["total"] == 1
 
     def test_overwrite_on_same_run_date(self, tmp_path):

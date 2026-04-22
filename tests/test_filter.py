@@ -25,31 +25,7 @@ from src.filter import (
     filter_papers,
 )
 
-
-def _make_paper(**overrides) -> Paper:
-    defaults = dict(
-        arxiv_id="2604.15309v1",
-        title="Test Paper Title",
-        authors=["Alice", "Bob"],
-        abstract="This is a test abstract about LLM alignment.",
-        categories=["hep-ph"],
-        published="2026-04-16T10:00:00+00:00",
-        updated="2026-04-16T10:00:00+00:00",
-        pdf_url="https://arxiv.org/pdf/2604.15309v1",
-        entry_url="https://arxiv.org/abs/2604.15309v1",
-        html_url="https://arxiv.org/html/2604.15309v1",
-    )
-    defaults.update(overrides)
-    return Paper(**defaults)
-
-
-def _make_result(**overrides) -> FilterResult:
-    paper_overrides = {k: v for k, v in overrides.items() if k in Paper.__dataclass_fields__}
-    result_overrides = {k: v for k, v in overrides.items()
-                        if k in FilterResult.__dataclass_fields__ and k != "paper"}
-    defaults = dict(relevant=True, score=7, reason="test", pass_number=1)
-    defaults.update(result_overrides)
-    return FilterResult(paper=_make_paper(**paper_overrides), **defaults)
+from .conftest import _make_paper, _make_result
 
 
 class TestLLMConfigDefaults:
@@ -75,7 +51,7 @@ class TestBuildUserPrompt:
         paper = _make_paper()
         prompt = _build_user_prompt(DEFAULT_USER_PROMPT_TEMPLATE, paper, "I like RLHF.")
         assert "I like RLHF." in prompt
-        assert "Test Paper Title" in prompt
+        assert "Test Paper" in prompt
 
     def test_includes_html_content(self):
         paper = _make_paper()
