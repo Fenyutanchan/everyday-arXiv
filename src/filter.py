@@ -563,8 +563,6 @@ def _extract_response_text(choice: dict) -> str | None:
     return content
 
 
-
-
 async def _backoff(attempt: int, max_backoff: float) -> None:
     await asyncio.sleep(min(2.0 ** attempt, max_backoff))
 

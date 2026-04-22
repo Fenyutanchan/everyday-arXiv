@@ -337,14 +337,14 @@ def cmd_cleanup(cfg: dict, keep_days: int = 7) -> list[Path]:
     list[Path]
         Paths of removed files.
     """
-    from datetime import datetime, timedelta
+    from datetime import datetime, timedelta, timezone
 
     trash_dir = Path(cfg.get("output", {}).get("trash_dir", "trash"))
     if not trash_dir.is_dir():
         logger.info("Trash directory %s does not exist — nothing to clean", trash_dir)
         return []
 
-    cutoff = (datetime.now() - timedelta(days=keep_days)).strftime("%Y-%m-%d")
+    cutoff = (datetime.now(timezone.utc) - timedelta(days=keep_days)).strftime("%Y-%m-%d")
     removed: list[Path] = []
     for f in sorted(trash_dir.glob("*.json")):
         file_date = f.stem

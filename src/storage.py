@@ -393,8 +393,3 @@ def load_results(path: str | Path) -> dict:
     """Read an arbitrary JSON file and return the parsed dict."""
     with open(path) as f:
         return json.load(f)
-
-
-# Backward compatibility — the old public name still works.
-# Remove once all callers are migrated.
-save_results = save_filtered

@@ -104,8 +104,8 @@ def fetch_papers(
     Papers are sorted by **last updated date** (descending), so the results
     include both new submissions and recently replaced / cross-listed papers.
     The client auto-paginates until it encounters a paper whose ``updated``
-    field falls outside the requested *days* window — there is **no hard cap**
-    on the total number of papers returned.
+    field falls outside the requested *days* window, with a maximum of
+    ``10_000`` results per query.
 
     Parameters
     ----------

@@ -137,6 +137,9 @@ jobs:
   deploy-pages:
     needs: fetch-and-filter
     runs-on: ubuntu-latest
+    concurrency:
+      group: pages
+      cancel-in-progress: true
     permissions:
       pages: write
       id-token: write

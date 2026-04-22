@@ -97,11 +97,11 @@ uv run python -m src.main filter
 | `--date` | today | Date of raw data to filter (`YYYY-MM-DD`) / 要筛选的原始数据日期 |
 | `--config` | `config/config.yaml` | Config file path / 配置文件路径 |
 
-Reads raw papers from `data/YYYY-MM-DD.json`, sends them to the LLM, and writes results to `output/YYYY-MM-DD.json` (organised by **run date**, not article date).
+Reads raw papers from `data/YYYY-MM-DD.json`, sends them to the LLM, and writes results to `relevant/YYYY-MM-DD.json` (organised by **run date**, not article date).
 
 Papers already successfully evaluated in previous runs are **automatically skipped** unless their `updated` field has changed.  Only new, updated, or previously-unevaluated papers consume LLM API calls.
 
-> 从 `data/` 读取原始论文，经 LLM 评估后写入 `output/YYYY-MM-DD.json`（按运行日期组织）。已成功评估的论文自动跳过，仅新论文、有更新的论文或上次评估失败的论文会调用 LLM。
+> 从 `data/` 读取原始论文，经 LLM 评估后写入 `relevant/YYYY-MM-DD.json`（按运行日期组织）。已成功评估的论文自动跳过，仅新论文、有更新的论文或上次评估失败的论文会调用 LLM。
 
 ### `refilter` — Re-evaluate failed papers
 
@@ -157,7 +157,7 @@ fetch:
 
 output:
   raw_dir: data          # Raw fetched data / 原始拉取数据
-  filtered_dir: output   # Filtered results / 筛选结果
+  filtered_dir: relevant # Filtered results / 筛选结果
   trash_dir: trash       # Discarded papers with reasons / 被丢弃的论文（含理由）
 
 llm:
@@ -303,7 +303,7 @@ flowchart TD
 | Directory / 目录 | Content / 内容 |
 |---|---|
 | `data/` | Raw fetched papers, organised by article published/updated date / 原始拉取数据，按文章日期组织 |
-| `output/` | Filtered results, organised by **filter run date** / 筛选结果，按运行日期组织 |
+| `relevant/` | Filtered results, organised by **filter run date** / 筛选结果，按运行日期组织 |
 | `trash/` | Discarded papers with rejection reasons, organised by **filter run date** / 被丢弃的论文（含拒绝理由），按运行日期组织 |
 
 ### Raw Filing Rules / 原始归档规则
@@ -349,7 +349,7 @@ data/
 ├── 2026-04-14.json            # Raw: papers published/updated on Apr 14
 ├── 2026-04-18.json            # Raw: papers published/updated on Apr 18
 └── 2026-04-19.json            # Raw: papers published/updated on Apr 19
-output/
+relevant/
 ├── 2026-04-19.json            # Filtered: run on Apr 19
 └── 2026-04-20.json            # Filtered: run on Apr 20 (carries over Apr 19 results)
 trash/
