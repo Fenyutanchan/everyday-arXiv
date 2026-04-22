@@ -564,10 +564,15 @@ def _extract_response_text(choice: dict) -> str | None:
 
     reasoning = msg.get("reasoning_content", "")
     if reasoning:
-        json_match = re.search(r'\{[^{}]*"relevant"[^{}]*\}', reasoning, re.DOTALL)
-        if json_match:
-            logger.debug("Extracted JSON from reasoning_content (content was empty)")
-            return json_match.group(0)
+        for i, ch in enumerate(reasoning):
+            if ch == '{':
+                try:
+                    obj, _ = json.JSONDecoder().raw_decode(reasoning, i)
+                    if "relevant" in obj:
+                        logger.debug("Extracted JSON from reasoning_content (content was empty)")
+                        return json.dumps(obj)
+                except json.JSONDecodeError:
+                    continue
 
     return content
 

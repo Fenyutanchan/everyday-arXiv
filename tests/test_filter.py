@@ -242,6 +242,55 @@ class TestExtractResponseText:
         choice = {"message": {"content": None}}
         assert _extract_response_text(choice) is None
 
+    def test_nested_json_in_reasoning(self):
+        choice = {"message": {
+            "content": "",
+            "reasoning_content": 'result {"relevant": true, "score": 8, "reason": "ok", "meta": {"k": "v"}} done',
+        }}
+        result = _extract_response_text(choice)
+        assert result is not None
+        parsed = json.loads(result)
+        assert parsed["relevant"] is True
+        assert parsed["meta"] == {"k": "v"}
+
+    def test_brace_in_string_value(self):
+        choice = {"message": {
+            "content": "",
+            "reasoning_content": 'uses {"relevant": false, "score": 3, "reason": "uses } in formula"} ok',
+        }}
+        result = _extract_response_text(choice)
+        assert result is not None
+        parsed = json.loads(result)
+        assert parsed["relevant"] is False
+        assert "uses } in formula" == parsed["reason"]
+
+    def test_multiple_json_fragments_takes_first(self):
+        choice = {"message": {
+            "content": "",
+            "reasoning_content": 'first {"relevant": false, "score": 2, "reason": "no"} then {"relevant": true, "score": 8, "reason": "yes"}',
+        }}
+        result = _extract_response_text(choice)
+        assert result is not None
+        parsed = json.loads(result)
+        assert parsed["score"] == 2
+
+    def test_no_json_in_reasoning(self):
+        choice = {"message": {
+            "content": "",
+            "reasoning_content": "Let me think about this carefully without producing any JSON output.",
+        }}
+        assert _extract_response_text(choice) == ""
+
+    def test_json_without_relevant_key_is_skipped(self):
+        choice = {"message": {
+            "content": "",
+            "reasoning_content": 'here {"score": 5} then {"relevant": true, "score": 7, "reason": "ok"}',
+        }}
+        result = _extract_response_text(choice)
+        assert result is not None
+        parsed = json.loads(result)
+        assert parsed["relevant"] is True
+
 
 class TestIsBorderline:
     def test_inside(self):
