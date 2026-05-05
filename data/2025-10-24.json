@@ -1,0 +1,70 @@
+{
+  "date": "2025-10-24",
+  "papers": [
+    {
+      "arxiv_id": "2510.21976v2",
+      "base_id": "2510.21976",
+      "title": "Evidence of dynamical dark energy found via the DESI DR2 Lyman$α$ forest",
+      "authors": [
+        "Salvatore Capozziello",
+        "Himanshu Chaudhary",
+        "G. Mustafa",
+        "S. K. J. Pacif"
+      ],
+      "abstract": "We present a comprehensive analysis of the cosmological implications of the Dark Energy Spectroscopic Instrument (DESI) Data Release 2 (DR2) Lyman-$α$ forest baryon acoustic oscillation (BAO) measurements, combined with DESI DR2 galaxy BAO, Type Ia supernova samples (Pantheon$^+$, DES-Dovekie, and Union3), and the cosmic microwave background CamSpec likelihood. We consider several dark-energy parameterizations, including Chevallier-Polarski-Linder, logarithmic, exponential, Jassal-Bagla-Padmanabhan, Barboza-Alcaniz, and generalized emergent dark energy, as well as the $w$CDM model and non-flat extensions of $Λ$CDM and $w$CDM. Using the Metropolis-Hastings MCMC algorithm, we constrain cosmological parameters and compute Bayesian evidence with \\texttt{MCEvidence}. We find that non-flat extensions remain consistent with spatial flatness, with $Ω_k \\approx 0$. All parameterizations favor a dynamical dark-energy scenario with $w_0 > -1$, $w_a < 0$, and $w_0 + w_a < -1$, consistent with a Quintom-B behavior. A moderate preference for dynamical dark-energy models is found relative to $Λ$CDM, reaching up to $\\sim3.10σ$ for Ly$α$ + CMB + galaxy BAO. When combined with SNe~Ia datasets, the deviations decrease to $\\lesssim2σ$, corresponding to inconclusive preference. The Bayes factor ($\\ln B_{ij}$) shows that model preference depends strongly on the dataset combination: $w$CDM and o$w$CDM exhibit moderate evidence for Ly$α$ + CMB + galaxy BAO, while most other models show weak or inconclusive evidence. With Pantheon$^{+}$ or DES-Dovekie, o$w$CDM shows strong evidence, whereas other models remain moderately favored.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2025-10-24T19:00:58+00:00",
+      "updated": "2026-04-18T10:44:01+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.21976v2",
+      "html_url": "https://arxiv.org/html/2510.21976v2",
+      "entry_url": "http://arxiv.org/abs/2510.21976v2"
+    },
+    {
+      "arxiv_id": "2510.21154v3",
+      "base_id": "2510.21154",
+      "title": "Access to Klein Tunneling via Space-Time Modulation",
+      "authors": [
+        "Furkan Ok",
+        "Amir Bahrami",
+        "Christophe Caloz"
+      ],
+      "abstract": "We show that space-time modulation of electromagnetic potentials enables Klein tunneling far below the static threshold. The derived kinematics reveal oblique transitions that can connect opposite-energy continua without requiring their overlap, yielding a velocity-tunable Klein gap where transmission vanishes within a finite velocity window and reemerges beyond. The associated reduction in energy thresholds -- by up to four orders of magnitude -- suggests the potential for experimental realization using flying-focus fronts and relativistic electron beams.",
+      "categories": [
+        "quant-ph",
+        "hep-th"
+      ],
+      "published": "2025-10-24T04:50:13+00:00",
+      "updated": "2026-04-16T14:09:56+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.21154v3",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2510.21154v3"
+    },
+    {
+      "arxiv_id": "2510.21673v2",
+      "base_id": "2510.21673",
+      "title": "Imprint of the black hole singularity on thermal two-point functions",
+      "authors": [
+        "Nima Afkhami-Jeddi",
+        "Simon Caron-Huot",
+        "Joydeep Chakravarty",
+        "Alexander Maloney"
+      ],
+      "abstract": "We consider two-point functions of light fields at finite temperature and large real frequencies in holographic theories. The thermal system is dual to a single-sided AdS black hole. We show that the high-frequency expansion obtained from the Operator Product Expansion receives exponentially small nonperturbative corrections, which are controlled by null geodesics bouncing off the black hole singularity in the two-sided eternal black hole geometry. We develop a bulk WKB description of these bouncing geodesics and explain how to calculate reflection coefficients at the singularity.",
+      "categories": [
+        "hep-th",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "published": "2025-10-24T17:29:32+00:00",
+      "updated": "2026-04-28T21:30:18+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.21673v2",
+      "html_url": "https://arxiv.org/html/2510.21673v2",
+      "entry_url": "http://arxiv.org/abs/2510.21673v2"
+    }
+  ],
+  "total": 3
+}

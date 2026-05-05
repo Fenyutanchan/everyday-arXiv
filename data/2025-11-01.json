@@ -1,0 +1,46 @@
+{
+  "date": "2025-11-01",
+  "papers": [
+    {
+      "arxiv_id": "2511.00565v3",
+      "base_id": "2511.00565",
+      "title": "Reflectionless and echo modes in asymmetric Damour-Solodukhin wormholes",
+      "authors": [
+        "Wei-Liang Qian",
+        "Qiyuan Pan",
+        "Ramin G. Daghigh",
+        "Bean Wang",
+        "Rui-Hong Yue"
+      ],
+      "abstract": "It is understood that the echo waveforms in ultracompact objects can be regarded as composed mainly of the asymptotic high-overtone quasinormal modes, dubbed echo modes, which predominantly lie parallel to the real frequency axis. Alternatively, Rosato {\\it et al.} recently suggested that high-frequency quasi-reflectionless scattering modes are primarily responsible for the echo phenomenon. In this work, by extending the definition of quasi-reflectionless modes to reflectionless ones and generalizing symmetric Damour-Solodukhin wormholes to asymmetric cases, we examine the underlying similarity between the reflectionless and echo mode spectra in the complex frequency plane. Through a primarily analytical treatment, we demonstrate that the asymptotic properties of these two spectra exhibit a strong resemblance, featuring an approximately uniform distribution parallel to the real frequency axis with the same spacing between successive modes. Specifically, the real parts of echo modes coincide with those of reflectionless modes at the limit $|\\mathrm{Re}ω| \\gg |\\mathrm{Im}ω|$. While echo modes typically possess non-vanishing imaginary parts, the reflectionless modes of symmetric Damour-Solodukhin wormholes lie precisely on the real frequency axis, with any deviation serving as a measure of the degree of asymmetry of the wormhole. For a given identical source, the waveforms are calculated numerically using the Green's functions. The amplitudes of the waveforms associated with reflectionless modes are found to be more pronounced than those of the echo modes, because reflectionless modes typically lie closer to the real frequency axis than the latter. It is argued that both perspectives provide effective tools for describing the echo phenomenon.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-11-01T14:05:54+00:00",
+      "updated": "2026-04-15T22:30:45+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.00565v3",
+      "html_url": "https://arxiv.org/html/2511.00565v3",
+      "entry_url": "http://arxiv.org/abs/2511.00565v3"
+    },
+    {
+      "arxiv_id": "2511.00437v2",
+      "base_id": "2511.00437",
+      "title": "Optimization of factorization scale in QED Drell-Yan-like processes",
+      "authors": [
+        "Andrej Arbuzov",
+        "Uliana Voznaya",
+        "Aliaksandr Sadouski"
+      ],
+      "abstract": "The dependence of corrections due to the initial state radiation in $e^+ e^-$-annihilation processes on the choice of the factorization scale is investigated. Different prescriptions of the factorization scale choice are analyzed within the leading and next-to-leading logarithmic approximations. Comparisons with the known complete two-loop results are used to optimize the scale choice.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-11-01T07:37:08+00:00",
+      "updated": "2026-04-29T08:40:55+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.00437v2",
+      "html_url": "https://arxiv.org/html/2511.00437v2",
+      "entry_url": "http://arxiv.org/abs/2511.00437v2"
+    }
+  ],
+  "total": 2
+}

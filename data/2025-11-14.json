@@ -1,0 +1,45 @@
+{
+  "date": "2025-11-14",
+  "papers": [
+    {
+      "arxiv_id": "2511.10986v2",
+      "base_id": "2511.10986",
+      "title": "Spin-averaged $B_c$ Spectrum in a Cornell-type Potential Using VMC Baseline and GFMC Evolution",
+      "authors": [
+        "Tarik Akan"
+      ],
+      "abstract": "In this work, the spin-averaged $B_c$ spectrum is computed in a naive Cornell framework, treating the meson as a nonrelativistic system in a spin-independent potential. The Cornell parameters are calibrated directly to the spin-averaged $B_c$ tower by anchoring the $1S$ centroid and scanning a grid in $(σ,κ)$, with the additive constant $V_0$ fixed at each point by the experimental ground state mass. The spectrum is obtained with a two stage Monte Carlo approach. Variational Monte Carlo (VMC) provides optimized radial trial states with the desired nodal pattern. Fixed node Green's function Monte Carlo (GFMC) then projects the corresponding ground state energies for each $(n,\\ell)$ channel. Controlled scans over the GFMC time step, projection time, walker population, and radial grid identify plateau regions where discretization and projection systematics are quantitatively under control. At a representative best point in the low-RMSE valley, the predicted spin-averaged masses agree with the experimental centroids at the level of a few tens of MeV, and the fitted Cornell parameters are consistent with canonical heavy quarkonium analyses.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-11-14T06:17:49+00:00",
+      "updated": "2026-04-15T07:24:10+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.10986v2",
+      "html_url": "https://arxiv.org/html/2511.10986v2",
+      "entry_url": "http://arxiv.org/abs/2511.10986v2"
+    },
+    {
+      "arxiv_id": "2511.11382v2",
+      "base_id": "2511.11382",
+      "title": "Self-gravitating baryonic tubes supported by $π$- and $ω$-mesons and its flat limit",
+      "authors": [
+        "Gonzalo Barriga",
+        "Carla Henríquez-Baez",
+        "Leonardo Sanhueza",
+        "Aldo Vera"
+      ],
+      "abstract": "In this paper, we construct self-gravitating topological solitons in the $SU(N)$ Einstein non-linear sigma model coupled to $ω$-vector mesons in four space-time dimensions. These solutions represent tube-like configurations free of curvature singularities, carrying a non-vanishing topological charge that is identified as the baryon number. We show that by employing the maximal embedding Ansatz of $SU(2)$ into $SU(N)$ in the exponential representation, these tubes can be constructed for an arbitrary number of flavors, $N$, with the topological charge scaling proportionally to this number. The flat-space limit of the solutions, corresponding to an array of baryonic tubes within a finite volume, is analyzed in detail. Remarkably, while the total energy of the solitons at a finite volume is an increasing function of $N$, the binding energy decreases as the number of flavors increases. This analysis reaffirms that the inclusion of more than two flavors to the model systematically improves the physical predictions.",
+      "categories": [
+        "hep-th",
+        "gr-qc",
+        "nucl-th"
+      ],
+      "published": "2025-11-14T15:04:36+00:00",
+      "updated": "2026-04-20T20:05:09+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.11382v2",
+      "html_url": "https://arxiv.org/html/2511.11382v2",
+      "entry_url": "http://arxiv.org/abs/2511.11382v2"
+    }
+  ],
+  "total": 2
+}

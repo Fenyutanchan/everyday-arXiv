@@ -1,0 +1,113 @@
+{
+  "date": "2026-02-19",
+  "papers": [
+    {
+      "arxiv_id": "2602.16972v2",
+      "base_id": "2602.16972",
+      "title": "Anomalous Decay Rate and Greybody Factors for Regular Black Holes with Scalar Hair",
+      "authors": [
+        "Ramón Bécar",
+        "P. A. González",
+        "Eleftherios Papantonopoulos",
+        "Yerko Vásquez"
+      ],
+      "abstract": "We study the propagation of massive scalar fields in the background of asymptotically flat regular black holes supported by a phantom scalar field with a scalar charge $A$. This parameter regularizes the geometry by removing the central singularity. Focusing on wave dynamics, we analyze scalar perturbations, quasinormal modes, and greybody factors, emphasizing the role of the regularization parameter on the effective potential and the decay properties of the modes. Using WKB methods beyond the eikonal limit, we show that the presence of scalar hair modifies both the oscillation frequencies and damping rates of quasinormal modes. In particular, we demonstrate the occurrence of an anomalous decay rate for massive scalar perturbations, and above a critical field mass, the longest-lived modes correspond to lower angular momentum, in contrast with the massless case. We derive analytical expressions for the critical mass and study its dependence on the scalar charge and overtone number. Furthermore, we apply the Horowitz-Hubeny method to compute the quasinormal frequencies and show that the results obtained from the WKB and Horowitz-Hubeny approaches exhibit excellent agreement in the regime where both methods are valid. In addition, we compute reflection and transmission coefficients and analyze the corresponding greybody factors, clarifying how regularity effects imprint themselves on black-hole scattering properties. Our results show that regular black holes with scalar hair exhibit distinctive dynamical signatures that can be probed through quasinormal ringing and wave propagation.",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2026-02-19T00:24:12+00:00",
+      "updated": "2026-04-17T12:34:00+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.16972v2",
+      "html_url": "https://arxiv.org/html/2602.16972v2",
+      "entry_url": "http://arxiv.org/abs/2602.16972v2"
+    },
+    {
+      "arxiv_id": "2602.16971v2",
+      "base_id": "2602.16971",
+      "title": "Signum-Gordon spectral mass from nonlinear Fourier mode mixing",
+      "authors": [
+        "João S. Streibel",
+        "Pawel Klimas"
+      ],
+      "abstract": "We investigate the emergence of a spectral mass in the signum-Gordon model, a nonlinear field theory characterized by a non-analytic, V-shaped potential where standard perturbative mass definitions are inapplicable. By analyzing the evolution of monochromatic wave trains, we identify two distinct dynamical regimes governed by the relationship between the wave's amplitude and its wavenumber. In the nonlinear regime, the model exhibits nonlinear Fourier mode mixing, where the potential's lack of analyticity acts as a source that populates higher-order harmonics. Using two complementary numerical methods -- tracking frequency distributions from initial wavenumbers and measuring spatial responses to boundary signals -- we construct comprehensive dispersion maps in energy-momentum space. Our results demonstrate that the signum-Gordon field effectively mimics a massive theory. Specifically, we show that a particular initial wave amplitude induces a spectral mass of unity, perfectly matching the behavior of the massive Klein-Gordon equation and providing a robust framework for quantifying mass in non-analytic scalar models.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2026-02-19T00:19:21+00:00",
+      "updated": "2026-04-16T01:04:29+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.16971v2",
+      "html_url": "https://arxiv.org/html/2602.16971v2",
+      "entry_url": "http://arxiv.org/abs/2602.16971v2"
+    },
+    {
+      "arxiv_id": "2602.17125v2",
+      "base_id": "2602.17125",
+      "title": "Decoding the near-threshold $X_{0,\\,1}(4140)$ and $X_{1}(4685)$ states via OZI-suppressed coupled-channel scattering",
+      "authors": [
+        "Mao-Jun Yan"
+      ],
+      "abstract": "To decode the near-threshold dynamics of the $X_{0,\\,1}(4140)$ and $X_{1}(4685)$ states, we investigate the OZI-suppressed $\\{D_{s}\\bar{D}_{s},\\, J/ψφ,\\, D_{s}^{\\ast}\\bar{D}_{s}^{\\ast}\\}$ coupled-channel scattering in $B\\to D_{s}\\bar{D}_{s} K$ decays using the effective range expansion. We demonstrate that the $X_{0}(4140)$, associated with a dip in the lineshape, corresponds to a dynamically generated pole near the $J/ψφ$ threshold. The single-channel $J/ψφ$ scattering length is extracted to be $1.11\\pm 0.65\\,\\rm{fm}$, yielding an effective scattering length of $0.12^{+0.20}_{-0.10}+i0.78^{+0.20}_{-0.40} \\, \\rm{fm}$ when coupled channels are included. By treating the spin-spin interaction as a subleading effect, we predict a $J^{PC}=1^{++}$ virtual state near the $J/ψφ$ threshold, which naturally resolves the empirical ambiguities surrounding the $X_{1}(4140)$ width. Extending this framework via heavy quark spin symmetry, we further interpret the $X_{1}(4685)$ as a $ψ(2S)φ$ hadronic molecule. Ultimately, these findings highlight how the $X(4140)$ family and $X_{1}(4685)$ serve as unique theoretical windows into the Fierz rearrangement and OZI suppression mechanisms in low-energy strong interactions.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-02-19T06:53:46+00:00",
+      "updated": "2026-04-22T01:52:46+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.17125v2",
+      "html_url": "https://arxiv.org/html/2602.17125v2",
+      "entry_url": "http://arxiv.org/abs/2602.17125v2"
+    },
+    {
+      "arxiv_id": "2602.17154v2",
+      "base_id": "2602.17154",
+      "title": "Extreme-mass ratio inspirals in Schwarzschild - de Sitter spacetime I: Weak-field orbits",
+      "authors": [
+        "John Adrian N. Villanueva",
+        "Ian Vega"
+      ],
+      "abstract": "The inspiral of a compact object into a black hole is a key source of low - frequency gravitational waves for future space-based detectors like LISA. While models of this process have advanced considerably, they typically focus on asymptotically flat spacetimes. In this paper, we investigate how departures from asymptotic flatness, whether driven by cosmic expansion or large-scale galactic environments, alter adiabatic orbital evolution. Using the Schwarzschild - de Sitter (SdS) metric, we parametrize these deviations via an `SdS parameter' ($λ$) and analyze its impact on bound orbits. We calculate how $λ$ shifts the separatrix between bound and plunging states and modifies the relationship between a binary's energy, angular momentum, and orbital geometry. By applying a modified quadrupole formula in the weak-field limit, we investigate the effect of $λ$ on circularization, plunge times, and orbital trajectories. We show that a positive SdS parameter accelerates eccentricity decay and shortens inspiral timescales. We also generate adiabatic waveforms from inspirals evolving under radiation reaction, exhibiting an increase in amplitude and a cumulative phase advance induced by $λ$. While these effects are negligible if $λ$ is strictly cosmological, they become observationally relevant if the parameter serves as a proxy for astrophysical environments that induce $\\sim r^2$ potential corrections. Our results suggest that such environmental coupling could meaningfully bias event rate estimates and waveform templates for space-based gravitational-wave astronomy.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE"
+      ],
+      "published": "2026-02-19T07:59:59+00:00",
+      "updated": "2026-04-26T07:52:49+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.17154v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2602.17154v2"
+    },
+    {
+      "arxiv_id": "2602.17205v2",
+      "base_id": "2602.17205",
+      "title": "Deeper detection limits in astronomical imaging using self-supervised spatiotemporal denoising",
+      "authors": [
+        "Yuduo Guo",
+        "Hao Zhang",
+        "Mingyu Li",
+        "Fujiang Yu",
+        "Yunjing Wu",
+        "Yuhan Hao",
+        "Song Huang",
+        "Yongming Liang",
+        "Xiaojing Lin",
+        "Xinyang Li",
+        "Jiamin Wu",
+        "Zheng Cai",
+        "Qionghai Dai"
+      ],
+      "abstract": "The detection limit of astronomical imaging observations is limited by several noise sources. Some of that noise is correlated between neighbouring image pixels and exposures, so in principle could be learned and corrected. We present an astronomical self-supervised transformer-based denoising algorithm (ASTERIS), that integrates spatiotemporal information across multiple exposures. Benchmarking on mock data indicates that ASTERIS improves detection limits by 1.0 magnitude at 90% completeness and purity, while preserving the point spread function and photometric accuracy. Observational validation using data from the James Webb Space Telescope (JWST) and Subaru telescope identifies previously undetectable features, including low-surface-brightness galaxy structures and gravitationally-lensed arcs. Applied to deep JWST images, ASTERIS identifies three times more redshift > 9 galaxy candidates, with rest-frame ultraviolet luminosity 1.0 magnitude fainter, than previous methods.",
+      "categories": [
+        "astro-ph.IM",
+        "astro-ph.CO",
+        "astro-ph.GA",
+        "cs.AI"
+      ],
+      "published": "2026-02-19T09:51:35+00:00",
+      "updated": "2026-04-30T22:37:05+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.17205v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2602.17205v2"
+    }
+  ],
+  "total": 5
+}

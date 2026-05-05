@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-02",
+  "papers": [
+    {
+      "arxiv_id": "2603.01543v2",
+      "base_id": "2603.01543",
+      "title": "Mass-type invariants in the presence of a cosmological constant",
+      "authors": [
+        "Virginia Agostiniani",
+        "Stefano Borghini",
+        "Lorenzo Mazzieri"
+      ],
+      "abstract": "In this paper, we introduce a new family of mass-type invariants for time-symmetric initial data in space-times satisfying the Dominant Energy Condition. For positive cosmological constant, these invariants, unlike the total Hawking mass, turn out to be genuinely effective in providing new characterizations of the de Sitter solution. From a theoretical standpoint, this opens a new perspective on how one might refine the rigidity statement originally proposed by Min-Oo in his well known conjecture, later refuted by the counterexamples of Brendle, Marques, and Neves. Via a formal limiting procedure, we also define another invariant, the 1-harmonic Mass, for which we independently prove a positive mass theorem and a Penrose-type inequality, thereby extending tools for probing space-time geometries in the presence of a positive cosmological constant.",
+      "categories": [
+        "math.DG",
+        "gr-qc",
+        "math.AP"
+      ],
+      "published": "2026-03-02T07:15:30+00:00",
+      "updated": "2026-04-27T12:17:52+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.01543v2",
+      "html_url": "https://arxiv.org/html/2603.01543v2",
+      "entry_url": "http://arxiv.org/abs/2603.01543v2"
+    },
+    {
+      "arxiv_id": "2603.02124v2",
+      "base_id": "2603.02124",
+      "title": "On the Physical Nature of the Scalar Mode Mass in the Jordan frame of a Metric $f(R)$ gravity",
+      "authors": [
+        "Giovanni Montani",
+        "Andrea Valletta"
+      ],
+      "abstract": "We analyze the Taylor expansion of metric $f(R)$ gravity in the Jordan frame around the General Relativity limit. By relating the scalar--tensor representation to the original $f(R)$ formulation, we derive constraints on the expansion parameters from the observed value of the present-day $Λ$CDM deceleration parameter and from cosmological bounds on the variation of Newton's constant. We show that these requirements imply that the scalar degree of freedom must have a mass exceeding the Hubble scale by several orders of magnitude. This result challenges the common assumption that the scalar mode can drive cosmological dynamics with a mass of order $H_0$. We provide a dynamical interpretation of this hierarchy by emphasizing that a proper definition of the scalar mass, in a field-theoretical sense, requires an adiabatic separation between background evolution and perturbations, which naturally leads to a super-Hubble mass scale.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2026-03-02T17:42:40+00:00",
+      "updated": "2026-04-25T13:04:25+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.02124v2",
+      "html_url": "https://arxiv.org/html/2603.02124v2",
+      "entry_url": "http://arxiv.org/abs/2603.02124v2"
+    },
+    {
+      "arxiv_id": "2603.01411v2",
+      "base_id": "2603.01411",
+      "title": "Naturalness and Fisher Information",
+      "authors": [
+        "James Halverson",
+        "Thomas R. Harvey",
+        "Michael Nee"
+      ],
+      "abstract": "Fine-tuning and naturalness, the sensitivity of low-energy observables to small changes in the fundamental parameters of a theory, are cornerstones of physics beyond the Standard Model. We propose a new measure of fine-tuning based on information theory. To each point in parameter space we associate a probability distribution over observables. Divergence measures encode the sensitivity of observables to model parameters and determine a Riemannian metric on parameter space. By Chentsov's theorem, the physically motivated metric is the Fisher information metric, up to scaling. We propose a rescaled fine-tuning matrix $\\mathcal{F}_{ij}$ derived from the Fisher information matrix, whose non-zero eigenvalues serve as our measure of fine-tuning. When the number of observables exceeds the number of parameters, $\\mathcal{F}_{ij}$ admits a natural geometric interpretation as the pullback of the Euclidean metric from observable space to the submanifold of admissible predictions, with large eigenvalues corresponding to highly stretched directions and indicative of fine-tuning. Our measure reproduces the familiar Barbieri--Giudice criterion as a special case, while generalising it to multiple correlated parameters. We illustrate its behaviour on dimensional transmutation, the Wilson--Fisher fixed point, a simple model of the hierarchy problem, and the electron Yukawa coupling, finding agreement with physical intuition in each case.",
+      "categories": [
+        "hep-th",
+        "hep-ex",
+        "hep-ph"
+      ],
+      "published": "2026-03-02T03:28:58+00:00",
+      "updated": "2026-05-01T15:42:18+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.01411v2",
+      "html_url": "https://arxiv.org/html/2603.01411v2",
+      "entry_url": "http://arxiv.org/abs/2603.01411v2"
+    }
+  ],
+  "total": 3
+}

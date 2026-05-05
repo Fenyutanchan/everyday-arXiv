@@ -1,0 +1,120 @@
+{
+  "date": "2025-12-08",
+  "papers": [
+    {
+      "arxiv_id": "2512.07825v3",
+      "base_id": "2512.07825",
+      "title": "Novel thermodynamic inequality for rotating AdS black holes",
+      "authors": [
+        "Hamid R. Bakhtiarizadeh"
+      ],
+      "abstract": "We propose a new thermodynamic inequality for stationary and asymptotically Anti-de Sitter rotating black holes, $ 4πJ^2/(3MV)<1 $. This inequality is derived by analyzing the roots of the identity relating the thermodynamic variables, ensuring the avoidance of naked singularities, and consequently preventing violations of the cosmic censorship conjecture. We examine the Kerr-AdS black hole as well as uncharged rotating AdS black strings, and find strong supporting evidence for the inequality across different horizon topologies. Using this inequality, we further demonstrate that the reverse isoperimetric inequality ($ {\\cal R}\\geq 1 $), remains unchanged, in the presence of rotation. Our investigations of a broad class of black hole solutions provide additional confirmation of the proposed inequality. Assuming that the reverse isoperimetric inequality in the presence of rotation continues to hold in higher dimensions, we conjecture the corresponding higher-dimensional generalization of the inequality.",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2025-12-08T18:54:59+00:00",
+      "updated": "2026-04-20T07:56:58+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.07825v3",
+      "html_url": "https://arxiv.org/html/2512.07825v3",
+      "entry_url": "http://arxiv.org/abs/2512.07825v3"
+    },
+    {
+      "arxiv_id": "2512.07706v3",
+      "base_id": "2512.07706",
+      "title": "Bootstrapping non-unitary CFTs",
+      "authors": [
+        "Yu-tin Huang",
+        "Shao-Cheng Lee",
+        "Henry Liao",
+        "Justinas Rumbutis"
+      ],
+      "abstract": "We introduce a non-unitary-compatible numerical bootstrap strategy based on the statistical stability of OPE data inferred from crossing at multiple cross-ratios. For a trial spectrum, crossing determines OPE coefficients whose residual cross-ratio dependence directly measures the truncation error. This defines a scalar objective on the space of spectra, allowing bootstrap searches without imposing unitarity. Applied to two-dimensional Virasoro blocks, the method reproduces known A-series minimal models, including non-unitary examples, and yields candidate truncated solutions for c>1 with crossing violation comparable to that of minimal models. More generally, our framework provides a practical route to solving bootstrap constraints beyond the convex, unitary setting.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2025-12-08T16:52:53+00:00",
+      "updated": "2026-04-23T03:54:26+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.07706v3",
+      "html_url": "https://arxiv.org/html/2512.07706v3",
+      "entry_url": "http://arxiv.org/abs/2512.07706v3"
+    },
+    {
+      "arxiv_id": "2512.07485v3",
+      "base_id": "2512.07485",
+      "title": "The equation of Binet in classical and relativistic orbital mechanics",
+      "authors": [
+        "Jose Luis Alvarez-Perez"
+      ],
+      "abstract": "Binet's equation provides a direct way to obtain the geometric shape of orbits in a central force field. It is well known that in Newtonian gravitation Binet's equation leads to all the conic curves as solutions for an inverse-square force. In this work, we show how Binet's equation arises from the horizontal and vertical infinitesimal displacements of a body in free fall and in inertial motion. This derivation uses elementary concepts of infinitesimal calculus. Second, we derive the relativistic version of Binet's equation for the Schwarzschild-(anti-)de Sitter metric. This derivation, which is novel, directly relates the coordinates involved in Binet's equation without the need to introduce potentials or the use of Killing vectors. Finally, we tackle some controversies related to the role of the cosmological constant in the trajectory of photons in a Schwarzschild-(anti-)de Sitter or even in Reissner-Nordström-(anti-)de Sitter spacetimes.",
+      "categories": [
+        "gr-qc",
+        "math-ph"
+      ],
+      "published": "2025-12-08T12:13:13+00:00",
+      "updated": "2026-04-17T20:57:33+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.07485v3",
+      "html_url": "https://arxiv.org/html/2512.07485v3",
+      "entry_url": "http://arxiv.org/abs/2512.07485v3"
+    },
+    {
+      "arxiv_id": "2512.07721v4",
+      "base_id": "2512.07721",
+      "title": "On the $AdS_3\\times S^3\\times S^3\\times S^1$ dressing factors",
+      "authors": [
+        "Sergey Frolov",
+        "Alessandro Sfondrini"
+      ],
+      "abstract": "We propose dressing factors for massive excitations of the worldsheet S matrix of $AdS_3\\times S^3\\times S^3\\times S^1$ supported by mixed Ramond--Ramond and Neveu-Schwarz--Neveu-Schwarz flux, in the \"string\" and \"mirror\" kinematics. Our proposal is compatible with crossing and unitarity, and it reproduces the available perturbative results for any ratio of the two three-spheres' radii.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2025-12-08T17:12:17+00:00",
+      "updated": "2026-04-17T16:50:37+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.07721v4",
+      "html_url": "https://arxiv.org/html/2512.07721v4",
+      "entry_url": "http://arxiv.org/abs/2512.07721v4"
+    },
+    {
+      "arxiv_id": "2512.07473v3",
+      "base_id": "2512.07473",
+      "title": "Absence of charged pion condensation in a magnetic field with parallel rotation",
+      "authors": [
+        "Puyuan Bai",
+        "Lianyi He"
+      ],
+      "abstract": "We investigate the critical temperature of a relativistic Bose-Einstein condensate of charged bosons driven by rotation in a parallel magnetic field [Y. Liu and I. Zahed, Phys. Rev. Lett. 120, 032001 (2018)]. For non-interacting bosons, the critical temperature can only be determined for a system with fixed angular momentum. We find that the critical temperature of the non-interacting system vanishes due to the fact that the system is quasi-one-dimensional, indicating that non-interacting bosons cannot undergo Bose-Einstein condensation. For interacting bosons, we investigate a system with quartic self-interaction. We show that the order parameter vanishes and the off-diagonal long-range order is absent at any nonzero temperature because of the quasi-one-dimensional feature, in accordance with the Coleman-Mermin-Wagner-Hohenberg theorem.",
+      "categories": [
+        "nucl-th",
+        "cond-mat.quant-gas",
+        "hep-th"
+      ],
+      "published": "2025-12-08T11:57:42+00:00",
+      "updated": "2026-04-15T07:32:50+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.07473v3",
+      "html_url": "https://arxiv.org/html/2512.07473v3",
+      "entry_url": "http://arxiv.org/abs/2512.07473v3"
+    },
+    {
+      "arxiv_id": "2512.07268v3",
+      "base_id": "2512.07268",
+      "title": "Black Holes as Catalysts for Cosmic String Detection and Axion Dark Matter Genesis",
+      "authors": [
+        "Ishan Swamy",
+        "Deobrat Singh"
+      ],
+      "abstract": "The global $U_{PQ}(1)$ Peccei-Quinn (PQ) symmetry, proposed to resolve the strong CP problem, predicts the existence of the axion, a pseudo Nambu-Goldstone boson and a leading dark matter candidate. The spontaneous breaking of this symmetry generates global strings that decay predominantly via the emission of massive axions and gravitational waves. In this work, we investigate the decay of cosmic axion strings in the vicinity of a Schwarzschild black hole and estimate the corresponding energy losses and decay timescales of the resulting string loops. For primordial black holes (PBHs) with masses as small as $10^{-16} M_\\odot$, the total radiated energy by the string is found to be on the order of $10^{27}$ GeV, encompassing both axion emission and gravitational waves. A key finding is that the presence of a central black hole significantly accelerates the decay of cosmic string loops, substantially reducing their lifetimes. We present these results as an initial estimate of axion radiation from PBH-cosmic string systems along with the decay time as an important observational signature for axions strings.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.HE",
+        "hep-th"
+      ],
+      "published": "2025-12-08T08:08:34+00:00",
+      "updated": "2026-04-15T06:23:05+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.07268v3",
+      "html_url": "https://arxiv.org/html/2512.07268v3",
+      "entry_url": "http://arxiv.org/abs/2512.07268v3"
+    }
+  ],
+  "total": 6
+}

@@ -1,0 +1,46 @@
+{
+  "date": "2025-10-26",
+  "papers": [
+    {
+      "arxiv_id": "2510.22601v2",
+      "base_id": "2510.22601",
+      "title": "Quantum Bit Threads and the Entropohedron",
+      "authors": [
+        "Matthew Headrick",
+        "Sreeman Reddy Kasireddy",
+        "Andrew Rolph"
+      ],
+      "abstract": "We derive several new quantum bit thread prescriptions for holographic entanglement entropy, equivalent for static states to the quantum extremal surface formula. Our new prescriptions come in many varieties: vector field-based or based on measures over bulk curves, dependent or independent of the bulk UV regulator, loose and strict versions of constraints, and more. We also explore how bit threads behave in the presence of entanglement islands and baby universes. Finally, our prescriptions inspire new measures of entanglement that we call entanglement distribution functions, which can be packaged into a convex polytope that we call the entropohedron.",
+      "categories": [
+        "hep-th",
+        "quant-ph"
+      ],
+      "published": "2025-10-26T09:34:24+00:00",
+      "updated": "2026-04-15T15:28:10+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.22601v2",
+      "html_url": "https://arxiv.org/html/2510.22601v2",
+      "entry_url": "http://arxiv.org/abs/2510.22601v2"
+    },
+    {
+      "arxiv_id": "2510.22545v3",
+      "base_id": "2510.22545",
+      "title": "The Thermodynamics of the Gravity from Entropy Theory",
+      "authors": [
+        "Ginestra Bianconi"
+      ],
+      "abstract": "The Gravity from Entropy (GfE) action posits that gravity that is fundamentally given by the information encoded in the interplay between matter and geometry. The GfE Lagrangian is given by the Geometric Quantum Relative Entropy (GQRE) between the physical metric and the metric induced by matter and curvature, leading to modified gravitational field equations with an emergent dynamical effective dark energy term, which reduce to Einstein's equations in the low energy, small curvature limit. Adopting a thermodynamic viewpoint, we identify the GfE energy density with this emergent effective dark energy term. For homogeneous and isotropic FRW spacetimes, we show that GfE universes admit a thermal description: locally, they are characterized by $k$-temperatures and $k$-pressures satisfying a first law of GfE thermodynamics. In the low energy, small curvature regime with perfect-fluid matter and radiation, GfE solutions are well approximated by Friedmann cosmologies. While the total GQRE per unit volume does not increase, the total entropy of GfE universes is non-decreasing in time. We show that, while the total GQRE per unit volume does not increase, consistent with its nature as a relative entropy, the total entropy of GfE universes is non-decreasing in time. These results provide a thermodynamic interpretation of GfE cosmologies and of general relativity (GR) itself, recovered in the low energy, small curvature limit of the theory, offering a framework to reconcile local order and complexity with the global increase of entropy in the universe.",
+      "categories": [
+        "gr-qc",
+        "cond-mat.stat-mech",
+        "hep-th",
+        "quant-ph"
+      ],
+      "published": "2025-10-26T05:52:15+00:00",
+      "updated": "2026-04-30T14:08:54+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.22545v3",
+      "html_url": "https://arxiv.org/html/2510.22545v3",
+      "entry_url": "http://arxiv.org/abs/2510.22545v3"
+    }
+  ],
+  "total": 2
+}

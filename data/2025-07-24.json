@@ -1,0 +1,48 @@
+{
+  "date": "2025-07-24",
+  "papers": [
+    {
+      "arxiv_id": "2507.18351v3",
+      "base_id": "2507.18351",
+      "title": "Probing metric fluctuations with the spin of a particle in a quantum simulation",
+      "authors": [
+        "Jiannis K. Pachos",
+        "Patricio Salgado-Rebolledo",
+        "Martine Schut"
+      ],
+      "abstract": "Exploring potential empirical manifestations of quantum gravity is a challenging pursuit. In this study, we utilise a lattice representation of a (2+1)D massive gravity toy model interacting with Dirac fermions that can support specific spacetime fluctuations. We focus on the evolution of the fermion's spin due to its coupling to spacetime fluctuations. To monitor these dynamics, a minimal model is required that comprises two bosonic modes describing spacetime geometry fluctuations coupled to the spin of the fermion. A possible emulation of this system involves encoding spin degrees of freedom in the electronic states of an atom coupled to a bimodal optical cavity that provides the two bosonic modes. Our proposal introduces a novel approach for modelling the effect of interactions between quantum gravity and matter that can be probed with current technology.",
+      "categories": [
+        "quant-ph",
+        "cond-mat.str-el",
+        "hep-th"
+      ],
+      "published": "2025-07-24T12:22:54+00:00",
+      "updated": "2026-04-23T08:10:32+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2507.18351v3",
+      "html_url": "https://arxiv.org/html/2507.18351v3",
+      "entry_url": "http://arxiv.org/abs/2507.18351v3"
+    },
+    {
+      "arxiv_id": "2507.18605v2",
+      "base_id": "2507.18605",
+      "title": "Graviton scattering on self-dual black holes",
+      "authors": [
+        "Tim Adamo",
+        "Giuseppe Bogna",
+        "Lionel Mason",
+        "Atul Sharma"
+      ],
+      "abstract": "The computation of gravitational wave scattering on black hole spacetimes is an extremely hard problem, typically requiring approximation schemes that either treat the black hole perturbatively or are only amenable to numerical techniques. In this paper, we consider linearised gravitational waves (or gravitons) scattering on the self-dual analogue of a black hole: namely, the self-dual Taub-NUT metric. Using the hidden integrability of the self-dual sector, we solve the linearised Einstein equations on these self-dual black hole backgrounds exactly in terms of simple, explicit quasi-momentum eigenstates. Using a description of the self-dual Taub-NUT metric and its gravitons in terms of twistor theory, we obtain an explicit formula, exact in the background, for the tree-level maximal helicity violating (MHV) graviton scattering amplitude at arbitrary multiplicity, with and without spin. This is obtained from the description of the MHV amplitudes in terms of the perturbation theory of a chiral sigma model whose target is the twistor space of the background. The incorporation of spin effects on these backgrounds is a straightforward application of the Newman-Janis shift. We also demonstrate that the holomorphic collinear splitting functions in the self-dual background are equal to those in flat space so that the celestial symmetry algebra is undeformed.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2025-07-24T17:38:25+00:00",
+      "updated": "2026-04-29T09:35:15+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2507.18605v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2507.18605v2"
+    }
+  ],
+  "total": 2
+}

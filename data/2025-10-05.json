@@ -1,0 +1,46 @@
+{
+  "date": "2025-10-05",
+  "papers": [
+    {
+      "arxiv_id": "2510.04179v3",
+      "base_id": "2510.04179",
+      "title": "Crosschecking Cosmic Distances from DESI BAO and DES SNe",
+      "authors": [
+        "Mauricio Lopez-Hernandez",
+        "Eoin Ó Colgáin",
+        "Saeed Pourojaghi",
+        "M. M. Sheikh-Jabbari"
+      ],
+      "abstract": "We perform a consistency check of DESI DR2 BAO constraints ($D_M/r_d, D_H/r_d)$ by reconstructing the same quantities from DES supernovae (SNe) in bins with the same effective redshift $z_{\\textrm{eff}} \\in \\{ 0.510, 0.706, 0.934 \\}$ and a Planck $r_d$ prior. Through mock analysis we show that $D_M(z_{\\rm eff})$ and $D_{H}(z_{\\rm eff})$ can be locally reconstructed model agnostically from $Λ$CDM and extended models, but only if one employs frequentist methods; purely Bayesian reconstructions from Markov Chain Monte Carlo (MCMC) exhibit bias. We find that the ratio of the three $D_M/r_d$ values at different $z_{\\textrm{eff}}$ are consistent with a horizontal, thus confirming that the distance duality relation holds up to calibration. However, the $D_H/r_d$ ratio shows a decreasing trend driven by the $z_{\\textrm{eff}} = 0.934$ bin, the significance of which varies from $2.5 σ$ with Bayesian methods down to $1.4 σ$ with frequentist methods. We show that replacing DES with DES-Dovekie SNe reduces the significance to $1.7 σ$ and $1.2 σ$ in Bayesian and frequentist approaches, respectively. We conclude that distances reconstructed from SNe show good agreement with DESI BAO distances across the redshifts studied. We also note that $D_M(z_{\\rm eff} = 0.510)/r_d$ reconstructed from SNe favours DESI BAO over transversal BAO against a backdrop of a $3.7 σ$ disagreement.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2025-10-05T12:41:23+00:00",
+      "updated": "2026-04-24T15:53:25+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.04179v3",
+      "html_url": "https://arxiv.org/html/2510.04179v3",
+      "entry_url": "http://arxiv.org/abs/2510.04179v3"
+    },
+    {
+      "arxiv_id": "2510.04283v2",
+      "base_id": "2510.04283",
+      "title": "Long-time behaviour of sphalerons in $φ^4$ models with a false vacuum",
+      "authors": [
+        "Stephen C. Anco",
+        "Danial Saadatmand"
+      ],
+      "abstract": "Sphalerons in nonlinear Klein-Gordon models are unstable lump-like solutions that arise from a saddle point between true and false vacua in the energy functional. Numerical simulations are presented which show the sphaleron evolving into an accelerating kink-antikink pair whose separation approaches the speed of light asymptotically at large times. Utilizing a nonlinear collective coordinate method, an approximate analytical solution is derived for this evolution. These results indicate that an exact solution is expected to exhibit a gradient blow-up for large times,caused by energy concentrating at the flanks of the kink-antikink pair.",
+      "categories": [
+        "hep-th",
+        "math-ph",
+        "nlin.PS"
+      ],
+      "published": "2025-10-05T16:52:16+00:00",
+      "updated": "2026-04-29T16:55:10+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.04283v2",
+      "html_url": "https://arxiv.org/html/2510.04283v2",
+      "entry_url": "http://arxiv.org/abs/2510.04283v2"
+    }
+  ],
+  "total": 2
+}

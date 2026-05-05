@@ -1,0 +1,46 @@
+{
+  "date": "2025-03-19",
+  "papers": [
+    {
+      "arxiv_id": "2503.15719v2",
+      "base_id": "2503.15719",
+      "title": "Phase transitions and finite-size effects in integrable virial statistical models",
+      "authors": [
+        "Xin An",
+        "Francesco Giglio",
+        "Giulio Landolfi"
+      ],
+      "abstract": "We analyze thermodynamic models for fluid systems in equilibrium based on a virial expansion of the internal energy in terms of the volume density. We prove that the models, formulated for finite-size systems with $N$ particles, are exactly solvable to any expansion order, as expectation values of physical observables (e.g., volume density) are determined from solutions to nonlinear C-integrable partial differential equations (PDEs) of hydrodynamic type. In the limit $N\\to \\infty$, phase transitions emerge as classical shock waves in the space of thermodynamic variables. Near critical points, we argue that the volume density exhibits a scaling behavior consistent with the Universality Conjecture in viscous transport PDEs. As an application, we employ our framework to nuclear and quark matter, constructing a global quantum chromodynamics (QCD) phase diagram that reveals critical points for the nuclear liquid-gas transition and the hadron gas-quark-gluon plasma transition. We demonstrate how finite-size effects smear critical signatures, implying their potential impact on the search for the QCD critical point.",
+      "categories": [
+        "cond-mat.stat-mech",
+        "hep-th",
+        "nlin.SI",
+        "nucl-th"
+      ],
+      "published": "2025-03-19T22:10:55+00:00",
+      "updated": "2026-04-19T22:20:05+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2503.15719v2",
+      "html_url": "https://arxiv.org/html/2503.15719v2",
+      "entry_url": "http://arxiv.org/abs/2503.15719v2"
+    },
+    {
+      "arxiv_id": "2503.15607v3",
+      "base_id": "2503.15607",
+      "title": "Operator Product Expansion in Carrollian CFT",
+      "authors": [
+        "Kevin Nguyen",
+        "Jakob Salzer"
+      ],
+      "abstract": "Carrollian conformal field theory offers an alternative description of massless scattering amplitudes, that is holographic in nature. In an effort to build a framework that is both predictive and constraining, we construct operator product expansions (OPE) that are compatible with carrollian symmetries. In this way, we unify and extend preliminary works on the subject, and demonstrate that the carrollian OPEs indeed control the short-distance expansion of carrollian correlators and amplitudes. In the process, we extend the representation theory of carrollian conformal fields such as to account for composite operators like the carrollian stress tensor or those creating multiparticle states. In addition we classify 2- and 3-point carrollian correlators and amplitudes with complex kinematics, and give the general form of the 4-point function allowed by symmetry.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2025-03-19T18:00:04+00:00",
+      "updated": "2026-04-17T14:36:50+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2503.15607v3",
+      "html_url": "https://arxiv.org/html/2503.15607v3",
+      "entry_url": "http://arxiv.org/abs/2503.15607v3"
+    }
+  ],
+  "total": 2
+}

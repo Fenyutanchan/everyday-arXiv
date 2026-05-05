@@ -1,0 +1,88 @@
+{
+  "date": "2025-09-01",
+  "papers": [
+    {
+      "arxiv_id": "2509.01585v2",
+      "base_id": "2509.01585",
+      "title": "Dynamics of Loschmidt echoes from operator growth in noisy quantum many-body systems",
+      "authors": [
+        "Takato Yoshimura",
+        "Lucas Sá"
+      ],
+      "abstract": "We study the dynamics of Loschmidt echoes in noisy quantum many-body systems without conservation laws. We first show that the operator Loschmidt echo in noisy unitary dynamics is equivalent to the operator norm of the corresponding dissipative dynamics upon noise averaging. We then analyze this quantity in two complementary ways, revealing universal dynamical behavior. First, we develop a heuristic picture for generic Floquet systems that connects Loschmidt echoes, out-of-time-order correlators, and operator growth, which is valid at any dissipation strength. We assert that the Loschmidt echo has two dynamical regimes depending on the time $t$ and the strength of the noise $p$: Gaussian decay for $pt\\ll1$ and exponential decay (with a noise-independent decay rate) for $pt\\gg1$. Lastly, we rigorously prove all our results for a solvable chaotic many-body quantum circuit, the dissipative random phase model -- thus providing exact insight into dissipative quantum chaos.",
+      "categories": [
+        "cond-mat.stat-mech",
+        "cond-mat.str-el",
+        "hep-th",
+        "quant-ph"
+      ],
+      "published": "2025-09-01T16:15:01+00:00",
+      "updated": "2026-04-17T15:28:37+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.01585v2",
+      "html_url": "https://arxiv.org/html/2509.01585v2",
+      "entry_url": "http://arxiv.org/abs/2509.01585v2"
+    },
+    {
+      "arxiv_id": "2509.01570v2",
+      "base_id": "2509.01570",
+      "title": "Quantum dust cores of black holes and their quasi-normal modes",
+      "authors": [
+        "Tommaso Bambagiotti",
+        "Luca Gallerani",
+        "Andrea Mentrelli",
+        "Andrea Giusti",
+        "Roberto Casadio"
+      ],
+      "abstract": "The quantum description of a gravitationally collapsed ball of dust proposed in Ref.~\\cite{Casadio:2023ymt} is characterised by a linear effective Misner-Sharp-Hernandez mass function describing a matter core hidden by the event horizon. After reviewing the original model and some of its refinements, we investigate the quasi-normal mode spectrum of the resulting spacetime and compare it with the Schwarzschild case. Computations are performed within the WKB approximation, based on the Padé approximants up to thirteenth order. Our analysis shows that deviations from the Schwarzschild spectrum are sensitive to the quantum nature of the core surface.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-09-01T15:55:14+00:00",
+      "updated": "2026-04-15T01:43:38+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.01570v2",
+      "html_url": "https://arxiv.org/html/2509.01570v2",
+      "entry_url": "http://arxiv.org/abs/2509.01570v2"
+    },
+    {
+      "arxiv_id": "2509.01677v4",
+      "base_id": "2509.01677",
+      "title": "Machine Learning in the 2HDM2S model for Dark Matter",
+      "authors": [
+        "Rafael Boto",
+        "Tiago P. Rebelo",
+        "Jorge C. Romão",
+        "João P. Silva"
+      ],
+      "abstract": "We introduce a two real scalar singlet extension of the two Higgs doublet model. We study the vacuum structure, the bounded from below conditions, the restrictions from the oblique parameters S,T and U, as well as the unitarity constraints. We submit the model to collider and Dark Matter experimental constraints and explore its allowed parameter space. We compare randomly populated simulations, simulations starting near the alignment limit, and a Machine Learning based exploration. Using Evolutionary Strategies, we efficiently search for regions with a viable Dark Matter candidate.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-09-01T18:00:32+00:00",
+      "updated": "2026-04-24T18:02:24+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.01677v4",
+      "html_url": "https://arxiv.org/html/2509.01677v4",
+      "entry_url": "http://arxiv.org/abs/2509.01677v4"
+    },
+    {
+      "arxiv_id": "2509.01614v2",
+      "base_id": "2509.01614",
+      "title": "Probing modified gravitational-wave dispersion with bursts from eccentric black-hole binaries",
+      "authors": [
+        "Nicholas Loutrel",
+        "Ava Bailey",
+        "Davide Gerosa"
+      ],
+      "abstract": "Gravitational waves in general relativity are non-dispersive, yet a host of modified theories predict dispersion effects during propagation. In this work, we consider the impact of dispersion effects on gravitational-wave bursts from highly eccentric binary black holes. We consider the dispersion effects within the low-energy, effective field theory limit, and model the dispersion relation via standard parameterized deformations. Such modified dispersion relations produce two modifications to the burst waveform: a modification to the time of arrival of the bursts in the detector, which appears as a 2.5PN correction to the difference in burst arrival times, and a modification to the arrival time of individual orbital harmonics within the bursts themselves, resulting in a Bessel-type amplitude modulation of the waveform. Using the Fisher information matrix, we study projected constraints one might obtain with future observations of repeating burst signals with LIGO. We find that the projected constraints vary significantly depending on the theoretical mechanism producing the modified dispersion. For massive gravitons and multifractional spacetimes that break Lorentz invariance, bounds on the coupling parameters are generally weaker than current bounds. For other Lorentz invariance breaking models such as Hořava-Lifschitz gravity, as well as scenarios with extra dimensions, the bounds in optimal cases can be 1-3 orders of magnitude stronger than current bounds.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE"
+      ],
+      "published": "2025-09-01T16:47:37+00:00",
+      "updated": "2026-04-28T22:11:59+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.01614v2",
+      "html_url": "https://arxiv.org/html/2509.01614v2",
+      "entry_url": "http://arxiv.org/abs/2509.01614v2"
+    }
+  ],
+  "total": 4
+}

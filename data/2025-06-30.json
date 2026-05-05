@@ -1,0 +1,47 @@
+{
+  "date": "2025-06-30",
+  "papers": [
+    {
+      "arxiv_id": "2507.01064v2",
+      "base_id": "2507.01064",
+      "title": "Functional Renormalization for Signal Detection: Dimensional Analysis and Dimensional Phase Transition for Nearly Continuous Spectra Effective Field Theory",
+      "authors": [
+        "Riccardo Finotello",
+        "Vincent Lahoche",
+        "Dine Ousmane Samary"
+      ],
+      "abstract": "Signal detection in high dimensions is a critical challenge in data science. While standard methods based on random matrix theory provide sharp detection thresholds for finite-rank perturbations, such as the known Baik-Ben Arous-Péché (BBP) transition, they are often insufficient for realistic data exhibiting nearly continuous (extensive-rank) signal distributions that merge with the noise bulk. In this regime, typically associated with real-world scenarios such as images for computer vision tasks, the signal does not manifest as a clear outlier but as a deformation of the spectral density's geometry. We use the functional renormalisation group (FRG) framework to probe these subtle spectral deformations. Treating the empirical spectrum as an effective field theory, we define a scale-dependent \"canonical dimension\" that acts as a sensitive order parameter for the spectral geometry. We show that this dimension undergoes a sharp crossover, interpreted as a \"dimensional phase transition\", at signal-to-noise ratios significantly lower than the standard BBP threshold. This dimensional instability is shown to correlate with a spontaneous symmetry breaking in the effective potential and a deviation of eigenvector statistics from the universal Porter-Thomas distribution, confirming the consistency of the method. Such behaviour aligns with recent theoretical results on the \"extensive spike model\", where signal information persists inside the noise bulk before any spectral gap opens. We validate our approach on realistic datasets, demonstrating that the FRG flow consistently detects the onset of this bulk deformation. Finally, we explore a formalisation of this methodology for analysing nearly continuous spectra, proposing a heuristic criterion for signal detection and a method to estimate the number of independent noise components based on the stability of these canonical dimensions.",
+      "categories": [
+        "physics.data-an",
+        "cond-mat.stat-mech",
+        "cs.IT",
+        "hep-th",
+        "stat.ME"
+      ],
+      "published": "2025-06-30T18:00:09+00:00",
+      "updated": "2026-04-15T14:34:42+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2507.01064v2",
+      "html_url": "https://arxiv.org/html/2507.01064v2",
+      "entry_url": "http://arxiv.org/abs/2507.01064v2"
+    },
+    {
+      "arxiv_id": "2506.24047v2",
+      "base_id": "2506.24047",
+      "title": "Linearized transverse diffeomorphism invariant spin-2 theories via gauge invariants",
+      "authors": [
+        "D. Dalmazi",
+        "Luiz G. M. Ramos"
+      ],
+      "abstract": "We analyze the particle spectrum of a second-order (in derivatives) theory based on a rank-2 tensor field with both symmetric and antisymmetric components. By demanding the existence of a propagating massless spin-2 particle and invariance under linearized transverse diffeomorphisms, we derive a new class of stable models with two massless scalars and a single massless spin-2 particle. A natural non linear completion is proposed in terms of a dynamical metric field. The identification of the spectrum is carried out using a fully Lagrangian, gauge-invariant approach which makes use of Bardeen variables in a constructive manner. The approach significantly reduces the number of steps in the spectrum determination in some cases.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2025-06-30T16:52:43+00:00",
+      "updated": "2026-04-23T12:38:17+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.24047v2",
+      "html_url": "https://arxiv.org/html/2506.24047v2",
+      "entry_url": "http://arxiv.org/abs/2506.24047v2"
+    }
+  ],
+  "total": 2
+}

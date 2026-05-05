@@ -1,0 +1,46 @@
+{
+  "date": "2025-10-10",
+  "papers": [
+    {
+      "arxiv_id": "2510.09463v3",
+      "base_id": "2510.09463",
+      "title": "Generalized Distributions of Host Dispersion Measures in the Fast Radio Burst Cosmology",
+      "authors": [
+        "Jing-Yi Jia",
+        "Da-Chun Qiang",
+        "Lin-Yu Li",
+        "Hao Wei"
+      ],
+      "abstract": "Fast radio bursts (FRBs) can provide a measure of the Hubble constant $H_0$ that is independent of the constraints set by the cosmic microwave background (CMB) and the type Ia supernovae (SNIa), thereby arbitrating the Hubble tension. In the literature, the methodology proposed by Macquart et al. has been widely used, in which the contributions to the dispersion measure (DM) from the intergalactic medium (IGM, $\\rm DM_{IGM}$) and the host galaxy ($\\rm DM_{host}$) are described by probability distribution functions. Within the Macquart et al. methodology, it has been found that the parameter $F$, which quantifies the strength of the baryon feedback in galaxies, must be bound by an artificially narrow prior to result in a Hubble constant $H_0$ that is consistent with the ones derived from the CMB and SNIa studies. A recent study using ${\\cal O}(100)$ localized FRBs found that this also causes the fraction of baryon mass in the IGM, $f_{\\rm IGM}$, to approach its upper bound of 1. In the present work, using 125 localized FRBs, we find an unusually low $H_0$ when using a model with a loose prior on $F$. This model is in fact strongly preferred to the model with the narrow prior when considering the Bayesian evidence and the Akaike and Bayesian information criteria. Instead of modifying $σ_Δ=Fz^{-0.5}$ in the distribution of $\\rm DM_{IGM}$, we explore an alternative method of resolving the tension by generalizing the distribution of $\\rm DM_{host}$ with varying location and scale parameters $\\ell$ and $e^μ$, respectively. We find that $H_0$ can be well consistent with the ones of Planck 2018 and SH0ES for all the models considered in this work, while these generalized models are all strongly preferred to the model with a narrow prior on $F$. Our findings indicate that more realistic distributions of $\\rm DM_{host}$ could be the key to using FRBs as an independent measure of $H_0$.",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.HE",
+        "astro-ph.IM",
+        "gr-qc"
+      ],
+      "published": "2025-10-10T15:15:00+00:00",
+      "updated": "2026-05-01T12:31:00+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.09463v3",
+      "html_url": "https://arxiv.org/html/2510.09463v3",
+      "entry_url": "http://arxiv.org/abs/2510.09463v3"
+    },
+    {
+      "arxiv_id": "2510.09506v3",
+      "base_id": "2510.09506",
+      "title": "Negative mass singularities mimicking dark energy",
+      "authors": [
+        "Bob Holdom"
+      ],
+      "abstract": "One or two negative mass singularities are found to occur in static inhomogeneous spatially closed solutions to the Einstein equations. The singularities produce a positive Komar mass, and this decreases the size of the cosmological constant relative to normal matter. The energy density of a perfect fluid vanishes at the singularities and is finite elsewhere. Numerical examples of these static solutions are provided, and their stability properties are found to be similar to the Einstein static universe. In an expanding universe, the effect of the singularities is to push the acceleration towards more positive values. Given the sentiment that naked singularities are to be avoided, we review just how benign the negative mass singularity is.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-10-10T16:10:37+00:00",
+      "updated": "2026-04-28T15:57:48+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.09506v3",
+      "html_url": "https://arxiv.org/html/2510.09506v3",
+      "entry_url": "http://arxiv.org/abs/2510.09506v3"
+    }
+  ],
+  "total": 2
+}

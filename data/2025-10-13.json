@@ -1,0 +1,67 @@
+{
+  "date": "2025-10-13",
+  "papers": [
+    {
+      "arxiv_id": "2510.11022v3",
+      "base_id": "2510.11022",
+      "title": "Cavendish experiment with fast radio bursts on cosmological scales",
+      "authors": [
+        "Shuren Zhou",
+        "Pengjie Zhang"
+      ],
+      "abstract": "A key measure of gravity is the relation between the Weyl potential $Ψ+Φ$ and the matter overdensity $δ_m$, encapsulated as an effective gravitational constant $G_{\\rm light}$ for light motion. Its value, along with possible spatial and temporal variations, is essential for probing physics beyond Einstein gravity. However, the absence of an unbiased proxy for $δ_m$ prevents the direct measurement of $G_{\\rm light}$. In this work, we show that within a theoretical framework respecting the weak equivalence principle, the dispersion measure (DM) of localized fast radio bursts (FRBs) serve as a good proxy for $δ_m$. We further propose an FRB-based estimator $F_G$ to directly measure $G_{\\rm light}$, combining galaxy-DM of localized FRBs and galaxy-weak lensing cross-correlations. With a conservative cut $k\\leq 0.1\\, h/{\\rm Mpc}$, the measurement can achieve a precision of $\\lesssim 10\\% \\sqrt{10^5/N_{\\rm FRB}}$ over 10 equal-width redshift bins at $z\\lesssim 1$. The major systematic error, arising from the clustering bias of electrons traced by the FRB DM, remains subdominant at the $5\\%$ level. It can be further mitigated to the $\\lesssim 1\\%$ level, based on the gastrophysics-agnostic behavior that the clustering bias of total baryons (ionized diffuse gas, stars, neutral hydrogen, etc) approaches unity at sufficiently large scales. Therefore, FRBs shed light on gravitational physics across spatial and temporal scales spanning 20 orders of magnitude.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2025-10-13T05:41:07+00:00",
+      "updated": "2026-04-19T04:44:29+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.11022v3",
+      "html_url": "https://arxiv.org/html/2510.11022v3",
+      "entry_url": "http://arxiv.org/abs/2510.11022v3"
+    },
+    {
+      "arxiv_id": "2510.11555v2",
+      "base_id": "2510.11555",
+      "title": "$O_k$ null test with multi-task Gaussian processes: cosmic curvature and data compatibility",
+      "authors": [
+        "Yungui Gong",
+        "Qing Gao",
+        "Xuchen Lu",
+        "Zhu Yi"
+      ],
+      "abstract": "The $O_k$ null test can not only assess whether the cosmic curvature is zero, therefore if true reducing degeneracies between cosmic curvature and other cosmological parameters, but also provide a model-independent check of compatibility between different data sets. However, traditional implementations often require absolute distance data from Type Ia supernovae (SNe Ia) or baryon acoustic oscillation (BAO) measurements, limiting their applicability because such absolute distance data usually are not accessible. The BAO Alcock Paczynski (AP) parameter $F_{AP}$ is a measurement of a distance ratio, making the Dark Energy Spectroscopic Instrument (DESI) AP measurements particularly well suited for the $O_k$ null test because no absolute distance measurements are required. We propose a novel null test of cosmic curvature tailored to DESI BAO data that combines $F_{AP}$ with ratios such as $D_V'/D_V$ or $D_M'/D_M$. Crucially, this construction eliminates the need for absolute distance measurements. We further develop multi-task Gaussian processes to perform the null test. This approach can also be applied to a joint DESI BAO and SNe Ia dataset, and we find that DESI BAO and SNe Ia data are compatible. Although there is $\\sim 2σ$ evidence of nonzero curvature at low redshift $z\\lesssim 0.5$,   this result is not conclusive largely due to the lack of observational data in the corresponding redshift range.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2025-10-13T15:59:18+00:00",
+      "updated": "2026-04-24T15:41:27+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.11555v2",
+      "html_url": "https://arxiv.org/html/2510.11555v2",
+      "entry_url": "http://arxiv.org/abs/2510.11555v2"
+    },
+    {
+      "arxiv_id": "2510.11861v2",
+      "base_id": "2510.11861",
+      "title": "Impact of facility timing and coordination for next-generation gravitational-wave detectors",
+      "authors": [
+        "Ssohrab Borhanian",
+        "Arianna Renzini",
+        "Philippa S. Cole",
+        "Costantino Pacilio",
+        "Michele Mancarella",
+        "Davide Gerosa"
+      ],
+      "abstract": "While the Einstein Telescope and Cosmic Explorer proposals for next-generation, ground-based detectors promise vastly improved sensitivities to gravitational-wave signals, only joint observations are expected to enable the full scientific potential of these facilities, making timing and coordination between the efforts crucial to avoid missed opportunities. This study investigates the impact of long-term delays on the scientific capabilities of next-generation detector networks. We use the Fisher information formalism to simulate the performance of a set of detector networks for large, fiducial populations of binary black holes, binary neutron stars, and primordial black-hole binaries. Bootstrapping the simulated populations, we map the expected observation times required to reach a number of observations fulfilling scientific targets for key sensitivity and localization metrics across various network configurations. We also investigate the sensitivity to stochastic backgrounds. We find that purely sensitivity-driven metrics such as the signal-to-noise ratio are not strongly affected by delays between facilities. This is contrasted by the localization metrics, which are very sensitive to the number of detectors in the network and, by extension, to delayed observation campaigns for a detector. Effectively, delays in one detector behave like network-wide interruptions for the localization metrics for networks consisting of two next-generation facilities. We examine the impact of a supporting, current-generation detector such as LIGO India operating concurrently with next-generation facilities and find such an addition will greatly mitigate the negative effects of delays for localization metrics, with important consequences on multi-messenger science and stochastic searches.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE"
+      ],
+      "published": "2025-10-13T19:15:03+00:00",
+      "updated": "2026-04-28T15:44:06+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.11861v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2510.11861v2"
+    }
+  ],
+  "total": 3
+}

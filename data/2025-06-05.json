@@ -1,0 +1,28 @@
+{
+  "date": "2025-06-05",
+  "papers": [
+    {
+      "arxiv_id": "2506.04934v3",
+      "base_id": "2506.04934",
+      "title": "On the geometry of synthetic null hypersurfaces",
+      "authors": [
+        "Fabio Cavalletti",
+        "Davide Manini",
+        "Andrea Mondino"
+      ],
+      "abstract": "This paper develops a synthetic framework for the geometric and analytic study of null (lightlike) hypersurfaces in non-smooth spacetimes. Drawing from optimal transport and recent advances in Lorentzian geometry and causality theory, we define a synthetic null hypersurface as a triple $(H, G, \\mathfrak{m})$: $H$ is a closed achronal set in a topological causal space, $G$ is a gauge function encoding affine parametrizations along null generators, and $\\mathfrak{m}$ is a Radon measure serving as a synthetic analog of the rigged measure. This generalizes classical differential geometric structures to potentially singular spacetimes.   The central object is the synthetic null energy condition ($\\mathsf{NC}^e(N)$), defined via the concavity of an entropy power functional along optimal transport, with parametrization given by the gauge $G$. This condition is invariant under changes of gauge and measure within natural equivalence classes. It agrees with the classical Null Energy Condition in the smooth setting and it applies to low-regularity spacetimes. A key property of the $\\mathsf{NC}^e(N)$ condition is the stability under convergence of synthetic null hypersurfaces.   The $\\mathsf{NC}^e(N)$ condition is also remarkably fruitful for applications. First, it provides a framework for a synthetic version of Hawking's area theorem. Second, the celebrated Penrose's singularity theorem is proved for continuous spacetimes, and the existence of trapped regions is settled in the general setting of topological causal spaces satisfying the $\\mathsf{NC}^e(N)$.",
+      "categories": [
+        "math.DG",
+        "gr-qc",
+        "math-ph",
+        "math.MG"
+      ],
+      "published": "2025-06-05T12:09:09+00:00",
+      "updated": "2026-04-29T18:29:45+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.04934v3",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2506.04934v3"
+    }
+  ],
+  "total": 1
+}

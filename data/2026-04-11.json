@@ -1,0 +1,50 @@
+{
+  "date": "2026-04-11",
+  "papers": [
+    {
+      "arxiv_id": "2604.09976v2",
+      "base_id": "2604.09976",
+      "title": "Probing geometrically perturbed strange stars with minimal decoupling using millisecond pulsar timing observations",
+      "authors": [
+        "K. N. Singh",
+        "S. K. Maurya",
+        "A. Errehymy",
+        "A. Altaibayeva",
+        "J. Rayimbaev",
+        "M. Matyoqubov"
+      ],
+      "abstract": "We construct a gravitationally decoupled anisotropic strange star model using the minimal geometric deformation approach with a MIT bag equation of state and an additional source sector controlled by a deformation parameter $β$ and a radial perturbation scale $Ψ$ through $g(r)=\\sin(Ψr^{2})$. The resulting Einstein system is consistently split into seed and $θ$-sectors and matched to an exterior Schwarzschild geometry. The model is constrained by high-mass pulsars: PSR J0740+6620 $(2.08\\pm0.07\\,M_\\odot)$, PSR J1810+1744 $(2.13\\pm0.04\\,M_\\odot)$, PSR J1959+2048 $(2.18\\pm0.09\\,M_\\odot)$, and PSR J2215+5135 $(2.28^{+0.10}_{-0.09}\\,M_\\odot)$. It reproduces these objects with predicted radii $R \\approx 11.3$--$12.9$ km. The maximum mass reaches $M_{\\max} \\approx 2.28\\,M_\\odot$ for $β= 3\\times 10^{-3}$ and $Ψ\\approx 0.03\\,\\text{km}^{-2}$, while for $β= 10^{-3}$ the configuration yields $M_{\\max} \\approx 2.12\\,M_\\odot$ with $R \\approx 12.2$ km. The central density lies in $ρ_c \\approx (2.4$--$3.1)\\times 10^{-4}\\,\\text{km}^{-2}$, decreasing smoothly to $ρ_s \\approx 2.0\\times 10^{-4}\\,\\text{km}^{-2}$. The anisotropy increases from zero at the center to $Δ\\approx (0.25$--$0.45)\\times 10^{-4}\\,\\text{km}^{-2}$ near the surface, generating additional outward support that enhances compactness by $\\sim 15\\%$. The compactness parameter spans $C \\approx 0.17$--$0.22$, safely below the Buchdahl limit, while the surface redshift reaches $z_s \\approx 0.25$--$0.38$. The condition $dM/dρ_c > 0$ is satisfied throughout, confirming dynamical stability. Overall, $β$ enhances the maximum mass by up to $\\sim 15\\%$, while $Ψ$ introduces controlled oscillatory structure without violating observational constraints, producing stable ultra-compact stars consistent with current pulsar data.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2026-04-11T01:21:34+00:00",
+      "updated": "2026-04-16T15:07:20+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.09976v2",
+      "html_url": "https://arxiv.org/html/2604.09976v2",
+      "entry_url": "http://arxiv.org/abs/2604.09976v2"
+    },
+    {
+      "arxiv_id": "2604.10338v2",
+      "base_id": "2604.10338",
+      "title": "Crystalline topological invariants in quantum many-body systems",
+      "authors": [
+        "Naren Manjunath",
+        "Maissam Barkeshli"
+      ],
+      "abstract": "Crystalline symmetries give rise to topological invariants that can distinguish quantum phases of matter. Understanding these in strongly interacting systems is an ongoing research direction requiring non-perturbative methods. Recent developments have demonstrated that even classic models, like the Harper-Hofstadter model of free fermions on a lattice in a magnetic field, yield a host of crystalline symmetry protected topological invariants. Here we review some of these developments, focusing mainly on how to characterize, classify, and detect invariants arising from lattice translation and rotation symmetries along with charge conservation in two-dimensional systems, including integer and fractional Chern insulators.",
+      "categories": [
+        "cond-mat.str-el",
+        "cond-mat.mes-hall",
+        "hep-th",
+        "math-ph",
+        "quant-ph"
+      ],
+      "published": "2026-04-11T19:54:24+00:00",
+      "updated": "2026-04-22T00:31:56+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.10338v2",
+      "html_url": "https://arxiv.org/html/2604.10338v2",
+      "entry_url": "http://arxiv.org/abs/2604.10338v2"
+    }
+  ],
+  "total": 2
+}

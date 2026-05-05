@@ -1,0 +1,25 @@
+{
+  "date": "2024-11-22",
+  "papers": [
+    {
+      "arxiv_id": "2411.14748v2",
+      "base_id": "2411.14748",
+      "title": "Cosmological Analysis with Calibrated Neural Quantile Estimation and Approximate Simulators",
+      "authors": [
+        "He Jia"
+      ],
+      "abstract": "A major challenge in extracting information from current and upcoming surveys of cosmological Large-Scale Structure (LSS) is the limited availability of computationally expensive high-fidelity simulations. We introduce calibrated Neural Quantile Estimation (NQE), a new Simulation-Based Inference (SBI) method that leverages a large number of approximate simulations for training and a small number of high-fidelity simulations for calibration. This approach guarantees an unbiased posterior regardless of approximate simulation accuracy, while achieving near-optimal constraining power when the approximate simulations are reasonably accurate. As a proof of concept, we demonstrate that cosmological parameters can be inferred at field level from projected 2-dim dark matter density maps up to $k_{\\rm max}\\sim1.5\\,h$/Mpc at $z=0$ by training on $\\sim10^4$ Particle-Mesh (PM) simulations with transfer function correction and calibrating with $\\sim10^2$ Particle-Particle (PP) simulations. The calibrated posteriors closely match those obtained by directly training on $\\sim10^4$ expensive PP simulations, but at a fraction of the computational cost. Our method offers a practical and scalable framework for SBI of cosmological LSS, enabling precise inference across vast volumes and down to small scales.",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.IM",
+        "cs.LG"
+      ],
+      "published": "2024-11-22T05:53:46+00:00",
+      "updated": "2026-04-22T18:02:29+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2411.14748v2",
+      "html_url": "https://arxiv.org/html/2411.14748v2",
+      "entry_url": "http://arxiv.org/abs/2411.14748v2"
+    }
+  ],
+  "total": 1
+}

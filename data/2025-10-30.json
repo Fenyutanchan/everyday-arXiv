@@ -1,0 +1,89 @@
+{
+  "date": "2025-10-30",
+  "papers": [
+    {
+      "arxiv_id": "2510.26946v3",
+      "base_id": "2510.26946",
+      "title": "Long-Lived HNLs via ALP Portal at the LHC",
+      "authors": [
+        "Rebeca Beltrán",
+        "Chandan Hati",
+        "Martin Hirsch",
+        "Ana Martín-Galán"
+      ],
+      "abstract": "Heavy neutral leptons (HNLs) and axion-like particles (ALPs) are both considered well-motivated candidates for beyond the standard model (BSM) physics. If ALPs with sizable couplings to gluons exist, they will be abundantly produced at the LHC. Therefore, HNLs produced via the ALP portal may provide unprecedented sensitivities to HNL parameters. Here, we study the prospects for the high-luminosity LHC to search for long-lived HNLs. We consider future far detectors as well as ATLAS in our simulations. In the limit where the ALP mass is above the TeV scale, HNLs are effectively produced by a dimension-8 operator connecting HNL pairs to gluons. For completeness, we therefore also calculate future LHC sensitivities for HNLs produced via $N_R$SMEFT operators with gluons.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-10-30T19:00:00+00:00",
+      "updated": "2026-04-20T08:00:44+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.26946v3",
+      "html_url": "https://arxiv.org/html/2510.26946v3",
+      "entry_url": "http://arxiv.org/abs/2510.26946v3"
+    },
+    {
+      "arxiv_id": "2510.26247v2",
+      "base_id": "2510.26247",
+      "title": "Curious QNEIs from QNEC: New Bounds on Null Energy in Quantum Field Theory",
+      "authors": [
+        "Jackson R. Fliss",
+        "Andrew Rolph"
+      ],
+      "abstract": "We derive new families of quantum null energy inequalities (QNEIs), i.e. bounds on integrated null energy, in quantum field theories in two and higher dimensions. These are universal, state-independent lower bounds on semi-local integrals of $\\langle T_{vv} \\rangle$, the energy-momentum flux in a null direction, and the first of this kind for interacting theories in higher dimensions. Our ingredients include the quantum null energy condition (QNEC), strong subadditivity of von Neumann entropies, defect operator expansions, and the vacuum modular Hamiltonians of null intervals and strips. These results are fundamental constraints on null energy in quantum field theories.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2025-10-30T08:31:26+00:00",
+      "updated": "2026-04-16T14:26:30+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.26247v2",
+      "html_url": "https://arxiv.org/html/2510.26247v2",
+      "entry_url": "http://arxiv.org/abs/2510.26247v2"
+    },
+    {
+      "arxiv_id": "2510.26589v2",
+      "base_id": "2510.26589",
+      "title": "Localization and anomalous reference frames in gravity",
+      "authors": [
+        "Laurent Freidel",
+        "Josh Kirklin"
+      ],
+      "abstract": "In this work, we study the classical phase space for the gravitational degrees of freedom along a null ray. We construct gauge-invariant observables localized on a null ray segment that commute with those localized on the complement; thus, the phase space describes a genuine gravitational subsystem compatible with both locality and diffeomorphism invariance. Our construction employs 'dressing time' (a null time coordinate built from spin 0 gravitational degrees of freedom) as a dynamical reference frame. The existence of such a frame depends on the use of edge mode variables, which we argue are generally required to upgrade a local gauge-fixing condition to a global 'frame-fixing'. To analyze the effects of quantum diffeomorphism anomalies on these structures, we then establish an 'effective' classical description in which the Raychaudhuri equation, symplectic form, and edge mode variables all acquire Virasoro-type deformations. Within this framework, we identify three distinct diffeomorphism actions: reparametrizations (gauge transformations), reorientations (physical symmetries of the reference frame), and dressed reparametrizations. Each acquires its own central extension and plays a different crucial role in the effective theory. The resulting structures provide a foundation for quantizing gravitational null ray segments, including promoting dressing time to a genuine quantum reference frame.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2025-10-30T15:14:23+00:00",
+      "updated": "2026-04-27T15:20:33+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.26589v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2510.26589v2"
+    },
+    {
+      "arxiv_id": "2510.26993v2",
+      "base_id": "2510.26993",
+      "title": "Lattice Calculation of Light Meson Radiative Leptonic Decays",
+      "authors": [
+        "Peter Boyle",
+        "Norman H. Christ",
+        "Xu Feng",
+        "Taku Izubuchi",
+        "Luchang Jin",
+        "Christopher T. Sachrajda",
+        "Xin-Yu Tuo"
+      ],
+      "abstract": "In this work, we perform a lattice QCD calculation of the branching ratios and the form factors of radiative leptonic decays $P \\to \\ell ν_\\ell γ$ ($P = π, K$) using $N_f=2+1$ domain wall fermion ensembles generated by the RBC and UKQCD collaborations at the physical pion mass. We adopt the infinite volume reconstruction (IVR) method, which extends lattice data to infinite volume and effectively controls the finite volume effects. This study represents a first step toward a complete calculation of radiative corrections to leptonic decays using the IVR method, including both real photon emissions and virtual photon loops. For decays involving a final state electron, collinear radiative corrections, enhanced by the large logarithmic factors such as $\\ln(m_π^2/m_e^2)$ and $\\ln(m_K^2/m_e^2)$, can reach the level of $O(10\\%)$ and are essential at the current level of theoretical and experimental precision. After including these corrections, our result for $π\\to eν_eγ$ agrees with the PIBETA measurement; for \\(K \\to eν_eγ\\), our results are consistent with the KLOE data and exhibit a $1.7σ$ tension with E36; and for $K \\to μν_μγ$, where radiative corrections are negligible, our results confirm the previously observed discrepancies between lattice results and the ISTRA/OKA measurements at large photon energies, and with the E787 results at large muon photon angles.",
+      "categories": [
+        "hep-lat",
+        "hep-ex",
+        "hep-ph"
+      ],
+      "published": "2025-10-30T20:47:48+00:00",
+      "updated": "2026-04-27T20:00:04+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.26993v2",
+      "html_url": "https://arxiv.org/html/2510.26993v2",
+      "entry_url": "http://arxiv.org/abs/2510.26993v2"
+    }
+  ],
+  "total": 4
+}

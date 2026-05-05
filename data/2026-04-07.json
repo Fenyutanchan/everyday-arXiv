@@ -1,0 +1,88 @@
+{
+  "date": "2026-04-07",
+  "papers": [
+    {
+      "arxiv_id": "2604.06326v2",
+      "base_id": "2604.06326",
+      "title": "Exotic Higgs Decays at a Muon Collider",
+      "authors": [
+        "JiJi Fan",
+        "Lingfeng Li",
+        "Tao Liu",
+        "Yanhan Wang",
+        "Mingrui Zhou"
+      ],
+      "abstract": "We study the sensitivity of a future muon collider to exotic Higgs decays in a minimal scenario of Standard Model (SM) augmented with a light singlet scalar $S$. We consider the decay $h\\to SS$ and $S$'s subsequently decay back to SM. In particular, we focus on final states with four bottom quarks ($4b$), or two bottom quarks and two muons ($2b2μ$). Analyses are performed for two muon collider benchmark configurations: center-of-mass collision energy $\\sqrt{s}=3~\\mathrm{TeV}$ with $1~\\mathrm{ab}^{-1}$ data and $\\sqrt{s}=10~\\mathrm{TeV}$ with $10~\\mathrm{ab}^{-1}$ data. Machine-learning techniques are applied to suppress backgrounds and mitigate jet-combinatorics effects in both channels. We find that the $4b$ mode could be sensitive to the branching ratio, BR$(h \\to SS \\to 4b)$, of ${\\cal O}(10^{-2})$ at 3 TeV and ${\\cal O}(10^{-3})$ at 10 TeV, significantly improving upon high-luminosity LHC projections. In the Higgs-portal model with $S$ coupling to SM only through mixing with the Higgs, the sensitivities to BR$(h \\to SS)$ remain at the same level given ${\\cal O}(1)$ branching fraction of $S$ decaying into $b$-quarks. The $2b2μ$ mode benefits from a clean dimuon resonance and can probe BR$(h\\to SS\\to 2b2μ)$ down to $10^{-5}$ level at a 10 TeV muon collider. But the sensitivity to BR$(h \\to SS)$ will be significantly reduced due to the small branching fraction of $S$ decaying into muons in the Higgs portal model.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-04-07T18:03:36+00:00",
+      "updated": "2026-04-15T17:13:05+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.06326v2",
+      "html_url": "https://arxiv.org/html/2604.06326v2",
+      "entry_url": "http://arxiv.org/abs/2604.06326v2"
+    },
+    {
+      "arxiv_id": "2604.06103v2",
+      "base_id": "2604.06103",
+      "title": "The SUSY reach of Higgs Factories in the most challenging scenario: scalar $τ$-leptons with lowest cross section and small mass differences",
+      "authors": [
+        "Maria Teresa Núñez Pardo de Vera",
+        "Mikael Berggren",
+        "Jenny List"
+      ],
+      "abstract": "The direct pair-production of the $\\tildeτ$, is one of the most interesting channels to search for SUSY in: the $\\tildeτ$ is likely to be the lightest of the scalar leptons, and the signature of $\\tildeτ$ pair production is one of the experimentally most difficult ones, making it the ``worst'' possible scenario for SUSY searches. The current limit on $\\tildeτ$ production in the general MSSM comes from LEP. Limits obtained at LHC do extend to higher masses, but they are only valid under strong assumptions. Future $e^+e^-$ colliders will be powerful for SUSY searches, offering advantages with respect to previous $e^+e^-$ colliders as well as to hadron machines. In order to quantify their capabilities, the ``worst-case'' scenario for $\\tildeτ$ searches has been studied, taking into account the effect of the $\\tildeτ$ mixing on both $\\tildeτ$ production cross section and on detection efficiency. To evaluate the latter, the ILD detector concept, originally developed for the International Linear Collider (ILC), and the ILC beam conditions at a centre-of-mass energy of $500$\\,GeV have been used for detailed simulations, including for the first time the effect of bunch-crossings containing no hard $e^+e^-$ interaction, but only low-$\\it{P_{T}}$ hadrons from $γγ$ interactions and $e^+e^-$ pairs from beamstrahlung. Still, the obtained exclusion and discovery reaches extend nearly up to the kinematic limit even in the worst-case scenario. This remains true also when the $\\tildeτ$ and the lightest SUSY particle are quite close in mass. The results of the detailed study are extrapolated to centre-of-mass energies, integrated luminosities and beam polarisations of other proposed Higgs factory projects and discussed in view of their respective experimental environments, in particular addressing the case of FCCee.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-04-07T17:15:44+00:00",
+      "updated": "2026-04-14T15:32:03+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.06103v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2604.06103v2"
+    },
+    {
+      "arxiv_id": "2604.06303v2",
+      "base_id": "2604.06303",
+      "title": "Optimization of entanglement harvesting with arbitrary temporal profiles: the limit of second order perturbation theory",
+      "authors": [
+        "Marcos Morote-Balboa",
+        "T. Rick Perche"
+      ],
+      "abstract": "We study the protocol of entanglement harvesting when two local probes couple to the vacuum of a real scalar quantum field with arbitrary temporal profiles. We use a Hermite expansion to efficiently compute smeared field propagators in closed-form, recasting the negativity between the probes as a matrix product. We then optimize the protocol under different signalling conditions, enhancing entanglement harvesting by several orders of magnitude. This optimization would take current experimental proposals beyond the regime of second order perturbation theory.",
+      "categories": [
+        "quant-ph",
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2026-04-07T18:00:00+00:00",
+      "updated": "2026-04-29T12:47:21+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.06303v2",
+      "html_url": "https://arxiv.org/html/2604.06303v2",
+      "entry_url": "http://arxiv.org/abs/2604.06303v2"
+    },
+    {
+      "arxiv_id": "2604.05391v2",
+      "base_id": "2604.05391",
+      "title": "Topologically shadowed quantum criticality: A non-compact conformal manifold",
+      "authors": [
+        "Tianyao Fang",
+        "Weicheng Ye",
+        "Zhengcheng Gu",
+        "Fei Zhou"
+      ],
+      "abstract": "We put forward a proposal for topological quantum critical points (tQCPs) separating non-invertible chiral topological orders in $(2+1)$ dimensions. We conjecture that these tQCPs can be captured by a family of scale-invariant field theories forming a non-compact scale-invariant manifold. A central feature of our proposal is topological shadowing: the underlying critical theory is rigorously constrained by the global topological data of the two adjacent gapped phases. These theories can be further projected into quantum field theories with universal non-local structures. Specifically, we show that the quantum dynamics of the $U(1)$ symmetric critical point uniquely characterized by a topological angle $Θ_{\\text{cft}}$ -- which is defined by a commutator between two Wilson loop operators on a torus -- is determined by the braiding angles $Θ_{1,2}$ of the adjacent gapped phases via the relation $Θ_{\\text{cft}}^{-1} =\\frac{1}{2}[Θ_1^{-1} + Θ_2^{-1}]$. Despite the non-locality, our renormalization group calculations (up to two-loop order) strongly suggest that the theory shall maintain exact scale invariance. This establishes, without supersymmetry, a continuous manifold of fixed points that naturally becomes a conformal manifold when the local structure is further enforced.",
+      "categories": [
+        "cond-mat.str-el",
+        "cond-mat.mes-hall",
+        "hep-th"
+      ],
+      "published": "2026-04-07T03:42:55+00:00",
+      "updated": "2026-04-30T04:25:27+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.05391v2",
+      "html_url": "https://arxiv.org/html/2604.05391v2",
+      "entry_url": "http://arxiv.org/abs/2604.05391v2"
+    }
+  ],
+  "total": 4
+}

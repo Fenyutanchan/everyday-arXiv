@@ -1,0 +1,63 @@
+{
+  "date": "2026-02-18",
+  "papers": [
+    {
+      "arxiv_id": "2602.16285v2",
+      "base_id": "2602.16285",
+      "title": "Tidal Deformation Bounds and Perturbation Transfer in Bounded Curvature Spacetimes",
+      "authors": [
+        "Martin Drobczyk"
+      ],
+      "abstract": "We derive two model-independent results for spacetimes with globally bounded tidal fields. These are operational resolution scales of the local-inertial approximation and tidal dynamics; no spacetime discreteness is implied. Given an invariant bound $λ_{\\max}\\leλ_{\\rm bound}$ on the electric Riemann eigenvalues $E_{ij}\\equiv R_{\\hat{0}i\\hat{0}j}$ along freely falling worldlines, we prove (i)~a rigorous upper bound on accumulated geodesic deviation through any bounded curvature interior, controlled by $τ_*\\equivλ_{\\max}^{-1/2}$, and (ii)~the existence of a critical wavenumber $k_*\\simτ_*^{-1}$ separating adiabatic from non-adiabatic perturbation transfer through high-curvature epochs, with Bogoliubov coefficients exponentially suppressed for $k\\,τ_*\\gg 1$. Both results depend only on the tidal bound (and, for mode transfer, on a mild timescale assumption for the curvature-driven effective potential) and are otherwise insensitive to metric details. For preparation, we collect the standard operational consequences of bounded curvature, including the accuracy-dependent local-inertial domain $L_{\\rm LI}(\\varepsilon)\\sim\\sqrt{\\varepsilon}\\, λ_{\\max}^{-1/2}$ and, for conformally flat cores in four dimensions, the benchmark ratio $τ_*/L_*=24^{1/4}$ with $L_*\\equiv K_{\\max}^{-1/4}$. We quantify the robustness of this coefficient under departures from maximal symmetry via the Weyl-to-Kretschmann ratio $ε_C$. The general framework is validated numerically in the extremal Hayward geometry.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2026-02-18T09:11:06+00:00",
+      "updated": "2026-04-14T14:07:00+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.16285v2",
+      "html_url": "https://arxiv.org/html/2602.16285v2",
+      "entry_url": "http://arxiv.org/abs/2602.16285v2"
+    },
+    {
+      "arxiv_id": "2602.16425v2",
+      "base_id": "2602.16425",
+      "title": "Dynamical generation of fermion mass in a scalar-fermion theory with $λφ^4$ interaction",
+      "authors": [
+        "Somnath Majumder",
+        "Krishnendu Mukherjee"
+      ],
+      "abstract": "The effective potential for a scalar theory with $λφ^4$ interaction, coupled to a massless fermion through Yukawa interaction is calculated by summing over infinite number of two particle irreducible (2PI) diagrams of two different types and a 2PI diagram of a third type using Cornwall, Jackiw and Tomboulis (CJT) method. There is an inversion symmetry present in the effective potential under $φ\\rightarrow -φ$. When the value of coupling constant falls beyond an open set of positive real numbers, the effective potential exhibits both maxima and minima above and below the zero potential line respectively on either side of its minimum at $φ=0$. The fermion acquires a mass in this region of coupling constant when the system settles into the minimum at positive, non-zero $φ$ breaking the inversion symmetry of the vacuum. However, the effective potential exhibits a minimum only at $φ=0$ and also the fermion remains massless when the coupling constant assumes any value from this open set.",
+      "categories": [
+        "hep-th",
+        "hep-ph"
+      ],
+      "published": "2026-02-18T12:58:10+00:00",
+      "updated": "2026-04-27T12:06:17+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.16425v2",
+      "html_url": "https://arxiv.org/html/2602.16425v2",
+      "entry_url": "http://arxiv.org/abs/2602.16425v2"
+    },
+    {
+      "arxiv_id": "2602.16575v2",
+      "base_id": "2602.16575",
+      "title": "Chiral gravitational waves from multi-phase magnetogenesis",
+      "authors": [
+        "H. V. Ragavendra",
+        "Gianmassimo Tasinato",
+        "L. Sriramkumar"
+      ],
+      "abstract": "Cosmological vector fields are central to many early-Universe phenomena, including inflationary dynamics, primordial magnetogenesis, and dark-matter scenarios. However, constructing models able to generate cosmological magnetic fields while avoiding strong coupling, backreaction, and cosmic microwave background constraints remains challenging. We study a novel mechanism in which brief non--slow-roll phases during inflation amplify primordial magnetic fields at small scales, while maintaining theoretical consistency and observational viability. We incorporate parity-violating interactions in the vector sector and demonstrate, for the first time in a non--slow-roll framework, that chirality can significantly boost magnetic-field amplitudes and imprint distinctive polarization-dependent spectral features. We complement detailed numerical computations with an analytical treatment yielding compact expressions for chiral vector mode functions that reproduce the main spectral properties. We then develop a systematic formalism to evaluate the stochastic gravitational-wave background naturally induced at second order by these amplified fields, identifying both an intensity component and a circularly polarized contribution with characteristic frequency profiles. We discuss detection prospects with future multiband gravitational-wave observatories, showing that chiral signatures could provide a distinctive observational probe. Our results introduce new avenues for enhancing primordial magnetic fields and their associated gravitational-wave signals, opening promising possibilities for their future detection and interpretation, both with cosmological and gravitational wave probes.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2026-02-18T16:20:53+00:00",
+      "updated": "2026-04-28T17:53:39+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.16575v2",
+      "html_url": "https://arxiv.org/html/2602.16575v2",
+      "entry_url": "http://arxiv.org/abs/2602.16575v2"
+    }
+  ],
+  "total": 3
+}

@@ -1,0 +1,79 @@
+{
+  "date": "2026-04-12",
+  "papers": [
+    {
+      "arxiv_id": "2604.10811v2",
+      "base_id": "2604.10811",
+      "title": "A consistent MOND modelling of the Bullet Cluster",
+      "authors": [
+        "X. Hernandez"
+      ],
+      "abstract": "It is a common miss-conception that 1E 0657-56, the \"Bullet Cluster\", is somehow inconsistent with MOND expectations. The argument   centres on the fact that the baryonic matter distribution of this system is dominated by the X-ray emitting gas, while the   total projected surface density required under General Relativity to explain the observed lensing signal, centres on the observed galaxies.   This is sometimes interpreted as being in conflict with MOND, as under such an interpretation, it is naively assumed that all   dark matter being absent, the gravitational potential should necessarily be dominated by the largest mass distribution, that of   the gas. However, just as under General Relativity, under MOND, the total gravitational potential of a system depends sensitively   upon the volume density and not just on the total mass. It is shown in this {\\it letter} that the surface density which QUMOND predicts will be inferred   under a standard gravity framework from the total gravitational potential of the Bullet Cluster, closely matches what General   Relativity inferences of lensing observations return. The close-to-point-like galaxies imply under QUMOND a relatively much larger   surface density signal than what is expected from the Mpc scale gas distribution.",
+      "categories": [
+        "astro-ph.GA",
+        "astro-ph.CO"
+      ],
+      "published": "2026-04-12T20:46:08+00:00",
+      "updated": "2026-04-19T21:21:05+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.10811v2",
+      "html_url": "https://arxiv.org/html/2604.10811v2",
+      "entry_url": "http://arxiv.org/abs/2604.10811v2"
+    },
+    {
+      "arxiv_id": "2604.10595v2",
+      "base_id": "2604.10595",
+      "title": "Low-ionization Metal Absorption at $0.7 \\lesssim z \\lesssim 2$ Confronting Cosmological Simulations with Observations",
+      "authors": [
+        "Ivan Rapoport",
+        "Ehud Behar",
+        "Vincent Desjacques"
+      ],
+      "abstract": "Low-ionization metal absorption lines provide a primary probe of cool gas in and around galaxies. We confront observations of metal-line absorption in quasar spectra with predictions from the IllustrisTNG cosmological simulation in order to benchmark how well current galaxy formation models reproduce the observed circumgalactic medium (CGM) and intergalactic medium (IGM) absorption signatures. We implement two ionization prescriptions: a purely collisional model and a model including photo-ionization by a uniform ultraviolet background (UVB). Using a grid-based framework, we compute MgI, MgII and FeII column densities and construct column density probability distribution functions (PDFs) and equivalent width (EW) statistics for comparison with observations. The observational samples considered here are based on the High Resolution Echelle Spectrometer (HIRES), the Ultraviolet and Visual Echelle Spectrograph (UVES), the Sloan Digital Sky Survey (SDSS) and the Dark Energy Spectroscopic Instrument (DESI). The computed PDFs broadly reproduce the observed ones across the sampled column density range of $10^{11.4}\\lesssim \\text{N}\\lesssim 10^{16}\\ \\rm{cm^{-2}}$, indicating that the simulation captures the dominant physical drivers of low-ionization absorption. We then compute the cosmic incidence of MgII systems, namely the evolution of their number with redshift $d\\mathcal{N}/{dz}$. The model that includes UVB accurately produces $d\\mathcal{N}/{dz}$ up to equivalent widths (EW) of $\\rm W_0^{2796} < 0.6\\ \\mathring{A}$, consistent with low-density photo-ionized gas in the outer CGM. At high EWs of $\\rm W_0^{2796} > 1\\ \\mathring{A}$ TNG underestimates $d\\mathcal{N}/{dz}$ and fails to capture its rise toward $z\\sim2$.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2026-04-12T12:04:11+00:00",
+      "updated": "2026-04-16T12:51:20+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.10595v2",
+      "html_url": "https://arxiv.org/html/2604.10595v2",
+      "entry_url": "http://arxiv.org/abs/2604.10595v2"
+    },
+    {
+      "arxiv_id": "2604.10726v2",
+      "base_id": "2604.10726",
+      "title": "Reionization Topology as a Probe of Self-Interacting Dark Matter",
+      "authors": [
+        "Zihan Wang"
+      ],
+      "abstract": "The topology of cosmic reionization, the sizes, shapes, and connectivity of ionized bubbles is a primary observable of next-generation 21\\,cm experiments. We show that this topology is sensitive to the microphysics of dark matter. Self-interacting dark matter (SIDM), with cross-sections $σ/m\\sim 1$--$10\\;\\mathrm{cm^2/g}$ motivated by small-scale structure anomalies, reduces halo gas binding energies and increases the duty cycle of ionizing-photon escape. At fixed global neutral fraction $\\bar{x}_{\\rm HI}$, this reshapes the source population from rare, very bright emitters to more numerous, moderate emitters, producing qualitatively different ionization morphology. We decompose the effect into two scale-dependent levers: a $2$--$3\\%$ emissivity-weighted bias shift at $k\\lesssim 0.1\\;h/\\mathrm{Mpc}$, and a factor $2$--$4$ shot-noise suppression at $k\\sim 0.1$--$1\\;h/\\mathrm{Mpc}$. A halo-by-halo semi-numerical simulation at $128^3$ resolution confirms a $\\sim 60$--$70\\%$ increase in the Euler characteristic of the ionization field for $σ/m \\gtrsim 2\\;\\mathrm{cm^2/g}$, detected at $3.8σ$ across ten independent realizations. A blowout model connecting the binding-energy reduction to the duty cycle through the ISM column density distribution yields a detection threshold at $σ/m \\sim 1$--$2\\;\\mathrm{cm^2/g}$. The signal exceeds the CDM baryonic uncertainty band and is robust to the functional form of the emissivity parametrization. The signal persists even if gravitational heating offsets $50$--$75\\%$ of the blowout enhancement, and is not diluted by unresolved low-mass sources. Velocity-dependent SIDM produces a qualitatively distinct opposite-sign bias shift. These predictions are testable with SKA1-Low, establishing reionization as a new arena for probing dark matter models complementary to dwarf galaxies and galaxy clusters.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "published": "2026-04-12T16:59:09+00:00",
+      "updated": "2026-04-16T12:34:51+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.10726v2",
+      "html_url": "https://arxiv.org/html/2604.10726v2",
+      "entry_url": "http://arxiv.org/abs/2604.10726v2"
+    },
+    {
+      "arxiv_id": "2604.11847v2",
+      "base_id": "2604.11847",
+      "title": "Spin-Momentum Decoupling in Quarkonium Hadronization: Polarization Quenching via Environment-Induced Decoherence in Jets",
+      "authors": [
+        "Yi Yang"
+      ],
+      "abstract": "The suppression of heavy quarkonium polarization at high transverse momentum ($p_T$) remains a persistent puzzle in quantum chromodynamics (QCD). We propose an effective open-quantum-system paradigm demonstrating that the heavy quark spin state and its macroscopic momentum effectively decouple during hadronization. By retaining the short-distance non-relativistic QCD (NRQCD) perturbative calculations as a kinematic baseline, we argue that the immense kinematic inertia at high $p_T$ parametrically preserves the power-law momentum spectrum. Concurrently, the intense, stochastic chromo-electric background within a fragmenting jet acts as a dynamic decoherence environment. Using a horizon-inspired picture as a physically motivated parametrization, we derive an effective temperature $T_{\\text{eff}}(z) \\propto \\sqrt{\\ln(1/z)}$ driven by the multiplicity of soft accompanying partons. By incorporating this effective temperature into a Lindblad dissipation framework, we predict a simultaneous quenching of the polar and azimuthal anisotropies towards a maximally mixed state. Crucially, the recently observed ``soft'' fragmentation of $Υ(nS)$ by the CMS Collaboration provides a highly consistent phase-space weighting required in our framework to explain the historical inclusive unpolarized anomaly. Identifying the fragmentation fraction $z=p_T^{\\mathcal{Q}}/p_T^{\\text{jet}}$ as the critical control variable, we propose that a key testable prediction is the simultaneous $z$-dependent suppression of $λ_θ$, $λ_φ$, and $\\tildeλ$ in fixed quarkonium and jet $p_T$ bins.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2026-04-12T22:31:47+00:00",
+      "updated": "2026-04-15T08:11:22+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.11847v2",
+      "html_url": "https://arxiv.org/html/2604.11847v2",
+      "entry_url": "http://arxiv.org/abs/2604.11847v2"
+    }
+  ],
+  "total": 4
+}

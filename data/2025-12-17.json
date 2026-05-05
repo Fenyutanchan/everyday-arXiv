@@ -1,0 +1,153 @@
+{
+  "date": "2025-12-17",
+  "papers": [
+    {
+      "arxiv_id": "2512.15578v2",
+      "base_id": "2512.15578",
+      "title": "Scalar, vector and tensor fields on $dS_3$ with arbitrary sources: harmonic analysis and antipodal maps",
+      "authors": [
+        "Geoffrey Compère",
+        "Sébastien Robert"
+      ],
+      "abstract": "The scalar, vector and tensor spherical harmonics on three-dimensional de Sitter spacetime are defined and analyzed. Each harmonic defines two sets of asymptotic data on the two sphere in the asymptotic expansion close to both the past and the future of de Sitter spacetime. For each case, we make explicit the antipodal relationship of both sets of asymptotic data between past and future infinity, which can be non-local. A procedure is defined to extract these asymptotic data in the presence of sources. This provides for each class of propagating field on de Sitter the relationship between two independent sets of data defined on the sphere in the asymptotic future with the corresponding data defined in the asymptotic past. We also provide several theorems on the decomposition of vector and tensors on de Sitter such as one proving that a large class of tensors obeying an inhomogeneous wave equation can be expressed locally in terms of a symmetric transverse traceless tensor. These results are instrumental in the description of interacting four-dimensional asymptotically flat fields at spatial infinity.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2025-12-17T16:36:42+00:00",
+      "updated": "2026-04-20T08:10:43+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.15578v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2512.15578v2"
+    },
+    {
+      "arxiv_id": "2512.15393v2",
+      "base_id": "2512.15393",
+      "title": "Spontaneous wave function collapse from non-local gravitational self-energy",
+      "authors": [
+        "Kimet Jusufi",
+        "Douglas Singleton",
+        "Francisco S. N. Lobo"
+      ],
+      "abstract": "We incorporate non-local gravitational self-energy, motivated by string-inspired T-duality, into the Schrödinger-Newton equation. In this framework spacetime has an intrinsic non-locality, rendering the standard linear superposition principle only an approximation valid in the absence of gravitational effects. We then invert the logic by assuming the validity of linear superposition and demonstrate that such superpositions inevitably become unstable once gravity is included. The resulting wave-function collapse arises from a fundamental tension between the equivalence principle and the quantum superposition principle in a semiclassical spacetime background. We further show that wave functions computed in inertial and freely falling frames differ by a gravitationally induced phase shift containing linear and cubic time contributions along with a constant global term. These corrections produce a global phase change and lead to a spontaneous, model-independent collapse time inversely proportional to the mass of the system.",
+      "categories": [
+        "gr-qc",
+        "hep-th",
+        "quant-ph"
+      ],
+      "published": "2025-12-17T12:45:35+00:00",
+      "updated": "2026-04-22T09:26:59+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.15393v2",
+      "html_url": "https://arxiv.org/html/2512.15393v2",
+      "entry_url": "http://arxiv.org/abs/2512.15393v2"
+    },
+    {
+      "arxiv_id": "2512.15960v3",
+      "base_id": "2512.15960",
+      "title": "DESI-DR1 $3 \\times 2$-pt analysis: consistent cosmology across weak lensing surveys",
+      "authors": [
+        "A. Porredon",
+        "C. Blake",
+        "J. U. Lange",
+        "N. Emas",
+        "J. Aguilar",
+        "S. Ahlen",
+        "A. Bera",
+        "D. Bianchi",
+        "D. Brooks",
+        "F. J. Castander",
+        "T. Claybaugh",
+        "J. Coloma Nadal",
+        "A. Cuceu",
+        "K. S. Dawson",
+        "A. de la Macorra",
+        "Biprateep Dey",
+        "P. Doel",
+        "A. Elliott",
+        "S. Ferraro",
+        "A. Font-Ribera",
+        "J. E. Forero-Romero",
+        "C. Garcia-Quintero",
+        "E. Gaztañaga",
+        "S. Gontcho A Gontcho",
+        "G. Gutierrez",
+        "J. Guy",
+        "B. Hadzhiyska",
+        "H. K. Herrera-Alcantar",
+        "S. Heydenreich",
+        "K. Honscheid",
+        "C. Howlett",
+        "D. Huterer",
+        "M. Ishak",
+        "S. Joudaki",
+        "R. Joyce",
+        "D. Kirkby",
+        "A. Kremin",
+        "A. Krolewski",
+        "O. Lahav",
+        "C. Lamman",
+        "M. Landriau",
+        "L. Le Guillou",
+        "A. Leauthaud",
+        "M. E. Levi",
+        "M. Manera",
+        "A. Meisner",
+        "R. Miquel",
+        "S. Nadathur",
+        "J. A. Newman",
+        "G. Niz",
+        "N. Palanque-Delabrouille",
+        "W. J. Percival",
+        "C. Poppett",
+        "F. Prada",
+        "I. Pérez-Ràfols",
+        "A. Robertson",
+        "G. Rossi",
+        "R. Ruggeri",
+        "E. Sanchez",
+        "C. Saulder",
+        "D. Schlegel",
+        "M. Schubnell",
+        "A. Semenaite",
+        "H. Seo",
+        "J. Silber",
+        "A. Souki",
+        "D. Sprayberry",
+        "G. Tarlé",
+        "M. Vargas-Magaña",
+        "B. A. Weaver",
+        "C. Zhou",
+        "R. Zhou",
+        "H. Zou"
+      ],
+      "abstract": "We present a joint cosmological analysis of projected galaxy clustering observations from the Dark Energy Spectroscopic Instrument Data Release 1 (DESI-DR1), and overlapping weak gravitational lensing observations from three datasets: the Kilo-Degree Survey (KiDS-1000), the Dark Energy Survey (DES-Y3), and the Hyper-Suprime-Cam Survey (HSC-Y3). This combination of large-scale structure probes allows us to measure a set of $3 \\times 2$-pt correlation functions, breaking the degeneracies between parameters in cosmological fits to individual observables. We obtain mutually-consistent constraints on the parameter $S_8 = σ_8 \\sqrt{Ω_{\\rm m}/0.3} = 0.786^{+0.022}_{-0.019}$ from the combination of DESI-DR1 and DES-Y3, $S_8 = 0.760^{+0.020}_{-0.018}$ from KiDS-1000, and $S_8 = 0.771^{+0.026}_{-0.027}$ from HSC-Y3. These parameter determinations are consistent with fits to the Planck Cosmic Microwave Background dataset, albeit with $1.5-2σ$ lower values in the $S_8-Ω_{\\rm m}$ plane. We perform our analysis with a unified pipeline tailored to the requirements of each cosmic shear survey, which self-consistently determines cosmological and astrophysical parameters. We generate an analytical covariance matrix for the correlation data including all cross-covariances between probes, and we design a new blinding procedure to safeguard our analysis against confirmation bias, whilst leaving goodness-of-fit statistics unchanged. Our study is part of a suite of papers that present joint cosmological analyses of DESI-DR1 and weak gravitational lensing datasets.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2025-12-17T20:47:38+00:00",
+      "updated": "2026-04-27T11:27:24+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.15960v3",
+      "html_url": "https://arxiv.org/html/2512.15960v3",
+      "entry_url": "http://arxiv.org/abs/2512.15960v3"
+    },
+    {
+      "arxiv_id": "2512.15242v3",
+      "base_id": "2512.15242",
+      "title": "Massive boson stars: Stability and GW emission in head-on mergers",
+      "authors": [
+        "Bo-Xuan Ge"
+      ],
+      "abstract": "We investigate quartically self-interacting massive boson stars by constructing equilibrium sequences and performing dynamical evolutions. The mass curve $M(|φ_c|)$ along these sequences develops multiple extrema, yet stability changes only at the first maximum; configurations beyond it become highly compact and collapse under numerically induced perturbations, with near-critical models displaying a short-lived double-dive behaviour. Head-on collisions of equal-mass stars yield three distinct outcomes -- boson star remnants, black hole formation at contact, and collapse of each star to a black hole prior to contact. The associated gravitational-wave energies reflect a competition between increasing compactness, which enhances the efficiency of gravitational-wave emission, and decreasing tidal deformability, which suppresses merger asymmetries, and at large self-interaction strengths the collapse-before-contact branch exhibits a pronounced non-monotonic structure. The simulations reported here constitute a substantial catalogue of initial conditions and waveforms, providing a natural basis for constructing surrogate models capable of rapidly predicting gravitational-wave signals across an extended parameter space.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE"
+      ],
+      "published": "2025-12-17T09:42:37+00:00",
+      "updated": "2026-04-30T10:24:10+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.15242v3",
+      "html_url": "https://arxiv.org/html/2512.15242v3",
+      "entry_url": "http://arxiv.org/abs/2512.15242v3"
+    }
+  ],
+  "total": 4
+}

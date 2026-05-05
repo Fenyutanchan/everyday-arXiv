@@ -1,0 +1,28 @@
+{
+  "date": "2025-05-27",
+  "papers": [
+    {
+      "arxiv_id": "2505.21054v3",
+      "base_id": "2505.21054",
+      "title": "Polaron formation as the vertex function problem: From Dyck's paths to self-energy Feynman diagrams",
+      "authors": [
+        "Tomislav Miškić",
+        "Juraj Krsnik",
+        "Stefano Ragni",
+        "Andrey S. Mishchenko",
+        "Osor S. Barišić"
+      ],
+      "abstract": "We present an iterative method for generating the complete set of self-energy Feynman diagrams at arbitrary order for the single-polaron problem with arbitrary linear coupling to the lattice. The approach combines a combinatorial representation of noncrossing diagrams, based on Dyck paths associated with Stieltjes-Rogers polynomials, with the constraints of the Ward-Takahashi identity to systematically incorporate vertex corrections. This construction yields a one-to-one correspondence between terms in the expansion based on Stieltjes-Rogers polynomials and diagrammatic contributions, and provides, through a sequence of simple steps, a closed, algorithmic framework for generating all diagrams of a given order, together with their relative weights. The method enables efficient, unbiased evaluation of diagrammatic series and improves the convergence of diagrammatic Monte Carlo by eliminating the need for stochastic weighting between different topologies. We further outline how the construction can be generalized to finite-density electron systems.",
+      "categories": [
+        "cond-mat.str-el",
+        "hep-ph"
+      ],
+      "published": "2025-05-27T11:44:08+00:00",
+      "updated": "2026-04-16T11:57:23+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2505.21054v3",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2505.21054v3"
+    }
+  ],
+  "total": 1
+}

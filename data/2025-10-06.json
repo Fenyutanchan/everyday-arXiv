@@ -1,0 +1,69 @@
+{
+  "date": "2025-10-06",
+  "papers": [
+    {
+      "arxiv_id": "2510.04537v2",
+      "base_id": "2510.04537",
+      "title": "Finding Supermassive Black Hole Binary Mergers in Pulsar Timing Array Data",
+      "authors": [
+        "Sharon Mary Tomson",
+        "Boris Goncharov",
+        "Rutger van Haasteren"
+      ],
+      "abstract": "Galaxy observations suggest that mergers of supermassive black hole binaries (SMBHBs) are rare events, with rates of order one per decade across the observable Universe. We present a framework to search for merging SMBHBs in pulsar timing array (PTA) data using a physically complete waveform model including inspiral, merger, ringdown, and gravitational-wave memory. This enables a unified treatment of continuous emission and the non-oscillatory memory signal. Using simulated PTA datasets, we demonstrate parameter estimation for representative systems with chirp masses of $10^8$ and $10^{10}~M_\\odot$ at distances of $3$ Mpc to $100$ Mpc respectively. For sufficiently strong signals, we recover binaries with log Bayes factors >10 and constrain chirp mass and luminosity distance, subject to their characteristic degeneracy. Sky localization uncertainties of a few degrees could potentially enable electromagnetic follow-up and multi-messenger observations of SMBHB mergers. We further demonstrate that commonly used memory burst approximations lead to biased strain amplitudes and inferred source parameters when compared to the full SMBHB waveform, even when optimally tuned. These results establish a pathway for searching for SMBHB mergers with PTAs using complete waveform models.",
+      "categories": [
+        "astro-ph.HE",
+        "gr-qc"
+      ],
+      "published": "2025-10-06T07:00:08+00:00",
+      "updated": "2026-04-16T13:46:13+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.04537v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2510.04537v2"
+    },
+    {
+      "arxiv_id": "2510.21742v2",
+      "base_id": "2510.21742",
+      "title": "Statistics of correlations in nonlinear recurrent neural networks",
+      "authors": [
+        "German Mato",
+        "Facundo Rigatuso",
+        "Gonzalo Torroba"
+      ],
+      "abstract": "The statistics of correlations are central quantities characterizing the collective dynamics of recurrent neural networks. We derive exact expressions for the statistics of correlations of nonlinear recurrent networks in the limit of a large number N of neurons, including systematic 1/N corrections, in the regime of Gaussian quenched disorder. Our approach uses a path-integral representation of the network stochastic dynamics, which reduces the description to a few collective variables and enables efficient computation. This generalizes previous results on linear networks to include a wide family of nonlinear activation functions, which enter as interaction terms in the path integral. These interactions can resolve the instability of the linear theory and yield a strictly positive participation dimension. We present explicit results for power-law activations, revealing scaling behavior controlled by the network coupling. In addition, we introduce a class of activation functions based on Pade approximants and provide analytic predictions for their correlation statistics. Numerical simulations confirm our theoretical results with excellent agreement. We also compare with previous works that have studied the complementary case with annealed disorder, and based on this we propose a new self-consistent equation for the more general case of colored noise.",
+      "categories": [
+        "q-bio.NC",
+        "cond-mat.dis-nn",
+        "cs.NE",
+        "hep-th",
+        "physics.bio-ph"
+      ],
+      "published": "2025-10-06T19:12:58+00:00",
+      "updated": "2026-04-21T20:04:27+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.21742v2",
+      "html_url": "https://arxiv.org/html/2510.21742v2",
+      "entry_url": "http://arxiv.org/abs/2510.21742v2"
+    },
+    {
+      "arxiv_id": "2510.05215v2",
+      "base_id": "2510.05215",
+      "title": "QML-FAST -- A Fast Code for low-$\\ell$ Tomographic Maximum Likelihood Power Spectrum Estimation",
+      "authors": [
+        "Yurii Kvasiuk",
+        "Anderson Lai",
+        "Moritz Münchmeyer",
+        "Kendrick M. Smith"
+      ],
+      "abstract": "We present a novel implementation for the quadratic maximum likelihood (QML) power spectrum estimator for multiple correlated scalar fields on the sphere. Our estimator supports arbitrary binning in redshift and multipoles $\\ell$ and includes cross-correlations of redshift bins. It implements a fully optimal analysis with a pixel-wise covariance model. We implement a number of optimizations which make the estimator and associated covariance matrix computationally tractable for a low-$\\ell$ analysis, suitable for example for kSZ velocity reconstruction or primordial non-Gaussianity from scale-dependent bias analyses. We validate our estimator extensively on simulations and compare its features and precision with the common pseudo-$C_\\ell$ method, showing significant gains at large scales. We make our code publicly available. In a companion paper, we apply the estimator to kSZ velocity reconstruction using data from ACT and DESI Legacy Survey and construct full set of QML estimators on 40 correlated fields up to $N_{\\text{side}}= 32$ in timescale of an hour on a single 24-core CPU requiring $<256\\ \\mathrm{Gb}$ RAM, demonstrating the performance of the code.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2025-10-06T18:00:44+00:00",
+      "updated": "2026-04-29T21:08:17+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.05215v2",
+      "html_url": "https://arxiv.org/html/2510.05215v2",
+      "entry_url": "http://arxiv.org/abs/2510.05215v2"
+    }
+  ],
+  "total": 3
+}

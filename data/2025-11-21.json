@@ -1,0 +1,24 @@
+{
+  "date": "2025-11-21",
+  "papers": [
+    {
+      "arxiv_id": "2511.16865v2",
+      "base_id": "2511.16865",
+      "title": "Quantum Optical Simulator for Unruh-DeWitt Detector Dynamics",
+      "authors": [
+        "Tai Hyun Yoon"
+      ],
+      "abstract": "We present a quantum-optical platform for simulating relativistic detector-field interactions using entangled nonlinear biphoton sources (ENBSs), realized through phase-controlled single-photon frequency-comb (SPFC) sources. By mapping the dynamical evolution of this system onto the Unruh-DeWitt (UDW) detector model, we show that signal-mode excitations emulate detector transitions driven by vacuum fluctuations, while coherently seeded idler modes act as an effective quantum field. This correspondence enables tabletop exploration of Unruh-like excitation, coherence harvesting, and field-induced entanglement. We derive the effective interaction Hamiltonian and Lindblad master equation for two coherently seeded ENBS units and obtain analytical solutions for the signal photon number \\(N_{\\rm sig}(t)\\) and second-order correlation function \\(g^{(2)}(0;t)\\). Numerical simulations confirm that phase-dependent biphoton dynamics reproduce UDW-type behavior, including tunable excitation and quantum correlations. The output signal state exhibits controllable fidelity, interference visibility, and entanglement entropy as functions of the seeding phase and amplitude. These results establish ENBSs as experimentally accessible quantum simulators of relativistic field phenomena, providing a photonic testbed for analog gravitational effects, vacuum fluctuations, and spacetime-induced coherence-all within reach of current nonlinear-optics technology.",
+      "categories": [
+        "quant-ph",
+        "gr-qc"
+      ],
+      "published": "2025-11-21T00:21:36+00:00",
+      "updated": "2026-04-20T03:28:22+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.16865v2",
+      "html_url": "https://arxiv.org/html/2511.16865v2",
+      "entry_url": "http://arxiv.org/abs/2511.16865v2"
+    }
+  ],
+  "total": 1
+}

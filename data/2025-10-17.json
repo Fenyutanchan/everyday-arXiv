@@ -1,0 +1,66 @@
+{
+  "date": "2025-10-17",
+  "papers": [
+    {
+      "arxiv_id": "2510.15766v3",
+      "base_id": "2510.15766",
+      "title": "Subdimensional Entanglement Entropy: From Geometric-Topological Response to Mixed-State Holography",
+      "authors": [
+        "Meng-Yuan Li",
+        "Peng Ye"
+      ],
+      "abstract": "We introduce the subdimensional entanglement entropy (SEE), defined on subdimensional entanglement subsystems (SESs) embedded in the bulk, as an entanglement-based probe of how geometry and topology jointly shape universal properties of quantum matter. By varying the dimension, geometry, and topology of the SES, we show that the subleading term of SEE exhibits sharply distinct responses in different phases, including cluster states, $\\mathbb{Z}_q$ topological orders, and fracton orders. Treating the reduced density matrix of an SES as a many-body mixed state supported on the SES manifold, we further establish a general correspondence between bulk stabilizers and mixed-state symmetries on SESs, separating them into strong and weak classes, and use it to identify strong-to-weak spontaneous symmetry breaking within SESs. Finally, for SESs with nontrivial SEE, we show that weak symmetries act as transparent patch operators of the corresponding strong symmetries. This motivates the notion of transparent composite symmetry, which remains robust under finite-depth quantum circuits that preserve SEE, and implies that each $D$-dimensional SES holographically encodes a $(D+1)$-dimensional topological order. These results establish SEE not only as a sharp probe of geometric-topological response, but also as a route from bulk pure-state entanglement to mixed-state symmetry and holography on subdimensional manifolds.",
+      "categories": [
+        "cond-mat.str-el",
+        "cond-mat.stat-mech",
+        "hep-th",
+        "quant-ph"
+      ],
+      "published": "2025-10-17T15:54:55+00:00",
+      "updated": "2026-04-15T14:28:41+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.15766v3",
+      "html_url": "https://arxiv.org/html/2510.15766v3",
+      "entry_url": "http://arxiv.org/abs/2510.15766v3"
+    },
+    {
+      "arxiv_id": "2510.15518v6",
+      "base_id": "2510.15518",
+      "title": "Photonic Exceptional Points in Holography and QCD",
+      "authors": [
+        "Mahdis Ghodrati"
+      ],
+      "abstract": "In this work, based on an analogy with holographic confining geometries and using complexified fields, we build a holographic toy model of third order photonic exceptional points (EPs) of ternary coupled microrings with gain and loss, which makes an open, non-Hermitian quantum system. In our model, we discuss the Ferrell-Glover-Tinkham sum rule for various combinations of gain and loss systems, and numerically find the behavior of spectra which matches with the experiments. We also discuss the inhomogeneous case of a holographic lattice for three-site photonic EPs. Additionally, we numerically find the behavior of phase rigidity and the Petermann factor around EPs versus various parameters of the model. We also discuss the connections between recent developments in complexified, time-dependent entanglement entropy and EPs, and then, we connect EPs and the $θ$-vacuum of QCD through topological structures, partition functions, and winding numbers, and find a second-order EP in a perturbed $θ$-vacuum model. Finally, we examined a controlled non-Hermitian deformation of $θ$-vacuum toy model, by using the Lindblad formalism and Liouvillian eigenvalues.",
+      "categories": [
+        "hep-th",
+        "quant-ph"
+      ],
+      "published": "2025-10-17T10:44:27+00:00",
+      "updated": "2026-04-26T07:58:58+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.15518v6",
+      "html_url": "https://arxiv.org/html/2510.15518v6",
+      "entry_url": "http://arxiv.org/abs/2510.15518v6"
+    },
+    {
+      "arxiv_id": "2510.16113v2",
+      "base_id": "2510.16113",
+      "title": "Post-adiabatic self-force waveforms: slowly spinning primary and precessing secondary",
+      "authors": [
+        "Josh Mathews",
+        "Barry Wardell",
+        "Adam Pound",
+        "Niels Warburton"
+      ],
+      "abstract": "Recent progress in gravitational self-force theory has led to the development of a first post-adiabatic (1PA) waveform model for nonspinning, quasicircular compact binaries [Phys. Rev. Lett. 130, 241402 (2023)]. In this paper, we extend that model to allow for a slowly spinning primary black hole and a generic, precessing spin on the secondary object, restricting to the case of small misalignment between the primary spin and the orbital angular momentum. We demonstrate excellent agreement between our waveforms and fully nonlinear numerical relativity simulations for mass ratios $q\\gtrsim 5$ and primary spins $|χ_1|\\lesssim 0.1$ and arbitrary secondary spin $χ_2 \\lesssim 1$. In particular we present the re-summed 1PAT1R waveform model, which significantly improves the accuracy of the original 1PAT1 waveforms for comparable masses and increasing primary spin. Our models are publicly available in the WaSABI package.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE"
+      ],
+      "published": "2025-10-17T18:00:38+00:00",
+      "updated": "2026-04-26T06:30:13+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.16113v2",
+      "html_url": "https://arxiv.org/html/2510.16113v2",
+      "entry_url": "http://arxiv.org/abs/2510.16113v2"
+    }
+  ],
+  "total": 3
+}

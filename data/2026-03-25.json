@@ -1,0 +1,104 @@
+{
+  "date": "2026-03-25",
+  "papers": [
+    {
+      "arxiv_id": "2603.24688v3",
+      "base_id": "2603.24688",
+      "title": "A New Method to Simulate Dark Matter-Baryon Interactions and Application to an Isolated Disk Galaxy",
+      "authors": [
+        "Connor Hainje",
+        "Glennys R. Farrar"
+      ],
+      "abstract": "We report on a new method for incorporating interactions between dark matter (DM) and baryons in cosmological simulations, capable of handling the challenging regime in which the dark matter particle mass is comparable to or lighter than the baryon mass. The method hybridizes two distinct approaches: gas particles receive momentum and energy transfer according to a mean-field calculation while DM particles undergo Monte Carlo scatterings. These approaches are derived from the Boltzmann equation and shown to be statistically equivalent. We present an open-source implementation of this method in the simulation code GIZMO. As a first application, we investigate the effects of DM-baryon interactions on an isolated Milky Way-like disk galaxy for dark matter having twice the proton mass, which roughly maximizes the average energy transfer per collision. For cross sections of order 1 barn ($10^{-24}$ cm$^2$), these interactions cause strong changes to the mass distribution in the center of the galaxy in less than 1 Gyr, even when bar formation is suppressed by hand. For cross sections typical of hadronic interactions ($\\lesssim 30$ mb), high-fidelity galaxy formation simulations will be needed to assess the effects on observable features of galaxies.",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.GA",
+        "hep-ph"
+      ],
+      "published": "2026-03-25T18:07:43+00:00",
+      "updated": "2026-04-22T14:31:14+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.24688v3",
+      "html_url": "https://arxiv.org/html/2603.24688v3",
+      "entry_url": "http://arxiv.org/abs/2603.24688v3"
+    },
+    {
+      "arxiv_id": "2603.24681v2",
+      "base_id": "2603.24681",
+      "title": "How to tame your (black hole) saddles: Lessons from the Lorentzian Gravitational Path Integral",
+      "authors": [
+        "Maciej Kolanowski",
+        "Donald Marolf"
+      ],
+      "abstract": "We resolve a puzzle associated with the spherically-symmetric sector of the AdS$_4$ Einstein-Maxwell partition function with inverse temperature $β$. Since charge is quantized, the semiclassical limit of the partition function is expected to be given by a sum over complex black hole solutions obtained by shifting the associated chemical potential $μ$ by $\\frac{2πi n}{e β}$ in terms of the relevant charge quantum $e$. However, the sum over all such saddles turns out to diverge at any finite value of $β$. We therefore consider a definition of this partition function as an integral over a space of metrics that are real and of Lorentz-signature up to the presence of certain conical singularities. A Picard-Lefshetz analysis shows that only a finite subset of the above saddles contribute to our integral at finite $β$, and thus that the sum over such saddles converges. The low temperature limit is nonetheless associated with a convergent sum over all saddles that (as $β\\rightarrow \\infty$) approach the usual large real Euclidean black holes. We also analyze the analogous partition function for the (uncharged) BTZ black hole in the ensemble defined by fixing an angular velocity $Ω$ up to shifts by $\\frac{2πi m}{s β}$, where $s=\\frac{1}{2}$ or $s=1$ depending on the presence of absence of fermionic states. In this case, at all $β$ we find that all saddles contribute and that the sum over saddles converges. We also comment briefly on the apparent lack of utility of the so-called KSW condition in our context.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2026-03-25T18:02:12+00:00",
+      "updated": "2026-04-21T21:57:21+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.24681v2",
+      "html_url": "https://arxiv.org/html/2603.24681v2",
+      "entry_url": "http://arxiv.org/abs/2603.24681v2"
+    },
+    {
+      "arxiv_id": "2603.24162v2",
+      "base_id": "2603.24162",
+      "title": "Bouncing Cosmological Models and Energy Conditions in $f(Q, L_m)$ gravity",
+      "authors": [
+        "S. A. Kadam",
+        "V. A. Kshirsagar",
+        "Santosh Kumar Yadav"
+      ],
+      "abstract": "This study explores the bouncing solutions within the framework of modified $f(Q, L_m)$ gravity. We examine four prominent bouncing models, the symmetric bounce, super bounce, oscillatory bounce, and matter bounce, each of which has been extensively analyzed in the context of modified gravity theories. Our investigation focuses on the behavior of the Hubble parameter, the evolution of the scale factor, and the equation of state (EoS) parameters. Notably, the dynamics of the scale factor and Hubble parameter effectively support the bouncing scenario. During the bouncing epoch, the EoS parameters fall within the phantom region, reinforcing the viability of the bounce. To further validate the bouncing scenario, we assess the energy conditions associated with each model. Our findings reveal a violation of the null energy condition at the bouncing epoch, which successfully characterizes the model's bouncing behavior.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2026-03-25T10:30:30+00:00",
+      "updated": "2026-04-27T04:16:51+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.24162v2",
+      "html_url": "https://arxiv.org/html/2603.24162v2",
+      "entry_url": "http://arxiv.org/abs/2603.24162v2"
+    },
+    {
+      "arxiv_id": "2603.23846v2",
+      "base_id": "2603.23846",
+      "title": "The read-out electronics for the FLASH experiment",
+      "authors": [
+        "Luigi Calligaris",
+        "Claudio Puglia",
+        "Gianluca Lamanna"
+      ],
+      "abstract": "We introduce the FLASH haloscope experiment and present its electronic read-out system, currently under development. FLASH searches for Dark Matter (DM) particles and High-Frequency Gravitational Waves (HFGWs) using two cryogenic resonant cavities to scan the radio frequency spectrum between 117 and 360 MHz, looking for signals as weak as 10-22 W. The signal read-out uses Microstrip Superconducting Quantum Interference Amplifiers (MSAs) as low-noise amplifiers and Software-Defined Radio (SDR) techniques to acquire, preprocess and reduce the physics signal to a format suitable for permanent storage and offline analysis.",
+      "categories": [
+        "physics.ins-det",
+        "astro-ph.CO",
+        "hep-ex"
+      ],
+      "published": "2026-03-25T02:05:09+00:00",
+      "updated": "2026-04-28T11:10:17+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.23846v2",
+      "html_url": "https://arxiv.org/html/2603.23846v2",
+      "entry_url": "http://arxiv.org/abs/2603.23846v2"
+    },
+    {
+      "arxiv_id": "2603.24098v2",
+      "base_id": "2603.24098",
+      "title": "On the monodromy of KZ-connections with irregular singularities",
+      "authors": [
+        "Xia Gu",
+        "Babak Haghighat",
+        "Pavel Putrov"
+      ],
+      "abstract": "We study Knizhnik-Zamolodchikov (KZ) connection in the presence of irregular singularities, that is, poles of higher order. We consider both the case of a universal connection and the case when it is associated with a specific simple Lie algebra, such as $\\mathfrak{su}(2)$. We give some general results about the monodromies of such flat connections in the configuration spaces of points, and provide explicit examples of topological invariants of links (more generally, tangles) realized by the monodromy.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2026-03-25T09:02:00+00:00",
+      "updated": "2026-05-01T02:36:26+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.24098v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2603.24098v2"
+    }
+  ],
+  "total": 5
+}

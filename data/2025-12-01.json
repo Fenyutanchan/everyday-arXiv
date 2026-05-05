@@ -1,0 +1,106 @@
+{
+  "date": "2025-12-01",
+  "papers": [
+    {
+      "arxiv_id": "2512.01752v2",
+      "base_id": "2512.01752",
+      "title": "The effect of Coulomb interactions on relic neutrino detection via beta decaying impurities in (semi)metals",
+      "authors": [
+        "Karel van der Marck",
+        "Vadim Cheianov"
+      ],
+      "abstract": "Measuring the electron neutrino mass is a long-standing objective and requires a high energy resolution of certain $β$-decay experiments, as well as a visible cosmic neutrino background (C$ν$B) spectrum. Many quantum mechanical and chemical effects could potentially impair the required resolution/visibility, e.g., the Coulomb interactions between the electrons in the $β$-decaying impurity and in the solid-state environment. We analyze the effect when hybridization is suppressed completely using a dielectric spacer, and also when hybridization is present up to the lowest nontrivial order in perturbation theory.",
+      "categories": [
+        "hep-ph",
+        "cond-mat.mes-hall",
+        "cond-mat.other",
+        "cond-mat.str-el",
+        "physics.ins-det"
+      ],
+      "published": "2025-12-01T14:56:49+00:00",
+      "updated": "2026-04-17T13:21:43+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.01752v2",
+      "html_url": "https://arxiv.org/html/2512.01752v2",
+      "entry_url": "http://arxiv.org/abs/2512.01752v2"
+    },
+    {
+      "arxiv_id": "2512.01854v2",
+      "base_id": "2512.01854",
+      "title": "PrecisionSM: an annotated database for low-energy $e^+e^-$ hadronic cross sections",
+      "authors": [
+        "Lorenzo Cotrozzi",
+        "Anna Driutti",
+        "Fedor Ignatov",
+        "Alberto Lusiani",
+        "Graziano Venanzoni"
+      ],
+      "abstract": "PrecisionSM is an annotated database that compiles the available data on low-energy cross sections of electron-positron collisions into hadronic channels. This database organizes and collects data samples from $e^+e^-$ experiments, which are used as input for the data-driven theoretical evaluation of the muon anomalous magnetic moment, $a_μ$, serving as a precise test of the Standard Model when compared to the experimental measurements of $a_μ$. The database is accessible through a custom website (https://precision-sm.github.io) which contains details about the data samples, such as the treatment of radiative corrections, as well as links to papers on INSPIRE-HEP and to tables on HEPData. The PrecisionSM database was developed within a Joint Research Initiative in the group application of the European hadron physics community, STRONG2020, and is now incorporated into the RadioMonteCarLow2 Working Group (RMCL2 WG) activities, which have the more general goal of improving the theoretical description of scattering processes at $e^+e^-$ colliders. The results of Phase I of the new RMCL2 WG have been published in Aliberti et al, arXiv:hep-ph/2410.22882. In this proceeding, we will report on the status of the PrecisionSM database, which currently contains a list of the dominant $2π$ channel as well as $3π$ and $π^0γ$, and on the ongoing work for the other channels and for responsive plots.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2025-12-01T16:39:10+00:00",
+      "updated": "2026-04-22T15:33:24+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.01854v2",
+      "html_url": "https://arxiv.org/html/2512.01854v2",
+      "entry_url": "http://arxiv.org/abs/2512.01854v2"
+    },
+    {
+      "arxiv_id": "2512.02120v2",
+      "base_id": "2512.02120",
+      "title": "(Iso)spin from Isospin in Top-Down Holography",
+      "authors": [
+        "Marcelo Oyarzo",
+        "Ricardo Stuardo"
+      ],
+      "abstract": "Motivated by the spin from isospin mechanism of Jackiw-Rebbi-Hasenfratz-'t Hooft, we study two SU(2) gauged supergravity solutions of the form $M_{d}\\times\\text{S}^{2}$ containing non-Abelian hedgehog monopole on the 2-sphere. Due to the presence of the monopole, the SO(3) isometry group of the 2-sphere is not a symmetry of the configuration. Instead, a diagonal combination of the SU(2) gauge and the SO(3) isometry of the 2-sphere is the true symmetry of the configuration. Uplifting the solutions to Type II, the gauge-isometry diagonal symmetry becomes a diagonal combination between the SO(3) symmetry of the 2-sphere and a SU(2) symmetry of a 3-sphere used to uplift the configuration. One of the uplifts is supersymmetric and corresponds to the I-brane theory on a 2-sphere. The second background is a deformation of $\\text{AdS}_{5}\\times\\text{S}^{5}$ and is not supersymmetric. We study dilaton fluctuations on the later geometry. Due to the diagonal symmetry, the fluctuations show angular momentum mixing between the SU(2) and SO(3) spins, mimicking the spin from isospin mechanism.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2025-12-01T19:00:04+00:00",
+      "updated": "2026-04-27T14:01:20+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.02120v2",
+      "html_url": "https://arxiv.org/html/2512.02120v2",
+      "entry_url": "http://arxiv.org/abs/2512.02120v2"
+    },
+    {
+      "arxiv_id": "2512.02274v2",
+      "base_id": "2512.02274",
+      "title": "Gravitational radiation from hyperbolic orbits: comparison between self-force, post-Minkowskian, post-Newtonian, and numerical relativity results",
+      "authors": [
+        "Niels Warburton"
+      ],
+      "abstract": "In this work I use a frequency-domain Regge-Wheeler-Zerilli approach to compute the gravitational wave energy radiated by a compact body moving along a hyperbolic or parabolic geodesic of a Schwarzschild black hole. I compare my results with the latest post-Minkowskian (PM) calculations for the radiated energy and find agreement for hyperbolic orbits with large impact parameters and characterized by a velocity at infinity, $v_\\infty$, as large as $v_\\infty/c=0.7$. I also find agreement between my results and the leading-order PM expansion for the radiation absorbed by the black hole. I make further comparisons with post-Newtonian (PN) theory and show the effectiveness of a simple PN-PM hybrid model. Finally, I make a first comparison of the radiated energy between self-force and numerical relativity.",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2025-12-01T23:40:30+00:00",
+      "updated": "2026-04-29T09:11:38+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.02274v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2512.02274v2"
+    },
+    {
+      "arxiv_id": "2512.01349v2",
+      "base_id": "2512.01349",
+      "title": "AdS gravastar and its signatures from dual conformal field theory",
+      "authors": [
+        "Heng-Yu Chen",
+        "Yasuaki Hikida",
+        "Yasutaka Koga"
+      ],
+      "abstract": "Quantum gravity effects are expected to resolve the black hole singularity and the effects may deform the region near but outside the horizon. Applying AdS/CFT correspondence, we see their signatures from the viewpoint of dual conformal field theory. As a regularized geometry, we consider AdS gravastar constructed by gluing AdS-Schwarzschild and de Sitter spacetime. The retarded Green functions of dual conformal field theory have bulk-cone singularities associated with null trajectories in the bulk and we obtain the singularities specific to a horizon-less geometry. We also observe echoes coming from waves reflected behind the photon sphere. The existence of echoes implies the modification of geometry inside the photon sphere.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2025-12-01T07:02:52+00:00",
+      "updated": "2026-04-29T04:00:02+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.01349v2",
+      "html_url": "https://arxiv.org/html/2512.01349v2",
+      "entry_url": "http://arxiv.org/abs/2512.01349v2"
+    }
+  ],
+  "total": 5
+}

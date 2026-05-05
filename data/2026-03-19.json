@@ -1,0 +1,65 @@
+{
+  "date": "2026-03-19",
+  "papers": [
+    {
+      "arxiv_id": "2603.18566v2",
+      "base_id": "2603.18566",
+      "title": "Dark Matter and Strong CP Problem in Type IIA String Theory",
+      "authors": [
+        "Yang Liu"
+      ],
+      "abstract": "We present a study of dark matter and the strong CP problem within a globally consistent framework of Type IIA string theory, compactified on a $T^6/(\\mathbb{Z}_2 \\times \\mathbb{Z}_2)$ orientifold with intersecting D6-branes (Model A), for which we provide a complete moduli stabilization and supersymmetry breaking scenario based on the STU model and the KL mechanism. This setup naturally gives rise to a 3-generation MSSM-like spectrum with $\\mathcal{N}=1$ supersymmetry. Phenomenologically, the model predicts a multi-component dark matter scenario comprising both axions and neutralino. We also explore how to embed the four-form flux mechanism into Type IIA $T^6/(\\mathbb{Z}_2 \\times \\mathbb{Z}_2)$ orientifold string theory model to address the strong CP problem. We compute the relic abundance of these candidates and explore their observational signatures. In conclusion, our analysis provides a concrete unified, UV-complete framework that successfully addresses two of the most important problems in particle physics and cosmology.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2026-03-19T07:28:35+00:00",
+      "updated": "2026-04-21T12:34:00+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.18566v2",
+      "html_url": "https://arxiv.org/html/2603.18566v2",
+      "entry_url": "http://arxiv.org/abs/2603.18566v2"
+    },
+    {
+      "arxiv_id": "2603.19381v2",
+      "base_id": "2603.19381",
+      "title": "Matrix Product States for Modulated Topological Phases: Crystalline Equivalence Principle and Lieb-Schultz-Mattis Constraints",
+      "authors": [
+        "Shang-Qiang Ning",
+        "Hiromi Ebisu",
+        "Ho Tat Lam"
+      ],
+      "abstract": "Modulated symmetries are internal symmetries that act in a spatially non-uniform manner. Consequently, when a modulated symmetry $G_{\\text{int}}$ is combined with a spatial symmetry $G_{\\text{sp}}$, the total symmetry group takes the form of a semidirect product $G=G_{\\text{int}}\\rtimes G_{\\text{sp}}$. Using matrix product states, we classify topological phases protected by modulated symmetries together with spatial symmetries in one spatial dimension. We show that these modulated symmetry-protected topological (SPT) phases are classified by $H^{2}(G,U(1)_s)$, in agreement with the crystalline equivalence principle, which states that SPT phases protected by symmetries involving spatial elements are in one-to-one correspondence with internal SPT phases protected by the same symmetries, viewed as acting internally. Furthermore, we provide a matrix product state derivation of the Lyndon-Hochschild-Serre spectral sequence for the corresponding internal SPT phases, which enables us to construct an explicit correspondence between modulated SPT phases and internal SPT phases. As applications of this classification, we prove a Lieb-Schultz-Mattis (LSM) theorem for modulated symmetries that forbids the existence of symmetric short-ranged entangled ground state, as well as an SPT-LSM constraint that enforces nontrivial entanglement in the SPT ground state. Finally, we use the classification to establish a similar LSM-type constraints for non-invertible Kramers-Wannier reflection symmetries.",
+      "categories": [
+        "cond-mat.str-el",
+        "hep-th",
+        "math-ph",
+        "quant-ph"
+      ],
+      "published": "2026-03-19T18:18:20+00:00",
+      "updated": "2026-04-24T02:22:58+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.19381v2",
+      "html_url": "https://arxiv.org/html/2603.19381v2",
+      "entry_url": "http://arxiv.org/abs/2603.19381v2"
+    },
+    {
+      "arxiv_id": "2603.19083v4",
+      "base_id": "2603.19083",
+      "title": "G objects as Primordial Black Hole-Neutron Star Remnants: Population Modeling and Multi-Wavelength Observables",
+      "authors": [
+        "David Morales-Zapien",
+        "Stefano Profumo"
+      ],
+      "abstract": "The nature of the so-called G objects orbiting the Galactic Center remains unresolved. These sources exhibit compact Br$γ$ emission, extreme infrared colors, and remarkable dynamical stability through close passages to the central supermassive black hole, challenging conventional interpretations as stars or unbound gas clouds. We investigate the hypothesis that G objects are the remnants of neutron stars that have been converted into low-mass black holes through the capture of primordial black holes, a viable dark-matter candidate. We construct a population-level framework linking the abundance and spatial distribution of these remnants to the neutron-star population, the inner dark-matter density profile, and the primordial black-hole mass and abundance. Within this framework, the observed G-object population and the long-standing deficit of ordinary radio pulsars in the Galactic Center emerge as complementary consequences of the same conversion process. We further identify a suite of observational signatures-across infrared, radio, X-ray, and microlensing channels-that render this scenario empirically testable and distinguishable from stellar-envelope models. Our results show that G objects can act as sensitive probes of compact-object capture physics and of dark matter on sub-galactic scales.",
+      "categories": [
+        "astro-ph.HE",
+        "astro-ph.GA",
+        "hep-ph"
+      ],
+      "published": "2026-03-19T16:09:46+00:00",
+      "updated": "2026-04-29T18:17:29+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.19083v4",
+      "html_url": "https://arxiv.org/html/2603.19083v4",
+      "entry_url": "http://arxiv.org/abs/2603.19083v4"
+    }
+  ],
+  "total": 3
+}

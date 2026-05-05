@@ -1,0 +1,86 @@
+{
+  "date": "2026-03-24",
+  "papers": [
+    {
+      "arxiv_id": "2603.23656v2",
+      "base_id": "2603.23656",
+      "title": "Information-Geometric Quantum Process Tomography of Single Qubit Systems",
+      "authors": [
+        "T. Koide",
+        "A. van de Venn"
+      ],
+      "abstract": "We establish an exact information-geometric inequality that remains valid regardless of the underlying dynamics, encompassing both Markovian and non-Markovian evolutions within the mixed-state domain. This inequality can be viewed as an extension of thermodynamic speed limits, which are typically formulated as inequalities. For single qubits, we show that this inequality saturates into a strict equality because the density matrix belongs to the quantum exponential family with the Pauli matrices serving as sufficient statistics. From a practical perspective, this identity enables a non-iterative linear regression approach to continuous-time quantum process tomography, bypassing the local minima issues common in non-linear optimization. We demonstrate the efficiency of this method by estimating the Hamiltonian and dissipation parameters of the Gorini-Kossakowski-Sudarshan-Lindblad (GKSL) master equation. Numerical simulations confirm the validity of this geometric estimator and highlight the necessity of error mitigation near the pure-state boundary where the inverse metric becomes singular.",
+      "categories": [
+        "quant-ph",
+        "cond-mat.stat-mech",
+        "hep-th",
+        "nucl-th"
+      ],
+      "published": "2026-03-24T18:59:59+00:00",
+      "updated": "2026-04-23T17:45:00+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.23656v2",
+      "html_url": "https://arxiv.org/html/2603.23656v2",
+      "entry_url": "http://arxiv.org/abs/2603.23656v2"
+    },
+    {
+      "arxiv_id": "2603.23687v2",
+      "base_id": "2603.23687",
+      "title": "Review of strongly coupled regimes in gravity with Dyson-Schwinger approach",
+      "authors": [
+        "Marco Frasca",
+        "Anish Ghoshal"
+      ],
+      "abstract": "We analyze various gravity theories involving de-Sitter, quadratic $\\mathcal{R}^2$ and non-minimally coupled scalar in the light of application of the Dyson-Schwinger technique involving exact background solution of the Green's function. We denote specific set of solutions for the metric to move towards a quantum analysis of the theory. This kind of solutions is identified as conformally flat metric. Such a conclusion naturally arises in the use of the Dyson-Schwinger equations in the study of the Yang-Mills theory through the mapping theorem. We show a sequence of cosmological phase transitions starting from the breaking of such conformal invariance that can be hindered by the presence of the non-minimal coupling.",
+      "categories": [
+        "gr-qc",
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2026-03-24T19:51:50+00:00",
+      "updated": "2026-04-27T10:11:11+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.23687v2",
+      "html_url": "https://arxiv.org/html/2603.23687v2",
+      "entry_url": "http://arxiv.org/abs/2603.23687v2"
+    },
+    {
+      "arxiv_id": "2603.23332v2",
+      "base_id": "2603.23332",
+      "title": "Quantum gravity and matter fields in a general background gauge",
+      "authors": [
+        "J. Frenkel",
+        "S. Martins-Filho"
+      ],
+      "abstract": "We analyse the gauge-dependence of the effective action in an interacting quantum theory of gravitational and matter fields. An explicit off-shell result is obtained in a general background gauge at one-loop order, which reduces in a particular gauge to the effective action found by 't Hooft-Veltman. We confirm the validity of DeWitt-Kallosh theorem, which implies that the on-shell effective action should be independent of the gauge-fixing parameter. We employ this theorem to expose the non-renormalizability of the theory in a general background gauge.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2026-03-24T15:33:19+00:00",
+      "updated": "2026-04-25T01:40:02+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.23332v2",
+      "html_url": "https://arxiv.org/html/2603.23332v2",
+      "entry_url": "http://arxiv.org/abs/2603.23332v2"
+    },
+    {
+      "arxiv_id": "2603.23634v2",
+      "base_id": "2603.23634",
+      "title": "Testing Dark Energy with Black Hole Ringdown",
+      "authors": [
+        "Laurens Smulders",
+        "Johannes Noller",
+        "Sergi Sirera"
+      ],
+      "abstract": "We show that dynamical dark energy theories can imprint $O(1)$ modifications on the quasi-normal mode (QNM) spectrum characterising black hole ringdown. The time dependence of dynamical dark energy naturally gives rise to cosmological 'hair' around a black hole. Taking the cubic Galileon as a concrete example, which admits the only known stable solution of this kind, we parametrically connect the cosmological and black hole regimes, derive the induced QNM shifts and forecast the resulting dark energy constraints. We find that the dark energy field profile can be constrained with an accuracy of up to $10^{-2}$ for LVK and $10^{-4}$ for LISA.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-th"
+      ],
+      "published": "2026-03-24T18:20:49+00:00",
+      "updated": "2026-04-29T08:42:54+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.23634v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2603.23634v2"
+    }
+  ],
+  "total": 4
+}

@@ -1,0 +1,88 @@
+{
+  "date": "2025-09-02",
+  "papers": [
+    {
+      "arxiv_id": "2509.02646v2",
+      "base_id": "2509.02646",
+      "title": "Gauge invariant perturbations of $F(T,T_G)$ Cosmology",
+      "authors": [
+        "Shivam Kumar Mishra",
+        "Jackson Levi Said",
+        "B. Mishra"
+      ],
+      "abstract": "The Gauss-Bonnet invariant connects foundational aspects of geometry with physical phenomena in a variety of ways. Teleparallel gravity offers a novel direction in which to use the Gauss-Bonnet invariant to go beyond standard cosmology. In this work, we explore the cosmological perturbations of teleparallel gravity generalized through the Gauss-Bonnet invariant. This is crucial in understanding the viability of these models beyond background analyses. We do this by taking a gauge invariant approach, which is followed by popular gauge choice examples. It is important to take this approach to understand the stability and healthiness of the underlying theory. We determine the equations of motion for all perturbative modes and offer a physical interpretation for the new contributions for each of the modes.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-09-02T10:58:37+00:00",
+      "updated": "2026-04-20T16:52:47+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.02646v2",
+      "html_url": "https://arxiv.org/html/2509.02646v2",
+      "entry_url": "http://arxiv.org/abs/2509.02646v2"
+    },
+    {
+      "arxiv_id": "2509.02539v3",
+      "base_id": "2509.02539",
+      "title": "Extending the Dynamical Systems Toolkit: Coupled Fields in Multiscalar Dark Energy",
+      "authors": [
+        "Daniele Licciardello",
+        "Saba Rahimy",
+        "Ivonne Zavala"
+      ],
+      "abstract": "We study the dynamics of a two-field scalar model consisting of an axion-saxion pair with both kinetic and potential couplings, as motivated by string theory compactifications. We extend the dynamical systems (DS) toolkit by introducing a new set of variables that not only close the system and enable a systematic stability analysis, but also disentangle the role of the kinetic coupling. Within this framework we derive a compact, general expression for the non-geodesicity (turning-rate) parameter evaluated at fixed points, valid for arbitrary couplings. This provides a transparent way of diagnosing non-geodesic dynamics, with direct applications to both dark energy and multifield inflation. We first consider exponential coupling functions to establish analytic control and facilitate comparison with previous literature. In this case, we uncover a pair of genuinely non-geodesic fixed points, which act as attractors within a submanifold of the full system. In contrast, when the axion shift symmetry remains unbroken, our analysis shows that the apparent non-geodesic fixed point reported previously does not persist once the full dynamics are taken into account. Finally, we illustrate how our approach naturally extends to more realistic string-inspired models, such as power-law axion potentials combined with exponential saxion couplings, and present an explicit supergravity realisation.",
+      "categories": [
+        "hep-th",
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "published": "2025-09-02T17:41:58+00:00",
+      "updated": "2026-04-17T18:00:05+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.02539v3",
+      "html_url": "https://arxiv.org/html/2509.02539v3",
+      "entry_url": "http://arxiv.org/abs/2509.02539v3"
+    },
+    {
+      "arxiv_id": "2509.02115v2",
+      "base_id": "2509.02115",
+      "title": "Probing nuclear structure with the Balitsky-Kovchegov equation in full impact-parameter dependence",
+      "authors": [
+        "J. Cepila",
+        "M. Matas",
+        "M. Vaculciak"
+      ],
+      "abstract": "Building on the newly available solution of the Balitsky-Kovchegov (BK) equation with the full impact-parameter dependence, we extend the study of parton evolution from proton to nuclear targets. Since a key part of the scientific programme for future experimental facilities such as the EIC is to study gluon dynamics and shed new light on the phenomenon of parton saturation, we present predictions for key processes, such as deep-inelastic scattering or the diffractive production of vector mesons, on a variety of nuclear targets. Besides the standard BK equation, we employ its linearised version to identify a promising channel to search for gluon saturation in the nuclear collisions. Furthermore, we implement a tetrahedral model of oxygen to search for deviations from the standard, isotropic, Woods-Saxon approach. In addition to the future colliders, the presented results are also of interest for the current studies of nuclear vector meson production at the LHC.",
+      "categories": [
+        "hep-ph",
+        "nucl-th"
+      ],
+      "published": "2025-09-02T09:11:18+00:00",
+      "updated": "2026-04-15T21:07:49+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.02115v2",
+      "html_url": "https://arxiv.org/html/2509.02115v2",
+      "entry_url": "http://arxiv.org/abs/2509.02115v2"
+    },
+    {
+      "arxiv_id": "2509.02696v3",
+      "base_id": "2509.02696",
+      "title": "Unitary and Analytic Renormalisation of Cosmological Correlators",
+      "authors": [
+        "Diksha Jain",
+        "Enrico Pajer",
+        "Xi Tong"
+      ],
+      "abstract": "Loop contributions to cosmological correlators and to the associated wavefunction are of key theoretical and phenomenological interest. Here, we investigate and compare different renormalisation schemes proposed in the literature to handle ultraviolet divergences and develop new schemes adapting $η$ regulators to de Sitter spacetime. We focus on one-loop contributions to the quadratic wavefunction coefficient of a shift-symmetric massless scalar in de Sitter spacetime, which is a good toy model of primordial curvature perturbations. We show that different implementations of dimensional regularisation agree with each other and with unitarity and scale invariance in the final renormalised result. Imposing unitarity in the form of the cosmological optical theorem, we define a class of unitary and analytic $η$ regulators that agree with dim reg but feature considerable technical and conceptual simplifications. We show that the imaginary part of all one-loop wavefunction coefficients is universally fixed in terms of the logarithmic running of the real part, under the assumptions of scale invariance, Bunch-Davies vacuum and light bulk fields. Our work resolves discrepancies in the literature, establishes regulator-independent predictions for the imaginary part at one loop, and provides a practical framework for computing quantum contributions to cosmological correlators.",
+      "categories": [
+        "hep-th",
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "published": "2025-09-02T18:00:11+00:00",
+      "updated": "2026-04-15T16:37:29+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.02696v3",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2509.02696v3"
+    }
+  ],
+  "total": 4
+}

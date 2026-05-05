@@ -1,0 +1,66 @@
+{
+  "date": "2025-07-09",
+  "papers": [
+    {
+      "arxiv_id": "2507.07175v3",
+      "base_id": "2507.07175",
+      "title": "Polarized Deep Inelastic Scattering as $x \\to 1$ using Soft Collinear Effective Theory",
+      "authors": [
+        "Jaipratap Singh Grewal",
+        "Aneesh V. Manohar",
+        "Jyotirmoy Roy"
+      ],
+      "abstract": "We use Soft Collinear Effective Theory (SCET) to factorize the polarized Deep Inelastic Scattering (DIS) structure functions $g_1(x)$ and $g_2(x)$, and to sum Sudakov double logarithms of $1-x$. The analysis is done both in terms of lightcone parton distributions and their moments. Computing $g_2$ requires subleading SCET operators which contain gluons. We calculate the one-loop matching coefficients from QCD onto these subleading SCET operators, and the one-loop matching from SCET onto the parton distribution function (PDF). The PDF in SCET is given by a bilocal operator, rather than the trilocal operator used in the QCD analysis of $g_2$ for generic $x$. We compute the one-loop anomalous dimension of the PDF operator for any $x$, and show that as $x \\to 1$, it factors into a single-variable evolution.   We comment on the QCD anomalous dimensions of twist-three operators, their equation-of-motion relation, and connection to the SCET analysis. We briefly discuss the definition of axial operators in the BMHV scheme. As a side result, we derive the $1/N$ dependence of the QCD coefficient functions for $F_1$, $F_L$ and $g_1$ in the $N \\to \\infty$ limit, where $N$ is the moment, which is expected to hold to all orders in $α_s$.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-07-09T18:00:02+00:00",
+      "updated": "2026-04-19T20:16:30+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2507.07175v3",
+      "html_url": "https://arxiv.org/html/2507.07175v3",
+      "entry_url": "http://arxiv.org/abs/2507.07175v3"
+    },
+    {
+      "arxiv_id": "2507.07176v3",
+      "base_id": "2507.07176",
+      "title": "Amplifying muon-to-positron conversion in nuclei with ultralight dark matter",
+      "authors": [
+        "Purushottam Sahu",
+        "Manibrata Sen"
+      ],
+      "abstract": "We present an analysis of the lepton-number and lepton-flavour-violating process of muon-to-positron conversion $μ^- + N \\rightarrow e^+ + N'$, in the presence of an ultralight scalar dark matter (ULSDM) field which couples to neutrinos. The ULSDM contributes to the effective off-diagonal Majorana mass $ m_{μe}$, therefore amplifying the rate of muon-to-positron conversion to experimentally observable levels. Using existing bounds from SINDRUM II, COMET, and Mu2e experiments, we derive novel constraints on the flavour-off-diagonal couplings of neutrinos to ULSDM. Our work reveals that upcoming experiments can provide stronger sensitivity to these new couplings than bounds arising from cosmological surveys and terrestrial experiments.",
+      "categories": [
+        "hep-ph",
+        "nucl-th"
+      ],
+      "published": "2025-07-09T18:00:02+00:00",
+      "updated": "2026-04-29T17:38:14+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2507.07176v3",
+      "html_url": "https://arxiv.org/html/2507.07176v3",
+      "entry_url": "http://arxiv.org/abs/2507.07176v3"
+    },
+    {
+      "arxiv_id": "2507.07170v4",
+      "base_id": "2507.07170",
+      "title": "Signs, growth and admissibility of quasi-characters and the holomorphic modular bootstrap for RCFT",
+      "authors": [
+        "Arpit Das",
+        "Sunil Mukhi"
+      ],
+      "abstract": "Rational conformal field theories in 2d have partition functions built from holomorphic characters, whose classification can be addressed via the holomorphic modular bootstrap. This is facilitated by a special basis of ``quasi-characters'' that has been completely classified for rank-2. Suitably combining these to form admissible characters with non-negative integral coefficients $a_n$ depends crucially on the signs and growth of the quasi-character coefficients. We use Frobenius recursion relations for Modular Linear Differential Equations to estimate the growth with $c$ of these coefficients in the region $n\\sim\\frac{c}{12}$ that is inaccessible to Cardy asymptotics, and to prove rigorously that they have alternating signs that stabilise to a fixed sign at this order. This provides a practical path to obtain candidate RCFT partition functions at arbitrary Wronskian index.",
+      "categories": [
+        "hep-th",
+        "math-ph",
+        "math.NT",
+        "math.QA",
+        "math.RT"
+      ],
+      "published": "2025-07-09T18:00:01+00:00",
+      "updated": "2026-05-01T05:45:55+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2507.07170v4",
+      "html_url": "https://arxiv.org/html/2507.07170v4",
+      "entry_url": "http://arxiv.org/abs/2507.07170v4"
+    }
+  ],
+  "total": 3
+}

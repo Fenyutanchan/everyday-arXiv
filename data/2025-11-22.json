@@ -1,0 +1,27 @@
+{
+  "date": "2025-11-22",
+  "papers": [
+    {
+      "arxiv_id": "2511.18134v2",
+      "base_id": "2511.18134",
+      "title": "Cosmic Shear constraints from HSC Year 3 with clustering calibration of the tomographic redshift distributions from DESI",
+      "authors": [
+        "J. Choppin de Janvry",
+        "B. Dai",
+        "S. Gontcho A Gontcho",
+        "U. Seljak",
+        "T. Zhang"
+      ],
+      "abstract": "We reanalyze cosmological constraints from Hyper Suprime-Cam (HSC) Y3 shear-shear correlation function using new calibration of the tomographic redshift distribution via the clustering redshifts method with DESI spectroscopy presented in Choppin de Janvry et al. (2025a). We present both importance sampling of the original MCMC chains by HSC, applying the weights of our newly calibrated $Δz$ priors, as well as full MCMC analysis with new photometric redshift distributions, finding consistent results between the two. We obtain the growth of structure parameter $S_8\\equivσ_8\\sqrt{Ω_m/0.3}=0.805\\pm{0.018}$, compared to previous HSC Y3 result of $S_8=0.769^{+0.031}_{-0.034}$, which is a 1.8 reduction of error due to the improved clustering redshift calibrations, with the central value shifting considerably higher towards Planck cosmology. With the new photometric redshift calibration, HSC Y3 has comparable constraining power to the recent KIDS Legacy and DES Y6 results.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2025-11-22T17:32:48+00:00",
+      "updated": "2026-04-30T08:28:33+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.18134v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2511.18134v2"
+    }
+  ],
+  "total": 1
+}

@@ -1,0 +1,87 @@
+{
+  "date": "2026-02-09",
+  "papers": [
+    {
+      "arxiv_id": "2602.08562v2",
+      "base_id": "2602.08562",
+      "title": "Evolutionary Phase of Universe in $f(R,L_m,T)$ Gravity: The Dynamical System Analysis",
+      "authors": [
+        "R. R. Panchal",
+        "Divya G. Sanjava",
+        "A. H. Hasmani",
+        "B. Mishra"
+      ],
+      "abstract": "In this paper, the dynamical system analysis has been performed to analyze the dynamical behavior of the Universe in $f(R,L_m,T)$ gravity with a scalar field. A well motivated potential function and the linear form of the functional $f(R,L_m,T)$ have been incorporated into the Friedmann equation, and the autonomous dynamical system has been framed by introducing dimensionless variables. The stability behavior of the critical points is obtained and analyzed based on their corresponding eigenvalues. Moreover, cosmological parameters such as the deceleration parameter and the dynamical parameters such as equation of state and density parameters are obtained using the dimensionless variables. It has been observed that the system provides critical points that describe different evolutionary phases of the Universe.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2026-02-09T12:00:03+00:00",
+      "updated": "2026-04-19T08:56:58+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.08562v2",
+      "html_url": "https://arxiv.org/html/2602.08562v2",
+      "entry_url": "http://arxiv.org/abs/2602.08562v2"
+    },
+    {
+      "arxiv_id": "2602.08811v2",
+      "base_id": "2602.08811",
+      "title": "Assessing the validity of the Born-Oppenheimer approximation in potential models for doubly heavy hadrons",
+      "authors": [
+        "Zi-Long Man",
+        "Hao Zhou",
+        "Si-Qiang Luo",
+        "Xiang Liu"
+      ],
+      "abstract": "The Born-Oppenheimer approximation is widely used to investigate the properties of hydrogen-like systems and doubly heavy hadrons. However, the extent to which this approximation captures the features of such systems within potential models remains an open question. In this work, we adopt the results obtained with the Gaussian expansion method as a benchmark to assess the validity of the Born-Oppenheimer approximation within potential models for hadronic systems. We also investigate the dependence of the Born-Oppenheimer approximation results on the choice of trial wave functions. A comprehensive study of the Born-Oppenheimer approximation is carried out by performing calculations using Slater-type functions and Gaussian-type functions as trial wave functions, and by comparing the resulting predictions with those obtained from the Gaussian expansion method. We find that the calculations performed within the Born-Oppenheimer approximation are close to those obtained with the Gaussian expansion method when the heavy-quark mass is relatively small. However, as the heavy-quark mass increases, calculations employing Slater-type functions yield larger values than those from the Gaussian expansion method, whereas those using Gaussian-type functions lead to smaller ones. The use of Slater-type functions generally leads to an enhanced binding energy. The underestimation observed in Born-Oppenheimer approximation calculations with Gaussian-type functions primarily stems from the neglect of non-adiabatic corrections. This comparative study provides deeper insight into the structure of doubly heavy hadrons and helps clarify the applicability and limitations of the Born-Oppenheimer treatment within potential models.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-02-09T15:49:11+00:00",
+      "updated": "2026-04-15T15:15:37+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.08811v2",
+      "html_url": "https://arxiv.org/html/2602.08811v2",
+      "entry_url": "http://arxiv.org/abs/2602.08811v2"
+    },
+    {
+      "arxiv_id": "2602.09105v2",
+      "base_id": "2602.09105",
+      "title": "Generalized Families of QFTs",
+      "authors": [
+        "T. Daniel Brennan",
+        "Kenneth Intriligator"
+      ],
+      "abstract": "RG flows and IR phases of QFTs can be constrained by generalized symmetries and their anomalies. Broken symmetries act on the space of coupling constants of families of theories, and can also have IR-constraining family anomalies. We generalize family anomaly considerations to cases of broken generalized/categorical symmetries, including higher-group and non-invertible symmetries. We consider the anomaly inflow and SymTFTs of such generalized families of QFTs, and their implications for RG flows and constraints on the IR phases. As examples, we apply family anomalies to study the IR phases of $4d$ QCD-like theories deformed by irrelevant, multi-fermion interactions.",
+      "categories": [
+        "hep-th",
+        "cond-mat.str-el",
+        "hep-ph"
+      ],
+      "published": "2026-02-09T19:00:17+00:00",
+      "updated": "2026-04-23T19:05:22+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.09105v2",
+      "html_url": "https://arxiv.org/html/2602.09105v2",
+      "entry_url": "http://arxiv.org/abs/2602.09105v2"
+    },
+    {
+      "arxiv_id": "2602.08605v2",
+      "base_id": "2602.08605",
+      "title": "Holographic information measures for spin-$3/2$ $Δ$ baryons in AdS/QCD",
+      "authors": [
+        "H. Almeida",
+        "R. da Rocha",
+        "P. H. O. Silva",
+        "B. Toniato"
+      ],
+      "abstract": "Spin-$3/2$ $Δ$ baryon resonances are investigated within AdS/QCD, using Rarita-Schwinger fields. The differential configurational entropy (DCE) and differential configurational complexity (DCC) associated with their bulk energy densities are computed. It yields Regge-like trajectories relating configurational information measures to the radial excitation number and the experimental mass spectrum of the $Δ$ baryons. We then extrapolate the spectrum of heavier $Δ$ baryon resonances beyond the currently established states in the PDG, also comparing them with states in the PDG that are omitted from the summary table. Our results support a relevant interplay among holographic QCD dynamics, configurational information entropy, and baryon spectroscopy in strongly coupled QCD.",
+      "categories": [
+        "hep-th",
+        "hep-ph"
+      ],
+      "published": "2026-02-09T12:52:37+00:00",
+      "updated": "2026-04-29T15:19:48+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.08605v2",
+      "html_url": "https://arxiv.org/html/2602.08605v2",
+      "entry_url": "http://arxiv.org/abs/2602.08605v2"
+    }
+  ],
+  "total": 4
+}

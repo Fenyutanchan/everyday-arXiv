@@ -1,0 +1,67 @@
+{
+  "date": "2026-01-04",
+  "papers": [
+    {
+      "arxiv_id": "2601.01656v2",
+      "base_id": "2601.01656",
+      "title": "Gaussian fluctuating Generally covariant diffusion",
+      "authors": [
+        "David Montenegro",
+        "Giorgio Torrieri"
+      ],
+      "abstract": "We extend the previously developed [1] generally covariant formalism to include diffusion of conserved charges, and comment on the seming difference between the chemica potential term and the diffusion term",
+      "categories": [
+        "hep-th",
+        "gr-qc",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "published": "2026-01-04T20:21:44+00:00",
+      "updated": "2026-04-17T17:48:57+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.01656v2",
+      "html_url": "https://arxiv.org/html/2601.01656v2",
+      "entry_url": "http://arxiv.org/abs/2601.01656v2"
+    },
+    {
+      "arxiv_id": "2601.01478v2",
+      "base_id": "2601.01478",
+      "title": "On electric fields in hot QCD: infrared regularization dependence",
+      "authors": [
+        "Gergely Endrődi",
+        "Gergely Markó",
+        "Leon Sandbote"
+      ],
+      "abstract": "We study the impact of background electric fields on a hot plasma of charged particles -- a setting relevant for the early stages of heavy-ion collisions as well as laser pulse experiments. Historically, the electric susceptibility -- encoding the behavior of the hot medium for weak fields -- has been defined within two different formalisms, leading to two distinct results at nonzero temperature. With the help of an exact fermion propagator in a homogeneous electric background field at nonzero temperature and finite volume on the one hand, and an improved perturbative result on the other, we identify the origin of this disagreement. The equilibrium conditions for the system are discussed and the role of the thermodynamic ensemble used to describe the system is highlighted. Finally, we construct the electric susceptibility in a simplified hadron resonance gas model, relevant for the strongly interacting medium in the low-temperature regime.",
+      "categories": [
+        "hep-ph",
+        "hep-lat",
+        "hep-th"
+      ],
+      "published": "2026-01-04T10:55:18+00:00",
+      "updated": "2026-04-15T13:39:16+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.01478v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2601.01478v2"
+    },
+    {
+      "arxiv_id": "2601.01451v3",
+      "base_id": "2601.01451",
+      "title": "Bounds on the photon sphere radius for spherically symmetric black holes in n-dimensional Einstein gravity",
+      "authors": [
+        "Yong Song",
+        "Jiaqi Fu",
+        "Yiting Cen"
+      ],
+      "abstract": "The photon sphere, a hypersurface of null circular geodesics, plays a fundamental role in characterizing black hole spacetimes, influencing phenomena such as black hole shadows, gravitational lensing, and quasinormal modes. In this work, we derive both upper and lower bounds on the photon sphere radius for static, spherically symmetric, asymptotically flat black holes within $n$-dimensional Einstein gravity ($n\\ge 4$), assuming an anisotropic matter field satisfying the weak energy condition and a non-positive trace of the energy-momentum tensor. For the upper bound, we obtain $r_γ\\le [(n-1)M]^{\\frac{1}{n-3}}$, where $M$ is the ADM mass. In the four-dimensional case ($n=4$), this reduces to $r_γ\\le 3M$, in agreement with previous results. For the lower bound, under the additional assumption that $|r^{n-1}p_r(r)|$ is monotonically decreasing, we prove $r_γ\\ge (\\frac{n-1}{2})^{1/(n-3)}r_H$, where $r_H$ is the radius of the outer event horizon; for $n=4$ this gives $r_γ\\ge \\frac{3}{2}r_H$, also consistent with previous four-dimensional result. These results provide dimension-dependent geometric constraints that generalize well-known four-dimensional bounds to a specific class of higher-dimensional black holes (described by a Tangherlini-type metric) and deepen our understanding of spacetime structure in higher-dimensional gravitational theories.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2026-01-04T09:31:18+00:00",
+      "updated": "2026-04-26T13:24:30+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.01451v3",
+      "html_url": "https://arxiv.org/html/2601.01451v3",
+      "entry_url": "http://arxiv.org/abs/2601.01451v3"
+    }
+  ],
+  "total": 3
+}

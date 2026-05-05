@@ -1,0 +1,81 @@
+{
+  "date": "2025-12-05",
+  "papers": [
+    {
+      "arxiv_id": "2512.06138v2",
+      "base_id": "2512.06138",
+      "title": "The eROSITA Final Equatorial-Depth Survey (eFEDS): X-ray stacking analysis of Subaru's optically selected clusters spanning low richness regime",
+      "authors": [
+        "N. T. Nguyen-Dang",
+        "N. Ota",
+        "N. Okabe",
+        "M. Oguri",
+        "I. Mitsuishi",
+        "T. H. Reiprich",
+        "F. Pacaud",
+        "E. Bulbul",
+        "J. S. Sanders",
+        "M. Brüggen",
+        "A. Liu",
+        "Y. Tsujita",
+        "I. Chiu",
+        "V. Ghirardini",
+        "S. Grandis",
+        "M. Klein",
+        "K. Migkas",
+        "H. Miyatake",
+        "S. Miyazaki",
+        "M. E. Ramos-Ceja"
+      ],
+      "abstract": "This is the second paper in a series exploring the X-ray properties of galaxy clusters optically selected by the Subaru Hyper Suprime-Cam (HSC) survey, using data from the SRG/eROSITA Final Equatorial-Depth Survey (eFEDS). We aim to investigate scaling relations between observable cluster properties and mass, and to study the radial X-ray profiles of a large sample of optically selected clusters. We analyze a sample of 997 CAMIRA clusters with richness $N > 15$ and redshifts of $0.1 < z < 1.3$. Using bolometric luminosities derived from count rates and a weak-lensing mass calibration, we study the $L-M$ and $N-M$ scaling relations through stacking analysis, while accounting for selection effects and redshift evolution. We also compare clusters with and without X-ray counterparts in the eFEDS catalog in terms of their scaling relations and surface brightness profiles. The best-fit $L-M$ slope ($1.56^{+0.14}_{-0.12}$) is slightly steeper than the self-similar prediction, yet remains consistent with our previous findings. The $N-M$ slope ($0.766^{+0.070}_{-0.060}$) broadly agrees with theoretical expectations and other optical samples. The data do not require any additional redshift evolution beyond the standard self-similar scaling, although current constraints on evolution remain weak. X-ray detected clusters exhibit a marginally steeper $L-M$ slope, higher central surface brightness, and more centrally concentrated X-ray profiles than undetected systems. Our results highlight systematic differences in the X-ray properties between optically and X-ray selected cluster samples. This study extends scaling relation analyses into lower mass and luminosity regimes, demonstrating the value of combining deep X-ray and optical surveys like eROSITA and Subaru HSC.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2025-12-05T20:42:47+00:00",
+      "updated": "2026-04-15T06:41:13+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.06138v2",
+      "html_url": "https://arxiv.org/html/2512.06138v2",
+      "entry_url": "http://arxiv.org/abs/2512.06138v2"
+    },
+    {
+      "arxiv_id": "2512.05476v3",
+      "base_id": "2512.05476",
+      "title": "What can we learn from the radiative decays of the $D_{s1}(2460)$ meson?",
+      "authors": [
+        "Hai-Long Fu",
+        "Feng-Kun Guo",
+        "Christoph Hanhart",
+        "Alexey Nefediev"
+      ],
+      "abstract": "We study the radiative decays $D_{s1}(2460)\\toγD^{*}_{s0}(2317)$ and $D_{s1}(2460)\\to γD^0K^+/γD^+K^0$ and argue that their simultaneous experimental measurement, or at least a constraint on the ratio of the corresponding branching fractions, can allow one to probe the nature of the $D^{*}_{s0}(2317)$ and $D_{s1}(2460)$ mesons.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2025-12-05T07:11:22+00:00",
+      "updated": "2026-04-24T14:17:42+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.05476v3",
+      "html_url": "https://arxiv.org/html/2512.05476v3",
+      "entry_url": "http://arxiv.org/abs/2512.05476v3"
+    },
+    {
+      "arxiv_id": "2512.05514v3",
+      "base_id": "2512.05514",
+      "title": "Wilson loops on the Coulomb branch of $N=4$ super-Yang-Mills",
+      "authors": [
+        "Jarne Moens",
+        "Konstantin Zarembo"
+      ],
+      "abstract": "We study Wilson loops on the Coulomb branch of $N = 4$ super-Yang-Mills theory, by solving for minimal surfaces that connect the contour on the boundary with the D3-brane in the bulk of AdS$_5 \\times S^5$. The circular loop undergoes the Gross-Ooguri transition as a function of the radius and angular separation, and we fully map its phase diagram. As a byproduct we find evidence that the expectation value of the straight line is tree-level exact.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2025-12-05T08:18:26+00:00",
+      "updated": "2026-04-30T12:59:55+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.05514v3",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2512.05514v3"
+    }
+  ],
+  "total": 3
+}

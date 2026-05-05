@@ -1,0 +1,64 @@
+{
+  "date": "2026-04-03",
+  "papers": [
+    {
+      "arxiv_id": "2604.03047v2",
+      "base_id": "2604.03047",
+      "title": "All-heavy tetraquarks with different flavors",
+      "authors": [
+        "Wei-Xiang Wang",
+        "Lin-Qin Xie",
+        "Jun-Jie Liu",
+        "Zhi-Biao Liang",
+        "Ming-Sheng Liu",
+        "Xian-Hui Zhong"
+      ],
+      "abstract": "In a nonrelativistic potential quark model framework, we carry out a precise calculation of the mass spectrum of the all-heavy tetraquarks with different flavors, $bb\\bar{b}\\bar{c}$, $cc\\bar{c}\\bar{b}$, $bb\\bar{c}\\bar{c}$, and $bc\\bar{b}\\bar{c}$, by adopting the explicitly correlated Gaussian method. A complete mass spectrum for the $1S$ states is obtained. For the $bb\\bar{b}\\bar{c}$, $cc\\bar{c}\\bar{b}$, $bb\\bar{c}\\bar{c}$, and $bc\\bar{b}\\bar{c}$ systems, the $1S$ states are predicted to lie in the mass ranges of $ \\sim(16.06,16.14)$, $\\sim(9.65,9.74)$, $\\sim(12.89,12.94)$, and $\\sim(12.75,12.99)$~GeV, respectively.Moreover, by using the obtained masses and wave functions, we evaluate the fall-apart decay properties within a quark-exchange model.The results show that the $1S$ states of the all-heavy tetraquarks with different flavors may have narrow fall-apart decay widths,which ranging from a few tenths to several MeV. Some all-heavy tetraquarks with different flavors may have good potentials to be established at LHC in their optimal fall-apart decay channels, such as $ΥJ/ψ$, $ΥB_c^-$, and $J/ψB_c^+$.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-04-03T13:56:19+00:00",
+      "updated": "2026-04-20T16:40:07+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.03047v2",
+      "html_url": "https://arxiv.org/html/2604.03047v2",
+      "entry_url": "http://arxiv.org/abs/2604.03047v2"
+    },
+    {
+      "arxiv_id": "2604.03363v4",
+      "base_id": "2604.03363",
+      "title": "Topolons: Stable Particle-Like Remnants of Collapsed Vacuum Bubbles",
+      "authors": [
+        "Muhammad Ghulam Khuwajah Khan"
+      ],
+      "abstract": "We study a three-form gauge sector in four spacetime dimensions coupled to electrically charged spherical membranes whose worldvolume dynamics are governed by a Dirac--Born--Infeld action. The associated four-form field strength has no local propagating degrees of freedom and contributes a branch-dependent vacuum energy. Motivated by the Hartle--Hawking--Wu selection argument, we restrict attention to the semiclassically admissible four form flux window for which the Hartle-Hawking wave function has support. We then endow the bubble wall with a worldvolume $U(1)$ gauge field carrying quantized monopole flux $n \\in \\mathbb{Z}$ and evaluate the full DBI energy of the resulting spherical configurations. We show that the energetically preferred branch collapses toward a microscopic core rather than stabilizing at finite radius, but for nonzero monopole flux the energy does not vanish in the collapsed limit. Instead, the bubble relaxes to a finite-energy remnant whose mass is set by the wall scale and the conserved flux. We interpret these objects as stable flux-supported particle-like states, which we call topolons. Within the admissible sector, the effective energy analysis distinguishes stable collapsed remnants from the contrasting runaway vacuum-decay channel, thereby isolating the sector relevant for cosmological relic formation. At macroscopic distances, topolons behave as heavy localized states and provide a concrete microphysical realization of a dark relic candidate. The detailed cosmological abundance and phenomenology are left for future work.",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2026-04-03T17:52:53+00:00",
+      "updated": "2026-04-18T11:30:56+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.03363v4",
+      "html_url": "https://arxiv.org/html/2604.03363v4",
+      "entry_url": "http://arxiv.org/abs/2604.03363v4"
+    },
+    {
+      "arxiv_id": "2604.03381v2",
+      "base_id": "2604.03381",
+      "title": "Big Bang Nucleosynthesis Constraints on the CCC+TL Cosmology",
+      "authors": [
+        "Rajendra P. Gupta",
+        "Nikolaos Samaras"
+      ],
+      "abstract": "We investigate whether Big Bang nucleosynthesis (BBN) remains compatible with the Covarying Coupling Constants plus Tired Light (CCC+TL) cosmology. In this framework, only quantities with explicit length dimensionality covary through a universal scaling function $f \\left( z \\right)$, while dimensionless constants and dimensionless ratios remain invariant. At the redshifts $z$ relevant to BBN, $f \\left( z \\right )$ approaches a constant plateau $f_{\\text{max}} \\left( z \\right) \\simeq 3$, and the tired-light contribution is negligible, so the early-time dynamics reduce to a global rescaling of dimensioned quantities. In particular, the Hubble expansion rate $H$ at fixed temperature $T$ satisfies $H_{\\text{CTL}} \\left( T \\right) = f^{-1}_{\\text{max}} H_{Λ\\text{CDM}}\\left( T\\right)$, implying a longer cooling time $Δt$ between weak freeze-out and the onset of nucleosynthesis by the same factor (CCC+TL labeled as $\\textit{CTL}$). We find that BBN predictions are preserved provided the relevant interaction rates $Γ$ and decay rates governing the neutron lifetime $τ_n$ share the same plateau scaling as $H$, so that governing combinations such as $Γ\\text{/}H$ and $\\text{exp} \\left( -Δt \\text{/} τ_n \\right)$ remain invariant. Implementing these plateau rescalings in the Kawano/NUC123 network (via a single control parameter $\\texttt{fctl} \\equiv f_{\\text{max}}$) yields identical light-element abundances for $\\texttt{fctl}= 1$ ($Λ$CDM) and $\\texttt{fctl} = 3\\left( \\text{CCC+TL} \\right)$ to within $10^{-3} - 10^{-4}$ level, consistent with numerical rounding. We also illustrate that adopting the lower late-time CCC+TL baryon density from the Pantheon+ data fit can reduce the ${}^7\\text{Li}$ discrepancy but simultaneously increases D/H, implying that BBN alone does not select between the late-time baryon-density inferences considered here.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2026-04-03T18:24:12+00:00",
+      "updated": "2026-04-23T20:47:59+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.03381v2",
+      "html_url": "https://arxiv.org/html/2604.03381v2",
+      "entry_url": "http://arxiv.org/abs/2604.03381v2"
+    }
+  ],
+  "total": 3
+}

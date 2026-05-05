@@ -1,0 +1,67 @@
+{
+  "date": "2025-10-09",
+  "papers": [
+    {
+      "arxiv_id": "2510.08339v3",
+      "base_id": "2510.08339",
+      "title": "Probing departures from $Λ$CDM by late-time datasets",
+      "authors": [
+        "Himanshu Chaudhary",
+        "Vipin Kumar Sharma",
+        "Salvatore Capozziello",
+        "G. Mustafa"
+      ],
+      "abstract": "Observational data play a pivotal role in identifying cosmological models that are both theoretically consistent and empirically viable. In this work, we investigate the level of preference for dynamical dark energy over a cosmological constant using current late-time observational datasets, including Cosmic Chronometers , Baryon Acoustic Oscillations from DESI DR2, and different Type Ia supernova catalogs (Pantheon$^+$, DES-Dovekie, Union3). We analyze various dynamical dark energy models, including $ω$CDM, o$ω$CDM, $ω_0ω_a$CDM, Logarithmic, Exponential, JBP, BA, and GEDE. In most cases, the o$Λ$CDM and o$ω$CDM models favor an open Universe. For the o$ω$CDM, the inclusion of DES-Dovekie or Union3 data together with CC and DESI DR2 favors a nearly flat geometry. Using the CC + DESI DR2 dataset, the preference for dynamical dark energy lies between the $1$-$2σ$ level. When different supernova catalogs (DES-Dovekie or Union3) are included, the deviation from $Λ$CDM in the $ω$CDM, $ω_0ω_a$CDM, Logarithmic, JBP, BA, and GEDE models increases to the $2$-$2.74σ$ level, while the Pantheon$^{+}$ sample yields deviations below the $2σ$ level. We find consistent evidence for $ω_0 > -1$ and $ω_a < 0$ across all dark energy models, indicating a preference for dynamical dark energy characterized by a Quintom-B type scenario. The $Λ$CDM paradigm has long served as the standard framework of modern cosmology; however recent DESI DR2 results have exposed emerging tensions with the cosmological constant $Λ$, hinting at possible new physics in the dark energy sector. Even so, the currently available data are still not strong enough to definitively rule out the $Λ$CDM model.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2025-10-09T15:25:04+00:00",
+      "updated": "2026-04-18T10:55:05+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.08339v3",
+      "html_url": "https://arxiv.org/html/2510.08339v3",
+      "entry_url": "http://arxiv.org/abs/2510.08339v3"
+    },
+    {
+      "arxiv_id": "2510.08686v2",
+      "base_id": "2510.08686",
+      "title": "Non-closed scalar charge in four-dimensional Einstein-scalar-Gauss-Bonnet black hole thermodynamics",
+      "authors": [
+        "Romina Ballesteros",
+        "Marcela Cárdenas",
+        "Eric Lescano"
+      ],
+      "abstract": "We develop a covariant differential-form framework to define scalar charges for stationary, asymptotically flat black holes in $4$--dimensional Einstein-scalar-Gauss-Bonnet gravity with a general scalar coupling function. Contracting the scalar field equation of motion with the horizon generator $k$ yields a non-closed-form scalar charge, revealing a bulk contribution encoded in a $3$--form, which measures the obstruction to its closedness. In the presence of shift-symmetry, this obstruction vanishes and the $2$--form scalar charge satisfies a Gauss law, depending solely on boundary data. Geometrically, this reproduces known topological results in the shift-symmetric limit. This framework allows us to analyze the role of the non-closed scalar charges in black hole thermodynamics through the Smarr formula for more general couplings and provide a covariant, charge-based interpretation of the spontaneous scalarization mechanism, showing how the behavior of the scalar charge and the bulk term capture the instability of scalar-free black holes and the emergence of scalar hair. Our results offer a unified geometric understanding of the role of scalar charges and the mechanism of spontaneous scalarization in Einstein-scalar-Gauss-Bonnet gravity.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2025-10-09T18:00:04+00:00",
+      "updated": "2026-04-17T18:09:11+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.08686v2",
+      "html_url": "https://arxiv.org/html/2510.08686v2",
+      "entry_url": "http://arxiv.org/abs/2510.08686v2"
+    },
+    {
+      "arxiv_id": "2510.07804v4",
+      "base_id": "2510.07804",
+      "title": "Exploring the Spectral Edge in SYK Models",
+      "authors": [
+        "Bowen Ouyang",
+        "Pratik Rath"
+      ],
+      "abstract": "Previous work on Jackiw-Teitelboim (JT) gravity has shown that, at low temperatures, the annealed entropy becomes negative and departs from the quenched entropy. From the perspective of the random-matrix theory (RMT) dual of JT gravity, this effect is encoded in the continuous spectrum at the spectral edge that is universally described by the Airy model. At low temperature, the quenched entropy exhibits a power law dependence determined by the symmetry class of the RMT ensemble. Here we study the same question in the Sachdev-Ye-Kitaev (SYK) model which possesses much more structure than RMT. Through numerical simulations, we find that the level spacing statistics of the SYK model match the relevant RMT ensembles even near the spectral edge, thus leading to an agreement with the RMT prediction for the power-law behaviour of the quenched entropy at low temperatures. We also show similar effects in supersymmetric wormholes filled with matter, which is modeled by the $\\mathcal N = 2$ supersymmetric SYK model. Numerically extracting the spectral edge properties of the BPS operators allows us to compute the quenched entanglement entropy of the wormhole in the large particle number limit.",
+      "categories": [
+        "hep-th",
+        "quant-ph"
+      ],
+      "published": "2025-10-09T05:30:34+00:00",
+      "updated": "2026-04-25T05:27:10+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.07804v4",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2510.07804v4"
+    }
+  ],
+  "total": 3
+}

@@ -1,0 +1,183 @@
+{
+  "date": "2026-04-01",
+  "papers": [
+    {
+      "arxiv_id": "2604.01166v2",
+      "base_id": "2604.01166",
+      "title": "Varieties of electrically charged physical states in SU(2)$\\times$U(1) lattice gauge Higgs theory",
+      "authors": [
+        "Jeff Greensite"
+      ],
+      "abstract": "We consider a quenched SU(2)$\\times$U(1) gauge Higgs theory on the lattice, coupled to a static vector-like fermion which, in this case, is in the same gauge group representation as the Higgs field. Physical (i.e. locally gauge invariant) electrically charged and electrically neutral states of matter particles in the electroweak theory were described decades ago, but those constructions do not exhaust all the possibilities, and new types of electrically charged/neutral states, orthogonal to former constructions, are described here. The difference has to do with how the static source, which by itself does not create a physical state, is dressed by dynamical fields. We find that, unsurprisingly, the neutral static fermion is much lighter than any of the charged fermion states. But a lattice study of the propagation of the charged fermion states indicates the existence of (at least) two particle states with different masses in charged particle spectrum.",
+      "categories": [
+        "hep-lat",
+        "hep-th"
+      ],
+      "published": "2026-04-01T17:18:08+00:00",
+      "updated": "2026-04-17T17:37:05+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.01166v2",
+      "html_url": "https://arxiv.org/html/2604.01166v2",
+      "entry_url": "http://arxiv.org/abs/2604.01166v2"
+    },
+    {
+      "arxiv_id": "2604.01320v2",
+      "base_id": "2604.01320",
+      "title": "Solving Lévy Sachdev-Ye-Kitaev Model",
+      "authors": [
+        "Budhaditya Bhattacharjee",
+        "William. E. Salazar",
+        "Alexei Andreanov",
+        "Dario Rosa"
+      ],
+      "abstract": "We present an exact solution in the large-$N$ limit of the Lévy Sachdev-Ye-Kitaev (LSYK) model introduced in Ref. [1], wherein the couplings are drawn from a Lévy Stable distribution parameterized by a tail exponent $μ\\in [0, 2]$. Starting from the Hamiltonian and its associated partition function, we highlight the key differences from the standard Gaussian SYK model and derive the large-$N$ Schwinger-Dyson equations via a bosonic oscillator representation of the action. These equations are solved both numerically and analytically in the large-$q$ and infrared limits. We subsequently analyze the chaotic properties of the model by computing the Krylov exponent from the large-$q$ Green's function and extracting the Lyapunov exponent from the $4$-point function. The parameter $μ$ continuously interpolates between a free theory at $μ= 0$ and the conventional, maximally chaotic Gaussian SYK model at $μ= 2$, with non-maximal chaos persisting throughout the intermediate regime $0 < μ< 2$. Thermodynamic quantities, including the entropy, free energy, average energy, and specific heat capacity, are computed and compared with their Gaussian SYK counterparts. The interpretations of the thermodynamics are discussed with respect to the holographic dual and non-Fermi liquid theory. Finally, we discuss an alternative representation of the LSYK model based on a distinct decomposition of the Lévy Stable distribution, which establishes a non-trivial connection to Gaussian SYK, and provide supporting analytical and numerical results in the appendices.",
+      "categories": [
+        "hep-th",
+        "cond-mat.str-el",
+        "quant-ph"
+      ],
+      "published": "2026-04-01T18:46:27+00:00",
+      "updated": "2026-04-15T18:46:08+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.01320v2",
+      "html_url": "https://arxiv.org/html/2604.01320v2",
+      "entry_url": "http://arxiv.org/abs/2604.01320v2"
+    },
+    {
+      "arxiv_id": "2604.01112v2",
+      "base_id": "2604.01112",
+      "title": "Cosmological zoom-in perturbation theory as a consistent beyond point-particle approximation framework",
+      "authors": [
+        "Obinna Umeh"
+      ],
+      "abstract": "Modelling structure formation across the full dynamical range of the Universe remains a major challenge in cosmology. This difficulty originates from a fundamental limitation of geodesics in general relativity: a one-parameter family of geodesics can cease to be geodesic at a finite time. This implies that the conventional point-particle approximation is not the primary issue; rather, the breakdown of geodesic flow restricts a consistent description across scales. We develop a covariant multi-scale framework that resolves this problem by decomposing spacetime into hierarchical regions separated by matter horizons. We show how to match shared boundary consistently at the level of the action, leading to a covariant backreaction contribution. The resulting construction provides a first-principles theoretical foundation for cosmological zoom-in simulations and yields an effective energy-momentum tensor capturing the impact of the geometric backreaction effect. As an application, we demonstrate that this backreaction naturally produces flat galaxy rotation curves without invoking an additional dark matter component. Our results establish a new perspective on nonlinear structure formation, in which long dynamical range is resolved through a hierarchy of discrete geodesic domains.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "published": "2026-04-01T16:36:52+00:00",
+      "updated": "2026-04-15T14:41:48+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.01112v2",
+      "html_url": "https://arxiv.org/html/2604.01112v2",
+      "entry_url": "http://arxiv.org/abs/2604.01112v2"
+    },
+    {
+      "arxiv_id": "2604.00646v2",
+      "base_id": "2604.00646",
+      "title": "Hyperon non-leptonic decays in relativistic Chiral Perturbation Theory with resonances",
+      "authors": [
+        "Nora Salone",
+        "Fernando Alvarado",
+        "Stefan Leupold",
+        "Andrzej Kupsc"
+      ],
+      "abstract": "Motivated by recent experimental advances in the corresponding measurements, non-leptonic hyperon decays are calculated, for the first time in a relativistic manner, in Chiral Perturbation Theory at next-to-leading order (NLO). On the one hand, relativistic loop corrections are computed explicitly based on the ground-state octet and decuplet fields. On the other hand, the NLO weak-transition low-energy constants are estimated by resonance saturation, inspired by the non-relativistic tree-level computation of Ref. [1]. In particular, the $1/2^-$ and the (excited) $1/2^+$ resonance octets are utilized. The remaining unknown parameters are fitted to the decay amplitudes. A good combined fit to both $s$- and $p$-wave amplitudes is achieved with the caveat of not being very tightly constrained. The role of the resonances is found to be crucial. Consequences for further investigations and open questions are addressed.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-04-01T08:59:13+00:00",
+      "updated": "2026-04-15T14:00:34+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.00646v2",
+      "html_url": "https://arxiv.org/html/2604.00646v2",
+      "entry_url": "http://arxiv.org/abs/2604.00646v2"
+    },
+    {
+      "arxiv_id": "2604.01384v2",
+      "base_id": "2604.01384",
+      "title": "AI usage in string theory, a case study: String Vacua in the Interior of Moduli Space",
+      "authors": [
+        "Timm Wrase"
+      ],
+      "abstract": "These proceedings start with a discussion of my recent experiences with large language models and potential implications for their usage in our field. This is followed by an AI generated summary of my talk at the workshop ``Recent Progress in Computational String Geometry,'' held at the Chennai Mathematical Institute in January 2026. The focus is on four-dimensional $\\mathcal{N}=1$ Minkowski vacua in type IIB compactifications that live deep in the interior of moduli space and admit an exact worldsheet description in terms of Landau--Ginzburg models. The main examples are the $1^9$ and $2^6$ models, mirror to rigid Calabi--Yau threefolds and therefore free of Kähler moduli. This makes them ideal laboratories for testing whether fluxes can stabilize all fields and for probing conjectures about the string landscape and the swampland. Based mostly on arXiv:2406.03435, arXiv:2407.16756, we review how higher-order terms in the flux superpotential can stabilize fields that remain massless at quadratic order, how isolated Minkowski vacua arise in the $2^6$ model, and why these constructions provide sharp data for the tadpole and massless Minkowski conjectures. We also emphasize the role of arXiv:2407.16758 by other authors, where the first Minkowski vacua of this type with all fields massive were identified.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2026-04-01T20:46:50+00:00",
+      "updated": "2026-04-21T15:42:44+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.01384v2",
+      "html_url": "https://arxiv.org/html/2604.01384v2",
+      "entry_url": "http://arxiv.org/abs/2604.01384v2"
+    },
+    {
+      "arxiv_id": "2604.01324v2",
+      "base_id": "2604.01324",
+      "title": "Bipartite Solution to the Lithium Problem",
+      "authors": [
+        "Sougata Ganguly",
+        "Tae Hyun Jung",
+        "Tae-Sun Park",
+        "Chang Sub Shin"
+      ],
+      "abstract": "The primordial lithium problem remains a persistent motivation for new-physics modifications of Big Bang nucleosynthesis, yet the precision of the observed deuterium abundance now places strong constraints on such attempts. This indicates that the challenge is not simply to reduce $^{7}\\mathrm{Li}$, but to realize the correlated shifts among light-element abundances required to do so without spoiling deuterium. We investigate this issue in a concrete two-step decay scenario involving two unstable particles undergoing sequential late decays. In the first stage, a majoron with lifetime $τ_J \\sim 10\\,\\text{--}\\,10^4\\,\\mathrm{sec}$ decays predominantly into neutrinos, increasing the neutron abundance and thereby reducing the primordial $^{7}\\mathrm{Li}+\\!{}^{7}\\mathrm{Be}$ yield. This mechanism, however, simultaneously drives deuterium above the observationally allowed range. In the second stage, an axion-like particle with a longer lifetime $τ_φ\\gtrsim 10^5\\,\\mathrm{sec}$ decays into photons, inducing late-time photodissociation that compensates the excess deuterium without erasing the earlier reduction of lithium, while further amplifying the depletion of $^{7}\\mathrm{Li}+\\!{}^{7}\\mathrm{Be}$. Although the setup is model-dependent, it serves as an explicit proof of concept that the lithium abundance can be lowered consistently with current deuterium constraints. More broadly, our analysis highlights that a viable resolution may require a nontrivial combination of decay channels and decay epochs, and clarifies the pattern of abundance response that successful late-decay scenarios must achieve.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "published": "2026-04-01T19:00:12+00:00",
+      "updated": "2026-04-21T07:51:13+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.01324v2",
+      "html_url": "https://arxiv.org/html/2604.01324v2",
+      "entry_url": "http://arxiv.org/abs/2604.01324v2"
+    },
+    {
+      "arxiv_id": "2604.01058v2",
+      "base_id": "2604.01058",
+      "title": "Universal $T$-matrices for quantum Poincaré groups: contractions and quantum reference frames",
+      "authors": [
+        "Angel Ballesteros",
+        "Diego Fernandez-Silvestre",
+        "Ivan Gutierrez-Sagredo"
+      ],
+      "abstract": "Universal $T$-matrices, or Hopf algebra dual forms, for quantum groups are revisited, and their contraction theory is developed. As a first illustrative example, the (1+1) timelike $κ$-Poincaré $T$-matrix is explicitly worked out. Afterwards, motivated by recent results on the role of the Hopf algebra dual form of a quantum (1+1) centrally extended Galilei group as the algebraic object underlying non-relativistic quantum reference frame transformations, a new quantum deformation of the (1+1) centrally extended Poincaré Lie algebra is obtained, and its universal $T$-matrix is presented. Finally, the Hopf algebra dual form contraction is applied to this Poincaré $T$-matrix, showing that its corresponding non-relativistic counterpart is precisely the Galilei $T$-matrix associated with quantum reference frames. In this way, the Poincaré Hopf algebra dual form introduced here stands as a natural candidate for describing the symmetry structure of relativistic quantum reference frame transformations. In the appropriate basis, the associated quantum Poincaré group is recognized, remarkably, as a non-trivial central extension of the (1+1) spacelike $κ$-Poincaré dual Hopf algebra.",
+      "categories": [
+        "math.QA",
+        "gr-qc",
+        "hep-th",
+        "math-ph",
+        "quant-ph"
+      ],
+      "published": "2026-04-01T16:00:18+00:00",
+      "updated": "2026-04-22T14:00:42+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.01058v2",
+      "html_url": "https://arxiv.org/html/2604.01058v2",
+      "entry_url": "http://arxiv.org/abs/2604.01058v2"
+    },
+    {
+      "arxiv_id": "2604.01401v2",
+      "base_id": "2604.01401",
+      "title": "Asymptotic analysis of the \"simulated horizon\" segment of the Collins spiral",
+      "authors": [
+        "Stephen L. Adler"
+      ],
+      "abstract": "The Tolman-Oppenheimer-Volkoff (TOV) equations for a massless fluid take the form of a pair of coupled autonomous first order differential equations, which can be employed in a model for a ``dynamical gravastar'' black hole mimicker. The mimicker has no true horizon, but rather a ``simulated horizon'', outside which the geometry resembles a Schwarzschild black hole, but inside which the $g_{00}$ component of the metric is always positive and becomes exponentially small. Collins has reinterpreted the relevant TOV equations in terms of a two-dimensional flow with a spiral form, and Zöllner and Kämpfer have mapped the simulated horizon to a specific segment of the Collins spiral. We give here results of an asymptotic analysis, relating initial values at the small radius end of this spiral segment to the black hole mimicker mass and other parameters that emerge at the large radius kink in the TOV solution, which corresponds to the simulated horizon. A curious feature of this asymptotic mapping, given in Sec. IIB, is the appearance of power law behaviors with exponents of $1/5$ and $1/10$.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2026-04-01T21:02:23+00:00",
+      "updated": "2026-04-21T22:06:07+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.01401v2",
+      "html_url": "https://arxiv.org/html/2604.01401v2",
+      "entry_url": "http://arxiv.org/abs/2604.01401v2"
+    },
+    {
+      "arxiv_id": "2604.00347v2",
+      "base_id": "2604.00347",
+      "title": "Lieb-Schultz-Mattis Anomalies and Anomaly Matching",
+      "authors": [
+        "Liujun Zou",
+        "Meng Cheng"
+      ],
+      "abstract": "Lieb-Schultz-Mattis (LSM) anomalies are powerful symmetry-based constraints on the correlation, entanglement and dynamics of quantum many-body systems. In this review, we discuss various LSM anomalies and anomaly matching. We start with a pedagogical introduction to these subjects in quantum spin chains, and then generalize the discussion to higher dimensions and other systems. Besides covering the topics related to the standard LSM anomalies, we also review LSM anomalies in disordered systems where the lattice symmetries are only preserved on average, fermionic systems, and systems where the symmetric short-range entangled states are possible but must be nontrivial symmetry-protected topological phases.",
+      "categories": [
+        "cond-mat.str-el",
+        "cond-mat.quant-gas",
+        "hep-th",
+        "math-ph"
+      ],
+      "published": "2026-04-01T00:53:03+00:00",
+      "updated": "2026-04-29T13:00:48+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.00347v2",
+      "html_url": "https://arxiv.org/html/2604.00347v2",
+      "entry_url": "http://arxiv.org/abs/2604.00347v2"
+    }
+  ],
+  "total": 9
+}

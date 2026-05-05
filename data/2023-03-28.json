@@ -1,0 +1,27 @@
+{
+  "date": "2023-03-28",
+  "papers": [
+    {
+      "arxiv_id": "2303.16204v3",
+      "base_id": "2303.16204",
+      "title": "The Decoupling of Binaries from Their Circumbinary Disks",
+      "authors": [
+        "Alexander J. Dittmann",
+        "Geoffrey Ryan",
+        "M. Coleman Miller"
+      ],
+      "abstract": "We have investigated, both analytically and numerically, accreting supermassive black hole binaries as they inspiral due to gravitational radiation to elucidate the decoupling of binaries from their disks and inform future multi-messenger observations of these systems. Our numerical studies evolve equal-mass binaries from initial separations of $100 GM/c^2$ until merger, resolving scales as small as $\\sim0.04 GM/c^2$, where $M$ is the total binary mass. Our simulations accurately capture the point at which the orbital evolution of each binary decouples from that of their circumbinary disk, and precisely resolve the flow of gas throughout the inspiral. We demonstrate analytically and numerically that timescale-based predictions overestimate the binary separations at which decoupling occurs by factors of $\\sim3$, and illustrate the utility of a velocity-based decoupling criterion. High-viscosity ($ν\\gtrsim0.03 GM/c$) circumbinary systems decouple late ($a_b\\lesssim 15 GM/c^2$) and have qualitatively similar morphologies near merger to circumbinary systems with constant binary separations. Lower-viscosity circumbinary disks decouple earlier and exhibit qualitatively different accretion flows, which lead to precipitously decreasing accretion onto the binary. If detected, such a decrease may unambiguously identify the host galaxy of an ongoing event within a LISA error volume. We illustrate how accretion amplitude and variability evolve as binaries gradually decouple from their circumbinary disks, and where decoupling occurs over the course of binary inspirals in the LISA band. We show that, even when dynamically negligible, gas may leave a detectable imprint on the phase of gravitational waves.",
+      "categories": [
+        "astro-ph.HE",
+        "astro-ph.GA",
+        "gr-qc"
+      ],
+      "published": "2023-03-28T17:59:59+00:00",
+      "updated": "2026-04-24T16:42:31+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2303.16204v3",
+      "html_url": "https://arxiv.org/html/2303.16204v3",
+      "entry_url": "http://arxiv.org/abs/2303.16204v3"
+    }
+  ],
+  "total": 1
+}

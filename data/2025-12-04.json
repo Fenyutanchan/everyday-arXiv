@@ -1,0 +1,152 @@
+{
+  "date": "2025-12-04",
+  "papers": [
+    {
+      "arxiv_id": "2512.05045v3",
+      "base_id": "2512.05045",
+      "title": "On random matrix statistics of 3d gravity",
+      "authors": [
+        "Daniel L. Jafferis",
+        "Liza Rozenberg",
+        "Debmalya Sarkar",
+        "Diandian Wang"
+      ],
+      "abstract": "We show that 3d gravity on manifolds that are topologically a Riemann surface times an interval $Σ_{g,n}\\times I$ with end-of-the-world branes at the ends of the interval is described by a random matrix model, namely the Virasoro minimal string. Because these manifolds have $n$ annular asymptotic boundaries, the path integrals naturally correspond to spectral correlators of open strings upon inverse Laplace transforms. For $g=0$ and $n=2$, we carry out an explicit path integration and find precise agreement with the universal random matrix expression. For Riemann surfaces with negative Euler characteristic, we evaluate the path integral as a gravitational inner product between states prepared by two copies of Virasoro TQFT. Along the way, we clarify the effects of gauging the mapping class group and the connection to chiral 3d gravity.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2025-12-04T18:00:00+00:00",
+      "updated": "2026-04-16T15:37:25+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.05045v3",
+      "html_url": "https://arxiv.org/html/2512.05045v3",
+      "entry_url": "http://arxiv.org/abs/2512.05045v3"
+    },
+    {
+      "arxiv_id": "2512.05019v2",
+      "base_id": "2512.05019",
+      "title": "Geometry of particle emission in UrQMD Ar+Sc collisions at SPS energies",
+      "authors": [
+        "Barnabas Porfy",
+        "Mate Csanad"
+      ],
+      "abstract": "Over the past few decades, progress in femtoscopy has been driven by the interplay between experimental measurements and theoretical calculations. Measurements provide data to support the theory, while theoretical predictions guide new measurements. In the recent decade, several experiments have confirmed that the two-particle pion-emitting source is well described by Lévy alpha-stable distributions. To enable theoretical interpretation, phenomenological simulations have been done at RHIC and LHC energies, in large systems such as Au+Au or Pb+Pb, using various available heavy-ion collision models. However, such simulations have not been done in intermediate systems. In this paper, we investigate three-dimensional two-pion pair source distributions from $^{40}$Ar+$^{45}$Sc central collisions at SPS energies, generated with the Ultra-Relativistic Quantum Molecular Dynamics Monte-Carlo event generator. Supplemented by a validation of the simulated hadronic spectra, we find that the pair source can be described with Lévy-stable distributions. We subsequently interpret the physical meaning of the extracted Lévy parameters corresponding to the spatial scale, shape, and strength of the source. Our results form a baseline for future experimental measurements in intermediate systems.",
+      "categories": [
+        "hep-ph",
+        "nucl-th"
+      ],
+      "published": "2025-12-04T17:34:21+00:00",
+      "updated": "2026-04-21T11:37:04+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.05019v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2512.05019v2"
+    },
+    {
+      "arxiv_id": "2512.04977v2",
+      "base_id": "2512.04977",
+      "title": "Thermodynamics vs Teleodynamics: A Cosmological Divide?",
+      "authors": [
+        "Oem Trivedi",
+        "Venkat Venkatasubramanian"
+      ],
+      "abstract": "We show that stationary black holes and the evolving universe belong to fundamentally different thermodynamic regimes: black holes obey ordinary Bekenstein Hawking thermodynamics, whereas cosmology necessarily follows memory-bearing teleodynamics. We show that teleodynamics is not valid for black holes, but is unavoidable in an expanding cosmology. This provides a dynamical, semi-classical realization of the thermodynamic split conjecture and identifies memory accumulation as the natural source of deviations from the area law in cosmology. Our results suggest that quantum gravity should not seek to extrapolate black hole thermodynamics to the universe, but instead must incorporate horizon memory as a fundamental microscopic ingredient and consider cosmological constructions consistent with that.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-th"
+      ],
+      "published": "2025-12-04T16:50:26+00:00",
+      "updated": "2026-04-22T02:03:34+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.04977v2",
+      "html_url": "https://arxiv.org/html/2512.04977v2",
+      "entry_url": "http://arxiv.org/abs/2512.04977v2"
+    },
+    {
+      "arxiv_id": "2512.04649v2",
+      "base_id": "2512.04649",
+      "title": "Probing chiral topological states with permutation defects",
+      "authors": [
+        "Yarden Sheffer",
+        "Ruihua Fan",
+        "Ady Stern",
+        "Erez Berg",
+        "Shinsei Ryu"
+      ],
+      "abstract": "The hallmark of two-dimensional chiral topological phases is the existence of anomalous gapless modes at the spatial boundary. Yet, the manifestation of this edge anomaly within the bulk ground-state wavefunction itself remains only partially understood. In this work, we introduce a family of multipartite entanglement measures that probe chirality directly from the bulk wavefunction. Our construction involves applying different permutations between replicas of the ground state wavefunction in neighboring spatial regions, creating \"permutation defects\" at the boundaries between these regions. We provide general arguments for the robustness of these measures and develop a field-theoretical framework to compute them systematically. While the standard topological field theory prescription misses the chiral contribution, our method correctly identifies it as the chiral conformal field theory partition function on high-genus Riemann surfaces. This feature is a consequence of the bulk-edge correspondence, which dictates that any regularization of the theory at the permutation defects must introduce gapless boundary modes. We numerically verify our results with both free-fermion and strongly-interacting chiral topological states and find excellent agreement. Our results enable the extraction of the chiral central charge and the Hall conductance using a finite number of wavefunction replicas, making these quantities accessible to Monte-Carlo numerical techniques and noisy intermediate-scale quantum devices.",
+      "categories": [
+        "quant-ph",
+        "cond-mat.str-el",
+        "hep-th"
+      ],
+      "published": "2025-12-04T10:22:45+00:00",
+      "updated": "2026-04-22T19:13:58+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.04649v2",
+      "html_url": "https://arxiv.org/html/2512.04649v2",
+      "entry_url": "http://arxiv.org/abs/2512.04649v2"
+    },
+    {
+      "arxiv_id": "2512.05199v3",
+      "base_id": "2512.05199",
+      "title": "Jet Charge with Global Event Shapes: Probing Quark Flavor Dynamics",
+      "authors": [
+        "Yang-Ting Chien",
+        "Sonny Mantry"
+      ],
+      "abstract": "We propose measuring the jet electric charge of jet regions, defined within the framework of global event shapes, as a probe of quark flavor dynamics within the nucleon and the hadronization process. In particular, we consider a measurement of the jet region charge while simultaneously keeping track of the energy flow throughout the event, as characterized by the global event shape. As a concrete example, we focus on the measurement of the 1-Jettiness jet charge ($Q$), the jet charge of the jet region ($J$) defined within the framework of the 1-Jettiness global event shape ($τ_1$) for the Deep Inelastic Scattering (DIS) process, $e^- + p \\to e^- + J + X$, with unpolarized or longitudinally polarized protons. The 1-Jettiness distribution, binned according to jet charge, allows for enhanced quark flavor separation of the initial state unpolarized or polarized PDFs. On the other hand, the jet charge distribution binned by 1-Jettiness can serve as a probe of quark flavor dynamics in the final state hadronization process. We derive a factorization theorem for simultaneous measurements of $τ_1$ and $Q$ in the resummation region, $τ_1 \\ll P_{J_T}$, where $P_{J_T}$ denotes the transverse momentum of the jet region. The factorization theorem contains a new universal charged jet function, generalizing the standard jet function to include a jet charge measurement. Therefore these universal functions can be extracted from a global analysis of N-jettiness and thrust at $e^+e^-$ colliders. We provide simulation studies to demonstrate the sensitivity of the 1-Jettiness jet charge observable to quark flavor dynamics in nucleon structure and explore the possibility of probing the final state hadronization process. This observable is well-suited for applications with existing HERA data and the future Electron-Ion Collider (EIC).",
+      "categories": [
+        "hep-ph",
+        "hep-ex",
+        "nucl-th"
+      ],
+      "published": "2025-12-04T19:08:08+00:00",
+      "updated": "2026-04-28T18:33:40+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.05199v3",
+      "html_url": "https://arxiv.org/html/2512.05199v3",
+      "entry_url": "http://arxiv.org/abs/2512.05199v3"
+    },
+    {
+      "arxiv_id": "2512.04959v2",
+      "base_id": "2512.04959",
+      "title": "Towards a Fully Automated Differential $\\text{NNLO}_\\text{EW}$ Generator for Lepton Colliders",
+      "authors": [
+        "Alan Price",
+        "Frank Krauss"
+      ],
+      "abstract": "Future proposed lepton collider experiments will reach unprecedented levels of accuracy. To ensure the success of these experiments, and to fully exploit their wealth of data, the precision of theory calculations must reach comparable or even better levels. One bottleneck in achieving this precision target lies in the systematic, process-independent inclusion of higher-order corrections at Next-to-Next-to-Leading Order in the electroweak coupling $\\text{NNLO}_\\text{EW}$ while ensuring the correct matching with modern all-orders resummation techniques. Here, we present a solution to this problem, based on the Yennie-Frautschi-Suura theorem, which employs a local infrared (IR) subtraction to remove divergences and its matching to an all-order resummation of the soft and soft-collinear logarithms.",
+      "categories": [
+        "hep-ph",
+        "hep-ex",
+        "hep-th"
+      ],
+      "published": "2025-12-04T16:29:01+00:00",
+      "updated": "2026-04-28T10:26:29+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.04959v2",
+      "html_url": "https://arxiv.org/html/2512.04959v2",
+      "entry_url": "http://arxiv.org/abs/2512.04959v2"
+    },
+    {
+      "arxiv_id": "2512.04362v2",
+      "base_id": "2512.04362",
+      "title": "ELG$\\times$LRG distribution through dark matter halo dynamics",
+      "authors": [
+        "Ginevra Favole",
+        "Francisco-Shu Kitaura",
+        "Boryana Hadzhiyska",
+        "Daniel J. Eisenstein",
+        "Lehman H. Garrison",
+        "Sownak Bose"
+      ],
+      "abstract": "We investigate the clustering and halo occupation distribution (HOD) of DESI Y1 emission-line (ELGs) and luminous red (LRGs) galaxies at $0.8<z<1.1$, including their cross-correlation (ELG$\\times$LRG), using the AbacusSummit suite and a new Halo Occupation Model (HOMe) for galaxy multi-tracers. This integrates intra-halo dynamics, halo exclusion, and quenching, bridging insights from hydrodynamical, HOD, abundance-matching, and semi-analytic studies. Leveraging full phase-space information from the Uchuu N-body simulation, and sampling satellites from dark-matter particle positions via physically motivated prescriptions, HOMe reproduces the anisotropic clustering down to $s=200\\,h^{-1}$kpc with unprecedented accuracy. Model parameters are inferred solely from two-point statistics using a two-level Bayesian framework, yielding high-fidelity ELG, LRG and cross-reference catalogs. We find that satellite ELGs behave as incoherent flows within their parent halos, dominating the clustering below $4\\,h^{-1}$Mpc. The HOD from the best-fit HOMe has the following properties: (i) 90.50% (85.91%) of ELGs (LRGs) are central galaxies without satellites, residing in halos of $M_{\\rm vir}\\sim6.6\\times10^{11}\\,(1.2\\times10^{13})\\,h^{-1}{\\rm M}_\\odot$; (ii) the ELG$\\times$LRG cross-correlation is governed by central-central pairs and shaped by halo exclusion on $2-5\\,h^{-1}$Mpc scales; (iii) 9.50% (14.09%) of ELGs (LRGs) are satellites, of which 1.09% (3.52%) inhabit halos with a central galaxy of the same species in a maximally conformal configuration, 7.02% (0.005%) orbit complementary hosts in a minimally conformal state, and 0.58% (10.57%) are orphans. The high sensitivity of HOMe precisely captures the dynamics of satellites in different host environments, opening a promising avenue for understanding systematics, the dynamical nature of dark matter, potentially distinguishing gravity models.",
+      "categories": [
+        "astro-ph.GA",
+        "astro-ph.CO"
+      ],
+      "published": "2025-12-04T01:15:03+00:00",
+      "updated": "2026-04-29T12:29:04+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.04362v2",
+      "html_url": "https://arxiv.org/html/2512.04362v2",
+      "entry_url": "http://arxiv.org/abs/2512.04362v2"
+    }
+  ],
+  "total": 7
+}

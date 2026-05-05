@@ -1,0 +1,88 @@
+{
+  "date": "2026-03-12",
+  "papers": [
+    {
+      "arxiv_id": "2603.12323v2",
+      "base_id": "2603.12323",
+      "title": "On the SymTFTs of Finite Non-Abelian Symmetries",
+      "authors": [
+        "Oren Bergman",
+        "Jonathan J. Heckman",
+        "Max Hübner",
+        "Daniele Migliorati",
+        "Xingyang Yu",
+        "Hao Y. Zhang"
+      ],
+      "abstract": "The $(D+1)$-dimensional symmetry topological field theory (SymTFT$_{D+1}$) of a $D$-dimensional absolute quantum field theory (QFT$_D$) provides a topological characterization of symmetry data. In this framework, the SymTFT comes equipped with a physical boundary specifying a relative QFT, and a topological boundary which specifies the global form of symmetries. In general, there need not be a unique bulk theory which encodes this information but it is often helpful to have a more manifest presentation of symmetries in terms of bulk degrees of freedom. For the case of a finite non-Abelian symmetry group $G$, the bulk SymTFT may be described by a Dijkgraaf-Witten TFT with gauge group $G$. This makes manifest the ``electric'' presentation of the symmetry data but can obscure some of the magnetic data as well as non-Abelian structure present in the absolute QFT$_D$ such as symmetry operators which cannot fully detach from the topological boundary. We address these issues for 3D SymTFTs by constructing discrete BF-like theory Lagrangians for finite groups which admit a presentation as an extension by a finite Abelian group and a finite (possibly non-Abelian) group. This enables us to give a streamlined approach to reconstructing the fusion rules of the accompanying Drinfeld center, but also allows us to construct surface-attaching non-genuine line operators associated directly with non-Abelian group elements rather than just their conjugacy classes. We also sketch how our treatment generalizes to higher-dimensional SymTFTs.",
+      "categories": [
+        "hep-th",
+        "cond-mat.str-el",
+        "math.CT"
+      ],
+      "published": "2026-03-12T18:00:02+00:00",
+      "updated": "2026-04-20T21:42:38+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.12323v2",
+      "html_url": "https://arxiv.org/html/2603.12323v2",
+      "entry_url": "http://arxiv.org/abs/2603.12323v2"
+    },
+    {
+      "arxiv_id": "2603.12504v2",
+      "base_id": "2603.12504",
+      "title": "Exploring Beyond ΛCDM with the Weak Lensing Power Spectrum and Bispectrum",
+      "authors": [
+        "Liantsoa F. Randrianjanahary",
+        "Chandrachud B. V. Dash"
+      ],
+      "abstract": "In this work, we present Fisher matrix forecast of the tomographic weak lensing power spectrum and bispectrum for three physically distinct types of models of beyond-$Λ$CDM: the CPL parametrisation of dynamical dark energy, interacting dark energy (IDE) with a dark sector energy-momentum exchange, and Hu-Sawicki models of $f(R)$ gravity. We find that for all three models, including the bispectrum significantly tightens the Fisher constraints: the bispectrum reduces the marginalised $1σ$ error on the CPL equation of state parameter from $σ(w_0) = 0.2511$ (power spectrum only) to $σ(w_0) = 0.1557$, on the IDE coupling from $σ(α) = 2.6895$ to $σ(α) = 0.2944$, and on the scalaron amplitude from $σ(\\ln|f_{R0}|) = 2.236$ to $σ(\\ln|f_{R0}|) = 2.237$ after full marginalisation over nuisance parameters e.g., photo-z error $σ_z$ and intrinsic alignment amplitude $\\mathcal{A}_{\\rm IA}$. We find that $f(R)$ models are the most sensitive to systematics and especially in bispectrum. The results also demonstrates the importance of higher order weak lensing statistics as a practical necessity to maximise the scientific return of Stage IV surveys.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2026-03-12T22:49:17+00:00",
+      "updated": "2026-04-23T16:47:21+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.12504v2",
+      "html_url": "https://arxiv.org/html/2603.12504v2",
+      "entry_url": "http://arxiv.org/abs/2603.12504v2"
+    },
+    {
+      "arxiv_id": "2603.12315v2",
+      "base_id": "2603.12315",
+      "title": "Quantum obstructions for $N=1$ infinite distance limits -- Part I: $g_s$ obstructions",
+      "authors": [
+        "Lukas Kaufmann",
+        "Jeroen Monnee",
+        "Timo Weigand",
+        "Max Wiesner"
+      ],
+      "abstract": "We analyse quantum obstructions to classical infinite distance limits in four-dimensional string compactifications with N=1 supersymmetry. Such quantum effects signal a severe departure from the perturbative effective action and can be of considerable importance for string model building. Our focus is on the complex structure moduli space of Type IIB orientifolds with O7/O3-planes and its F-theory description. In this first part of our analysis, we investigate the behaviour of $g_s$ corrections in infinite distance complex structure limits. Our main finding is that, depending on the location of the O7-plane, non-perturbative corrections in $g_s$ can become unsuppressed, thus obstructing a perturbative Type IIB description in the corresponding asymptotic region of the field space. In particular, this applies to large complex structure limits. To show this, we study the F-theory description of the Type IIB orientifold, in which all pure $g_s$ corrections are encoded in the (classical) geometry of an elliptic Calabi-Yau fourfold. This $g_s$-corrected moduli space is found to differ significantly from the classical moduli space. In extreme cases the classical infinite distance degeneration can be completely removed at the $g_s$-corrected quantum level. The behaviour of $α'$ corrections, as well as implications for string model building, are discussed in a companion paper.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2026-03-12T18:00:01+00:00",
+      "updated": "2026-04-24T12:16:07+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.12315v2",
+      "html_url": "https://arxiv.org/html/2603.12315v2",
+      "entry_url": "http://arxiv.org/abs/2603.12315v2"
+    },
+    {
+      "arxiv_id": "2603.11837v2",
+      "base_id": "2603.11837",
+      "title": "Gravitational baryogenesis beyond the spectator approximation",
+      "authors": [
+        "David S. Pereira",
+        "Beatriz A. Fernandes",
+        "José Pedro Mimoso"
+      ],
+      "abstract": "The standard gravitational-baryogenesis operator $λ\\,\\nabla_μR\\,J^μ$, with $λ\\equiv ε/M_\\ast^{2}$, is usually treated as a spectator interaction that generates an effective chemical potential in a prescribed background. When included in the gravitational action, however, it defines a genuine curvature--matter-coupling variational problem, relevant for the baryon, lepton, and $B\\!-\\!L$ currents, whether described microscopically by particle-physics operators or macroscopically by a fluid current $J^μ=n_Xu^μ$. Up to a boundary term the interaction is equivalent to $-λR\\nabla_μJ^μ$, making its $f(R,{\\rm Matter})$ character manifest, but the metric equations remain open unless the metric dependence of $J^μ$ is specified. For an arbitrary local realization $J^μ(Ψ,g)$ we derive the universal part of the field equations and isolate the realization-dependent tensor generated by $δ_g J^μ$. In the vector-density realization the explicit $J^α\\nabla_αR$ term cancels, but an algebraic term $-λg_{μν}R\\nabla_αJ^α$ survives, so the theory admits only a partial effective-Planck-mass interpretation, $M_{\\rm eff}^2=M_{\\rm Pl}^2-2λ\\nabla_μJ^μ$, and a time-dependent effective gravitational coupling during baryogenesis. Specializing to flat Friedmann-Lemaître-Robertson-Walker (FLRW) with a homogeneous current $J^μ=n_Xu^μ$, we obtain the modified Friedmann and Raychaudhuri equations, the associated continuity relation, and dimensionless diagnostics that quantify when the spectator approximation is controlled. We also discuss the implications for gravitational-baryogenesis studies in modified theories of gravity, providing a consistent General Relativity (GR) baseline for implementations in both standard cosmology and modified-gravity frameworks.",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2026-03-12T12:03:45+00:00",
+      "updated": "2026-04-30T17:34:53+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.11837v2",
+      "html_url": "https://arxiv.org/html/2603.11837v2",
+      "entry_url": "http://arxiv.org/abs/2603.11837v2"
+    }
+  ],
+  "total": 4
+}

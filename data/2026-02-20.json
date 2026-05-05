@@ -1,0 +1,98 @@
+{
+  "date": "2026-02-20",
+  "papers": [
+    {
+      "arxiv_id": "2602.18061v2",
+      "base_id": "2602.18061",
+      "title": "Signs of universality in the behavior of elastic $\\textit{pp}$ scattering cross-sections at high energies",
+      "authors": [
+        "A. P. Samokhin"
+      ],
+      "abstract": "We give a phenomenological analysis of the behavior of inelastic, elastic and total cross-sections of the high energy $\\textit{pp}$ interaction. In particular, we argue that the universal picture of behavior of cross-sections and their ratios is a consequence of the rapid increase of inelastic cross-section with energy and its large value compared to $σ_{\\mathrm{el} }(s)$. We observed that the value of the fundamental ratio $(m_{π^{\\mathrm{0}}}/m_{p}) $, the minimum value of the ratio $ (σ_{\\mathrm{el}}/σ_{\\mathrm{tot}})$, and some other quantities are determined by the roots of the equation $ (9\\,x^{2}+4\\,\\sqrt{2}\\,x-1)=0 $.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-02-20T08:30:56+00:00",
+      "updated": "2026-04-15T09:14:30+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.18061v2",
+      "html_url": "https://arxiv.org/html/2602.18061v2",
+      "entry_url": "http://arxiv.org/abs/2602.18061v2"
+    },
+    {
+      "arxiv_id": "2602.18075v2",
+      "base_id": "2602.18075",
+      "title": "Hidden-charm $uds\\,c\\bar c$ pentaquarks as flavor eigenstates in a constituent quark model",
+      "authors": [
+        "M. C. Gordillo",
+        "J. M. Alcaraz-Pelegrina",
+        "J. Segovia"
+      ],
+      "abstract": "We use a diffusion Monte Carlo (DMC) algorithm to solve the Schrödinger equation that describes $udsc\\bar c$ pentaquarks within the framework of a non-relativistic constituent quark model. We considered only multiquark states with defined values of parity, color, spin and isospin, selected to be compatible with the experimentally favored assignment $J^P=1/2^-$ for one of the candidates, and assumed $I=0$. However, we found that, to explain the existence of the $P_{cs}(4338)$ and $P_{cs}(4459)$ pentaquarks, we need the total wavefunction to be also an eigenvector of the SU(3) {\\em flavor} operator. When we impose that condition, we obtain two structures compatible with the masses extracted from the $J/ψΛ$ spectrum. In addition, two states are predicted below the $J/ψΛ$ threshold but above the $η_cΛ$ one that would not appear in that channel. If we only impose the $I=0$ condition, we obtain a {\\em single} (not two) structure compatible with the experimental quantum numbers, with a mass below the $J/ψΛ$ threshold.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-02-20T08:59:11+00:00",
+      "updated": "2026-04-22T10:23:29+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.18075v2",
+      "html_url": "https://arxiv.org/html/2602.18075v2",
+      "entry_url": "http://arxiv.org/abs/2602.18075v2"
+    },
+    {
+      "arxiv_id": "2602.18023v3",
+      "base_id": "2602.18023",
+      "title": "Observer-robust energy condition verification for warp drive spacetimes",
+      "authors": [
+        "An T. Le"
+      ],
+      "abstract": "We present warpax, an open-source, GPU-accelerated Python toolkit for observer-robust energy-condition verification of warp drive spacetimes, together with a benchmark application to six warp-drive geometries that demonstrates the methodology and produces new quantitative findings. Existing tools evaluate energy conditions for a finite sample of observer directions. warpax replaces discrete sampling with continuous, gradient-based optimization over the full timelike observer manifold, backed by Hawking--Ellis algebraic classification. At Type~I stress-energy points, which dominate all tested metrics, an algebraic eigenvalue check determines energy-condition satisfaction exactly, independent of any observer search. At non-Type~I points, the optimizer provides rapidity-capped diagnostics. Stress-energy tensors are computed from the Arnowitt--Deser--Misner metric via forward-mode automatic differentiation, eliminating finite-difference truncation error. We apply warpax to five warp drive metrics (Alcubierre, Lentz, Van~Den~Broeck, Nat'ario, Rodal) and one warp shell metric. For several metrics, the standard Eulerian-frame analysis misses a significant fraction of violated grid points; even where it identifies the correct violation set, observer optimization reveals violation magnitudes can be orders of magnitude larger. These results demonstrate that single-frame evaluation can systematically underestimate both the spatial extent and severity of energy-condition violations. Throughout, we distinguish the invariant energy density (eigenvalue of $T^a{}b$) from the observer-dependent $T{ab},u^a u^b$ and the Eulerian projection. All results use subluminal bubble velocities; at superluminal speeds, the Alcubierre-family metrics develop signature changes outside our assumptions. warpax is freely available at https://github.com/anindex/warpax",
+      "categories": [
+        "gr-qc",
+        "cs.MS",
+        "physics.comp-ph"
+      ],
+      "published": "2026-02-20T06:37:44+00:00",
+      "updated": "2026-04-27T02:12:02+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.18023v3",
+      "html_url": "https://arxiv.org/html/2602.18023v3",
+      "entry_url": "http://arxiv.org/abs/2602.18023v3"
+    },
+    {
+      "arxiv_id": "2602.18615v2",
+      "base_id": "2602.18615",
+      "title": "Two Parameter Deformation of Embedding Class-I Compact Stars in Linear $f(Q)$ Gravity",
+      "authors": [
+        "Samstuti Chanda",
+        "Ranjan Sharma"
+      ],
+      "abstract": "Recent multi-messenger observations, including gravitational wave detections of compact objects in the neutron star-black hole mass-gap region and precise measurements of high-mass pulsars, motivate mechanisms capable of enlarging the stellar mass window without arbitrarily stiffening the equation of state (EOS) toward the causal limit. In linear $f(Q)$ gravity of the form $f(Q)=β_1 Q+β_2$, the theory is dynamically equivalent to General Relativity at the geometric level and modifies stellar structure solely through a uniform rescaling of the matter sector governed by $β_1$. Consequently, linear $f(Q)$ alone does not introduce new geometric families of stellar solutions or alter classical compactness bounds. To overcome this structural limitation, we incorporate gravitational decoupling within an embedding class-I (Karmarkar) Vaidya-Tikekar configuration in linear $f(Q)$ gravity. While similar VT-based decoupling constructions exist in GR, the present framework introduces a controlled two-parameter deformation characterized by $(ε,β_1)$: the decoupling parameter $ε$ governs geometric deformation and EOS stiffness, whereas $β_1$ independently rescales the matter sector without altering the metric structure. This separation permits a direct comparison between GR and linear $f(Q)$ gravity at fixed geometric deformation, thereby isolating pure coupling-driven mass enhancement. We determine the admissible parameter domain from regularity, matching, causality and compactness requirements and derive an analytic compactness bound for the decoupled embedding class-I configuration. The combined action of $ε$ and $β_1$ enlarges the accessible stellar mass window while preserving physical acceptability, allowing configurations compatible with recent high-mass pulsars and mass-gap candidates without exceeding causal limits.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2026-02-20T21:09:23+00:00",
+      "updated": "2026-04-26T06:38:49+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.18615v2",
+      "html_url": "https://arxiv.org/html/2602.18615v2",
+      "entry_url": "http://arxiv.org/abs/2602.18615v2"
+    },
+    {
+      "arxiv_id": "2602.18378v4",
+      "base_id": "2602.18378",
+      "title": "On the simulated kinematic distributions of heavy meson decays",
+      "authors": [
+        "Florian Herren",
+        "Raynette van Tonder"
+      ],
+      "abstract": "Modern measurements in flavour physics rely on accurate simulations of signal and background processes, provided by a wide range of general-purpose and specialised Monte-Carlo event generators. Due to the inclusion of a larger amount of specialised decays of heavy hadrons, EvtGen is often the tool of choice for many scenarios. We investigate the phase-space sampling algorithm of EvtGen and demonstrate that it generates unphysical features in kinematic distributions of semileptonic $B$ decays involving resonances, originating from neglected phase-space factors. We provide a short-term solution to correct the affected simulated samples through reweighting of the hadronic invariant mass distribution.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2026-02-20T17:34:57+00:00",
+      "updated": "2026-04-28T16:56:08+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.18378v4",
+      "html_url": "https://arxiv.org/html/2602.18378v4",
+      "entry_url": "http://arxiv.org/abs/2602.18378v4"
+    }
+  ],
+  "total": 5
+}

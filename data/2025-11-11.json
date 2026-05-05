@@ -1,0 +1,47 @@
+{
+  "date": "2025-11-11",
+  "papers": [
+    {
+      "arxiv_id": "2511.08685v4",
+      "base_id": "2511.08685",
+      "title": "Kinematic scaling relations of disc galaxies from ionised gas at $z\\sim1$ and their connection with dark matter haloes",
+      "authors": [
+        "Pavel E. Mancera Piña",
+        "Enrico M. Di Teodoro",
+        "S. Michael Fall",
+        "Antonino Marasco",
+        "Mariska Kriek",
+        "Marco Martorano"
+      ],
+      "abstract": "We derive the Tully-Fisher (TFR, $M_\\ast-V_{\\rm circ,f}$) and Fall (FR, $j_\\ast-M_\\ast$) relations at redshift $z = 0.9$ using a sample of 43 main-sequence disc galaxies with H$α$ IFU data and JWST/HST imaging. The strength of our analysis lies in the use of state-of-the-art 3D kinematic models to infer galaxy rotation curves, the inclusion and morphological modelling of NIR bands, and the use of SED modelling applied to our photometry measurements to estimate stellar masses. After correcting the inferred H$α$ velocities for asymmetric drift, we find a TFR of the form $\\log(M_\\ast / M_\\odot) = a \\log(V_{\\rm circ,f} / 150~\\mathrm{km\\,s^{-1}}) + b$, with $a=3.82^{+0.55}_{-0.40}$ and $b=10.27^{+0.06}_{-0.07}$, as well as a FR of the form $\\log(j_\\ast / \\mathrm{kpc\\,km\\,s^{-1}}) = a \\log(M_\\ast / 10^{10.5} M_\\odot) + b$, with $a=0.44^{+0.06}_{-0.06}$ and $b=2.86^{+0.02}_{-0.02}$. Compared with their $z=0$ counterparts, we find moderate evolution in the TFR and strong evolution in the FR over the past 8 Gyr. We interpret our findings in the context of the galaxy-to-halo scaling parameters $f_{\\rm M}=M_\\ast/M_{\\rm vir}$ and $f_{\\rm j}=j_\\ast/j_{\\rm vir}$. We infer that $f_{\\rm j}$ shows little redshift evolution and depends very weakly on $M_\\ast$, with typical values around $f_{\\rm j}\\sim0.8$. As for $f_{\\rm M}$, we find it to be higher and less dependent on $M_\\ast$ at $z=0.9$ than at $z=0$. Interpreting our observed $f_{\\rm M}-M_\\ast$ relations within the Cold Dark Matter framework implies necessarily that the galaxy populations at $z=0.9$ and $z=0$ are not the progenitor/descendant of one another. The alternative scenario is that the $z=0.9$ relations are incorrect due to strong selection effects, unidentified systematics, or the possibility that H$α$ kinematics may not be a reliable dynamical tracer. Such problems would also affect previous studies on the same subject.",
+      "categories": [
+        "astro-ph.GA",
+        "astro-ph.CO"
+      ],
+      "published": "2025-11-11T19:00:04+00:00",
+      "updated": "2026-04-17T14:05:29+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.08685v4",
+      "html_url": "https://arxiv.org/html/2511.08685v4",
+      "entry_url": "http://arxiv.org/abs/2511.08685v4"
+    },
+    {
+      "arxiv_id": "2511.08777v2",
+      "base_id": "2511.08777",
+      "title": "Infrared Universality: The $r^{-3}$ Spectral Threshold for Coupled Gravitational and Electromagnetic Fields",
+      "authors": [
+        "Michael Wilson"
+      ],
+      "abstract": "We identify the $r^{-3}$ curvature-decay rate as a universal geometric threshold separating compact from non-compact perturbations of Laplace-type operators on asymptotically flat manifolds. For the coupled Einstein--Maxwell system, we prove that the linearized operator $\\mathcal{L}$ is essentially self-adjoint and that curvature and field strengths decaying faster than $r^{-3}$ act as relatively compact perturbations, while decay exactly at $r^{-3}$ places $0\\inσ_{\\mathrm{ess}}(\\mathcal{L})$ through delocalized zero modes. This threshold mechanism unifies the infrared behavior of spin-1, spin-2, and mixed spin-$(1\\oplus2)$ fields, linking the onset of spectral delocalization with the appearance of gravitational and electromagnetic memory. Finite-difference simulations corroborate the analytic scaling and reproduce the characteristic quadrupolar and dipolar sky maps predicted for the coupled memory fields. These results demonstrate that curvature decay at $r^{-3}$ constitutes a fundamental geometric boundary underlying infrared universality in gauge and gravitational theories, providing a spectral counterpart to the asymptotic-symmetry and soft-theorem formulations of memory.",
+      "categories": [
+        "gr-qc",
+        "math-ph"
+      ],
+      "published": "2025-11-11T20:57:18+00:00",
+      "updated": "2026-04-29T15:47:13+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.08777v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2511.08777v2"
+    }
+  ],
+  "total": 2
+}

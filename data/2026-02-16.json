@@ -1,0 +1,88 @@
+{
+  "date": "2026-02-16",
+  "papers": [
+    {
+      "arxiv_id": "2602.14630v2",
+      "base_id": "2602.14630",
+      "title": "Bayesian Cosmic Void Finding with Graph Flows",
+      "authors": [
+        "Leander Thiele"
+      ],
+      "abstract": "Cosmic voids contain higher-order cosmological information and are of interest for astroparticle physics. Finding genuine matter underdensities in sparse galaxy surveys is, however, an underconstrained problem. Traditional void finding algorithms produce deterministic void catalogs, neglecting the probabilistic nature of the problem. We present a method to sample from the stochastic mapping from galaxy catalogs to arbitrary void definitions. Our algorithm uses a deep graph neural network to evolve \"test particles\" according to a flow-matching objective. We demonstrate the method in a simplified example setting but outline steps to generalize it towards practically usable void finders. Trained on a deterministic teacher, the model performs well but has considerable stochasticity which we interpret as regularization. Cosmological information in the predicted void catalogs outperforms the teacher. On the one hand, our method can cheaply emulate existing void finders with apparently useful regularization. More importantly, it also allows us to find the Bayes-optimal mapping between observed galaxies and any void definition. This includes definitions operating at the level of simulated matter density and velocity fields.",
+      "categories": [
+        "astro-ph.CO",
+        "stat.ML"
+      ],
+      "published": "2026-02-16T10:37:53+00:00",
+      "updated": "2026-04-17T07:56:07+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.14630v2",
+      "html_url": "https://arxiv.org/html/2602.14630v2",
+      "entry_url": "http://arxiv.org/abs/2602.14630v2"
+    },
+    {
+      "arxiv_id": "2602.15120v2",
+      "base_id": "2602.15120",
+      "title": "How to have your wormholes and factorize, too",
+      "authors": [
+        "Marc S. Klinger"
+      ],
+      "abstract": "We review three well known inconsistencies in the standard mathematical formulation of semiclassical gravity: the factorization problem, the information problem, and the closed universe problem. Building upon recent work, we explore how modifying the semiclassical holographic dictionary may provide the necessary freedom to resolve these three problems in a unified manner while maintaining more well established aspects of the standard correspondence. Using the modified semiclassical holographic dictionary as a scaffolding, we propose a program for constructing an `extended' semiclassical gravitational path integral which (i) is manifestly factorizing, (ii) computes a von Neumann entropy which satisfies the Page curve, and (iii) incorporates new operators that create closed baby universe states. Our construction may be interpreted as imposing a semiclassical version of background independence/a no global symmetry condition, defining a modified large N limit, preparing an ensemble of dual theories, or enforcing observer rules using gravitational degrees of freedom.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2026-02-16T19:00:50+00:00",
+      "updated": "2026-04-23T03:04:15+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.15120v2",
+      "html_url": "https://arxiv.org/html/2602.15120v2",
+      "entry_url": "http://arxiv.org/abs/2602.15120v2"
+    },
+    {
+      "arxiv_id": "2602.15108v2",
+      "base_id": "2602.15108",
+      "title": "The diverse nature of spiral arms in the Auriga Superstars cosmological hydrodynamic simulations",
+      "authors": [
+        "Robert J J Grand",
+        "Francesca Fragkoudi",
+        "Rüdiger Pakmor",
+        "Facundo A Gómez",
+        "Freeke van de Voort",
+        "Rebekka Bieri",
+        "Sophie Townson"
+      ],
+      "abstract": "The dynamical nature and formation mechanism(s) of galactic spiral arms remain long-standing problems in astrophysics. Most theoretical work is based on analytic calculations or idealised simulations, which has yielded several theories of spiral structure. The radial profile of the spiral arm rotation speed - the pattern speed - is a key observable prediction of these theories. However, observations that infer spiral pattern speeds reveal a mixed picture with no clear consensus. Here, we expand on theoretical efforts by examining the pattern speed profiles in the Auriga Superstars set of high-resolution cosmological magnetohydrodynamic simulatons of Milky Way-mass spiral disc galaxies. These simulations combine galaxy formation in a cosmological environment with the high dynamical fidelity afforded by an $\\sim 800$ $\\rm M_{\\odot}$ star particle resolution, giving $\\sim 100$ million star particles in the disc. We show that several different spiral arm theories are realised among our simulations, including large-scale kinematic density waves, manifold spirals, dynamic (co-rotating) spirals, and overlapping modes. In particular, we demonstrate that a strong tidal interaction leads to clear kinematic density waves, and that manifold spirals are present in a strongly-barred galaxy. Interestingly, we find that the same galaxy may show qualitative evolution of their spiral pattern speed profiles, indicating that the nature of spiral arms can evolve on potentially sub-Gigayear timescales. Our results demonstrate that in the absence of a strong external encounter or a strong bar, galactic spiral structure is highly transitional and complex with no clear long-lived underlying wave.",
+      "categories": [
+        "astro-ph.GA",
+        "astro-ph.CO"
+      ],
+      "published": "2026-02-16T19:00:02+00:00",
+      "updated": "2026-04-22T22:06:16+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.15108v2",
+      "html_url": "https://arxiv.org/html/2602.15108v2",
+      "entry_url": "http://arxiv.org/abs/2602.15108v2"
+    },
+    {
+      "arxiv_id": "2602.14359v2",
+      "base_id": "2602.14359",
+      "title": "Effects of the symmetry energy slope on magnetized neutron stars",
+      "authors": [
+        "Luiz L. Lopes",
+        "Cesar V. Flores",
+        "Débora P. Menezes"
+      ],
+      "abstract": "In this work, we study the effect of the symmetry slope on the observables of weakly and strongly magnetized neutron stars within the chaotic magnetic field approximation. We investigate the impact of the symmetry energy slope in the equation of state, as well as on the observables of neutron stars, by calculating their masses, radii, redshifts, tidal deformabilities, and fundamental-mode gravitational-wave frequencies. We show that the effect of the magnetic field is strong on low mass stars, producing a softer equation of state and correspondingly lower values of radii. Furthermore, the magnetic field also causes a significant drop in the dimensionless tidal parameter even when the effects on the radii are small. At the end of the paper, we discuss the effects of the magnetic field in neutron stars' universal relations.",
+      "categories": [
+        "astro-ph.HE",
+        "gr-qc",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "published": "2026-02-16T00:24:32+00:00",
+      "updated": "2026-04-23T22:34:13+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.14359v2",
+      "html_url": "https://arxiv.org/html/2602.14359v2",
+      "entry_url": "http://arxiv.org/abs/2602.14359v2"
+    }
+  ],
+  "total": 4
+}

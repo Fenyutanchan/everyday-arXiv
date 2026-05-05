@@ -1,0 +1,83 @@
+{
+  "date": "2026-01-09",
+  "papers": [
+    {
+      "arxiv_id": "2601.06245v4",
+      "base_id": "2601.06245",
+      "title": "Threshold resummation of Semi-Inclusive Deep-Inelastic Scattering",
+      "authors": [
+        "Stefano Forte",
+        "Giovanni Ridolfi",
+        "Francesco Ventola"
+      ],
+      "abstract": "We derive threshold resummation of semi-inclusive deep-inelastic scattering (SIDIS), by building upon previous results by some of us for the resummation of the Drell-Yan process at fixed rapidity, which is related to SIDIS by crossing. We consider both a double-soft limit, in which both the Bjorken and the fragmentation scaling variables tend to their threshold value, and single soft limits in which either of them does. We show that in the former limit only soft radiation contributes, and in the latter limit only collinear radiation, and we derive resummed expressions for the coefficient functions in all cases. We determine explictly resummation coefficients in the nonsinglet channel up to next-to-next-to-leading log by comparing to recent fixed next-to-next-to-leading order results. Expanding out the single-soft resummation we reproduce recent next-to-leading power results.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-01-09T19:00:00+00:00",
+      "updated": "2026-04-30T07:36:38+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.06245v4",
+      "html_url": "https://arxiv.org/html/2601.06245v4",
+      "entry_url": "http://arxiv.org/abs/2601.06245v4"
+    },
+    {
+      "arxiv_id": "2601.05750v3",
+      "base_id": "2601.05750",
+      "title": "Parameterized Post-Newtonian Analysis of Quadratic Gravity and Solar System Constraints",
+      "authors": [
+        "Jie Zhu",
+        "Hao Li"
+      ],
+      "abstract": "This work systematically investigates the post-Newtonian behavior of general quadratic gravity in the weak-field regime. By extending the Einstein-Hilbert action to include quadratic curvature terms as $\\mathcal{L}\\propto R-λC^2+μR^2$, the theory introduces two massive modes: a scalar mode and a ghost tensor mode. Using the post-Newtonian expansion method, we derive the explicit expressions for the metric for a general source up to 1.5PN order. Furthermore, for a point-mass source, we extend the solution to 2PN order and evaluate the effective Parameterized Post-Newtonian parameters $γ(r)$ and $β(r)$. The results show that deviations from General Relativity are exponentially suppressed. The theory has the feature $γ(r)\\equiv 1$ when $m_R=m_W$, and to ensure that gravity remains attractive, we have $m_W>m_R/4$. The leading correction to $β(r)$ exhibiting a characteristic $\\mathcal{O}(r \\ln (r)e^{-mr})$ dependence. Based on the Solar System experiments, we derive preliminary constraints on the theory's parameters: $m_R,m_W\\gtrsim23~\\mathrm{AU}^{-1}$, corresponding to $λ\\lesssim2.1\\times10^{19}~\\mathrm{m}^2$ and $μ\\lesssim 7.1\\times 10^{18}~\\mathrm{m}^2$. This study provides a theoretical foundation for future tests of quadratic gravity using pulsar timing arrays, gravitational-wave observations, and laboratory-scale short-range gravity experiments.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2026-01-09T12:05:09+00:00",
+      "updated": "2026-04-27T12:14:56+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.05750v3",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2601.05750v3"
+    },
+    {
+      "arxiv_id": "2601.06253v2",
+      "base_id": "2601.06253",
+      "title": "Masers and Broad-Line Mapping Favor Magnetically-Dominated AGN Accretion Disks",
+      "authors": [
+        "Philip F. Hopkins",
+        "Dalya Baron",
+        "Joanna M. Piotrowska"
+      ],
+      "abstract": "We present a novel and powerful constraint on the physics of supermassive black hole (BH) accretion disks. We show that in the outer disk (radii $R \\gtrsim 0.01\\,$pc or $\\gtrsim 1000\\,R_{G}$), models supported by thermal or radiation pressure predict disk masses which are much larger than the BH mass and increase with radius - i.e. rapidly-rising, extremely non-Keplerian rotation curves. More generally, we show that any observational upper limit to the deviation from Keplerian potentials at these radii directly constrains the physical form of the pressure in disks. We then show that existing maser and broad line region (BLR) kinematic observations immediately rule out the classic thermal-pressure-dominated Shakura Sunyaev-like $α$-disk model, and indeed rule out any thermal or radiation (or cosmic-ray) pressure-dominated disk, as the required temperatures and luminosities of the gas at large radii would exceed those observed by orders of magnitude. We show that models where the pressure comes entirely from turbulence (without thermal, radiation, or magnetic sources) could in principle be viable but would require turbulent Toomre $Q \\gtrsim 100$, far larger than predicted by self gravitating/gravito-turbulent models. However, recently proposed models of magnetic pressure-dominated disks agree with all of the observational constraints. These magnetically-dominated models also appear to agree better with constraints on maser magnetic fields, compared to the other possibilities. Observations appear to strongly favor the hypothesis that the outer regions of BH accretion disks are in the 'hyper-magnetized' state.",
+      "categories": [
+        "astro-ph.HE",
+        "astro-ph.CO",
+        "astro-ph.GA"
+      ],
+      "published": "2026-01-09T19:00:13+00:00",
+      "updated": "2026-04-26T12:53:47+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.06253v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2601.06253v2"
+    },
+    {
+      "arxiv_id": "2601.06346v2",
+      "base_id": "2601.06346",
+      "title": "On Causality and Predictivity",
+      "authors": [
+        "Damiano Anselmi"
+      ],
+      "abstract": "Certain approaches to quantum gravity, such as the one based on the concept of purely virtual particles (fakeons), sacrifice the cause-effect relation at very small scales to reconcile renormalizability with unitarity. Other developments have also urged caution regarding the idea of causality as a fundamental principle. In this paper, we examine the problem from multiple perspectives, including locality and predictivity, and extend the existing skepticism in several directions. Emphasizing the impact of unruly \"disruptors\", we point out that the illusory arrow of time associated with causality and predictivity is inherently statistical. This renders the cause-effect relation strained at the microscopic level. We also show that causation is a borderline concept that demands belief in entities which can act on nature without being part of it. Ultimately, not only is renouncing microcausality a reasonable price to pay for a consistent and predictive theory of quantum gravity (as is the one based on the fakeon idea), but the very notion of causality is misleading. Resting as it does on metaphysical assumptions, it should therefore be abandoned in fundamental physics.",
+      "categories": [
+        "gr-qc",
+        "hep-th",
+        "physics.hist-ph"
+      ],
+      "published": "2026-01-09T22:55:42+00:00",
+      "updated": "2026-04-30T10:33:38+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.06346v2",
+      "html_url": "https://arxiv.org/html/2601.06346v2",
+      "entry_url": "http://arxiv.org/abs/2601.06346v2"
+    }
+  ],
+  "total": 4
+}

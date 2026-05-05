@@ -1,0 +1,85 @@
+{
+  "date": "2025-09-08",
+  "papers": [
+    {
+      "arxiv_id": "2509.06799v2",
+      "base_id": "2509.06799",
+      "title": "Three-Loop Gauge Beta Functions in Supersymmetric Theories with Exponential Higher Covariant Derivative Regularization",
+      "authors": [
+        "Swapnil kumar Singh"
+      ],
+      "abstract": "We study the three-loop gauge $β$-functions in general $\\mathcal{N}=1$ supersymmetric gauge theories regularized by higher covariant derivatives (HCD) supplemented with Pauli--Villars subtraction. The all-structure three-loop form of the $β$-functions in the HCD framework is known and involves regulator-dependent parameters. Here we evaluate these parameters explicitly for the exponential regulators $R(x)=e^{x^n}$ and $F(x)=e^{x^m}$. We obtain the constants $A(n)$ and $B(m)$ in closed form, together with their large-$n,m$ asymptotics, and substitute them into the general three-loop expressions. This yields fully explicit, regulator-parameterized $β$-functions and a systematic expansion in $1/n$ and $1/m$ that organizes finite, scheme-dependent terms. We then exhibit finite coupling redefinitions that map the renormalized $\\overline{\\mathrm{DR}}$ result to a scheme compatible with the Novikov--Shifman--Vainshtein--Zakharov relation. Our analysis clarifies how exponential higher-derivative regulators preserve this relation at the bare level and illustrates the regulator-driven structure of supersymmetric renormalization group flows.",
+      "categories": [
+        "hep-th",
+        "hep-ph"
+      ],
+      "published": "2025-09-08T15:31:15+00:00",
+      "updated": "2026-04-17T04:09:18+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.06799v2",
+      "html_url": "https://arxiv.org/html/2509.06799v2",
+      "entry_url": "http://arxiv.org/abs/2509.06799v2"
+    },
+    {
+      "arxiv_id": "2509.06892v2",
+      "base_id": "2509.06892",
+      "title": "Asymmetric Cannibal Dark Matter: Constraints from Neutron Star",
+      "authors": [
+        "Ujjal Kumar Dey",
+        "Sourav Gope"
+      ],
+      "abstract": "Asymmetric dark matter can be efficiently captured by neutron stars via elastic scattering with nucleons and dark matter self scattering. The accumulated dark matter thermalizes and concentrates in the stellar interior, forming a dark matter core. In this work, we propose a novel framework in which a $\\mathbb{Z}_3$ symmetry allows for number-changing self-interactions of the form $3 \\rightarrow 2$ within the dark sector. These cannibalistic reactions become increasingly efficient at high dark matter densities, leading to a significant depletion of the dark matter population in the stellar core. This number depletion heats up the neutron star above the standard cooling expectations, yielding observable thermal signatures in relatively old, isolated neutron stars, potentially detectable via future infrared telescopes. We show that even in the presence of other heating mechanisms, e.g. dark matter annihilation and kinetic heating, the cannibal heating dominates for certain parameter space. We demonstrate that the cannibal heating can predict detectable heating signatures in old neutron stars, thereby allowing a broader range of viable dark matter masses and couplings to the Standard Model.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "published": "2025-09-08T17:11:20+00:00",
+      "updated": "2026-04-15T18:03:57+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.06892v2",
+      "html_url": "https://arxiv.org/html/2509.06892v2",
+      "entry_url": "http://arxiv.org/abs/2509.06892v2"
+    },
+    {
+      "arxiv_id": "2509.07094v2",
+      "base_id": "2509.07094",
+      "title": "Searching for a Charged Higgs Boson in Top-Quark Decays via the $WZ$ Mode",
+      "authors": [
+        "Saiyad Ashanujjaman",
+        "Andreas Crivellin",
+        "Siddharth P. Maharathy",
+        "Bruce Mellado"
+      ],
+      "abstract": "Top-quark decays are sensitive probes of light charged Higgs bosons ($H^\\pm$) due to the sizable $t\\bar t$ production cross section at the LHC in conjunction with their distinct experimental signatures. While dedicated ATLAS and CMS searches considered only $H^\\pm$ decays into $τν$, $cs$, or $cb$ for $m_{H^\\pm}<m_t$, the $WZ$ channel remains unexplored, despite being the dominant mode in $SU(2)_L$ triplet models. Since, top-quark pair production with $t \\to H^\\pm b$ and $H^\\pm \\to WZ$ gives rise to $t\\bar{t}Z$-like signatures, we recast existing $t\\bar{t}Z$ analyses to search for signs of charged Higgs bosons and set novel limits on the product of branching fractions Br$(t\\to H^\\pm b) \\times $Br$(H^\\pm\\to WZ)$. These constraints turn out to be at the sub-permille level, despite the observed $2σ$ preference for a non-zero value. Interpreted within the hypercharge $Y=0$ Higgs triplet model, this translates into a stringent constraint on the triplet Higgs vacuum expectation value of $v_Δ\\lesssim 2$ GeV, which is stronger than those from the $cs,τν$ modes and even surpasses electroweak precision constraints from the $ρ$ parameter. Moreover, the $2σ$ preference for a non-zero cross section further strengthens the cumulative case for a $\\approx152$ GeV boson as suggested, in particular, by di-photon excesses.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2025-09-08T18:00:06+00:00",
+      "updated": "2026-04-21T20:13:36+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.07094v2",
+      "html_url": "https://arxiv.org/html/2509.07094v2",
+      "entry_url": "http://arxiv.org/abs/2509.07094v2"
+    },
+    {
+      "arxiv_id": "2509.07104v2",
+      "base_id": "2509.07104",
+      "title": "Cosmic Rays on Galaxy Scales: Progress and Pitfalls for CR-MHD Dynamical Models",
+      "authors": [
+        "Philip F. Hopkins"
+      ],
+      "abstract": "Recent years have seen many arguments for cosmic rays (CRs) as an important influence on galactic and circumgalactic (CGM) physics, star and galaxy formation. We present a pedagogical overview of state-of-the-art modeling of CR-magnetohydrodynamics (CR-MHD) on macro scales (~kpc), highlighting their fundamental dependence on the micro (< au) scales of CR gyro orbits and meso (~pc) scales of CR mean-free-paths, intended to connect the extragalactic, Galactic, and plasma CR transport modeling communities. We note the pitfalls and systematic errors that arise from older assumptions in CR modeling, including: use of a simple Fokker-Planck equation or ad-hoc two-moment formalisms for transport; assumption of leaky boxes or plane-parallel or shear-periodic boundaries for comparison to local interstellar medium (LISM) observations; ignoring detailed LISM constraints on CR spectra (e.g. focusing only on extragalactic observables or spectrally integrated models); assuming CR transport is mediated by classical models of advection, streaming from self-confinement (super-Alfvenic or Alfvenic), or extrinsic turbulence. We emphasize recent progress addressing these: development of rigorously-derived CR-MHD equations; use of global, 3D galaxy+halo models for LISM comparisons; new methods for full-spectrum dynamics; novel models for intermittent scattering and/or new drivers. We compile extragalactic+LISM observations to show how ~GeV CR transport is being rapidly constrained in the CGM, and present phenomenological models which can be used in future simulations. We conclude by highlighting critical open questions for micro, meso, and macro-scale CR-MHD simulations.",
+      "categories": [
+        "astro-ph.GA",
+        "astro-ph.CO",
+        "astro-ph.HE",
+        "physics.plasm-ph",
+        "physics.space-ph"
+      ],
+      "published": "2025-09-08T18:00:40+00:00",
+      "updated": "2026-04-29T05:52:37+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.07104v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2509.07104v2"
+    }
+  ],
+  "total": 4
+}

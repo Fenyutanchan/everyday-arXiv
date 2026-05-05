@@ -1,0 +1,49 @@
+{
+  "date": "2026-02-08",
+  "papers": [
+    {
+      "arxiv_id": "2602.07972v2",
+      "base_id": "2602.07972",
+      "title": "Self-resonance preheating in deformed attractor models: oscillon formation and evolution",
+      "authors": [
+        "Bao-Min Gu",
+        "Yu-Peng Zhang",
+        "Fu-Wen Shu",
+        "Yu-Xiao Liu"
+      ],
+      "abstract": "It is well known that, in potentials that are quadratic near the minimum but shallower away, such as small $α$ ($\\ll M_P^2$) attractors, the inflaton condensate fragments into localized compact objects known as oscillons during self-resonance preheating. In this work we investigate the self-resonance in deformed $α$-attractor T-model with a Gaussian feature near the minimum, distant from inflation's end. Linear analysis reveals altered resonance bands and deformed Floquet charts dependent on feature parameters. In fully nonlinear lattice simulations, we find that the gradient energy transfer is largely independent of the potential feature parameter $h$. In contrast, after resonance terminates, the subsequent evolution of gradient energy becomes strongly dependent on $h$. Statistical analysis reveals that models with the potential feature produce larger number of smaller oscillons, with a reduced energy stored in these objects, increasingly suppressed as the magnitude of $h$ grows. By tracking the total energy and the gradient energy contained in oscillons, we find that in models with nonzero $h$ oscillons are systematically shorter-lived, with this effect strengthening for larger $h$. The gravitational wave emission is dominated by the resonance stage and is strongly suppressed once oscillons form. Potential features leave the low-frequency spectrum largely unchanged but significantly modify the high-frequency tail. Although a complete reheating description requires external couplings and higher-resolution simulations, clear qualitative differences of cosmic expansion history already emerge within our simulated time window. These results highlight the important role of potential features in shaping reheating dynamics and their cosmological implications, and provide a deeper understanding of preheating dynamics and the properties of oscillons.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2026-02-08T13:51:03+00:00",
+      "updated": "2026-04-14T14:41:41+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.07972v2",
+      "html_url": "https://arxiv.org/html/2602.07972v2",
+      "entry_url": "http://arxiv.org/abs/2602.07972v2"
+    },
+    {
+      "arxiv_id": "2602.07908v2",
+      "base_id": "2602.07908",
+      "title": "Cancellation of one-parameter graviton gauge dependence in the effective scalar field equation in de Sitter",
+      "authors": [
+        "Dražen Glavan",
+        "Shun-Pei Miao",
+        "Tomislav Prokopec",
+        "Richard P. Woodard"
+      ],
+      "abstract": "We investigate gauge dependence of one-graviton-loop corrections to the effective field equation of the massless, minimally coupled scalar in de Sitter, obtained by including source and observer corrections to the effective self-mass correcting the equation. Using the $Δα$ variation of the de Sitter-breaking graviton propagator in a one-parameter family of gauges, we compute the gauge-dependent contributions to the effective self-mass of a massless minimally coupled scalar mediating interactions between heavy scalars. We show that gauge dependence cancels provided the contributions from all diagram classes are collected, including one-loop corrections to external mode functions, which play a qualitatively new role relative to flat space. The resulting cancellation supports the construction of graviton gauge-independent cosmological quantum-gravitational observables from quantum-corrected effective equations.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2026-02-08T11:05:32+00:00",
+      "updated": "2026-04-22T15:20:45+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.07908v2",
+      "html_url": "https://arxiv.org/html/2602.07908v2",
+      "entry_url": "http://arxiv.org/abs/2602.07908v2"
+    }
+  ],
+  "total": 2
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2026-02-25",
+  "papers": [
+    {
+      "arxiv_id": "2602.22307v3",
+      "base_id": "2602.22307",
+      "title": "Global structure of the time delay likelihood",
+      "authors": [
+        "Namu Kroupa",
+        "Will Handley"
+      ],
+      "abstract": "We identify a fundamental pathology in the likelihood for time delay inference which challenges standard inference methods. By analysing the likelihood for time delay inference with Gaussian process light curve models, we show that it generically develops a boundary-driven \"W\"-shape with a global maximum at the true delay and gradual rises towards the edges of the observation window. This arises because time delay estimation is intrinsically extrapolative. In practice, global samplers such as nested sampling are steered towards spurious edge modes unless strict convergence criteria are adopted. We demonstrate this with simulations and show that the effect strengthens with higher data density over a fixed time span. To ensure convergence, we provide concrete guidance, notably increasing the number of live points. Further, we show that methods implicitly favouring small delays, for example optimisers and local MCMC, induce a bias towards larger $H_0$. Our results clarify failure modes and offer practical remedies for robust fully Bayesian time delay inference.",
+      "categories": [
+        "stat.ME",
+        "astro-ph.CO",
+        "astro-ph.GA",
+        "astro-ph.IM"
+      ],
+      "published": "2026-02-25T19:00:00+00:00",
+      "updated": "2026-04-28T14:44:29+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.22307v3",
+      "html_url": "https://arxiv.org/html/2602.22307v3",
+      "entry_url": "http://arxiv.org/abs/2602.22307v3"
+    }
+  ],
+  "total": 1
+}

@@ -1,0 +1,144 @@
+{
+  "date": "2025-10-21",
+  "papers": [
+    {
+      "arxiv_id": "2510.18946v2",
+      "base_id": "2510.18946",
+      "title": "The THESAN project: Lyman-alpha emitters as probes of ionized bubble sizes",
+      "authors": [
+        "Meredith Neyer",
+        "Aaron Smith",
+        "Mark Vogelsberger",
+        "Luz Ángela García",
+        "Rahul Kannan",
+        "Enrico Garaldi",
+        "Laura Keating"
+      ],
+      "abstract": "We use the THESAN radiation-hydrodynamics simulations to investigate how Lyman-$α$ emitters (LAEs) trace ionized bubble sizes during the Epoch of Reionization. We generate realistic LAE catalogs by combining accurate intrinsic Ly$α$ production and intergalactic transmission with an empirical model for dust absorption and gas outflows. By calibrating to observationally-constrained Ly$α$ luminosity functions, we reproduce the rapid decline in Ly$α$ visibility toward higher redshifts while revealing mild tensions in LAE fractions near the end of reionization. Before the midpoint of reionization, galaxies within larger line-of-sight bubbles ($\\gtrsim 10$ cMpc) have higher observed Ly$α$ luminosity and equivalent width (EW), demonstrating that the evolving LAE fraction provides a practical statistical tracer for bubble size. These correlations weaken as percolation progresses and the IGM becomes increasingly ionized. In LAE selected samples with $L_{\\text{Ly}α} > 10^{41.5}\\ \\text{erg s}^{-1}$, Ly$α$ properties correlate with bubble size more strongly than UV magnitude, especially at $z \\gtrsim 7$. This simulation-based framework maps LAE selections to bubble-size statistics, clarifies biases in more idealized models, and will supply public catalogs to interpret current and forthcoming JWST and narrow-band LAE surveys in terms of the evolving topology of reionization.",
+      "categories": [
+        "astro-ph.GA",
+        "astro-ph.CO"
+      ],
+      "published": "2025-10-21T18:00:00+00:00",
+      "updated": "2026-04-16T15:13:14+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.18946v2",
+      "html_url": "https://arxiv.org/html/2510.18946v2",
+      "entry_url": "http://arxiv.org/abs/2510.18946v2"
+    },
+    {
+      "arxiv_id": "2510.18492v3",
+      "base_id": "2510.18492",
+      "title": "Electromagnetic characteristics as probes into the inner structures of the predicted $Ξ_c^{(',*)}D^{(*)}_s$ molecular states",
+      "authors": [
+        "Sheng-He Zhu",
+        "Fu-Lai Wang",
+        "Xiang Liu"
+      ],
+      "abstract": "In this work, we conduct a systematic investigation of the electromagnetic properties, specifically the magnetic moments and the M1 radiative decay behavior, of the predicted $Ξ_c^{(',*)}D^{(*)}_s$-type double-charm hidden-strangeness molecular pentaquarks. The study is carried out within the framework of the constituent quark model to evaluate these electromagnetic observables, and our analysis incorporates three distinct scenarios: single-channel analysis, $S$-$D$ wave mixing analysis, and coupled-channel analysis. The calculated magnetic moments reveal characteristic patterns that reflect their underlying constituent configurations and provide sensitive probes for their quantum number assignments. Furthermore, we identify several M1 radiative decay channels with sizable widths that may offer promising signatures for future experimental detection. These M1 transitions also act as sensitive probes into their inner structures, displaying distinctive features that help differentiate between their constituent configurations and quantum number assignments. We anticipate that this study will stimulate experimental interest in exploring the electromagnetic properties of the $Ξ_c^{(',*)}D^{(*)}_s$ molecular states, thereby advancing our structural understanding of these exotic hadronic states.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2025-10-21T10:30:12+00:00",
+      "updated": "2026-04-16T11:15:02+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.18492v3",
+      "html_url": "https://arxiv.org/html/2510.18492v3",
+      "entry_url": "http://arxiv.org/abs/2510.18492v3"
+    },
+    {
+      "arxiv_id": "2510.18958v3",
+      "base_id": "2510.18958",
+      "title": "Sensitivity forecasts for gravitational-wave detectors to dark matter decaying into gravitons",
+      "authors": [
+        "Jose A. R. Cembranos",
+        "Álvaro Cendal"
+      ],
+      "abstract": "Dark matter may not be perfectly stable, and its decay could generate distinctive gravitational-wave signatures. In this work, we present model-independent predictions for the stochastic gravitational-wave background arising from the decay of ultralight dark matter into gravitons. Within this framework, we forecast the sensitivity reach of current and forthcoming gravitational-wave detectors to such signals.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "published": "2025-10-21T18:00:01+00:00",
+      "updated": "2026-04-22T10:03:54+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.18958v3",
+      "html_url": "https://arxiv.org/html/2510.18958v3",
+      "entry_url": "http://arxiv.org/abs/2510.18958v3"
+    },
+    {
+      "arxiv_id": "2510.18231v2",
+      "base_id": "2510.18231",
+      "title": "SKYSURF-11: A New Zodiacal Light Model Optimized for Optical Wavelengths",
+      "authors": [
+        "Rosalia O'Brien",
+        "Richard G. Arendt",
+        "Rogier A. Windhorst",
+        "Tejovrash Acharya",
+        "Annalisa Calamida",
+        "Timothy Carleton",
+        "Delondrae Carter",
+        "Seth H. Cohen",
+        "Eli Dwek",
+        "Brenda L. Frye",
+        "Rolf A. Jansen",
+        "Scott J. Kenyon",
+        "Anton M. Koekemoer",
+        "John MacKenty",
+        "Megan Miller",
+        "Rafael Ortiz",
+        "Peter C. B. Smith",
+        "Scott A. Tompkins"
+      ],
+      "abstract": "We present an improved zodiacal light model, optimized for optical wavelengths, using archival Hubble Space Telescope (HST) imaging from the SKYSURF program. The Kelsall et al. 1998 model used infrared imaging from the Diffuse Infrared Background Experiment (DIRBE) on board the Cosmic Background Explorer to create a 3D structure of the interplanetary dust cloud. However, this model cannot accurately represent zodiacal light emission outside of DIRBE's nominal wavelength bandpasses, the bluest of which is 1.25 micron. We present a revision to this model (called ZodiSURF) that incorporates analytical forms of both the scattering phase function and albedo as a function of wavelength, which are empirically determined across optical wavelengths (0.3-1.6 micron) from over 5,000 HST sky surface brightness (sky-SB) measurements. This refined model results in significantly improved predictions of zodiacal light emission at these wavelengths and for Sun angles greater than 80 deg. Fits to HST data show an uncertainty in the model of ~4.5%. Remarkably, the HST sky-SB measurements show an excess of residual diffuse light (HST Sky - ZodiSURF - Diffuse Galactic Light) of 0.013 +/- 0.006 MJy/sr. We suggest that a very dim spherical dust cloud may need to be included in the zodiacal light model, which we present here as a toy model.",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.EP",
+        "astro-ph.GA"
+      ],
+      "published": "2025-10-21T02:30:48+00:00",
+      "updated": "2026-04-28T15:50:46+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.18231v2",
+      "html_url": "https://arxiv.org/html/2510.18231v2",
+      "entry_url": "http://arxiv.org/abs/2510.18231v2"
+    },
+    {
+      "arxiv_id": "2510.18653v3",
+      "base_id": "2510.18653",
+      "title": "Globalization of perturbative Chern-Simons theory on the moduli space of flat connections in the BV formalism",
+      "authors": [
+        "Pavel Mnev",
+        "Konstantin Wernli"
+      ],
+      "abstract": "We study the perturbative path integral of Chern-Simons theory (the effective BV action on zero-modes) in Lorenz gauge, expanded around a (possibly non-acyclic) flat connection, as a family over the smooth irreducible stratum $\\mathcal{M}' \\subset \\mathcal{M}$ of the moduli space of flat connections. We prove that it is horizontal with respect to the Grothendieck connection up to a BV-exact term. From it, we construct a volume form on $\\mathcal{M'}$ - the \"global partition function\" - whose cohomology class is independent of the metric, and so is a 3-manifold invariant.   As an element of the construction, we construct an extension of the perturbative partition function to a nonhomogeneous form on the space of triples $(A,A',g)$ consisting of (1) a \"kinetic\" flat connection $A$ around which Chern-Simons action is expanded, (2) a \"gauge-fixing\" flat connection $A'$, (3) a metric $g$. This extension is horizontal with respect to an appropriate Gauss-Manin superconnection (which involves the BV operator as a degree zero component).",
+      "categories": [
+        "math-ph",
+        "hep-th"
+      ],
+      "published": "2025-10-21T14:02:49+00:00",
+      "updated": "2026-04-29T13:20:31+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.18653v3",
+      "html_url": "https://arxiv.org/html/2510.18653v3",
+      "entry_url": "http://arxiv.org/abs/2510.18653v3"
+    },
+    {
+      "arxiv_id": "2510.18805v3",
+      "base_id": "2510.18805",
+      "title": "Growth and collapse of subsystem complexity under random unitary circuits",
+      "authors": [
+        "Jeongwan Haah",
+        "Douglas Stanford"
+      ],
+      "abstract": "For chaotic quantum dynamics modeled by random unitary circuits, we study the complexity of reduced density matrices of subsystems as a function of evolution time where the initial global state is a product pure state. The state complexity is defined as the minimum number of local quantum channels to generate a given state from a product state to a good approximation. In $1+1$d, we prove that the complexity of subsystems of length $\\ell$ smaller than half grows linearly in time $T$ at least up to $T = \\ell / 4$ but becomes zero after time $T = \\ell /2$ in the limit of a large local dimension, while the complexity of the complementary subsystem of length larger than half grows linearly in time up to exponentially late times. Using holographic correspondence, we give some evidence that the state complexity of the smaller subsystem should actually grow linearly up to time $T = \\ell/2$ and then abruptly decay to zero.",
+      "categories": [
+        "quant-ph",
+        "hep-th"
+      ],
+      "published": "2025-10-21T16:59:34+00:00",
+      "updated": "2026-04-29T05:56:16+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.18805v3",
+      "html_url": "https://arxiv.org/html/2510.18805v3",
+      "entry_url": "http://arxiv.org/abs/2510.18805v3"
+    }
+  ],
+  "total": 6
+}

@@ -1,0 +1,94 @@
+{
+  "date": "2025-11-02",
+  "papers": [
+    {
+      "arxiv_id": "2511.01048v2",
+      "base_id": "2511.01048",
+      "title": "Massive neutrinos and interacting dark matter look alike through the lens of lensing",
+      "authors": [
+        "Luis A. Anchordoqui",
+        "Danny Marfatia",
+        "Jorge F. Soriano"
+      ],
+      "abstract": "We demonstrate that the suppression in the lensing power spectrum of the cosmic microwave background (CMB) caused by massive neutrinos can be mimicked by dark matter-baryon interactions at the precision of next-generation CMB experiments. Thus, a determination of neutrino masses from the CMB lensing power spectrum may be compromised. We illustrate the degeneracy for a dark matter-proton cross section $\\propto v^{-4}$, which arises in the $t$-channel exchange of an ultralight mediator in the nonrelativistic limit.",
+      "categories": [
+        "astro-ph.CO",
+        "hep-ex",
+        "hep-ph"
+      ],
+      "published": "2025-11-02T18:46:28+00:00",
+      "updated": "2026-04-20T19:35:56+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.01048v2",
+      "html_url": "https://arxiv.org/html/2511.01048v2",
+      "entry_url": "http://arxiv.org/abs/2511.01048v2"
+    },
+    {
+      "arxiv_id": "2511.00975v2",
+      "base_id": "2511.00975",
+      "title": "The Atacama Cosmology Telescope: stellar mass growth in massive galaxy clusters from DR5 over the past 7 billion years",
+      "authors": [
+        "Damien C. Ragavan",
+        "Unnikrishnan Sureshkumar",
+        "Matt Hilton",
+        "John P. Hughes",
+        "Kavilan Moodley",
+        "Tony Mroczkowski",
+        "Bruce Partridge",
+        "Maria Salatino",
+        "Cristóbal Sifón",
+        "Eve M. Vavagiakis",
+        "Edward J. Wollack"
+      ],
+      "abstract": "We probe the stellar mass growth in a sample of 568 Sunyaev-Zel'dovich (SZ) selected galaxy clusters with masses greater than $2.9 \\times 10^{14} \\mathrm{M_{\\odot}}$ and redshifts in the range $0.2 < z < 0.8$, drawn from the fifth data release of the Atacama Cosmology Telescope (ACT DR5). By utilising deep photometry from the tenth data release of the Dark Energy Camera Legacy Survey (DECaLS DR10), we construct redshift- and cluster mass-binned composite cluster stellar mass functions (SMFs), down to $M_* = 10^{9.5} \\mathrm{M_{\\odot}}$. This work presents the first analysis of the cluster SMF for this cluster sample at this epoch. We find that the characteristic stellar mass ($M^*$) of the cluster SMF evolves marginally from $0.55 \\leq z < 0.8$, with most of the measurable growth occurring at $ 0.2 < z < 0.55$. This suggests that most of the massive galaxy population in clusters ($M_* \\gtrsim 10^{10.75} \\mathrm{M_{\\odot}}$) is largely established by $z \\sim 0.8$, with subsequent evolution driven by late-time assembly processes. The low-mass slope ($α$) of the composite cluster SMF is flat at high-$z$ ($z \\sim 0.8$) but steepens at $z < 0.55$, suggesting an abundance of massive galaxies in high-$z$ clusters compared to low-$z$ clusters. We measure the evolution of cluster stellar mass fractions contained within galaxies with $M_* > 10^{9.5} \\mathrm{M_{\\odot}}$ between $ 0.2 < z < 0.8$, and find evidence of significant growth, by a factor of $2.5$, after accounting for the growth in cluster halo mass over this epoch.",
+      "categories": [
+        "astro-ph.GA",
+        "astro-ph.CO"
+      ],
+      "published": "2025-11-02T15:37:54+00:00",
+      "updated": "2026-04-22T14:55:27+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.00975v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2511.00975v2"
+    },
+    {
+      "arxiv_id": "2511.00852v3",
+      "base_id": "2511.00852",
+      "title": "No, classical gravity does not entangle quantized matter fields",
+      "authors": [
+        "Lajos Diósi"
+      ],
+      "abstract": "In their recent work, Nature, {\\bf 646}, 813 (2025), Aziz and Howl claim that classical (unquantized) gravity can generate entanglement of quantized matter if matter is treated within quantum field theory which is, no doubt, our ultimate theory to use. We show that the perturbative result of Aziz and Howl in interaction picture is inconsistent with our exact and simple non-perturbative derivation in Heisenberg picture, that fundamentally precludes the claimed entanglement.",
+      "categories": [
+        "quant-ph",
+        "gr-qc"
+      ],
+      "published": "2025-11-02T08:26:45+00:00",
+      "updated": "2026-04-26T14:31:15+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.00852v3",
+      "html_url": "https://arxiv.org/html/2511.00852v3",
+      "entry_url": "http://arxiv.org/abs/2511.00852v3"
+    },
+    {
+      "arxiv_id": "2511.00822v2",
+      "base_id": "2511.00822",
+      "title": "The CatWISE2020 Quasar dipole: A Reassessment of the Cosmic Dipole Anomaly",
+      "authors": [
+        "Masroor Bashir",
+        "Pravabati Chingangbam",
+        "Stephen Appleby"
+      ],
+      "abstract": "The Ellis-Baldwin test probes the cosmological principle by comparing the kinematic Cosmic Microwave Background dipole with the Doppler-driven dipole in the number counts of extragalactic radio sources. Recent analysis of the CatWISE2020 quasar catalog reported a number-count dipole amplitude exceeding the kinematic expectation at $4.9σ$ significance. We present a comprehensive reassessment of this test using the same dataset, incorporating major sources of uncertainty in the statistical inference. We employ a simulation framework based on the FLASK package, using lognormal realizations of the large-scale structure, quasar clustering bias, the survey's radial selection function, and its exact sky coverage. Our simulations account for the kinematic dipole, the intrinsic clustering dipole, shot noise, and survey geometry effects. The analysis yields a revised significance of $3.63σ$ in the absence of a clustering dipole, and $3.44σ$ with a randomly oriented clustering dipole. When the clustering dipole is aligned with the kinematic dipole, the significance decreases further to $3.27σ$. Although the anomaly is reduced, it cannot be explained solely by the clustering dipole or mode coupling from the survey mask. We further assess dipole measurement robustness by fitting models with successively higher-order multipoles up to $\\ell = 4$. Partial sky coverage induces mode coupling, shifting the dipole estimate to higher values when the octopole is included and inflating its variance as additional modes are incorporated, reflected in the increasing condition number of the estimator. This behavior highlights a bias-variance trade-off inherent in multipole fitting on partial-sky data.",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.GA",
+        "gr-qc"
+      ],
+      "published": "2025-11-02T06:21:28+00:00",
+      "updated": "2026-04-26T13:44:28+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.00822v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2511.00822v2"
+    }
+  ],
+  "total": 4
+}

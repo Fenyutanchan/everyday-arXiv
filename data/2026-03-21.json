@@ -1,0 +1,97 @@
+{
+  "date": "2026-03-21",
+  "papers": [
+    {
+      "arxiv_id": "2603.20979v2",
+      "base_id": "2603.20979",
+      "title": "Second-Order Bi-Scalar-Vector-Tensor Field Equations Compatible with Conservation of Charge in a Space of Four-Dimensions",
+      "authors": [
+        "Gregory W. Horndeski"
+      ],
+      "abstract": "The purpose of this paper is to explore, in a space of four-dimensions, the possible forms that second-order, bi-scalar-vector-tensor field equations derivable from a variational principle can assume. In order to restrict this enormous class of field equations I shall first require that the equations governing the vector field (which will be identified with the vector potential of an electromagnetic field) be consistent with the notion of conservation of charge. Secondly I shall require that these vector equations reduce to Maxwell's equations in a flat space when the scalar fields are constant. Unfortunately even with these two powerful restrictions on the form of the field equations I have not been able to construct a Lagrangian which yields all possible field equations of this nature. This situation will lead to a discussion of other ways in which the field equations can be restricted to obtain viable bi-scalar-vector-tensor field equations. Lastly I shall make a few remarks on how the results obtained can be used to show that the Higgs field can generate electromagnetic fields in the early Universe, and how to couple bi-scalar fields to gauge-tensor fields to construct second-order, bi-scalar-Yang-Mills-tensor field theories compatible with the conservation of gauge charge.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2026-03-21T23:33:06+00:00",
+      "updated": "2026-04-20T16:16:32+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.20979v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2603.20979v2"
+    },
+    {
+      "arxiv_id": "2603.20747v2",
+      "base_id": "2603.20747",
+      "title": "First-principle evolution Hamiltonian operator: derivation from ADM quantum constraints and quantum reference-frame conditions",
+      "authors": [
+        "Chun-Yen Lin"
+      ],
+      "abstract": "For any Dirac theory of quantum gravity governed by a set of well-defined quantum constraints, we discover a universal formula for the exact form of the evolution Hamiltonian operator in a variable quantum reference frame of our construction, expressed in terms of the quantum-constraint operators and frame-condition operators as the only inputs. Due to the first-principle nature of the formula, the evolution Hamiltonian operator contains the full interactions encoded in the quantum constraints, and it generates the Schrödinger evolution described by the genuine quantum relational observables associated to the frame and acting in the physical Hilbert space solving the quantum constraints.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2026-03-21T10:26:44+00:00",
+      "updated": "2026-04-17T08:30:12+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.20747v2",
+      "html_url": "https://arxiv.org/html/2603.20747v2",
+      "entry_url": "http://arxiv.org/abs/2603.20747v2"
+    },
+    {
+      "arxiv_id": "2603.20963v2",
+      "base_id": "2603.20963",
+      "title": "Redshift Dipoles from Non-Geodesic Observer Congruences in Covariant Cosmology",
+      "authors": [
+        "Erick Pastén"
+      ],
+      "abstract": "In an inhomogeneous universe, the identification of the Hubble frame with a geodesic matter flow is not guaranteed beyond the idealized FLRW limit, particularly once structure formation leads to a non-trivial distribution of velocities and gravitational fields. Within a fully covariant framework, we show that a non-geodesic observer congruence introduces an additional contribution to the propagation of redshift along the past light cone, proportional to the line-of-sight projection of the observer four-acceleration. This generates a dipolar modulation in the redshift itself, which propagates to any observable defined in redshift space. Unlike the standard kinematic dipole associated with a global Lorentz boost, this contribution arises from the kinematics of the observer congruence and depends on its evolution along the light cone, leading to a non-trivial redshift dependence. These results provide a framework to explore potential signatures of non-geodesic kinematics in cosmological data, with possible implications for the interpretation of large-scale dipoles and redshift-based inference.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2026-03-21T22:09:00+00:00",
+      "updated": "2026-04-14T23:52:22+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.20963v2",
+      "html_url": "https://arxiv.org/html/2603.20963v2",
+      "entry_url": "http://arxiv.org/abs/2603.20963v2"
+    },
+    {
+      "arxiv_id": "2603.20928v2",
+      "base_id": "2603.20928",
+      "title": "Detection of Gravitational Wave modes in third generation detectors",
+      "authors": [
+        "Massimo Tinto",
+        "Sanjeev Dhurandhar",
+        "Harshit Raj"
+      ],
+      "abstract": "We investigate the detectability of Gravitational Wave (GW) modes (emitted by black-holes and neutron stars) by third generation, ground-based gravitational wave detectors planned to be operational in the next decade. Our analysis focuses on the Cosmic Explorer and Einstein Telescope projects, which are expected to have arm lengths of tens of kilometers and to experience the amplification of a gravitational wave signal at their Full-Spectral Range (FSR) frequencies. We find that both projects will also observe with good Signal-to-Noise ratio (SNR) the elusive {\\it w-modes}, which are expected to be emitted at these frequencies by spinning neutron stars.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2026-03-21T20:09:07+00:00",
+      "updated": "2026-04-14T19:50:23+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.20928v2",
+      "html_url": "https://arxiv.org/html/2603.20928v2",
+      "entry_url": "http://arxiv.org/abs/2603.20928v2"
+    },
+    {
+      "arxiv_id": "2603.20903v2",
+      "base_id": "2603.20903",
+      "title": "Unfolding with a Wasserstein Loss",
+      "authors": [
+        "Katy Craig",
+        "Benjamin Faktor",
+        "Benjamin Nachman"
+      ],
+      "abstract": "Data unfolding -- the removal of noise or artifacts from measurements -- is a fundamental task across the experimental sciences. Of particular interest are applications in physics, where the dominant approach is Richardson-Lucy (RL) deconvolution. The classical RL approach aims to find denoised data that, once passed through the noise model, is as close as possible to the measured data in terms of Kullback-Leibler (KL) divergence. This requires that the support of the measured data overlaps with the output of the noise model, a hypothesis typically enforced by binning, which introduces numerical error.   As a counterpoint, the present work studies an alternative formulation using a Wasserstein loss. We establish sharp conditions for existence and uniqueness of optimizers, answering open questions of Li, et al., regarding necessary conditions for uniqueness in the case of transport map noise models. We then develop a provably convergent generalized Sinkhorn algorithm to compute approximate optimizers. Our algorithm requires only empirical observations of the noise model and measured data and scales with the size of the data, rather than the ambient dimension. Numerical experiments on one- and two-dimensional problems inspired by jet mass unfolding in particle physics demonstrate that the optimal transport approach offers robust, accurate performance compared to classical RL deconvolution, particularly when binning artifacts are significant.",
+      "categories": [
+        "math.OC",
+        "hep-ph",
+        "stat.ML"
+      ],
+      "published": "2026-03-21T18:26:44+00:00",
+      "updated": "2026-04-22T19:56:30+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.20903v2",
+      "html_url": "https://arxiv.org/html/2603.20903v2",
+      "entry_url": "http://arxiv.org/abs/2603.20903v2"
+    }
+  ],
+  "total": 5
+}

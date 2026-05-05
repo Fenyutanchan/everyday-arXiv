@@ -1,0 +1,24 @@
+{
+  "date": "2025-09-05",
+  "papers": [
+    {
+      "arxiv_id": "2509.05479v2",
+      "base_id": "2509.05479",
+      "title": "Handling Data Gaps for the Next Generation of Gravitational-Wave Observatories",
+      "authors": [
+        "Noah Pearson",
+        "Neil J. Cornish"
+      ],
+      "abstract": "In the coming decades, as the low frequency sensitivity of detectors improves, the time that gravitational-wave signals remain in the sensitive band will increase, leading to new challenges in analyzing data, namely non-stationary noise and data gaps. Time-frequency (wavelet) methods can efficiently handle non-stationary noise, but data gaps still lead to spectral leakage due to the finite length of the wavelet filters. It was previously shown that Bayesian data augmentation - \"gap filling\" - could mitigate spectral leakage in frequency domain analyses, but the computational cost associated with the matrix operations needed in that approach is prohibitive. Here we present a new, computationally efficient approach to Bayesian data augmentation in the time-frequency domain that avoids repeated, costly matrix operations. We show that our approach efficiently solves the problem of data gaps in simulated LISA data, and can be smoothly integrated into the LISA Global Fit. The same approach can also be used for future 3G ground-based interferometers.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-09-05T20:11:50+00:00",
+      "updated": "2026-04-30T17:20:56+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.05479v2",
+      "html_url": "https://arxiv.org/html/2509.05479v2",
+      "entry_url": "http://arxiv.org/abs/2509.05479v2"
+    }
+  ],
+  "total": 1
+}

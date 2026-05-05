@@ -1,0 +1,44 @@
+{
+  "date": "2025-04-29",
+  "papers": [
+    {
+      "arxiv_id": "2504.20478v5",
+      "base_id": "2504.20478",
+      "title": "Tomographic Alcock-Paczynski Test with Marked Correlation Functions",
+      "authors": [
+        "Liang Xiao",
+        "Limin Lai",
+        "Zhujun Jiang",
+        "Xiao-Dong Li",
+        "Le Zhang"
+      ],
+      "abstract": "The tomographic Alcock-Paczynski(AP) method, developed over the past decade, exploits redshift evolution for cosmological determination, aiming to mitigate contamination from redshift distortions and capture nonlinear scale information. Marked Correlation Functions (MCFs) extend information beyond the two-point correlation. For the first time, this study integrated the tomographic AP test with MCFs to constrain the flat $w$CDM cosmology model. Our findings show that multiple density weights in MCFs outperform the traditional two-point correlation function, reducing the uncertainties of the matter density parameter $Ω_m$ and dark energy equation of state $w$ by 48\\% and 45\\%, respectively. Furthermore, we introduce a novel principal component analysis (PCA) compression scheme that efficiently projects high-dimensional statistical measurements into a compact set of eigenmodes while preserving most of the cosmological information. This approach retains significantly more information than traditional coarse binning methods, which simply average adjacent bins in a lossy manner, yielding an additional $\\sim 40\\%$ reduction in error margins. To assess robustness, we incorporate realistic redshift errors expected in future spectroscopic surveys. While these errors modestly degrade cosmological constraints, our combined framework, which utilizes MCFs and PCA compression within tomographic AP tests, is less affected and always yields tight cosmological constraints. This scheme remains highly promising for upcoming slitless spectroscopic surveys, such as the Chinese Space Station Telescope (CSST).",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2025-04-29T07:19:58+00:00",
+      "updated": "2026-04-17T05:39:20+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2504.20478v5",
+      "html_url": "https://arxiv.org/html/2504.20478v5",
+      "entry_url": "http://arxiv.org/abs/2504.20478v5"
+    },
+    {
+      "arxiv_id": "2504.20457v2",
+      "base_id": "2504.20457",
+      "title": "Modular Channels, Thermal Filtering and the Spectral Emergence of Spacetime",
+      "authors": [
+        "Pedro J. Trejo-Calderón"
+      ],
+      "abstract": "We investigate the information-theoretic structure underlying causal horizons through the formalism of modular quantum channels. By analyzing the singular value decomposition of the channel induced by the partial trace over inaccessible regions, we show that the Unruh effect and the Page curve can be understood as manifestations of a universal thermal filtering mechanism governed by the modular Hamiltonian. This structure leads to a Gibbs-weighted hierarchy of information transmission modes, with entanglement entropy corresponding to spectral activation and thermal capacity.   We reinterpret the first law of entanglement as a Clausius relation for modular flow and derive Einstein's equations by requiring its local validity across Rindler horizons. In the case of black hole evaporation, we find that the modular channel undergoes an informational phase transition at the Page time, marked by a shift from entanglement preservation to recoverability, quantified through fidelity and channel capacity.   Based on these results, we propose the Modular Channels Flow Correspondence (MCFC): a minimal holographic principle whereby the area of a causal screen measures the storage of filtered quantum information. Our framework offers a unified operational account of holography, entropy, and curvature, grounded in the spectral dynamics of modular channels.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-04-29T06:35:15+00:00",
+      "updated": "2026-04-21T07:01:33+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2504.20457v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2504.20457v2"
+    }
+  ],
+  "total": 2
+}

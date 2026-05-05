@@ -1,0 +1,85 @@
+{
+  "date": "2025-12-02",
+  "papers": [
+    {
+      "arxiv_id": "2512.02338v2",
+      "base_id": "2512.02338",
+      "title": "Leading effective field theory corrections to the Kerr metric at all spins",
+      "authors": [
+        "Pedro G. S. Fernandes"
+      ],
+      "abstract": "The leading corrections to General Relativity can be parametrized by higher-derivative interactions in a low-energy effective field theory, in a way that is general and agnostic to the precise UV completion of gravity. Using numerical methods, we compute the leading-order corrections to the Kerr metric across the entire range of sub-extremal values of spin and analyse their impact on physical quantities. We find that rapidly rotating black holes are most affected by the higher-derivative corrections, making them especially sensitive probes of new physics. A dataset of solutions and the code used to produce them are publicly available.",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2025-12-02T02:16:25+00:00",
+      "updated": "2026-04-16T13:17:29+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.02338v2",
+      "html_url": "https://arxiv.org/html/2512.02338v2",
+      "entry_url": "http://arxiv.org/abs/2512.02338v2"
+    },
+    {
+      "arxiv_id": "2512.02526v2",
+      "base_id": "2512.02526",
+      "title": "Updates on dipolar anisotropy in local measurements of the Hubble constant from Cosmicflows-4",
+      "authors": [
+        "Vincenzo Salzano",
+        "J. Beltrán Jiménez",
+        "Dario Bettoni",
+        "Philippe Brax",
+        "Aurélien Valade"
+      ],
+      "abstract": "We investigate the angular anisotropy of the Hubble constant using the Cosmicflows-4 catalogue, with particular emphasis on three issues often treated only implicitly in the literature: the statistical formulation of the Hubble--Lemaître relation, the internal consistency of the working sample, and the role of peculiar-velocity corrections. Rather than working in luminosity-distance space, we adopt a logarithmic formulation based directly on distance moduli, thereby preserving the Gaussian error properties of the measured quantities. We first subject the catalogue to internal consistency tests, including the depth dependence of $\\langle \\log H_0 \\rangle$ and the behaviour of residual skewness and kurtosis across radial shells, and use these diagnostics to define conservative subsamples minimally affected by selection effects, namely $μ\\in [31,36]$ and $z \\in [0.03,0.06]$. Within these ranges, we reconstruct angular maps of $\\log H_0$ and fit them with a spherical-harmonic expansion up to octupole order. We find a statistically significant anisotropic signal in the uncorrected CF4 data, dominated by a dipole and favoured over a monopole-only model by Bayesian evidence. However, when peculiar-velocity-corrected data are used, the anisotropy amplitude is strongly reduced, especially at lower depths, while only a weaker residual signal survives at larger distances. We also test for a monotonic radial evolution of the dipole, as expected in some differential-expansion scenarios, but find no robust evidence for such a trend. These results indicate that the anisotropy is driven primarily by local velocity flows and catalogue/survey structure, rather than by a large-scale breakdown of isotropic expansion. Finally, we show that although such anisotropy may affect local determinations of $H_0$, its impact on the global Hubble tension is likely limited.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2025-12-02T08:42:44+00:00",
+      "updated": "2026-04-15T08:46:54+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.02526v2",
+      "html_url": "https://arxiv.org/html/2512.02526v2",
+      "entry_url": "http://arxiv.org/abs/2512.02526v2"
+    },
+    {
+      "arxiv_id": "2512.02391v3",
+      "base_id": "2512.02391",
+      "title": "\"SNe Ia twins\" in the Hubble flow, and the determination of H0",
+      "authors": [
+        "Pilar Ruiz-Lapuente",
+        "Antonio Quintana-Estellés",
+        "Jonay I. González Hernández",
+        "Andrea Pastorello"
+      ],
+      "abstract": "We have applied our approach of using ''SNe Ia twins''in the Hubble flow to   obtain distances to SNe Ia at z $>$ 0.015 and derive H$_{0}$.   Our results, taking a single step between the low z domain and the Hubble flow,   validate the three rung classical method.   We find, however, that the full compilation of distances, both in Pantheon+ and   in the Carnegie-Chicago Hubble Program (CCHP), contain some inaccurate values   in the colors due to an underestimate of reddening by dust, or due to the adoption   of not well--defined light curve declines.This produces odd individual values for   H$_{0}$ from single Type Ia SNe (SNe Ia).   Our sample of carefully addressed SNe Ia in the Hubble flow contains a dozen supernovae,   for which the distances are determined with high accuracy.   Three of these SNe Ia are of the Broad Line subtype and can be compared with SN 1989B in M66,   a host galaxy with a unique convergence of the Cepheid distance determination and   the Tip of the Red Giant Branch stars (TRGB) determination by the CCHP group.   There is, as well, a very good agreement on the distances to NGC 7250 and NGC 5643 between   those derived with Cepheids by SH0ES and those derived with the use of   J-Asymptotic Giant Branch stars(JAGB stars) by the CCHP, which makes them very good anchors.   The sample of 12 SNe Ia gives a value of   H$_{0}$ $=$ 72.56 $\\pm$ 1.54 (stat) $\\pm$ 1.33(sys) km s$^{-1}$ Mpc $^{-1}$,when anchored in Cepheids,   and of H$_{0}$ $=$ 72.20 $\\pm$ 1.53 (stat) $\\pm$ 1.33 (sys) km s$^{-1}$ Mpc $^{-1}$,when anchored in   JAGBs by the CCHP.We take a mean of the two values of H$_{0}$ as derived by the Cepheids and by JAGB   (from the CCHP) and obtain H$_{0}$ $=$ 72.38 $\\pm$ 1.54(stat) $\\pm$ 1.33(sys) km s$^{-1}$ Mpc $^{-1}$.   Our findings confirm that the Hubble tension is real.",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.GA"
+      ],
+      "published": "2025-12-02T04:00:37+00:00",
+      "updated": "2026-04-21T00:38:28+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.02391v3",
+      "html_url": "https://arxiv.org/html/2512.02391v3",
+      "entry_url": "http://arxiv.org/abs/2512.02391v3"
+    },
+    {
+      "arxiv_id": "2512.08972v2",
+      "base_id": "2512.08972",
+      "title": "Degenerate higher-order scalar-tensor theories in metric-affine gravity",
+      "authors": [
+        "Hamed Bouzari Nezhad"
+      ],
+      "abstract": "We construct the metric-affine analogue of the quadratic degenerate higher-order scalar-tensor (DHOST) theories. We begin with the metric-affine completion of the quadratic DHOST scalar-tensor action, which is linear in curvature and contains all operators that are at most quadratic in the covariant second derivatives of the scalar field, ensuring that the connection enters only through curvature and these second derivatives. Solving the connection equation by performing a full decomposition of the distortion tensor gives a closed-form effective metric theory. Imposing the standard metric DHOST degeneracy conditions then selects a Palatini Class Ia branch that is fully determined by two free functions in the original action. Analyzing the tensor sector shows that requiring gravitational waves to propagate at the speed of light further restricts the theory to a one-function family. These results provide a detailed and self-contained characterization of the quadratic metric-affine Class Ia sector within this operator basis and identify the theoretical conditions implied by gravitational wave observations.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-12-02T15:03:51+00:00",
+      "updated": "2026-04-20T23:51:59+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.08972v2",
+      "html_url": "https://arxiv.org/html/2512.08972v2",
+      "entry_url": "http://arxiv.org/abs/2512.08972v2"
+    }
+  ],
+  "total": 4
+}

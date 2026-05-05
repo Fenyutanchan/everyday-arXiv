@@ -1,0 +1,28 @@
+{
+  "date": "2025-07-22",
+  "papers": [
+    {
+      "arxiv_id": "2507.16115v2",
+      "base_id": "2507.16115",
+      "title": "Simba Simulation: The Effect of Feedback Physics on Matter Distribution in the Cosmic Web",
+      "authors": [
+        "Chenze Dong",
+        "Florian Dedieu",
+        "Daniela Galárraga-Espinosa",
+        "Khee-Gan Lee",
+        "Daniele Sorini",
+        "Romeel Davé"
+      ],
+      "abstract": "The discrepancy between the early-time estimation and late-time observation on the cosmic baryon content - the 'missing baryon problem' - is a longstanding problem in cosmology. Although recent studies with fast radio bursts (FRBs) have largely addressed this discrepancy, the precise spatial distribution of these baryons remains uncertain due to the effect of galaxy feedback. Cosmological hydrodynamical simulations such as Simba have shown that the partitioning of baryons between the intergalactic medium (IGM) and haloes is sensitive to feedback models, motivating the connection of baryon distribution with feedback physics. With the Simba simulation suite, this study investigates how feedback affects the distribution of matter within large-scale cosmic structures, with implications for FRB foreground modeling. We apply the T-web method to classify the cosmic web into different structures: knots, filaments, sheets, and voids. We then analyze how the different feedback variants of Simba affect the distribution of matter within each structure. Our results show that in Simba, the fractions of IGM gas in different cosmic web structures vary only a few percent under different feedback models. However, jet feedback produces noticeable changes in the gas distribution within structures, enhancing the diffuse IGM on the outskirts of filaments and knots. This research provides a new perspective on the impact of feedback on the IGM and motivates a refined data model for the FRB foreground mapping.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2025-07-22T00:07:16+00:00",
+      "updated": "2026-04-29T15:22:30+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2507.16115v2",
+      "html_url": "https://arxiv.org/html/2507.16115v2",
+      "entry_url": "http://arxiv.org/abs/2507.16115v2"
+    }
+  ],
+  "total": 1
+}

@@ -1,0 +1,72 @@
+{
+  "date": "2026-01-05",
+  "papers": [
+    {
+      "arxiv_id": "2601.02458v3",
+      "base_id": "2601.02458",
+      "title": "Cosmic Collider Gravitational Waves sourced by Right-handed Neutrino production from Bubbles: Testing Seesaw, Leptogenesis and Dark Matter",
+      "authors": [
+        "Anish Ghoshal",
+        "Pratyay Pal"
+      ],
+      "abstract": "We study a minimal type-I seesaw framework in which a first-order phase transition (FOPT), driven by a singlet scalar, produces right-handed neutrinos (RHNs) through bubble collisions, realizing a cosmic-scale collider that probes ultra-high energy scales. The resulting RHN distribution sources novel low-frequency gravitational-waves (GWs) in addition to the standard bubble-collision contribution. A stable lightest RHN can account for the observed dark matter (DM) relic abundance for masses as low as $M_{1} \\equiv m_{\\rm DM} \\gtrsim 10^{6}\\,\\mathrm{GeV}$, with the associated novel GW signal accessible in LISA, ET and upcoming LVK detectors. If the RHNs are unstable, their CP-violating decays generate the observed baryon asymmetry via leptogenesis for $M_{1} \\gtrsim 10^{11}\\,\\mathrm{GeV}$ and phase transition temperatures $T_* \\gtrsim 10^{6}\\,\\mathrm{GeV}$, for which the novel GW spectrum is detectable in ET, BBO and upcoming LVK. If RHN decays also populate a dark-sector fermion with mass $m_χ \\in [10^{-4},10^{4}],\\mathrm{GeV}$, successful co-genesis of baryons and asymmetric dark matter occurs for $T_* \\gtrsim 10^{7}\\,\\mathrm{GeV}$ and $M_{1} \\gtrsim 10^{9}\\,\\mathrm{GeV}$, naturally explaining $Ω_{\\rm DM} \\simeq 5Ω_{\\rm B}$. The corresponding GW signals are testable with LISA, ET, and BBO. Finally, we analyze a UV-complete multi-Majoron model, based on a global $U(1)_N \\times U(1)_{\\rm B-L}$ extension, motivated from the hierarchy of lepton masses, which we dub as Mojaron collider. The corresponding FOPT in this model leaves a distinctive GW signature arising from RHN production during $U(1)_N$ symmetry breaking detectable by BBO, ET and upcoming LVK. Successful leptogenesis is realized for heaviest RHN mass $M_3 \\sim 10^{10}\\,\\mathrm{GeV}$ and a $U(1)_N$ breaking vev $v_2 \\sim \\mathcal{O}(\\mathrm{TeV})$, which sets the seesaw scale.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2026-01-05T18:57:49+00:00",
+      "updated": "2026-04-24T10:01:41+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.02458v3",
+      "html_url": "https://arxiv.org/html/2601.02458v3",
+      "entry_url": "http://arxiv.org/abs/2601.02458v3"
+    },
+    {
+      "arxiv_id": "2601.02487v2",
+      "base_id": "2601.02487",
+      "title": "Thick Disks, Thin Hopes: Suppressed Capture and Merger Rates in AGN",
+      "authors": [
+        "Yashvardhan Tomar",
+        "Philip F. Hopkins",
+        "Kyle Kremer"
+      ],
+      "abstract": "Multiple models have been suggested over the years to explain the structure and support of accretion disks around supermassive black holes, from the standard thin thermal-pressure-dominated $α$-disk model to more recent models that describe geometrically thicker radiation or magnetic or turbulence-dominated disks. In any case, objects embedded in the disk (e.g. compact objects, stars, gas, dust) can undergo gravitational and hydrodynamic interactions with each other leading to interesting processes such as binary interaction/capture, gravitational wave merger events, dynamical friction, accretion, gap opening, etc. It has long been argued that disks of active galactic nuclei (AGN) can enhance the rates for many of these events; however, almost all of that analysis has assumed specific thin-disk models (with aspect ratios $H/R \\lesssim 0.01$). We show here that the rates for processes such as these that are mediated by gravitational cross-sections has a very strong inverse dependence on the thickness $H/R$ (scaling as steeply as $(H/R)^{-8}$), and $H/R$ can vary in the outer disk (where these processes are often invoked) by factors $\\gtrsim 1000$ depending on the assumed source of pressure support in the disk. This predicts rates that can be lower by tens of orders-of-magnitude in some models, demonstrating that it is critical to account for disk parameters such as aspect ratio and different sources of disk pressure when computing any meaningful predictions for these rates. For instance, if magnetic pressure is important in the outer disk, as suggested in recent work, capture rates would be suppressed by factors $\\sim 10^{10}-10^{20}$ compared to previous studies where magnetic pressure was ignored.",
+      "categories": [
+        "astro-ph.HE",
+        "astro-ph.CO",
+        "astro-ph.GA",
+        "astro-ph.SR"
+      ],
+      "published": "2026-01-05T19:00:21+00:00",
+      "updated": "2026-04-26T12:54:48+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.02487v2",
+      "html_url": "https://arxiv.org/html/2601.02487v2",
+      "entry_url": "http://arxiv.org/abs/2601.02487v2"
+    },
+    {
+      "arxiv_id": "2601.02331v2",
+      "base_id": "2601.02331",
+      "title": "Quantum dynamics of cosmological particle production: interacting quantum field theories with matrix product states",
+      "authors": [
+        "Evan Budd",
+        "Adrien Florio",
+        "David Frenklakh",
+        "Swagato Mukherjee"
+      ],
+      "abstract": "Understanding real-time dynamics of interacting quantum fields in curved spacetime remains a major theoretical challenge. We employ tensor network methods to study such dynamics using interacting scalar and gauge theories in 1+1 spacetime dimensions, subject to a quench modeling a homogeneously expanding gravitational background. The models considered are the scalar $λφ^4$ theory and the Schwinger model, i.e. a Dirac fermion coupled to a $U(1)$ gauge field which is equivalent via bosonization to a scalar field with a cosine self-interaction. In the free scalar limit, both theories reproduce known analytical results, providing a nontrivial numerical validation of bosonization in curved spacetime for the Schwinger model. Our central finding is that self-interactions lead to a suppression of gravitational particle production compared to the free-field case, as evidenced by two-point functions and the spectra of produced particles. We further examine the behavior of entanglement generation and find that interactions suppress entanglement growth in the $λφ^4$ theory, while in the Schwinger model, the interplay between suppressed particle production and enhanced inter-particle correlations leads to more complex entanglement behavior. Our results pave the way for further explorations of nonperturbative quantum real-time dynamics of interacting scalar and gauge theories in arbitrary gravitational backgrounds.",
+      "categories": [
+        "hep-th",
+        "astro-ph.CO",
+        "hep-lat",
+        "hep-ph"
+      ],
+      "published": "2026-01-05T18:23:52+00:00",
+      "updated": "2026-04-27T20:34:30+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.02331v2",
+      "html_url": "https://arxiv.org/html/2601.02331v2",
+      "entry_url": "http://arxiv.org/abs/2601.02331v2"
+    }
+  ],
+  "total": 3
+}

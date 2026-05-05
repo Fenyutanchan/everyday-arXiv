@@ -1,0 +1,153 @@
+{
+  "date": "2026-01-26",
+  "papers": [
+    {
+      "arxiv_id": "2601.18206v2",
+      "base_id": "2601.18206",
+      "title": "The Regge-Gribov model with odderons",
+      "authors": [
+        "M. A. Braun",
+        "E. M. Kuzminskii",
+        "M. I. Vyazovsky"
+      ],
+      "abstract": "The Regge-Gribov model describing interacting pomerons and odderons is proposed with triple reggeon vertices taking into account the negative signature of the odderon. Its simplified version with zero transverse dimensions is first considered. No phase transition occurs in this case at the intercept crossing unity. This simplified model is studied without more approximations by numerical techniques. The physically relevant model in the two-dimensional transverse space is then studied by the renormalization group method in the single loop approximation. The pomeron and odderon are taken to have different bare intercepts and slopes. The behaviour when the intercepts move from below to their critical values compatible with the Froissart limitation is studied. Five real fixed points are found with singularities in the form of non-trivial branch points indicating a phase transition as the intercepts cross unity. The new phases, however, are not physical, since they violate the projectile-target symmetry. In the vicinity of fixed points the asymptotical behaviour of Green functions and elastic scattering amplitude is found under Glauber approximation for couplings to participants.",
+      "categories": [
+        "hep-th",
+        "hep-ph"
+      ],
+      "published": "2026-01-26T06:46:00+00:00",
+      "updated": "2026-04-15T00:47:42+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.18206v2",
+      "html_url": "https://arxiv.org/html/2601.18206v2",
+      "entry_url": "http://arxiv.org/abs/2601.18206v2"
+    },
+    {
+      "arxiv_id": "2601.18310v3",
+      "base_id": "2601.18310",
+      "title": "Holographic timelike entanglement and subregion complexity with scalar hair",
+      "authors": [
+        "Hadyan Luthfan Prihadi",
+        "Muhammad Alifaldi Ramadhan Al-Faritsi",
+        "Rafi Rizqy Firdaus",
+        "Fitria Khairunnisa",
+        "Yanoar Pribadi Sarwono",
+        "Freddy Permana Zen"
+      ],
+      "abstract": "We investigate the holographic timelike entanglement entropy (HTEE) and timelike subregion complexity of a thermal CFT$_d$ deformed by a relevant scalar operator $φ_0$, dual to a hairy black hole in AdS$_{d+1}$. We employ the prescription of merging spacelike and timelike surfaces at the interior, constructing an extremal surface homologous to a boundary timelike subsystem with a time interval $Δt$. Consequently, this deformation breaks the invariance of the imaginary component of HTEE observed in pure AdS$_3$ and BTZ geometry, introducing a nontrivial dependence on $Δt$. At small $Δt$, we derive analytical expressions that are in agreement with numerical results, and observe partial consistency with analytic continuation to temporal or spacelike entanglement entropy at the level of the near-boundary expansion. However, analytic continuation of CFT temporal entanglement entropy fails to reproduce the HTEE calculations under boundary deformation, even in $d=2$. Furthermore, we extend the numerical calculations to higher dimensions ($d=3$). In addition, we study holographic timelike subregion complexity within the complexity=volume conjecture and find that it remains real-valued, providing a complementary geometric probe of the black hole interior. In particular, for the BTZ black hole, we analytically show that the UV-finite term of the subregion complexity receives its entire contribution from the interior region alone.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2026-01-26T09:45:53+00:00",
+      "updated": "2026-04-22T10:25:30+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.18310v3",
+      "html_url": "https://arxiv.org/html/2601.18310v3",
+      "entry_url": "http://arxiv.org/abs/2601.18310v3"
+    },
+    {
+      "arxiv_id": "2601.18048v3",
+      "base_id": "2601.18048",
+      "title": "Novel five-dimensional rotating Lifshitz black holes with electric and axionic charges",
+      "authors": [
+        "Moisés Bravo-Gaete",
+        "Jhony A. Herrera-Mendoza",
+        "Julio Oliva",
+        "Xiangdong Zhang"
+      ],
+      "abstract": "In this work, we construct a new family of exact five-dimensional charged and rotating asymptotically Lifshitz black holes. The spacetime solves Einstein equations coupled to a dilaton, two Abelian gauge fields, and axionic scalars supplemented by two generalized Chern-Simons terms. This configuration is characterized by a range of the free dynamical exponent $z$ and possesses nontrivial thermodynamical parameters, where we verify the first law of black hole thermodynamics and derive the corresponding Smarr relation. As an application of this new gravitational background, we then investigate a holographic superconductor in the rotating Lifshitz background. We study the condensation of the scalar operator and the AC conductivity of the dual system. These results show that increasing the rotation parameter suppresses the condensate and weakens the superconducting phase, while increasing the dynamical critical exponent enhances the superconducting order. To the best of our knowledge, these solutions provide the first explicit family of five-dimensional rotating Lifshitz black holes supported simultaneously by electric and axionic charges.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2026-01-26T00:31:07+00:00",
+      "updated": "2026-04-23T11:56:15+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.18048v3",
+      "html_url": "https://arxiv.org/html/2601.18048v3",
+      "entry_url": "http://arxiv.org/abs/2601.18048v3"
+    },
+    {
+      "arxiv_id": "2601.18422v2",
+      "base_id": "2601.18422",
+      "title": "Time-reversed Shannon entropy as a chaos indicator for non-integrable systems",
+      "authors": [
+        "Wenfu Cao",
+        "Siyan Chen",
+        "Hongsheng Zhang"
+      ],
+      "abstract": "We propose a novel chaos indicator -- time-reversed Shannon entropy (TRSE) -- that leverages the interplay between time-reversal symmetry breaking and information entropy in curved spacetimes. By quantifying statistical discrepancies between forward and backward temporal evolution of particle orbits, TRSE robustly distinguishes chaotic from regular dynamics in non-integrable systems. In contrast, integrable systems exhibit stable, symmetric probability distributions preserved by conserved quantities such as the Carter constant. We validate the method through high-precision numerical simulations in both Kerr and Schwarzschild-Melvin black hole geometries, evolving trajectories forward and backward in time. Furthermore, we refine our previously introduced particle-pair mutual information (MIPP) and perform comprehensive parameter-space scans, revealing a strong quantitative agreement between MIPP and TRSE. The two indicators emerge as complementary probes of chaos: TRSE captures symmetry breaking in orbital evolution, while MIPP measures statistical correlations. Together, they establish a unified framework for diagnosing chaos in general relativistic systems, paving a new path to understand the fundamental nature of chaos in non-integrable systems.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2026-01-26T12:32:34+00:00",
+      "updated": "2026-04-23T02:27:54+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.18422v2",
+      "html_url": "https://arxiv.org/html/2601.18422v2",
+      "entry_url": "http://arxiv.org/abs/2601.18422v2"
+    },
+    {
+      "arxiv_id": "2602.04888v2",
+      "base_id": "2602.04888",
+      "title": "Graph models for covariant holographic entropy I",
+      "authors": [
+        "Bowen Zhao"
+      ],
+      "abstract": "We construct a graph model for holographic entropies in general time-dependent spacetimes. In static settings, such models arise from Ryu-Takayanagi surfaces on a common Cauchy slice and imply that the holographic entropy cone is polyhedral. Extending this construction to the covariant Hubeny-Rangamani-Takayanagi (HRT) setting is obstructed by the absence of a preferred time slice, raising the possibility of unphysical \"short-cuts\" built from partial HRT surfaces.   We identify a geometric condition--the existence of exposed regions for each pair of HRT surfaces--under which this obstruction is removed. Under this condition, we construct weight functions by projecting along null generators of entanglement horizons and prove a Conditional No-Short-Cut Theorem: any graph cut is dominated by a surface composed of complete HRT surfaces. Consequently, the graph model reproduces HRT entropies, establishing the equivalence between the covariant and static holographic entropy cones in this regime.   We further show that configurations in which exposed regions are absent due to nesting of interaction regions can be partially resolved by grouping HRT surfaces into timelike clusters. This provides evidence that the graph model extends beyond the exposed-region regime and suggests a path toward a complete covariant construction.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2026-01-26T00:46:16+00:00",
+      "updated": "2026-04-27T07:16:35+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.04888v2",
+      "html_url": "https://arxiv.org/html/2602.04888v2",
+      "entry_url": "http://arxiv.org/abs/2602.04888v2"
+    },
+    {
+      "arxiv_id": "2601.18892v3",
+      "base_id": "2601.18892",
+      "title": "Non-Abelian and Type-A Conformal Anomalies from Euler Descent",
+      "authors": [
+        "Gleb Aminov",
+        "Csaba Csáki",
+        "Ofri Telem",
+        "Shimon Yankielowicz"
+      ],
+      "abstract": "We classify the non-Abelian anomaly of the Euclidean conformal group $SO(2n+1,1)$ in $2n$ dimensions via Stora-Zumino descent from its Euler invariant polynomial in $2n+2$ dimensions. In this way, we place the conformal anomaly on the same footing as ordinary perturbative 't Hooft anomalies. We also explore the relation of the non-Abelian anomaly to the known \\textit{type-A Weyl anomaly}, which involves projecting into a Weyl cocycle. We discuss implications for anomaly inflow, and 't Hooft anomaly matching for the full conformal group with a Wess-Zumino-Witten term. In 4d, this enables the construction of a dilaton effective action matching the full non-Abelian $SO(5,1)$ conformal anomaly.",
+      "categories": [
+        "hep-th",
+        "hep-ph"
+      ],
+      "published": "2026-01-26T19:02:22+00:00",
+      "updated": "2026-04-25T12:08:59+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.18892v3",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2601.18892v3"
+    },
+    {
+      "arxiv_id": "2601.18784v2",
+      "base_id": "2601.18784",
+      "title": "Baryonification III: An accurate analytical model for the dispersion measure probability density function of fast radio bursts",
+      "authors": [
+        "MohammadReza Torkamani",
+        "Robert Reischke",
+        "Michael Kovač",
+        "Andrina Nicola",
+        "Jozef Bucko",
+        "Alexandre Refregier",
+        "Sambit K. Giri",
+        "Aurel Schneider",
+        "Steffen Hagstotz"
+      ],
+      "abstract": "We develop an analytical framework to predict the one-point probability distribution function (PDF) of dispersion measures (DMs) for fast radio bursts (FRBs) within the baryonification (BFC) model. BFC provides a computationally efficient alternative to expensive hydrodynamical simulations for modelling baryonic effects on cosmological scales. By applying the halo mass function and halo bias, we convolve contributions from individual halos across a range of masses and redshifts to derive the large-scale structure contribution to the DM PDF. We validate our analytical predictions against consistency-check simulations and compare them with the IllustrisTNG hydrodynamical simulation over the redshift range $ z = 0$ to $z = 5$, demonstrating excellent agreement. We demonstrate that our model produces consistent results when fitting gas profiles and predicting the PDF, and vice versa. We show that the BFC parameters controlling the gas profile, particularly the halo mass scale ($M_\\mathrm{c}$), mass-dependent slope ($μ$), and outer truncation ($δ$), are the primary drivers of the PDF shape. Additionally, we investigate the validity of the log-normal approximation commonly used for DM distributions, finding that it provides a sufficient description for a few hundred FRBs. Our work provides a self-consistent model that links gas density profiles to integrated DM statistics, enabling future constraints on baryonic feedback processes from FRB observations.",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.HE"
+      ],
+      "published": "2026-01-26T18:51:10+00:00",
+      "updated": "2026-04-28T19:31:31+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.18784v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2601.18784v2"
+    }
+  ],
+  "total": 7
+}

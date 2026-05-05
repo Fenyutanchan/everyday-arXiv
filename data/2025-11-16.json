@@ -1,0 +1,50 @@
+{
+  "date": "2025-11-16",
+  "papers": [
+    {
+      "arxiv_id": "2511.12642v2",
+      "base_id": "2511.12642",
+      "title": "Auto-encoder model for faster generation of effective one-body gravitational waveform approximations",
+      "authors": [
+        "Suyog Garg",
+        "Feng-Li Lin",
+        "Kipp Cannon"
+      ],
+      "abstract": "Upgrades to current gravitational wave detectors for the next observation run and upcoming third-generation observatories, like the Einstein telescope, are expected to have enormous improvements in detection sensitivities and compact object merger event rates. Estimation of source parameters for a wider parameter space that these detectable signals will lie in, will be a computational challenge. Thus, it is imperative to have methods to speed-up the likelihood calculations with theoretical waveform predictions, which can ultimately make the parameter estimation faster and aid in rapid multi-messenger follow-ups. In this work we study auto-encoder models for gravitational waveform generation by adopting the best-performing architecture of Liao & Lin (2021) to approximate aligned-spin SEOBNRv4 inspiral-merger-ringdown waveforms. Our parameter space consists of four parameters, [$m_1$, $m_2$, $χ_1(z)$, $χ_2(z)$]. The masses are uniformly sampled in $[5,75]\\,M_{\\odot}$ with a mass ratio limit at $10\\,M_{\\odot}$, while the spins are uniform in $[-0.99,0.99]$. Our model is able to generate $10^3$ waveforms in $\\sim 0.1$ second at an average speed of about 50 microsecond per waveform on a GPU. This is about 4 orders of magnitude faster than the native SEOBNRv4 implementation, and 2--3 orders of magnitude faster than existing non-machine-learning accelerated waveform variants. The median mismatch for the generated waveforms in the test dataset is $\\sim10^{-2}$, with better performance in a restricted parameter space of $χ_{\\rm eff}\\in[-0.80,0.80]$. The latent sampling error of our model can be quantified at a median mismatch standard deviation of $4\\times10^{-3}$. Although the accuracy of our model does not enable full production-use yet, the model could be useful wherever high-volume of approximate theoretical waveforms are required, for instance, for rapid sky localization.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.IM",
+        "cs.LG"
+      ],
+      "published": "2025-11-16T15:18:37+00:00",
+      "updated": "2026-04-20T08:04:33+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.12642v2",
+      "html_url": "https://arxiv.org/html/2511.12642v2",
+      "entry_url": "http://arxiv.org/abs/2511.12642v2"
+    },
+    {
+      "arxiv_id": "2511.12488v3",
+      "base_id": "2511.12488",
+      "title": "The first AKRA mass map reconstruction from HSC Y1 data",
+      "authors": [
+        "Yuan Shi",
+        "Pengjie Zhang",
+        "Zhao Chen",
+        "Jian Qin",
+        "Li Cui",
+        "Furen Deng",
+        "Ji Yao"
+      ],
+      "abstract": "Weak lensing mass-mapping from shear catalogs faces systematic challenges from survey masks and spatially varying noise. To overcome these issues and reconstruct unbiased convergence $κ$ maps, we have constructed the AKRA (Accurate Kappa Reconstruction Algorithm), a prior-free and maximum-likelihood based analytical method. It has been validated for mock shear catalogs with a variety of survey masks. In this work, we present the first real-data application of the AKRA on the Subaru Hyper Suprime-Cam Year 1 (HSC Y1) data. We first validate AKRA using mock shear catalogs from the \\texttt{Kun} simulation suite, with masks corresponding to the six HSC Y1 regions (\\texttt{GAMA09H}, \\texttt{GAMA15H}, \\texttt{HECTOMAP}, \\texttt{VVDS}, \\texttt{WIDE12H}, and \\texttt{XMMLSS}). The investigated statistics, including the lensing power spectrum, $\\langle κ^2\\rangle$, $\\langle κ^3\\rangle$, and the one-point probability distribution function of $κ$, are all unbiased. We then apply AKRA to the HSC Y1 shear catalog and provide reconstructed $κ$ maps ready for subsequent scientific analyses.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2025-11-16T07:53:08+00:00",
+      "updated": "2026-04-22T14:21:36+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.12488v3",
+      "html_url": "https://arxiv.org/html/2511.12488v3",
+      "entry_url": "http://arxiv.org/abs/2511.12488v3"
+    }
+  ],
+  "total": 2
+}

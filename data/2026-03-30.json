@@ -1,0 +1,128 @@
+{
+  "date": "2026-03-30",
+  "papers": [
+    {
+      "arxiv_id": "2603.28604v2",
+      "base_id": "2603.28604",
+      "title": "Hadron Structure from lattice QCD in the context of the Electron-Ion Collider",
+      "authors": [
+        "Constantia Alexandrou"
+      ],
+      "abstract": "Hadron structure calculations using lattice Quantum Chromodynamics (QCD) have advanced significantly in recent years. Results for charges, form factors, and lower Mellin moments can be obtained to high precision, generalized parton distributions can now be computed either directly or reconstructed from moments, and transverse-momentum-dependent distributions can be accessed through direct lattice calculations. Together, these quantities provide detailed and complementary insights into the internal structure of hadrons. These theoretical developments are highly relevant to the experimental program of the Electron-Ion Collider (EIC) and of other facilities. We review the most pertinent lattice QCD results for hadron structure that inform the EIC scientific agenda, with particular emphasis on the pion, kaon, and nucleon.",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "published": "2026-03-30T15:54:32+00:00",
+      "updated": "2026-04-19T11:12:35+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.28604v2",
+      "html_url": "https://arxiv.org/html/2603.28604v2",
+      "entry_url": "http://arxiv.org/abs/2603.28604v2"
+    },
+    {
+      "arxiv_id": "2603.28880v3",
+      "base_id": "2603.28880",
+      "title": "Holographic two-point functions of heavy operators revisited",
+      "authors": [
+        "Prokopii Anempodistov"
+      ],
+      "abstract": "In this paper we investigate the holographic computation of the two-point functions of $\\frac{1}{2}$-BPS chiral primary operators with scaling dimensions $Δ\\sim N$ or $Δ\\sim N^2$ in $\\mathcal{N}=4$ $SU(N)$ SYM using Type IIB supergravity. First we consider giant graviton operators, resolving ambiguities in the previous literature on holographic computation of the two-point function, and make a new proposal for this calculation. We argue that the D3-brane action for the giant gravitons (as well as for their $\\frac{1}{4}$- and $\\frac{1}{8}$-BPS counterparts) should contain additional boundary terms which arise naturally from the path integral and which are required to make the variational problem well-defined. We derive the form of these terms and show that the corrected action has an on-shell value that reproduces the two-point function of the gauge theory operators. Then we consider operators with $Δ\\sim N^2$ and calculate the two-point function by evaluating the Gibbons-Hawking-York boundary term in the Type IIB pseudo-action in the Lin-Lunin-Maldacena bubbling geometry background.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2026-03-30T18:03:39+00:00",
+      "updated": "2026-04-16T18:15:16+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.28880v3",
+      "html_url": "https://arxiv.org/html/2603.28880v3",
+      "entry_url": "http://arxiv.org/abs/2603.28880v3"
+    },
+    {
+      "arxiv_id": "2603.28865v2",
+      "base_id": "2603.28865",
+      "title": "A Determination of the Top Mass from a Global PDF Analysis",
+      "authors": [
+        "Richard D. Ball",
+        "Jaco ter Hoeve",
+        "Roy Stegeman"
+      ],
+      "abstract": "We present an indirect determination of the top-quark pole mass $m_t$ within a global analysis of parton distribution functions (PDFs), based on the public NNPDF framework. We consider a wide range of measurements, including both single- and double-differential observables, computed at NNLO QCD accuracy with EW corrections, and analyse their individual as well as combined impact on the joint $(α_s, m_t)$ parameter space, while accounting for PDF evolution up to approximate ${\\rm N^3LO}$ QCD accuracy with QED corrections. We account for missing higher order QCD uncertainties by default. Unique to our analysis are the inclusion of, first, toponium contributions around the $t\\bar{t}$ threshold, second, state-of-the-art constraints on $α_s$ from the lattice, and finally, a detailed sensitivity study of the various ATLAS and CMS differential cross-section measurements at 8 and 13 TeV. We demonstrate explicitly how a combined determination requires the refitting of the PDFs in order to correctly correlate uncertainties. We find $m_t = 172.80 \\pm 0.26$ GeV at approximate N$^3$LO QCD including NLO QED, EW and toponium corrections.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2026-03-30T18:00:06+00:00",
+      "updated": "2026-04-15T10:47:55+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.28865v2",
+      "html_url": "https://arxiv.org/html/2603.28865v2",
+      "entry_url": "http://arxiv.org/abs/2603.28865v2"
+    },
+    {
+      "arxiv_id": "2603.29076v2",
+      "base_id": "2603.29076",
+      "title": "Probing Heavy Neutral Higgs Bosons via Single Vector-Like Bottom Quark Production at the HL-LHC",
+      "authors": [
+        "Rachid Benbrik",
+        "Mbark Berrouj",
+        "Mohammed Boukidi",
+        "Mohamed Ech-chaouy",
+        "Kholoud Kahime",
+        "Khawla Salime"
+      ],
+      "abstract": "We investigate the discovery prospects of a singly produced vector-like bottom quark in the Type-II Two-Higgs-Doublet Model extended by an $SU(2)_L$ vector-like $(T,B)$ doublet. We focus on the non-standard decay chain $B \\to φb$, followed by $φ\\to t\\bar{t}$, where $φ= H$ or $A$, leading to a final state with one charged lepton, missing transverse energy, and multiple $b$-jets. We perform a full simulation of both signal and Standard Model backgrounds at $\\sqrt{s}=14$ TeV. We show that the exotic channels $B \\to φb$ can dominate over the conventional decay modes, reaching branching ratios of order $50\\%$ for both neutral scalars in the alignment limit. A conventional cut-based analysis provides a $5σ$ discovery significance only at sufficiently high integrated luminosity. By contrast, an XGBoost-based multivariate analysis substantially improves the signal-background discrimination and extends the discovery reach up to $m_B \\simeq 1.3$ TeV with $600~\\mathrm{fb}^{-1}$ and up to $m_B \\simeq 1.6$ TeV with $3~\\mathrm{ab}^{-1}$, even in the presence of systematic uncertainties as large as $15\\%$.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-03-30T23:31:43+00:00",
+      "updated": "2026-04-21T19:23:56+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.29076v2",
+      "html_url": "https://arxiv.org/html/2603.29076v2",
+      "entry_url": "http://arxiv.org/abs/2603.29076v2"
+    },
+    {
+      "arxiv_id": "2603.28094v2",
+      "base_id": "2603.28094",
+      "title": "Classification of irreducible unitary modules over $\\mathfrak{u}(p,q|n)$",
+      "authors": [
+        "Mark D. Gould",
+        "Artem Pulemotov",
+        "Jorgen Rasmussen",
+        "Yang Zhang"
+      ],
+      "abstract": "We classify all irreducible highest-weight unitary modules over the non-compact real form $\\mathfrak{u}(p,q|n)$ of the general linear Lie superalgebra $\\mathfrak{gl}_{p+q|n}$. The classification is given by explicit necessary and sufficient conditions on the highest weights, and our approach combines the Howe duality for $\\mathfrak{gl}_{p+q|n}$ with a quadratic invariant of the maximal compact subalgebra. Using this classification result, we also classify all irreducible lowest-weight unitary modules over $\\mathfrak{u}(p,q|n)$ via duality, and all irreducible unitary modules over $\\mathfrak{u}(n|q,p)$ via an isomorphism of Lie superalgebras.",
+      "categories": [
+        "math.RT",
+        "hep-th",
+        "math-ph"
+      ],
+      "published": "2026-03-30T06:53:55+00:00",
+      "updated": "2026-04-27T10:37:32+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.28094v2",
+      "html_url": "https://arxiv.org/html/2603.28094v2",
+      "entry_url": "http://arxiv.org/abs/2603.28094v2"
+    },
+    {
+      "arxiv_id": "2603.28722v2",
+      "base_id": "2603.28722",
+      "title": "Rotating black hole shadows in metric-affine bumblebee gravity",
+      "authors": [
+        "Jose R. Nascimento",
+        "Ana R. M. Oliveira",
+        "Albert Yu. Petrov",
+        "Paulo J. Porfírio",
+        "Amilcar R. Queiroz"
+      ],
+      "abstract": "In this work, we investigate the structure of black hole shadows in the bumblebee gravity model formulated within the metric-affine framework, which incorporates spontaneous Lorentz symmetry breaking (LSB) through a vector field $B_μ$ with a non-zero vacuum expectation value. We analyze the influence of the dimensionless rotation parameter $a = J/M$ and the Lorentz-violating (LV) coefficient $X = ξb^2$ on the photon sphere radius, the critical impact parameter, and the shadow morphology. Using ray-tracing simulations with the GYOTO code and accretion disks, we observe that increasing values of $X$ induce progressive vertical flattening, asymmetric ``teardrop''-shaped deformations, and local collapse of the lower silhouette region, interacting with the rotational Doppler effect. These anisotropic signatures distinguish the bumblebee model from the standard Kerr metric and provide observational tests for LSB effects in strong gravity regimes, potentially detectable by the Event Horizon Telescope in sources such as M87* and Sgr A*.",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2026-03-30T17:38:22+00:00",
+      "updated": "2026-04-27T22:47:52+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.28722v2",
+      "html_url": "https://arxiv.org/html/2603.28722v2",
+      "entry_url": "http://arxiv.org/abs/2603.28722v2"
+    }
+  ],
+  "total": 6
+}

@@ -1,0 +1,86 @@
+{
+  "date": "2026-01-27",
+  "papers": [
+    {
+      "arxiv_id": "2601.19626v2",
+      "base_id": "2601.19626",
+      "title": "A self-consistent calculation of non-spherical Bose-Einstein correlation functions with Coulomb final-state interaction",
+      "authors": [
+        "Márton I. Nagy",
+        "Máté Csanád",
+        "Dániel Kincses"
+      ],
+      "abstract": "Particle correlations and femtoscopy are a rich subfield of high-energy physics. As the experimental data become more precise, there is an increasing need for the theoretical calculations to provide better and more general descriptions of the measurements. One of the important new directions is the investigation of the precise shape of the Bose-Einstein correlation functions utilizing Lévy-stable distributions. This work is a direct follow-up to our previous study, in which we developed a novel method for calculating Bose-Einstein correlation functions including the Coulomb final-state interaction. In this paper, we present a self-consistent generalization of the previous approach to non-spherical source functions and investigate the validity of the previously applied approximations assuming spherical symmetry. We present a software package that includes the calculation of a fully three-dimensional correlation function including the Coulomb interaction.",
+      "categories": [
+        "nucl-th",
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2026-01-27T14:04:18+00:00",
+      "updated": "2026-04-22T13:54:35+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.19626v2",
+      "html_url": "https://arxiv.org/html/2601.19626v2",
+      "entry_url": "http://arxiv.org/abs/2601.19626v2"
+    },
+    {
+      "arxiv_id": "2601.19878v2",
+      "base_id": "2601.19878",
+      "title": "Symmetric polynomials: DIM integrable systems versus twisted Cherednik systems",
+      "authors": [
+        "A. Mironov",
+        "A. Morozov",
+        "A. Popolitov"
+      ],
+      "abstract": "We discuss interrelations between eigenfunctions of the Hamiltonians associated with the commutative (integer ray) subalgebras of the Ding-Iohara-Miki algebra and those of the twisted Cherednik system. In the case of $t=q^{-m}$ with natural $m$, eigenfunctions of the first system of Hamiltonians are the twisted Baker-Akhiezer functions (BAFs) introduced by O. Chalykh, while eigenfunctions of the twisted Cherednik Hamiltonians are twisted non-symmetric Macdonald polynomials. Actually, the twisted Cherednik ground state is symmetric and coincides with a peculiar symmetric BAF. We lift this correspondence to excited states, and claim that both Cherednik eigenfunctions and BAF's can be combined to produce symmetric functions, which coincide with each other and are eigenfunctions of the both DIM Hamiltonians and power sums of the twisted Cherednik Hamiltonians at once. This reflects the correspondence between the DIM algebra and the spherical DAHA explicitly.",
+      "categories": [
+        "hep-th",
+        "math-ph",
+        "math.CO",
+        "math.QA"
+      ],
+      "published": "2026-01-27T18:42:33+00:00",
+      "updated": "2026-04-29T06:02:31+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.19878v2",
+      "html_url": "https://arxiv.org/html/2601.19878v2",
+      "entry_url": "http://arxiv.org/abs/2601.19878v2"
+    },
+    {
+      "arxiv_id": "2601.19386v2",
+      "base_id": "2601.19386",
+      "title": "Constraints on Primordial Black Holes from Galactic Diffuse Synchrotron Emissions",
+      "authors": [
+        "Chen-Wei Du",
+        "Yu-Feng Zhou"
+      ],
+      "abstract": "We investigate the possibility of constraining primordial black holes (PBHs) with masses $M_\\mathrm{PBH}\\gtrsim 10^{15}\\,\\mathrm{g}$ through Galactic diffuse synchrotron emissions. Due to Hawking radiation, these types of PBHs are expected to be stable sources of cosmic-ray (CR) electrons and positrons with energies below $\\mathcal{O}(10\\,\\mathrm{MeV})$. In many CR propagation models with diffusive re-acceleration characterized by a significant Alfvén velocity $V_a\\sim \\mathcal{O}(10)\\,\\mathrm{km/s}$, the energies of the evaporated electrons/positrons can be further enhanced to $\\mathcal{O}(100)\\,\\mathrm{MeV}$ through their scattering with the Galactic random magnetic fields. Consequently, the observation of Galactic synchrotron emissions at frequencies above $\\sim 20\\,\\mathrm{MHz}$ can provide useful constraints on the abundance of PBHs. Using the AMS-02 and Voyager-1 data on the boron-to-carbon nuclei flux ratio, we confirm that a significant Alfvén velocity $V_a \\sim 20\\,\\mathrm{km/s}$ is favored in several benchmark diffusive re-acceleration models. We show that, in this scenario, the observed low-frequency synchrotron emissions (from 22 MHz to 1.4 GHz) can provide stringent constraints on PBH abundance. The obtained conservative constraints are stronger than those derived from the Voyager-1 all-electron (electron plus positron) data by more than one order of magnitude for $M_\\mathrm{PBH}\\gtrsim 1\\times 10^{16}\\,\\mathrm{g}$, and also stronger than our previous constraints derived from the AMS-02 positron data for $M_\\mathrm{PBH}\\gtrsim 2\\times 10^{16}\\,\\mathrm{g}$.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.HE"
+      ],
+      "published": "2026-01-27T09:17:54+00:00",
+      "updated": "2026-04-30T10:35:19+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.19386v2",
+      "html_url": "https://arxiv.org/html/2601.19386v2",
+      "entry_url": "http://arxiv.org/abs/2601.19386v2"
+    },
+    {
+      "arxiv_id": "2601.19812v2",
+      "base_id": "2601.19812",
+      "title": "An essential building block for cosmological zoom-in perturbation theory",
+      "authors": [
+        "Obinna Umeh"
+      ],
+      "abstract": "The evolution of large-scale structure within the standard model of cosmology is well posed only up to the onset of shell crossing, where particle trajectories appear to intersect. Beyond this point, the evolution equations become non-predictive and perturbative approaches break down. We show that in General Relativity, a matter horizon forms before caustics develop for a well-defined initial over-density on an expanding FLRW spacetime. The matter horizon was first identified by Ellis and Stoeger in 2010 as a dynamical causal boundary that encloses a sub-region of spacetime where structure formation actually takes place. We construct a multi-scale hierarchical framework for the propagation of geodesic congruences that avoids the shell-crossing singularity by cutting the spacetime at the matter horizon and glueing to another spacetime with opposite orientation. We identify a relationship between the multi-scale hierarchical framework and the cosmological zoom-in N-body simulation approach, and relate the local sub-region that decouples from the Hubble flow to the region of interest in cosmological zoom-in N-body simulations. Most importantly, the multi-scale hierarchical framework provides a more robust way of implementing boundary conditions, which could benefit cosmological zoom-in N-body simulation approaches.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "published": "2026-01-27T17:14:15+00:00",
+      "updated": "2026-05-01T10:52:16+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.19812v2",
+      "html_url": "https://arxiv.org/html/2601.19812v2",
+      "entry_url": "http://arxiv.org/abs/2601.19812v2"
+    }
+  ],
+  "total": 4
+}

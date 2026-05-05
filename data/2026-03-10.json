@@ -1,0 +1,101 @@
+{
+  "date": "2026-03-10",
+  "papers": [
+    {
+      "arxiv_id": "2603.09334v2",
+      "base_id": "2603.09334",
+      "title": "Low-energy atmospheric neutrino flux calculation with accelerator-data-driven tuning",
+      "authors": [
+        "Kazufumi Sato",
+        "Hiroaki Menjo",
+        "Yoshitaka Itow",
+        "Morihiro Honda"
+      ],
+      "abstract": "We have incorporated a hadron interaction tuning based on accelerator data into our atmospheric neutrino flux calculation, which has been used to analyze atmospheric neutrino oscillations at Super-Kamiokande. This new approach enables a more direct evaluation of the flux uncertainty than a conventional tuning using atmospheric muons.   The neutrino flux calculated with this new tuning is 5\\%--10\\% smaller but still consistent with our previously published prediction within its uncertainty. The flavor ratio $(ν_μ+\\barν_μ)/(ν_e+\\barν_e)$ and $\\barν/ν$ ratios were consistent with the previous prediction. Based on the measurement errors of the accelerator data, we evaluated the flux uncertainty associated with the new tuning to be 7\\%--9\\% in the $E_ν <$ 1 GeV region, which was difficult to assess with the conventional tuning. The flux uncertainty in the $1<E_ν<10$ GeV region was evaluated to be 5\\%--7\\%, which is an improvement over the conventional tuning.",
+      "categories": [
+        "astro-ph.HE",
+        "hep-ph"
+      ],
+      "published": "2026-03-10T08:10:39+00:00",
+      "updated": "2026-04-20T01:38:24+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.09334v2",
+      "html_url": "https://arxiv.org/html/2603.09334v2",
+      "entry_url": "http://arxiv.org/abs/2603.09334v2"
+    },
+    {
+      "arxiv_id": "2603.09977v2",
+      "base_id": "2603.09977",
+      "title": "Does hot QCD have a conformal manifold in the chiral limit?",
+      "authors": [
+        "Shi Chen",
+        "Aleksey Cherman",
+        "Robert D. Pisarski"
+      ],
+      "abstract": "Recent lattice evidence suggests the chiral phase transition in QCD is second-order for $N_f \\ge 2$ massless flavors. We constrain CFT descriptions of a critical line in temperature $T$ and imaginary baryon chemical potential $θ_B = iμ_B/T$. An 't Hooft anomaly at general $θ_B$ constrains the transition even at $θ_B = 0$, leaving only three minimal scenarios. The best-motivated scenario for $N_f\\ge3$, and perhaps also $N_f = 2$, is beyond Ginzburg-Landau, featuring a conformal manifold of $θ_B$-dependent universality classes with an exactly marginal operator related to baryon density.",
+      "categories": [
+        "hep-th",
+        "hep-lat",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "published": "2026-03-10T17:59:59+00:00",
+      "updated": "2026-04-14T20:07:05+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.09977v2",
+      "html_url": "https://arxiv.org/html/2603.09977v2",
+      "entry_url": "http://arxiv.org/abs/2603.09977v2"
+    },
+    {
+      "arxiv_id": "2603.09973v2",
+      "base_id": "2603.09973",
+      "title": "Probing Physics Beyond the Standard Model through Combined Analyses of Next-Generation Type Ia Supernova, CMB, and BAO Surveys",
+      "authors": [
+        "Srinivasan Raghunathan",
+        "Ayan Mitra",
+        "Nikolina Šarčević",
+        "Fei Ge",
+        "Corentin Ravoux",
+        "Christos Georgiou",
+        "Renée Hložek",
+        "Richard Kessler",
+        "Gautham Narayan",
+        "Paul Rogozenski",
+        "Paul Shah",
+        "Georgios Valogiannis",
+        "Joaquin Vieira",
+        "the LSST Dark Energy Science Collaboration"
+      ],
+      "abstract": "Observations of Type Ia supernovae (\\sne), which probe the late Universe, together with baryon acoustic oscillations (BAO) and the cosmic microwave background (CMB), which probe the intermediate and early epochs, provide complementary constraints on the expansion history of the Universe. In this work, we forecast constraints on dark energy and other extensions to the standard cosmological model by combining the SNIa sample expected from the Vera C. Rubin Observatory's Legacy Survey of Space and Time (LSST), data from current and forthcoming CMB surveys, and BAO measurements from the Dark Energy Spectroscopic Instrument (DESI). For the CMB, we use temperature, polarization, and lensing power spectra ($TT/EE/TE/φφ$) from South Pole Telescope, the planned Advanced Simons Observatory, and a CMB-S4-like experiment. We derive constraints on $Λ{\\rm CDM}$ and its extensions involving the dark energy equation of state parameters $(w_{0}, w_{a})$ and the sum of neutrino masses $\\sum m_ν$, using a Markov Chain Monte Carlo (MCMC) sampling framework. We find that the LSST Year-3 SNIa sample can improve upon the DES Year-5 dark energy constraints by a factor of $\\times2-\\times2.5$, with the gains driven primarily by the significantly higher SNIa density in the LSST sample. Similarly, DESI-DR3 shows up to a $\\times1.8$ improvement on dark energy parameters over DR2, driven largely by the substantial increase in low-redshift sample. Combining CMB with LSST-Y3-SNIa and DESI-DR3-BAO yields $σ(w_{0}) = 0.028$ and $σ(w_{a}) = 0.11$ for $w_{0} w_{a} {\\rm CDM}$ cosmology with the results being largely independent of the CMB dataset. The constraints weaken by 10%-30% when freeing $\\sum m_ν$ and spatial curvature. Moreover, the joint analysis of the three datasets can enable a $2-3σ$ detection of $\\sum m_ν$.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2026-03-10T17:59:20+00:00",
+      "updated": "2026-04-24T02:00:44+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.09973v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2603.09973v2"
+    },
+    {
+      "arxiv_id": "2603.09327v2",
+      "base_id": "2603.09327",
+      "title": "Production of muonic kaon atoms at high-energy colliders",
+      "authors": [
+        "Xiaofeng Wang",
+        "Zebo Tang",
+        "Zhangbu Xu",
+        "Chi Yang",
+        "Wangmei Zha",
+        "Yifei Zhang"
+      ],
+      "abstract": "We develop a framework for the formation of exotic muonic kaon atoms ($Kμ$) in semileptonic $D^{0}$ decays, using the effective weak Hamiltonian, a helicity-based treatment of the leptonic current, and a nonrelativistic bound-state projection. The resulting branching ratio, $\\mathrm{BR}(D^{0} \\to (Kμ)ν_μ)=2.29\\times10^{-10}$, is implemented in a ROOT-based code to estimate yields at RHIC, LHC, and STCF. We show quantitatively that $Kμ$ atoms-also produced through coalescence in the quark-gluon plasma (QGP)-provide a sensitive probe of low-momentum primordial muons and early time electromagnetic radiation, offering complementary constraints in an otherwise unexplored phase space for thermal dilepton and photon emission. Newly estimated dissociation cross sections in detector material indicate that secondary-vertex reconstruction should be experimentally feasible, allowing clean experimental identification of the atoms. Projected yields from QGP coalescence in LHC and RHIC heavy-ion collisions, and from $D^{0}$ decays in LHC high luminosity $p+p$ collisions indicate that the first observation of $Kμ$ atoms is within reach.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-03-10T08:02:11+00:00",
+      "updated": "2026-04-30T08:08:46+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.09327v2",
+      "html_url": "https://arxiv.org/html/2603.09327v2",
+      "entry_url": "http://arxiv.org/abs/2603.09327v2"
+    }
+  ],
+  "total": 4
+}

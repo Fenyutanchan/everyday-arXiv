@@ -1,0 +1,103 @@
+{
+  "date": "2026-03-09",
+  "papers": [
+    {
+      "arxiv_id": "2603.08139v2",
+      "base_id": "2603.08139",
+      "title": "Formalizing the stability of the two Higgs doublet model potential into Lean: identifying an error in the literature",
+      "authors": [
+        "Joseph Tooby-Smith"
+      ],
+      "abstract": "In 2006, using the best methods and techniques available at the time, Maniatis, von Manteuffel, Nachtmann and Nagel published a now widely cited paper on the stability of the two Higgs doublet model (2HDM) potential. Twenty years on, it is now easier to apply the process of formalization into an interactive theorem prover to this work thanks to projects like Mathlib and Physlib (the latter formerly PhysLean and Lean-QuantumInfo), and to ask for a higher standard of mathematical correctness. Doing so has revealed an error in the arguments of this 2006 paper, invalidating their main theorem on the stability of the 2HDM potential. This case is noteworthy because to the best of our knowledge it is the first non-trivial error in a physics paper found through formalization. It was one of the first papers where formalization was attempted, which raises the uncomfortable question of how many physics papers would not pass this higher level of scrutiny.",
+      "categories": [
+        "hep-ph",
+        "cs.LO",
+        "hep-th"
+      ],
+      "published": "2026-03-09T09:16:22+00:00",
+      "updated": "2026-04-20T08:23:42+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.08139v2",
+      "html_url": "https://arxiv.org/html/2603.08139v2",
+      "entry_url": "http://arxiv.org/abs/2603.08139v2"
+    },
+    {
+      "arxiv_id": "2603.08705v2",
+      "base_id": "2603.08705",
+      "title": "A proof of conservation laws in gravitational scattering: tails and breaking of peeling",
+      "authors": [
+        "Geoffrey Compère",
+        "Sébastien Robert"
+      ],
+      "abstract": "We propose a definition of asymptotically flat spacetimes that is consistent with both null infinities and compatible with known properties of gravitational scattering, incoming and outgoing radiation, and interactions with matter. For this class of spacetimes, we prove three antipodal matching conditions at spatial infinity: one for the so-called dual mass aspect, one for the leading tail of the shear, and one that non-trivially relates the peeling properties of the spacetime at past and null infinities to the leading tail and mass aspect at spatial infinity. Furthermore, we reformulate these identities as asymptotic conservation laws defined on the boundary hyperboloid at spatial infinity.",
+      "categories": [
+        "hep-th",
+        "gr-qc",
+        "math-ph"
+      ],
+      "published": "2026-03-09T17:58:55+00:00",
+      "updated": "2026-04-20T07:57:10+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.08705v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2603.08705v2"
+    },
+    {
+      "arxiv_id": "2603.08280v2",
+      "base_id": "2603.08280",
+      "title": "Gordan-Rankin-Cohen operators on the spaces of weighted densities in superdimension $1\\vert 1$",
+      "authors": [
+        "V. Bovdi",
+        "D. Leites"
+      ],
+      "abstract": "The modular forms and weighted densities over the 1-dimensional manifold $M$ are transformed ``alike\" under the group of linear fractional changes of coordinates, so the classifications of differential operators between spaces of (A) modular forms and (B) weighted densities are sometimes identified, although they are different. Here, we solve problem B for superstrings in superdimension $(1\\vert 1)$ -- superizations of the result of arXiv:2404.18222. Open problems are offered.",
+      "categories": [
+        "math.RT",
+        "hep-th",
+        "math-ph"
+      ],
+      "published": "2026-03-09T11:52:14+00:00",
+      "updated": "2026-04-24T15:28:54+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.08280v2",
+      "html_url": "https://arxiv.org/html/2603.08280v2",
+      "entry_url": "http://arxiv.org/abs/2603.08280v2"
+    },
+    {
+      "arxiv_id": "2603.08408v2",
+      "base_id": "2603.08408",
+      "title": "Local Origin of Hidden Symmetry in Rotating Spacetimes",
+      "authors": [
+        "Hyeong-Chan Kim"
+      ],
+      "abstract": "We show that, within a broad stationary-axisymmetric class, Kerr-type separability and hidden symmetry arise as a local consequence of the Einstein equations. Without assuming separability, algebraic speciality, Killing--Yano symmetry, or global boundary conditions, we analyze stationary and axisymmetric geometries in a locally non-rotating orthonormal frame and impose a minimal local equilibrium condition, namely the absence of mixed energy-momentum fluxes. We find that the mixed Einstein equations enforce a rigid projective alignment between radial and angular sectors, uniquely characterized by a constant-Schwarzian constraint. This constraint yields a universal classification of local solutions into Möbius, exponential, and trigonometric branches, of which global regularity selects precisely the Kerr-type sector. In this sense, the kinematical core of Kerr geometry is already fixed locally, and the Schwarzian structure provides the local origin of Kerr rigidity.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE",
+        "hep-th"
+      ],
+      "published": "2026-03-09T14:04:28+00:00",
+      "updated": "2026-04-28T00:25:54+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.08408v2",
+      "html_url": "https://arxiv.org/html/2603.08408v2",
+      "entry_url": "http://arxiv.org/abs/2603.08408v2"
+    },
+    {
+      "arxiv_id": "2603.08943v2",
+      "base_id": "2603.08943",
+      "title": "Linking Axions, the Flavor Problem, and Neutrino Masses through a Flavored Peccei-Quinn Symmetry",
+      "authors": [
+        "Yithsbey Giraldo",
+        "Eduardo Rojas",
+        "Juan C. Salazar"
+      ],
+      "abstract": "Recent measurements by several experimental collaborations have reported deviations from Standard Model (SM) predictions in diphoton final states, potentially hinting at the existence of intermediate scalar resonances above the electroweak scale. Such anomalies can be naturally accommodated within SM extensions featuring an enlarged scalar sector. In particular, multi-Higgs doublet frameworks arise in Flavored Axion Models (FAMs), which have been proposed to explain the texture zeros of quark mass matrices. These models provide a unified description of quark masses and the Cabibbo-Kobayashi-Maskawa (CKM) mixing matrix while simultaneously addressing the strong CP problem. In this work we study a concrete FAM realization augmented with Majorana masses for right-handed neutrinos, implementing a type-I seesaw mechanism. In this model the flavor structure is effectively determined by the vacuum expectation values of the scalar doublets and Yukawa couplings of order one. Within this framework, neutrino and axion mass scales are intrinsically connected, as the heavy right-handed neutrinos obtain their masses from the scalar field responsible for the spontaneous breaking of the Peccei-Quinn symmetry. We further explore the phenomenological implications of the model, including constraints from flavor-changing neutral currents derived from semileptonic decays, as well as current experimental limits on the axion-photon coupling obtained from axion search experiments.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-03-09T21:26:35+00:00",
+      "updated": "2026-04-28T00:15:33+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.08943v2",
+      "html_url": "https://arxiv.org/html/2603.08943v2",
+      "entry_url": "http://arxiv.org/abs/2603.08943v2"
+    }
+  ],
+  "total": 5
+}

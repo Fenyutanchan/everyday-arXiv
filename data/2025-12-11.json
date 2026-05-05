@@ -1,0 +1,113 @@
+{
+  "date": "2025-12-11",
+  "papers": [
+    {
+      "arxiv_id": "2512.10709v3",
+      "base_id": "2512.10709",
+      "title": "Disperon QED",
+      "authors": [
+        "Yizhou Fang",
+        "Sophie Kollatzsch",
+        "Marco Rocco",
+        "Adrian Signer",
+        "Yannick Ulrich",
+        "Max Zoller"
+      ],
+      "abstract": "We present disperon QED, a method to deal with data input in loop processes in Monte Carlo codes. It relies on dispersion relations, automated tools such as OpenLoops, effective field theory methods and a threshold subtraction. We motivate this method and apply it to the process $ee\\toππ$ in McMule to deal with hadronic vacuum polarisation insertions in two-loop contributions as well as the vector form factor of the pion within the form-factor scalar QED approximation. The generality of this method for more complicated processes is emphasised.",
+      "categories": [
+        "hep-ph",
+        "hep-ex",
+        "nucl-th"
+      ],
+      "published": "2025-12-11T14:48:02+00:00",
+      "updated": "2026-04-20T08:07:23+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.10709v3",
+      "html_url": "https://arxiv.org/html/2512.10709v3",
+      "entry_url": "http://arxiv.org/abs/2512.10709v3"
+    },
+    {
+      "arxiv_id": "2512.11026v2",
+      "base_id": "2512.11026",
+      "title": "Weak Scale Triggers in the SMEFT",
+      "authors": [
+        "Pier Giuseppe Catinari",
+        "Raffaele Tito D'Agnolo",
+        "Pablo Sesma"
+      ],
+      "abstract": "There are no weak scale triggers in the SMEFT up to dimension six that can solve the hierarchy problem far above the weak scale. Our arguments can be used to show that the same is true at dimension eight. Weak scale triggers are local operators sensitive to the Higgs mass squared and they are needed in a large number of qualitatively different cosmological solutions to the hierarchy problem. These solutions have little in common besides the use of a trigger operator. We argue that focusing on the signatures of the three already-known trigger operators can lead to discover or exclude this class of solutions to the hierarchy problem.",
+      "categories": [
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2025-12-11T19:00:00+00:00",
+      "updated": "2026-04-22T14:35:10+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.11026v2",
+      "html_url": "https://arxiv.org/html/2512.11026v2",
+      "entry_url": "http://arxiv.org/abs/2512.11026v2"
+    },
+    {
+      "arxiv_id": "2512.10343v2",
+      "base_id": "2512.10343",
+      "title": "Stationary Stars Are Axisymmetric in Higher Curvature Gravity",
+      "authors": [
+        "Nitesh K. Dubey",
+        "Sanved Kolekar",
+        "Sudipta Sarkar"
+      ],
+      "abstract": "The final equilibrium stage of stellar evolution can result in either a black hole or a compact object such as a white dwarf or neutron star. In general relativity, both stationary black holes and stationary stellar configurations are known to be axisymmetric, and black hole rigidity has been extended to several higher curvature modifications of gravity. In contrast, no comparable result had previously been established for stationary stars beyond general relativity. In this work we extend the stellar axisymmetry theorem to a broad class of diffeomorphism invariant metric theories. Assuming asymptotic flatness and standard smoothness requirements, we show that the Killing symmetry implied by thermodynamic equilibrium inside the star uniquely extends to the exterior region, thereby enforcing rotational invariance. This demonstrates that axisymmetry of stationary stellar configurations is not a feature peculiar to Einstein gravity but a universal property of generally covariant gravitational theories, persisting even in the presence of higher curvature corrections.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE",
+        "astro-ph.SR",
+        "hep-th"
+      ],
+      "published": "2025-12-11T06:53:21+00:00",
+      "updated": "2026-04-23T06:04:14+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.10343v2",
+      "html_url": "https://arxiv.org/html/2512.10343v2",
+      "entry_url": "http://arxiv.org/abs/2512.10343v2"
+    },
+    {
+      "arxiv_id": "2512.11118v2",
+      "base_id": "2512.11118",
+      "title": "Network-Irreducible Multiparty Entanglement in Quantum Matter",
+      "authors": [
+        "Liuke Lyu",
+        "Pedro Lauand",
+        "William Witczak-Krempa"
+      ],
+      "abstract": "We show that the standard approach to characterize collective entanglement via genuine multiparty entanglement (GME) leads to an area law in ground and thermal Gibbs states of local Hamiltonians. To capture the truly collective part one needs to go beyond this short-range contribution tied to interfaces between subregions. Genuine network multiparty entanglement (GNME) achieves a systematic resolution of this goal by analyzing whether a $k$-party state can be prepared by a quantum network consisting of $(k-1)$-partite resources. We develop tools to certify and quantify GNME, and benchmark them for GHZ, W and Dicke states. We then study the 1d transverse field Ising model, where we find a sharp peak of GNME near the critical phase transition, and rapid suppression elsewhere. Finite temperature leads to a faster death of GNME compared to GME. Furthermore, certain 2d quantum spin liquids do not have GNME in microscopic subregions while possessing strong GME. This approach will allow to chart truly collective entanglement in quantum matter both in and out of equilibrium.",
+      "categories": [
+        "quant-ph",
+        "cond-mat.str-el",
+        "hep-th"
+      ],
+      "published": "2025-12-11T20:59:22+00:00",
+      "updated": "2026-04-27T03:44:37+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.11118v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2512.11118v2"
+    },
+    {
+      "arxiv_id": "2512.10513v2",
+      "base_id": "2512.10513",
+      "title": "A Nonlocal Realization of MOND that Interpolates from Cosmology to Gravitationally Bound Systems",
+      "authors": [
+        "C. Deffayet",
+        "R. P. Woodard"
+      ],
+      "abstract": "Nonlocal modifications of gravity derive from corrections to the quantum gravitational stress tensor which grow nonperturbatively strong during primordial inflation and may persist to the current epoch. Phenomenological constructions have been given that realize MOND in gravitationally bound systems and, separately, reproduce all the cosmological phenomena usually ascribed to dark matter, including the cosmic microwave background radiation, baryon acoustic oscillations and linearized structure formation. In this work we exhibit a single model that interpolates between the two regimes.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-th"
+      ],
+      "published": "2025-12-11T10:34:29+00:00",
+      "updated": "2026-04-30T17:01:54+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.10513v2",
+      "html_url": "https://arxiv.org/html/2512.10513v2",
+      "entry_url": "http://arxiv.org/abs/2512.10513v2"
+    }
+  ],
+  "total": 5
+}

@@ -1,0 +1,132 @@
+{
+  "date": "2025-09-18",
+  "papers": [
+    {
+      "arxiv_id": "2509.15317v2",
+      "base_id": "2509.15317",
+      "title": "On Scalar Cosmological Perturbations in Non-Minimally Coupled Weyl Connection Gravity",
+      "authors": [
+        "M. Lima",
+        "C. Gomes"
+      ],
+      "abstract": "We analyze a theory with non-minimal matter-curvature coupling, considering non-metricity properties with a Weyl connection. This model has the advantage of an extra force term which can mimic dark matter and dark energy, and simultaneously follow Weyl's idea to unify gravity and electromagnetism. Indeed, Schwarzschild-like and Reissner-Nordstrom-like black hole solutions exist in this model, leading to new features, such as an additional horizon, due to the non-metricity vector. We derive the cosmological field equations, considering a minimal coupling, and discuss preliminary results on the scalar cosmological perturbations in this model.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-09-18T18:06:04+00:00",
+      "updated": "2026-04-14T15:50:28+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.15317v2",
+      "html_url": "https://arxiv.org/html/2509.15317v2",
+      "entry_url": "http://arxiv.org/abs/2509.15317v2"
+    },
+    {
+      "arxiv_id": "2509.14810v3",
+      "base_id": "2509.14810",
+      "title": "Krylov Complexity for Open Quantum System: Dissipation and Decoherence",
+      "authors": [
+        "Arpan Bhattacharyya",
+        "Sayed Gool",
+        "S. Shajidul Haque"
+      ],
+      "abstract": "We investigate Krylov complexity in open quantum systems using Lindblad master equations for bosonic bath models, with particular emphasis on the Caldeira--Leggett model. Krylov complexity is computed from the moments of the two-point function within the standard master equation framework. For the damped harmonic oscillator, the results reveal clear dissipative features in Krylov complexity. In the Caldeira--Leggett model, in the high-temperature limit, we find that Krylov complexity saturates in the full system and reproduces the expected dissipative behavior when the decoherence term is suppressed in the master equation. Conversely, when the dissipative term is suppressed, the contribution from decoherence exhibits the familiar oscillatory dynamics of the coherent system, along with additional novel features. However, Krylov complexity appears insensitive to the onset of decoherence, as no clear distinctive signature is observed. We attribute this to the fact that Krylov complexity is defined in the Krylov basis, which does not coincide with the conventional basis typically used to study decoherence.",
+      "categories": [
+        "hep-th",
+        "quant-ph"
+      ],
+      "published": "2025-09-18T10:12:01+00:00",
+      "updated": "2026-04-20T18:35:42+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.14810v3",
+      "html_url": "https://arxiv.org/html/2509.14810v3",
+      "entry_url": "http://arxiv.org/abs/2509.14810v3"
+    },
+    {
+      "arxiv_id": "2509.15303v2",
+      "base_id": "2509.15303",
+      "title": "Neutron star evolution with the Bemfica-Disconzi-Noronha-Kovtun viscous hydrodynamics framework",
+      "authors": [
+        "Harry L. H. Shum",
+        "Fernando Abalos",
+        "Yago Bea",
+        "Miguel Bezares",
+        "Pau Figueras",
+        "Carlos Palenzuela"
+      ],
+      "abstract": "The recently proposed first-order viscous relativistic hydrodynamics formulation by Bemfica, Disconzi, Noronha, and Kovtun (commonly known as the BDNK formulation) has been shown to be causal, stable, strongly hyperbolic, and thus locally well-posed. It is now a viable new option for modelling out-of-equilibrium effects in fluids, and has attracted wide attention in its potential applications to astrophysical systems. In this work, we present the first non-linear numerical simulation of spherically symmetric neutron stars using the BDNK formulation under the Cowling approximation. Using a simplified equation of state, we show that stable evolutions can be constructed within a restricted parameter space up to the simulation time we explored. From these simulations, we analyse the frequency content of the quasi-normal modes and the decay rate of the fundamental mode. This analysis serves as a first step towards constructing a fully consistent model of neutron stars using the BDNK formulation.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE",
+        "nucl-th"
+      ],
+      "published": "2025-09-18T18:00:02+00:00",
+      "updated": "2026-04-23T09:24:45+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.15303v2",
+      "html_url": "https://arxiv.org/html/2509.15303v2",
+      "entry_url": "http://arxiv.org/abs/2509.15303v2"
+    },
+    {
+      "arxiv_id": "2509.15002v2",
+      "base_id": "2509.15002",
+      "title": "Can Hawking effect of multipartite state protect quantum resources in Schwarzschild black hole?",
+      "authors": [
+        "Shu-Min Wu",
+        "Xiao-Wei Teng",
+        "Hui-Chen Yang",
+        "Rui-Yang Xu",
+        "P. H. M. Barros",
+        "H. A. S. Costa"
+      ],
+      "abstract": "Most previous studies on relativistic quantum information have primarily focused on the vacuum state $|0\\rangle$ and the first excited state $|1\\rangle$ in two-mode entangled systems. In this work, we go beyond these limitations by considering arbitrary $q$-th excited states $|q\\rangle$, aiming to investigate their role in preserving quantum resources. We analyze the influence of the Hawking effect on multipartite quantum states in the Schwarzschild spacetime, with particular attention to quantum entanglement and coherence. Our results show that, under the influence of the Hawking effect, increasing the excitation number $q$ leads to a reduction in quantum entanglement and mutual information, while enhancing quantum coherence. This indicates that the Hawking effect on excited multipartite states tends to degrade quantum correlations but simultaneously protects quantum coherence in curved spacetime. Therefore, when implementing quantum information protocols in gravitational settings, reducing the excitation number $q$ is favorable for maintaining entanglement, whereas increasing $q$ may be advantageous for tasks that rely on quantum coherence in relativistic quantum information processing.",
+      "categories": [
+        "gr-qc",
+        "quant-ph"
+      ],
+      "published": "2025-09-18T14:37:27+00:00",
+      "updated": "2026-04-23T08:57:21+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.15002v2",
+      "html_url": "https://arxiv.org/html/2509.15002v2",
+      "entry_url": "http://arxiv.org/abs/2509.15002v2"
+    },
+    {
+      "arxiv_id": "2509.15453v2",
+      "base_id": "2509.15453",
+      "title": "CosmoGen: A genetic algorithm framework for the exploration of dark energy dynamics",
+      "authors": [
+        "D. Castelão",
+        "I. Tereno"
+      ],
+      "abstract": "The standard Lambda cold dark matter ($Λ$CDM) paradigm of the physical Universe suffers from well-known conceptual problems and is challenged by observational data. Alternative models exist in the literature, both phenomenological and physically motivated, but many of them suffer from similar or new problems. We propose a method to mechanically generate alternative models in a data-informed procedure tuned to mitigate specific problems. We implemented a computational framework, dubbed CosmoGen, based on evolutionary algorithms for symbolic regression. The evolutionary process is guided by the computation of structure formation and background cosmological quantities. As a proof-of-concept, we applied the procedure to the specific case of dark energy fluid models and asked the framework to generate models capable of alleviating the cosmological tensions $S_8$ and $H_0$. The system generated models with high fitness values, and through a Bayesian analysis of an illustrative model, we show that the model indeed alleviates the tensions, even though the Bayes factor indicates a weaker preference for $Λ$CDM.",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.IM"
+      ],
+      "published": "2025-09-18T21:50:42+00:00",
+      "updated": "2026-04-29T18:12:50+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.15453v2",
+      "html_url": "https://arxiv.org/html/2509.15453v2",
+      "entry_url": "http://arxiv.org/abs/2509.15453v2"
+    },
+    {
+      "arxiv_id": "2509.15295v2",
+      "base_id": "2509.15295",
+      "title": "Living on the edge: a non-perturbative resolution to the negativity of bulk entropies",
+      "authors": [
+        "Stefano Antonini",
+        "Luca V. Iliesiu",
+        "Pratik Rath",
+        "Patrick Tran"
+      ],
+      "abstract": "Lin, Maldacena, Rozenberg, and Shan (LMRS) presented a new information paradox in black hole physics by noticing that the entanglement and Rényi entropies in a two-sided black hole can become negative when the geometry contains a very large number of matter excitations behind the black hole horizon. While originally this puzzle was presented in the context of BPS two-sided black holes in two-dimensional supergravity, the negativity in fact persists for more general two-sided black holes in the presence of a large number of matter excitations. Since the entanglement and Rényi entropies in ordinary quantum systems cannot be negative, resolving this puzzle is a necessary step towards understanding the quantum mechanical description of black holes. In this paper, we explain how to address the entanglement negativity puzzle, both in the original setting discussed by LMRS and in more general non-supersymmetric settings, by summing over all non-perturbative contributions to the gravitational path integral. We then interpret this result from the point of view of a dual matrix integral, which we use to extend our analysis beyond the regime of validity of the genus re-summation performed in the gravitational path integral. In this regime, positivity is rescued by new saddles of the matrix integral, a one-eigenvalue instanton and a two-eigenvalue instanton. Finally, we formulate a similar puzzle and its resolution using random tensor network techniques.",
+      "categories": [
+        "hep-th",
+        "gr-qc",
+        "quant-ph"
+      ],
+      "published": "2025-09-18T18:00:00+00:00",
+      "updated": "2026-05-01T00:45:22+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.15295v2",
+      "html_url": "https://arxiv.org/html/2509.15295v2",
+      "entry_url": "http://arxiv.org/abs/2509.15295v2"
+    }
+  ],
+  "total": 6
+}

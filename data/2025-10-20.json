@@ -1,0 +1,86 @@
+{
+  "date": "2025-10-20",
+  "papers": [
+    {
+      "arxiv_id": "2510.17597v4",
+      "base_id": "2510.17597",
+      "title": "Photon radiation induced by rescattering in strong-interacting medium with a magnetic field",
+      "authors": [
+        "Yue Zhang",
+        "Han-Zhong Zhang"
+      ],
+      "abstract": "The photon radiation induced by rescattering in a magnetized medium is investigated in relativistic heavy-ion collisions. Within the high-energy limit, the photon emission rate and the associated electromagnetic energy loss are derived using the Gyulassy-Levai-Vitev formalism at first order in opacity, for a quark jet propagating a quark-gluon plasma under a background magnetic field. Quantitative analysis shows a slight suppression of the overall photon radiation over a broad range of jet energies in this process. This reduction in photon yield consequently leads to a moderate decrease in the electromagnetic energy loss of the jet. Our results contribute to a better understanding of the electromagnetic properties of strongly interacting matter in high-energy nucleus-nucleus collisions and motivate experimental comparison of photon yields from quark-gluon plasma with similar properties but distinct magnetic field strengths.",
+      "categories": [
+        "nucl-th",
+        "hep-th"
+      ],
+      "published": "2025-10-20T14:47:42+00:00",
+      "updated": "2026-04-20T06:21:24+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.17597v4",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2510.17597v4"
+    },
+    {
+      "arxiv_id": "2510.17387v3",
+      "base_id": "2510.17387",
+      "title": "One-loop QED and Weak Corrections to $γγ\\to H^\\pm H^\\mp$ in the Inert Doublet Model",
+      "authors": [
+        "Hamza Abouabid",
+        "Abdesslam Arhrib",
+        "Jaouad El Falaki",
+        "Bin Gong",
+        "Qi-Shu Yan"
+      ],
+      "abstract": "We present a complete one-loop analysis of charged scalar boson pair production in photon-photon collisions, $γγ\\to H^\\pm H^\\mp$, within the framework of the Inert Doublet Model (IDM). The calculation is carried out in the on-shell renormalization scheme and incorporates both weak corrections and QED effects, including soft and hard photon radiation. Virtual loop contributions and real emission processes are computed using the Feynman diagrammatic method, ensuring the cancellation of ultraviolet and infrared divergences. To properly account for the Coulomb singularity that arises in the QED sector near threshold, we introduce the resummed cross section based on the Sommerfeld factor. The IDM parameter space is explored under theoretical consistency conditions, collider limits, and dark matter constraints, and three representative scenarios are studied in detail. We find that the magnitude of the quantum corrections is strongly controlled by the absolute value of the trilinear scalar coupling $λ_{h^0 H^+ H^-}$, which correlates with the charged scalar mass. When all constraints are applied, the weak corrections are typically in the range of $-12\\%$ to $-7\\%$ at $\\sqrt{s}=250$~GeV, and between $-15\\%$ and $6\\%$ at $\\sqrt{s}=500$~GeV. At higher energies, such as $\\sqrt{s}=1$~TeV, the corrections can become very large, ranging from about $-20\\%$ up to $+60\\%$. Our findings highlight the significant role of higher-order effects in photon-photon collisions and establish $γγ\\to H^\\pm H^\\mp$ as a promising process to investigate the charged scalar sector of the IDM at future high-energy photon colliders. Several benchmark points are proposed to facilitate future experimental searches.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-10-20T10:25:39+00:00",
+      "updated": "2026-04-16T12:44:10+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.17387v3",
+      "html_url": "https://arxiv.org/html/2510.17387v3",
+      "entry_url": "http://arxiv.org/abs/2510.17387v3"
+    },
+    {
+      "arxiv_id": "2510.17730v2",
+      "base_id": "2510.17730",
+      "title": "Automated computation of spin-density matrices and quantum observables for collider physics",
+      "authors": [
+        "Valentin Durupt",
+        "Fabio Maltoni",
+        "Olivier Mattelaer"
+      ],
+      "abstract": "We present a fully automated framework to compute production spin-density matrices for generic collider processes at tree level within \\textsc{MadGraph5\\_aMC@NLO}. The method assembles helicity amplitudes into event-by-event production matrices. These are written to the LHE file in a compact form, together with run metadata, enabling direct post-processing of quantum observables. The implementation supports bi- and multipartite qubit and qutrit final states, configurable reference frames, and both polarised and unpolarised initial states. A companion, easy-to-extend library provides analysis routines to determine key quantum-information measures and witnesses. These include purity, concurrence, and entanglement of formation for qubits; Peres--Horodecki tests and negativity; spin-polarisation vectors and correlation matrices; $D$-coefficients; and stabiliser-based ``magic'' measures. As a result, multi-particle quantum correlations can be quantified systematically. We validate the implementation against known results for $t\\bar t$ and $VV$ ($V=W^\\pm,Z$) production in $pp$ and $e^+e^-$ collisions and in heavy-resonance decays. We then consider new applications and study quantum correlations in several LHC final states: $t\\bar t W^\\pm$, $tW^-$ vs.\\ $t(\\bar t\\to W^- \\bar b)$, and $t\\bar t t$ vs. $t\\bar t t\\bar t$.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-10-20T16:44:34+00:00",
+      "updated": "2026-04-25T13:32:03+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.17730v2",
+      "html_url": "https://arxiv.org/html/2510.17730v2",
+      "entry_url": "http://arxiv.org/abs/2510.17730v2"
+    },
+    {
+      "arxiv_id": "2510.17549v4",
+      "base_id": "2510.17549",
+      "title": "Electromagnetic form factors and structure of the $T_{bb}$ tetraquark from lattice QCD",
+      "authors": [
+        "Ivan Vujmilovic",
+        "Sara Collins",
+        "Luka Leskovec",
+        "Sasa Prelovsek"
+      ],
+      "abstract": "We present the first lattice QCD determination of the electromagnetic form factors of the exotic tetraquark $T_{bb} \\ (bb \\bar u \\bar d)$ with quantum numbers $I( J^P ) = 0( 1^+ )$. The extracted form factors encode information about its internal structure, including the charge distribution and the magnetic dipole moments, determined separately for the light and heavy quarks. Our results provide evidence in favor of it being a bound state consisting of a compact heavy diquark $[bb]$ in a color-antitriplet with spin one, and a light antidiquark $[\\bar u \\bar d]$ in a color-triplet with spin zero. The charge radius of $T_{bb}$ is found to be significantly smaller than the combined charge radii of $B$ and $B^*$ mesons. These two comprise the lowest-lying threshold $BB^*$ in the channel we are considering, and their electric charge form factors are also determined. The computations were performed on a single CLS ensemble with $N_f = 2+1$ dynamical quarks and a lattice spacing of approximately $a \\approx0.064 \\ \\mathrm{fm}$ at the pion mass $m_π\\approx 290 \\ \\mathrm{MeV}$.",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "published": "2025-10-20T13:58:04+00:00",
+      "updated": "2026-04-29T14:32:34+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.17549v4",
+      "html_url": "https://arxiv.org/html/2510.17549v4",
+      "entry_url": "http://arxiv.org/abs/2510.17549v4"
+    }
+  ],
+  "total": 4
+}

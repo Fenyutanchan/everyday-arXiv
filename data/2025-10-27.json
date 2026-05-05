@@ -1,0 +1,87 @@
+{
+  "date": "2025-10-27",
+  "papers": [
+    {
+      "arxiv_id": "2510.23750v2",
+      "base_id": "2510.23750",
+      "title": "Study of Neutron Star Properties under the Two-Flavor Quark NJL Model",
+      "authors": [
+        "Chunran Zhu",
+        "Bolin Li"
+      ],
+      "abstract": "The Equation of State (EOS) of matter within neutron stars is a central topic in nuclear physics and astrophysics.This study investigates hadron-quark hybrid stars by integrating the density-dependent DDME2 relativistic mean-field model for hadronic matter with a two-flavor Nambu-Jona-Lasinio (NJL) model for quark matter.A quintic polynomial interpolation is employed to construct a smooth ($C^2$ continuity) and thermodynamically consistent crossover between the phases.We systematically explore the parameter space to reconcile the tension between the high stiffness required by massive pulsars and the softness demanded by tidal deformability and radius constraints.Our analysis demonstrates that to simultaneously satisfy the mass measurement of PSR J0740+6620 and the compact radius constraints from NICER (e.g., PSR J0437-4715), the hadron-quark crossover must initiate in the vicinity of nuclear saturation density.This result suggests that the early percolation of quark degrees of freedom is a necessary feature to accommodate current multi-messenger observations.",
+      "categories": [
+        "astro-ph.HE",
+        "gr-qc",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "published": "2025-10-27T18:30:36+00:00",
+      "updated": "2026-04-17T16:44:41+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.23750v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2510.23750v2"
+    },
+    {
+      "arxiv_id": "2510.23838v2",
+      "base_id": "2510.23838",
+      "title": "Imperfect dark matter with higher derivatives",
+      "authors": [
+        "Mohammad Ali Gorji"
+      ],
+      "abstract": "We introduce a higher-derivative action for dark matter whose energy-momentum tensor describes an imperfect fluid with nonzero pressure, energy flux, and anisotropic stress. In the limit where the higher-derivative couplings are switched off, the energy-momentum tensor reduces to pressureless dust. A systematic derivation follows from extending the singular conformal transformation used in the mimetic dark matter scenario to include higher-derivative terms while the resulting action is general and does not rely on the mimetic framework. On a homogeneous cosmological background, the dynamics coincides with that of pressureless dust, while in the presence of inhomogeneities the higher-derivative terms generate nonzero acceleration and vorticity, making it possible to avoid the formation of caustic singularities even if the strong energy condition satisfies. In particular, within the mimetic realization these terms can resolve the usual caustic pathology of mimetic dark matter.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-th"
+      ],
+      "published": "2025-10-27T20:21:28+00:00",
+      "updated": "2026-04-16T13:05:07+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.23838v2",
+      "html_url": "https://arxiv.org/html/2510.23838v2",
+      "entry_url": "http://arxiv.org/abs/2510.23838v2"
+    },
+    {
+      "arxiv_id": "2510.23809v4",
+      "base_id": "2510.23809",
+      "title": "Recurrence Relations and Dispersive Techniques for Precision Multi-Loop Calculations",
+      "authors": [
+        "A. Aleksejevs",
+        "S. Barkanova",
+        "A. I. Davydychev"
+      ],
+      "abstract": "Ab initio predictions of two-loop electroweak contributions to observables are increasingly essential for precision collider experiments, yet their evaluation remains very challenging. We connect recurrence techniques and dispersive method in order to evaluate complex multi-loop Feynman diagrams. By expressing multi-point Passarino-Veltman functions in a two-point basis and using shifted space-time dimensions with recurrence relations, we minimize the number of required dispersive integrals. This approach reduces computation time and enables a precise and efficient analysis of one- and two-loop diagrams.",
+      "categories": [
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2025-10-27T19:45:44+00:00",
+      "updated": "2026-04-15T12:20:50+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.23809v4",
+      "html_url": "https://arxiv.org/html/2510.23809v4",
+      "entry_url": "http://arxiv.org/abs/2510.23809v4"
+    },
+    {
+      "arxiv_id": "2510.23808v3",
+      "base_id": "2510.23808",
+      "title": "Towards theory constraints on ultralight dark matter from quantum gravity",
+      "authors": [
+        "Gabriel Assant",
+        "Astrid Eichhorn",
+        "Benjamin Knorr"
+      ],
+      "abstract": "Ultralight scalar dark matter may couple to the Standard Model through dimension-five operators that contain the field-strength tensors of the gauge interactions. Recent progress in nuclear clocks is projected to increase the sensitivity to such couplings by several orders of magnitude. Future experimental constraints may even have Planck-scale sensitivity, calling for a study of such couplings in a framework that includes quantum gravity. We take a first step towards providing the theoretical constraints on such couplings that arise in asymptotically safe gravity. We find evidence that such couplings vanish in asymptotically safe gravity and are also not generated in a perturbative quantum-gravity regime that describes quantum gravity as an effective field theory.",
+      "categories": [
+        "hep-ph",
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2025-10-27T19:45:23+00:00",
+      "updated": "2026-04-30T10:07:37+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.23808v3",
+      "html_url": "https://arxiv.org/html/2510.23808v3",
+      "entry_url": "http://arxiv.org/abs/2510.23808v3"
+    }
+  ],
+  "total": 4
+}

@@ -1,0 +1,45 @@
+{
+  "date": "2025-05-01",
+  "papers": [
+    {
+      "arxiv_id": "2505.00563v2",
+      "base_id": "2505.00563",
+      "title": "Dark matter and modified gravity: Einstein clusters from a non-minimally coupled vector field",
+      "authors": [
+        "Pedro G. S. Fernandes",
+        "Vitor Cardoso"
+      ],
+      "abstract": "We show that a vector field non-minimally coupled to gravity reproduces exactly the dynamics of an Einstein cluster -- a large ensemble of non-interacting particles moving on circular geodesics under their collective gravitational field. Since Einstein clusters are known to be able to account for flat galactic rotation curves, our results suggest that such rotation curves may arise as a manifestation of modified gravity.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-ph"
+      ],
+      "published": "2025-05-01T14:40:23+00:00",
+      "updated": "2026-04-16T13:50:45+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2505.00563v2",
+      "html_url": "https://arxiv.org/html/2505.00563v2",
+      "entry_url": "http://arxiv.org/abs/2505.00563v2"
+    },
+    {
+      "arxiv_id": "2505.00345v3",
+      "base_id": "2505.00345",
+      "title": "Denoising weak lensing mass maps with diffusion model: systematic comparison with generative adversarial network",
+      "authors": [
+        "Shohei D. Aoyama",
+        "Ken Osato",
+        "Masato Shirasaki"
+      ],
+      "abstract": "Removing the shape noise from the observed weak lensing field, i.e., denoising, enhances the potential of WL by accessing information at small scales where the shape noise dominates without denoising. We utilise two machine learning (ML) models for denosing: generative adversarial network (GAN) and diffusion model (DM). We evaluate the performance of denosing with GAN and DM utilising the large suite of mock WL observations, which serve as the training and test data sets. We apply denoising to 1,000 noisy mass maps with GAN and DM models trained with 39,000 mock observations. Both models can fairly well reproduce the true convergence map on large scales. Then, we measure cosmological statistics: power spectrum, bispectrum, one-point probability distribution function, peak and minima counts, and scattering transform coefficients. We find that DM outperforms GAN in almost all considered statistics and recovers the correct statistics down to small scales. For example, the angular power spectrum can be recovered with DM up to multipoles $\\ell \\lesssim 6000$ while the noise power spectrum dominates from $\\ell \\simeq 2000$. We also conduct stress tests on the trained model; denoising the maps with different characteristics, e.g., different source redshifts, from the training data. The performance degrades at small scales, but the statistics can still be recovered at large scales. Though the training of DM is more computationally demanding compared with GAN, there are several advantages: numerically stable training, higher performance in the reconstruction of cosmological statistics, and sampling multiple realisations once the model is trained. It has been known that DM can generate higher-quality images in real-world problems than GAN, the superiority has been confirmed as well in the WL denoising problem.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2025-05-01T06:45:50+00:00",
+      "updated": "2026-04-25T15:46:09+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2505.00345v3",
+      "html_url": "https://arxiv.org/html/2505.00345v3",
+      "entry_url": "http://arxiv.org/abs/2505.00345v3"
+    }
+  ],
+  "total": 2
+}

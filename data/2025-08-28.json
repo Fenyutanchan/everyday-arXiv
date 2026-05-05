@@ -1,0 +1,85 @@
+{
+  "date": "2025-08-28",
+  "papers": [
+    {
+      "arxiv_id": "2508.21216v2",
+      "base_id": "2508.21216",
+      "title": "Persistence of post-Newtonian amplitude structure in binary black hole mergers",
+      "authors": [
+        "Viviana A. Cáceres-Barbosa"
+      ],
+      "abstract": "We analyze the spherical harmonic mode amplitudes of quasicircular, nonprecessing binary black hole mergers using 275 numerical relativity simulations from the SXS, RIT, and MAYA catalogs. We construct fits using the leading-order post-Newtonian (PN) dependence on intrinsic parameters, replacing the PN velocity with fit coefficients. We compare these to polynomial fits in symmetric mass ratio and spin. We analyze $(\\ell, m)$ modes with $\\ell \\leq 4$ from late inspiral [$t = -500M$ relative to the $(2,2)$ peak] to postmerger ($t = 40M$). For nonspinning systems, the $(2,2)$, $(2,1)$, and $(3,3)$ modes retain the leading-order PN dependence on mass ratio throughout the merger. Higher-order modes deviate from the PN dependence only near and after the merger, where polynomial fits of degree $N \\leq 3$ can capture the amplitude behavior up to $40M$. For aligned-spin systems at fixed mass ratio, the $(2,1)$ mode retains its PN spin dependence, while the $(3,2)$ and $(4,3)$ modes exhibit a quadratic spin dependence near merger. The PN-inspired fits lose accuracy with increasing mass ratio, particularly near merger. Results broadly agree across catalogs, though discrepancies appear in the $(3,1)$, $(4,2)$, and $(4,1)$ modes, likely from resolution differences. Our results clarify the extent to which PN structure persists in mode amplitudes. Although the fits cannot be fully interpreted within the PN formalism near merger, low-degree polynomial corrections to the PN amplitude Ansätze can capture strong-field behavior, enabling closed-form and efficient modeling of waveform amplitudes in this regime.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-08-28T21:11:00+00:00",
+      "updated": "2026-04-14T18:55:26+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.21216v2",
+      "html_url": "https://arxiv.org/html/2508.21216v2",
+      "entry_url": "http://arxiv.org/abs/2508.21216v2"
+    },
+    {
+      "arxiv_id": "2508.20419v4",
+      "base_id": "2508.20419",
+      "title": "The shadows and photon rings of two minimal deformations of Schwarzschild black holes",
+      "authors": [
+        "Hong-Er Gong",
+        "Junlin Qin",
+        "Yusen Wang",
+        "Bofeng Wu",
+        "Zhan-Feng Mai",
+        "Sen Guo",
+        "Enwei Liang"
+      ],
+      "abstract": "This paper primarily investigates the optical characteristics of two minimal Schwarzschild black hole deformations, the Kazakov-Solodukhin and Ghosh-Kumar black holes, under different accretion models. The event horizon, photon sphere, and critical impact parameter of the former increase compared with the Schwarzschild black hole, but those of the latter decrease. The data from the Event Horizon Telescope Collaboration are used to constrain the parameter ranges of the two black holes. In the case of spherical accretion, the quantum correction of Kazakov-Solodukhin black hole leads to the increase of black hole shadow size and the decrease of integrated intensity, while the shadow size of magnetically charged Ghosh-Kumar black hole decreases and the integrated intensity increases. The shadow radius of the black hole is independent of the spherical accretion models. For an optically and geometrically thin accretion disk, the integrated intensity is mainly contributed by direct emission, and the contributions of photon rings and lensed rings are very small. In addition, the photon rings and lensed rings of Kazakov-Solodukhin black hole are narrower, while those of Ghosh-Kumar black hole are wider. Whereas the Kazakov-Solodukhin black hole exhibits higher brightness, the Ghosh-Kumar black hole shows lower brightness. Additionally, a disk closer to the black hole correlates with a smaller shadow radius. This paper proposes a method to distinguish different black holes in a specific thin disk model.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-08-28T04:40:03+00:00",
+      "updated": "2026-04-14T14:04:57+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.20419v4",
+      "html_url": "https://arxiv.org/html/2508.20419v4",
+      "entry_url": "http://arxiv.org/abs/2508.20419v4"
+    },
+    {
+      "arxiv_id": "2508.20910v2",
+      "base_id": "2508.20910",
+      "title": "Images of the accretion disk in Hybrid metric-Palatini gravity",
+      "authors": [
+        "P. I. Dyadina",
+        "N. A. Avdeev"
+      ],
+      "abstract": "In this paper we obtain and study images of accretion disks around static spherically symmetric black holes in hybrid metric-Palatini gravity. We use Novikov-Thorne thin-disk model. Semi-analytic ray-tracing methods in curved spacetime are employed to generate the images of the disk for different scalar field configurations, including both Higgs-type potentials and cases without a potential. The resulting images, including both redshift and intensity maps, are analyzed. The results show that the scalar field parameters play a significant role in shaping both the direct and secondary images of the disk, while the inclination angle primarily affects the asymmetry and brightness distribution. In particular, configurations with extreme scalar field values lead to cooler and dimmer disk compared to General Relativity. Furthermore, the structure and angular size of the secondary ring exhibit noticeable deviations from General Relativity, offering a potential observational signature. This work should be regarded as a first step toward modeling realistic accretion disks within the hybrid metric-Palatini gravity framework, and toward assessing their potential observational distinguishability from General Relativity predictions.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-08-28T15:39:25+00:00",
+      "updated": "2026-04-24T13:08:22+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.20910v2",
+      "html_url": "https://arxiv.org/html/2508.20910v2",
+      "entry_url": "http://arxiv.org/abs/2508.20910v2"
+    },
+    {
+      "arxiv_id": "2508.20520v2",
+      "base_id": "2508.20520",
+      "title": "Superradiant Interactions for Relic Detection with Entangled Nuclear Spins",
+      "authors": [
+        "Marios Galanis",
+        "Onur Hosten",
+        "Asimina Arvanitaki",
+        "Savas Dimopoulos"
+      ],
+      "abstract": "We recently showed that macroscopic nuclear spin ensembles prepared in coherent spin states can dramatically enhance the interaction rates of weakly interacting cosmic relics-such as dark matter and the cosmic neutrino background-through collective quantum effects analogous to Dicke superradiance, where the de-excitation and excitation rates scale as the square of the number of spins, $N^2$. We thus coined these processes superradiant interactions. In this paper, we propose a protocol to realize this enhancement and boost the discovery potential for such relics. We show how concepts from quantum optics can be adapted to nuclear spins coupled to superconducting circuits, enabling high-sensitivity systems. The spins are first initialized into a coherent spin state via a $π/2$ Rabi pulse from the ground state. When the circuit is sufficiently detuned from resonance, the spin-circuit interaction implements a squeezing Hamiltonian. Because squeezing must outpace spin relaxation and dephasing, the protocol favors macroscopic ensembles and high-quality superconducting circuits. During this squeezing phase, the standard quantum variance is reduced by up to 4.8 orders of magnitude-equivalent to 48 dB of squeezing-for circuits with quality factors $Q \\sim 10^8$-$10^9$. The signal imprinted on the spins during the squeezing protocol can be magnified by further utilizing the squeezing interactions, easing the requirement for shot-noise-limited readout. This protocol has the potential to significantly accelerate axion and dark photon dark matter searches and extend the reach of existing axion experiments to probe QCD axion-nuclear spin couplings. More broadly, it paves the way for detecting coherent inelastic interactions from other cosmic relics-most notably the cosmic neutrino background-and establishes nuclear-spin-based systems as a new class of quantum, ultra-low-threshold detectors.",
+      "categories": [
+        "hep-ph",
+        "quant-ph"
+      ],
+      "published": "2025-08-28T08:01:03+00:00",
+      "updated": "2026-04-30T17:51:23+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.20520v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2508.20520v2"
+    }
+  ],
+  "total": 4
+}

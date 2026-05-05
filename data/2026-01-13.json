@@ -1,0 +1,80 @@
+{
+  "date": "2026-01-13",
+  "papers": [
+    {
+      "arxiv_id": "2601.08252v3",
+      "base_id": "2601.08252",
+      "title": "Resumming Scattering Amplitudes for Waveforms",
+      "authors": [
+        "Katsuki Aoki",
+        "Andrea Cristofoli"
+      ],
+      "abstract": "We develop a formalism to compute non-perturbative 5-point scattering amplitudes and apply it to gravitational waveforms in the two-body problem for arbitrary trajectories. Drawing inspiration from Feshbach's projector formalism in nuclear physics, we introduce effective potentials governing graviton emission and relate them to perturbative scattering amplitudes at arbitrary order in the gravitational coupling and mass ratio. Once these potentials are determined, the corresponding non-perturbative amplitudes in the classical limit are obtained by iterative insertions and subsequently translated into gravitational waveforms using the KMOC formalism. As an application, we compute the gravitational waveform emitted by a conservative two-body dynamics moving along a generic, potentially highly bent, trajectory. Our formalism extends effective field theory matching of the gravitational two-body potential to radiative phenomena, enabling the extraction of gravitational-wave source terms directly from perturbative on-shell amplitudes.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2026-01-13T06:19:05+00:00",
+      "updated": "2026-04-20T06:52:41+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.08252v3",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2601.08252v3"
+    },
+    {
+      "arxiv_id": "2601.08752v2",
+      "base_id": "2601.08752",
+      "title": "Phenomenological Study of $Ω_c\\rightarrow Ω^-π^+$ at Polarized Electron-Positron Collider",
+      "authors": [
+        "Yunlu Wang",
+        "Yunlong Xiao",
+        "Pengcheng Hong"
+      ],
+      "abstract": "The exploration of symmetry laws stands as a cutting-edge direction in modern physics research. This work delves into the examination of P and CP symmetry properties within the charm quark system by analyzing asymmetry parameters in the two-body decay process of $Ω_c$. By accounting for the polarization effects of electron and positron beams and employing the helicity formalism, we systematically analyze the decay characteristics of $Ω_c$ and its subsequent hyperon decays through specific asymmetry parameters. A comprehensive formulation of the angular distribution for these decay processes has been developed. The research assesses the detection sensitivity of asymmetry parameters in the $Ω_c\\rightarrow Ω^-π^+$ decay mode across different experimental conditions, including varying data sample sizes and beam polarization configurations. These results contribute to enriching a theoretical foundation for forthcoming experimental endeavors at the STCF, offering significant implications for symmetry studies in the charm sector.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-01-13T17:30:05+00:00",
+      "updated": "2026-04-19T05:31:50+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.08752v2",
+      "html_url": "https://arxiv.org/html/2601.08752v2",
+      "entry_url": "http://arxiv.org/abs/2601.08752v2"
+    },
+    {
+      "arxiv_id": "2601.08909v3",
+      "base_id": "2601.08909",
+      "title": "The CFT Distance Conjecture and Tensionless String Limits in $\\mathcal N=2$ Quiver Gauge Theories",
+      "authors": [
+        "José Calderón-Infante",
+        "Amineh Mohseni"
+      ],
+      "abstract": "We initiate the study of infinite-distance limits on (complex) multi-dimensional conformal manifolds of 4d SCFTs and their bulk interpretation as tensionless-string limits in AdS/CFT. In particular, we focus on 4d $\\mathcal{N}=2$ $SU$ quiver gauge theories with hypermultiplets in the bifundamental and fundamental representations. In the overall-free limit, we compute the large-$N$ Hagedorn temperature $T_H$, which governs the stringy exponential growth of the density of states at high energies. We argue that this quantity determines the type of stringy ultraviolet completion in the bulk: it captures the type of string theory in which the bulk physics is embedded while remaining insensitive to detailed geometric data. For linear quivers, we find that $T_H$ depends only on the quiver length, which is tied to the number of NS5-branes in the underlying brane construction and, in turn, to the string theory in which the bulk is embedded. For holographic quivers, where we impose that the two central charges $a$ and $c$ coincide in the large-$N$ limit, we show that $T_H$ coincides with that of $\\mathcal{N}=4$ SYM, which befits the 10d Type IIB description of their gravitational duals. We also analyze the exponential rate $α$, which controls how the leading tower of higher-spin currents becomes conserved in these limits, as suggested by the CFT Distance Conjecture. In the large-$N$ regime, we derive sharp bounds on the minimal rate, $1/\\sqrt{2}\\le α_{\\min}\\le \\sqrt{2/3}$, attained in the overall-free limit. Moreover, we prove that the universal lower bound $α\\ge 1/\\sqrt{2}$ holds, including at finite $N$. Finally, we go beyond the overall-free ray by characterizing the convex hull of the $\\vecα$-vectors that encode the exponential rate of the higher-spin towers along any (partial) weak-coupling limit.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2026-01-13T19:00:01+00:00",
+      "updated": "2026-04-15T20:46:29+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.08909v3",
+      "html_url": "https://arxiv.org/html/2601.08909v3",
+      "entry_url": "http://arxiv.org/abs/2601.08909v3"
+    },
+    {
+      "arxiv_id": "2601.08905v2",
+      "base_id": "2601.08905",
+      "title": "On Cosmological Singularities in String Theory",
+      "authors": [
+        "Jinwei Chu",
+        "David Kutasov"
+      ],
+      "abstract": "We study the time evolution of a $3+1$ dimensional spacetime, where space is a large three-sphere, due to small perturbations of the background fields. We focus on two classes of deformations. One corresponds on the worldsheet to time-dependent non-abelian Thirring deformations. The other to perturbations of the radius of the three-sphere. In the former case, we find that small deformations generically lead to big-bang and big-crunch singularities, near which the spacetime becomes highly anisotropic. We argue that string theory likely resolves these singularities. In the latter case, general solutions have the property that the radius of the three-sphere goes to infinity at a finite time, but there are no solutions in which it collapses to zero. We also discuss the interplay of these spacetime properties with the corresponding worldsheet RG flows.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2026-01-13T19:00:00+00:00",
+      "updated": "2026-04-14T22:05:47+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.08905v2",
+      "html_url": "https://arxiv.org/html/2601.08905v2",
+      "entry_url": "http://arxiv.org/abs/2601.08905v2"
+    }
+  ],
+  "total": 4
+}

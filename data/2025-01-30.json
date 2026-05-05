@@ -1,0 +1,27 @@
+{
+  "date": "2025-01-30",
+  "papers": [
+    {
+      "arxiv_id": "2501.18591v2",
+      "base_id": "2501.18591",
+      "title": "Non-Hermitian catalysis of density-wave orders on Euclidean and hyperbolic lattices",
+      "authors": [
+        "Christopher A. Leong",
+        "Bitan Roy"
+      ],
+      "abstract": "Depending on the lattice geometry, the nearest-neighbor (NN) tight-binding model for free fermions gives rise to particle-hole symmetric emergent Dirac liquid, Fermi liquid, and flat bands near the half-filling or zero-energy on bipartite Euclidean and hyperbolic lattices, respectively embedded on the flat and negatively curved spaces. Such noninteracting electronic fluids are characterized by a vanishing, a finite, and a diverging density of states near half-filling, respectively. A non-Hermitian generalization of this scenario resulting from an imbalance of the hopping amplitudes in the opposite directions between any pair of NN sites continues to accommodate a real eigenvalue spectrum over an extended non-Hermitian parameter regime. Most importantly, it reduces the band width without altering the characteristic scaling of the density of states close to the zero-energy. Here, we show that on two-dimensional bipartite Euclidean and hyperbolic lattices such a non-Hermiticity catalyzes the formation of both charge-density-wave and spin-density-wave orders at weaker (in comparison to the counterparts in conventional or Hermitian systems) NN Coulomb and on-site Hubbard repulsions, respectively. These two ordered states correspond to staggered patterns of average electronic density and spin between the NN sites, respectively, and both cause insulation in half-filled systems. We arrive at these conclusions by combining biorthogonal quantum mechanics and lattice-based self-consistent numerical mean-field analysis in the Hartree channel. We discuss the scaling of the associated mass gaps near the zero-energy with the non-Hermitian parameter, and also address the finite size scaling of the order parameters specifically on hyperbolic lattices with open boundary conditions. A robust general mathematical criterion for the proposed non-Hermitian catalysis mechanism for ordered phases is showcased.",
+      "categories": [
+        "cond-mat.str-el",
+        "cond-mat.mes-hall",
+        "cond-mat.supr-con",
+        "hep-th"
+      ],
+      "published": "2025-01-30T18:59:30+00:00",
+      "updated": "2026-04-27T23:40:55+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2501.18591v2",
+      "html_url": "https://arxiv.org/html/2501.18591v2",
+      "entry_url": "http://arxiv.org/abs/2501.18591v2"
+    }
+  ],
+  "total": 1
+}

@@ -1,0 +1,136 @@
+{
+  "date": "2025-11-06",
+  "papers": [
+    {
+      "arxiv_id": "2511.04605v2",
+      "base_id": "2511.04605",
+      "title": "The size of the quark-gluon plasma in ultracentral collisions: impact of initial density fluctuations on the average transverse momentum",
+      "authors": [
+        "Fabian Zhou",
+        "Giuliano Giacalone",
+        "Jean-Yves Ollitrault"
+      ],
+      "abstract": "Recent experiments have shown that the mean transverse momentum $\\langle p_T\\rangle$ of outgoing particles increases as a function of the particle multiplicity in ultracentral nucleus-nucleus collisions at collider energies. This increase was originally predicted on the basis of simulations where the multiplicity increase occurred at constant volume, so that it implied a larger density and temperature. However, recent state-of-the-art simulations have shown that, for some models of initial condition, the volume may vary with the multiplicity in ultracentral collisions. We elucidate this effect by analytically relating the variation of the volume to the radial distribution of the one- and two-point functions of the fluctuating density field. We show that the volume variation is small if the total entropy of the ultracentral collisions scales with the mass number of the colliding isotopes. We argue that probing detailed transverse distributions of initial-state fluctuations through the ultracentral $\\langle p_T\\rangle$ has nontrivial implications for models of nuclear structure and of the pre-equilibrium stages.",
+      "categories": [
+        "nucl-th",
+        "hep-ph",
+        "nucl-ex"
+      ],
+      "published": "2025-11-06T17:58:03+00:00",
+      "updated": "2026-04-20T07:45:17+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.04605v2",
+      "html_url": "https://arxiv.org/html/2511.04605v2",
+      "entry_url": "http://arxiv.org/abs/2511.04605v2"
+    },
+    {
+      "arxiv_id": "2511.04545v3",
+      "base_id": "2511.04545",
+      "title": "Continuous matrix product operators for quantum fields",
+      "authors": [
+        "Erickson Tjoa",
+        "J. Ignacio Cirac"
+      ],
+      "abstract": "In this work we introduce an ansatz for continuous matrix product operators for quantum field theory. We show that (i) they admit a closed-form expression in terms of finite number of matrix-valued functions without reference to any lattice parameter; (ii) they are obtained as a suitable continuum limit of matrix product operators; (iii) they preserve the entanglement area law directly in the continuum, and in particular they map continuous matrix product states (cMPS) to another cMPS. As an application, we use this ansatz to construct several families of continuous matrix product unitaries beyond quantum cellular automata.",
+      "categories": [
+        "quant-ph",
+        "cond-mat.str-el",
+        "hep-lat",
+        "hep-th"
+      ],
+      "published": "2025-11-06T16:57:59+00:00",
+      "updated": "2026-04-18T13:16:11+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.04545v3",
+      "html_url": "https://arxiv.org/html/2511.04545v3",
+      "entry_url": "http://arxiv.org/abs/2511.04545v3"
+    },
+    {
+      "arxiv_id": "2511.04547v2",
+      "base_id": "2511.04547",
+      "title": "Fermionic Casimir densities for a uniformly accelerating mirror in the Fulling-Rindler vacuum",
+      "authors": [
+        "A. A. Saharian",
+        "L. Sh. Grigoryan",
+        "V. Kh. Kotanjyan"
+      ],
+      "abstract": "We investigate the local characteristics of the Fulling-Rindler vacuum for a massive Dirac field induced by a planar boundary moving with constant proper acceleration in $(D+1)$-dimensional flat spacetime. On the boundary, the field operator obeys the bag boundary condition. The boundary divides the right Rindler wedge into two separate regions, called RL and RR regions. In both these regions, the fermion condensate and the vacuum expectation value (VEV) of the energy-momentum tensor are decomposed into two contributions. The first one presents the VEVs in the Fulling-Rindler vacuum when the boundary is absent and the second one is the boundary-induced contribution. For points away from the boundary, the renormalization is reduced to the one for the boundary-free geometry. The total VEVs are dominated by the boundary-free parts near the Rindler horizon and by the boundary-induced parts in the region near the boundary. For a massive field the boundary-free contributions in the fermion condensate and the vacuum energy density and effective pressures are negative everywhere. The boundary-induced contributions in the fermion condensate and the energy density are positive in the RL region and negative in the RR region. For a massless field the fermion condensate vanishes in spatial dimensions $D\\geq 2$, while the VEV of the energy-momentum tensor is different from zero. This behavior contrasts with that of the VEVs in the Minkowski vacuum for the geometry of a boundary at rest relative to an inertial observer. In the latter case, the fermion condensate for a massless field is nonzero, while the VEV of the energy-momentum tensor becomes zero. The obtained results are used to investigate the VEV of the fermionic energy-momentum tensor in weak gravitational fields and background geometries that are conformally related to Rindler spacetime.",
+      "categories": [
+        "hep-th",
+        "gr-qc",
+        "quant-ph"
+      ],
+      "published": "2025-11-06T17:01:05+00:00",
+      "updated": "2026-04-21T16:10:01+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.04547v2",
+      "html_url": "https://arxiv.org/html/2511.04547v2",
+      "entry_url": "http://arxiv.org/abs/2511.04547v2"
+    },
+    {
+      "arxiv_id": "2511.04400v3",
+      "base_id": "2511.04400",
+      "title": "Artificial Precision Polarization Array: Sensitivity for the axion-like dark matter with clock satellites",
+      "authors": [
+        "Hanyu Jiang",
+        "Baoyu Xu",
+        "Yun-Long Zhang"
+      ],
+      "abstract": "The approaches to searching for axion-like signals based on pulsars include observations with pulsar timing arrays (PTAs) and pulsar polarization arrays (PPAs). However, these methods are limited by observational uncertainties arising from multiple unknown and periodic physical effects, which substantially complicate subsequent data analysis. To mitigate these issues and improve data fidelity, we propose the Artificial Pulsar Polarization Arrays (APPA): a satellite network comprising multiple pulsed signal transmitters and a dedicated receiver satellite. To constrain the axion-photon coupling parameter $g_{aγ}$, we generate simulated observations using Monte Carlo methods and investigate the sensitivity of APPA using two complementary approaches: Likelihood analysis and frequentist analysis. Simulations indicate that for the axion mass range of $10^{-22}-10^{-18}$ eV, APPA yields a tighter upper limit on $g_{aγ}$ (at the 95\\% C.L.) than conventional ground-based observations, while also achieving superior detection sensitivity. Moreover, a larger spatial distribution scale of the satellite network corresponds to a greater advantage in detecting axions with lighter masses.",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.IM",
+        "gr-qc"
+      ],
+      "published": "2025-11-06T14:26:42+00:00",
+      "updated": "2026-04-23T12:22:49+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.04400v3",
+      "html_url": "https://arxiv.org/html/2511.04400v3",
+      "entry_url": "http://arxiv.org/abs/2511.04400v3"
+    },
+    {
+      "arxiv_id": "2511.04733v2",
+      "base_id": "2511.04733",
+      "title": "Combining CMB datasets with consistent foreground modelling",
+      "authors": [
+        "M. Tristram",
+        "M. Douspis",
+        "A. Gorce",
+        "S. Henrot-Versillé",
+        "L. T. Hergt",
+        "S. Ilic",
+        "L. McBride",
+        "M. Muñoz-Echeverría",
+        "E. Pointecouteau",
+        "L. Salvati"
+      ],
+      "abstract": "We present a joint cosmological analysis combining data from the Planck satellite, the Atacama Cosmology Telescope, and the South Pole Telescope. We construct a unified likelihood that reproduces the measured temperature and polarisation power spectra by jointly modelling the cosmic microwave background (CMB) signal, Galactic and extragalactic foregrounds, and instrumental systematics across all datasets. We reduce reliance by combining datasets and improve the robustness of parameter estimation by marginalising over the choice of foreground templates. Within this joint analysis, $Λ$CDM parameters exhibit remarkable stability with respect to variations in foreground modelling. Parameters for cosmological extensions are more sensitive to these assumptions, with uncertainties increasing by up to 35% in the neutrino sector after marginalising over foreground models. In contrast, the determination of foreground parameters depends more strongly on the assumptions made about the underlying foreground models. Overall, this work demonstrates the feasibility and reliability of a fully joint analysis of current CMB experiments and emphasizes the importance of consistent and accurate foreground modelling for the scientific goals of next-generation, high-sensitivity CMB surveys.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2025-11-06T19:00:00+00:00",
+      "updated": "2026-04-23T09:59:53+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.04733v2",
+      "html_url": "https://arxiv.org/html/2511.04733v2",
+      "entry_url": "http://arxiv.org/abs/2511.04733v2"
+    },
+    {
+      "arxiv_id": "2511.04005v3",
+      "base_id": "2511.04005",
+      "title": "Validating a Machine Learning Approach to Identify Quenched Jets in Heavy-Ion Collisions",
+      "authors": [
+        "Yilun Wu",
+        "Yi Chen",
+        "Julia Velkovska"
+      ],
+      "abstract": "Jet quenching is a phenomenon in heavy-ion collisions arising from jet interactions with the quark-gluon plasma (QGP). Its study is complicated by the interplay of multiple physics processes that affect jet observables. In addition, detector effects may influence the results and must be accounted for when identifying quenched jets. We employ a Long Short-Term Memory (LSTM) neural network trained on jet substructure, incorporating parton shower history, to predict jet-by-jet quenching levels. Using photon-jet samples from the \\textsc{Jewel} event generator, we show that the LSTM predictions strongly correlate with true jet energy loss. This validates that the model effectively learns the features of jet-QGP interaction. We simulate detector effects using \\textsc{Delphes} simulation framework and demonstrate that the method identifies quenching effects in a realistic environment. We test the approach with photon-jet momentum imbalance, jet fragmentation function, and jet shape, which were not included in the training, confirming its ability to distinguish true quenching features.",
+      "categories": [
+        "hep-ph",
+        "nucl-ex"
+      ],
+      "published": "2025-11-06T03:02:17+00:00",
+      "updated": "2026-04-30T04:31:26+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.04005v3",
+      "html_url": "https://arxiv.org/html/2511.04005v3",
+      "entry_url": "http://arxiv.org/abs/2511.04005v3"
+    }
+  ],
+  "total": 6
+}

@@ -1,0 +1,49 @@
+{
+  "date": "2025-09-09",
+  "papers": [
+    {
+      "arxiv_id": "2509.07453v3",
+      "base_id": "2509.07453",
+      "title": "Cross-correlations between the CLAMATO Lyman-alpha forest and galaxies within the COSMOS field",
+      "authors": [
+        "Benjamin Zhang",
+        "Khee-Gan Lee",
+        "Andrei Cuceu",
+        "Andreu Font-Ribera",
+        "Rieko Momose"
+      ],
+      "abstract": "We compute the 3D cross-correlation between the absorption of the $z\\sim 2.3$ Lyman-alpha forest measured by the COSMOS Lyman-Alpha Mapping And Tomography Observations (CLAMATO) survey, and 1642 foreground galaxies with spectroscopic redshifts from several different surveys, including 3D-HST, CLAMATO, zCOSMOS-deep, MOSDEF, and VUDS. For each survey, we compare the measured cross-correlation with models incorporating the galaxy linear bias as well as observed redshift dispersion and systematic redshift offset. The derived redshift dispersion and offsets are generally consistent with those expected from, e.g., spectroscopic redshifts measured with UV absorption lines or NIR emission lines observed with specific instruments, but we find hints of `fingers-of-god' caused by overdensities in the field. We combine our foreground galaxy sample, and split them into 3 bins of robustly-estimated stellar mass in order to study the stellar mass-halo mass relationship. For sub-samples with median stellar masses of $\\log_{10}(M_* / M_\\odot) = [9.28,9.74,10.22]$, we find galaxy biases of $b_g\\approx [2.1, 3.2,3.8]$, respectively. A comparison with mock measurements from the Bolshoi-Planck $N$-body simulation yields corresponding halo masses of $\\log_{10}(M_* / M_\\odot) \\approx [10.5,11.7,12.1]$ for these stellar mass bins. At the low mass end, our results suggest enhanced star formation histories in mild tension with predictions from previous angular correlation and abundance matching-based observations, and the IllustrisTNG simulation.",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.GA"
+      ],
+      "published": "2025-09-09T07:25:21+00:00",
+      "updated": "2026-04-27T02:04:51+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.07453v3",
+      "html_url": "https://arxiv.org/html/2509.07453v3",
+      "entry_url": "http://arxiv.org/abs/2509.07453v3"
+    },
+    {
+      "arxiv_id": "2509.08043v2",
+      "base_id": "2509.08043",
+      "title": "Testing Viability of Benchmark Dark Matter Models for the Galactic Center Excess",
+      "authors": [
+        "Yongao Hu",
+        "Cari Cesarotti",
+        "Tracy R. Slatyer"
+      ],
+      "abstract": "We examine the status of benchmark simplified dark matter models that have been proposed to explain the GeV gamma-ray Galactic Center excess. We constrain the available parameter space using updated observations from indirect detection, cosmology, direct detection, and accelerators. We show that there is still unconstrained parameter space in both classes of models we consider (a secluded dark sector with a vector portal coupling, and a two-Higgs doublet with a pseudoscalar mediator), and discuss the prospects for potential improvement of these constraints in future experiments.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "astro-ph.HE"
+      ],
+      "published": "2025-09-09T18:00:01+00:00",
+      "updated": "2026-04-28T15:42:07+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.08043v2",
+      "html_url": "https://arxiv.org/html/2509.08043v2",
+      "entry_url": "http://arxiv.org/abs/2509.08043v2"
+    }
+  ],
+  "total": 2
+}

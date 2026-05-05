@@ -1,0 +1,26 @@
+{
+  "date": "2025-08-26",
+  "papers": [
+    {
+      "arxiv_id": "2508.18948v2",
+      "base_id": "2508.18948",
+      "title": "Gauge-covariant stochastic neural fields: Stability and finite-width effects",
+      "authors": [
+        "Rodrigo Carmo Terin"
+      ],
+      "abstract": "We develop a gauge-covariant stochastic effective field theory for stability and finite-width effects in deep neural systems. The model uses classical commuting fields: a complex matter field, a real Abelian connection field, and a fictitious stochastic depth variable. Using the Martin--Siggia--Rose--Janssen--de~Dominicis formalism, we derive its functional representation and a two-replica linear-response construction defining the maximal Lyapunov exponent and the amplification factor for the edge of chaos. Finite-width effects appear as perturbative corrections to dressed kernels, and the marginality condition remains unchanged at the order considered for fixed kernel geometry. Numerically, finite-width multilayer perceptrons follow the mean-field instability threshold, and a linear stochastic effective sector reproduces the predicted low-frequency spectral deformation.",
+      "categories": [
+        "hep-th",
+        "cond-mat.dis-nn",
+        "cs.LG",
+        "stat.ML"
+      ],
+      "published": "2025-08-26T11:41:11+00:00",
+      "updated": "2026-04-22T09:07:09+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.18948v2",
+      "html_url": "https://arxiv.org/html/2508.18948v2",
+      "entry_url": "http://arxiv.org/abs/2508.18948v2"
+    }
+  ],
+  "total": 1
+}

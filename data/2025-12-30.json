@@ -1,0 +1,43 @@
+{
+  "date": "2025-12-30",
+  "papers": [
+    {
+      "arxiv_id": "2512.24267v2",
+      "base_id": "2512.24267",
+      "title": "From $\\mathrm{AdS}_5$ to $\\mathrm{AdS}_3$: TsT deformations, Magnetic fields and Holographic RG Flows",
+      "authors": [
+        "Lucas S. Sousa"
+      ],
+      "abstract": "It was previously shown that a D7 brane probe in a D3 brane background with a pure gauge constant magnetic field $\\mathrm{B} = \\mathrm{H}$ exhibits chiral symmetry breaking and a discrete meson spectrum with Zeeman splitting. In this work, we investigate how these features are modified by a TsT deformation of the background, which renders the Kalb Ramond field physical and radially dependent, thereby obscuring its interpretation as a constant magnetic field.   We show that chiral symmetry breaking persists in the deformed model. The meson spectrum, however, depends on the fluctuation sector. Fluctuations perpendicular to the magnetic field are sensitive to the deformation and, for generic values of the TsT parameter $\\mathrm{k}$, do not admit a consistent spectrum due to divergent behavior near the horizon, whereas fluctuations parallel to the magnetic field remain unaffected.   Remarkably, the combined effect of the magnetic field and the TsT deformation singles out the special value $\\mathrm{k} = -\\frac{1}{\\mathrm{H}}$. At this point, the perpendicular modes are restored. Moreover, the Kalb Ramond field becomes constant again, recovering its interpretation as a magnetic field. The resulting effects on the spectrum appear only at order $O(H^2)$, and therefore the Zeeman splitting, if present at all, is shifted to this higher order.   Furthermore, the resulting background with $\\mathrm{k} = - \\frac{1}{\\mathrm{H}}$ is interesting in its own right, even without embedding any brane. The spacetime admits an interpretation in terms of D1 branes and exhibits a degenerate boundary geometry, asymptotically $\\mathrm{AdS}_3 \\times S^5$, with a degenerate horizon. We present a first discussion of the dual field theory interpretation, making connections to D1 and D5 systems, renormalization group flow, defect field theories, and domain wall holography.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2025-12-30T14:43:36+00:00",
+      "updated": "2026-04-23T20:29:04+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.24267v2",
+      "html_url": "https://arxiv.org/html/2512.24267v2",
+      "entry_url": "http://arxiv.org/abs/2512.24267v2"
+    },
+    {
+      "arxiv_id": "2512.23962v6",
+      "base_id": "2512.23962",
+      "title": "Lectures on insulating and conducting quantum spin liquids",
+      "authors": [
+        "Subir Sachdev"
+      ],
+      "abstract": "Two of the iconic phases of the hole-doped cuprate materials are the intermediate temperature pseudogap metal and the lower temperature $d$-wave superconductor. Following the suggestion of P. W. Anderson, there were early theories of these phases as doped quantum spin liquids. However, these theories have had difficulties with two prominent observations:   (i) angle-dependent magnetoresistance measurements (ADMR) in the pseudogap metal, including observation of the Yamaji effect, present convincing evidence of small hole pockets which can tunnel coherently between square lattice layers (Fang et al., Nature Physics 18, 558 (2022); Chan et al., Nature Physics 21, 1753 (2025)) and   (ii) the velocities of the nodal Bogoliubov quasiparticles in the $d$-wave superconductor are highly anisotropic, with $v_F \\gg v_Δ$ (Chiao et al., Phys. Rev. B 62, 3554 (2000)).   These notes review how the fractionalized Fermi Liquid (FL*) state, which dopes quantum spin liquids with gauge-neutral electron-like quasiparticles, resolves both difficulties. Theories of insulating quantum spin liquids employing fractionalization of the electron spin into bosonic or fermionic partons are discussed. Doping the bosonic parton theory leads to a holon metal theory: while not appropriate for the cuprate pseudogap, this theory is argued to apply to ultracold atom experiments on the Lieb lattice. Doping the fermionic parton theory leads to a $d$-wave superconductor with nearly isotropic quasiparticle velocities. The construction of the FL* state in a single band Hubbard-type model is described using a quantum dimer model, followed by a more realistic description using the Ancilla Layer Model (ALM), which is then used to obtain the theory of the pseudogap and the $d$-wave superconductor. The ALM also leads to a wavefunction for the FL* state of the Hubbard model, which agrees with ultracold atom observations.",
+      "categories": [
+        "cond-mat.str-el",
+        "cond-mat.quant-gas",
+        "cond-mat.supr-con",
+        "hep-th"
+      ],
+      "published": "2025-12-30T03:26:34+00:00",
+      "updated": "2026-04-29T18:22:33+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.23962v6",
+      "html_url": "https://arxiv.org/html/2512.23962v6",
+      "entry_url": "http://arxiv.org/abs/2512.23962v6"
+    }
+  ],
+  "total": 2
+}

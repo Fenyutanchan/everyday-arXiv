@@ -1,0 +1,63 @@
+{
+  "date": "2025-11-17",
+  "papers": [
+    {
+      "arxiv_id": "2511.13665v2",
+      "base_id": "2511.13665",
+      "title": "Einstein-Maxwell fields as solutions of Einstein gravity coupled to conformally invariant non-linear electrodynamics",
+      "authors": [
+        "Marcello Ortaggio"
+      ],
+      "abstract": "We study Einstein-Maxwell (non-null) sourcefree configurations that can be extended to any conformally invariant non-linear electrodynamics (CINLE) by a constant rescaling of the electromagnetic field. We first obtain a criterion which characterizes such extendable solutions in terms either of the electromagnetic invariants, or (equivalently) of the canonical Newman-Penrose form of the self-dual Maxwell field. This is then used to argue that all static configurations are extendable (more generally, all configurations admitting a non-null twistfree Killing vector field). One can thus draw from the extensive literature to straightforwardly extend to CINLE various known exact solutions, whereby the duality invariance of the Einstein-Maxwell theory allows for dyonic solutions even in more general theories. This is illustrated by a few explicit examples, including the homogeneous $Λ<0$ universe of Ozsváth, a black hole in the universe of Levi-Civita, Bertotti and Robinson, a generalization of the charged $C$-metric, and non-expanding gravitational waves in the Bonnor-Melvin background.",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2025-11-17T18:18:24+00:00",
+      "updated": "2026-04-22T09:01:22+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.13665v2",
+      "html_url": "https://arxiv.org/html/2511.13665v2",
+      "entry_url": "http://arxiv.org/abs/2511.13665v2"
+    },
+    {
+      "arxiv_id": "2511.13549v3",
+      "base_id": "2511.13549",
+      "title": "Precision tests of bulk entanglement: $AdS_3$ vectors",
+      "authors": [
+        "Rayirth Bhat",
+        "Justin R. David",
+        "Semanti Dutta"
+      ],
+      "abstract": "We consider single-particle excitations of the massive Chern-Simons field of mass $M$ in $AdS_3$ and evaluate their contribution at the first sub-leading order in $G_N$ to the entanglement entropy across the Ryu-Takayanagi surface. Quantizing the Chern-Simons field in $AdS_3$, we evaluate the corrections to the holographic entanglement entropy using the Faulkner-Lewkowycz-Maldacena formula. The massive Chern-Simons field also obeys the equations of motion of a massive vector in $AdS_3$. The lowest-energy single-particle excitation of this field is dual to the primary operator of conformal dimension $M+1$ with spin one in the dual CFT; all other single-particle excitations are dual to its global descendants. We compare the entanglement entropy result from the FLM formula to the single-interval entanglement entropy in large-charge holographic CFT obtained using the replica trick for the primary and its tower of holomorphic descendants. The two results agree precisely in the leading and sub-leading terms of the short interval expansion. We evaluate the contribution of the edge mode to the vacuum-subtracted entanglement and show that it vanishes, which is crucial for the FLM formula to agree with the CFT result. On taking the massless limit, the result coincides with the contribution of a $U(1)$ current to the single interval entanglement entropy. This is surprising since an earlier calculation in the literature reproduced the CFT result entirely from the edge $U(1)$ degrees of freedom on the RT surface.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2025-11-17T16:19:22+00:00",
+      "updated": "2026-04-22T20:55:08+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.13549v3",
+      "html_url": "https://arxiv.org/html/2511.13549v3",
+      "entry_url": "http://arxiv.org/abs/2511.13549v3"
+    },
+    {
+      "arxiv_id": "2511.13708v3",
+      "base_id": "2511.13708",
+      "title": "Statistics Meet Systematics: Resolution of the Massive Early JWST Galaxy Tension",
+      "authors": [
+        "Jay R. Krishnan",
+        "Kevork N. Abazajian"
+      ],
+      "abstract": "The discovery of massive, high redshift galaxies with the James Webb Space Telescope (JWST) has been argued to challenge $Λ$CDM (cold dark matter): such systems would require extremely rare halos and baryon-to-stellar-mass conversion efficiencies unphysically approaching -- or exceeding -- $100\\%$. If confirmed at galaxy-formation--forbidden efficiencies, these galaxies could signal new physics beyond standard cosmological structure formation. We develop a galaxy model framework that ties the linear power spectrum to the inferred efficiencies of galaxy growth while incorporating multiple sources of uncertainties in order to test the structure formation models. The sources of error include (i) observational sample variance, (ii) asymmetric scatter induced by the steepness of the high-mass halo tail, and (iii) systematic uncertainties in stellar mass estimates. We find that the inferred star-formation efficiency is largely controlled by systematic uncertainties in the stellar mass estimates derived from spectral energy distribution modeling of JWST-detected galaxies. Because of the inherent Eddington-like bias, systematic uncertainties amplify the asymmetry of the scatter, in some cases by orders of magnitude, thereby bringing the inferred efficiencies into closer agreement with expectations from early galaxy formation models. We also present how these uncertainties can be applied to the inferred UV luminosity function. Our framework can be used to test $Λ$CDM as errors are reduced and further detections are made.",
+      "categories": [
+        "astro-ph.GA",
+        "astro-ph.CO",
+        "hep-ph"
+      ],
+      "published": "2025-11-17T18:55:24+00:00",
+      "updated": "2026-04-25T19:06:14+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.13708v3",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2511.13708v3"
+    }
+  ],
+  "total": 3
+}

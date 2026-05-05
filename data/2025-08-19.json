@@ -1,0 +1,32 @@
+{
+  "date": "2025-08-19",
+  "papers": [
+    {
+      "arxiv_id": "2508.13923v2",
+      "base_id": "2508.13923",
+      "title": "Hunting for new glitches in LIGO data using community science",
+      "authors": [
+        "E Mackenzie",
+        "C P L Berry",
+        "G Niklasch",
+        "B Téglás",
+        "C Unsworth",
+        "K Crowston",
+        "D Davis",
+        "A K Katsaggelos"
+      ],
+      "abstract": "Data from ground-based gravitational-wave detectors like LIGO contain many types of noise. Glitches are short bursts of non-Gaussian noise that may hinder our ability to identify or analyse gravitational-wave signals. They may have instrumental or environmental origins, and new types of glitches may appear following detector changes. The Gravity Spy project studies glitches and their origins, combining insights from volunteers on the community-science Zooniverse platform with machine learning. Here, we study volunteer proposals for new glitch classes, discussing links between these glitches and the state of the detectors, and examining how new glitch classes pose a challenge for machine-learning classification. Our results demonstrate how Zooniverse empowers non-experts to make discoveries, and the importance of monitoring changes in data quality in the LIGO detectors.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.IM",
+        "physics.ed-ph"
+      ],
+      "published": "2025-08-19T15:18:02+00:00",
+      "updated": "2026-04-22T13:01:30+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.13923v2",
+      "html_url": "https://arxiv.org/html/2508.13923v2",
+      "entry_url": "http://arxiv.org/abs/2508.13923v2"
+    }
+  ],
+  "total": 1
+}

@@ -1,0 +1,148 @@
+{
+  "date": "2025-12-22",
+  "papers": [
+    {
+      "arxiv_id": "2512.19077v2",
+      "base_id": "2512.19077",
+      "title": "The First Model-Independent Upper Bound on Micro-lensing Signature of the Highest Mass Binary Black Hole Event GW231123",
+      "authors": [
+        "Aniruddha Chakraborty",
+        "Suvodip Mukherjee"
+      ],
+      "abstract": "The recently discovered gravitational wave event, GW231123, is the most massive binary black hole merger detected to date. The inferred source masses of the event fall within the pair-instability supernova mass gap, where black holes formed directly from stellar progenitors are expected to be rare, making alternative formation scenarios for such massive black holes especially relevant. One proposed explanation is gravitational lensing, which can make the source masses to be inferred as higher than their true values. In this work, we search for lensing signatures in GW231123, together with other O4a events, using a model-independent approach with mu-GLANCE. The method tests residual strain for correlated features across the detector network via cross-correlation and infers lensing-induced modulations within a Bayesian framework. Our analysis finds no strong evidence for lensing in GW231123, but reveals a potential residual feature that could be consistent with microlensing, with a modulation amplitude of up to 0.8 at 95% confidence. However, we find that waveform systematics for such heavy binary systems are sufficiently large to shadow the lensing signatures in short-duration signals like GW231123, preventing any definitive claim of lensing at this stage. We conclude that, if this event is lensed, similar lensed events will be detectable in the near future with current detector sensitivity, opening a new discovery space for lensed gravitational waves with the aid of more accurate waveform models.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "astro-ph.GA",
+        "astro-ph.HE"
+      ],
+      "published": "2025-12-22T06:37:44+00:00",
+      "updated": "2026-04-18T09:22:35+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.19077v2",
+      "html_url": "https://arxiv.org/html/2512.19077v2",
+      "entry_url": "http://arxiv.org/abs/2512.19077v2"
+    },
+    {
+      "arxiv_id": "2512.19568v2",
+      "base_id": "2512.19568",
+      "title": "On the Metric $f(R)$ gravity Viability in Accounting for the Binned Supernovae Data",
+      "authors": [
+        "A. Valletta",
+        "G. Montani",
+        "M. G. Dainotti",
+        "E. Fazzari"
+      ],
+      "abstract": "In this work, two models of metric $f(R)$ gravity in the Jordan frame are investigated as a dynamical description of the late-time cosmic expansion using binned Type Ia Supernovae data. The aim is to provide an explanation for the effective running of the Hubble constant observed in both the binned Pantheon Sample and the Master Sample. To this end, the effective running Hubble constant $\\mathcal{H}(z)$ is defined as the ratio between the modified Hubble parameter and that of the $Λ$CDM, multiplied by $H_0$. $\\mathcal{H}(z)$ serves as a diagnostic tool to capture deviations from the $Λ$CDM model. The first model used is a general representation of metric $f(R)$ gravity in which the gravitational Lagrangian is encoded in an effective redshift-dependent function that mimics the evolution of the Hubble parameter. This function can be approximated by a second-order Taylor expansion at low redshift due to the limited redshift range covered by the Supernovae data. While this general formulation yields a phenomenological fit compatible with that of the $Λ$CDM model for the binned Pantheon Sample, the model generically leads to the emergence of an unphysical mass of the scalar field. This issue originates from an implicit restriction imposed on the Cauchy problem for the scalar field. To address this limitation, following previous studies, an additional condition on the modified Friedmann equation is introduced, enabling a fully consistent reformulation of the dynamics. It is clarified that this additional condition has a precise dynamical origin, being necessary to restore a consistent Cauchy problem and to ensure a finite, positive scalar field mass. The resulting framework not only preserves the agreement with binned Supernova Ia data, but also provides a physical justification for the additional condition adopted in earlier analyses of late-time cosmological dynamics.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-12-22T16:52:04+00:00",
+      "updated": "2026-04-14T17:42:22+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.19568v2",
+      "html_url": "https://arxiv.org/html/2512.19568v2",
+      "entry_url": "http://arxiv.org/abs/2512.19568v2"
+    },
+    {
+      "arxiv_id": "2512.19480v2",
+      "base_id": "2512.19480",
+      "title": "Quantum critical theories in a periodic potential: strange metallic thermoelectric and magnetotransport",
+      "authors": [
+        "Eric Nilsson",
+        "Koenraad Schalm"
+      ],
+      "abstract": "We study DC and AC thermoelectric and magneto-transport in 2D quantum critical theories with strong translational symmetry breaking due to a % varying chemical potential lattice with zero average $\\barμ=0$. The combination of quantum criticality and the absence of the average natural scale implies that such systems have idiosyncratic signatures that may apply more generally when the variance in the lattice potential far exceeds the average or for strong translational symmetry breaking in general. We model such theories holographically through near-extremal AdS black holes. We find that these systems (a) become \\emph{better} conductors. In a 2D lattice, this can be explained by currents flowing around obstacles; (b) exhibit bad-metal electrical transport with Drude-like thermal transport, though it is not Drude, and, notably, (c) display an approximately $B$-linear longitudinal magnetoresistance at large fields, similar to Effective Medium Theory. We comment on how these results may apply when $\\barμ\\neq 0$.",
+      "categories": [
+        "hep-th",
+        "cond-mat.str-el"
+      ],
+      "published": "2025-12-22T15:32:30+00:00",
+      "updated": "2026-04-14T16:33:10+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.19480v2",
+      "html_url": "https://arxiv.org/html/2512.19480v2",
+      "entry_url": "http://arxiv.org/abs/2512.19480v2"
+    },
+    {
+      "arxiv_id": "2512.19655v2",
+      "base_id": "2512.19655",
+      "title": "Finite-gap potentials as a semiclassical limit of the thermodynamic Bethe Ansatz",
+      "authors": [
+        "Valdemar Melin",
+        "Paul Wiegmann",
+        "Konstantin Zarembo"
+      ],
+      "abstract": "We show that the semiclassical limit of thermodynamic Bethe Ansatz equations naturally reconstructs the algebro-geometric spectra of finite-gap periodic potentials. This correspondence is illustrated using the traveling-wave (snoidal) solution of the defocusing modified Korteweg--de Vries equation. In this framework, the Bethe-root distribution of the associated quantum field theory yields an Abelian differential of the second kind on the elliptic Riemann surface specified by the spectral endpoints, a structure central to the algebro-geometric theory of solitons. The semiclassical parameter is identified with the large-rank limit of the internal symmetry group ($O(2N)$) of the underlying quantum field theory (the Gross-Neveu model with a chemical potential). Our analysis indicates that the analytic structure of the spectrum is dictated solely by the Dynkin diagram ($D_N$) and its large-rank limit ($D_\\infty$), independently of the particular integrable model used to realize it.",
+      "categories": [
+        "hep-th",
+        "cond-mat.str-el",
+        "math-ph"
+      ],
+      "published": "2025-12-22T18:32:30+00:00",
+      "updated": "2026-04-21T17:06:03+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.19655v2",
+      "html_url": "https://arxiv.org/html/2512.19655v2",
+      "entry_url": "http://arxiv.org/abs/2512.19655v2"
+    },
+    {
+      "arxiv_id": "2512.19783v2",
+      "base_id": "2512.19783",
+      "title": "SN 2025ogs: A Spectroscopically-Normal Type Ia Supernova at z = 2 as a Benchmark for Redshift Evolution",
+      "authors": [
+        "M. R. Siebert",
+        "J. D. R. Pierel",
+        "M. Engesser",
+        "D. A. Coulter",
+        "C. Decoursey",
+        "O. D. Fox",
+        "A. Rest",
+        "W. Chen",
+        "J. M. Derkacy",
+        "E. Egami",
+        "R. J. Foley",
+        "D. O. Jones",
+        "K. Kakiichi",
+        "A. M. Koekemoer",
+        "Z. G. Lane",
+        "C. Larison",
+        "D. C. Leonard",
+        "T. J. Moriya",
+        "E. Padilla Gonzalez",
+        "R. M. Quimby",
+        "K. Shukawa",
+        "L. G. Strolger",
+        "Y. Zenati"
+      ],
+      "abstract": "The Nancy Grace Roman Space Telescope will provide a revolutionary measurement of the Universe's expansion kinematics, driven by dark matter and dark energy, out to $z \\approx 3$. The accuracy of this measurement is predicated on the assumption that standardized Type Ia supernova (SN Ia) luminosities do not evolve with redshift. If present, SN Ia luminosity evolution is expected to be most detectable in the dark matter-dominated era of the Universe ($z \\gtrsim 1.5$), with its effects becoming more easily distinguishable from dark energy variation at increasing redshift. We present JWST NIRCam and NIRSpec observations of SN 2025ogs, a normal SN Ia at $z=2.05\\pm 0.01$. This SN offers a key point of comparison for interpreting future high-redshift SN Ia samples. The NIRCam light curve indicates a blue color ($B - V = -0.27 \\pm 0.06$ mag) and a moderately fast decline ($Δm_{15}(B) = 1.55 \\pm 0.15$ mag), both within standard criteria for inclusion in cosmological analyses. Its luminosity distance is in $1.0σ$ agreement with a standard flat $Λ$CDM model, as well as with current cosmological constraints from the Dark Energy Survey (DES 5yr) and Pantheon+. The NIRSpec spectrum displays all of the hallmark absorption features of a normal SN Ia observed at peak brightness. We find that the rest-frame optical color, rest-frame near-ultraviolet properties, and Si II line strengths are all consistent with the moderately fast decline inferred from the light curve. Multiple absorption features (Ca II H&K, O I $\\lambda7774$, and the Ca II NIR triplet) all appear at a lower blueshift relative to a sample of low-$z$ SNe Ia. Together, these results suggest that SN Ia standardization remains robust at $z \\approx 2$, and also highlight the importance of JWST spectroscopy for uncovering evolutionary effects that could impact Roman's high-precision cosmology.",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.HE"
+      ],
+      "published": "2025-12-22T19:00:01+00:00",
+      "updated": "2026-04-27T16:24:07+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.19783v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2512.19783v2"
+    },
+    {
+      "arxiv_id": "2512.19907v2",
+      "base_id": "2512.19907",
+      "title": "Astrophysical constraints on the cold equation of state of the strongly interacting matter",
+      "authors": [
+        "Gábor Kasza",
+        "János Takátsy",
+        "György Wolf"
+      ],
+      "abstract": "At present, the only experimental access to the properties of cold, dense strongly interacting matter is provided by astrophysical observations. Neutron stars are the only known systems in the Universe that reach densities several times higher than normal nuclear density at nearly zero temperature, making them unique laboratories for studying dense matter. Since most neutron star observables are sensitive to the equation of state (EOS), observational data place stringent constraints on the EOS of strongly interacting matter. In this work, we investigate constraints arising from perturbative QCD calculations at asymptotically high densities ($ρ\\approx 40 ρ_0$), the mass of the heaviest observed neutron star (a black widow pulsar), NICER mass-radius measurements, and the tidal deformability inferred from the binary neutron star merger GW170817. We parametrize the EOS and allow its parameters to vary freely, using observational data to constrain the admissible parameter space. We find that neutron star observations significantly restrict the EOS of dense strongly interacting matter. While NICER has already provided measurements for five pulsars, the associated uncertainties remain relatively large. Within our modeling framework, we find that the existence of very massive neutron stars and constraints on the tidal deformability provide the most restrictive constraints on the EOS.",
+      "categories": [
+        "astro-ph.HE",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "published": "2025-12-22T22:21:58+00:00",
+      "updated": "2026-04-29T09:52:59+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.19907v2",
+      "html_url": "https://arxiv.org/html/2512.19907v2",
+      "entry_url": "http://arxiv.org/abs/2512.19907v2"
+    }
+  ],
+  "total": 6
+}

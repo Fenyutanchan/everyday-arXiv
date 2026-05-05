@@ -1,0 +1,27 @@
+{
+  "date": "2025-04-21",
+  "papers": [
+    {
+      "arxiv_id": "2504.15458v4",
+      "base_id": "2504.15458",
+      "title": "Compton Form Factor Extraction using Quantum Deep Neural Networks",
+      "authors": [
+        "Brandon B. Le",
+        "Dustin Keller"
+      ],
+      "abstract": "We extract Compton form factors (CFFs) from deeply virtual Compton scattering measurements at the Thomas Jefferson National Accelerator Facility (JLab) using quantum-inspired deep neural networks (QDNNs). The analysis implements the twist-2 Belitsky-Kirchner-Müller formalism and employs a fitting strategy that emulates standard local fits. Using pseudodata, we benchmark QDNNs against classical deep neural networks (CDNNs) and find that QDNNs often deliver higher predictive accuracy and tighter uncertainties at comparable model complexity. Guided by these results, we introduce a quantitative selection metric that indicates when QDNNs or CDNNs are optimal for a given experimental fit. After obtaining local extractions from the JLab data, we perform a standard neural-network global CFF fit and compare with previous global analyses. The results support QDNNs as an efficient and complementary tool to CDNNs for CFF determination and for future multidimensional studies of parton distributions and hadronic structure.",
+      "categories": [
+        "cs.LG",
+        "hep-ph",
+        "nucl-th",
+        "quant-ph"
+      ],
+      "published": "2025-04-21T21:56:49+00:00",
+      "updated": "2026-04-29T14:57:11+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2504.15458v4",
+      "html_url": "https://arxiv.org/html/2504.15458v4",
+      "entry_url": "http://arxiv.org/abs/2504.15458v4"
+    }
+  ],
+  "total": 1
+}

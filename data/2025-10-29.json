@@ -1,0 +1,67 @@
+{
+  "date": "2025-10-29",
+  "papers": [
+    {
+      "arxiv_id": "2510.25994v2",
+      "base_id": "2510.25994",
+      "title": "Hyperbolic Fracton Model, Subsystem Symmetry and Holography III: Extension to Generic Tessellations",
+      "authors": [
+        "Yosef Shokeeb",
+        "Ludovic D. C. Jaubert",
+        "Han Yan"
+      ],
+      "abstract": "We generalize the Hyperbolic Fracton Model from the $\\{5,4\\}$ tessellation to generic tessellations, and investigate its core properties: subsystem symmetries, fracton mobility, and holographic correspondence. While the model on the original tessellation has features reminiscent of the flat-space lattice cases, the generalized tessellations exhibit a far richer and more intricate structure. The ground-state degeneracy and subsystem symmetries are generated recursively layer-by-layer, through the inflation rule, but without a simple, uniform pattern. The fracton excitations follow exponential-in-distance and algebraic-in-lattice-size growing patterns when moving outward, and depend sensitively to the tessellation geometry, differing qualitatively from both type-I or type-II fracton model on flat lattices. Despite this increased complexity, the hallmark holographic features -- subregion duality via Rindler reconstruction, the Ryu-Takayanagi formula for mutual information, and effective black hole entropy scaling with horizon area -- remain valid. These results demonstrate that the holographic correspondence in fracton models persists in generic tessellations, and provide a natural platform to explore more intricate subsystem symmetries and fracton physics.",
+      "categories": [
+        "cond-mat.str-el",
+        "hep-th",
+        "quant-ph"
+      ],
+      "published": "2025-10-29T22:10:04+00:00",
+      "updated": "2026-04-15T13:14:55+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.25994v2",
+      "html_url": "https://arxiv.org/html/2510.25994v2",
+      "entry_url": "http://arxiv.org/abs/2510.25994v2"
+    },
+    {
+      "arxiv_id": "2510.25709v2",
+      "base_id": "2510.25709",
+      "title": "Conformal gauge theory of vector-spinors and spin-3/2 particles",
+      "authors": [
+        "Dario Sauro"
+      ],
+      "abstract": "The unique off-shell fermionic gauge invariance of a vector-spinor field theory is found, and the invariant action is derived. The latter is Weyl invariant in any dimension in the massless limit, and it coincides with the singular point of the one-parameter family of Rarita-Schwinger Lagrangians, in agreement with previous findings in flat space. Pure gauge configurations are represented by gamma-trace vector-spinors, which can be gauged away in a global fashion. Previous claims that this theory is classically inconsistent are shown to be flawed, and the Velo-Zwanziger instability is proved to be absent. The theory propagates a massive spin-3/2 particle together with a spin-1/2 state whose mass is twice that of the j=3/2 mode. The causal construction of the quantum field is consistent with the field equations in that the ratio of the masses is the same, while it shows that the lower-spin component is a negative-norm state. The conformal anomaly is derived using known results for the heat kernel of nonminimal second-order operators, and the resulting $a$ charge is negative consistently with the Hofman-Maldacena bound, which applies only to unitary theories.",
+      "categories": [
+        "hep-th",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "published": "2025-10-29T17:19:29+00:00",
+      "updated": "2026-04-21T15:15:39+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.25709v2",
+      "html_url": "https://arxiv.org/html/2510.25709v2",
+      "entry_url": "http://arxiv.org/abs/2510.25709v2"
+    },
+    {
+      "arxiv_id": "2510.25613v2",
+      "base_id": "2510.25613",
+      "title": "Muon Beam Dump Experiments explicate five-dimensional nature of $U(1)_{L_μ-L_τ}$",
+      "authors": [
+        "Dibyendu Chakraborty",
+        "Arindam Chatterjee",
+        "Ayushi Kaushik",
+        "Kenji Nishiwaki"
+      ],
+      "abstract": "We have investigated the prospects of probing the five-dimensional $U(1)_{L_μ- L_τ}$ interactions in present and future muon dump experiments, namely, NA64$_μ$, M$^3$, MuSIC, and a future muon beam dump experiment. These experiments are classified into two categories: the first two can probe processes where feebly interacting massive particles go into invisible channels, while the latter two can probe processes where these states decay into muon pairs. These two types of experiments are complementary in that they allow exploration of different parameter regions of a model. In our scenario, the presence of multiple massive gauge bosons as Kaluza-Klein (KK) particles leads to an enhancement in the signal events compared to the corresponding four-dimensional scenario. In particular, the decay process into muon pairs enables mass reconstruction of the parent particle, making it possible to directly demonstrate the existence of multiple KK particles in at least some parameter regions. This can provide clear evidence that the origin of the $U(1)_{L_μ- L_τ}$ interaction lies in five dimensions. Furthermore, the muon $(g-2)$ value, which is now consistent with the SM, can be used to exclude specific parameter regions for new particles interacting with muons. We also carefully discuss the non-trivial effects arising from nonzero kinetic mixing.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2025-10-29T15:17:41+00:00",
+      "updated": "2026-04-20T22:03:52+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.25613v2",
+      "html_url": "https://arxiv.org/html/2510.25613v2",
+      "entry_url": "http://arxiv.org/abs/2510.25613v2"
+    }
+  ],
+  "total": 3
+}

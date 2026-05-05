@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-18",
+  "papers": [
+    {
+      "arxiv_id": "2603.18285v2",
+      "base_id": "2603.18285",
+      "title": "Continuous symmetry analysis and systematic identification of candidate order parameters for interacting fermion models",
+      "authors": [
+        "Cheng-Hao He",
+        "Yi-Zhuang You",
+        "Xiao Yan Xu"
+      ],
+      "abstract": "Symmetry plays a central role in modern physics, from classifying quantum states to characterizing phases of matter through spontaneous symmetry breaking. In interacting fermionic systems with multiple internal degrees of freedom, however, determining the full continuous symmetry group and classifying possible order parameters remain challenging. In this work, we present a systematic framework for analyzing continuous symmetries and identifying candidate order parameters in such systems. By mapping the Hamiltonian to a Majorana representation, we obtain the generators of continuous symmetries from the Lie algebra of operators that commute with the Hamiltonian. We then identify the structure of this Lie algebra using the theory of semisimple Lie algebras. Building on representation theory, we further develop a systematic method for exhaustively enumerating candidate order parameters. By decomposing the exterior-power representations induced by the symmetry algebra on the Majorana space and incorporating discrete lattice symmetries, we classify these order parameters according to the symmetries they break. (Abridged. Please see the PDF manuscript for the complete abstract and specific model applications.)",
+      "categories": [
+        "cond-mat.str-el",
+        "hep-th",
+        "quant-ph"
+      ],
+      "published": "2026-03-18T21:16:22+00:00",
+      "updated": "2026-04-17T05:52:25+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.18285v2",
+      "html_url": "https://arxiv.org/html/2603.18285v2",
+      "entry_url": "http://arxiv.org/abs/2603.18285v2"
+    },
+    {
+      "arxiv_id": "2603.18278v2",
+      "base_id": "2603.18278",
+      "title": "Symmetric Mass Generation in a Bilayer Honeycomb Lattice with $\\mathrm{SU}(2)\\times\\mathrm{SU}(2)\\times\\mathrm{SU}(2)/\\mathbb{Z}_2$ Symmetry",
+      "authors": [
+        "Cheng-Hao He",
+        "Yi-Zhuang You",
+        "Xiao Yan Xu"
+      ],
+      "abstract": "A central question beyond the Landau paradigm is the non-perturbative critical theory of the symmetric mass generation (SMG) transition, where strong interactions gap Dirac fermions in (2+1) dimensions without triggering spontaneous symmetry breaking or topological order. While previous studies have already provided evidence for direct SMG transitions in (2+1) dimensions, the fermion scaling dimension -- the key observable for distinguishing candidate critical theories -- has not been determined in a controlled unbiased way. In this Letter, using large-scale determinant quantum Monte Carlo (DQMC) simulations of a bilayer honeycomb lattice model with $\\mathrm{SU}(2)\\times\\mathrm{SU}(2)\\times\\mathrm{SU}(2)/\\mathbb{Z}_2$ symmetry, we establish a direct continuous transition by observing the simultaneous opening of single-particle and bosonic gaps at a critical coupling $J_c \\approx 2.6$ with correlation length exponent $ν= 1.14(2)$, while an exhaustive search over all 19 symmetry-inequivalent fermion bilinear order parameters confirms the absence of any symmetry breaking. We further obtain the first controlled unbiased estimate of the fermion anomalous dimension, $η_ψ= 0.071(1)$, which deviates significantly from the large-$N$ prediction ($η_ψ\\approx 0.595$) and variational Monte Carlo estimates ($η_ψ\\approx 0.62$), thereby placing direct quantitative constraints on SMG criticality. By contrasting with a related $\\mathrm{Spin}(5)\\times\\mathrm{U}(1)/\\mathbb{Z}_2$ model that develops an intermediate excitonic phase, we show that pure non-Abelian symmetry plays a decisive role in stabilizing the direct SMG transition.",
+      "categories": [
+        "cond-mat.str-el",
+        "hep-lat",
+        "hep-th"
+      ],
+      "published": "2026-03-18T20:51:20+00:00",
+      "updated": "2026-04-17T05:47:52+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.18278v2",
+      "html_url": "https://arxiv.org/html/2603.18278v2",
+      "entry_url": "http://arxiv.org/abs/2603.18278v2"
+    },
+    {
+      "arxiv_id": "2603.17364v2",
+      "base_id": "2603.17364",
+      "title": "Finite-$N$ Bootstrap Constraints in Matrix and Tensor Models",
+      "authors": [
+        "Samuel Laliberte",
+        "Reiko Toriumi"
+      ],
+      "abstract": "We explore how matrix bootstrap techniques can be used to constrain matrix and tensor models at finite $N$, where $N$ is the dimension of the matrix/tensor, taking a Gaussian model with a quartic interaction as example. For matrix models, we find further evidence that bounds do not depend explicitly on $N$, but rather on properties of multi-trace expectation values. For tensor models, the structure of the Schwinger-Dyson equations allow for bounds that vary as a function of $N$, admitting a broader scan of the parameter space of the theory. In the latter case, we find novel bounds on the two-point function as a function of the quartic coupling of the theory.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2026-03-18T05:07:52+00:00",
+      "updated": "2026-05-01T05:07:54+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.17364v2",
+      "html_url": "https://arxiv.org/html/2603.17364v2",
+      "entry_url": "http://arxiv.org/abs/2603.17364v2"
+    }
+  ],
+  "total": 3
+}

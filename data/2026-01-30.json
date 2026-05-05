@@ -1,0 +1,49 @@
+{
+  "date": "2026-01-30",
+  "papers": [
+    {
+      "arxiv_id": "2601.22910v3",
+      "base_id": "2601.22910",
+      "title": "The Bondi universe: Can negative mass drive the cosmological expansion?",
+      "authors": [
+        "Giovanni Manfredi",
+        "Jean-Louis Rouet",
+        "Bruce Miller"
+      ],
+      "abstract": "We identify a new cosmological coincidence that parallels the well-known matter/dark-energy coincidence: the present-epoch transition of the universe from a weakly coupled (collisionless) to a strongly coupled (collisional) gravitational regime. Within a cosmological model containing equal amounts of positive and negative Bondi masses -- consistent with the weak equivalence principle and momentum conservation -- we show that this coupling transition naturally coincides with the shift from a coasting to an accelerating expansion. A linear response analysis of the corresponding Vlasov-Poisson system reveals that mixed positive-negative mass configurations are always unstable, with growth rates that increase at shorter wavelengths, thereby driving the system toward strong coupling. Using long-time, exact one-dimensional N-body simulations, we demonstrate that the universe undergoes three successive expansion phases: an initial ballistic regime, an intermediate random-walk acceleration driven by sporadic Bondi encounters, and finally a uniformly accelerating phase triggered by the formation of stable positive/negative mass pairs. The onset of this last phase occurs precisely when the coupling parameter crosses unity, linking the two cosmological coincidences through a single dynamical mechanism. These results suggest that cosmic acceleration may arise from the nonlinear dynamics of a gravitationally neutral mixed-mass universe, without invoking dark energy or a cosmological constant.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "published": "2026-01-30T12:33:22+00:00",
+      "updated": "2026-04-20T15:45:28+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.22910v3",
+      "html_url": "https://arxiv.org/html/2601.22910v3",
+      "entry_url": "http://arxiv.org/abs/2601.22910v3"
+    },
+    {
+      "arxiv_id": "2601.22914v3",
+      "base_id": "2601.22914",
+      "title": "Exact black holes and black branes with bumpy horizons supported by superfluid pions",
+      "authors": [
+        "Fabrizio Canfora",
+        "Andrés Gomberoff",
+        "Carla Henríquez-Baez",
+        "Aldo Vera"
+      ],
+      "abstract": "We present exact solutions of the Einstein $SU(2)$ non-linear sigma model in $3+1$ spacetime dimensions, describing bumpy black holes and black branes. Using an Ansatz for superfluid pion multi-vortices, the matter sector reduces to a first-order BPS system, while the Einstein equations reduce to a Liouville equation with a smooth source governing the horizon deformation. These solutions describe horizons of different constant curvatures, with nontrivial bumpy geometries protected by an integer topological invariant, namely the vorticity, which also controls the number of bumps and the black hole thermodynamics. Remarkably, such horizons arise in a minimal and physically motivated matter model, without invoking exotic fields or modified gravity. The physical implications of these results in holography and astrophysics are briefly described.",
+      "categories": [
+        "hep-th",
+        "astro-ph.HE",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "published": "2026-01-30T12:34:35+00:00",
+      "updated": "2026-04-15T21:28:22+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.22914v3",
+      "html_url": "https://arxiv.org/html/2601.22914v3",
+      "entry_url": "http://arxiv.org/abs/2601.22914v3"
+    }
+  ],
+  "total": 2
+}

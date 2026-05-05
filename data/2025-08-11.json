@@ -1,0 +1,50 @@
+{
+  "date": "2025-08-11",
+  "papers": [
+    {
+      "arxiv_id": "2508.08359v4",
+      "base_id": "2508.08359",
+      "title": "A Compact Story of Positivity in de Sitter",
+      "authors": [
+        "Priyesh Chakraborty",
+        "Timothy Cohen",
+        "Daniel Green",
+        "Yiwen Huang"
+      ],
+      "abstract": "Recent developments have yielded significant progress towards systematically understanding loop corrections to de Sitter (dS) correlators. In close analogy with physics in Anti-de Sitter (AdS), large logarithms can result from loops that can be interpreted as corrections to the dimensions of operators. In contrast with AdS, these dimensions are not manifestly real. This implies that the theoretical constraints on the associated correlators are less transparent, particularly in the presence of light scalars. In this paper, we revisit these issues by performing and comparing calculations using the spectral representation approach and the Soft de Sitter Effective Theory (SdSET). We review the general arguments that yield positivity constraints on dS correlators from both perspectives. Our particular focus will be on vertex operators for compact scalar fields, since this case introduces novel complications. We will explain how to resolve apparent disagreements between different techniques for calculating the anomalous dimensions for principal series fields coupled to these vertex operators. Along the way, we will offer new proofs of positivity of the anomalous dimensions, and explain why renormalization group flow associated with these anomalous dimensions in SdSET is the same as resumming bubble diagrams in the spectral representation.",
+      "categories": [
+        "hep-th",
+        "astro-ph.CO",
+        "hep-ph"
+      ],
+      "published": "2025-08-11T18:00:01+00:00",
+      "updated": "2026-04-24T02:40:52+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.08359v4",
+      "html_url": "https://arxiv.org/html/2508.08359v4",
+      "entry_url": "http://arxiv.org/abs/2508.08359v4"
+    },
+    {
+      "arxiv_id": "2508.07919v2",
+      "base_id": "2508.07919",
+      "title": "Topological Strings in SU(3) Gauge Theory at Finite Temperature",
+      "authors": [
+        "Sanatan Digal",
+        "Vinod Mamale",
+        "Sumit Shaw"
+      ],
+      "abstract": "We investigate string configurations in the deconfined phase of SU(3) gauge theory, which arise from the spontaneous breaking of the $Z_3$ center symmetry. These configurations form at the junctions of domain walls of the theory. The complex phase of the Polyakov loop changes by multiples of $2π$ on large spatial loops around the string, rendering them topologically stable. Using the Monte Carlo simulations of the partition function, we compute the free energy associated with these configurations. The simulations are performed on lattices with spatial dimensions $N_{x,y}=60, N_z=4$, and temporal extent $N_τ=2$. Our results show that the free energy of the $Z_3-$strings is dominated by the domain walls. Further near the transition point, thermal fluctuations cause the decay of domain walls as well as the $Z_3$ strings into confined-deconfined interfaces.",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "hep-th",
+        "nucl-th"
+      ],
+      "published": "2025-08-11T12:33:11+00:00",
+      "updated": "2026-05-01T09:11:03+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.07919v2",
+      "html_url": "https://arxiv.org/html/2508.07919v2",
+      "entry_url": "http://arxiv.org/abs/2508.07919v2"
+    }
+  ],
+  "total": 2
+}

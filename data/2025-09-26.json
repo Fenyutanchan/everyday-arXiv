@@ -1,0 +1,51 @@
+{
+  "date": "2025-09-26",
+  "papers": [
+    {
+      "arxiv_id": "2509.22180v2",
+      "base_id": "2509.22180",
+      "title": "Detection of HI filament: Pair Stacking vs. Filament Stacking",
+      "authors": [
+        "Yuxi Meng",
+        "Jie Wang",
+        "Yingjie Jing",
+        "Hongxiang Chen",
+        "Zerui Liu"
+      ],
+      "abstract": "The faint 21 cm signal emitted by neutral hydrogen in cosmic filaments is expected to be detectable. However, due to its weakness, stacking techniques are required. We assessed two stacking methods--pair stacking and filament stacking--using the EAGLE and IllustrisTNG simulations. Pair stacking leverages the fact that cosmic filaments connect massive structures (i.e., knots) in the cosmic web, while filament stacking directly aggregates filaments identified from galaxy distributions. Our analysis indicates that, although pair stacking is convenient, it faces contamination from massive structures; after removing this contamination, the filament signal is significantly reduced. In contrast, HI detection via filament stacking appears more promising. The column density in filament stacking reaches $\\sim 10^{16}$--$10^{17}~\\mathrm{cm}^{-2}$ even when all haloes are masked, whereas pair stacking does not reach this level even without masking, and is further suppressed by several orders of magnitude once masking is applied. The effectiveness of filament stacking can be further improved with higher galaxy number density and better spatial resolution in radio intensity mapping observations. With the advent of upcoming optical and radio data, the detection of HI in cosmic filaments remains promising.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2025-09-26T10:38:35+00:00",
+      "updated": "2026-04-20T10:12:20+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.22180v2",
+      "html_url": "https://arxiv.org/html/2509.22180v2",
+      "entry_url": "http://arxiv.org/abs/2509.22180v2"
+    },
+    {
+      "arxiv_id": "2509.22051v2",
+      "base_id": "2509.22051",
+      "title": "From gauging to duality in one-dimensional quantum lattice models",
+      "authors": [
+        "Bram Vancraeynest-De Cuiper",
+        "José Garre-Rubio",
+        "Frank Verstraete",
+        "Kevin Vervoort",
+        "Dominic J. Williamson",
+        "Laurens Lootens"
+      ],
+      "abstract": "Gauging and duality transformations, two of the most useful tools in many-body physics, are shown to be equivalent up to constant depth quantum circuits in the case of one-dimensional quantum lattice models. This is demonstrated by making use of matrix product operators, which provide the lattice representation theory for global (categorical) symmetries as well as a classification of duality transformations. Our construction makes the symmetries of the gauged theory manifest and clarifies how to deal with static background fields when gauging generalised symmetries.",
+      "categories": [
+        "cond-mat.str-el",
+        "hep-th",
+        "math-ph"
+      ],
+      "published": "2025-09-26T08:34:55+00:00",
+      "updated": "2026-04-20T08:17:21+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.22051v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2509.22051v2"
+    }
+  ],
+  "total": 2
+}

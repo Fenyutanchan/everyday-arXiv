@@ -1,0 +1,61 @@
+{
+  "date": "2025-10-15",
+  "papers": [
+    {
+      "arxiv_id": "2510.14148v3",
+      "base_id": "2510.14148",
+      "title": "On $β$-function of $\\mathcal{N}=2$ supersymmetric integrable sigma models II",
+      "authors": [
+        "Mikhail Alfimov",
+        "Andrey Kurakin"
+      ],
+      "abstract": "We continue studying regularization scheme dependence of the $\\mathcal{N}=2$ supersymmetric sigma models. In the present work the previous result for the four loop $β$-function is extended to the five loop order. Namely, we find the renormalization scheme, in which the fifth loop contribution is completely eliminated, while the fourth loop contribution is represented by the certain invariant, which is coordinate independent for the metrics of some models. These models include complete $T$-duals of the $η$-deformed $SU(n)/U(n-1)$ models, as well as $η$- and $λ$-deformed $SU(2)/U(1)$ models, whose metrics solve the RG flow equation up to the fifth loop order. We also comment on the $λ$-deformed $SU(2)/U(1)$ and $SU(3)/U(2)$ case, showing that they satisfy five-loop RG flow equation, and discuss their Kähler structure.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2025-10-15T22:36:09+00:00",
+      "updated": "2026-04-21T07:35:47+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.14148v3",
+      "html_url": "https://arxiv.org/html/2510.14148v3",
+      "entry_url": "http://arxiv.org/abs/2510.14148v3"
+    },
+    {
+      "arxiv_id": "2510.13962v3",
+      "base_id": "2510.13962",
+      "title": "Simulation budgeting for hybrid effective field theories",
+      "authors": [
+        "Alexa Bartlett",
+        "Joseph DeRose",
+        "Martin White"
+      ],
+      "abstract": "In this work, we forecast the number of, and requirements on, N-body simulations needed to train hybrid effective field theory (HEFT) emulators for a range of use cases, using a hybrid of HMcode and perturbation theory as a surrogate model. Our accuracy goals, determined with careful consideration of statistical and systematic uncertainties, are $1\\%$ accurate in the high-likelihood range of cosmological parameters, and $2\\%$ accurate over a broader parameter space volume for $k<1 h Mpc^{-1}$ and $z<3$. Focusing in part on the 8-parameter $w_0w_a$CDM+$m_ν$ cosmological model, we find that $<225$ simulations are required to meet our error goals over our wide parameter space, including models with rapidly evolving dark energy, given our simulation and emulator recommendations. For a more restricted parameter space volume, as few as 80 simulations are sufficient. We additionally present simulation forecasts for example use cases, and make the code used in our analyses publicly available. These results offer practical guidance for efficient emulator design and simulation budgeting in future cosmological analyses.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2025-10-15T18:00:04+00:00",
+      "updated": "2026-04-21T21:19:27+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.13962v3",
+      "html_url": "https://arxiv.org/html/2510.13962v3",
+      "entry_url": "http://arxiv.org/abs/2510.13962v3"
+    },
+    {
+      "arxiv_id": "2510.13971v2",
+      "base_id": "2510.13971",
+      "title": "Open case for a closed universe",
+      "authors": [
+        "Nathan L. Burwig",
+        "Damien A. Easson"
+      ],
+      "abstract": "We establish a new no-go theorem for cosmology: spatially flat ($k=0$) and open ($k=-1$) Friedmann--Robertson--Walker (FRW) non-static spacetimes cannot be simultaneously nonsingular, geodesically complete, and consistent with the averaged null energy condition (ANEC). Equivalently, any dynamic flat or open universe that is complete must violate the ANEC. By contrast, closed universes ($k=+1$) uniquely admit nonsingular, geodesically complete, ANEC-consistent solutions, with global de Sitter space as the canonical realization that saturates the ANEC. Furthermore, we analytically demonstrate that positive spatial curvature naturally mimics the phenomenology of phantom dark energy ($w<-1$), biasing flat-model reconstructions of $w(z)$ at the $\\sim 1\\%$ level. These results augment the classical singularity theorems, establish a new classification of eternal cosmologies, and motivate renewed scrutiny of spatial curvature in both theory and observation.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2025-10-15T18:01:16+00:00",
+      "updated": "2026-04-24T02:05:13+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.13971v2",
+      "html_url": "https://arxiv.org/html/2510.13971v2",
+      "entry_url": "http://arxiv.org/abs/2510.13971v2"
+    }
+  ],
+  "total": 3
+}

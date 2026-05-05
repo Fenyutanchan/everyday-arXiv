@@ -1,0 +1,48 @@
+{
+  "date": "2026-01-14",
+  "papers": [
+    {
+      "arxiv_id": "2601.09707v2",
+      "base_id": "2601.09707",
+      "title": "Precision asymptotics of string amplitudes",
+      "authors": [
+        "Marco Maria Baccianti",
+        "Lorenz Eberhardt",
+        "Sebastian Mizera"
+      ],
+      "abstract": "Recent work revealed a tension between the Gross-Mende analysis of the high-energy fixed-angle behavior of string amplitudes and the explicit numerical data. Motivated by this puzzle, we revisit the problem of classifying saddle-point geometries for the one-loop amplitude. We find an infinite family of complex saddles that dominate the high-energy regime. Using general constraints and matching to numerical data, we formulate a bootstrap problem that determines their multiplicities. This procedure yields a precise asymptotic expansion of the one-loop amplitude at high energies. The resulting oscillatory contributions lead to a much richer high-energy behavior than that predicted by the original Gross-Mende analysis.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2026-01-14T18:59:59+00:00",
+      "updated": "2026-04-28T17:13:20+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.09707v2",
+      "html_url": "https://arxiv.org/html/2601.09707v2",
+      "entry_url": "http://arxiv.org/abs/2601.09707v2"
+    },
+    {
+      "arxiv_id": "2601.09801v2",
+      "base_id": "2601.09801",
+      "title": "Probing the Chaos to Integrability Transition in Double-Scaled SYK",
+      "authors": [
+        "Sergio E. Aguilar-Gutierrez",
+        "Rathindra Nath Das",
+        "Johanna Erdmenger",
+        "Zhuo-Yu Xian"
+      ],
+      "abstract": "We investigate how a thermodynamical first-order phase transition affects the dynamical chaotic behaviour of a given model. To this effect, we analyze the model of Berkooz, Brukner, Jia and Mamroud that interpolates between the double-scaled SYK model and an integrable chord Hamiltonian. This model exhibits a first-order transition, characterized by a kink in the free energy, between the chaotic and quasi-integrable phases, with the branch of subdominant saddles interpolating between them. We characterize the dynamical behavior across the phase diagram using the chord number, Krylov complexity, and operator size. The chord number, which is proportional to the Krylov state complexity in the classical limit, exhibits a discontinuous transition from linear to quadratic growth at the transition point. Similarly, the Krylov operator complexity and the operator size, as scrambling diagnostics, exhibit discontinuous transitions from exponential to quadratic growth. We also discuss a possible holographic interpretation of the model.",
+      "categories": [
+        "hep-th",
+        "cond-mat.str-el",
+        "nlin.CD",
+        "quant-ph"
+      ],
+      "published": "2026-01-14T19:08:01+00:00",
+      "updated": "2026-04-28T13:42:45+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.09801v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2601.09801v2"
+    }
+  ],
+  "total": 2
+}

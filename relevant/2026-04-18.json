@@ -1,0 +1,90 @@
+{
+  "date": "2026-04-18",
+  "total": 3,
+  "papers": [
+    {
+      "arxiv_id": "2512.16976v2",
+      "base_id": "2512.16976",
+      "title": "Creation of spin-3/2 dark matter via cosmological gravitational particle production",
+      "authors": [
+        "Edward W. Kolb",
+        "Andrew J. Long",
+        "Evan McDonough",
+        "Jingyuan Wang"
+      ],
+      "abstract": "We study the cosmological gravitational particle production (CGPP) of spin-3/2 particles during and after cosmic inflation, and map the parameter space that can realize the observed dark matter density in stable spin-3/2 particles. Originally formulated by Rarita and Schwinger, the relativistic theory of a massive spin-3/2 field later found a home in supergravity as the superpartner of the graviton, and in nuclear physics as baryonic resonances and nuclear isotopes. We study a minimal model realization, namely a free massive spin-3/2 field minimally coupled to gravity, and adopt the name raritron for this field. We demonstrate that CGPP of raritrons crucially depends on the hierarchy between the raritron mass $m_{3/2}$ and the Hubble parameter at the end of inflation $H_e$, with high-mass and low-mass cases distinguished by the evolution of the sound speed $c_s$ of the longitudinal (helicity-1/2) mode, which is approximately unity at all times for heavy (relative to Hubble) raritrons and can become small or vanish for lighter raritrons, leading to a dramatic enhancement of production of high momentum particles in the latter case. Assuming the raritrons are stable, this leads to a wide parameter space to produce the observed dark matter density. Finally, we consider a time-dependent raritron mass, which can be chosen to remove the vanishing sound speed of the longitudinal mode, but which nonetheless enhances the production relative to the constant high-mass case, and in particular does not necessarily tame the high momentum tail of the spectrum. We perform our calculations using the Bogoliubov formalism and compare, when applicable, to the Boltzmann formalism.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2025-12-18T18:45:39+00:00",
+      "updated": "2026-04-18T18:32:25+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.16976v2",
+      "html_url": "https://arxiv.org/html/2512.16976v2",
+      "entry_url": "http://arxiv.org/abs/2512.16976v2",
+      "relevance": {
+        "relevant": true,
+        "score": 7,
+        "reason": "The paper directly relates to the user's early-universe cosmology interests, studying cosmological gravitational particle production during inflation and reheating—the same reheating dynamics and post-inflationary particle production phenomena that are central to the user's research profile.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2508.14535v2",
+      "base_id": "2508.14535",
+      "title": "Axion Star Bosenova in Axion Miniclusters",
+      "authors": [
+        "Zihang Wang",
+        "Yu Gao"
+      ],
+      "abstract": "Axionic dark matter can form structures known as miniclusters that host an axion star at their center. The axion star feeds on the host, and the axion star mass may grow beyond its stability limit, leading to a potential bosenova. Since a dilute axion star has a stable mass limit only when self-interaction is considered, we include axion self-interaction effects in this paper, and specify the condition for bosenova in the QCD axion and temperature-independent axion-like particle parameter spaces. We find that self-interaction may dominate the mass growth of the axion star. For a minicluster with a large initial overdensity, bosenova occurs in a large fraction of axion parameter space. For the QCD axion, bosenova occurs within the age of the Universe for miniclusters with an initial overdensity $δ\\gtrsim 100$.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.HE"
+      ],
+      "published": "2025-08-20T08:41:10+00:00",
+      "updated": "2026-04-18T14:41:46+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.14535v2",
+      "html_url": "https://arxiv.org/html/2508.14535v2",
+      "entry_url": "http://arxiv.org/abs/2508.14535v2",
+      "relevance": {
+        "relevant": true,
+        "score": 6,
+        "reason": "This paper on axion star bosenova in miniclusters relates to the researcher's interest in axion and dark matter physics, but focuses on cosmological structure formation and axion star dynamics rather than the researcher's specific interests in Primakoff solar axion flux, axion detection strategies, or JUNO phenomenology.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2509.21148v3",
+      "base_id": "2509.21148",
+      "title": "Scalaron dark matter dynamics: effects of Higgs non-minimal coupling to gravity",
+      "authors": [
+        "Shibendu Gupta Choudhury",
+        "Koushik Dutta",
+        "Deep Ghosh"
+      ],
+      "abstract": "One of the key features of the $R^2$-gravity is the embedding of a scalar field, scalaron, into the gravity sector. The scalaron interacts with the Standard Model (SM) matter fields through Planck-suppressed couplings. If the scalaron serves as a viable dark matter (DM) candidate, it can account for the lack of evidence of DM interactions beyond gravity in experimental and observational probes to date. The realization of the scalaron, as a cold DM candidate, depends on an induced trilinear interaction with the SM Higgs via its quartic self coupling. Here, we introduce a Higgs non-minimal coupling to gravity that additionally contributes to the induced trilinear interaction with its existing competing part, originated from the $R^2$-gravity. We study the interplay between these two contributions in the early universe, which determines both the initial conditions and evolution of the scalaron, leading to cold DM behavior at a later epoch. The trilinear interaction vanishes at the leading order for certain combinations of the Higgs non-minimal coupling ($ξ$) and the scalaron mass ($m$), thereby setting the scalaron density through misalignment mechanism, as in axions. In this case, the scalaron DM mass is obtained as, $2.7 ~{\\rm meV} \\lesssim m \\lesssim 0.7 ~\\rm{MeV}$. The lower limit on the mass is set by the fifth force constraints, whereas the upper bound arises from INTEGRAL/SPI limits on the excess gamma-ray flux due to scalaron decaying into two photons. On the other hand, when the trilinear interaction is non-zero and dominated by the Higgs quartic self coupling, the DM relic density is satisfied with $m \\simeq 3.6$ meV. When the Higgs non-minimal coupling dominates, the mass lies within 10-770 meV. We also obtain, for the first time within the scalaron-Higgs mixed model, an upper bound on $|ξm|$ of $1.5\\times 10^{17}$ GeV, from Higgs mass measurement at the LHC.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "published": "2025-09-25T13:37:46+00:00",
+      "updated": "2026-04-18T06:02:49+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.21148v3",
+      "html_url": "https://arxiv.org/html/2509.21148v3",
+      "entry_url": "http://arxiv.org/abs/2509.21148v3",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "The paper involves early-universe cosmology and dark matter physics with connections to Higgs physics, but its focus on R²-gravity scalaron dynamics and modified gravity is tangential to the user's specific interests in axion detection strategies, neutrino physics, PBHs, and multi-loop perturbative calculations.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    }
+  ]
+}

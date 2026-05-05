@@ -1,0 +1,87 @@
+{
+  "date": "2026-02-04",
+  "papers": [
+    {
+      "arxiv_id": "2602.04593v2",
+      "base_id": "2602.04593",
+      "title": "Emergent Hawking Radiation and Quantum Sensing in a Quenched Chiral Spin Chain",
+      "authors": [
+        "Nitesh Jaiswal",
+        "S. Shankaranarayanan"
+      ],
+      "abstract": "We investigate the emergence and detection of Hawking radiation (HR) in a 1D chiral spin chain model, where the gravitational collapse is simulated by a sudden quantum quench that triggers a horizon-inducing phase transition. While our previous work Jaiswal [2025] established that this model mimics BH formation conditions even when the Hoop conjecture is seemingly violated, we here focus on the resulting stationary radiation spectrum and its detectability. By mapping the spin chain dynamics to a Dirac fermion in a curved (1 + 1)-dimensional spacetime, we analyze the radiation using two complementary approaches: field-theoretic modes and operational quantum sensors. First, using localized Gaussian wave packets to model realistic detectors, we find that the radiation spectrum exhibits deviations from the ideal Planckian form, analogous to frequency-dependent greybody factors, while retaining robust Poissonian statistics that signal the loss of formation-scale information. Second, we introduce a qubit coupled to the chain as a stationary Unruh-DeWitt detector. We demonstrate that the qubit functions as a faithful quantum sensor of the Hawking temperature only in the weak-coupling regime, where its population dynamics are governed solely by the bath spectral density. In the strong-coupling limit, the probe thermalizes with the global environment, obscuring the horizon-induced thermal signature. These results provide a clear operational protocol for distinguishing genuine analog HR from environmental noise in quantum simulation platforms.",
+      "categories": [
+        "cond-mat.stat-mech",
+        "cond-mat.quant-gas",
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2026-02-04T14:19:10+00:00",
+      "updated": "2026-04-14T10:02:17+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.04593v2",
+      "html_url": "https://arxiv.org/html/2602.04593v2",
+      "entry_url": "http://arxiv.org/abs/2602.04593v2"
+    },
+    {
+      "arxiv_id": "2602.04504v3",
+      "base_id": "2602.04504",
+      "title": "Weak Lensing Low Multipoles",
+      "authors": [
+        "Albert Bonnefous",
+        "Roya Mohayaee"
+      ],
+      "abstract": "We analyse the low--multipole components of the weak-lensing convergence field in a FLRW universe. The low--multipole convergence field, encodes the largest-angle coherent potential gradients, essential for assessment of large-angle features in data. To study this large angle signal, we perform a combined analytical, numerical and observational study.   Starting from exact analytical expressions for the convergence power spectrum, we quantify how the dipole, quadrupole and octupole build up with source redshift and show that, in $Λ$CDM, they saturate at an amplitude of order $10^{-4}$. We then use full-sky, horizon-scale $N$-body simulations (Quijote) to explore the dependence of this signal on the observer's environment, comparing random observers to ``Milky Way--like'' observers. In parallel, we reconstruct the convergence field due to our local Universe with the 2MASS Redshift Survey (2MRS), with proper treatment of incompleteness and galaxy bias. We find that the observed low multipoles from observation is above the $Λ$CDM mean predictions, but in full agreement with Milky Way--like observers in the simulation.   Finally, by converting the convergence dipole into a number-count dipole, we test whether weak lensing can contribute to the cosmic dipole anomaly, an idea motivated by its natural alignment with the CMB dipole and by the fact that lensing, unlike clustering, cannot be removed by cross-matching surveys and thus survives in all high-redshift catalogues. We show that weak lensing by local structure contributes at most a few percent to this observed anomaly.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2026-02-04T12:52:27+00:00",
+      "updated": "2026-04-27T11:36:51+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.04504v3",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2602.04504v3"
+    },
+    {
+      "arxiv_id": "2602.04311v3",
+      "base_id": "2602.04311",
+      "title": "Analysis of the semileptonic decays $Σ_b\\toΣ_cl\\barν_l$, $Ξ'_b\\toΞ'_cl\\barν_l$ and $Ω_b\\toΩ_cl\\barν_l$ in QCD sum rules",
+      "authors": [
+        "Jie Lu",
+        "Guo-Liang Yu",
+        "Dian-Yong Chen",
+        "Zhi-Gang Wang",
+        "Bin Wu"
+      ],
+      "abstract": "In this article, the electroweak transition form factors of $Σ_b\\toΣ_c$, $Ξ'_b\\toΞ'_c$ and $Ω_b\\toΩ_c$ are analyzed within the framework of three-point QCD sum rules. In phenomenological side, all possible couplings of interpolating current to hadronic states are considered, and the Dirac structure dependence on the form factors is systematically eliminated. In QCD side, our calculation incorporates both the perturbative part and the contributions from vacuum condensates up to dimension 8. This systematic inclusion of higher-dimensional terms accounts for a broader set of Feynman diagrams, thereby enhancing the comprehensiveness and reliability of the operator product expansion. Using the obtained form factors, we study the partial widths of semileptonic decays $Σ_b\\toΣ_cl\\barν_l$, $Ξ'_b\\toΞ'_cl\\barν_l$ and $Ω_b\\toΩ_cl\\barν_l$ ($l=e$, $μ$ and $τ$). The results indicate that these decay widths approximately satisfy SU(3) flavor symmetry. Next, we calculate the branching ratios for the decay process $Ω_b\\toΩ_cl\\barν_l$ and compare them with the results from other collaborations. Furthermore, the lepton universality ratios and some asymmetry parameters of these decay processes are also analyzed, which provide information for the study of new physics. We hope that these results will serve as a useful reference for future theoretical and experimental studies of weak decays involving heavy flavor baryons.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-02-04T08:23:01+00:00",
+      "updated": "2026-04-27T08:43:44+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.04311v3",
+      "html_url": "https://arxiv.org/html/2602.04311v3",
+      "entry_url": "http://arxiv.org/abs/2602.04311v3"
+    },
+    {
+      "arxiv_id": "2602.04858v2",
+      "base_id": "2602.04858",
+      "title": "Primordial black holes as cosmic accelerators of light dark matter: Novel direct detection constraints",
+      "authors": [
+        "Sk Jeesun",
+        "Anirban Majumdar",
+        "Rahul Srivastava"
+      ],
+      "abstract": "Current multi-tonne-scale dark matter (DM) detectors are largely incapable of detecting light dark matter from the Galactic halo due to the energy threshold limitations of their recoil measurements. However, primordial black holes (PBHs) can evaporate via Hawking radiation to particles whose energies are set by the black hole temperature. Consequently, weakly interacting light dark matter (or dark radiation) particles produced in this manner can reach the Earth with sufficient flux and kinetic energy above the experimental thresholds. This opens up a novel avenue to probe the light dark sector in terrestrial experiments. In this work, we explore this possibility by considering fermionic DM produced through PBH evaporation and investigating its electron recoil signatures in direct detection experiments. We analyze both energy independent (constant) and energy dependent (scalar and vector mediated) DM-electron interactions, highlighting the strong dependence of the recoil spectra on the underlying Lorentz structure of the interaction. In addition, we also account for the attenuation effects due to the loss of kinetic energy while DM traverses through Earth's crust, which can significantly modify the incoming DM flux. Incorporating these effects carefully, we place constraints on light DM using the electron recoil data from XENONnT, LZ, and PandaX-4T. Finally, we also discuss the detection prospects of such dark matter in current and future generation neutrino detectors, such as Super-Kamiokande and Hyper-Kamiokande.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "hep-ex"
+      ],
+      "published": "2026-02-04T18:43:59+00:00",
+      "updated": "2026-05-01T15:29:46+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.04858v2",
+      "html_url": "https://arxiv.org/html/2602.04858v2",
+      "entry_url": "http://arxiv.org/abs/2602.04858v2"
+    }
+  ],
+  "total": 4
+}

@@ -1,0 +1,74 @@
+{
+  "date": "2026-01-20",
+  "papers": [
+    {
+      "arxiv_id": "2601.14100v2",
+      "base_id": "2601.14100",
+      "title": "Angular-resolved nonlinear optical response as a probe of Lorentz violation in noncentrosymmetric materials",
+      "authors": [
+        "Guilherme J. Inacio",
+        "Nathanael N. Batista",
+        "Wesley Spalenza",
+        "Humberto Belich",
+        "Juan José Palacios",
+        "Wendel S. Paz"
+      ],
+      "abstract": "We propose a methodology to detect weak Lorentz-violating (LV) backgrounds through the nonlinear shift photocurrent in noncentrosymmetric crystals. Using a spinful Rice--Mele model, we show that a LV background induces a momentum-odd correction to the Bloch Hamiltonian that reshapes the phase of the interband dipole matrix elements. As a result, the shift conductivity develops a robust $π$-periodic modulation as a function of the angle of a perpendicularly applied static electric field, in contrast to a weakly $2π$-periodic response of the Lorentz-symmetric case. This change in angular periodicity provides a signature of LV effects which can be directly identified through a photocurrent measurement. For realistic optical intensities, the predicted signal lies in the picoampere range, which can be enhanced in a matrix of weakly interacting chains, allowing sensitivity to LV coupling strengths of the order of $ξ\\sim10^{-24}\\,\\mathrm{C\\,m}$. These results establish nonlinear optical transport as a viable probe of emergent LV effects in solid-state systems.",
+      "categories": [
+        "cond-mat.mes-hall",
+        "hep-ph"
+      ],
+      "published": "2026-01-20T16:01:06+00:00",
+      "updated": "2026-04-23T10:45:58+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.14100v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2601.14100v2"
+    },
+    {
+      "arxiv_id": "2601.14222v2",
+      "base_id": "2601.14222",
+      "title": "Revisiting the Matter Creation Process: Observational Constraints on Gravitationally Induced Dark Energy and the Hubble Tension",
+      "authors": [
+        "Tiziano Schiavone",
+        "Mariaveronica De Angelis",
+        "Luis A. Escamilla",
+        "Giovanni Montani",
+        "Eleonora Di Valentino"
+      ],
+      "abstract": "The Hubble tension and the unknown origin of dark energy motivate the exploration of alternative mechanisms for late-time cosmic acceleration. We investigate gravitationally induced particle creation (PC) as a non-equilibrium process that can effectively mimic dynamical dark energy. Within the thermodynamic framework of open systems, we adopt an agnostic approach to the extra created component, leaving its equation-of-state parameter $w_E$ free. We consider four phenomenological parametrisations of the PC rate, allowing deviations from the standard cosmological model ($Λ$CDM) only at late times ($0<z<3$). The PC models are constrained using a joint analysis of cosmic chronometers, Type Ia supernovae, local $H_0$ measurements, baryon acoustic oscillations, and cosmic microwave background data. The constraints on $w_E$ are consistent with dark energy, while particle creation of pressureless matter is disfavoured. All PC scenarios provide fits comparable to $Λ$CDM, with one showing effective dynamical dark-energy behaviour. When early- and late-time datasets are analysed separately, the PC models reduce the Hubble tension to $\\simeq 2.4\\,σ$--$3\\,σ$, compared to $4.3\\,σ$ in $Λ$CDM. Gravitationally induced dark energy thus offers a consistent late-time extension of $Λ$CDM and a viable theoretical framework for dynamical dark energy.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2026-01-20T18:32:34+00:00",
+      "updated": "2026-04-27T15:45:53+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.14222v2",
+      "html_url": "https://arxiv.org/html/2601.14222v2",
+      "entry_url": "http://arxiv.org/abs/2601.14222v2"
+    },
+    {
+      "arxiv_id": "2601.14499v2",
+      "base_id": "2601.14499",
+      "title": "Searching for Isolated Black Hole Candidates within 15 pc of the Solar System in Gaia DR3",
+      "authors": [
+        "Abdurakhmon Nosirov",
+        "Cosimo Bambi",
+        "Leda Gao",
+        "Jos de Bruijne",
+        "Jiachen Jiang",
+        "Andrea Santangelo",
+        "Fu-Guo Xie"
+      ],
+      "abstract": "Theoretical models predict that the Galaxy hosts $10^8$-$10^9$ black holes formed from the complete gravitational collapse of heavy stars and that most of these black holes are isolated, without any companion. Within 15 pc of the Solar System ($\\sim 50$ ly), there may be a few black holes. If located inside one of the Local Interstellar Clouds - which occupy 5-20% of this local volume - an isolated black hole could produce detectable electromagnetic emission via accretion from the interstellar medium, given the capabilities of current or near-future observatories. However, precise predictions remain challenging due to large uncertainties in the expected accretion spectra. Outside these clouds, the accretion rate would be too low; according to our models, the resulting electromagnetic flux is well below the detection thresholds of current and near-future observational facilities. While astrometric detection via gravitational perturbation of nearby stars is conceivable, the local stellar density is too low for this method to be realistically successful. We have searched the Gaia DR3 catalog for candidate isolated black holes accreting from the interstellar medium and identified five sources. All candidates lie close to the Galactic plane, making them likely spurious astrometric solutions, for instance caused by unmodelled background sources (crowding) and/or unmodelled binarity. Our search for infrared and radio emission from these sources further suggests that they are unlikely to be black holes accreting from the interstellar medium.",
+      "categories": [
+        "astro-ph.HE",
+        "gr-qc"
+      ],
+      "published": "2026-01-20T21:42:25+00:00",
+      "updated": "2026-04-30T23:55:17+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.14499v2",
+      "html_url": "https://arxiv.org/html/2601.14499v2",
+      "entry_url": "http://arxiv.org/abs/2601.14499v2"
+    }
+  ],
+  "total": 3
+}

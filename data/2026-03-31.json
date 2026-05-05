@@ -1,0 +1,105 @@
+{
+  "date": "2026-03-31",
+  "papers": [
+    {
+      "arxiv_id": "2603.29947v2",
+      "base_id": "2603.29947",
+      "title": "Constraining Lyman-Werner Feedback from Velocity Acoustic Oscillations in the Cosmic Dawn 21 cm Signal",
+      "authors": [
+        "Xi Du",
+        "Bin Yue",
+        "Furen Deng",
+        "Yidong Xu",
+        "Yan Gong",
+        "Ely D. Kovetz",
+        "Xuelei Chen"
+      ],
+      "abstract": "During Cosmic Dawn, Pop III stars could be formed in minihalos through molecular hydrogen (H$_2$) cooling. The minimum halo mass required for H$_2$ cooling is highly sensitive to Lyman-Werner (LW) radiation, which dissociates H$_2$ and regulates star formation. However, the efficiency of LW feedback remains poorly constrained due to the lack of direct observations of Pop III stars. The dark matter-baryon relative streaming velocity suppresses star formation in low-mass halos and imprints characteristic Velocity Acoustic Oscillation (VAO) features in the 21 cm power spectrum. These features are particularly sensitive to the cooling threshold mass: if LW feedback raises the minimum halo mass above the streaming-sensitive regime, the VAO signal is strongly suppressed. This makes the VAO wiggles a promising indirect probe of LW feedback during Cosmic Dawn. We investigate the feasibility of constraining LW feedback parameters using semi-numerical 21 cm lightcone simulations. We compute the multi-frequency angular power spectrum (MAPS) to isolate the VAO features and train a Convolutional Neural Network (CNN) to infer the LW feedback efficiency and the baseline cooling threshold. We find that in the absence of instrumental noise, the LW feedback efficiency can be accurately recovered from the VAO features. However, for the SKA-low AA* configuration, meaningful constraints require integration times exceeding $10^4$ hours under optimistic foreground assumptions. Nonetheless, our results demonstrate that VAO features provide a physically robust and potentially powerful probe of LW feedback at Cosmic Dawn.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2026-03-31T16:17:25+00:00",
+      "updated": "2026-04-19T14:02:16+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.29947v2",
+      "html_url": "https://arxiv.org/html/2603.29947v2",
+      "entry_url": "http://arxiv.org/abs/2603.29947v2"
+    },
+    {
+      "arxiv_id": "2603.29443v2",
+      "base_id": "2603.29443",
+      "title": "Cosmological brick walls & quantum chaotic dynamics of de Sitter horizons",
+      "authors": [
+        "José M. Begines",
+        "Suman Das",
+        "Hyun-Sik Jeong",
+        "Juan F. Pedraza"
+      ],
+      "abstract": "Originally proposed by 't Hooft, the brick wall model has recently reemerged as a useful framework for probing quantum aspects of horizon physics, particularly in the context of holography. In this paper, we apply it to asymptotically de Sitter spacetimes. We compute the normal modes of a massless scalar field in pure de Sitter space and in the Schwarzschild-de Sitter black hole, and analyze the resulting single-particle spectra using the level-spacing distribution, the spectral form factor, and Krylov complexity. In pure de Sitter, the spectrum exhibits clear long-range signatures of chaos despite not obeying a conventional Wigner-Dyson level-spacing distribution. The Schwarzschild-de Sitter case is qualitatively richer: in the WKB regime, where tunneling between the two classically allowed regions is exponentially suppressed, the presence of both an event horizon and a cosmological horizon gives rise to two independent near-horizon sectors, so that the full spectrum is the superposition of two subsequences. As a result, the combined level-spacing distribution develops a nonzero value at $s=0$ even when spectral correlations remain. Nevertheless, for sufficiently small stretched-horizon fluctuations, the superposed spectrum still exhibits an approximately linear ramp in the spectral form factor and a pronounced peak in Krylov complexity. Our results show that the absence of strict level repulsion should not, by itself, be taken as evidence against chaos, and that the spectral form factor and Krylov complexity provide sharper diagnostics of the underlying chaotic dynamics.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2026-03-31T08:48:53+00:00",
+      "updated": "2026-04-17T08:16:40+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.29443v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2603.29443v2"
+    },
+    {
+      "arxiv_id": "2603.30003v2",
+      "base_id": "2603.30003",
+      "title": "The scalar--Maxwell--$Λ(x)$ system: Wormhole spacetimes without nonlinear electrodynamics in unimodular gravity",
+      "authors": [
+        "G. Alencar",
+        "T. M. Crispim"
+      ],
+      "abstract": "In General Relativity, constructing exact traversable wormholes coupled to electromagnetic fields typically requires complex Non-Linear Electrodynamics (NED). We demonstrate that Unimodular Gravity (UG) elegantly resolves this limitation. By relaxing energy-momentum conservation, UG introduces a dynamical cosmological term, $Λ(x)$, enabling a semi-classical energy exchange between matter and the vacuum. Exploiting this mechanism, we construct exact Scalar-Maxwell-$Λ(x)$ wormholes. We show that, provided the shape function $b(r)$ satisfies specific geometric conditions, these exact spacetimes can be fully supported by a phantom scalar field and standard linear Maxwell electrodynamics. This approach entirely bypasses NED, highlighting UG as a powerful framework for modeling non-trivial topologies with simplified, well-understood classical fields.",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2026-03-31T16:58:07+00:00",
+      "updated": "2026-04-23T16:44:57+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.30003v2",
+      "html_url": "https://arxiv.org/html/2603.30003v2",
+      "entry_url": "http://arxiv.org/abs/2603.30003v2"
+    },
+    {
+      "arxiv_id": "2604.00078v2",
+      "base_id": "2604.00078",
+      "title": "Regular Black Strings and BTZ Black Hole in Unimodular Gravity Supported by Maxwell Fields",
+      "authors": [
+        "G. Alencar",
+        "V. H. U. Borralho"
+      ],
+      "abstract": "In this work, we obtain a Maxwell source for regular black string and BTZ black hole using the framework of unimodular gravity. This type of alternative to general relativity imposes an additional condition on the spacetime volume element, namely that it is constant, $\\det(g_{μν}) = g_0$, and thus restricts diffeomorphism invariance to volume-preserving transformations. In this procedure, the cosmological constant does not appear directly in the action, but rather as an integration constant of the field equations. By using the non-conservation of the energy-momentum tensor, we show that the integration constant becomes a function $Λ(x)$, which is interpreted as a vacuum contribution depending on the radial coordinate, in our case. From the definition of the geometric function $H(r)$, we verify the validity of Maxwell electrodynamics as a source for the solutions and compute the vacuum contribution $Λ(r)$ that supports the solutions.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2026-03-31T16:11:08+00:00",
+      "updated": "2026-04-24T19:03:33+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.00078v2",
+      "html_url": "https://arxiv.org/html/2604.00078v2",
+      "entry_url": "http://arxiv.org/abs/2604.00078v2"
+    },
+    {
+      "arxiv_id": "2604.00095v2",
+      "base_id": "2604.00095",
+      "title": "Instanton condensation and a new phase of BPS black holes",
+      "authors": [
+        "Jack Holden"
+      ],
+      "abstract": "We analyse the 1/16-BPS superconformal index for BPS black holes at equal charge in $AdS_5 \\times S_5$, uncovering evidence for a new instability in the microcanonical ensemble along the small black hole saddle. This is indicated by instanton condensation in the matrix model description of the index. This instability occurs for black holes of radius close to, but below, the scale at which black holes become `small', and implies a new dominant phase in this region. We propose a connection to the partially deconfined phase in the field theory dual description. This would resolve recent confusion about the location of the partially deconfined phase in the BPS phase diagram and promises new avenues for understanding confinement, partial deconfinement, and the encoding of colour degrees of freedom under the holographic map. We also motivate the importance of instantons in partial deconfinement from a matrix model perspective.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2026-03-31T18:18:42+00:00",
+      "updated": "2026-04-30T01:25:15+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.00095v2",
+      "html_url": "https://arxiv.org/html/2604.00095v2",
+      "entry_url": "http://arxiv.org/abs/2604.00095v2"
+    }
+  ],
+  "total": 5
+}

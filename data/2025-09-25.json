@@ -1,0 +1,89 @@
+{
+  "date": "2025-09-25",
+  "papers": [
+    {
+      "arxiv_id": "2509.21148v3",
+      "base_id": "2509.21148",
+      "title": "Scalaron dark matter dynamics: effects of Higgs non-minimal coupling to gravity",
+      "authors": [
+        "Shibendu Gupta Choudhury",
+        "Koushik Dutta",
+        "Deep Ghosh"
+      ],
+      "abstract": "One of the key features of the $R^2$-gravity is the embedding of a scalar field, scalaron, into the gravity sector. The scalaron interacts with the Standard Model (SM) matter fields through Planck-suppressed couplings. If the scalaron serves as a viable dark matter (DM) candidate, it can account for the lack of evidence of DM interactions beyond gravity in experimental and observational probes to date. The realization of the scalaron, as a cold DM candidate, depends on an induced trilinear interaction with the SM Higgs via its quartic self coupling. Here, we introduce a Higgs non-minimal coupling to gravity that additionally contributes to the induced trilinear interaction with its existing competing part, originated from the $R^2$-gravity. We study the interplay between these two contributions in the early universe, which determines both the initial conditions and evolution of the scalaron, leading to cold DM behavior at a later epoch. The trilinear interaction vanishes at the leading order for certain combinations of the Higgs non-minimal coupling ($ξ$) and the scalaron mass ($m$), thereby setting the scalaron density through misalignment mechanism, as in axions. In this case, the scalaron DM mass is obtained as, $2.7 ~{\\rm meV} \\lesssim m \\lesssim 0.7 ~\\rm{MeV}$. The lower limit on the mass is set by the fifth force constraints, whereas the upper bound arises from INTEGRAL/SPI limits on the excess gamma-ray flux due to scalaron decaying into two photons. On the other hand, when the trilinear interaction is non-zero and dominated by the Higgs quartic self coupling, the DM relic density is satisfied with $m \\simeq 3.6$ meV. When the Higgs non-minimal coupling dominates, the mass lies within 10-770 meV. We also obtain, for the first time within the scalaron-Higgs mixed model, an upper bound on $|ξm|$ of $1.5\\times 10^{17}$ GeV, from Higgs mass measurement at the LHC.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "published": "2025-09-25T13:37:46+00:00",
+      "updated": "2026-04-18T06:02:49+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.21148v3",
+      "html_url": "https://arxiv.org/html/2509.21148v3",
+      "entry_url": "http://arxiv.org/abs/2509.21148v3"
+    },
+    {
+      "arxiv_id": "2509.21159v2",
+      "base_id": "2509.21159",
+      "title": "Is string field theory background independent?",
+      "authors": [
+        "Bhanu Narra",
+        "James Read",
+        "Matěj Krátký"
+      ],
+      "abstract": "String field theory is supposed to stand to perturbative string theory as quantum field theory stands to single-particle quantum theory; as such, it purports to offer a substantially more general and powerful perspective on string theory than the perturbative approach. In addition, string field theory has been claimed for several decades to liberate string theory from any fixed, background spatiotemporal commitments -- thereby (if true) rendering it `background independent'. But is this really so? In this article, we undertake a detailed interrogation of this claim, finding that the verdict is sensitive both to one's understanding of the notion of background independence, and also to how one understands string field theory itself. Although in the end our verdicts on the question of the background independence are therefore somewhat mixed, we hope that our study will elevate the levels of systematicity and rigour in these discussions, as well as equip philosophers of physics with a helpful introduction to string field theory and the variety of interesting conceptual questions which it raises.",
+      "categories": [
+        "physics.hist-ph",
+        "hep-th"
+      ],
+      "published": "2025-09-25T13:44:24+00:00",
+      "updated": "2026-04-14T13:41:24+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.21159v2",
+      "html_url": "https://arxiv.org/html/2509.21159v2",
+      "entry_url": "http://arxiv.org/abs/2509.21159v2"
+    },
+    {
+      "arxiv_id": "2509.21195v5",
+      "base_id": "2509.21195",
+      "title": "Radiation of breathing vortex electron packets in magnetic field",
+      "authors": [
+        "G. V. Zmaga",
+        "G. K. Sizykh",
+        "D. V. Grosman",
+        "Qi Meng",
+        "Liping Zou",
+        "Pengming Zhang",
+        "D. V. Karlovets"
+      ],
+      "abstract": "When a vortex electron with an orbital angular momentum (OAM) enters a magnetic field, its quantum state is described with a nonstationary Laguerre-Gaussian (NSLG) state rather than with a stationary Landau state. A key feature of these NSLG states is oscillations of the electron wave packet's root-mean-square (r.m.s.) radius, similar to betatron oscillations. Classically, such an oscillating charge distribution is expected to emit photons. This raises a critical question: does this radiation carry away OAM, leading to a loss of the electron's vorticity? To investigate this, we solve Maxwell's equations using the charge and current densities derived from an electron in the NSLG state. We calculate the total radiated power and the angular momentum of the emitted field, quantifying the rate at which a vortex electron loses its energy and OAM while propagating in a longitudinal magnetic field. We find both the radiated power and the angular momentum losses to be negligible indicating that linear accelerators (linacs) appear to be a prominent tool for maintaining vorticity of relativistic vortex electrons and other charged particles, at least in the quasi-classical approximation.",
+      "categories": [
+        "quant-ph",
+        "hep-ph"
+      ],
+      "published": "2025-09-25T14:08:23+00:00",
+      "updated": "2026-04-29T03:14:26+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.21195v5",
+      "html_url": "https://arxiv.org/html/2509.21195v5",
+      "entry_url": "http://arxiv.org/abs/2509.21195v5"
+    },
+    {
+      "arxiv_id": "2509.21686v2",
+      "base_id": "2509.21686",
+      "title": "Adaptive Reconstruction of Cluster Halos (ARCH): Integrating Shear and Flexion for Substructure Detection",
+      "authors": [
+        "Jacob Shpiece",
+        "David M. Goldberg"
+      ],
+      "abstract": "We present ARCH (Adaptive Reconstruction of Cluster Halos), a new gravitational lensing pipeline for cluster mass reconstruction that applies a joint shear-flexion analysis to JWST imaging. Previous approaches have explored joint shear+flexion reconstructions through forward modeling and Bayesian inference frameworks; in contrast, ARCH adopts a staged optimization strategy that incrementally filters and selects candidate halos rather than requiring a global likelihood model or strong priors. This design makes reconstruction computationally tractable and flexible, enabling systematic tests of multiple signal combinations within a unified framework. ARCH employs staged candidate generation, local optimization, filtering, forward selection, and global strength refinement, with a combined fit metric weighted by per-signal uncertainties. Applies to Abell 2744 and El Gordo, the pipeline recovers convergence maps and subcluster masses consistent with published weak+strong lensing results. In Abell 2744 the central core mass within 300$h^{-1}$ kpc is $2.1\\times 10^{14} M_\\odot h^{-1}$, while in El Gordo the northwestern and southeastern clumps are recovered at $2.6\\times 10^{14} M_\\odot h^{-1}$ and $2.3\\times 10^{14} M_\\odot h^{-1}$. Jackknife resampling indicates typical 1$σ$ uncertainties of $10^{12}-10^{13} M_\\odot h^{-1}$, with the all signal and shear+$\\mathcal{F}$ reconstructions providing the most stable results. These results demonstrate that flexion, when anchored by shear, enhances sensitivity to cluster substructure while maintaining stable cluster-scale mass recovery.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2025-09-25T23:23:54+00:00",
+      "updated": "2026-04-29T22:55:50+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.21686v2",
+      "html_url": "https://arxiv.org/html/2509.21686v2",
+      "entry_url": "http://arxiv.org/abs/2509.21686v2"
+    }
+  ],
+  "total": 4
+}

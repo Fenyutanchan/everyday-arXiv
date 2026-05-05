@@ -1,0 +1,43 @@
+{
+  "date": "2025-05-20",
+  "papers": [
+    {
+      "arxiv_id": "2505.14426v13",
+      "base_id": "2505.14426",
+      "title": "Galaxy-Independent Radial Structure of Dark-Matter Halos",
+      "authors": [
+        "P. Steffen"
+      ],
+      "abstract": "A galaxy-independent radial scaling of the SPARC rotation-curve data reveals a common structure of dark-matter halos across galaxies. Using all 2693 rotation-curve measurements from the 153 SPARC galaxies, we analyze the data within a unified radial framework rather than fitting parametric halo models to individual systems.   An empirical relation between the observed centripetal acceleration $g_{obs}$ and the baryonic acceleration $g_{bar}$. The residual scatter of this relation is consistent with the observational uncertainties, indicating no detectable intrinsic galaxy-dependent bias.   Motivated by the baryonic acceleration, a scaled radial coordinate $r_{sc}$ is introduced through $r = r_0 r_{sc}$, where $r_0$ is defined by $g_{bar} =2\\times 10^{-12} m/s^2$. This transformation removes galaxy-to-galaxy scaling and allows all SPARC measurements to be analyzed within a single radial domain.   In this representation empirical radial distributions are obtained for acceleration, dark-matter mass, density, and circular velocity. The combined data indicate the onset of dark-matter effects at $r_{sc} \\approx 0.1$, dark-matter dominance for $r_{sc} \\gtrsim 0.2$, a linear growth of dark-matter mass with radius $m_{DM}/M_{bar}$ = $(6.9 \\pm 0.2)r_{sc} - (0.23 \\pm 0.03)$, and a density profile $ρ\\propto r_{sc}^{-2}$, and a nearly constant unified rotation velocity for $r_{sc} > 0.2$.",
+      "categories": [
+        "astro-ph.GA",
+        "hep-ph"
+      ],
+      "published": "2025-05-20T14:37:14+00:00",
+      "updated": "2026-04-20T15:44:52+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2505.14426v13",
+      "html_url": "https://arxiv.org/html/2505.14426v13",
+      "entry_url": "http://arxiv.org/abs/2505.14426v13"
+    },
+    {
+      "arxiv_id": "2505.14813v3",
+      "base_id": "2505.14813",
+      "title": "Stable initial conditions and analytical investigations of cosmological perturbations in a modified loop quantum cosmology",
+      "authors": [
+        "Rui Pan",
+        "Jamal Saeed",
+        "Anzhong Wang"
+      ],
+      "abstract": "In this paper, we study cosmological perturbations in a modified theory of loop quantum cosmologies, the so-called mLQC-I model. Our purposes are two-fold: First, using a method developed by Birrell and Davies, we identify an initial state in the remote contracting phase, which turns out to be stable, minimize particle creations and diagonalize the Hamiltonian, despite the fact that at this time some modes may be still outside of the Hubble horizon and not in their adiabatic states. Second, using the uniform asymptotic approximation method, we obtain the first-order approximate solutions of the mode function in terms of either the Airy functions, or the first or second kind of cylindrical functions, depending on the values of the wavenumber. In each case, the mode function contains two integration constants, which are uniquely determined by the initial state.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-05-20T18:20:18+00:00",
+      "updated": "2026-04-16T00:31:07+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2505.14813v3",
+      "html_url": "https://arxiv.org/html/2505.14813v3",
+      "entry_url": "http://arxiv.org/abs/2505.14813v3"
+    }
+  ],
+  "total": 2
+}

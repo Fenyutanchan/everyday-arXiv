@@ -1,0 +1,25 @@
+{
+  "date": "2024-12-13",
+  "papers": [
+    {
+      "arxiv_id": "2412.09967v3",
+      "base_id": "2412.09967",
+      "title": "Reconstructing the Thermal Sunyaev Zeldovich Power Spectrum from Planck using the ABS Method",
+      "authors": [
+        "Zhaoxuan Zhang",
+        "Le Zhang",
+        "Pengjie Zhang"
+      ],
+      "abstract": "This study employs a novel approach for reconstructing the thermal Sunyaev-Zeldovich (tSZ) effect power spectrum from Planck data using the Analytical Blind Separation (ABS) method. The ABS method improves the recovery of weak signals, by applying eigenmode exclusion for low signal-to-noise ratio regimes and introducing a shift parameter to stabilize calculations. Validation through simulated Planck data demonstrates the robustness of ABS in reconstructing the tSZ power spectrum, even under challenging conditions. In the analysis of the {\\it Planck} PR3 full-mission data, ABS shows lower amplitudes at $\\ell \\gtrsim 300$ compared to the {\\it Planck} 2015 band powers using the MILCA and NILC foreground cleaning methods. In our analysis, we include or exclude the trispectrum contribution to the statistical uncertainty to enable comparison with previous studies and to test the robustness of our results. When the trispectrum contribution is included, and after marginalizing over residual foreground components, we find that the overall amplitude of the tSZ power spectrum is 34\\% lower than the ``Planck 2015'' best-fit amplitude, 24\\% lower than the ``Battaglia 2012'' model, and 12\\% lower than the ``Bolliet 2018'' best-fit amplitude. These differences correspond to $3.0σ$, $1.78σ$, and $0.75σ$, respectively, in terms of the associated statistical uncertainties. Across all cases, the tSZ band power remains unaffected by template choice. These findings highlight the potential of the ABS method as a promising alternative for tSZ power spectrum analysis.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2024-12-13T08:51:15+00:00",
+      "updated": "2026-04-20T14:28:15+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2412.09967v3",
+      "html_url": "https://arxiv.org/html/2412.09967v3",
+      "entry_url": "http://arxiv.org/abs/2412.09967v3"
+    }
+  ],
+  "total": 1
+}

@@ -1,0 +1,65 @@
+{
+  "date": "2025-12-29",
+  "papers": [
+    {
+      "arxiv_id": "2512.23699v3",
+      "base_id": "2512.23699",
+      "title": "Twisted de Rham theory for string double copy in AdS",
+      "authors": [
+        "Hiren Kakkad",
+        "Alexander Ochirov",
+        "Shijie Zhang"
+      ],
+      "abstract": "This work is motivated by the recent evidence for a double-copy relationship between open- and closed-string amplitudes in Anti-de Sitter (AdS) space. At present, the evidence has the form of a double-copy relation for string-amplitude building blocks, which are combined using the multiple-polylogarithm (MPL) generating functions. These generate MPLs relevant for all-order AdS curvature corrections of four-point string amplitudes. In this paper, we prove this building-block double copy using a new, noncommutative version of twisted de Rham theory. In flat space, the usual twisted de Rham theory is already known to be a natural framework to describe the Kawai-Lewellen-Tye (KLT) double-copy map from open- to closed-string amplitudes, in which the KLT kernel can be computed from the intersections of the open-string amplitude integration contours. We formulate twisted de Rham theory for noncommutative-ring-valued differential forms on complex manifolds and use it to derive the intersection number of two open-string contours, which are closed in the noncommutative twisted homology sense. The inverse of this intersection number is precisely the AdS double-copy kernel for the four-point open- and closed-string generating functions.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2025-12-29T18:56:44+00:00",
+      "updated": "2026-04-16T03:15:57+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.23699v3",
+      "html_url": "https://arxiv.org/html/2512.23699v3",
+      "entry_url": "http://arxiv.org/abs/2512.23699v3"
+    },
+    {
+      "arxiv_id": "2512.23226v2",
+      "base_id": "2512.23226",
+      "title": "Constraints on SMEFT operators from $Z \\to μμbb$ decay",
+      "authors": [
+        "Zijian Wang",
+        "Tianyi Yang",
+        "Tianyu Mu",
+        "Andrew Levin",
+        "Qiang Li"
+      ],
+      "abstract": "The Standard Model Effective Field Theory (SMEFT) provides a systematic framework to probe indirect effects of heavy new physics via precision measurements. While SMEFT constraints have been extensively studied using purely leptonic $Z$ decays and inclusive $Z$ production, mixed leptonic-hadronic modes remain largely unexplored. In this work, we analyze $Z \\to μμbb$ decays within the SMEFT framework, deriving constraints on dimension-six operators that affect four-fermion interactions between leptons and bottom quarks, as well as $Z$-fermion couplings. Signal and background events are simulated with state-of-the-art Monte Carlo tools, including detector effects such as $b$-tagging, and limits on the relevant Wilson coefficients are extracted using kinematic distributions and a profile likelihood approach. Our results provide complementary constraints to existing SMEFT studies and yield the first process-specific limits on flavor-resolved four-fermion operators involving muons and bottom quarks from $Z$ decays.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-12-29T06:05:54+00:00",
+      "updated": "2026-04-15T08:29:41+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.23226v2",
+      "html_url": "https://arxiv.org/html/2512.23226v2",
+      "entry_url": "http://arxiv.org/abs/2512.23226v2"
+    },
+    {
+      "arxiv_id": "2512.23159v2",
+      "base_id": "2512.23159",
+      "title": "Muonphilic asymmetric dark matter at a future muon collider",
+      "authors": [
+        "Arnab Roy",
+        "Raymond R. Volkas"
+      ],
+      "abstract": "We explore phenomenological constraints on, and future muon collider sensitivities to, the parameter spaces of various muonphilic portals to fermionic asymmetric dark matter (ADM). Both WEFT-level dimension-6 effective operators and two UV models based on gauged $L_μ- L_τ$ are considered. One of the latter features a vector coupling to the dark matter and the other an axial vector coupling. The ADM criterion that at least $99\\%$ of the dark matter relic density is asymmetric is also imposed. We identify which of these scenarios are currently allowed by direct detection and collider constraints, and then determine how much more of the parameter space could be probed by 3 and 10 TeV muon colliders with 1 ab$^{-1}$ of data. For the UV models, the constraints from $g-2$ of the muon are included. The future sensitivity curves due to neutron star heating considerations are also depicted. We present results for both the few-GeV dark matter mass regime motivated by ADM approaches to the $Ω_b \\simeq Ω_\\text{DM}/5$ coincidence problem, and for larger masses in the context of more general ADM.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2025-12-29T02:46:21+00:00",
+      "updated": "2026-04-30T14:57:10+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.23159v2",
+      "html_url": "https://arxiv.org/html/2512.23159v2",
+      "entry_url": "http://arxiv.org/abs/2512.23159v2"
+    }
+  ],
+  "total": 3
+}

@@ -1,0 +1,125 @@
+{
+  "date": "2026-02-23",
+  "papers": [
+    {
+      "arxiv_id": "2602.19750v2",
+      "base_id": "2602.19750",
+      "title": "Krylov Distribution and Universal Convergence of Quantum Fisher Information",
+      "authors": [
+        "Mohsen Alishahiha",
+        "Fatemeh Tarighi Tabesh",
+        "Mohammad Javad Vasli"
+      ],
+      "abstract": "We develop a spectral-resolvent framework for computing the quantum Fisher information (QFI) using Krylov subspace methods, extending the notion of the Krylov distribution. By expressing the QFI as a resolvent moment of the superoperator $\\mathcal{K}_ρ$ associated with a density matrix, the Krylov distribution quantifies how the QFI weight is distributed across Krylov levels in operator space and provides a natural measure for controlling the truncation error in Krylov approximations. Leveraging orthogonal polynomial theory, we identify two universal convergence regimes: exponential decay when the Liouville-space spectrum is gapped away from zero, and algebraic decay governed by hard-edge (Bessel) universality when small eigenvalues accumulate near zero. This framework establishes a direct connection between quantum metrology, spectral geometry, and Krylov dynamics, offering both conceptual insight and practical tools for efficient QFI computation in high-dimensional and many-body systems.",
+      "categories": [
+        "quant-ph",
+        "cond-mat.stat-mech",
+        "hep-th"
+      ],
+      "published": "2026-02-23T11:59:29+00:00",
+      "updated": "2026-04-20T09:58:46+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.19750v2",
+      "html_url": "https://arxiv.org/html/2602.19750v2",
+      "entry_url": "http://arxiv.org/abs/2602.19750v2"
+    },
+    {
+      "arxiv_id": "2602.20237v2",
+      "base_id": "2602.20237",
+      "title": "Linking Leptogenesis and Asymmetric Dark Matter: A Testable Framework for Neutrino Mass and the Matter-Antimatter Asymmetry",
+      "authors": [
+        "Henry G. F. McKenna",
+        "Juri Smirnov",
+        "Martin Gorbahn"
+      ],
+      "abstract": "We investigate a minimal extension of the Leptogenesis framework that simultaneously explains the observed baryon asymmetry and dark matter (DM) abundance through the decay of a heavy Majorana neutrino. In this scenario, CP violation arises from complex Yukawa couplings, enabling the generation of asymmetries in both the Standard Model (SM) and DM sectors. We explore two regimes: (i) wash-in, where an initial dark asymmetry is transferred to SM leptons by $2 \\leftrightarrow 2$ scattering processes; and (ii) co-genesis, featuring a hierarchical coupling structure that allows enhanced CP violation while supporting a low-scale seesaw mechanism at order $\\mathcal{O}(2)$ TeV. This setup not only links light neutrino masses to the Majorana mass term but also suggests that lepton-number violation may occur at experimentally accessible energy scales. In the co-genesis scenario, we show spin-independent cross sections for DM heavier than 10 GeV that can be tested in current direct detection experiments and motivate the exploration of cross sections inside the neutrino fog for lighter DM masses, establishing asymmetric leptogenesis as a predictive benchmark framework for direct-detection experiments and identifying a new hierarchical-coupling regime enabling TeV-scale leptogenesis.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "hep-ex"
+      ],
+      "published": "2026-02-23T19:00:00+00:00",
+      "updated": "2026-04-21T11:08:14+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.20237v2",
+      "html_url": "https://arxiv.org/html/2602.20237v2",
+      "entry_url": "http://arxiv.org/abs/2602.20237v2"
+    },
+    {
+      "arxiv_id": "2602.19812v2",
+      "base_id": "2602.19812",
+      "title": "dS$^4$ Metamorphosis",
+      "authors": [
+        "Dionysios Anninos",
+        "Chiara Baracco",
+        "Vasileios A. Letsios",
+        "Beatrix Mühlmann"
+      ],
+      "abstract": "We study the Euclidean path integral of higher spin gravity on $S^4$. Based on a one-loop analysis, we are led to a gluing formula expressing the $S^4$ path integral in terms of an underlying $S^3$ path integral. We view the three-sphere as a boundary hypersurface splitting the four-sphere into two halves. For a higher spin spectrum containing even spins only, the resulting boundary theory living on the $S^3$ cut is the $\\mathrm{Sp}(N)$ invariant sector of $N\\in \\mathbb{Z}^+$ anti-commuting, conformally coupled free scalars, with conformal higher spin sources mediating the gluing. This boundary $\\mathrm{Sp}(N)$ theory was previously shown to compute the Hartle-Hawking wavefunction at $\\mathcal{I}^+$ in the higher spin dS$_4$/CFT$_3$ correspondence. In contrast to the infinite spatial volume of $\\mathcal{I}^+$, here the conformal fields populate a finite size $S^3$ hypersurface of $S^4$. For theories with both bosonic and fermionic higher spin fields, the gluing formula is instead built from an $\\mathcal{N}=2$ superconformal boundary field theory coupled to $U(N)$ invariant superconformal sources. Under this assumption, the leading contribution to the four-sphere partition function is $2^N$, and we observe exact cancellations at one-loop.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2026-02-23T13:12:14+00:00",
+      "updated": "2026-04-21T10:46:51+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.19812v2",
+      "html_url": "https://arxiv.org/html/2602.19812v2",
+      "entry_url": "http://arxiv.org/abs/2602.19812v2"
+    },
+    {
+      "arxiv_id": "2602.20047v5",
+      "base_id": "2602.20047",
+      "title": "Scattering amplitudes in Quadratic Graivty in a general formalism",
+      "authors": [
+        "Osvaldo P. Santillán"
+      ],
+      "abstract": "In \\cite{salvio}, inspired by the works \\cite{pauli}-\\cite{donogue}, a prescription for calculating the correlation functions in Quadratic Gravity \\cite{stelle1}-\\cite{stelle2} was presented and further exploited in \\cite{salvio2}-\\cite{salve}. By construction, it is likely that this procedure does not enter in conflict with unitarity. The corresponding Hamiltonian quantization is based on a covariant and contra-variant distinction in the non positive definite metric in the space of states \\cite{gross}. The Gauss-Ostrogradsky method for higher order theories defines two momentum densities $P_1$ and $P_2$ and two coordinate densities $Q_1$ and $Q_2$, one pair is standard, the other ghost like if the creation annihilation algebra is standard. Otherwise it is the opposite. The approach in \\cite{salvio} involves the continuation $P_2\\to i P_2$ and $Q_2\\to i Q_2$ of the ghost variables acting on kets $|>$ after taking mean values. In the present work, following \\cite{yomismo}, the LSZ rules are derived, with a formalism adapted to full quartic or higher order theories. Te main technical point is to determine the creation annihilation mode of the modes of the graviton, adapted to the present prescription. This is considered here, in a more general setting than \\cite{yomismo}. Two possible quantizations are discussed, which depends on whether the prescription is applied at the begining or at the ned of the LSZ calculation.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2026-02-23T16:57:45+00:00",
+      "updated": "2026-04-24T01:13:45+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.20047v5",
+      "html_url": "https://arxiv.org/html/2602.20047v5",
+      "entry_url": "http://arxiv.org/abs/2602.20047v5"
+    },
+    {
+      "arxiv_id": "2602.20037v2",
+      "base_id": "2602.20037",
+      "title": "The asymptotic charges of Curtright dual graviton and Curtright extensions of BMS algebra",
+      "authors": [
+        "Federico Manzoni"
+      ],
+      "abstract": "This paper studies the asymptotic gauge charges of the Curtright mixed-symmetry rank-3 field $φ_{[ρσ]ν}$ in Minkowski spacetime, interpreted in $ D = 5 $ as the dual graviton. In Bondi coordinates at future null infinity, we impose radiation fall-offs and fix a de Donder-like gauge together with an on-shell traceless condition, similarly to what happens in linearized gravity. Surface charges associated with the residual gauge transformations are constructed as boundary integrals via Nöther's 2-form. In $ D = 5 $, exploiting Hodge/Hodge-like decompositions on $ S^{3} $, the charge splits into a scalar sector $ Q_Φ $, a vector sector $ Q_{V} $ and a TT sector $Q_{y^{\\text{TT}}}$. $ Q_Φ $ is parametrized by a single arbitrary scalar function $ Φ$ (interpreted as the supertranslation-like parameter), $ Q_{V} $ is parametrized by a vector field $ V^{i} \\in \\mathfrak{Diff}(S^{3}) $ and the TT sector $Q_{y^{\\text{TT}}}$ is parametrized by a trasverse-traceless rank-2 tensor $y_{ij}^{\\text{TT}} \\in \\mathfrak{TT}(S^3)$. The corresponding charge algebra closes only if $V_i \\in \\mathfrak{o}(4)$ as semidirect sum generating an abelian extension of a $\\mathfrak{BMS}$-like algebra featuring a higher-spin-like supertranslation sector.",
+      "categories": [
+        "hep-th",
+        "math-ph"
+      ],
+      "published": "2026-02-23T16:45:56+00:00",
+      "updated": "2026-04-27T13:52:37+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.20037v2",
+      "html_url": "https://arxiv.org/html/2602.20037v2",
+      "entry_url": "http://arxiv.org/abs/2602.20037v2"
+    },
+    {
+      "arxiv_id": "2602.20242v2",
+      "base_id": "2602.20242",
+      "title": "Warm dark matter from freeze-in at stronger coupling",
+      "authors": [
+        "Duarte Feiteira",
+        "Oleg Lebedev",
+        "Vinícius Oliveira"
+      ],
+      "abstract": "We study warm Higgs portal dark matter (DM) in the framework of freeze-in at stronger coupling. This scenario assumes that the Standard Model thermal bath temperature has always been relatively low, which suppresses dark matter production. As a result, a significant DM-Higgs coupling is allowed, enabling warm dark matter detection via Higgs decay at colliders. We find that the Lyman-α bound on the DM mass is particularly strong, excluding masses below 50-100 keV, depending on further details. The shape of the DM momentum distribution is highly non-thermal, with low momenta being effectively cut off, and not captured by the common αβγ-parametrization.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.HE"
+      ],
+      "published": "2026-02-23T19:00:01+00:00",
+      "updated": "2026-04-30T08:40:47+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.20242v2",
+      "html_url": "https://arxiv.org/html/2602.20242v2",
+      "entry_url": "http://arxiv.org/abs/2602.20242v2"
+    }
+  ],
+  "total": 6
+}

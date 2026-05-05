@@ -1,0 +1,44 @@
+{
+  "date": "2026-03-26",
+  "papers": [
+    {
+      "arxiv_id": "2603.25590v3",
+      "base_id": "2603.25590",
+      "title": "Wilson loop in AdS$_3 \\times S^3 \\times T^4$ from quantum M2 brane",
+      "authors": [
+        "Arkady A. Tseytlin",
+        "Zihan Wang"
+      ],
+      "abstract": "Type IIB string theory on AdS$_3 \\times S^3\\times T^4$ with RR flux as the near-horizon limit of the D1-D5 solution is expected to be dual to a (4,4) supersymmetric 2d CFT parametrized by the integers $Q_1,Q_5$ and other moduli. It is related by T-duality to type IIA string theory in the near-horizon limit of the D2-D4 solution which admits an uplift to the 11d AdS$_3 \\times S^3\\times T^5$ background which is the near-horizon limit of the M2-M5 solution. We point out that this relation allows one to use the quantum M2-brane description to probe ``non-planar'' corrections in the dual 2d CFT, in close analogy with the ABJM theory case (described by M-theory on AdS$_4 \\times S^7/\\mathbb{Z}_k$). We consider an analog of a supersymmetric Wilson loop (line defect) expectation value represented by type IIA string partition function expanded around AdS$_2\\subset $AdS$_3$ minimal surface. Its M-theory analog is the M2 brane partition function expanded near AdS$_2\\times S^1$. We compute the 1-loop contribution $Z_1$ to the M2 brane partition function and find that in contrast to the ABJM case in arXiv:2303.15207 (where $Z_1= (2\\sin{\\frac{2π}{ k}})^{-1} = \\frac{k}{ 4 π} +\\fracπ{ 6k} +...$ contains an infinite series of higher genera string corrections, $k^{-1} \\sim \\frac{g_s}{ \\sqrt {\\rm T}}$), here it is given solely by the leading string-theory contribution $Z_1= \\fracκ{ \\sqrt{2π}}$ where $κ\\sim \\sqrt{Q_5}$ plays a role analogous to $k$. We also discuss a generalization to the mixed flux case which is straightforward from the 11d perspective.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2026-03-26T16:08:44+00:00",
+      "updated": "2026-04-14T23:16:21+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.25590v3",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2603.25590v3"
+    },
+    {
+      "arxiv_id": "2603.25084v3",
+      "base_id": "2603.25084",
+      "title": "Particle motions and gravitational waveforms in rotating black hole spacetimes of loop quantum gravity",
+      "authors": [
+        "Yang Yang",
+        "Yu-Xuan Bai",
+        "Yong-Zhuang Li",
+        "Yu Han"
+      ],
+      "abstract": "We study the influence of the loop quantum gravity (LQG) holonomy-correction parameter $ξ$ on black hole horizon structure, timelike geodesic motion, and gravitational wave emission in two rotating LQG-inspired black hole spacetimes, constructed via Newman-Janis algorithm from two distinct spherically symmetric seed metrics (type BH-I and BH-II). The physically admissible range of $ξ$ is determined by requiring the existence of event horizons, marginally bound orbits, and innermost stable circular orbits simultaneously, and is found to shrink monotonically with increasing spin parameter $a$. For equatorial periodic orbits, increasing $ξ$ at fixed angular momentum enlarges the bound energy range, while for off-equatorial orbits, it suppresses the allowed range of the Carter constant, effectively confining trajectories closer to the equatorial plane. The effects of $ξ$ and $a$ on orbital dynamics are systematically antagonistic. Gravitational waveforms computed within a leading-order post-Newtonian extreme-mass-ratio inspiral (EMRI) model show that larger $ξ$ produces enhanced deviations from the Kerr waveform, more prominently so for type BH-II than type BH-I. The resulting characteristic strains occupy the $(10^{-3}, 0.1)$ Hz frequency band but fall below the sensitivity curves of current and near-future space-based detectors for the EMRI parameters considered ($M=10^7 M_\\odot$, $m=10 M_\\odot$, $D_L = 200$ Mpc). Adiabatic inspiral calculations confirm that $ξ$ and $a$ drive orbital evolution in opposite directions, with their relative magnitude determining whether quantum corrections accelerate or retard the inspiral. These results establish systematic observational signatures of holonomy corrections in rotating LQG black holes and motivate higher-fidelity waveform modeling for future space-based gravitational wave detectors.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2026-03-26T06:38:36+00:00",
+      "updated": "2026-04-23T10:20:59+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.25084v3",
+      "html_url": "https://arxiv.org/html/2603.25084v3",
+      "entry_url": "http://arxiv.org/abs/2603.25084v3"
+    }
+  ],
+  "total": 2
+}

@@ -1,0 +1,28 @@
+{
+  "date": "2013-07-16",
+  "papers": [
+    {
+      "arxiv_id": "1307.4144v2",
+      "base_id": "1307.4144",
+      "title": "The Origin of the Dynamical Quantum Non-locality",
+      "authors": [
+        "Cesar E. Pachon",
+        "Leonardo A. Pachon"
+      ],
+      "abstract": "Non-locality is one of the hallmarks of quantum mechanics and is responsible for paradigmatic features such as entanglement and the Aharonov-Bohm effect. Non-locality comes in two flavours: a \\emph{kinematic} non-locality -- arising from the structure of the Hilbert space -- and a \\emph{dynamical} non-locality -- arising from the quantum equations of motion. Recently, the origin of kinematic non-locality was traced to the uncertainty principle; here we rigorously trace the origin of dynamical non-locality to the superposition principle. We prove, via deformation quantization and Marinov's phase-space path integrals, that the exact Wigner propagator reduces to the classical Liouville propagator if and only if the Hamiltonian has at-most-quadratic Weyl symbol. This unified theorem covers both continuous-variable and finite-dimensional Hilbert spaces, aligning the Gaussian (CV) and Clifford (finite-$d$) boundaries of classical simulability into a single algebraic criterion. We introduce a macroscopic, experimentally accessible measure of dynamical non-locality -- the signed divergence $\\mathcal{D}(t)$ -- and show that it governs five phenomena: (i) the dynamical penalty incurred by quantum non-local games under post-measurement evolution; (ii) the quantum corrections to out-of-time-order correlators; (iii) the metrological gain beyond the shot-noise limit; (iv) the generation of non-Gaussian entanglement from product states; and (v) the non-Clifford / magic-state content of finite-dimensional dynamics. A concrete experimental protocol in circuit QED is proposed and complemented by a three-qubit CCZ protocol accessible on current qubit platforms.",
+      "categories": [
+        "quant-ph",
+        "gr-qc",
+        "hep-th",
+        "physics.atom-ph",
+        "physics.chem-ph"
+      ],
+      "published": "2013-07-16T01:38:41+00:00",
+      "updated": "2026-04-23T01:33:26+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1307.4144v2",
+      "html_url": "https://arxiv.org/html/1307.4144v2",
+      "entry_url": "http://arxiv.org/abs/1307.4144v2"
+    }
+  ],
+  "total": 1
+}

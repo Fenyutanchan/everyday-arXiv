@@ -1,0 +1,62 @@
+{
+  "date": "2025-11-13",
+  "papers": [
+    {
+      "arxiv_id": "2511.11756v9",
+      "base_id": "2511.11756",
+      "title": "On Gauge-Invariant Entire-Function Regulators and UV Finiteness in NonLocal Quantum Field Theory",
+      "authors": [
+        "J. W. Moffat",
+        "E. J. Thompson"
+      ],
+      "abstract": "In this paper we clarify the status of gauge invariant entire function regulators in NonLocal Quantum Field Theory, in this the regulator is implemented as an entire function of the covariant Laplace--Beltrami operator. Working in the background-field formalism and expanding around flat, trivial backgrounds, we show that plane waves diagonalize the d'Alembertian so that the entire function reduces to a multiplicative form factor in Minkowski momentum space. After Wick rotation to the Euclidean axis, this produces exponential ultraviolet damping in loop integrals without introducing additional poles or branch cuts. Our analysis provides a gauge covariant justification for the use of entire function regulators in nonlocal quantum field theory.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2025-11-13T21:22:56+00:00",
+      "updated": "2026-04-26T15:44:47+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.11756v9",
+      "html_url": "https://arxiv.org/html/2511.11756v9",
+      "entry_url": "http://arxiv.org/abs/2511.11756v9"
+    },
+    {
+      "arxiv_id": "2511.10522v3",
+      "base_id": "2511.10522",
+      "title": "Learning Post-Newtonian Corrections from Numerical Relativity",
+      "authors": [
+        "Jooheon Yoo",
+        "Michael Boyle",
+        "Nils Deppe"
+      ],
+      "abstract": "Accurate modeling of gravitational waveforms from compact binary coalescences remains central to gravitational-wave (GW) astronomy. Post-Newtonian (PN) approximations capture the early inspiral dynamics analytically but break down near merger, while numerical relativity (NR) provides the accurate yet computationally expensive waveforms over limited parameter ranges. We develop a physics-informed neural network (PINN) framework that learns corrections mapping PN dynamics and waveforms to their NR counterparts. As a demonstration of the approach, we use the TaylorT4 PN model as the baseline, and train the network on a remarkably small dataset of only eight hybridized NR surrogate waveforms (NRHybSur3dq8) to learn higher-order corrections to the orbital dynamics and waveform modes for nonspinning noneccentric systems. Physically motivated loss terms enforce known limits and symmetries, such as vanishing corrections in the Newtonian limit and suppression of odd-$m$ modes in equal-mass systems, promoting consistent and reliable extrapolation beyond the training region. We simultaneously incorporate corrections that account for the different meaning of mass parameters in PN and NR descriptions. The learned corrections significantly reduce the phase and amplitude error through the inspiral up to about $200M$ before the merger. This approach provides a differentiable and computationally efficient bridge between PN and NR, offering a path toward waveform models that generalize more robustly beyond existing NR datasets.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-11-13T17:25:31+00:00",
+      "updated": "2026-04-15T15:30:09+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.10522v3",
+      "html_url": "https://arxiv.org/html/2511.10522v3",
+      "entry_url": "http://arxiv.org/abs/2511.10522v3"
+    },
+    {
+      "arxiv_id": "2511.10735v2",
+      "base_id": "2511.10735",
+      "title": "Constants of motion and fundamental frequencies for elliptic orbits at fourth post-Newtonian order",
+      "authors": [
+        "David Trestini"
+      ],
+      "abstract": "In the case of nonspinning compact binary systems on quasi-elliptic orbits, I obtain the conservative map between the constants of motion (energy and angular momentum) and the fundamental (radial and azimuthal) frequencies at the fourth post-Newtonian order, including both instantaneous and tail contributions. This map is expressed in terms of an enhancement function of the eccentricity, which is appropriately resummed to ensure accuracy for any eccentricity; in particular, I recover known results for circular orbits. In order to obtain this map, the local dynamics are expressed using an action-angle formulation. The tail term is treated as a perturbation, which is first localized in time, then Delaunay-averaged. Both operations require a contact transformation of the phase-space variables, which I explicitly control. Using the first law of binary black hole mechanics, I then obtain the orbit-averaged redshift invariant for eccentric orbits at fourth post-Newtonian order; when properly accounting for the tail contributions, it perfectly agrees with analytical self-force at postgeodesic order [arXiv:2203.13832]. Finally, I use these results to re-express the fluxes of energy and angular momentum obtained at third post-Newtonian order in [arXiv:0711.0302] and [arXiv:0908.3854] in terms of fundamental frequencies.",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2025-11-13T19:00:02+00:00",
+      "updated": "2026-04-27T11:50:50+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.10735v2",
+      "html_url": "https://arxiv.org/html/2511.10735v2",
+      "entry_url": "http://arxiv.org/abs/2511.10735v2"
+    }
+  ],
+  "total": 3
+}

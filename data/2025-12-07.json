@@ -1,0 +1,47 @@
+{
+  "date": "2025-12-07",
+  "papers": [
+    {
+      "arxiv_id": "2512.06908v2",
+      "base_id": "2512.06908",
+      "title": "A first-order formulation of f(R) gravity in spherical symmetry",
+      "authors": [
+        "Philippe G. LeFloch",
+        "Filipe C. Mena"
+      ],
+      "abstract": "We develop an augmented characteristic, first-order formulation of the field equations in f(R) gravity governing the global evolution of a (possibly) massive scalar field phi under spherical symmetry. This formulation is designed to isolate the genuine dynamical degrees of freedom while preserving the geometric structure of the theory. By treating the spacetime scalar curvature as an independent unknown, we obtain a closed first-order nonlocal system for the pair (phi,R).   This augmentation eliminates the higher-derivative character of the original equations at the level of the principal part. Our formulation allows us to pose the characteristic initial value problem and to establish several structural properties of solutions. More precisely, we work in generalized Bondi-Sachs coordinates and prescribe initial data on an asymptotically flat, future light cone with vertex at the center of symmetry, and we identify the minimal regularity conditions required at the center.   These regularity conditions are shown to be precisely those ensuring equivalence between the reduced system and the full f(R) equations. Extending Christodoulou's method for the Einstein-scalar-field system, we recast the f(R) field equations as an integro-differential system of two coupled, first-order, nonlocal, nonlinear hyperbolic equations, whose principal unknowns are the scalar field and the spacetime scalar curvature.",
+      "categories": [
+        "gr-qc",
+        "math.AP"
+      ],
+      "published": "2025-12-07T16:25:30+00:00",
+      "updated": "2026-04-20T14:45:40+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.06908v2",
+      "html_url": "https://arxiv.org/html/2512.06908v2",
+      "entry_url": "http://arxiv.org/abs/2512.06908v2"
+    },
+    {
+      "arxiv_id": "2512.06904v2",
+      "base_id": "2512.06904",
+      "title": "Solving the Inverse Source Problem in Femtoscopy with a Toy Model",
+      "authors": [
+        "Ao-Sheng Xiong",
+        "Qi-Wei Yuan",
+        "Ming-Zhu Liu",
+        "Fu-Sheng Yu",
+        "Zhi-Wei Liu",
+        "Li-Sheng Geng"
+      ],
+      "abstract": "Hadron-hadron interactions, as a non-perturbative effect, play a significant role in understanding phenomenological problems in particle physics. Femtoscopy is a powerful tool in heavy-ion collision experiments, enabling the extraction of hadron-hadron interactions via momentum-correlation functions (CFs). These CFs are generally factorized into a convolution of source functions and hadron-hadron wave functions, with the latter encoding information about hadron-hadron interactions. However, source functions remain ambiguous and are commonly approximated by a Gaussian form. Reconstructing source functions from experimental correlation data constitutes an ``inverse problem.\" To address it, we propose a toy model based on the Tikhonov regularization. Employing a square potential well of four distinct potential strengths, we calculate the CFs for inputs of a Gaussian source function and its hybrid form. The obtained CFs are subsequently used to reconstruct the source functions via the Tikhonov regularization. Our results demonstrate that the Gaussian source function can be successfully reconstructed, indicating the potential of this approach for extracting realistic source functions of hadron pairs of interest in the future.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-12-07T16:07:44+00:00",
+      "updated": "2026-04-20T05:38:33+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.06904v2",
+      "html_url": "https://arxiv.org/html/2512.06904v2",
+      "entry_url": "http://arxiv.org/abs/2512.06904v2"
+    }
+  ],
+  "total": 2
+}

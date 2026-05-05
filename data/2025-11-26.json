@@ -1,0 +1,104 @@
+{
+  "date": "2025-11-26",
+  "papers": [
+    {
+      "arxiv_id": "2511.21504v2",
+      "base_id": "2511.21504",
+      "title": "Entanglement Entropy of a Non-Minimally Coupled Self-Interacting Scalar across a Schwarzschild Horizon at $\\mathcal{O}(α)$",
+      "authors": [
+        "Florin Manea"
+      ],
+      "abstract": "We compute the first-order correction in the quartic coupling $α$ to the entanglement entropy of a massive, non-minimally coupled scalar across the horizon of a four-dimensional Schwarzschild black hole, treating the non-minimal coupling $ξ$ as a free parameter. Combining the replica trick on the conical manifold $\\mathcal{M}_n$ with heat-kernel methods in proper-time regularization, we obtain a closed-form expression for $δS^{(1)}(m,α,ξ)$. The bare correction exhibits a log-enhanced quadratic divergence $ε^{-2}\\ln(m^2ε^2)$, arising from interference between bulk fluctuations and the distributional curvature at the tip; we show it is cancelled at $\\mathcal{O}(α)$ by the bulk mass counterterm. The residual $m^2\\ln(m^2ε^2)$ divergence renormalizes Newton's constant, preserving $S_{\\mathrm{BH}} = \\mathcal{A}_Σ/ 4 G_F$. The correction is proportional to $(1/6-ξ)$ and vanishes identically for conformal coupling.",
+      "categories": [
+        "gr-qc",
+        "hep-th",
+        "math-ph"
+      ],
+      "published": "2025-11-26T15:38:55+00:00",
+      "updated": "2026-04-20T13:40:44+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.21504v2",
+      "html_url": "https://arxiv.org/html/2511.21504v2",
+      "entry_url": "http://arxiv.org/abs/2511.21504v2"
+    },
+    {
+      "arxiv_id": "2511.21424v3",
+      "base_id": "2511.21424",
+      "title": "Simpson-Visser-AdS Black Holes: Thermodynamics and Binary Merger",
+      "authors": [
+        "Neeraj Kumar",
+        "Ankur Srivastav",
+        "Phongpichit Channuie"
+      ],
+      "abstract": "In this article, we performed Simpson-Visser (SV)-regularization scheme to Anti-de Sitter (AdS) black holes and then studied thermal properties of the resulting spacetime geometry. We considered the validity of the first law of black hole thermodynamics in this case and derived an entropy formula consistent with this new regular geometry. Next, we carried out the free energy analysis and studied the phase structure of these black holes. We discovered non-trivial phase transition properties dependent on the SV-regularization parameter. We also considered the validity of the second law of black hole thermodynamics and analyzed a merger scenario of two equal mass SV-regular black holes. In particular, we investigated the impact of the SV-regularization parameter on the constraints on post-merger black hole mass. Intrestingly, we found that the bounds initially increase and then fall sharply with increasing the SV-regularization parameter. All results are compared with standard black holes for vanishing SV-regularization parameter.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-11-26T14:14:00+00:00",
+      "updated": "2026-04-15T15:29:27+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.21424v3",
+      "html_url": "https://arxiv.org/html/2511.21424v3",
+      "entry_url": "http://arxiv.org/abs/2511.21424v3"
+    },
+    {
+      "arxiv_id": "2511.21941v2",
+      "base_id": "2511.21941",
+      "title": "Searches for Post-Merger Gravitational Waves with CoCoA: Sensitivity Projections Across Large Template Banks for Current and Next-Generation Detectors",
+      "authors": [
+        "Tanazza Khanam",
+        "Alessandra Corsi",
+        "Robert Coyne",
+        "Michael St. Pierre"
+      ],
+      "abstract": "The multi-messenger detection of the binary neutron star (NS) merger GW170817 has revolutionized the field of gravitational wave (GW) astronomy. However, several important questions remain to be answered. One of these is the nature of the compact remnant leftover by GW170817 (short- or long-lived NS versus black hole). A key goal going forward is to understand the diversity of NS-NS merger remnants, and how such diversity maps onto their viability as gamma-ray burst (GRB) central engines. Here, we present a study aimed at assessing the sensitivity of triggered searches for intermediate-duration, post-merger GWs powered by long-lived GRB remnants using networks of current and future ground-based GW detectors and the Cross-Correlation Algorithm (CoCoA). We develop a Python-based framework to efficiently estimate CoCoA distance horizons for a broad range of post merger secular bar-mode waveforms and for different GW detector networks. This framework can be used to identify the most promising regions of parameter space in which to concentrate search efforts, helping design future search strategies to optimally balance search sensitivity and related parameter space gridding schema against computational cost.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "astro-ph.IM"
+      ],
+      "published": "2025-11-26T22:03:07+00:00",
+      "updated": "2026-04-14T15:28:13+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.21941v2",
+      "html_url": "https://arxiv.org/html/2511.21941v2",
+      "entry_url": "http://arxiv.org/abs/2511.21941v2"
+    },
+    {
+      "arxiv_id": "2511.21874v2",
+      "base_id": "2511.21874",
+      "title": "Model-independent probes of CP violation in the heavy scalar sector at muon colliders",
+      "authors": [
+        "Qianxi Li",
+        "Ying-nan Mao",
+        "Kechen Wang"
+      ],
+      "abstract": "We propose a model-independent test of CP violation in the scalar sector. We consider a heavy neutral scalar $h_2$ with tree-level couplings at the $h_2 V V$ and $h_2 h_1 Z$ vertices (with $V=W^{\\pm},Z$), alongside the 125~GeV SM-like Higgs boson $h_1$. At future muon colliders (MuC), we exploit vector-boson-fusion (VBF) production of $h_2$ followed by the decay $h_2 \\to Z h_1$. In our framework, observing the single process $V V \\to h_2 \\to Z h_1$ implies both relevant couplings are nonzero, which is sufficient to establish CP violation in the scalar sector. We simulate signal and backgrounds at $\\sqrt{s}=3~(10)$~TeV with integrated luminosity $L=0.9~(10)~\\mathrm{ab}^{-1}$. We then present the expected discovery sensitivities across the $(c_2,c_{12})$ parameter space (with the coupling parameters $c_{2}$ and $c_{12}$ defined in the text) for multiple $m_{h_2}$ hypotheses.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-11-26T19:52:19+00:00",
+      "updated": "2026-04-30T16:15:46+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.21874v2",
+      "html_url": "https://arxiv.org/html/2511.21874v2",
+      "entry_url": "http://arxiv.org/abs/2511.21874v2"
+    },
+    {
+      "arxiv_id": "2511.21183v2",
+      "base_id": "2511.21183",
+      "title": "Observational appearance and photon rings of non-singular black holes from anisotropic fluids",
+      "authors": [
+        "David Díaz-Guerra",
+        "Angel Rincon",
+        "Diego Rubiera-Garcia"
+      ],
+      "abstract": "We consider the optical appearance of a non-singular, spherically symmetric black hole from Eddington-inspired Born-Infeld gravity coupled to anisotropic fluids. Such a black hole has a single (external) horizon located very near the Schwarzschild radius, $r_h=2M$, while its surface of unstable bound geodesics (photon sphere) is located at a moderately shortened radius than its Schwarzschild counterpart. Relying on a geometrically and optically thin accretion disk with a monochromatic emission described by suitable adaptations of Standard Unbound profiles previously employed in the literature, we generate images of this solution, which displays relevant modifications to the typical photon ring and central brightness depression features found in black hole images. In this sense, we fit the width of the two first photon rings in order to reconstruct the Lyapunov exponent of nearly-bound geodesics characterizing the theoretical ratio of successive rings. Such an exponent is tightly attached to observational features of photon rings such as their relative intensities in time-averaged images and the time-scale of hot-spots. Our results point out that non-singular black holes of this type are hard to distinguish from their Schwarzschild counterparts using this method alone, since the theoretical, numerical, disk-modeling, and observational uncertainties are too entangled with one another to allowing a neat distinction of such an exponent. It also points out to the need of incorporating dynamical settings such as hot-spots or quasi-normal modes from gravitational wave ringdowns as a way to circumvent such difficulties.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-11-26T08:59:12+00:00",
+      "updated": "2026-04-30T07:40:02+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.21183v2",
+      "html_url": "https://arxiv.org/html/2511.21183v2",
+      "entry_url": "http://arxiv.org/abs/2511.21183v2"
+    }
+  ],
+  "total": 5
+}

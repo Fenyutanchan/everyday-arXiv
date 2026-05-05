@@ -1,0 +1,105 @@
+{
+  "date": "2025-12-23",
+  "papers": [
+    {
+      "arxiv_id": "2512.20832v2",
+      "base_id": "2512.20832",
+      "title": "Thawing Quintessence: Priors, evidence, and likely trajectories",
+      "authors": [
+        "David Shlivko"
+      ],
+      "abstract": "We perform a Bayesian comparison between thawing quintessence and a cosmological constant, incorporating theoretically motivated priors on the phenomenological Padé-w parameters used to model thawing dynamics. We find that thawing quintessence is consistently preferred over a cosmological constant when combining BAO data from DESI DR2 and CMB data from Planck+ACT with any of the major supernova compilations, including the recently updated DES-Dovekie sample. This preference is not sensitive to our choice of prior, but it is contingent on the inclusion of supernovae in the analysis. We comment on the consistency between various information criteria and Bayesian evidence ratios, finding that the Deviance Information Criterion (DIC) tracks the Bayesian evidence more reliably than either the Akaike Information Criterion (AIC) or the Bayesian Information Criterion (BIC). Finally, we use observational likelihoods to identify which thawing trajectories are compatible with the available data, independently of theoretical priors.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "published": "2025-12-23T23:14:20+00:00",
+      "updated": "2026-04-18T22:02:56+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.20832v2",
+      "html_url": "https://arxiv.org/html/2512.20832v2",
+      "entry_url": "http://arxiv.org/abs/2512.20832v2"
+    },
+    {
+      "arxiv_id": "2512.20060v2",
+      "base_id": "2512.20060",
+      "title": "Measuring Eccentricity and Addressing Waveform Systematics in GW231123",
+      "authors": [
+        "Aasim Jan",
+        "Sophia Nicolella",
+        "Deirdre Shoemaker",
+        "Richard O'Shaughnessy"
+      ],
+      "abstract": "The gravitational-wave event GW231123_135430 is the heaviest binary black hole system observed by the LIGO--Virgo--KAGRA Collaboration to date, with the initial analysis indicating the individual black hole masses lie within or above the theorized pair-instability mass gap of roughly $60$--$130\\,M_\\odot$. The inference further suggests that both black holes possess high spins, measured to be $0.90^{+0.10}_{-0.19}$ and $0.80^{+0.20}_{-0.51}$. Therefore, the observation of this event suggests the formation of black holes from channels beyond the standard stellar collapse. However, different waveform models yield significantly different parameter estimates, possibly due to missing physics in the models used in inference. In this work, we carry out a reanalysis of GW231123 using a physically complete model, accounting for both spin precession and eccentricity. Our analysis shows that this event does not exhibit strong evidence for eccentricity and the exclusion of eccentricity has minimal impact on inference. Furthermore, for GW231123-like systems, even eccentricities as large as $0.15$ at $10$ Hz do not yield a confident nonzero eccentricity measurement. Through a zero-noise injection recovery study, we show that the observed discrepancies in the parameter estimates can be explained by disagreement in the waveform models at strong spin precession, with the degree of parameter bias in the zero-noise runs being comparable to that observed for the real signal. We also show that inference performed with an eccentric, aligned-spin waveform model can yield a confident nonzero eccentricity measurement due to the degeneracy between eccentricity and spin precession. Bayesian model selection, however, rules out this interpretation in favor of the eccentric, spin precessing hypothesis, which supports zero eccentricity -- a conclusion we confirm with additional zero-noise injection-recovery tests.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-12-23T05:24:54+00:00",
+      "updated": "2026-04-18T00:16:07+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.20060v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2512.20060v2"
+    },
+    {
+      "arxiv_id": "2512.20699v2",
+      "base_id": "2512.20699",
+      "title": "Comparing next-generation detector configurations for high-redshift gravitational wave sources with neural posterior estimation",
+      "authors": [
+        "Filippo Santoliquido",
+        "Jacopo Tissino",
+        "Ulyana Dupletsa",
+        "Marica Branchesi",
+        "Jan Harms"
+      ],
+      "abstract": "The coming decade will be crucial for determining the final design and configuration of a global network of next-generation (XG) gravitational-wave detectors, including the Einstein Telescope (ET) and Cosmic Explorer (CE). In this study, and for the first time, we assessed the performance of various network configurations using neural posterior estimation (NPE) implemented in Dingo-IS-a method based on normalizing flows and importance sampling that enables fast and accurate inference. We focused on a specific science case involving short-duration, massive and high-redshift binary black hole mergers with detector-frame chirp masses $> 100~\\mathrm{M}_\\odot$. These systems encompass early-Universe stellar and primordial black holes, as well as intermediate-mass black hole binaries, for which XG observatories are expected to deliver major discoveries. Validation against standard Bayesian inference demonstrates that NPE robustly reproduces complex and disconnected posterior structures across all network configurations. For a network of two misaligned L-shaped ET detectors (2L MisA), the posterior distributions on luminosity distance can become multimodal and degenerate with the sky position, leading to less precise distance estimates compared to the triangular ET configuration. However, the number of sky-location multimodalities is substantially lower than the eight expected with the triangular ET, resulting in improved sky and volume localization. Adding CE to the network further reduces sky-position degeneracies, and the better performance of the 2L MisA configuration over the triangle remains evident.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE"
+      ],
+      "published": "2025-12-23T19:00:05+00:00",
+      "updated": "2026-04-17T14:04:09+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.20699v2",
+      "html_url": "https://arxiv.org/html/2512.20699v2",
+      "entry_url": "http://arxiv.org/abs/2512.20699v2"
+    },
+    {
+      "arxiv_id": "2512.20825v2",
+      "base_id": "2512.20825",
+      "title": "Irreducible Constraints on Hadronically Interacting Sub-GeV Dark Matter",
+      "authors": [
+        "Peter Cox",
+        "Matthew J. Dolan",
+        "Avirup Ghosh"
+      ],
+      "abstract": "We derive conservative upper limits on the dark-matter--nucleon scattering cross-section for sub-GeV mass dark matter. Working exclusively within the low-energy chiral effective theory, we derive bounds that are independent of the details of the dark matter interactions in the UV. Dark matter that interacts only hadronically at leading order also inevitably interacts with photons or electrons at next-to-leading-order. We show that these electromagnetic interactions lead to strong constraints from big bang nucleosynthesis and over-production of dark matter via freeze-in at low temperatures, while the leading-order hadronic couplings face stringent constraints from meson decays. Combining these constraints, we rule out both spin-independent and spin-dependent dark-matter--nucleon scattering cross-sections $\\gtrsim 10^{-36}\\,{\\rm cm}^2$ for dark matter masses in the keV - 100 MeV range. These bounds are several orders of magnitude stronger than the existing constraints from astrophysics and cosmology and have significant implications for future low-mass direct detection experiments.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-12-23T22:59:02+00:00",
+      "updated": "2026-04-17T08:29:50+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.20825v2",
+      "html_url": "https://arxiv.org/html/2512.20825v2",
+      "entry_url": "http://arxiv.org/abs/2512.20825v2"
+    },
+    {
+      "arxiv_id": "2512.20440v2",
+      "base_id": "2512.20440",
+      "title": "Effective dynamics of Janis-Newman-Winicour spacetime",
+      "authors": [
+        "Faqiang Yuan",
+        "Shengzhi Li",
+        "Zhen Li",
+        "Yongge Ma"
+      ],
+      "abstract": "The effective dynamics of the Janis-Newman-Winicour spacetime inspired by loop quantum gravity is studied. Two different schemes are considered to regularize the Hamiltonian constraint for the quantum dynamics. In the $μ_0$ scheme in which the quantum parameters are treated as constants, the equations of motion generated by the effective Hamiltonian are solved analytically. The resulting quantum-corrected effective spacetime obviously extends the effective spacetime previously obtained in the literature. In the new effective spacetime, the naked singularity and the central singularity presented in the classical JNW spacetime are resolved by a series of quantum bounces. In the scheme of choosing the quantum parameters as Dirac observables, the effective dynamics is also solved in the light of the solution in $μ_0$ scheme. It turns out that the resulting effective spacetime has singularities due to the appearance of the zero points of the time reparametrization functions. Hence, the effective theory in this scheme does not remain valid throughout the full spacetime.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-12-23T15:30:30+00:00",
+      "updated": "2026-04-30T11:42:04+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.20440v2",
+      "html_url": "https://arxiv.org/html/2512.20440v2",
+      "entry_url": "http://arxiv.org/abs/2512.20440v2"
+    }
+  ],
+  "total": 5
+}

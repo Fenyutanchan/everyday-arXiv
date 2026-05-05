@@ -1,0 +1,79 @@
+{
+  "date": "2025-09-16",
+  "papers": [
+    {
+      "arxiv_id": "2509.13162v2",
+      "base_id": "2509.13162",
+      "title": "Asymptotic Velocity Domination in quantized polarized Gowdy Cosmologies",
+      "authors": [
+        "Max Niedermaier",
+        "Mahdi Sedighi Jafari"
+      ],
+      "abstract": "Asymptotic velocity domination (AVD) posits that when back-propagated to the Big Bang generic cosmological spacetimes solve a drastically simplified version of the Einstein field equations, where all dynamical spatial gradients are absent (similar as in the Belinski-Khalatnikov-Lifshitz scenario). Conversely, a solution can in principle be reconstructed from its behavior near the Big Bang. This property has been rigorously proven for the Gowdy class of cosmologies, both polarized and unpolarized. Here we establish for the polarized case a quantum version of the AVD property formulated in terms of two-point functions of (the integrands of) Dirac observables: these correlators approach their much simpler velocity dominated counterparts when the time support is back-propagated to the Big Bang. Conversely, the full correlators can be expressed as a uniformly convergent series in averaged spatial gradients of the velocity dominated ones.",
+      "categories": [
+        "gr-qc",
+        "hep-th",
+        "math-ph"
+      ],
+      "published": "2025-09-16T15:14:18+00:00",
+      "updated": "2026-04-16T14:04:57+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.13162v2",
+      "html_url": "https://arxiv.org/html/2509.13162v2",
+      "entry_url": "http://arxiv.org/abs/2509.13162v2"
+    },
+    {
+      "arxiv_id": "2509.13308v2",
+      "base_id": "2509.13308",
+      "title": "VAR-PZ: Constraining the Photometric Redshifts of Quasars using Variability",
+      "authors": [
+        "S. Satheesh-Sheeba",
+        "R. J. Assef",
+        "T. Anguita",
+        "P. Sánchez-Sáez",
+        "R. Shirley",
+        "T. T. Ananna",
+        "F. E. Bauer",
+        "A. Bobrick",
+        "C. G. Bornancini",
+        "S. E. I. Bosman",
+        "W. N. Brandt",
+        "D. De Cicco",
+        "B. Czerny",
+        "M. Fatović",
+        "K. Ichikawa",
+        "D. Ilić",
+        "A. B. Kovačević",
+        "G. Li",
+        "M. Liao",
+        "A. Rojas-Lilayú",
+        "M. Marculewicz",
+        "D. Marsango",
+        "C. Mazzucchelli",
+        "T. Mkrtchyan",
+        "S. Panda",
+        "A. Peca",
+        "B. Rani",
+        "C. Ricci",
+        "G. T. Richards",
+        "M. Salvato",
+        "D. P. Schneider",
+        "M. J. Temple",
+        "F. Tombesi",
+        "W. Yu",
+        "I. Yoon",
+        "F. Zou"
+      ],
+      "abstract": "The Vera C. Rubin Observatory LSST is expected to discover tens of millions of new Active Galactic Nuclei (AGNs). The survey's exceptional cadence and sensitivity will enable UV/optical/NIR monitoring of a significant fraction of these objects. The unprecedented number of sources makes spectroscopic follow-up for the vast majority of them unfeasible in the near future, so most studies will have to rely on photometric redshifts estimates which are traditionally much less reliable for AGN than for inactive galaxies. This work presents a novel methodology to constrain the photometric redshift of AGNs that leverages the effects of cosmological time dilation, and of the luminosity and wavelength dependence of AGN variability. Specifically, we assume that the variability can be modeled as a damped random walk (DRW) process, and adopt a parametric model to characterize the DRW timescale ($τ$) and asymptotic amplitude of the variability (SF$_\\infty$) based on the redshift, the rest-frame wavelength, and the AGN luminosity. We construct variability-based photo-$z$ priors by modeling the observed variability using the expected DRW parameters at a given redshift. These variability-based photometric redshift (VAR-PZ) priors are then combined with traditional SED fitting to improve the redshift estimates from SED fitting.   Validation is performed using observational data from the SDSS, demonstrating significant reduction in catastrophic outliers by more than 10% in comparison with SED fitting techniques and improvements in redshift precision. The simulated light curves with both SDSS and LSST-like cadences and baselines confirm that, VAR-PZ will be able to constrain the photometric redshifts of SDSS-like AGNs by bringing the outlier fractions down to below 7% from 32% (SED-alone) at the end of the survey.",
+      "categories": [
+        "astro-ph.GA",
+        "astro-ph.CO"
+      ],
+      "published": "2025-09-16T17:57:06+00:00",
+      "updated": "2026-04-14T15:02:59+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.13308v2",
+      "html_url": "https://arxiv.org/html/2509.13308v2",
+      "entry_url": "http://arxiv.org/abs/2509.13308v2"
+    }
+  ],
+  "total": 2
+}

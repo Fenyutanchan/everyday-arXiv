@@ -1,0 +1,144 @@
+{
+  "date": "2025-12-18",
+  "papers": [
+    {
+      "arxiv_id": "2512.16731v2",
+      "base_id": "2512.16731",
+      "title": "Probing the sensitivity of dark energy dynamics to equation of state parametrization flexibility",
+      "authors": [
+        "Md. Wali Hossain"
+      ],
+      "abstract": "Allowing for greater low-redshift flexibility through parametrizations such as CPL can lead to apparent deviations from $Λ$CDM, with the latter lying at roughly the $2σ$ level from the best-fit model. This motivates an investigation into whether such deviations reflect genuine dynamical dark energy or arise from parametrization choices. We investigate several dark energy parametrizations, including two new phenomenological models proposed here, the power-law and modified power-law forms, which allow greater low-redshift flexibility (around $z \\sim 1$) than CPL. We find that parametrizations permitting stronger evolution of the equation of state can exhibit enhanced phantom-like behaviour at intermediate redshifts, however, this feature is sensitive to the assumed functional form and its extrapolation. The statistical preference for such behaviour remains modest, typically at the $\\sim 2σ$ level, but is consistently observed across different parametrizations, in agreement with recent analyses. Owing to limited data at $z > 2$, this conclusion is primarily driven by the behaviour of the equation of state in the redshift range $1 \\leq z \\leq 2$. We show that parametrizations with enhanced redshift flexibility, such as power-law-type forms, can mildly improve the fit. Although the statistical significance, quantified using the Akaike and Bayesian information criteria, remains modest, our results indicate that current data favour dynamical dark energy with phantom-like features, although the strength and detailed evolution of this behaviour are not robustly constrained.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "published": "2025-12-18T16:30:03+00:00",
+      "updated": "2026-04-20T06:48:42+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.16731v2",
+      "html_url": "https://arxiv.org/html/2512.16731v2",
+      "entry_url": "http://arxiv.org/abs/2512.16731v2"
+    },
+    {
+      "arxiv_id": "2512.16976v2",
+      "base_id": "2512.16976",
+      "title": "Creation of spin-3/2 dark matter via cosmological gravitational particle production",
+      "authors": [
+        "Edward W. Kolb",
+        "Andrew J. Long",
+        "Evan McDonough",
+        "Jingyuan Wang"
+      ],
+      "abstract": "We study the cosmological gravitational particle production (CGPP) of spin-3/2 particles during and after cosmic inflation, and map the parameter space that can realize the observed dark matter density in stable spin-3/2 particles. Originally formulated by Rarita and Schwinger, the relativistic theory of a massive spin-3/2 field later found a home in supergravity as the superpartner of the graviton, and in nuclear physics as baryonic resonances and nuclear isotopes. We study a minimal model realization, namely a free massive spin-3/2 field minimally coupled to gravity, and adopt the name raritron for this field. We demonstrate that CGPP of raritrons crucially depends on the hierarchy between the raritron mass $m_{3/2}$ and the Hubble parameter at the end of inflation $H_e$, with high-mass and low-mass cases distinguished by the evolution of the sound speed $c_s$ of the longitudinal (helicity-1/2) mode, which is approximately unity at all times for heavy (relative to Hubble) raritrons and can become small or vanish for lighter raritrons, leading to a dramatic enhancement of production of high momentum particles in the latter case. Assuming the raritrons are stable, this leads to a wide parameter space to produce the observed dark matter density. Finally, we consider a time-dependent raritron mass, which can be chosen to remove the vanishing sound speed of the longitudinal mode, but which nonetheless enhances the production relative to the constant high-mass case, and in particular does not necessarily tame the high momentum tail of the spectrum. We perform our calculations using the Bogoliubov formalism and compare, when applicable, to the Boltzmann formalism.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2025-12-18T18:45:39+00:00",
+      "updated": "2026-04-18T18:32:25+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.16976v2",
+      "html_url": "https://arxiv.org/html/2512.16976v2",
+      "entry_url": "http://arxiv.org/abs/2512.16976v2"
+    },
+    {
+      "arxiv_id": "2512.17022v4",
+      "base_id": "2512.17022",
+      "title": "The contribution from small scales on two-point shear analysis: comparison between power spectrum and correlation function",
+      "authors": [
+        "João Ferri",
+        "Elisa G. M. Ferreira",
+        "Ryo Terasawa"
+      ],
+      "abstract": "A known problem in cosmic shear two-point statistics is the apparent inconsistency between analyses performed in harmonic space (power spectrum) and real space (angular correlation). This arises mainly from two factors: first, scale cuts in one space correspond to soft cuts in the other, as the relationship between the two spaces is mediated by Bessel functions. For the same reason, astrophysical effects that are compact in one space may not be in the other, which can lead to biased parameter estimates. In this paper, we argue that these two statistics are complementary: we expect a robust theory to provide consistent constraints regardless of the chosen scale cuts. We present the consequences of pushing our analysis to smaller scales in both spaces, accounting for different models of Intrinsic Alignment and Baryonic Feedback in HSC Y3 data: we find that the harmonic-space analysis is significantly less sensitive to the specific modeling of small-scale physics, with model-choice-driven biases in $S_8$ being 2-3 times smaller than in real space. We show that using a flexible, simulation-based emulator for baryonic feedback (BACCO) in combination with the TATT model for intrinsic alignments provides the most consistent cosmological constraints between the two spaces when pushing to the smallest scales. In contrast, the standard HMCode-2016 model results in a $\\sim 1.1σ$ tension between the two statistics. While harmonic space appears more robust for cosmological inference given current model uncertainties, real-space analyses offer a clearer separation of baryonic effects and will play a crucial role in distinguishing between baryonic feedback models in upcoming surveys.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2025-12-18T19:37:03+00:00",
+      "updated": "2026-04-16T19:12:10+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.17022v4",
+      "html_url": "https://arxiv.org/html/2512.17022v4",
+      "entry_url": "http://arxiv.org/abs/2512.17022v4"
+    },
+    {
+      "arxiv_id": "2512.16613v2",
+      "base_id": "2512.16613",
+      "title": "Effective potential in $SO(N)$ symmetric scalar field theories in curved spacetime",
+      "authors": [
+        "V. A. Filippov",
+        "R. M. Iakhibbaev",
+        "D. M. Tolkachev"
+      ],
+      "abstract": "We derive recurrence relations for leading logarithmic all-loop quantum corrections in the case of $SO(N)$ symmetric scalar theory with an arbitrary potential in curved spacetime. On this basis, a system of renormalisation group (RG) equations in the general is obtained approach for the effective potential in the large $N$ limit. As a simple illustration, we analyse the case of power-like potentials in the Jordan frame and discuss their application to inflationary cosmology.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2025-12-18T14:52:30+00:00",
+      "updated": "2026-04-22T11:00:59+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.16613v2",
+      "html_url": "https://arxiv.org/html/2512.16613v2",
+      "entry_url": "http://arxiv.org/abs/2512.16613v2"
+    },
+    {
+      "arxiv_id": "2512.16973v3",
+      "base_id": "2512.16973",
+      "title": "Some examples of use of transfinite induction in analysis",
+      "authors": [
+        "Nicola Gigli"
+      ],
+      "abstract": "It is not uncommon in analysis that existence of extremal objects is obtained via an iterative procedure: we start from a given admissible object, then modify it, then modify again etc... If being extremal means maximimizing a real valued quantity and we are sure to approach the supremum fast enough, after a countable number of steps and a limiting procedure we are done.   In this short note we want to advertise a slightly different line of thought, where rather than trying to approach the supremum fast enough, we: try to increase, if possible, the function to be maximized and, at the same time, index our recursive procedure over ordinals. Since there are no increasing functions from $ω_1$ to $\\R$, the procedure must stop at some countable ordinal and existence is proved anyway.   The advantage of this line of reasoning is that it can be helpful even in situations where it is not so evident how to measure `being maximal' via a real valued function. This is the case, for instance, for existence of a Maximal Globally Hyperbolic Development of an initial data set in General Relativity.   Speaking of this particular example, we also show that such `real-valued quantification' of the size of a development is actually possible, thus existence of a maximal one can be obtained in a countable number of steps using the original argument in [2] together with the standard procedure depicted above. This provides a way alternative to the one given in [5] to `dezornify' the proof in [2].",
+      "categories": [
+        "math.DG",
+        "gr-qc",
+        "math.CA"
+      ],
+      "published": "2025-12-18T14:48:20+00:00",
+      "updated": "2026-04-29T09:20:01+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.16973v3",
+      "html_url": "https://arxiv.org/html/2512.16973v3",
+      "entry_url": "http://arxiv.org/abs/2512.16973v3"
+    },
+    {
+      "arxiv_id": "2512.16993v2",
+      "base_id": "2512.16993",
+      "title": "Fermion Thermal Field Theory for a Rotating Plasma (with Applications to Neutron Stars)",
+      "authors": [
+        "Alberto Salvio"
+      ],
+      "abstract": "This paper provides a systematic and complete study of thermal field theory with fermion fields of any kind for generic equilibrium density matrices, which feature arbitrary values not only of temperature and chemical potentials, but also average angular momentum. This extends a previous study that focused on scalar fields, to all fermion-scalar theories. Both Dirac and Majorana fermions and both Dirac and Majorana masses are covered. A general technique to compute ensemble averages is provided. Path-integral methods are developed to study thermal Green's functions (with an arbitrary number of points) in generic interacting fermion-scalar theories, which cover both the real-time and imaginary-time formalism. These general results are applied to physical situations typical of neutron stars, which are often quickly rotating: the Fermi surface and Fermi momentum, the average energy, number density and angular momentum for degenerate fermions and particle production (such as neutrino production from rotating neutron stars, e.g. pulsars). In particular, it is shown that the neutrino production rate due to the direct URCA (DU) processes grows indefinitely as the angular velocity approaches the inverse linear size of the plasma and, therefore, rotation can significantly increase this rate.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.HE",
+        "hep-th"
+      ],
+      "published": "2025-12-18T19:00:07+00:00",
+      "updated": "2026-04-30T12:25:19+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.16993v2",
+      "html_url": "https://arxiv.org/html/2512.16993v2",
+      "entry_url": "http://arxiv.org/abs/2512.16993v2"
+    },
+    {
+      "arxiv_id": "2512.16591v3",
+      "base_id": "2512.16591",
+      "title": "An effective $\\boldsymbolΛ$-Szekeres modelling of the local Universe with Cosmicflows-4",
+      "authors": [
+        "Marco Galoppo",
+        "Leonardo Giani",
+        "Morag Hills",
+        "Aurélien Valade"
+      ],
+      "abstract": "We develop an effective description of the local cosmic environment, namely, for redshift $z \\lesssim 0.1$, to quantify the bias induced by local structure on cosmological observables. Our approach models the metric of the nearby Universe as a superposition of multi-structured $Λ$-Szekeres patches, calibrated against the HAMLET peculiar velocity and density field reconstructions of Cosmicflows-4. From this framework we compute the fully inhomogeneous and anisotropic quasilocal expansion field predicted by our model, and use it to assess the impact of local structure on estimates of $H_0$. For this purpose we analyse low-redshift Type Ia supernovae from the Pantheon+ catalogue. We find that accounting for the local structure increases the Hubble tension, yielding a shift in the best-fit value of the Hubble constant of order $ΔH_0 \\approx 0.5\\ \\mathrm{km\\,s^{-1}Mpc^{-1}}$.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "published": "2025-12-18T14:35:04+00:00",
+      "updated": "2026-05-01T01:54:27+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.16591v3",
+      "html_url": "https://arxiv.org/html/2512.16591v3",
+      "entry_url": "http://arxiv.org/abs/2512.16591v3"
+    }
+  ],
+  "total": 7
+}

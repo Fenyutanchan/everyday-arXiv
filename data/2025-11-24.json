@@ -1,0 +1,48 @@
+{
+  "date": "2025-11-24",
+  "papers": [
+    {
+      "arxiv_id": "2511.19600v2",
+      "base_id": "2511.19600",
+      "title": "Towards Reconciling Reionization with JWST: The Role of Bright Galaxies and Strong Feedback",
+      "authors": [
+        "Ankita Bera",
+        "Sultan Hassan",
+        "Robert Feldmann",
+        "Romeel Davé",
+        "Kristian Finlator"
+      ],
+      "abstract": "The elevated UV luminosity functions (UVLF) from recent James Webb Space Telescope (JWST) have challenged the viability of existing theoretical models. To address this, we use a semi-analytical framework -- which couples a physically motivated source model derived from radiative-transfer hydrodynamic simulations of reionization with a Markov Chain Monte Carlo sampler -- to perform a joint calibration to JWST galaxy surveys (UVLF, $φ_{\\rm UV}$ and UV luminosity density, $ρ_{\\rm UV}$) and reionization-era observables (ionizing emissivity, $\\dot{N}_{\\rm ion}$, neutral hydrogen fraction, $x_{\\rm HI}$, and Thomson optical depth, $τ$). We find that models with weak feedback and a higher contribution from faint galaxies reproduce the reionization observables but struggle to match the elevated JWST UVLF at $z > 9$. In contrast, models with stronger feedback (i.e., rapid redshift evolution) and a higher contribution from bright galaxies successfully reproduce JWST UVLF at $z \\geq 10$, but over-estimate the bright end at $z < 9$. The strong-feedback model constrained by JWST UVLF predicts a more gradual and extended reionization history, as opposed to the sudden reionization seen in the weak-feedback models. This extended nature of reionization ($z\\sim 16$ - $6$) yields an optical depth consistent (at 2-$σ$) with the Cosmic Microwave Background (CMB) constraint, thereby alleviating the photon-budget crisis. In both scenarios, reionization is complete by $z \\sim 6$, consistent with current data. Our analysis highlights the importance of accurately modeling feedback and ionizing emissivities from different source populations during the first billion years after the Big Bang.",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.GA"
+      ],
+      "published": "2025-11-24T19:00:01+00:00",
+      "updated": "2026-04-17T18:00:05+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.19600v2",
+      "html_url": "https://arxiv.org/html/2511.19600v2",
+      "entry_url": "http://arxiv.org/abs/2511.19600v2"
+    },
+    {
+      "arxiv_id": "2511.19079v2",
+      "base_id": "2511.19079",
+      "title": "Analytical studies on 3D hairy rotating black hole interiors",
+      "authors": [
+        "Ling-Long Gao",
+        "Yan Liu",
+        "Rui-Long Zhao"
+      ],
+      "abstract": "We present an analytical study of the interior structure of hairy rotating black holes in three-dimensional Einstein gravity, minimally coupled to a complex scalar field with a super-exponential potential. The interior dynamics of these black holes are characterized by an infinite sequence of Kasner epochs, separated by inversion and transitions, each of which admits an analytical description. We derive an explicit analytical expression for this infinite sequence of epochs. At late interior times, the geometry evolves into a curvature singularity, despite the local resemblance of each Kasner epoch to a regular Milne universe on a circle. These results reveal an interior structure richer and more complex than that of its 4D static black hole counterparts.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2025-11-24T13:18:24+00:00",
+      "updated": "2026-04-15T12:02:38+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.19079v2",
+      "html_url": "https://arxiv.org/html/2511.19079v2",
+      "entry_url": "http://arxiv.org/abs/2511.19079v2"
+    }
+  ],
+  "total": 2
+}

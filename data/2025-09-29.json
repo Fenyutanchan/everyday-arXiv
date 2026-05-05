@@ -1,0 +1,90 @@
+{
+  "date": "2025-09-29",
+  "papers": [
+    {
+      "arxiv_id": "2509.25013v2",
+      "base_id": "2509.25013",
+      "title": "Gravitational waves from axion inflation in the gradient expansion formalism. Part II. Fermionic axion inflation",
+      "authors": [
+        "Richard von Eckardstein",
+        "Kai Schmitz",
+        "Oleksandr Sobol"
+      ],
+      "abstract": "Axion inflation represents an intriguing source of gravitational waves (GWs) from the early Universe. In a companion paper, arXiv:2508.00798, we previously leveraged the gradient expansion formalism (GEF) to investigate pure axion inflation (PAI), i.e., axion inflaton coupled to a pure gauge sector. In this paper, we extend our analysis to fermionic axion inflation (FAI), i.e., we allow for the presence of fermions in the gauge sector. PAI predicts a strongly blue-tilted GW spectrum; in our GEF benchmark study, all parameter regions leading to observable GWs turned out to violate the upper limit on the number of extra relativistic degrees of freedom, $ΔN_{\\rm eff}$. As we demonstrate in this paper, the situation is different for FAI: Schwinger pair creation of the charged fermions results in a damping of gauge-field production, which attenuates the GW signal. As a result, the GW signal from FAI can fall into the sensitivity reach of LISA and ET without violating the upper limit on $ΔN_{\\rm eff}$. This result notably applies to the arguably most realistic variant of Abelian axion inflation, in which the axion couples to the hypercharge sector of the Standard Model. Besides, we discuss GW emission from the fermion gas, which may further enhance the total GW signal but which also requires a more quantitative investigation in future work. Additionally, we identify a new backreaction regime in which fermion production moderates the axion--vector dynamics. In this regime, the axion velocity and all energy-density components exhibit oscillations analogous to the strong backreaction in PAI, but here, the oscillations occur around the slow-roll trajectory and are damped by the presence of charged fermions. These observations define again an interesting GEF benchmark for future lattice studies.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "published": "2025-09-29T16:38:44+00:00",
+      "updated": "2026-04-15T14:14:35+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.25013v2",
+      "html_url": "https://arxiv.org/html/2509.25013v2",
+      "entry_url": "http://arxiv.org/abs/2509.25013v2"
+    },
+    {
+      "arxiv_id": "2509.25325v3",
+      "base_id": "2509.25325",
+      "title": "Direct Collapse Black Hole Candidates from Decaying Dark Matter",
+      "authors": [
+        "Yash Aggarwal",
+        "James B. Dent",
+        "Philip Tanedo",
+        "Tao Xu"
+      ],
+      "abstract": "Injecting 1-13.6 eV photons into the early universe can suppress the molecular hydrogen abundance and alter the star formation history dramatically enough to produce direct collapse black holes. These, in turn, could explain the recently observed population of puzzling high-redshift supermassive black holes that appear to require super-Eddington accretion. We show that axion dark matter decay in the intergalactic medium can account for this energy injection. We use a single zone model of the gas core and semi-analytically evolve its chemo-thermal properties to track the conditions for which the system becomes an atomic cooling halo-a necessary precursor for the production of heavy black hole seeds to explain the high-redshift black hole population. Windows of axions masses between 24.5-26.5 eV with photon couplings as low as $4\\times 10^{-12}$/GeV may realize this atomic cooling halo condition. We highlight the significance of the band structure of molecular hydrogen on the effectiveness of this process and discuss estimates of the heavy seed population and prospects for testing this model.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "published": "2025-09-29T18:00:03+00:00",
+      "updated": "2026-04-14T18:06:24+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.25325v3",
+      "html_url": "https://arxiv.org/html/2509.25325v3",
+      "entry_url": "http://arxiv.org/abs/2509.25325v3"
+    },
+    {
+      "arxiv_id": "2509.24622v2",
+      "base_id": "2509.24622",
+      "title": "Prospect on constraining environment-dependent dilaton model from gravitational redshift measurements",
+      "authors": [
+        "Li Hu",
+        "Rong-Gen Cai",
+        "Song He",
+        "Li-Fang Li",
+        "Tong Liu",
+        "Peng Xu",
+        "Shao-Jiang Wang"
+      ],
+      "abstract": "Scalar-tensor gravity represents a natural extension of general relativity. This paper investigates a conformal scalar-tensor gravity, the environmentally dependent dilaton model, and identifies regions of its parameter space potentially constrained by future experiments using atomic clocks to measure gravitational redshift. We propose an experimental scheme in which atomic clocks are placed in environments of different mass densities, such as ultrahigh vacuum, water, or osmium, and their frequency shifts are compared to probe the scalar field contribution to gravitational redshift. By further modeling the mass distribution in low-density environments with a discrete representation, we go beyond the standard continuous approximation. Despite limitations inherent to specific experimental configurations, our analysis reveals that a significant portion of the parameter space remains accessible. Importantly, the accessible regions are complementary to those constrained by existing tests, as they are primarily sensitive to relatively weak couplings. Consequently, high-precision gravitational redshift experiments hold the potential to exclude significant regions of this parameter space in the future.",
+      "categories": [
+        "gr-qc",
+        "hep-ph"
+      ],
+      "published": "2025-09-29T11:29:57+00:00",
+      "updated": "2026-04-14T16:09:04+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.24622v2",
+      "html_url": "https://arxiv.org/html/2509.24622v2",
+      "entry_url": "http://arxiv.org/abs/2509.24622v2"
+    },
+    {
+      "arxiv_id": "2509.24339v2",
+      "base_id": "2509.24339",
+      "title": "de Sitter Corrections to Gravitational Wave Memory",
+      "authors": [
+        "Anthi Voulgari Revof",
+        "Shubhanshu Tiwari"
+      ],
+      "abstract": "In this work, we compute the gravitational wave displacement and spin memory effects in de Sitter spacetime. Gravitational waves in asymptotically flat spacetimes are described by the Bondi-Sachs framework, where radiation at null infinity is tied to the BMS group, and memory appears as permanent changes in the geometry. This formalism becomes more complicated when asymptotic flatness is not guaranteed. With a positive cosmological constant, future infinity is spacelike rather than null, and the decay of the fields differs qualitatively from the flat case. We calculate the leading order corrections due to de Sitter spacetime. At leading order, this yields flux-balance relations for displacement and spin memory directly in terms of the cosmological constant and Bondi-Sachs data. We find that the cosmological constant corrections for the leading term are of the order Λ for both displacement and spin memory. These corrections are, as expected, too small to be detected by any current or future gravitational wave observatories.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-09-29T06:39:10+00:00",
+      "updated": "2026-04-27T09:59:45+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.24339v2",
+      "html_url": "https://arxiv.org/html/2509.24339v2",
+      "entry_url": "http://arxiv.org/abs/2509.24339v2"
+    }
+  ],
+  "total": 4
+}

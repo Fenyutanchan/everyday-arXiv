@@ -1,0 +1,45 @@
+{
+  "date": "2025-08-27",
+  "papers": [
+    {
+      "arxiv_id": "2508.19770v3",
+      "base_id": "2508.19770",
+      "title": "Gravitational particle production, the cosmological tensions and fast radio bursts",
+      "authors": [
+        "Recai Erdem"
+      ],
+      "abstract": "In [26] it had been found that gravitational particle production (to be more specific, gravitational vacuum polarization) results in an effective increase in the directly measured value of the Hubble constant $H_0$ while it does not affect the value of the Hubble constant derived from energy densities $\\bar{H}_0$. It had also been pointed out that this may explain why the Hubble constant $H_0$ determined from direct measurements (such as in SN Ia measurements) and the Hubble constant determined from indirect measurements (such as in CMB calculations in the framework of $Λ$CDM) are different. In the present study, first I correct a misidentification in \\cite{Erdem-Universe}, namely, $\\hat{H}_0=\\left(\\frac{\\bar{H}_0}{H_0}\\right)\\bar{H}_0$ (rather than $\\bar{H}_0$) is the value of the Hubble constant measured in CMB and BAO measurements. Then I extend the analysis to the $σ_8$ tension, and to determination of the Hubble constant through observations of fast radio bursts. It is observed that inclusion of the effect of gravitational vacuum polarization essentially does not neither mitigate nor exacerbate the $σ_8$ tension (while it mitigates or relieves the Hubble tension). This result is significant in the light of the studies in literature that question existence of a true $σ_8$ tension. Moreover, the present framework predicts that the value of the Hubble constant measured in fast radio bursts is $\\hat{H}_0$ as in CMB and BAO measurements. This may be checked with observations in future after more precise and conclusive measurements of $\\hat{H}_0$, $\\bar{H}_0$, $H_0$.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-08-27T10:53:41+00:00",
+      "updated": "2026-04-26T17:29:46+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.19770v3",
+      "html_url": "https://arxiv.org/html/2508.19770v3",
+      "entry_url": "http://arxiv.org/abs/2508.19770v3"
+    },
+    {
+      "arxiv_id": "2508.20164v7",
+      "base_id": "2508.20164",
+      "title": "Fractionalized Fermi liquids and the cuprate phase diagram",
+      "authors": [
+        "Pietro M. Bonetti",
+        "Maine Christos",
+        "Alexander Nikolaenko",
+        "Aavishkar A. Patel",
+        "Subir Sachdev"
+      ],
+      "abstract": "We review a theoretical framework for the cuprate superconductors, rooted in a fractionalized Fermi liquid (FL*) description of the intermediate-temperature pseudogap phase at low doping. The FL* theory predicted hole pockets each of fractional area $p/8$ at hole doping $p$, in contrast to the area $p/4$ in spin density wave theory. Magnetotransport measurements, including observation of the Yamaji angle, show clear evidence of hole pocket quasiparticles which can tunnel coherently between square lattice layers, and are consistent with the FL* description.   The FL* phase of a single-band model is described using a layer construction with a pair of ancilla qubits on each site: the Ancilla Layer Model (ALM). Fluctuations are described by the SU(2) gauge theory of a background spin liquid with critical Dirac spinons. A Monte Carlo study of the thermal SU(2) gauge theory transforms the hole pockets into Fermi arcs in photoemission. One route to confinement of FL* upon lowering temperature yields a $d$-wave superconductor via a Kosterlitz-Thouless transition of $h/(2e)$ vortices, with nodal Bogoliubov quasiparticles featuring anisotropic velocities and vortices surrounded by charge order halos.   Increasing doping from the FL* phase in the ALM drives a transition to a conventional Fermi liquid (FL) at large doping, passing through an intermediate strange metal regime. We formulate a theory of the FL*-FL metal-metal transition without a symmetry-breaking order parameter, using a critical quantum `charge' liquid of mobile electrons in the presence of disorder, developed via an extension of the Sachdev-Ye-Kitaev model to two spatial dimensions.   At low temperatures, and across optimal and over doping, we address the regimes of extended non-Fermi liquid behavior by Griffiths effects near quantum phase transitions in disordered metals.",
+      "categories": [
+        "cond-mat.str-el",
+        "hep-th"
+      ],
+      "published": "2025-08-27T18:00:01+00:00",
+      "updated": "2026-04-29T18:37:36+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.20164v7",
+      "html_url": "https://arxiv.org/html/2508.20164v7",
+      "entry_url": "http://arxiv.org/abs/2508.20164v7"
+    }
+  ],
+  "total": 2
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2026-03-06",
+  "papers": [
+    {
+      "arxiv_id": "2603.06339v2",
+      "base_id": "2603.06339",
+      "title": "Enhancing Gravitational Lens Study with Deep Learning: A Study on Effects of Dropout Regularization",
+      "authors": [
+        "Juan J. Ancona-Flores",
+        "A. Hernández-Almada",
+        "V. Motta"
+      ],
+      "abstract": "Strong gravitational lensing provides valuable insights into the mass distribution of galaxies and the nature of dark matter. However, its modeling is computationally demanding due to the large volume of strong lensing observations. In this work, we explore the application of Convolutional Neural Networks to infer physical parameters from simulated galaxy-galaxy lens systems, described by the Singular Isothermal Ellipsoid (SIE) profile for the galaxy lens. We construct a dataset of 76,396 synthetic lensing images derived from the China Space Station Telescope catalog and employ it to train a modified CNN model, based on AlexNet architecture, to predict four key SIE parameters, Einstein radius, axis ratio and ellipticity components. We analyze the network performance under three distinct dropout configurations to quantify their influence on generalization and parameter inference accuracy. The results indicate that the incorporation of dropout is critical for enhancing the precision and robustness of the estimated parameters, as demonstrated using a 4-fold cross-validation procedure. When dropout tools are included we obtain yields coefficients of determination up to $R^2 \\sim 0.96$ for most SIE parameters and mean Peak Signal-to-Noise Ratios of up to $\\sim 37$ dB. Relative to the configuration without dropout, the use of dropout reduces the relative errors in the inferred SIE parameters by approximately $60-76\\%$, resulting in errors of at most $\\sim 9\\%$ at the $90\\%$ confidence level for the majority of parameters. These findings highlight the potential of deep learning approaches to enable scalable, computationally efficient, and high-precision modeling of strong gravitational lensing systems.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2026-03-06T14:46:28+00:00",
+      "updated": "2026-04-27T20:15:54+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.06339v2",
+      "html_url": "https://arxiv.org/html/2603.06339v2",
+      "entry_url": "http://arxiv.org/abs/2603.06339v2"
+    }
+  ],
+  "total": 1
+}

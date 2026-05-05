@@ -1,0 +1,27 @@
+{
+  "date": "2025-04-28",
+  "papers": [
+    {
+      "arxiv_id": "2504.20008v3",
+      "base_id": "2504.20008",
+      "title": "The shape of differential radial flow $v_0(p_T)$, not its zero-crossing, carries physical information",
+      "authors": [
+        "Somadutta Bhatta",
+        "Aman Dimri",
+        "Jiangyong Jia"
+      ],
+      "abstract": "Radial flow, a key collective phenomenon in heavy-ion collisions, manifests itself through event-by-event fluctuations of transverse-momentum ($p_{\\mathrm{T}}$) spectra. The $p_{\\mathrm{T}}$-differential radial flow observable, $v_0(p_{\\mathrm{T}})$, was introduced to quantify local spectral-shape fluctuations, but it is unavoidably influenced by global multiplicity fluctuations. Using the HIJING model, we show that different event-activity definitions for centrality classification and different spectral normalization schemes generate a constant vertical offset in $v_0(p_{\\mathrm{T}})$ without altering its shape. This offset reflects the impact of residual volume/centrality fluctuations rather than genuine dynamical radial flow fluctuations. Accordingly, only the shape of $v_0(p_{\\mathrm{T}})$, or equivalently its derivative $dv_0(p_{\\mathrm{T}})/dp_{\\mathrm{T}}$, carries physical information about radial-flow dynamics; its zero crossing does not. Practical implications include the need to vertically align measurements from different experiments before comparison, thereby removing normalization ambiguities when constraining QGP properties.",
+      "categories": [
+        "nucl-th",
+        "hep-ph",
+        "nucl-ex"
+      ],
+      "published": "2025-04-28T17:29:10+00:00",
+      "updated": "2026-04-29T01:57:14+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2504.20008v3",
+      "html_url": "https://arxiv.org/html/2504.20008v3",
+      "entry_url": "http://arxiv.org/abs/2504.20008v3"
+    }
+  ],
+  "total": 1
+}

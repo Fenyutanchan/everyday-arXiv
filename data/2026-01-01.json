@@ -1,0 +1,65 @@
+{
+  "date": "2026-01-01",
+  "papers": [
+    {
+      "arxiv_id": "2601.00169v2",
+      "base_id": "2601.00169",
+      "title": "Isotropic stochastic gravitational wave background reconstruction for Taiji constellation",
+      "authors": [
+        "Yang Jiang",
+        "Qing-Guo Huang"
+      ],
+      "abstract": "The stochastic gravitational wave background is a broadband target from diverse astrophysical and cosmological sources. The background falls within the mHz frequency band could become a potential observable for future space-based interferometers. Taiji, a proposed space mission slated for launch in the 2030s, will enable the study of such a background. However, the unique characteristics of space missions pose distinctive challenges for separating the stochastic background from instrumental noise. To address the data analysis requirements, we develop a preliminary pipeline to search for the SGWB and evaluate its performance with Taiji simulation datasets. At present, we demonstrate that the algorithm can successfully recover the parameters of injected background with a known spectral density after setting aside the complication of galactic binaries foreground. Furthermore, by employing the trans-dimensional Markov Chain Monte Carlo method, we extend the analysis to reconstruct the background with unknown spectral morphology.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "published": "2026-01-01T02:17:51+00:00",
+      "updated": "2026-04-20T12:38:51+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.00169v2",
+      "html_url": "https://arxiv.org/html/2601.00169v2",
+      "entry_url": "http://arxiv.org/abs/2601.00169v2"
+    },
+    {
+      "arxiv_id": "2601.00405v2",
+      "base_id": "2601.00405",
+      "title": "The Maximal Entanglement Limit in Statistical and High Energy Physics",
+      "authors": [
+        "Dmitri E. Kharzeev"
+      ],
+      "abstract": "These lectures advocate the idea that quantum entanglement provides a unifying foundation for both statistical physics and high-energy interactions. I argue that, at sufficiently long times or high energies, most quantum systems approach a Maximal Entanglement Limit (MEL) in which phases of quantum states become unobservable, reduced density matrices acquire a thermal form, and probabilistic descriptions emerge without invoking ergodicity or classical randomness. Within this framework, the emergence of probabilistic parton model, thermalization in the break-up of confining strings and in high-energy collisions, and the universal small $x$ behavior of structure functions arise as direct consequences of entanglement and geometry of high-dimensional Hilbert space.",
+      "categories": [
+        "quant-ph",
+        "hep-ph",
+        "hep-th",
+        "nucl-ex",
+        "nucl-th"
+      ],
+      "published": "2026-01-01T17:37:29+00:00",
+      "updated": "2026-04-18T19:54:45+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.00405v2",
+      "html_url": "https://arxiv.org/html/2601.00405v2",
+      "entry_url": "http://arxiv.org/abs/2601.00405v2"
+    },
+    {
+      "arxiv_id": "2601.00378v2",
+      "base_id": "2601.00378",
+      "title": "High Frequency Spectrum of Primordial Gravitational Waves",
+      "authors": [
+        "Kamil Mudrunka",
+        "Kazunori Nakayama"
+      ],
+      "abstract": "During inflation long wavelength gravitational waves are produced, which form stochastic background in the present universe with very wide range of frequencies. Higher frequency gravitational waves never experience super-Hubble-radius regime, but they are also amplified after inflation due to the inflaton oscillation. Taking account of the inflaton dynamics after inflation, the spectrum of such quantum-mechanically produced gravitational waves may extend to much higher frequencies than previously thought. In this paper we calculate the spectrum of high frequency gravitational waves produced during and after inflation in detail, in particular focusing on the connection between the low and high frequency regime, and show that the detailed spectrum can distinguish inflation models.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "published": "2026-01-01T16:02:19+00:00",
+      "updated": "2026-05-01T11:15:49+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.00378v2",
+      "html_url": "https://arxiv.org/html/2601.00378v2",
+      "entry_url": "http://arxiv.org/abs/2601.00378v2"
+    }
+  ],
+  "total": 3
+}

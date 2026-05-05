@@ -1,0 +1,83 @@
+{
+  "date": "2025-12-16",
+  "papers": [
+    {
+      "arxiv_id": "2512.14295v2",
+      "base_id": "2512.14295",
+      "title": "Conformal moments of the two-loop coefficient functions in DVCS",
+      "authors": [
+        "V. M. Braun",
+        "P. Gotzler",
+        "A. N. Manashov"
+      ],
+      "abstract": "We develop a new technique and calculate conformal (Gegenbauer) moments of the two-loop coefficient functions in Deeply Virtual Compton Scattering (DVCS). These results are necessary for the extraction of the generalized parton distributions from the experimental data to the NNLO accuracy within the Mellin-Barnes approach.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-12-16T11:08:33+00:00",
+      "updated": "2026-04-15T07:28:38+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.14295v2",
+      "html_url": "https://arxiv.org/html/2512.14295v2",
+      "entry_url": "http://arxiv.org/abs/2512.14295v2"
+    },
+    {
+      "arxiv_id": "2512.14921v2",
+      "base_id": "2512.14921",
+      "title": "$\\ell$-Boson stars in anti-de Sitter spacetime",
+      "authors": [
+        "Miguel Megevand"
+      ],
+      "abstract": "In previous work, we introduced the $\\ell$-boson stars, a generalization of standard boson stars, which are parameterized by an angular momentum number $\\ell$, while still preserving the spacetime's spherical symmetry. In this article, we present and study the properties of $\\ell$-boson stars in spacetimes with a negative cosmological constant, such that they are asymptotically anti-de Sitter.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE"
+      ],
+      "published": "2025-12-16T21:19:59+00:00",
+      "updated": "2026-04-22T19:44:09+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.14921v2",
+      "html_url": "https://arxiv.org/html/2512.14921v2",
+      "entry_url": "http://arxiv.org/abs/2512.14921v2"
+    },
+    {
+      "arxiv_id": "2512.14060v2",
+      "base_id": "2512.14060",
+      "title": "First-order general constitutive equations for relativistic fluids using the projection method in the Chapman-Enskog expansion of the Boltzmann equation",
+      "authors": [
+        "A. L. García-Perciante",
+        "A. R. Méndez",
+        "O. Sarbach"
+      ],
+      "abstract": "The first-order out of equilibrium correction to the distribution function, obtained by implementing the projection method for the perturbed relativistic Boltzmann equation using the Chapman-Enskog method, is generalized in order to explicitly include the freedom of choice for frame and representation. It is shown how this procedure leads to general constitutive equations that couple the dissipative fluxes to all derivatives of the state variables (forces), including a weak external electromagnetic field. Special cases of the resulting force-flux relations have been shown to lead to physically sound theories for relativistic fluids.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-12-16T03:53:21+00:00",
+      "updated": "2026-04-28T22:21:02+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.14060v2",
+      "html_url": "https://arxiv.org/html/2512.14060v2",
+      "entry_url": "http://arxiv.org/abs/2512.14060v2"
+    },
+    {
+      "arxiv_id": "2512.14649v2",
+      "base_id": "2512.14649",
+      "title": "Stochastic Inflation in Numerical Relativity",
+      "authors": [
+        "Yoann L. Launay",
+        "Gerasimos I. Rigopoulos",
+        "E. Paul S. Shellard"
+      ],
+      "abstract": "A set of 3+1 equations for stochastic inflation incorporating all metric and scalar matter degrees of freedom, first presented in previous work, are re-derived in a gauge invariant manner. We then present numerical implementations of these stochastic equations, cast in the BSSN formulation of Numerical Relativity, demonstrating their efficacy in both a slow-roll and an ultra slow-roll scenario. We find the evolution is correctly reproduced for all the dynamical variables, and the energy and momentum constraints are well-satisfied. This demonstrates that the stochastic equations are theoretically and numerically robust and ready to be applied to a wider inflationary landscape. Our simulations result in real space realizations of the fully non-linear stochastic dynamics with \\new{gradients and anisotropic expansion retained. This work generalizes standard stochastic inflation, inflationary numerical relativity and lattice cosmology, opening up the possibility for reliable predictions of non-perturbative phenomena and providing} precise initial conditions for subsequent cosmological eras.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-th"
+      ],
+      "published": "2025-12-16T18:11:34+00:00",
+      "updated": "2026-05-01T11:59:33+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.14649v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2512.14649v2"
+    }
+  ],
+  "total": 4
+}

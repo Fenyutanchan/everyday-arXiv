@@ -1,0 +1,50 @@
+{
+  "date": "2025-10-31",
+  "papers": [
+    {
+      "arxiv_id": "2511.00152v2",
+      "base_id": "2511.00152",
+      "title": "Every Wrinkle Carries A Memory: An Integro-differential Bootstrap for Features in Cosmological Correlators",
+      "authors": [
+        "Sadra Jazayeri",
+        "Xi Tong",
+        "Yuhang Zhu"
+      ],
+      "abstract": "Motivated by cosmological observations, we push the cosmological bootstrap program beyond the de Sitter invariance lamppost by considering correlators that explicitly break scale invariance, thereby exhibiting primordial features. For exchange processes involving heavy fields with time-dependent masses and sound speeds, we demonstrate that locality in the bulk implies a set of integro-differential equations for correlators on the boundary. These scale-breaking boundary equations come with a built-in memory kernel in momentum-kinematic space encapsulating the universe's evolution during inflation. Specialising to heavy fields with sinusoidal masses such as those found in axion monodromy scenarios, we show that a powerful synthesis of microcausality and analyticity allows an analytical solution of these equations at leading order in the amplitude of mass oscillations. Meanwhile, we also unveil non-perturbative information in the integro-differential equations by resumming apparent infrared divergences as parametric resonances. In addition, we provide a first-of-its-kind example of numerical bootstrap that directly maps out the solution space of such boundary equations. Finally, we compute the bispectrum and uncover, in the squeezed limit, a scale-breaking cosmological collider signal, whose amplitude can be exponentially enhanced (with respect to the Boltzmann suppression) due to particle production triggered by high-frequency mass oscillations.",
+      "categories": [
+        "hep-th",
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "published": "2025-10-31T18:00:12+00:00",
+      "updated": "2026-04-15T16:05:48+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.00152v2",
+      "html_url": "https://arxiv.org/html/2511.00152v2",
+      "entry_url": "http://arxiv.org/abs/2511.00152v2"
+    },
+    {
+      "arxiv_id": "2510.27424v3",
+      "base_id": "2510.27424",
+      "title": "Extracting Properties of Dark Dense Environments around Black Holes from Gravitational Waves",
+      "authors": [
+        "Qianhang Ding",
+        "Minxi He",
+        "Hui-Yu Zhu"
+      ],
+      "abstract": "Dark matter (DM) can form dense condensates around black holes (BHs), such as superradiant clouds and ultracompact mini halos, which can significantly affect the orbital evolution of their companion objects through dynamical friction (DF). In this work, we define a novel quantity to quantify such effects in the emitted gravitational waves (GWs) in terms of GW amplitude, frequency, and their time derivatives. The information about the density profile can be extracted from this quantity, which characterizes the type of condensate and, therefore, the corresponding DM property. This quantity allows us to probe the dark dense environment by multi-wavelength GW observation with existing ground-based and future space-based GW detectors, potentially revealing the properties of the dark sector and shedding light on the primordial origin of the stellar mass BHs. A null detection can place strong constraints on the relevant DM parameters.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "astro-ph.HE",
+        "hep-ph"
+      ],
+      "published": "2025-10-31T12:24:32+00:00",
+      "updated": "2026-04-21T09:48:29+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.27424v3",
+      "html_url": "https://arxiv.org/html/2510.27424v3",
+      "entry_url": "http://arxiv.org/abs/2510.27424v3"
+    }
+  ],
+  "total": 2
+}

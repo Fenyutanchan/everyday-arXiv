@@ -1,0 +1,27 @@
+{
+  "date": "2025-06-18",
+  "papers": [
+    {
+      "arxiv_id": "2506.15816v2",
+      "base_id": "2506.15816",
+      "title": "Generalized Spectral Statistics in the Kicked Ising model",
+      "authors": [
+        "Divij Gupta",
+        "Brian Swingle"
+      ],
+      "abstract": "The kicked Ising model has been studied extensively as a model of quantum chaos. Bertini, Kos, and Prosen studied the system in the thermodynamic limit, finding an analytic expression for the spectral form factor, $K(t)$, at the self-dual point with periodic boundary conditions. The spectral form factor is the 2nd moment of the trace of the time evolution operator, and we study the higher moments of this random variable in the kicked Ising model. A previous study of these higher moments by Flack, Bertini, and Prosen showed that, surprisingly, the trace behaves like a real Gaussian random variable when the system has periodic boundary conditions at the self dual point. By contrast, we investigate the model with open boundary conditions at the self dual point and find that the trace of the time evolution operator behaves as a complex Gaussian random variable as expected from random matrix universality based on the circular orthogonal ensemble. This result highlights a surprisingly strong effect of boundary conditions on the statistics of the trace. We also study a generalization of the spectral form factor known as the Loschmidt spectral form factor and present results for different boundary conditions.",
+      "categories": [
+        "cond-mat.stat-mech",
+        "hep-th",
+        "nlin.CD",
+        "quant-ph"
+      ],
+      "published": "2025-06-18T19:01:13+00:00",
+      "updated": "2026-04-24T18:06:53+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.15816v2",
+      "html_url": "https://arxiv.org/html/2506.15816v2",
+      "entry_url": "http://arxiv.org/abs/2506.15816v2"
+    }
+  ],
+  "total": 1
+}

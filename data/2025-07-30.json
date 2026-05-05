@@ -1,0 +1,47 @@
+{
+  "date": "2025-07-30",
+  "papers": [
+    {
+      "arxiv_id": "2507.23072v2",
+      "base_id": "2507.23072",
+      "title": "Nil-Equivariant Tropological Sigma Models on Filtered Geometries",
+      "authors": [
+        "Emil Albrychiewicz",
+        "Andrés Franco Valiente",
+        "Christopher Stites"
+      ],
+      "abstract": "We investigate the behavior of tropological (tropical topological) sigma models on higher dimensional target spaces and show that higher dimensional spaces explicitly admit nested Maslov dequantizations which lead to nontrivial anisotropic filtration structures. We provide a classification of all inequivalent tropological sigma models that can be constructed for the case of 4D targets and show that, generically, the corresponding sigma-models are not defined on foliated geometries like in the 2D case but instead are defined on filtered manifolds. We find that the nontrivial filtration structures lead to enhanced global symmetries characterized by noncompact nilpotent Lie algebras given by the 4 dimensional step 3 Engel algebra on the space of fields. We provide a Nilmanifold lattice regularization of the noncompact symmetry group and use this Nilmanifold symmetry to construct a natural equivariant extension of the tropological sigma model. We conjecture that these equivariant tropological sigma models are associated with a new version of GW invariants on filtered manifolds known as \\textit{filtered Gromov Witten invariants",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2025-07-30T20:08:28+00:00",
+      "updated": "2026-04-25T17:01:44+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2507.23072v2",
+      "html_url": "https://arxiv.org/html/2507.23072v2",
+      "entry_url": "http://arxiv.org/abs/2507.23072v2"
+    },
+    {
+      "arxiv_id": "2507.22862v2",
+      "base_id": "2507.22862",
+      "title": "Parameter Estimation with Targeted Eccentric Numerical-Relativity Simulations for GW200208_22 and GW190620",
+      "authors": [
+        "Patricia McMillin",
+        "Katelyn J. Wagner",
+        "Giuseppe Ficarra",
+        "Carlos O. Lousto",
+        "Richard O'Shaughnessy"
+      ],
+      "abstract": "We have analyzed LVK gravitational wave events that show some evidence of eccentricity from TEOBResumS modeling parameter estimations and have confronted them independently with full numerical generated waveforms from our bank of nearly two thousand simulations of binary black holes. We have used RIFT for Bayesian parameter estimation and found that GW200208_22 KDE estimates favor eccentricities $e_{20} = 0.198_{-0.180}^{+0.119}$ upon entering the LVK band at $\\sim20$Hz within a $90\\%$ confidence interval. Within this event analysis we employed 42 new targeted full numerical relativity simulations and we have thus found a top improved likelihood $\\ln\\mathcal{L}$ matching waveform, compared to model-based analysis, with an estimated eccentricity at 20Hz, $e_{20}=0.200$, thus reinforcing the eccentric hypothesis of the binary. We have also used our full bank of numerical waveforms on GW190620 finding that the KDE estimate favors eccentricities at 10 Hz in $e_{10}=0.190_{-0.186}^{+0.046}$. New specifically targeted simulations will be required to narrow these eccentricity ranges.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE"
+      ],
+      "published": "2025-07-30T17:38:27+00:00",
+      "updated": "2026-05-01T13:55:06+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2507.22862v2",
+      "html_url": "https://arxiv.org/html/2507.22862v2",
+      "entry_url": "http://arxiv.org/abs/2507.22862v2"
+    }
+  ],
+  "total": 2
+}

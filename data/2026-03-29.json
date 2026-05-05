@@ -1,0 +1,26 @@
+{
+  "date": "2026-03-29",
+  "papers": [
+    {
+      "arxiv_id": "2603.27824v2",
+      "base_id": "2603.27824",
+      "title": "Emergent strings, holography, and cosmology from four-fermion interactions: a bottom-up derivation of AdS/CFT, dS/CFT, and $w_{1+\\infty}$",
+      "authors": [
+        "Laith H. Haddad"
+      ],
+      "abstract": "We derive holographic duality from first principles starting from the $(1+1)$-dimensional Gross-Neveu (GN) model with $N$ fermion species and a local quartic interaction, without assuming any string or geometric input. Using a Bargmann-Wigner scheme, the competition between chiral condensation $Δ_0=\\langle\\barψψ\\rangle$ and spin-1 pairing $Δ_1=\\langle\\barΦ_1Φ_1\\rangle$ defines an emergent radial coordinate $z=m^{-1}(Δ_1/Δ_0^2-1)^{1/2}$; local fluctuations of this ratio, tracked by a comoving derivative, generate the AdS$_3$ line element via the enhanced large-$N$ species dispersion; the condensate competition \\emph{is} the extra dimension. From this single mechanism the complete AdS$_3$/CFT$_2$ correspondence emerges: Newton's constant, the Virasoro algebra ($c=2N^2$), D1-branes with open strings, open/closed T-duality, the Hagedorn/BKT transition, and the BTZ black hole whose horizon circumference is quantised in Planck units by individual vortex nucleation events. Analytic continuation $z\\to iζ$ across the chiral critical point realises the Strominger dS/CFT conjecture microscopically. Six constraints identify the emergent string as Type IIB on AdS$_3\\times S^3\\times\\mathcal{M}_4$, with emergent worldsheet $\\mathcal{N}=(1,1)$ supersymmetry, NS/R spectral flow, and GSO projection. Extension to the $(2+1)$d NJL model yields AdS$_4$/CFT$_3$, a dS$_4$/CFT$_3$ realisation, and a structural identification of the $w_{1+\\infty}$ celestial algebra. Extension to the $(3+1)$d NJL model yields AdS$_5$/CFT$_4$ and holographic QCD with chiral symmetry breaking and linear Regge trajectories $M_s^2=4(s+1)Λ_\\mathrm{QCD}^2$, capturing the correct QCD infrared physics from a four-fermion interaction.",
+      "categories": [
+        "hep-th",
+        "cond-mat.other",
+        "gr-qc",
+        "math-ph"
+      ],
+      "published": "2026-03-29T19:30:47+00:00",
+      "updated": "2026-04-18T03:14:05+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.27824v2",
+      "html_url": "https://arxiv.org/html/2603.27824v2",
+      "entry_url": "http://arxiv.org/abs/2603.27824v2"
+    }
+  ],
+  "total": 1
+}

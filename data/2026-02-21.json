@@ -1,0 +1,41 @@
+{
+  "date": "2026-02-21",
+  "papers": [
+    {
+      "arxiv_id": "2602.18924v2",
+      "base_id": "2602.18924",
+      "title": "Criticality and Phase Structures of Excited Holographic Superconductors in Nonlinear Electrodynamics",
+      "authors": [
+        "Hoang Van Quyet"
+      ],
+      "abstract": "We investigate the critical properties and phase structure of excited states in a holographic superconductor model within the framework of Varying Central Charge Thermodynamics, where the cosmological constant serves as a fundamental parameter controlling the number of degrees of freedom in the boundary conformal field theory. Employing Born-Infeld nonlinear electrodynamics, we explore how the nonlinear parameter $b$ affects the condensation of the ground state (GS) and the two lowest excited states (ES1, ES2) in the background of a spherically symmetric Schwarzschild-AdS black hole. A state is classified as possessing a \\textbf{hard gap} if its optical conductivity exhibits $\\mathrm{Re}σ(ω) = 0$ for $ω< ω_g$, indicating a hard energy gap in the excitation spectrum and the Meissner effect. In contrast, a \\textbf{gapless superconductor} possesses a non-zero order parameter but lacks a hard gap, with $\\mathrm{Re}σ(ω) \\neq 0$ as $ω\\to 0$. Our central finding reveals that the emergence of gapless phases in the excited states represents a genuine physical phenomenon arising from the competition between Born-Infeld nonlinear screening effects and the spatial curvature of the black hole geometry, not from numerical artifacts. Specifically, when the pressure $P$ exceeds the critical pressure $P_c$, both GS and ES1 are gapped superconductors with hard energy gaps while ES2 is a gapless superconductor. However, when $P \\leq P_c$, only GS remains gapped while both ES1 and ES2 condense into gapless phases. This curvature-controlled switching of superconducting properties provides a novel mechanism for engineering gapless superconductivity in strongly coupled systems through variation of the boundary CFT degrees of freedom, with potential implications for understanding unconventional high-temperature superconductors.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2026-02-21T18:31:25+00:00",
+      "updated": "2026-04-24T23:02:03+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.18924v2",
+      "html_url": "https://arxiv.org/html/2602.18924v2",
+      "entry_url": "http://arxiv.org/abs/2602.18924v2"
+    },
+    {
+      "arxiv_id": "2602.18790v3",
+      "base_id": "2602.18790",
+      "title": "Generalized Carter & Rüdiger Constants of $\\sqrt{\\text{Kerr}}$",
+      "authors": [
+        "Christopher de Firmian",
+        "Justin Vines"
+      ],
+      "abstract": "We consider the motion of a charged spinning test/probe particle -- governed by the Mathisson-Papapetrou-Dixon equations with generic, adiabatic, and conservative spin- and field-induced multipole moments -- in a background $\\sqrt{\\text{Kerr}}$ field on flat spacetime: the electromagnetic field of a charged spinning ring-disk singularity obtained from the $G\\to 0$ limit of the Kerr-Newman solution for a charged spinning black hole. We investigate the existence of two extra hidden constants of motion, analogous to the Carter constant (for geodesic motion in a Kerr spacetime, or for its spinning-probe generalization) and Rüdiger's linear-in-spin constant for a spinning probe in a Kerr background. We find that these two constants exist only when the Wilson coefficients parameterizing the probe's multipole structure take the particular values corresponding to spin-exponentiation of the effective Compton amplitudes through second order in spin.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2026-02-21T10:50:16+00:00",
+      "updated": "2026-04-30T00:50:45+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.18790v3",
+      "html_url": "https://arxiv.org/html/2602.18790v3",
+      "entry_url": "http://arxiv.org/abs/2602.18790v3"
+    }
+  ],
+  "total": 2
+}

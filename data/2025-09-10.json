@@ -1,0 +1,106 @@
+{
+  "date": "2025-09-10",
+  "papers": [
+    {
+      "arxiv_id": "2509.08875v2",
+      "base_id": "2509.08875",
+      "title": "Systematic errors in fast relativistic waveforms for Extreme Mass Ratio Inspirals",
+      "authors": [
+        "Hassan Khalvati",
+        "Philip Lynch",
+        "Ollie Burke",
+        "Lorenzo Speri",
+        "Maarten van de Meent",
+        "Zachary Nasipak"
+      ],
+      "abstract": "Accurate modeling of \\gls{EMRIs} is essential for extracting reliable information from future space-based gravitational wave observatories. Fast waveform generation frameworks adopt an offline/online architecture, where expensive relativistic computations (e.g. self-force and black hole perturbation theory) are performed offline, and waveforms are generated rapidly online via interpolation across a multidimensional parameter space. In this work, we investigate potential sources of error that result in systematic bias in these relativistic waveform models, focusing on radiation-reaction fluxes. Two key sources of systematics are identified: (i) the intrinsic inaccuracy of the flux data, for which we focus on the truncation of the multipolar mode sum, and (ii) interpolation errors from transitioning to the online stage. We quantify the impact of mode-sum truncation and analyze interpolation errors by using various grid structures and interpolation schemes. For circular orbits in Kerr spacetime with spins larger than $a \\geq 0.9$, we find that $\\ell_{\\text{max}} \\geq 30$ is required for the necessary accuracy. We also develop an efficient Chebyshev interpolation scheme, achieving the desired accuracy level with significantly fewer grid points compared to spline-based methods. For circular orbits in Kerr spacetimes, we demonstrate via Bayesian studies that interpolating the flux to a maximum global relative error that is equal to the small mass ratio is sufficient for parameter estimation purposes. For 4-year long quasi-circular EMRI signals with SNRs $= \\mathcal{O}(100)$ and mass-ratios $10^{-4}-10^{-6}$, a global relative error of $10^{-6}$ yields mismatches $<10^{-3}$ and negligible parameter estimation biases.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-09-10T18:00:00+00:00",
+      "updated": "2026-04-20T14:27:01+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.08875v2",
+      "html_url": "https://arxiv.org/html/2509.08875v2",
+      "entry_url": "http://arxiv.org/abs/2509.08875v2"
+    },
+    {
+      "arxiv_id": "2509.08390v2",
+      "base_id": "2509.08390",
+      "title": "Gravitational constant as a conserved charge in black hole thermodynamics",
+      "authors": [
+        "Wontae Kim",
+        "Mungon Nam"
+      ],
+      "abstract": "Recent work has shown that couplings multiplying individual terms in a Lagrangian can be promoted to conserved charges by introducing scalar-gauge pairs. The gravitational constant, however, plays a qualitatively different role: $G^{-1}$ appears as an overall normalization of the Einstein-Hilbert sector rather than as the coefficient of a single term. In this paper, we show that the gravitational constant can nevertheless be realized as a conserved charge in a modified four-dimensional Einstein-Hilbert theory. Using two scalar-gauge pairs and the quasi-local off-shell Abbott-Deser-Tekin formalism, we construct the conserved charges associated with the mass, the cosmological constant, and the gravitational constant. The resulting charge assignment yields the extended thermodynamic first law and the Smarr formula in a fully consistent manner. Our result therefore extends the conserved-charge interpretation of couplings to the universal gravitational coupling itself in a concrete four-dimensional Einstein-gravity setting.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2025-09-10T08:33:14+00:00",
+      "updated": "2026-04-17T03:14:17+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.08390v2",
+      "html_url": "https://arxiv.org/html/2509.08390v2",
+      "entry_url": "http://arxiv.org/abs/2509.08390v2"
+    },
+    {
+      "arxiv_id": "2509.08362v2",
+      "base_id": "2509.08362",
+      "title": "Rényi Law Constraints on Gauß-Bonnet Black Hole Merger",
+      "authors": [
+        "Neeraj Kumar",
+        "Ankur Srivastav",
+        "Phongpichit Channuie"
+      ],
+      "abstract": "In this article, we explore the Rényi law constraints on black hole merger in Gauß-Bonnet (GB) gravity. Specifically, we consider the case of static solutions in five-dimensional (5D) Anti-de-Sitter (AdS) spacetime and study the constraints on merger of two equal mass black holes. We calculate the general Rényi entropy expression and utilize it to study the bounds on the final black hole mass post-merger. We study its variation with the Rényi parameter. We also compare the results with those for black holes in General Relativity (GR). We find that the GB term has a significant impact on the bounds for black hole merger. The bounds for GB gravity become weaker for the zeroth order Rényi entropy and stronger for higher order Rényi entropies in comparison to GR.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-09-10T08:01:53+00:00",
+      "updated": "2026-04-15T15:52:24+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.08362v2",
+      "html_url": "https://arxiv.org/html/2509.08362v2",
+      "entry_url": "http://arxiv.org/abs/2509.08362v2"
+    },
+    {
+      "arxiv_id": "2509.08396v2",
+      "base_id": "2509.08396",
+      "title": "$T \\times μ$ phase diagram from a fractal NJL model",
+      "authors": [
+        "E. Megias",
+        "A. Deppman",
+        "V. S. Timóteo"
+      ],
+      "abstract": "We propose a $μ$-dependent coupling for a fractal effective model (FNJL) to make the results for the phase diagram compatible with the experimental data and lattice QCD calculations. The $μ$-dependence of the coupling, which accounts for gluon effects, is obtained by fitting the lattice QCD results for the pseudo-critical temperature with the fractal model. We then use the new effective coupling in order to compute the dynamical mass, the quark condensate, the thermal susceptibility and, finally, the $T\\timesμ$ phase diagram. We consider both extensive and non-extensive statistics, and with a slight variation in the $μ$-dependent coupling parameters we provide a single result for our model which is able to describe incredibly well the data from STAR, considering the simplicity of the effective model.",
+      "categories": [
+        "hep-ph",
+        "hep-lat",
+        "nucl-th"
+      ],
+      "published": "2025-09-10T08:38:44+00:00",
+      "updated": "2026-04-15T08:15:14+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.08396v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2509.08396v2"
+    },
+    {
+      "arxiv_id": "2509.13335v2",
+      "base_id": "2509.13335",
+      "title": "Regular black holes with gravitational self-energy as dark matter",
+      "authors": [
+        "Kimet Jusufi",
+        "Douglas Singleton"
+      ],
+      "abstract": "We incorporate the effect of non-local gravitational self-energy to obtain a neutral, non-singular spacetime geometry. This is achieved by using a non-local gravitational theory inspired by T-duality, where particle mass is not point-like but smeared over a region. This non-local gravitational self-interaction is derived from the Newtonian gravitational potential and energy density, allowing us to define a coordinate-independent quantity. Thus, we incorporate the non-local gravitational field into the spacetime metric. We demonstrate that the total ADM mass is modified by a finite, regularized gravitational mass term, leading to a regular solution of the Ayon-Beato-Garcia type metric but without electric charge. We show the existence of extremal configurations known as \\emph{particle-black hole} objects of order of the Planck mass, which are thermodynamically stable, have a vanishing Hawking temperature and could be a viable dark matter candidate.",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2025-09-10T17:41:23+00:00",
+      "updated": "2026-05-01T10:33:23+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.13335v2",
+      "html_url": "https://arxiv.org/html/2509.13335v2",
+      "entry_url": "http://arxiv.org/abs/2509.13335v2"
+    }
+  ],
+  "total": 5
+}

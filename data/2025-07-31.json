@@ -1,0 +1,141 @@
+{
+  "date": "2025-07-31",
+  "papers": [
+    {
+      "arxiv_id": "2507.23667v2",
+      "base_id": "2507.23667",
+      "title": "Universal Time Evolution of Holographic and Quantum Complexity",
+      "authors": [
+        "Masamichi Miyaji",
+        "Shan-Ming Ruan",
+        "Shono Shibuya",
+        "Kazuyoshi Yano"
+      ],
+      "abstract": "Holographic complexity, as the bulk dual of quantum complexity, encodes the geometric structure of black hole interiors. Motivated by the complexity=anything proposal, we introduce the spectral representation for generating functions associated with codimension-one and codimension-zero holographic complexity measures. These generating functions exhibit a universal slope-ramp-plateau structure, analogous to the spectral form factor in chaotic quantum systems. In such systems, quantum complexity evolves universally, displaying long-time linear growth followed by saturation at late times. By employing the generating function formalism, we demonstrate that this universal behavior originates from random matrix universality in spectral statistics and from a particular pole structure of the matrix elements of the generating functions in the energy eigenbasis. Using the residue theorem, we prove that the existence of this pole structure is both a necessary and sufficient condition for the linear growth of complexity measures. Furthermore, we show that the late-time saturation plateau arises directly from the spectral level repulsion, a hallmark of quantum chaos.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2025-07-31T15:47:34+00:00",
+      "updated": "2026-04-20T14:35:05+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2507.23667v2",
+      "html_url": "https://arxiv.org/html/2507.23667v2",
+      "entry_url": "http://arxiv.org/abs/2507.23667v2"
+    },
+    {
+      "arxiv_id": "2507.23458v2",
+      "base_id": "2507.23458",
+      "title": "Probing Cosmic Ray Composition and Muon-philic Dark Matter via Muon Tomography",
+      "authors": [
+        "Cheng-en Liu",
+        "Rongfeng Zhang",
+        "Zijian Wang",
+        "Andrew Michael Levin",
+        "Leyun Gao",
+        "Jinning Li",
+        "Minxiao Fan",
+        "Youpeng Wu",
+        "Zibo Qin",
+        "Yong Ban",
+        "Zaihong Yang",
+        "Qite Li",
+        "Chen Zhou",
+        "Qiang Li"
+      ],
+      "abstract": "This work presents a novel cosmic-ray scattering experiment employing a Resistive Plate Chambers (RPC) muon tomography system. By introducing the scattering angle between incident and outgoing cosmic-ray tracks as a key observable, this approach enables simultaneous studies of secondary cosmic-ray composition and searching for new physics. During a 63-day campaign, 1.18 million cosmic ray scattering events were recorded and analyzed. By performing combined template fits to the observed angular distribution, particle abundances are measured -- for example, resolving the electron component at $\\sim 2\\%$ precision. Furthermore, constraints are established on elastic muon dark matter (DM) scattering cross-sections for muon-philic dark matter. At the $95\\%$ confidence level, the limit reaches 1.61 $\\times$ $10^{-17}$ $\\rm{cm}^{2}$ for 1 GeV slow DM, demonstrating sensitivity limit to light muon-coupled slow DM, in scenarios where a strongly interacting dark matter component is captured and thermalized within the Earth, leading to large surface densities.",
+      "categories": [
+        "hep-ex",
+        "astro-ph.HE",
+        "hep-ph",
+        "nucl-ex"
+      ],
+      "published": "2025-07-31T11:34:12+00:00",
+      "updated": "2026-04-15T12:30:17+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2507.23458v2",
+      "html_url": "https://arxiv.org/html/2507.23458v2",
+      "entry_url": "http://arxiv.org/abs/2507.23458v2"
+    },
+    {
+      "arxiv_id": "2507.23781v2",
+      "base_id": "2507.23781",
+      "title": "Graded Unitarity in the SCFT/VOA Correspondence",
+      "authors": [
+        "Arash Arabi Ardehali",
+        "Christopher Beem",
+        "Madalena Lemos",
+        "Leonardo Rastelli"
+      ],
+      "abstract": "Vertex algebras that arise from four-dimensional, $\\mathcal{N}=2$ superconformal field theories inherit a collection of novel structural properties from their four-dimensional ancestors. Crucially, when the parent SCFT is unitary, the corresponding vertex algebra is not unitary in the conventional sense. In this paper, we motivate and define a generalized notion of unitarity for vertex algebras that we call \\emph{graded unitarity}, and which captures the consequences of four-dimensional unitarity under this correspondence. We also take the first steps towards a classification program for graded-unitary vertex algebras whose underlying vertex algebras are Virasoro or affine Kac--Moody vertex algebras. Remarkably, under certain natural assumptions about the $\\mathfrak{R}$-filtration for these vertex algebras, we show that only the $(2,p)$ central charges for Virasoro VOAs and boundary admissible levels for $\\mathfrak{sl}_2$ and $\\mathfrak{sl}_3$ Kac--Moody vertex algebras can possibly be compatible with graded unitarity. These are precisely the cases of these vertex algebras that are known to arise from four dimensions.",
+      "categories": [
+        "hep-th",
+        "math.QA",
+        "math.RT"
+      ],
+      "published": "2025-07-31T17:59:25+00:00",
+      "updated": "2026-04-21T15:03:16+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2507.23781v2",
+      "html_url": "https://arxiv.org/html/2507.23781v2",
+      "entry_url": "http://arxiv.org/abs/2507.23781v2"
+    },
+    {
+      "arxiv_id": "2507.23663v2",
+      "base_id": "2507.23663",
+      "title": "Disentangling spinning and nonspinning binary black hole populations with spin sorting",
+      "authors": [
+        "Lillie Szemraj",
+        "Sylvia Biscoveanu"
+      ],
+      "abstract": "The individual component spins of binary black holes (BBHs) are difficult to resolve using gravitational-wave observations but carry key signatures of the processes shaping their formation and evolution. Recent analyses have found conflicting evidence for a sub-population of black holes with negligible spin, but the Default spin magnitude population model used in LIGO-Virgo-KAGRA analyses cannot formally accommodate an excess of systems with zero spin. In this work, we analyze several different simulated BBH populations to demonstrate that even in the face of this mismodeling, spinning and nonspinning populations can be reliably distinguished using the Default spin magnitude population model coupled with spin sorting. While typical analyses sort the binary components by their masses, sorting the components by their spin magnitudes instead offers a complementary view of the properties of individual systems consistent with equal mass and of population-level properties, given binary evolution processes like tidal-spin up that predict asymmetric spin magnitudes among the binary components. We conclude that current observations of the BBH population are inconsistent with a fully nonspinning population, but could be explained by a population with only one spinning black hole per binary or a population with up to 80% nonspinning sources.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE"
+      ],
+      "published": "2025-07-31T15:40:32+00:00",
+      "updated": "2026-04-22T17:03:18+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2507.23663v2",
+      "html_url": "https://arxiv.org/html/2507.23663v2",
+      "entry_url": "http://arxiv.org/abs/2507.23663v2"
+    },
+    {
+      "arxiv_id": "2507.23354v2",
+      "base_id": "2507.23354",
+      "title": "Consistent $N_{\\rm eff}$ fitting in big bang nucleosynthesis analysis",
+      "authors": [
+        "Sougata Ganguly",
+        "Tae Hyun Jung",
+        "Seokhoon Yun"
+      ],
+      "abstract": "The effective number of neutrino species, $N_{\\rm eff}$, serves as a key fitting parameter extensively employed in cosmological studies. In this work, we point out a fundamental inconsistency in the conventional treatment of $N_{\\rm eff}$ in big bang nucleosynthesis (BBN), particularly regarding its applicability to new physics scenarios where $ΔN_{\\rm eff}$, the deviation of $N_{\\rm eff}$ from the standard BBN prediction, is negative. To ensure consistent interpretation, it is imperative to either restrict the allowed range of $N_{\\rm eff}$ or systematically adjust neutrino-induced reaction rates based on physically motivated assumptions. As a concrete example, we consider a simple scenario in which a negative $ΔN_{\\rm eff}$ arises from entropy injection into the electromagnetic sector due to the decay of long-lived particles after neutrino decoupling. This process dilutes the neutrino density and suppresses the rate of neutrino-driven neutron-proton conversion. Under this assumption, we demonstrate that the resulting BBN constraints on $N_{\\rm eff}$ deviate significantly from those obtained by the conventional, but unphysical, extrapolation of dark radiation scenarios into the $ΔN_{\\rm eff} < 0$ regime.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "published": "2025-07-31T09:04:21+00:00",
+      "updated": "2026-04-24T03:16:14+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2507.23354v2",
+      "html_url": "https://arxiv.org/html/2507.23354v2",
+      "entry_url": "http://arxiv.org/abs/2507.23354v2"
+    },
+    {
+      "arxiv_id": "2508.00203v2",
+      "base_id": "2508.00203",
+      "title": "Quantum-Corrected Thermodynamics of Conformal Weyl Gravity Black Holes: GUP Effects and Phase Transitions",
+      "authors": [
+        "Erdem Sucu",
+        "Suat Dengiz",
+        "İzzet Sakallı"
+      ],
+      "abstract": "We investigate the thermodynamic properties of black holes in Conformal Weyl Gravity (CWG) using the Mannheim-Kazanas solution, with particular emphasis on quantum corrections that become significant near the Planck scale. Our analysis employs the Hamilton-Jacobi tunneling formalism to derive the Hawking temperature, revealing explicit contributions from the conformal parameters $β$, $γ$, and $k$ that lead to substantial deviations from the behavior of a Schwarzschild black hole. We incorporate quantum gravitational effects through the Generalized Uncertainty Principle, demonstrating systematic suppression of thermal radiation in the near-Planckian regime. Using an exponentially corrected entropy model, we compute the complete spectrum of QC thermodynamic potentials, including internal energy, pressure, heat capacity, and free energies. Our heat capacity analysis shows divergence behavior that separates stable and unstable regions, indicating possible thermodynamic transitions controlled by the scale-dependent parameter $γ$. The Joule-Thomson expansion analysis shows distinct cooling and heating regimes with inversion points that shift systematically with CWG parameters, capturing QC phase transitions absent in general relativity. We also examine gravitational redshift in CWG geometry, finding complex radial dependence that highlights modifications compared to the Schwarzschild case, although redshift alone cannot observationally distinguish CWG from Einstein's theory. Our results demonstrate that CWG offers a consistent framework for studying black hole thermodynamics beyond general relativity, with quantum corrections modifying phase structures in the near-Planckian regime, though these effects are not expected to yield direct observational consequences.",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2025-07-31T23:07:32+00:00",
+      "updated": "2026-04-27T08:26:44+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.00203v2",
+      "html_url": "https://arxiv.org/html/2508.00203v2",
+      "entry_url": "http://arxiv.org/abs/2508.00203v2"
+    }
+  ],
+  "total": 6
+}

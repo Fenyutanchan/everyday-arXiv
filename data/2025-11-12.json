@@ -1,0 +1,67 @@
+{
+  "date": "2025-11-12",
+  "papers": [
+    {
+      "arxiv_id": "2511.09311v3",
+      "base_id": "2511.09311",
+      "title": "A Unified Dark-Matter--Driven Relativistic Bondi Route to Black-Hole Growth from Stellar to Supermassive Scales",
+      "authors": [
+        "Chian-Shu Chen",
+        "Feng-Li Lin"
+      ],
+      "abstract": "Observations of luminous quasars at $z\\gtrsim7$ reveal supermassive black holes (SMBHs) with inferred masses $M_{\\rm BH}\\sim10^9 \\, M_\\odot$ formed within the first $\\sim700$~Myr of cosmic history. Standard growth channels \\textrm{ -- } Eddington-limited gas accretion and hierarchical mergers \\textrm{ -- } face severe timescale restrictions. We consider a super-Eddington accretion mechanism aided by the Bondi accretion of a minimal model of self-interacting dark matter (SIDM). We demonstrate that in a {\\it critical regime} with a near-relativistic sound speed, the Bondi accretion yields an accretion rate that depends only on the mass $m$ of SIDM, thus it is universal to the ambient environment. This critical accretion mechanism for $m\\gtrsim 10^{-2}\\; {\\rm eV}$ can grow seeds as small as $10\\,M_\\odot$ primordial black holes (PBH) in the early Universe into $10^9$ \\textrm{--} $10^{10}\\,M_\\odot$ SMBHs by $z\\sim7$ without fine-tuned environments. Therefore, given a mass distribution of PBHs and a value of $m$, the mass function of primary black holes at late time can be fully determined with masses ranging from stellar to SMBHs. This connects the microscopic physics of dark matter to astrophysical observations of black holes.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "astro-ph.GA"
+      ],
+      "published": "2025-11-12T13:22:30+00:00",
+      "updated": "2026-04-20T13:07:14+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.09311v3",
+      "html_url": "https://arxiv.org/html/2511.09311v3",
+      "entry_url": "http://arxiv.org/abs/2511.09311v3"
+    },
+    {
+      "arxiv_id": "2511.09613v2",
+      "base_id": "2511.09613",
+      "title": "Bounds on Discrete Gauge Symmetries in Supergravity",
+      "authors": [
+        "Zihni Kaan Baykara",
+        "Markus Dierigl",
+        "Hee-Cheol Kim",
+        "Cumrun Vafa",
+        "Kai Xu"
+      ],
+      "abstract": "We place bounds on the order of enhanced discrete gauge symmetries that act on massless fields and thus arise at subloci of the moduli space in supergravity theories. We focus on supersymmetric theories with 8 or more supercharges which in some cases lead to sharp upper bounds realized by specific string constructions.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2025-11-12T19:00:00+00:00",
+      "updated": "2026-04-29T15:30:08+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.09613v2",
+      "html_url": "https://arxiv.org/html/2511.09613v2",
+      "entry_url": "http://arxiv.org/abs/2511.09613v2"
+    },
+    {
+      "arxiv_id": "2511.09656v3",
+      "base_id": "2511.09656",
+      "title": "Photon counting readout for detection and inference of gravitational waves from neutron star merger remnants",
+      "authors": [
+        "Ethan Payne",
+        "Lee McCuller",
+        "Katerina Chatziioannou"
+      ],
+      "abstract": "Gravitational waves emitted after neutron star binary coalescences and the information they carry about dense matter are a high-priority target for next-generation detectors. Even though such detectors are expected to observe millions of signals, detectable postmerger emission will remain rare. In this work, we explore postmerger detectability and inference through an alternative detector readout scheme for data dominated by quantum-noise, which is the case above $1$\\,kHz: photon-counting. In such a readout, signals and noise become quantized into discrete distributions corresponding to the detection of single photons measured in a chosen basis of modes. Through simulated data, we demonstrate that photon counting can be efficient even for weak signals. We find ${\\sim}1$ in 100 signals with a postmerger signal-to-noise ratio of 0.2 can result in a single photon and thus be detected. Furthermore, after $2\\times10^4$ signals -- equivalent to $10^{-2}$ to $1.5$ years of observation -- photon counting results in a twofold improvement in the measurement of the radius of a $1.6\\,M_\\odot$ neutron star. Constraints can be further tightened if the detector classical noise is reduced. Photon counting offers a promising alternative to traditional homodyne readout techniques for extracting information from low signal-to-noise ratio postmerger signals.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.IM"
+      ],
+      "published": "2025-11-12T19:02:29+00:00",
+      "updated": "2026-04-30T13:57:50+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.09656v3",
+      "html_url": "https://arxiv.org/html/2511.09656v3",
+      "entry_url": "http://arxiv.org/abs/2511.09656v3"
+    }
+  ],
+  "total": 3
+}

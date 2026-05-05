@@ -1,0 +1,49 @@
+{
+  "date": "2025-11-28",
+  "papers": [
+    {
+      "arxiv_id": "2512.00145v3",
+      "base_id": "2512.00145",
+      "title": "Role of prompt cusps in driving the core collapse of SIDM halos",
+      "authors": [
+        "Vinh Tran",
+        "Daniel Gilman",
+        "M. Sten Delos",
+        "Xuejian Shen",
+        "Oliver Zier",
+        "Mark Vogelsberger",
+        "David Xu"
+      ],
+      "abstract": "Prompt cusps (PCs) form from the direct collapse of overdensities in the early Universe, reside at the center of every dark matter halo, and have density profiles steeper than $r^{-1}$ NFW cusps. Using a suite of high-resolution N-body simulations, we study the evolution of isolated halos in self-interacting dark matter (SIDM) with massive PCs embedded at their centers, a scenario that could be realized in certain SIDM models with light mediators that predict a small-scale suppression of the linear matter power spectrum. We track the evolution of three equally concentrated $10^7\\,{\\rm{M}}_\\odot$ halos, hosting PCs of various total masses, and quantify how the presence of a PC affects the processes of core formation and collapse. Early in the core-formation phase, halos with more prominent PCs exhibit a delayed evolution by a factor of $\\sim 2$ due to smaller velocity dispersion gradients in the inner region. During most of the core-collapse phase, the halo evolution becomes closely aligned in physical time, with appropriate rescaling of densities, radii, and velocity dispersions. The scale densities and radii preserve the virial mass of the original halos, but with increased concentration. Deviations occur at the late phase of core-collapse at the level of $\\sim 5\\%$ relative to the reference collapse track of an NFW halo. These deviations depend non-trivially on both the increased concentration incurred by the PCs, as well as the velocity dispersion (temperature) of the outer halo regions, which can inhibit or enhance the heat transfer process. Our simulations illustrate the complex interplay between the inner and outer halo profiles in determining the onset of core collapse and motivate future studies in the full cosmological context.",
+      "categories": [
+        "astro-ph.GA",
+        "astro-ph.CO"
+      ],
+      "published": "2025-11-28T19:00:00+00:00",
+      "updated": "2026-04-22T15:48:08+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.00145v3",
+      "html_url": "https://arxiv.org/html/2512.00145v3",
+      "entry_url": "http://arxiv.org/abs/2512.00145v3"
+    },
+    {
+      "arxiv_id": "2511.23410v2",
+      "base_id": "2511.23410",
+      "title": "The Art of Counting: a reappraisal of the HEFT expansion",
+      "authors": [
+        "Ilaria Brivio",
+        "Ramona Gröber",
+        "Konstantin Schmid"
+      ],
+      "abstract": "We revisit the power counting of the Higgs Effective Field Theory (HEFT) from first principles, by requiring that predictions for physical observables follow a series expansion in small, dimensionless quantities. Depending on whether HEFT is formulated in terms of a unique low-energy scale $v$ or in terms of two scales $v<f$, this approach identifies two viable power counting rules that can accommodate any operator normalization choice. We provide quantitative prescriptions for the consistent truncation of HEFT operators, amplitudes and observable contributions and we illustrate our arguments with a number of examples.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-11-28T18:04:40+00:00",
+      "updated": "2026-04-29T09:34:34+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.23410v2",
+      "html_url": "https://arxiv.org/html/2511.23410v2",
+      "entry_url": "http://arxiv.org/abs/2511.23410v2"
+    }
+  ],
+  "total": 2
+}

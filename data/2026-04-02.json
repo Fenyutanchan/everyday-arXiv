@@ -1,0 +1,115 @@
+{
+  "date": "2026-04-02",
+  "papers": [
+    {
+      "arxiv_id": "2604.02214v2",
+      "base_id": "2604.02214",
+      "title": "Quadratic gravity corrections to scalar QNMs of rapidly rotating black holes",
+      "authors": [
+        "Stef J. B. Husken",
+        "Tom van der Steen",
+        "Simon Maenaut",
+        "Kelvin Ka-Ho Lam",
+        "Maxim D. Jockwer",
+        "Adrian Ka-Wai Chung",
+        "Thomas Hertog",
+        "Tjonnie G. F. Li",
+        "Nicolás Yunes"
+      ],
+      "abstract": "In an effective-field-theory framework for gravity, black-hole quasinormal mode spectra acquire corrections in quadratic-curvature, scalar-tensor extensions of general relativity. Previous calculations of such corrections were limited to moderate spins, since the corresponding background solutions relied on expansions in the spin parameter. Using recently constructed numerical black-hole solutions valid for large spin, we compute the leading-order deviations from general relativity in the scalar quasinormal mode spectrum of rotating black holes in scalar Gauss-Bonnet and dynamical Chern-Simons gravity. We solve the resulting perturbation equations with pseudo-spectral collocation methods, allowing us to determine the quasinormal-mode corrections for dimensionless spins up to $a/M=0.99$, with accuracy better than $\\lesssim 10^{-3}$ for the $l=m=0$ mode and $\\lesssim 10^{-6}$ for higher multipoles. For spins $a/M>0.9$, the corrections to certain modes can increase by orders of magnitude.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2026-04-02T16:06:26+00:00",
+      "updated": "2026-04-14T16:14:38+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.02214v2",
+      "html_url": "https://arxiv.org/html/2604.02214v2",
+      "entry_url": "http://arxiv.org/abs/2604.02214v2"
+    },
+    {
+      "arxiv_id": "2604.02075v2",
+      "base_id": "2604.02075",
+      "title": "Emergence of volume-law scaling for entanglement negativity from the Hawking radiation of analogue black holes",
+      "authors": [
+        "S. Mahesh Chandran",
+        "Uwe R. Fischer"
+      ],
+      "abstract": "The quantum information content of Hawking radiation holds the key to understanding black-hole evaporation and the fate of unitarity. Motivated by recent advances in cold-atom experiments, we develop a lattice-regularization approach aimed at simulating the coarse-grained entanglement scaling of a quantum field in a 1+1D analogue black-hole background. We provide the first concrete demonstration that logarithmic negativity -- an entanglement monotone that typically exhibits a UV-divergent log-scaling for the conformal vacuum -- acquires a UV-finite volume term from the nonlocal correlations seeded by Hawking radiation. We show that this volume term encodes the number density as well as the spatial distribution of entangled Hawking pairs along the black-hole interior and exterior. We highlight its prospective detection in currently realizable experiments and its implications beyond the analogue paradigm, in particular for black-hole thermodynamics.",
+      "categories": [
+        "gr-qc",
+        "cond-mat.quant-gas",
+        "quant-ph"
+      ],
+      "published": "2026-04-02T14:06:57+00:00",
+      "updated": "2026-04-21T01:10:09+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.02075v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2604.02075v2"
+    },
+    {
+      "arxiv_id": "2604.02219v2",
+      "base_id": "2604.02219",
+      "title": "Many Wrongs Make a Right: Leveraging Biased Simulations Towards Unbiased Parameter Inference",
+      "authors": [
+        "Ezequiel Alvarez",
+        "Sean Benevedes",
+        "Manuel Szewc",
+        "Jesse Thaler"
+      ],
+      "abstract": "In particle physics, as in many areas of science, parameter inference relies on simulations to bridge the gap between theory and experiment. Recent developments in simulation-based inference have boosted the sensitivity of analyses; however, biases induced by simulation-data mismodeling can be difficult to control within standard inference pipelines. In this work, we propose a Template-Adapted Mixture Model to confront this problem in the context of signal fraction estimation: inferring the population proportion of signal in a mixed sample of signal and background, both of which follow arbitrarily complex distributions. We harness many biased simulations to perform data-driven estimates of each process distribution in the signal region, substantially reducing the bias on the signal fraction due to the domain shift between simulation and reality. We explore different methodological choices, including model selection, feature representation, and statistical method, and apply them to a Gaussian toy example and to a semi-realistic di-Higgs measurement. We find that the presented methods successfully leverage the biased simulations to provide estimates with well-calibrated uncertainties.",
+      "categories": [
+        "hep-ph",
+        "hep-ex",
+        "physics.data-an",
+        "stat.ME"
+      ],
+      "published": "2026-04-02T16:11:07+00:00",
+      "updated": "2026-04-21T18:28:56+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.02219v2",
+      "html_url": "https://arxiv.org/html/2604.02219v2",
+      "entry_url": "http://arxiv.org/abs/2604.02219v2"
+    },
+    {
+      "arxiv_id": "2604.02228v2",
+      "base_id": "2604.02228",
+      "title": "Gravitational null rays: Covariant Quantization and the Dressing Time",
+      "authors": [
+        "Laurent Freidel",
+        "Josh Kirklin"
+      ],
+      "abstract": "We quantize the degrees of freedom on a gravitational null ray segment in a fully gauge-invariant manner by using the dressing time as a quantum reference frame (QRF). Our work goes beyond previous models in that the QRF we employ is made out of the gravitational field itself, and accounts for the full group of diffeomorphisms along the ray, not just a locally compact subgroup. The key tool we introduce is covariant normal ordering, a QRF-dependent but background-independent renormalization prescription that restores diffeomorphism covariance at the quantum level. This enables the definition of a quantum dressing map whose image is the algebra of gauge-invariant observables. We find that this algebra carries the structure of a Virasoro crossed product, and that the dressing map induces a deformed product on gauge-fixed operators which can be understood as a quantization of the Dirac bracket, with consequences for the fluctuations of observables. We explain how to cancel anomalies in the physical Hilbert space representation of the gauge-invariant algebra by including a deformation at the classical level, thereby eliminating all spurious degrees of freedom at the quantum level. The physical Hilbert space admits a Page-Wootters reduction map to the perspective of the dressing time, and we show that the dressing time is non-ideal in the sense that its distinct coherent states have non-vanishing overlaps governed by the Teo-Takhtajan energy, i.e. the Kähler potential for Virasoro coadjoint orbits.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2026-04-02T16:22:27+00:00",
+      "updated": "2026-04-27T15:31:30+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.02228v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2604.02228v2"
+    },
+    {
+      "arxiv_id": "2604.02415v2",
+      "base_id": "2604.02415",
+      "title": "Generative models on phase space",
+      "authors": [
+        "Zachary Bogorad",
+        "Ibrahim Elsharkawy",
+        "Yonatan Kahn",
+        "Andrew J. Larkoski",
+        "Noam Levi"
+      ],
+      "abstract": "Deep generative models such as diffusion and flow matching are powerful machine learning tools capable of learning and sampling from high-dimensional distributions. They are particularly useful when the training data appears to be concentrated on a submanifold of the data embedding space. For high-energy physics data, consisting of collections of relativistic energy-momentum 4-vectors, this submanifold can enforce extremely strong physically-motivated priors, such as energy and momentum conservation. If these constraints are learned only approximately, rather than exactly, this can inhibit the interpretability and reliability of such generative models. To remedy this deficiency, we introduce generative models which are, by construction, confined at every step of their sampling trajectory to the manifold of massless N-particle Lorentz-invariant phase space in the center-of-momentum frame. In the case of diffusion models, the \"pure noise\" forward process endpoint corresponds to the uniform distribution on phase space, which provides a clear starting point from which to identify how correlations among the particles emerge during the reverse (de-noising) process. We demonstrate that our models are able to learn both few-particle and many-particle distributions with various singularity structures, paving the way for future interpretability studies using generative models trained on simulated jet data.",
+      "categories": [
+        "hep-ph",
+        "cs.AI"
+      ],
+      "published": "2026-04-02T18:00:01+00:00",
+      "updated": "2026-04-28T18:09:33+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.02415v2",
+      "html_url": "https://arxiv.org/html/2604.02415v2",
+      "entry_url": "http://arxiv.org/abs/2604.02415v2"
+    }
+  ],
+  "total": 5
+}

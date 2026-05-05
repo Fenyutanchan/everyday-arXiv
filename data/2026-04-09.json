@@ -1,0 +1,64 @@
+{
+  "date": "2026-04-09",
+  "papers": [
+    {
+      "arxiv_id": "2604.08449v2",
+      "base_id": "2604.08449",
+      "title": "Coupled Dark Energy and Dark Matter for DESI: An Effective Guide to the Phantom Divide",
+      "authors": [
+        "Stefan Antusch",
+        "Stephen F. King",
+        "Xin Wang"
+      ],
+      "abstract": "Motivated by the recent Dark Energy Spectroscopic Instrument (DESI) DR2 preference for dynamical dark energy, we study interacting dark energy models in which a canonical quintessence field couples to cold dark matter through a field-dependent mass $m(φ)$. In such scenarios, the effective equation of state inferred under the assumption of non-interacting dark sectors, $w_{\\rm eff}(z)$, can differ from the intrinsic scalar-field equation of state $w_φ(z)$, making an apparent phantom crossing $w_{\\rm eff}<-1$ possible without introducing a phantom scalar. We show that a viable realization of this mechanism requires the scalar field to originate from a frozen phase deep in the radiation era, in order for the effective coupling to remain sufficiently suppressed before recombination to evade cosmic microwave background constraints, and for the late-time evolution to become strong enough to reproduce the apparent behavior of $w_{\\rm eff}(z)$ preferred by DESI. We identify the general conditions that allow these requirements to be satisfied simultaneously, and present an illustrative phenomenological realization in which $w_{\\rm eff}(z)$ evolves from $w_{\\rm eff}\\approx -1.2$ at $z \\approx 1.0$ to $w_{\\rm eff}\\approx -0.9$ at $z\\approx 0.4$. These conditions and requirements serve as a guide for designing future models of this kind which can safely navigate the phantom divide at $w=-1$ in an effective way without phantom fields.",
+      "categories": [
+        "astro-ph.CO",
+        "hep-ph"
+      ],
+      "published": "2026-04-09T16:45:31+00:00",
+      "updated": "2026-04-17T13:38:47+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.08449v2",
+      "html_url": "https://arxiv.org/html/2604.08449v2",
+      "entry_url": "http://arxiv.org/abs/2604.08449v2"
+    },
+    {
+      "arxiv_id": "2604.08349v2",
+      "base_id": "2604.08349",
+      "title": "Thermal Time and Irreversibility from Non-Commuting Observables in Accelerated Quantum Systems",
+      "authors": [
+        "Marcello Rotondo"
+      ],
+      "abstract": "We investigate when temporal ordering becomes operationally meaningful in relativistic quantum field theory using localized detector models. A time parameter alone does not ensure that different sequences of operations are physically distinguishable. We show that distinguishability arises when the state satisfies the Kubo--Martin--Schwinger (KMS) condition and the detector couples through non-commuting observables.   We consider uniformly accelerated two-level detectors interacting with a quantum field in the Minkowski vacuum. The restriction of the vacuum to the detector trajectory induces a thermal response characterized by the Unruh temperature and the Tolman profile. For sequential couplings through distinct observables, the reduced detector state depends on the ordering of interactions already at second order, with a dependence controlled by the KMS parameter.   This asymmetry is quantified using quantum relative entropy. In a minimal model, the relevant states form a family of non-commuting Gibbs states with identical spectra and different generators, yielding a closed-form expression depending only on the dimensionless combination of temperature and detector energy scale.",
+      "categories": [
+        "quant-ph",
+        "gr-qc"
+      ],
+      "published": "2026-04-09T15:17:39+00:00",
+      "updated": "2026-04-27T20:19:11+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.08349v2",
+      "html_url": "https://arxiv.org/html/2604.08349v2",
+      "entry_url": "http://arxiv.org/abs/2604.08349v2"
+    },
+    {
+      "arxiv_id": "2604.08662v2",
+      "base_id": "2604.08662",
+      "title": "Nucleation of Sachdev-Ye-Kitaev Clusters in One Spatial Dimension",
+      "authors": [
+        "Hrant Topchyan",
+        "Tigran A. Sedrakyan"
+      ],
+      "abstract": "We study how Sachdev-Ye-Kitaev (SYK) interactions can arise from localized single-particle states on a system that is effectively one dimensional. If a local interaction is projected onto coarse localized orbitals, the resulting couplings do not immediately follow the standard SYK distribution. Instead, they have a finite probability of being exactly zero, a broad non-Gaussian distribution for the nonzero values, and strong correlations coming from the geometry of the localized states. We then show that this changes when each localization volume is resolved into $M>1$ smaller microscopic pieces with random phases. As $M$ increases, the distribution of the nonzero couplings moves toward the complex-Gaussian SYK form. At the same time, the large-$M$ limit is a sparse but asymptotically canonical SYK network: the nonzero couplings create SYK clusters, while the pattern of missing or very weak couplings is still determined by the real-space overlap of the localized orbitals. Finally, we map the interaction tensor to a graph in pair space. This makes it possible to follow the formation, merger, and growth of SYK clusters, which we characterize using connected components and clique/simplex counts. The result is a minimal real-space phenomenological theory of SYK-cluster formation, providing clear experimental criteria.",
+      "categories": [
+        "cond-mat.str-el",
+        "cond-mat.dis-nn",
+        "hep-th"
+      ],
+      "published": "2026-04-09T18:00:04+00:00",
+      "updated": "2026-05-01T10:58:22+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.08662v2",
+      "html_url": "https://arxiv.org/html/2604.08662v2",
+      "entry_url": "http://arxiv.org/abs/2604.08662v2"
+    }
+  ],
+  "total": 3
+}

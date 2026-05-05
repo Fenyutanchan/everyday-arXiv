@@ -1,0 +1,25 @@
+{
+  "date": "2025-07-05",
+  "papers": [
+    {
+      "arxiv_id": "2507.04114v2",
+      "base_id": "2507.04114",
+      "title": "Inflaton perturbations through an Ultra-Slow Roll transition and Hamilton-Jacobi attractors",
+      "authors": [
+        "Tomislav Prokopec",
+        "Gerasimos Rigopoulos"
+      ],
+      "abstract": "We examine the behaviour of the gauge invariant scalar field perturbations in an analytic inflationary model that transitions from slow-roll to an ultra-slow-roll (USR) phase. We find that the numerical solution of the Mukhanov-Sasaki equation is well described by Hamilton-Jacobi (HJ) theory, as long as the appropriate branches of the Hamilton-Jacobi solutions are invoked: Modes that exit the horizon during the slow-roll phase evolve into the USR as described by the first HJ branch, up to a subdominant $\\mathcal{O}(k^2/H^2)$ correction to the Hamilton-Jacobi prediction for their final amplitude that we compute, indicating the influence of neglected gradient terms. Modes that exit during the USR phase are described by a separate HJ branch once they become sufficiently superhorizon, obtained by the shift $\\left(ε_1,ε_2\\right) \\simeq \\left(0,-6+Δ\\right) \\rightarrow \\left(\\tildeε_1,\\tildeε_2\\right)\\simeq (0,-Δ)$ and corresponding to a slow-roll solution (very close to de Sitter) supported by the same potential. This transition is similar to the conveyor belt concept put forward in our previous work [1] and suggests that the limit $ε_2\\rightarrow -6$ is unphysical as an asymptotic value for the background/long wavelength solution. We further discuss implications for the validity of the stochastic equations arising from the Hamilton-Jacobi formulation. Our work suggests that if Hamilton-Jacobi attractors are appropriately used, they can successfully describe the dynamics of long wavelength inflationary inhomogeneities for potentials with USR regions.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO"
+      ],
+      "published": "2025-07-05T17:44:30+00:00",
+      "updated": "2026-04-23T10:09:07+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2507.04114v2",
+      "html_url": "https://arxiv.org/html/2507.04114v2",
+      "entry_url": "http://arxiv.org/abs/2507.04114v2"
+    }
+  ],
+  "total": 1
+}

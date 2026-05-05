@@ -1,0 +1,86 @@
+{
+  "date": "2025-09-04",
+  "papers": [
+    {
+      "arxiv_id": "2509.04075v2",
+      "base_id": "2509.04075",
+      "title": "Complexity of Quadratic Quantum Chaos",
+      "authors": [
+        "Pallab Basu",
+        "Suman Das",
+        "Pratik Nandy"
+      ],
+      "abstract": "We investigate minimal two-body Hamiltonians with random interactions that generate spectra resembling those of Gaussian random matrices, a phenomenon we term quadratic quantum chaos. Unlike integrable two-body fermionic systems, the corresponding hard-core boson models exhibit genuinely chaotic dynamics, closely paralleling the Sachdev-Ye-Kitaev (SYK) model in its spin representation. This chaotic behavior is diagnosed through spectral statistics and measures of operator growth, including Krylov complexity and the late-time decay of higher-order out-of-time-ordered correlators (OTOCs); the latter reveals the emergence of freeness in the sense of free probability. Moreover, the fractal dimension and Stabilizer Renyi entropy of a representative mid-spectrum eigenstate show finite-size deviations yet converge toward Haar-randomness as the system size increases. This convergence, constrained by local interactions, highlights the \"weakly chaotic\" character of these eigenstates. Owing to its simplicity and bosonic nature, these minimal models may constitute promising and resource-efficient candidates for probing quantum chaos and information scrambling on near-term quantum devices.",
+      "categories": [
+        "hep-th",
+        "cond-mat.str-el",
+        "quant-ph"
+      ],
+      "published": "2025-09-04T10:09:46+00:00",
+      "updated": "2026-04-15T11:25:57+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.04075v2",
+      "html_url": "https://arxiv.org/html/2509.04075v2",
+      "entry_url": "http://arxiv.org/abs/2509.04075v2"
+    },
+    {
+      "arxiv_id": "2509.04425v3",
+      "base_id": "2509.04425",
+      "title": "Hidden simplicity in the scattering for neutron stars and black holes",
+      "authors": [
+        "Rafael Aoude",
+        "Andreas Helset"
+      ],
+      "abstract": "Heavy particle effective theory applied to spinning black holes provides a natural framework in which propagators linearize and numerators exponentiate. In this work, we exploit these two features to introduce Kerr generating functions, which describe the scattering of any probe on a Kerr black hole background to all loop orders. These generating functions can be used to perform the tensor reduction of multi-loop integrands simply by differentiation with respect to the spin. As a first application of the Kerr generating functions, we study the leading non-linear tidal effects of a neutron star in a Kerr black hole background. We organize the integrand by the helicity configuration of the exchanged gravitons and provide compact all-loop-order results for several helicity sectors and a full four-loop $\\mathcal{O}(G^5)$ result for the leading non-linear tidal operators.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2025-09-04T17:46:45+00:00",
+      "updated": "2026-04-14T21:38:16+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.04425v3",
+      "html_url": "https://arxiv.org/html/2509.04425v3",
+      "entry_url": "http://arxiv.org/abs/2509.04425v3"
+    },
+    {
+      "arxiv_id": "2509.04431v2",
+      "base_id": "2509.04431",
+      "title": "Extended applicability domain of viscous anisotropic hydrodynamics in (2+1)-D Bjorken flow with transverse expansion",
+      "authors": [
+        "Yiyang Peng",
+        "Victor E. Ambrus",
+        "Clemens Werthmann",
+        "Sören Schlichting",
+        "Ulrich Heinz",
+        "Huichao Song"
+      ],
+      "abstract": "We perform (2+1)-D simulations of viscous anisotropic hydrodynamics (VAH) under boost-invariant and conformal conditions. Comparing both VAH and traditional viscous hydrodynamics with kinetic theory in the relaxation-time approximation as the underlying microscopic theory, we show that VAH provides a superior description of the evolution across a wide range of opacity, effectively extending the applicability of hydrodynamic modeling. Our results demonstrate VAH's potential for describing collective flow in small systems where traditional hydrodynamics faces challenges.",
+      "categories": [
+        "nucl-th",
+        "hep-th"
+      ],
+      "published": "2025-09-04T17:50:08+00:00",
+      "updated": "2026-04-14T10:19:33+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.04431v2",
+      "html_url": "https://arxiv.org/html/2509.04431v2",
+      "entry_url": "http://arxiv.org/abs/2509.04431v2"
+    },
+    {
+      "arxiv_id": "2509.03930v3",
+      "base_id": "2509.03930",
+      "title": "Cap amplitudes in random matrix models",
+      "authors": [
+        "Kazumi Okuyama"
+      ],
+      "abstract": "For general one-matrix models in the large $N$ limit, we introduce the cap amplitude $ψ(b)$ as the expansion coefficient of the 1-form $ydx$ on the spectral curve. We find that the dilaton equation for the discrete volume $N_{g,n}$ of the moduli space of genus-$g$ Riemann surfaces with $n$ boundaries is interpreted as gluing the cap amplitude along one of the boundaries. In this process, one of the boundaries is capped and the number of boundaries decreases by one. In a similar manner, the genus-$g$ free energy $F_g$ is obtained by gluing the cap amplitude to $N_{g,1}$.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2025-09-04T06:40:07+00:00",
+      "updated": "2026-04-22T06:36:54+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.03930v3",
+      "html_url": "https://arxiv.org/html/2509.03930v3",
+      "entry_url": "http://arxiv.org/abs/2509.03930v3"
+    }
+  ],
+  "total": 4
+}

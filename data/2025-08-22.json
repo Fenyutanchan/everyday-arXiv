@@ -1,0 +1,47 @@
+{
+  "date": "2025-08-22",
+  "papers": [
+    {
+      "arxiv_id": "2508.16363v3",
+      "base_id": "2508.16363",
+      "title": "Infinite matrix product states for $(1+1)$-dimensional gauge theories",
+      "authors": [
+        "Ross Dempsey",
+        "Anna-Maria E. Glück",
+        "Silviu S. Pufu",
+        "Benjamin T. Søgaard"
+      ],
+      "abstract": "We present a matrix product operator construction that allows us to represent the lattice Hamiltonians of (abelian or non-abelian) gauge theories in a local and manifestly translation-invariant form. In particular, we use symmetric matrix product states and introduce link-enhanced matrix product operators (LEMPOs) that can act on both the physical and virtual spaces of the matrix product states. This construction allows us to study Hamiltonian lattice gauge theories on infinite lattices. As examples, we show how to implement this method to study the massless and massive one-flavor Schwinger model and adjoint QCD$_2$.",
+      "categories": [
+        "hep-th",
+        "cond-mat.str-el",
+        "hep-lat"
+      ],
+      "published": "2025-08-22T13:14:29+00:00",
+      "updated": "2026-04-14T15:40:23+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.16363v3",
+      "html_url": "https://arxiv.org/html/2508.16363v3",
+      "entry_url": "http://arxiv.org/abs/2508.16363v3"
+    },
+    {
+      "arxiv_id": "2508.16530v2",
+      "base_id": "2508.16530",
+      "title": "ACT-Era Constraints on Single-Field Inflation in $f(T)$ Teleparallel Gravity",
+      "authors": [
+        "Feng-Yi Zhang",
+        "Rongrong Zhai",
+        "Li-Yang Chen"
+      ],
+      "abstract": "We reassess single-field slow-roll inflation in teleparallel gravity with $f(T)=C\\,T^{2δ+1}$, motivated by recent measurements from the Atacama Cosmology Telescope (ACT) that indicate a modest upward shift in the scalar spectral index $n_s$. Using analytic approximations together with high-precision numerical calculations, we compute primordial predictions for representative potentials: power-law monomials, hilltop models, and $E$-type plateaus. We find that torsional corrections controlled by $δ$ generically suppress $r$ while keeping $n_s$ near its slow-roll value. As a result, modest positive $δ$ can restore viability to sub-quadratic monomials and hilltop models that are disfavored in general relativity (GR), whereas $E$-type plateaus remain compatible only in a limited range of $δ$: small $δ$ may improve the fit but moderate $δ$ drives the dynamics toward quadratic-like behaviour and increases $r$. These signatures are observationally testable: improved cosmic microwave background (CMB) B-mode measurements will further discriminate among potential classes and place quantitative bounds on torsional deviations from GR.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-08-22T16:52:38+00:00",
+      "updated": "2026-04-30T08:27:27+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.16530v2",
+      "html_url": "https://arxiv.org/html/2508.16530v2",
+      "entry_url": "http://arxiv.org/abs/2508.16530v2"
+    }
+  ],
+  "total": 2
+}

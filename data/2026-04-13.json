@@ -1,0 +1,171 @@
+{
+  "date": "2026-04-13",
+  "papers": [
+    {
+      "arxiv_id": "2604.11895v2",
+      "base_id": "2604.11895",
+      "title": "Novel ringdown tests of general relativity with black hole greybody factors",
+      "authors": [
+        "Romeo Felice Rosato",
+        "Francesco Crescimbeni",
+        "Sophia Yi",
+        "Emanuele Berti",
+        "Paolo Pani"
+      ],
+      "abstract": "We present GreyRing, a new model for the post-merger signal in black-hole binary coalescences based on the greybody factor of the remnant. The model accurately reproduces the full frequency-domain ringdown signal of a large set of comparable-mass, aligned-spin numerical relativity waveforms, achieving mismatches of order ${\\cal O}(10^{-6})$ for the dominant $(\\ell,m)=(2,2)$ mode, and typically outperforming state-of-the-art time-domain models. Building on this model, we introduce a novel consistency test of strong gravity based on the greybody factor: the remnant mass and spin inferred from GreyRing can be compared with those obtained through standard black hole spectroscopy. This agnostic test relies exclusively on the post-merger signal and does not require the inclusion of overtones or the choice of very early ringdown starting times, combining the advantages of inspiral-merger-ringdown consistency tests and traditional black hole spectroscopy. We apply the test to GW250114 and find that the remnant mass and spin inferred from GreyRing are consistent with those measured from the full signal. Remarkably, the inferred parameters can be measured with a precision comparable to, or slightly better than, that achieved with standard black-hole spectroscopy. Our greybody-factor waveform model allows for new precision tests of strong gravity using the ringdown signal.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE",
+        "hep-ph"
+      ],
+      "published": "2026-04-13T18:00:07+00:00",
+      "updated": "2026-04-17T14:25:37+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.11895v2",
+      "html_url": "https://arxiv.org/html/2604.11895v2",
+      "entry_url": "http://arxiv.org/abs/2604.11895v2"
+    },
+    {
+      "arxiv_id": "2604.11884v2",
+      "base_id": "2604.11884",
+      "title": "Manifest duality and Lorentz covariance for linearised gravity as edge modes",
+      "authors": [
+        "Calvin Y. -R. Chen",
+        "Euihun Joung",
+        "Karapet Mkrtchyan"
+      ],
+      "abstract": "We present the first formulation of linearised gravity in four dimensions which is manifestly Lorentz covariant and democratic, i.e. treats the two frames related by electric-magnetic duality on equal footing. It is well-known that four-dimensional linearised gravity belongs to a class of singleton representations of the four-dimensional conformal algebra $\\mathfrak{so}(2,4)$. Our key insight is viewing this algebra as the isometry of $\\text{AdS}_5$ and realising the massless spin-2 field as an edge mode of a five-dimensional topological field taking values in a specific finite-dimensional representation of $\\mathfrak{so}(2,4)$. The desired four-dimensional action is then found by a covariant boundary reduction procedure.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2026-04-13T18:00:02+00:00",
+      "updated": "2026-04-15T16:28:23+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.11884v2",
+      "html_url": "https://arxiv.org/html/2604.11884v2",
+      "entry_url": "http://arxiv.org/abs/2604.11884v2"
+    },
+    {
+      "arxiv_id": "2604.11755v2",
+      "base_id": "2604.11755",
+      "title": "Ringing of rapidly rotating black holes in effective field theory",
+      "authors": [
+        "Tom van der Steen",
+        "Simon Maenaut",
+        "Stef J. B. Husken",
+        "Pedro G. S. Fernandes",
+        "Maxim D. Jockwer",
+        "Vitor Cardoso",
+        "Thomas Hertog",
+        "Tjonnie G. F. Li"
+      ],
+      "abstract": "Within the effective field theory approach to gravity, deviations from general relativity can be systematically described by higher-curvature operators. However, computing the resulting corrections to black hole quasinormal mode spectra remains challenging in the rapidly rotating regime, where perturbative expansions in the spin break down. We use recently constructed numerical rotating black hole solutions to compute quasinormal mode frequency corrections at leading order in the effective field theory. Focusing on scalar perturbations, we evaluate cubic-curvature corrections, which constitute the leading modifications. We employ a pseudo-spectral collocation method to solve the resulting perturbation equations on these backgrounds, enabling accurate computation across a broad parameter range. We obtain frequency corrections for fundamental modes with $l\\le5$ for all $m$, and the first overtone of $2 \\le l \\le 5$ modes for all $m$ for spins up to $a=0.99M$, with relative errors below $10^{-4}$. We observe that corrections to certain modes grow significantly as the spin approaches the near-extremal regime.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2026-04-13T17:28:48+00:00",
+      "updated": "2026-04-14T16:14:52+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.11755v2",
+      "html_url": "https://arxiv.org/html/2604.11755v2",
+      "entry_url": "http://arxiv.org/abs/2604.11755v2"
+    },
+    {
+      "arxiv_id": "2604.12055v2",
+      "base_id": "2604.12055",
+      "title": "On a Deformed Holomorphic Chern-Simons Theory",
+      "authors": [
+        "Eirik Høgmoe Kjelsnes",
+        "Eirik Eik Svanes",
+        "Vegard Undheim"
+      ],
+      "abstract": "We deform classical holomorphic Chern--Simons theory on a Calabi--Yau three-fold $X$ by deforming the complex structure by a deformation parameter $h \\in\\mathscr{H}^{0,1}(T^{1,0}X)$. The corresponding equations of motion admit new \"instanton solutions\" which which are invariant under re-scalings of $h$, and are perhaps more reminiscent of $G_2$-instantons for $G_2$ manifolds. We give examples of such instantons. In particular, when $h$ has non-vanishing Yukawa coupling ${\\rm Yuk}(h,h,h)\\neq 0$, it may be used to define a connection on ${\\rm End}(T^{1,0}X)$ solving the instanton constraint. Interestingly, this connection gives rise to a hermitian (self-adjoint) connection for a real gauge theory on the real bundle ${\\rm End}(TX)$ for only specific directions in deformation space, which may be classified using Morse theory. We quantize the deformed theory around these instanton backgrounds, and derive explicit expressions for the partition function in the limit where the complex structure deformation is large. We study anomalies, and the $h$-dependece of the partition function. In particular, coupling the theory to additional gravitational degrees of freedom, we find that the special directions in deformation space give rise to novel anomaly free theories on ${\\rm End}(T^{1,0}X)$.",
+      "categories": [
+        "hep-th",
+        "math-ph",
+        "math.DG"
+      ],
+      "published": "2026-04-13T20:50:14+00:00",
+      "updated": "2026-04-21T11:57:43+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.12055v2",
+      "html_url": "https://arxiv.org/html/2604.12055v2",
+      "entry_url": "http://arxiv.org/abs/2604.12055v2"
+    },
+    {
+      "arxiv_id": "2604.11106v2",
+      "base_id": "2604.11106",
+      "title": "On the origin of the BAOtr-DESI tension",
+      "authors": [
+        "Ioannis Pantos",
+        "Leandros Perivolaropoulos"
+      ],
+      "abstract": "The fiducial-independent angular/transverse BAO dataset, obtained from two-point angular correlation functions in thin redshift shells (hereafter BAOtr), systematically prefers smaller comoving distance ratios $D_{\\rm M}/r_{\\rm d}$ than the DESI DR2 three-dimensional BAO measurements at $z \\lesssim 0.65$, driving dataset-dependent CPL dark-energy inferences and conflicting conclusions about the Hubble tension. We investigate whether this disagreement can be attributed to the $Λ$CDM fiducial assumed in the 3D BAO pipeline, or resolved within the CPL parametrisation. We show that the published 3D BAO distances are fiducial-independent by construction, with residual effects at $\\lesssim 0.3\\%$ -- negligible against the 10--18\\% BAOtr uncertainties. We then scan the CPL parameter space with $Ω_m$ and $H_0$ jointly determined at each $(w_0, w_a)$ by the Planck $θ_*$ constraint and optimisation against the DESI data. Two complementary tests are performed: a direct comparison of each DESI-optimized model with the BAOtr data, and an $α$-interpolation test that anchors the prediction to the DESI measurements. Both reveal an inescapable trade-off: models that fit DESI well ($χ^2_{\\rm DESI} \\lesssim 5$) yield $χ^2_{\\rm BAOtr} \\gtrsim 42$, while reducing the BAOtr tension to $χ^2_{\\rm BAOtr} \\sim 37$ requires $χ^2_{\\rm DESI} \\gtrsim 8$. No CMB-consistent CPL model fits both datasets simultaneously. The direct comparison at $z = 0.510$ -- where BAOtr and DESI disagree by $3.7σ$ (data-versus-data) -- sets an irreducible tension floor that no smooth modification of $D_{\\rm M}(z)$ can remove. These conclusions are robust across analysis methods, extrapolation schemes, and substitution of SDSS for DESI. The remaining explanations are observational systematics -- most plausibly in the BAOtr measurements -- or new physics beyond CPL.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2026-04-13T07:23:08+00:00",
+      "updated": "2026-04-21T03:36:24+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.11106v2",
+      "html_url": "https://arxiv.org/html/2604.11106v2",
+      "entry_url": "http://arxiv.org/abs/2604.11106v2"
+    },
+    {
+      "arxiv_id": "2604.12032v2",
+      "base_id": "2604.12032",
+      "title": "Constraints on Coupled Dark Energy in the DESI Era",
+      "authors": [
+        "Adrià Gómez-Valent",
+        "Ziyang Zheng",
+        "Luca Amendola"
+      ],
+      "abstract": "WWe investigate the current viability of a well-known coupled dark energy scenario in which cold dark matter (DM) interacts with a spin-0 dark energy component through a non-trivial field dependence of the DM mass. This ultra-light scalar mediates a fifth force between DM particles, which can leave signatures on cosmological scales. We use state-of-the-art data on the cosmic microwave background from Planck's CamSpec likelihood, baryon acoustic oscillations from the second DESI data release as well as the supernovae of Type Ia (SNIa) from Pantheon+ and DES-Dovekie. We perform the analysis considering both a flat potential and a Peebles-Ratra (PR) potential for the scalar field in order to assess the impact of the potential slope on the fitting performance of the model. While for a constant potential the scalar field dynamics is insensitive to the sign of the coupling parameter $β$, the PR potential breaks the existing symmetry in the solutions at late times and could induce a difference at the phenomenological level between positive and negative values. We study for the first time if it is actually the case, finding no important asymmetry in the fitting results. In the light of the aforesaid datasets, we find in all cases a peak at $|β|\\sim 0.03$ - less pronounced than reported in some recent works -, excluding the no-coupling scenario at $\\sim 95\\%$ CL. The model is able to explain an effective crossing of the phantom divide, with the equation-of-state parameter lying within the $2σ$ bands of model-agnostic reconstructions. Our results are very robust under changes in the SNIa sample used in the analysis and is not significantly altered when we replace a constant potential with the PR one, although the latter is crucial to produce the aforesaid crossing. In passing, we also provide constraints obtained with the PR potential in the uncoupled case.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2026-04-13T20:21:01+00:00",
+      "updated": "2026-04-20T19:06:32+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.12032v2",
+      "html_url": "https://arxiv.org/html/2604.12032v2",
+      "entry_url": "http://arxiv.org/abs/2604.12032v2"
+    },
+    {
+      "arxiv_id": "2604.11596v2",
+      "base_id": "2604.11596",
+      "title": "Loop-dependent entangling holonomies in localized topological quartets",
+      "authors": [
+        "Kazuki Ikeda",
+        "Yaron Oz"
+      ],
+      "abstract": "A spectrally isolated quartet can admit a local two-qubit description at each point in parameter space and still acquire a loop holonomy outside the local subgroup $\\mathrm{U}(2)\\otimes\\mathrm{U}(2)$. We study this question in three localized topological settings, a BHZ ribbon, a spinful SSH chain, and a BBH corner quartet. On a fixed quartet, changing only the loop can move the holonomy from almost local to entangling. In BHZ, co-rotating and counter-rotating edge-field loops have nearly the same eigenphase data, but only the counter-rotating loop yields an Ising-like entangler. SSH gives a controlled-rotation example in a numerically stable edge quartet. BBH shows the same issue in a higher-order corner quartet. Standard Berry data, including Berry phases, Chern numbers, determinant phases, and eigenphase spectra, do not separate these cases. The main diagnostic is the distance from the loop holonomy to the extracted local subgroup. Canonical two-qubit coordinates are used only after reduction failure has been identified. The quartet is the smallest setting in which this question can be tested explicitly. The same subgroup-reduction problem extends to any isolated multiplet with pointwise product type $D=\\prod_αd_α$, where the relevant local subgroup is the embedded product group $G_{\\mathbf d}=\\mathrm{Im}[\\prod_αU(d_α)\\to U(D)]$. In the terminology of Ref.[arXiv:2601.13764], these examples realize loop-dependent entangling gluing.",
+      "categories": [
+        "cond-mat.mes-hall",
+        "hep-th",
+        "math-ph",
+        "math.AT",
+        "quant-ph"
+      ],
+      "published": "2026-04-13T15:06:16+00:00",
+      "updated": "2026-04-24T00:53:44+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.11596v2",
+      "html_url": "https://arxiv.org/html/2604.11596v2",
+      "entry_url": "http://arxiv.org/abs/2604.11596v2"
+    },
+    {
+      "arxiv_id": "2604.11277v2",
+      "base_id": "2604.11277",
+      "title": "Updating the holomorphic modular bootstrap",
+      "authors": [
+        "Suresh Govindarajan",
+        "Akhila Sadanandan"
+      ],
+      "abstract": "We update the holomorphic modular bootstrap incorporating a recent result that computes the exact S-matrix within the Modular Linear Differential Equation (MLDE) setting. Further, using knowledge of the allowed exponents modulo one, we obtain admissible solutions to all MLDE's with up to six characters and Wronskian index < 6 and one accessory parameter with c_eff <= 24. We then identify which of the admissible solutions have good fusion rules -- we call such solutions tenable. When possible, we identify the CFT and in the unitary cases the MTC class they belong to.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2026-04-13T10:36:44+00:00",
+      "updated": "2026-04-27T09:49:36+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.11277v2",
+      "html_url": "https://arxiv.org/html/2604.11277v2",
+      "entry_url": "http://arxiv.org/abs/2604.11277v2"
+    }
+  ],
+  "total": 8
+}
