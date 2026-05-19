@@ -1,0 +1,146 @@
+{
+  "date": "2025-11-25",
+  "papers": [
+    {
+      "arxiv_id": "2511.20757v2",
+      "base_id": "2511.20757",
+      "title": "Reanalyzing DESI DR1: 2. Constraints on Dark Energy, Spatial Curvature, and Neutrino Masses",
+      "authors": [
+        "Anton Chudaykin",
+        "Mikhail M. Ivanov",
+        "Oliver H. E. Philcox"
+      ],
+      "abstract": "We carry out an independent re-analysis of the Dark Energy Spectroscopic Instrument (DESI) public dataset, focusing on extensions to the standard cosmological model, $Λ$CDM. Utilizing the dataset and Effective Field Theory (EFT)-based pipeline described in Paper 1, we constrain cosmological models with massive neutrinos ($Λ$CDM+$M_ν$), spatial curvature ($oΛ$CDM), dynamical dark energy ($w_0w_a$CDM), and their combinations using the power spectrum and bispectrum of DESI galaxies and quasars. Our work also presents the first measurements of relevant non-minimal cosmological parameters from the combination of cosmic microwave background (CMB) and DESI full-shape (FS) data, which are made possible thanks to carefully chosen priors on EFT parameters. We find that the addition the FS likelihood to DESI's baryon acoustic oscillation (BAO) data improves the limits on the spatial curvature by a factor of two over the BAO only results, though the improvements are less significant with the CMB data. The dark energy equation of state figure-of-merit increases both with and without the supernovae data (SNe), by $\\approx30\\%$ and $\\approx20\\%$ relative to the CMB+BAO and CMB+BAO+SNe results, respectively. Our FS likelihood also yields the strongest CMB-independent constraint on the total neutrino mass $M_ν<0.32\\,{\\rm eV}$, with the $30\\%$ improvement due to the bispectrum. In combination with the CMB, we find a $14\\%$ improvement assuming the $Λ$CDM+$M_ν$ model (yielding $M_ν<0.059\\,{\\rm eV}$), but this increases to $22\\%$ when using non-minimal backgrounds: $M_ν<0.097\\,{\\rm eV}$ in $oΛ$CDM+$M_ν$ and $M_ν<0.13\\,{\\rm eV}$ in $w_0w_a$CDM+$M_ν$. Overall, our work illustrates that robust and substantial gains in constraining power can be obtained by incorporating the FS power spectrum and bispectrum measurements in analyses of non-minimal cosmological models.",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.GA",
+        "gr-qc",
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2025-11-25T19:00:04+00:00",
+      "updated": "2026-04-14T17:58:15+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.20757v2",
+      "html_url": "https://arxiv.org/html/2511.20757v2",
+      "entry_url": "http://arxiv.org/abs/2511.20757v2"
+    },
+    {
+      "arxiv_id": "2511.20163v2",
+      "base_id": "2511.20163",
+      "title": "On the nature of the spin glass transition",
+      "authors": [
+        "Gesualdo Delfino"
+      ],
+      "abstract": "We recently showed that the two-dimensional Ising spin glass allows for a line of renormalization group fixed points which explains properties observed in numerical studies. We observe that this exact result corresponds to enhancement to a one-generator continuous internal symmetry. This finally explains why no finite temperature transition to a spin glass phase is observed in two dimensions. In more than two dimensions, instead, the continuous symmetry can be broken spontaneously and yields a spin glass order parameter which, for fixed temperature and disorder strength, takes continuous values in an interval. Such a feature is shared by the order parameter of the known mean field solution of the model with infinite-range interactions, which corresponds to infinitely many dimensions.",
+      "categories": [
+        "cond-mat.stat-mech",
+        "cond-mat.dis-nn",
+        "hep-th"
+      ],
+      "published": "2025-11-25T10:38:42+00:00",
+      "updated": "2026-04-14T14:48:17+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.20163v2",
+      "html_url": "https://arxiv.org/html/2511.20163v2",
+      "entry_url": "http://arxiv.org/abs/2511.20163v2"
+    },
+    {
+      "arxiv_id": "2511.20429v2",
+      "base_id": "2511.20429",
+      "title": "Estimating the triaxiality of massive clusters from 2D observables in MillenniumTNG with machine learning",
+      "authors": [
+        "Ana Maria Delgado",
+        "Michelle Ntampaka",
+        "Sownak Bose",
+        "Fulvio Ferlito",
+        "Boryana Hadzhiyska",
+        "Lars Hernquist",
+        "John Soltis",
+        "John F. Wu",
+        "Mikaeel Yunus",
+        "John ZuHone"
+      ],
+      "abstract": "Properties of massive galaxy clusters, such as mass abundance and concentration, are sensitive to cosmology, making cluster statistics a powerful tool for cosmological studies. However, favoring a more simplified, spherically symmetric model for galaxy clusters can lead to biases in the estimates of cluster properties. In this work, we present a deep-learning approach for estimating the triaxiality and orientations of massive galaxy clusters (those with masses $\\gtrsim 10^{14}\\,M_\\odot h^{-1}$) from 2D observables. We utilize the flagship hydrodynamical volume of the suite of cosmological-hydrodynamical MillenniumTNG (MTNG) simulations as our ground truth. Our model combines the feature extracting power of a convolutional neural network (CNN) and the message passing power of a graph neural network (GNN) in a multi-modal, fusion network. Our model is able to extract 3D geometry information from 2D idealized cluster multi-wavelength images (soft X-ray, medium X-ray, hard X-ray and tSZ effect) and mathematical graph representations of 2D cluster member observables (line-of-sight radial velocities, 2D projected positions and V-band luminosities). Our network improves cluster geometry estimation in MTNG by $30\\%$ compared to assuming spherical symmetry. We report an $R^2 = 0.85$ regression score for estimating the major axis length of triaxial clusters and correctly classifying $71\\%$ of prolate clusters with elongated orientations along our line-of-sight.",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.GA"
+      ],
+      "published": "2025-11-25T16:00:00+00:00",
+      "updated": "2026-05-04T15:18:32+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.20429v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2511.20429v2"
+    },
+    {
+      "arxiv_id": "2511.20425v2",
+      "base_id": "2511.20425",
+      "title": "Canonical form of a deformed Poisson bracket spacetime",
+      "authors": [
+        "Douglas M. Gingrich"
+      ],
+      "abstract": "The general uncertainty principle applied to gravity can be implemented as a set of modified Poisson brackets in the canonical formalism. As such, the theory is not canonical and the resulting equations of motion do not lead to a covariant metric. We construct a Hamiltonian that when applying the usual canonical formalism gives a closed algebra and equations of motion that result in the original metric obtained by using distorted Poisson brackets. The resulting theory is thus rendered canonical and covariant. We then covariantly couple scalar matter and dust to the modified gravity to allow the study of dynamics.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-11-25T15:52:17+00:00",
+      "updated": "2026-05-06T21:56:00+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.20425v2",
+      "html_url": "https://arxiv.org/html/2511.20425v2",
+      "entry_url": "http://arxiv.org/abs/2511.20425v2"
+    },
+    {
+      "arxiv_id": "2511.20917v3",
+      "base_id": "2511.20917",
+      "title": "From closed to open strings: the tensionless route in Kalb-Ramond background and noncommutativity",
+      "authors": [
+        "Sarthak Duary",
+        "Sourav Maji"
+      ],
+      "abstract": "We study tensionless bosonic strings propagating in the presence of a constant Kalb--Ramond background and show how closed strings undergo a transition into open strings. Working in the intrinsically tensionless theory, we show that the Carrollian limit of the closed-string worldsheet induces a universal gluing of `left'- and `right'-moving oscillators, which is deformed in the presence of the background $B$-field. From the action we derive the mixed boundary conditions, construct the corresponding gluing matrix, and obtain the induced vacuum as a squeezed boundary state. This gives a first-principles realization of the closed-to-open string transition in the tensionless regime. We further extend the analysis to toroidal compactification and show that the worldsheet Bose--Einstein-like condensation mechanism continues to hold in the presence of the $B$-field. Second, we analyze boundary noncommutativity in a unified symplectic framework, both in the tensile theory and in the tensionless regime. In the tensile strings, we show that the boundary symplectic form reproduces the Seiberg--Witten noncommutative parameter. We then study the tensionless limit of this construction and show that the boundary $B$-field term remains as the unique surviving source of the symplectic structure. We derive the same structure directly in the intrinsically tensionless strings, where the inverse boundary symplectic form defines the noncommutative parameter of the null string.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2025-11-25T23:17:51+00:00",
+      "updated": "2026-05-12T03:09:56+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.20917v3",
+      "html_url": "https://arxiv.org/html/2511.20917v3",
+      "entry_url": "http://arxiv.org/abs/2511.20917v3"
+    },
+    {
+      "arxiv_id": "2511.20527v2",
+      "base_id": "2511.20527",
+      "title": "Phases of Giant Magnetic Vortex Strings",
+      "authors": [
+        "Thomas T. Dumitrescu",
+        "Amey P. Gaikwad"
+      ],
+      "abstract": "We consider Abrikosov-Nielsen-Olesen magnetic vortex strings in 3+1 dimensional Abelian Higgs models. We systematically analyze the giant vortex regime using a combination of analytic and numerical methods. In this regime the strings are infinitely long, axially symmetric, and support a large magnetic flux n along the symmetry axis in their core that causes them to spread out in the transverse directions. Extending previous observations, we show that the non-linear equations governing giant vortices can essentially be solved exactly. The solutions fall into different universality classes, reflecting the properties of the Higgs potential, that become sharply distinct phases in the large-n limit. We use this understanding to shed light on the binding energies and stability of vortex strings in each universality class.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2025-11-25T17:32:07+00:00",
+      "updated": "2026-05-12T23:46:58+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.20527v2",
+      "html_url": "https://arxiv.org/html/2511.20527v2",
+      "entry_url": "http://arxiv.org/abs/2511.20527v2"
+    },
+    {
+      "arxiv_id": "2511.20568v5",
+      "base_id": "2511.20568",
+      "title": "On the rigidity of special and exceptional geometries with torsion a closed $3$-form",
+      "authors": [
+        "Georgios Papadopoulos"
+      ],
+      "abstract": "Under some suitable assumptions Riemannian manifolds $(M, g, H)$ that admit a connection $\\hat\\nabla$ with torsion a 3-form $H$, which is both closed $d H=0$ and $\\hat\\nabla$-covariantly constant, are locally isometric to a product $N\\times G$, where $G$ is a semisimple group and $N$ is a Riemannian manifold with $H\\vert_N=0$. If $M$ is simply connected and complete, then by the de Rham theorem $M=N\\times G$ globally. We use this to simplify the proof of similar results for strong CYT and HKT manifolds that obey the above hypotheses and extend them to strong $G_2$ and $\\mathrm{Spin}(7)$ manifolds with torsion. As an application, we describe the geometry of all complete and simply connected $G_2$ and $\\mathrm{Spin}(7)$ manifolds that satisfy the above conditions.   Compact, strong, 8-dimensional HKT manifolds, which are not hyper-Kähler, admit an either $\\oplus^4 \\mathfrak{u}(1)$ or a $\\mathfrak{u}(1)\\oplus \\mathfrak{su}(2)$ locally free action, otherwise, they are group manifolds. We find that if these Lie algebra actions can be integrated to an appropriate free action of $T^4$ or $S(U(1)\\times U(2))$ Lie groups that preserves the span of three complex structures, then these HKT manifolds are either locally isometric and tri-holomorphic to $\\mathbb{R}\\times S^3\\times B^4$ or diffeomorphic to $SU(3)$, where $B^4= \\mathbb{R}\\times S^3$, $\\mathbb{R}^4$ or $K_3$.",
+      "categories": [
+        "math.DG",
+        "hep-th"
+      ],
+      "published": "2025-11-25T18:04:02+00:00",
+      "updated": "2026-05-14T23:39:54+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.20568v5",
+      "html_url": "https://arxiv.org/html/2511.20568v5",
+      "entry_url": "http://arxiv.org/abs/2511.20568v5"
+    }
+  ],
+  "total": 7
+}

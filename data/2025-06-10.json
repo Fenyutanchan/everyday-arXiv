@@ -1,0 +1,78 @@
+{
+  "date": "2025-06-10",
+  "papers": [
+    {
+      "arxiv_id": "2506.08833v3",
+      "base_id": "2506.08833",
+      "title": "Cosmic filaments confirm unexplained CMB temperature decrements in two independent redshift ranges",
+      "authors": [
+        "Juan Ignacio Domínguez Feldman",
+        "Luis A. Pereyra",
+        "Frode K. Hansen",
+        "Facundo Toscano",
+        "Diego Garcia Lambas"
+      ],
+      "abstract": "Recent papers have reported an unexplained cooling of CMB photons passing through galaxies in nearby cosmic filaments $z<0.02$ at the $>5σ$ level. Here we show for the first time that this effect is also present at higher redshifts $0.02<z<0.04$. Instead of calculating the CMB temperature around individual galaxies as in previous works, we analyze mean CMB temperature profiles associated to cosmic filaments in three dimensions. We have considered different thresholds in the linear K-band luminosity density of the filaments as a proxy to mass density. Furthermore, we have analyzed the dependence of the results on the average orientation of filaments with respect to the line of sight. These studies were implemented to test the expected dependence on mass density as well as on photon trajectory length within the cosmic filaments. We find a $3-4σ$ detection of a CMB temperature decrement trend towards the spine of the filaments, the larger the mass and the more radially oriented the filament, the stronger the CMB temperature decrement. This trend is seen independently in both redshift ranges $0.004<z<0.02$ and $0.02<z<0.04$. We therefore conclude that our results provide strong evidence for a lower CMB temperature along massive cosmic filaments in the nearby universe $z<0.04$.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2025-06-10T14:20:53+00:00",
+      "updated": "2026-04-16T15:05:13+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.08833v3",
+      "html_url": "https://arxiv.org/html/2506.08833v3",
+      "entry_url": "http://arxiv.org/abs/2506.08833v3"
+    },
+    {
+      "arxiv_id": "2506.08853v2",
+      "base_id": "2506.08853",
+      "title": "The MeerKAT Massive Distant Clusters Survey: detection of diffuse radio emission in galaxy clusters at $z > 1$",
+      "authors": [
+        "Dakalo G. Phuravhathu",
+        "M. Hilton",
+        "S. P. Sikhosana",
+        "Y. C. Perrott",
+        "T. Mroczkowski",
+        "L. Di Mascolo",
+        "D. Y. Klutse",
+        "K. Knowles",
+        "J. van Marrewijk",
+        "K. Moodley",
+        "B. Partridge",
+        "C. Sifón",
+        "U. Sureshkumar",
+        "E. J. Wollack"
+      ],
+      "abstract": "Diffuse, low surface-brightness radio emission in merging galaxy clusters provides insights into cosmic structure formation, the growth of magnetic fields, and turbulence. This paper reports a search for diffuse radio emission in a pilot sample of six high-redshift ($1.01 < z < 1.31$) galaxy clusters from the MeerKAT Massive Distant Cluster Survey (MMDCS). These six clusters are selected as the most massive $(M_{\\rm 500c} = 6.7\\,- 8.5 \\times 10^{14}~\\rm{M_{\\odot}})$ systems based on their Sunyaev-Zel'dovich mass from the full MMDCS sample of 30 ACT DR5 clusters, and were observed first to explore the high-mass, high-redshift regime. Diffuse radio emission is confidently detected in four clusters and tentatively identified in two, with $k$-corrected radio powers scaled to 1.4 GHz ranging from $(0.46 \\pm 0.16)$ to $(4.51 \\pm 1.68) \\times 10^{24}\\, \\mathrm{WHz^{-1}}$ and linear sizes between 0.47 and 1.08 Mpc. Combining $Chandra$ X-ray data with MeerKAT radio data, we find that 80$\\%$ of clusters with X-ray observations exhibit disturbed morphologies indicative of mergers. These $z > 1$ galaxy clusters scatter around the established radio power-mass scaling relation observed at lower redshifts, supporting turbulent re-acceleration models in high-redshift mergers. However, their radio spectra are predicted to steepen ($α< -1.5$) due to enhanced inverse Compton losses in the cosmic microwave background, rendering them under-luminous at 1.4 GHz and placing them below the correlation. Our results demonstrate that merger-driven turbulence can sustain radio halos even at $z > 1$ while highlighting MeerKAT's unique ability to probe non-thermal processes in the early universe.",
+      "categories": [
+        "astro-ph.GA",
+        "astro-ph.CO"
+      ],
+      "published": "2025-06-10T14:41:37+00:00",
+      "updated": "2026-05-06T13:48:31+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.08853v2",
+      "html_url": "https://arxiv.org/html/2506.08853v2",
+      "entry_url": "http://arxiv.org/abs/2506.08853v2"
+    },
+    {
+      "arxiv_id": "2506.08682v3",
+      "base_id": "2506.08682",
+      "title": "Superconformal Weight Shifting Operators",
+      "authors": [
+        "Tobias Hansen",
+        "Paul Heslop",
+        "Hector Puerta-Ramisa"
+      ],
+      "abstract": "We develop a framework for constructing superconformal blocks for correlators of general supermultiplets in theories with $\\mathrm{SU}(m,m|2n)$ symmetry, such as four-dimensional $\\mathcal{N}=2$ and $\\mathcal{N} = 4$ conformal theories. We use analytic superspace, viewed as the super-Grassmannian $\\mathrm{Gr}(m|n,2m|2n)$, which includes 4D Minkowski space ($m=2,n=0$). In this formalism, superblocks for non-half-BPS correlators are analogous to non-supersymmetric conformal blocks for correlators of fields with spin. We construct $\\mathrm{SU}(m,m|2n)$-covariant differential operators which generalise the existing conformal weight-shifting operators, and thus allow us to derive all superconformal blocks from the known half-BPS blocks. Our results provide a framework from which to advance the conformal bootstrap in 4D supersymmetric settings, with potential extensions to lower and higher-dimensional SCFTs. The Grassmannian formalism is also seen to offer a natural and often simpler alternative to the embedding space formalism of non-supersymmetric CFTs.",
+      "categories": [
+        "hep-th",
+        "math-ph"
+      ],
+      "published": "2025-06-10T10:46:21+00:00",
+      "updated": "2026-05-10T21:46:20+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.08682v3",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2506.08682v3"
+    }
+  ],
+  "total": 3
+}

@@ -1,0 +1,48 @@
+{
+  "date": "2024-11-14",
+  "papers": [
+    {
+      "arxiv_id": "2411.09406v3",
+      "base_id": "2411.09406",
+      "title": "Left-Right Relative Entropy",
+      "authors": [
+        "Mostafa Ghasemi"
+      ],
+      "abstract": "The concept of distinguishability lies at the heart of quantum information theory. We introduce \\textit{left-right relative entropy} as a quantitative measure of distinguishability within the space of boundary states in two-dimensional conformal field theories (CFTs). By tracing over either the left- or right-moving modes, we derive a universal formula for arbitrary regularized boundary states defined on a circle. Remarkably, the resulting quantity reduces to a Kullback--Leibler divergence, where the associated probability distribution is determined entirely by the modular $\\mathcal{S}$-matrix and the boundary data. For diagonal CFTs, we obtain exact expressions for the left-right relative entropy in terms of modular data, and extend the framework to define left-right Rényi relative entropies and quantum fidelity. Applying this formalism to the Ising model, tricritical Ising model, and $\\widehat{su}(2)_k$ WZW model, we uncover a striking phenomenon: the left-right relative entropy between certain reduced boundary states vanishes even though the corresponding global boundary states are orthogonal. This observation motivates the introduction of \\textit{relative entanglement sectors}, defined as equivalence classes of boundary states that are indistinguishable with respect to left-right relative entropy. These sectors transform as NIM-representations of global symmetries and exhibit level-dependent structures that mirror $\\mathbb{Z}_2$ 't Hooft anomalies. Our findings establish an unexpected bridge between quantum information measures, boundary conformal symmetry, and quantum anomaly constraints, establishing a new information-theoretic framework for characterizing exotic phases of matter constrained by quantum anomalies",
+      "categories": [
+        "hep-th",
+        "math-ph",
+        "quant-ph"
+      ],
+      "published": "2024-11-14T12:45:59+00:00",
+      "updated": "2026-04-20T07:04:08+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2411.09406v3",
+      "html_url": "https://arxiv.org/html/2411.09406v3",
+      "entry_url": "http://arxiv.org/abs/2411.09406v3"
+    },
+    {
+      "arxiv_id": "2411.09414v3",
+      "base_id": "2411.09414",
+      "title": "New physics searches via angular distributions of $ \\bar{B} \\to D^* (\\to D π) τ(\\to \\ell ν_τ\\barν_\\ell) \\barν_τ$ decays",
+      "authors": [
+        "Bhubanjyoti Bhattacharya",
+        "Thomas E. Browder",
+        "Alakabha Datta",
+        "Tejhas Kapoor",
+        "Emi Kou",
+        "Lopamudra Mukherjee"
+      ],
+      "abstract": "The study of $\\bar{B} \\to D^* τ{\\barν}_τ$ angular distribution can be used to obtain information about new physics (or beyond the Standard Model) couplings, which are motivated by various $B$ anomalies. However, the inability to measure precisely the three-momentum of the $τ$ lepton hinders such measurements, as the tau decay contains one or more undetected neutrinos. Here, we present a measurable angular distribution of $\\bar{B} \\to D^* τ{\\barν}_τ$ by considering the additional decay $τ\\to \\ell ν_τ\\barν_\\ell$, where $\\ell \\in \\{ e , μ\\}$. The full process used is $\\bar{B} \\to D^* (\\to D π) τ(\\to \\ell ν_τ\\barν_\\ell) \\barν_τ$, in which only the $\\ell$ and $D^*$ are reconstructed. A fit to the experimental angular distribution of this process can be used to extract information on new physics parameters. To demonstrate the feasibility of this approach, we generate simulated data for this process and perform a sensitivity study to obtain the expected statistical errors on new physics parameters from experiments in the near future. We obtain a sensitivity of the order of 5% for the right-handed current and around 6% for the tensor current. In addition, we use the recent lattice QCD data on $B \\to D^*$ form factors and obtain correlations between form factors and new physics parameters.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2024-11-14T13:07:36+00:00",
+      "updated": "2026-04-15T21:06:04+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2411.09414v3",
+      "html_url": "https://arxiv.org/html/2411.09414v3",
+      "entry_url": "http://arxiv.org/abs/2411.09414v3"
+    }
+  ],
+  "total": 2
+}

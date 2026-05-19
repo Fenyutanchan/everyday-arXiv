@@ -1,0 +1,65 @@
+{
+  "date": "2025-05-23",
+  "papers": [
+    {
+      "arxiv_id": "2505.18123v4",
+      "base_id": "2505.18123",
+      "title": "Comment on \"Geometry of the Grosse-Wulkenhaar model\"",
+      "authors": [
+        "Dragan Prekrat"
+      ],
+      "abstract": "We clarify a key point in the geometric reinterpretation of the Grosse$\\unicode{x2013}$Wulkenhaar (GW) model proposed in \"Geometry of the Grosse-Wulkenhaar model\" [JHEP 03 (2010) 053]. Specifically, we show that the analysis in Section 6 was performed not for the actual $Ω$-term in the GW action, which involves both ordinary and star-products, but for a closely related term containing only star-products. Once corrected, the main conclusion$\\unicode{x2014}$relating the harmonic potential term to background curvature$\\unicode{x2014}$remains valid, though the parameter identification must be revised. This also resolves a discrepancy concerning the emergence of certain vacuum solutions in the self-dual limit of the model.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2025-05-23T17:30:06+00:00",
+      "updated": "2026-04-18T17:25:01+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2505.18123v4",
+      "html_url": "https://arxiv.org/html/2505.18123v4",
+      "entry_url": "http://arxiv.org/abs/2505.18123v4"
+    },
+    {
+      "arxiv_id": "2505.18007v4",
+      "base_id": "2505.18007",
+      "title": "Thermodynamics of magnetized BPS baryonic layers and the effects of the Isospin chemical potential",
+      "authors": [
+        "Sergio Luigi Cacciatori",
+        "Fabrizio Canfora",
+        "Evangelo Delgado",
+        "Federica Muscolino",
+        "Luigi Rosa"
+      ],
+      "abstract": "Through the Hamilton-Jacobi equation of classical mechanics, BPS magnetized Baryonic layers (possessing both baryonic charge and magnetic flux) have been constructed in the gauged non-linear sigma model (G-NLSM) minimally coupled to Maxwell theory, which is one of the most relevant effective theories for Quantum Chromodynamics (QCD) in the strongly interacting low-energy limit which also takes into account the electromagnetic interactions. Since the topological charge that naturally appears on the right hand side of the BPS bound is a non-linear function of the baryonic charge, the thermodynamics of these magnetized Baryonic layers is highly non-trivial. In this work, using tools from the theory of Casimir effect, we derive analytical relationship between baryonic charge, topological charge, magnetic flux and relevant thermodynamical quantities (such as pressure, specific heat and magnetic susceptibility) of these layers. The critical Baryonic chemical potential is identified. Quite interestingly, the grand canonical partition function can be related with the Riemann zeta function. On the technical side, it is quite a remarkable result to derive explicit expressions for all these thermodynamics quantities of a strongly interacting magnetized system at finite Baryon density. The effects of the Isospin chemical potential can be included as well: in particular, we will be able to construct explicitly the BPS bound and the corresponding BPS configurations also in the case in which the Isospin chemical potential is non-zero. The physical interpretations of our analytical results will be discussed.",
+      "categories": [
+        "hep-th",
+        "astro-ph.HE",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "published": "2025-05-23T15:11:06+00:00",
+      "updated": "2026-04-28T16:33:05+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2505.18007v4",
+      "html_url": "https://arxiv.org/html/2505.18007v4",
+      "entry_url": "http://arxiv.org/abs/2505.18007v4"
+    },
+    {
+      "arxiv_id": "2505.17744v3",
+      "base_id": "2505.17744",
+      "title": "On the Limits of the Thermofield-Double Interpretation of the Minkowski Vacuum",
+      "authors": [
+        "Vaibhav Wasnik"
+      ],
+      "abstract": "The Minkowski vacuum is often presented in textbooks and reviews as a thermofield double (TFD) state, an entangled state of field modes in the left and right Rindler wedges. This picture is widely used to explain the Unruh effect, motivate entanglement entropy calculations, and connect quantum field theory to black hole thermodynamics and AdS/CFT. However, we show that this interpretation, while elegant, is not exact. We explicitly compute two-point functions and their derivatives for a massless scalar field in two-dimensional Minkowski space, comparing results obtained from canonical quantization with those obtained by assuming a TFD form of the vacuum. Mixed-derivative correlators agree perfectly, but higher-derivative correlators show systematic mismatches that persist even for points well away from horizons and are not removed by infrared regularization. To further test this picture, we construct an alternate coordinate system that divides Minkowski spacetime into two disconnected regions, apply the same derivation that leads to the standard TFD expression, and obtain a new \"entangled-state\" representation of the vacuum that is not thermal. This demonstrates that the appearance of a TFD structure is a feature of the derivation method rather than a fundamental property of the vacuum. Our results clarify the limits of interpreting the Minkowski vacuum as a literal TFD state, emphasizing that while it captures key thermal features, it should be viewed as a powerful calculational tool rather than a precise statement about Hilbert space structure.",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2025-05-23T11:12:01+00:00",
+      "updated": "2026-05-14T05:41:21+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2505.17744v3",
+      "html_url": "https://arxiv.org/html/2505.17744v3",
+      "entry_url": "http://arxiv.org/abs/2505.17744v3"
+    }
+  ],
+  "total": 3
+}

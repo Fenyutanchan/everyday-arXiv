@@ -1,0 +1,51 @@
+{
+  "date": "2025-02-17",
+  "papers": [
+    {
+      "arxiv_id": "2502.12333v5",
+      "base_id": "2502.12333",
+      "title": "Impact of momentum-dependent drag coefficient on energy loss of charm and bottom quarks in QGP",
+      "authors": [
+        "Marjan Rahimi Nezhad",
+        "Fatemeh Taghavi-Shahri",
+        "Kurosh Javidan"
+      ],
+      "abstract": "This paper investigates the influence of heavy-quark momentum on their interaction rate and the resulting drag coefficient in a quark-gluon plasma. To go beyond simplified treatments, we introduce a phenomenological extension of the drag coefficient by expressing the energy loss coefficients as polynomial expansions of momentum, thereby providing a flexible framework to test the sensitivity of heavy-quark observables to additional momentum dependence in transport coefficients. Furthermore, the effects of particle momentum on radiative and collisional energy loss are determined more accurately. The study focuses on calculating the nuclear modification factor ($R_{AA}$) of charm and bottom quarks in Pb-Pb collisions at $\\sqrt{S_{NN}} = 5.02 \\: TeV$. The initial distribution functions are evolved numerically using the Fokker-Planck equation. The results are compared with the latest experimental data from ALICE and ATLAS, collected in 2021 and 2022.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-02-17T21:40:11+00:00",
+      "updated": "2026-04-29T07:42:58+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2502.12333v5",
+      "html_url": "https://arxiv.org/html/2502.12333v5",
+      "entry_url": "http://arxiv.org/abs/2502.12333v5"
+    },
+    {
+      "arxiv_id": "2502.12253v2",
+      "base_id": "2502.12253",
+      "title": "A Precise Determination of $α_s$ from the Heavy Jet Mass Distribution",
+      "authors": [
+        "Miguel A. Benitez",
+        "Arindam Bhattacharya",
+        "Andre H. Hoang",
+        "Vicent Mateu",
+        "Matthew D. Schwartz",
+        "Iain W. Stewart",
+        "Xiaoyuan Zhang"
+      ],
+      "abstract": "A global fit for $α_s(m_Z)$ is performed on available $e^+e^-$ data for the heavy jet mass distribution. The state-of-the-art theory prediction includes $\\mathcal{O}(α_s^3)$ fixed-order results, N$^3$LL$^\\prime$ dijet resummation, N$^2$LL Sudakov shoulder resummation, and a first-principles treatment of power corrections in the dijet region. Theoretical correlations are incorporated through a flat random-scan covariance matrix. The global fit results in $0.1148^{+ 0.0015}_{-0.0022}$, compatible with similar determinations from thrust and $C$-parameter. Dijet resummation is essential for a robust fit, as it engenders insensitivity to the fit-range lower cutoff; without resummation the fit-range sensitivity is overwhelming. In addition, we find evidence for a negative power correction in the trijet region if and only if Sudakov shoulder resummation is included.",
+      "categories": [
+        "hep-ph",
+        "hep-ex",
+        "nucl-ex",
+        "nucl-th"
+      ],
+      "published": "2025-02-17T19:00:13+00:00",
+      "updated": "2026-05-02T10:15:38+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2502.12253v2",
+      "html_url": "https://arxiv.org/html/2502.12253v2",
+      "entry_url": "http://arxiv.org/abs/2502.12253v2"
+    }
+  ],
+  "total": 2
+}

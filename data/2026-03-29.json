@@ -1,0 +1,45 @@
+{
+  "date": "2026-03-29",
+  "papers": [
+    {
+      "arxiv_id": "2603.27824v3",
+      "base_id": "2603.27824",
+      "title": "Holographic duality from a four-fermion interaction: emergent AdS$_3$/CFT$_2$, D-branes, and Einstein gravity",
+      "authors": [
+        "Laith H. Haddad"
+      ],
+      "abstract": "We derive the bosonic sector of the AdS$_3$/CFT$_2$ correspondence from the $(1+1)$-dimensional Gross-Neveu (GN) model with $N$ fermion species and a local quartic interaction, with no stringy or geometric input. A Bargmann-Wigner fusion scheme generates an infinite tower of higher-spin composite fields with a linear Regge trajectory. Competition between spin-0 (chiral) condensation and spin-1 pairing defines an emergent radial coordinate; local fluctuations of this condensate ratio, tracked by a comoving derivative, generate the AdS$_3$ line element. The large-$N$ species sum promotes $z$ from a parameter to a genuine bulk dimension. We show that the full $SO(2,2)$ bulk isometry group, whose special conformal generators mix $z$ with the boundary GN coordinates, emerges from local symmetries of the boundary condensates, and holographic RG flow identifies $z$ with the Wilsonian cutoff scale.We find that a hierarchy of phase transitions in the enlarged GN model map to a bulk description: spin-2 decoherence $\\to$ spin-1 decoherence $\\to$ chiral symmetry restoration occur at the Hawking-Page, Hagedorn, and Planck temperatures in the bulk picture, respectively, represented as a layered radial profile of the bulk geometry, with successive condensate sectors dissolving at progressively greater depths into the bulk.",
+      "categories": [
+        "hep-th",
+        "cond-mat.other",
+        "gr-qc",
+        "math-ph"
+      ],
+      "published": "2026-03-29T19:30:47+00:00",
+      "updated": "2026-05-12T02:08:40+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.27824v3",
+      "html_url": "https://arxiv.org/html/2603.27824v3",
+      "entry_url": "http://arxiv.org/abs/2603.27824v3"
+    },
+    {
+      "arxiv_id": "2603.27846v2",
+      "base_id": "2603.27846",
+      "title": "Full energy fraction and angular dependence of medium-induced splittings in the large-$N_c$ limit",
+      "authors": [
+        "Carlota Andres",
+        "Fabio Dominguez"
+      ],
+      "abstract": "Jets produced in relativistic heavy-ion collisions are modified by their interactions with the quark-gluon plasma (QGP), making jet substructure observables sensitive probes of QGP dynamics. A quantitative description of these modifications requires understanding how the medium affects elementary parton splittings with full dependence on both their energy fraction $z$ and splitting angle $θ$, beyond the widely used soft emitted-gluon approximation. Here, we study medium-induced $1 \\to 2$ splittings double-differential in $z$ and $θ$, with full resummation of multiple scatterings, and show that in the large-$N_c$ limit and under the harmonic oscillator (HO) approximation, all path integrals can be evaluated analytically for any splitting channel, providing a computationally efficient semi-analytical result. We also revisit the semi-hard approximation (SHA), extending it to include leading corrections in inverse powers of the partons energies, which we denote the improved semi-hard approximation (ISHA), and assess its validity through a comparison with the large-$N_c$-HO results. Our analysis shows that while the SHA is found to be unreliable across most of phase space, even for high-energy emitters, the ISHA provides a robust approximation for splittings where all partons are sufficiently energetic.",
+      "categories": [
+        "hep-ph",
+        "nucl-th"
+      ],
+      "published": "2026-03-29T20:07:48+00:00",
+      "updated": "2026-05-05T20:18:22+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.27846v2",
+      "html_url": "https://arxiv.org/html/2603.27846v2",
+      "entry_url": "http://arxiv.org/abs/2603.27846v2"
+    }
+  ],
+  "total": 2
+}

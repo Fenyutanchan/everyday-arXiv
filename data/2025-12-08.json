@@ -1,0 +1,259 @@
+{
+  "date": "2025-12-08",
+  "papers": [
+    {
+      "arxiv_id": "2512.07825v3",
+      "base_id": "2512.07825",
+      "title": "Novel thermodynamic inequality for rotating AdS black holes",
+      "authors": [
+        "Hamid R. Bakhtiarizadeh"
+      ],
+      "abstract": "We propose a new thermodynamic inequality for stationary and asymptotically Anti-de Sitter rotating black holes, $ 4πJ^2/(3MV)<1 $. This inequality is derived by analyzing the roots of the identity relating the thermodynamic variables, ensuring the avoidance of naked singularities, and consequently preventing violations of the cosmic censorship conjecture. We examine the Kerr-AdS black hole as well as uncharged rotating AdS black strings, and find strong supporting evidence for the inequality across different horizon topologies. Using this inequality, we further demonstrate that the reverse isoperimetric inequality ($ {\\cal R}\\geq 1 $), remains unchanged, in the presence of rotation. Our investigations of a broad class of black hole solutions provide additional confirmation of the proposed inequality. Assuming that the reverse isoperimetric inequality in the presence of rotation continues to hold in higher dimensions, we conjecture the corresponding higher-dimensional generalization of the inequality.",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2025-12-08T18:54:59+00:00",
+      "updated": "2026-04-20T07:56:58+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.07825v3",
+      "html_url": "https://arxiv.org/html/2512.07825v3",
+      "entry_url": "http://arxiv.org/abs/2512.07825v3"
+    },
+    {
+      "arxiv_id": "2512.07706v3",
+      "base_id": "2512.07706",
+      "title": "Bootstrapping non-unitary CFTs",
+      "authors": [
+        "Yu-tin Huang",
+        "Shao-Cheng Lee",
+        "Henry Liao",
+        "Justinas Rumbutis"
+      ],
+      "abstract": "We introduce a non-unitary-compatible numerical bootstrap strategy based on the statistical stability of OPE data inferred from crossing at multiple cross-ratios. For a trial spectrum, crossing determines OPE coefficients whose residual cross-ratio dependence directly measures the truncation error. This defines a scalar objective on the space of spectra, allowing bootstrap searches without imposing unitarity. Applied to two-dimensional Virasoro blocks, the method reproduces known A-series minimal models, including non-unitary examples, and yields candidate truncated solutions for c>1 with crossing violation comparable to that of minimal models. More generally, our framework provides a practical route to solving bootstrap constraints beyond the convex, unitary setting.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2025-12-08T16:52:53+00:00",
+      "updated": "2026-04-23T03:54:26+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.07706v3",
+      "html_url": "https://arxiv.org/html/2512.07706v3",
+      "entry_url": "http://arxiv.org/abs/2512.07706v3"
+    },
+    {
+      "arxiv_id": "2512.07485v3",
+      "base_id": "2512.07485",
+      "title": "The equation of Binet in classical and relativistic orbital mechanics",
+      "authors": [
+        "Jose Luis Alvarez-Perez"
+      ],
+      "abstract": "Binet's equation provides a direct way to obtain the geometric shape of orbits in a central force field. It is well known that in Newtonian gravitation Binet's equation leads to all the conic curves as solutions for an inverse-square force. In this work, we show how Binet's equation arises from the horizontal and vertical infinitesimal displacements of a body in free fall and in inertial motion. This derivation uses elementary concepts of infinitesimal calculus. Second, we derive the relativistic version of Binet's equation for the Schwarzschild-(anti-)de Sitter metric. This derivation, which is novel, directly relates the coordinates involved in Binet's equation without the need to introduce potentials or the use of Killing vectors. Finally, we tackle some controversies related to the role of the cosmological constant in the trajectory of photons in a Schwarzschild-(anti-)de Sitter or even in Reissner-Nordström-(anti-)de Sitter spacetimes.",
+      "categories": [
+        "gr-qc",
+        "math-ph"
+      ],
+      "published": "2025-12-08T12:13:13+00:00",
+      "updated": "2026-04-17T20:57:33+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.07485v3",
+      "html_url": "https://arxiv.org/html/2512.07485v3",
+      "entry_url": "http://arxiv.org/abs/2512.07485v3"
+    },
+    {
+      "arxiv_id": "2512.07721v4",
+      "base_id": "2512.07721",
+      "title": "On the $AdS_3\\times S^3\\times S^3\\times S^1$ dressing factors",
+      "authors": [
+        "Sergey Frolov",
+        "Alessandro Sfondrini"
+      ],
+      "abstract": "We propose dressing factors for massive excitations of the worldsheet S matrix of $AdS_3\\times S^3\\times S^3\\times S^1$ supported by mixed Ramond--Ramond and Neveu-Schwarz--Neveu-Schwarz flux, in the \"string\" and \"mirror\" kinematics. Our proposal is compatible with crossing and unitarity, and it reproduces the available perturbative results for any ratio of the two three-spheres' radii.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2025-12-08T17:12:17+00:00",
+      "updated": "2026-04-17T16:50:37+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.07721v4",
+      "html_url": "https://arxiv.org/html/2512.07721v4",
+      "entry_url": "http://arxiv.org/abs/2512.07721v4"
+    },
+    {
+      "arxiv_id": "2512.07473v3",
+      "base_id": "2512.07473",
+      "title": "Absence of charged pion condensation in a magnetic field with parallel rotation",
+      "authors": [
+        "Puyuan Bai",
+        "Lianyi He"
+      ],
+      "abstract": "We investigate the critical temperature of a relativistic Bose-Einstein condensate of charged bosons driven by rotation in a parallel magnetic field [Y. Liu and I. Zahed, Phys. Rev. Lett. 120, 032001 (2018)]. For non-interacting bosons, the critical temperature can only be determined for a system with fixed angular momentum. We find that the critical temperature of the non-interacting system vanishes due to the fact that the system is quasi-one-dimensional, indicating that non-interacting bosons cannot undergo Bose-Einstein condensation. For interacting bosons, we investigate a system with quartic self-interaction. We show that the order parameter vanishes and the off-diagonal long-range order is absent at any nonzero temperature because of the quasi-one-dimensional feature, in accordance with the Coleman-Mermin-Wagner-Hohenberg theorem.",
+      "categories": [
+        "nucl-th",
+        "cond-mat.quant-gas",
+        "hep-th"
+      ],
+      "published": "2025-12-08T11:57:42+00:00",
+      "updated": "2026-04-15T07:32:50+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.07473v3",
+      "html_url": "https://arxiv.org/html/2512.07473v3",
+      "entry_url": "http://arxiv.org/abs/2512.07473v3"
+    },
+    {
+      "arxiv_id": "2512.07268v3",
+      "base_id": "2512.07268",
+      "title": "Black Holes as Catalysts for Cosmic String Detection and Axion Dark Matter Genesis",
+      "authors": [
+        "Ishan Swamy",
+        "Deobrat Singh"
+      ],
+      "abstract": "The global $U_{PQ}(1)$ Peccei-Quinn (PQ) symmetry, proposed to resolve the strong CP problem, predicts the existence of the axion, a pseudo Nambu-Goldstone boson and a leading dark matter candidate. The spontaneous breaking of this symmetry generates global strings that decay predominantly via the emission of massive axions and gravitational waves. In this work, we investigate the decay of cosmic axion strings in the vicinity of a Schwarzschild black hole and estimate the corresponding energy losses and decay timescales of the resulting string loops. For primordial black holes (PBHs) with masses as small as $10^{-16} M_\\odot$, the total radiated energy by the string is found to be on the order of $10^{27}$ GeV, encompassing both axion emission and gravitational waves. A key finding is that the presence of a central black hole significantly accelerates the decay of cosmic string loops, substantially reducing their lifetimes. We present these results as an initial estimate of axion radiation from PBH-cosmic string systems along with the decay time as an important observational signature for axions strings.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.HE",
+        "hep-th"
+      ],
+      "published": "2025-12-08T08:08:34+00:00",
+      "updated": "2026-04-15T06:23:05+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.07268v3",
+      "html_url": "https://arxiv.org/html/2512.07268v3",
+      "entry_url": "http://arxiv.org/abs/2512.07268v3"
+    },
+    {
+      "arxiv_id": "2512.07295v2",
+      "base_id": "2512.07295",
+      "title": "Squeezed Limit non-Gaussianity Estimation with Cosmic Shear",
+      "authors": [
+        "Shi-Hui Zang",
+        "Moritz Münchmeyer"
+      ],
+      "abstract": "We present a new method to constrain local primordial non-Gaussianity using the large-scale modulation of the local lensing power spectrum. Our work extends our recently proposed $π$-field method for primordial non-Gaussianity estimation to spherical coordinates and applies it to galaxy lensing. Our approach is computationally efficient and only requires binned multipole power spectra $C_\\ell(z_1,z_2)$ on large scales, as well as their covariance. Our method is simpler to implement than a full bispectrum estimator, but still contains the full squeezed-limit information. We validate our model using a suite of N-body simulations and demonstrate its accuracy in recovering the $f_{\\mathrm{NL}}$ values. We then perform a Fisher forecast for an LSST-like weak lensing survey, finding $σ_{f_{\\mathrm{NL}}} \\simeq 44$. Our approach readily combines with other $f_{\\mathrm{NL}}$-sensitive fields such as kSZ velocity reconstruction and clustering-based $π$-fields, for a future combined $f_{\\mathrm{NL}}$ estimator using various large-scale galaxy and CMB observables.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2025-12-08T08:36:12+00:00",
+      "updated": "2026-05-05T04:28:26+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.07295v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2512.07295v2"
+    },
+    {
+      "arxiv_id": "2512.08003v2",
+      "base_id": "2512.08003",
+      "title": "Quadrupole spectra derived from 2.76 TeV Pb-Pb identified-hadron $\\bf v_2(p_t)$ data",
+      "authors": [
+        "Thomas A. Trainor"
+      ],
+      "abstract": "$p_t$-differential quantity $v_2(p_t)$ is meant to measure elliptic flow manifested by a dense QCD medium formed in high-energy nucleus-nucleus collisions. Elliptic flow may be referred to more neutrally as a cylindrical quadrupole component of the transverse motion of particle sources within a collision. As defined, $v_2(p_t)$ relies on an implicit assumption that almost all produced particles emerge from a single source. This article describes a detailed study of the algebraic structure of $v_2(p_t)$. A procedure is developed to derive a common monopole boost (radial flow) value and quadrupole $p_t$ spectra for several hadron species. The method is applied to $v_2(p_t)$ data for three hadron species from 2.76 TeV Pb-Pb collisions. According to available $v_2(p_t)$ data the assumption of a single dominant particle source within A-A collisions is unjustified. Combined with a previous study of quadrupole amplitude variation for 200 GeV $p$-$p$ collisions these results demonstrate that quadrupole structure is related to a novel QCD process separate from projectile-nucleon dissociation and jet production. Given quadrupole evolution it is unlikely that a hydrodynamic description is relevant to that process.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-12-08T19:48:06+00:00",
+      "updated": "2026-05-03T21:28:43+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.08003v2",
+      "html_url": "https://arxiv.org/html/2512.08003v2",
+      "entry_url": "http://arxiv.org/abs/2512.08003v2"
+    },
+    {
+      "arxiv_id": "2512.07420v2",
+      "base_id": "2512.07420",
+      "title": "E-PCN: Jet Tagging with Explainable Particle Chebyshev Networks Using Kinematic Features",
+      "authors": [
+        "Md Raqibul Islam",
+        "Adrita Khan",
+        "Mir Sazzat Hossain",
+        "Choudhury Ben Yamin Siddiqui",
+        "Md. Zakir Hossan",
+        "Tanjib Khan",
+        "M. Arshad Momen",
+        "Amin Ahsan Ali",
+        "AKM Mahbubur Rahman"
+      ],
+      "abstract": "The identification and classification of collimated particle sprays, or jets, are essential for interpreting data from high-energy collider experiments. While deep learning has improved jet classification, it often lacks interpretability. We introduce the Explainable Particle Chebyshev Network (E-PCN), a graph neural network extending the Particle Chebyshev Network (PCN). E-PCN integrates kinematic variables into jet classification by constructing four graph representations per jet, each weighted by a distinct variable: angular separation ($Δ$), transverse momentum ($k_T$), momentum fraction ($z$), and invariant mass squared ($m^2$). We use the concept of Gradient-weighted Class Activation Mapping (Grad-CAM) to determine which kinematic variables dominate classification outcomes. Analysis reveals that angular separation and transverse momentum collectively account for approximately 76% of classification decisions (40.72% and 35.67%, respectively), with momentum fraction and invariant mass contributing the remaining 24%. Evaluated on the JetClass dataset with 10 signal classes, E-PCN achieves a macro-accuracy of 94.67%, macro-AUC of 96.78%, and macro-AUPR of 86.79%, representing improvements of 2.36%, 4.13%, and 24.88% respectively over the baseline PCN implementation, while demonstrating physically interpretable feature learning.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2025-12-08T10:53:05+00:00",
+      "updated": "2026-05-03T16:42:22+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.07420v2",
+      "html_url": "https://arxiv.org/html/2512.07420v2",
+      "entry_url": "http://arxiv.org/abs/2512.07420v2"
+    },
+    {
+      "arxiv_id": "2512.07172v2",
+      "base_id": "2512.07172",
+      "title": "Chiral, parity-doublet, effective-Lagrangian mean-field theories for nuclear and astrophysical phenomenology",
+      "authors": [
+        "Ayon Mukherjee"
+      ],
+      "abstract": "Chiral-parity (parity-doublet) effective Lagrangian models provide a compact and symmetry-consistent framework for describing baryons and their negative-parity partners in terms of linearly-realized chiral symmetry. Unlike the conventional, linear, sigma model; the parity-doublet approach accommodates a chirally-invariant mass term, $m_0$, allowing finite baryon-masses even when the chiral condensate melts. This feature enables a unified treatment of hadronic matter across vacuum, nuclear and dense astrophysical regimes. This compact review summarizes the key structures of parity-doublet Lagrangians; outlines the mean-field formulation for nuclear and stellar matter; and highlights recent phenomenological and lattice constraints on the chirally-invariant mass. Emphasis is placed on mirror versus naïve chiral assignments; the role of vector interactions in achieving nuclear saturation; and the implications of parity doubling for the equation-of-state of dense matter and neutron-star cooling. The review concludes with current theoretical challenges and perspectives for extending these models beyond the mean-field approximation.",
+      "categories": [
+        "hep-ph",
+        "nucl-th"
+      ],
+      "published": "2025-12-08T05:11:40+00:00",
+      "updated": "2026-05-01T18:30:43+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.07172v2",
+      "html_url": "https://arxiv.org/html/2512.07172v2",
+      "entry_url": "http://arxiv.org/abs/2512.07172v2"
+    },
+    {
+      "arxiv_id": "2512.08116v2",
+      "base_id": "2512.08116",
+      "title": "Universality in quasinormal modes of a magnetized black hole",
+      "authors": [
+        "Marcos R. Ribeiro",
+        "Eveling C. Ribeiro",
+        "Kai Lin",
+        "Elcio Abdalla"
+      ],
+      "abstract": "In this work, we investigate the linear stability of a magnetized Einstein-Maxwell solution describing a static, axially symmetric black hole (BH) immersed in a uniform magnetic field $B$. We probe the dynamics of an external charged scalar field through its quasinormal modes (QNMs), combining frequency- and time-domain analyses. We find a critical value of the field charge at which the QNM spectrum exhibits universal power-law scaling with an exponent of approximately $1/2$. This critical behavior admits a simple interpretation in terms of a transition between a confined regime, where waves remain effectively trapped within a region of characteristic size $\\sim 1/B$, and a deconfined regime, where the field reaches distances $\\gg 1/B$ and the damping rate becomes parametrically small. These results provide qualitative and quantitative insights that may inform more realistic scenarios involving highly magnetized compact objects.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-12-08T23:42:03+00:00",
+      "updated": "2026-05-11T19:35:08+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.08116v2",
+      "html_url": "https://arxiv.org/html/2512.08116v2",
+      "entry_url": "http://arxiv.org/abs/2512.08116v2"
+    },
+    {
+      "arxiv_id": "2512.07236v2",
+      "base_id": "2512.07236",
+      "title": "Counting voids and filaments: Betti Curves as a Powerful Probe for Cosmology",
+      "authors": [
+        "Jiayi Li",
+        "Cheng Zhao"
+      ],
+      "abstract": "Topological analysis of galaxy distributions has gathered increasing attention in cosmology, as they are able to capture non-Gaussian features of large-scale structures (LSS) that are overlooked by conventional two-point clustering statistics. We utilize Betti curves, a summary statistic derived from persistent homology, to characterize the multiscale topological features of the LSS, including connected components, loops, and voids, as a complementary cosmological probe. Using halo catalogs from the \\textsc{Quijote} suite, we construct Betti curves, assess their sensitivity to cosmological parameters, and train automated machine learning based emulators to model their dependence on cosmological parameters. Our Bayesian inference recovers unbiased estimation of cosmological parameters, notably $n_{\\mathrm{s}}$, $σ_8$, and $Ω_{\\mathrm{m}}$, while validation on sub-box simulations confirms robustness against cosmic variance. We further investigate the impact of redshift-space distortions (RSD) on Betti curves and demonstrate that including RSD enhances sensitivity to growth-related parameters. By jointly analyzing Betti curves and the power spectrum, we achieve significantly tightened constraints than using power spectrum alone on parameters such as $n_{\\mathrm{s}}$, $σ_8$, and $w$. These findings highlight Betti curves -- especially when combined with traditional two-point statistics -- as a promising, interpretable tool for future galaxy survey analyses.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2025-12-08T07:33:29+00:00",
+      "updated": "2026-05-13T09:10:47+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.07236v2",
+      "html_url": "https://arxiv.org/html/2512.07236v2",
+      "entry_url": "http://arxiv.org/abs/2512.07236v2"
+    },
+    {
+      "arxiv_id": "2512.07758v3",
+      "base_id": "2512.07758",
+      "title": "Charge functions for odd dimensional partitions",
+      "authors": [
+        "Shang Xiang",
+        "Hao Feng",
+        "Keyou Zhuo",
+        "Tian-Shun Chen",
+        "Kilar Zhang"
+      ],
+      "abstract": "To construct a BPS algebra with representations furnished by n-dimensional partitions, the first step is to find the eigenvalues of the Cartan operators acting on them. The generating function of the eigenvalues is called the charge function. It has an important property that for each partition, the poles of the function correspond to the projection of the boxes which can be added to or removed from the partition legally. The charge functions of lower dimensional partitions, i.e., Young diagrams for 2D, plane partitions for 3D and solid partitions for 4D, are already given in the literature. In this paper, we propose an expression of the charge function for arbitrary odd dimensional partitions and have it proved for 5D case. Some explicit numerical tests for 7D and 9D case are also conducted to confirm our formula.",
+      "categories": [
+        "math-ph",
+        "hep-th"
+      ],
+      "published": "2025-12-08T17:39:55+00:00",
+      "updated": "2026-05-17T09:15:27+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.07758v3",
+      "html_url": "https://arxiv.org/html/2512.07758v3",
+      "entry_url": "http://arxiv.org/abs/2512.07758v3"
+    }
+  ],
+  "total": 13
+}

@@ -1,0 +1,29 @@
+{
+  "date": "2024-05-16",
+  "papers": [
+    {
+      "arxiv_id": "2405.09739v2",
+      "base_id": "2405.09739",
+      "title": "Are all models wrong? Falsifying binary formation models in gravitational-wave astronomy",
+      "authors": [
+        "Lachlan Passenger",
+        "Eric Thrane",
+        "Paul D. Lasky",
+        "Ethan Payne",
+        "Simon Stevenson",
+        "Ben Farr"
+      ],
+      "abstract": "As the catalogue of gravitational-wave transients grows, several entries appear \"exceptional\" within the population. Tipping the scales with a total mass of $\\approx 150 M_\\odot$, GW190521 likely contained black holes in the pair-instability mass gap. The event GW190814, meanwhile, is unusual for its extreme mass ratio and the mass of its secondary component. A growing model-building industry has emerged to provide explanations for such exceptional events, and Bayesian model selection is frequently used to determine the most informative model. However, Bayesian methods can only take us so far. They provide no answer to the question: does our model provide an adequate explanation for the data? If none of the models we are testing provide an adequate explanation, then it is not enough to simply rank our existing models - we need new ones. In this paper, we introduce a method to answer this question with a frequentist $p$-value. We apply the method to different models that have been suggested to explain GW190521: hierarchical mergers in active galactic nuclei and globular clusters. We show that some (but not all) of these models provide adequate explanations for exceptionally massive events like GW190521.",
+      "categories": [
+        "astro-ph.HE",
+        "gr-qc"
+      ],
+      "published": "2024-05-16T00:31:31+00:00",
+      "updated": "2026-05-08T00:24:53+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2405.09739v2",
+      "html_url": "https://arxiv.org/html/2405.09739v2",
+      "entry_url": "http://arxiv.org/abs/2405.09739v2"
+    }
+  ],
+  "total": 1
+}

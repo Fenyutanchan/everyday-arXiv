@@ -1,0 +1,44 @@
+{
+  "date": "2025-11-21",
+  "papers": [
+    {
+      "arxiv_id": "2511.16865v2",
+      "base_id": "2511.16865",
+      "title": "Quantum Optical Simulator for Unruh-DeWitt Detector Dynamics",
+      "authors": [
+        "Tai Hyun Yoon"
+      ],
+      "abstract": "We present a quantum-optical platform for simulating relativistic detector-field interactions using entangled nonlinear biphoton sources (ENBSs), realized through phase-controlled single-photon frequency-comb (SPFC) sources. By mapping the dynamical evolution of this system onto the Unruh-DeWitt (UDW) detector model, we show that signal-mode excitations emulate detector transitions driven by vacuum fluctuations, while coherently seeded idler modes act as an effective quantum field. This correspondence enables tabletop exploration of Unruh-like excitation, coherence harvesting, and field-induced entanglement. We derive the effective interaction Hamiltonian and Lindblad master equation for two coherently seeded ENBS units and obtain analytical solutions for the signal photon number \\(N_{\\rm sig}(t)\\) and second-order correlation function \\(g^{(2)}(0;t)\\). Numerical simulations confirm that phase-dependent biphoton dynamics reproduce UDW-type behavior, including tunable excitation and quantum correlations. The output signal state exhibits controllable fidelity, interference visibility, and entanglement entropy as functions of the seeding phase and amplitude. These results establish ENBSs as experimentally accessible quantum simulators of relativistic field phenomena, providing a photonic testbed for analog gravitational effects, vacuum fluctuations, and spacetime-induced coherence-all within reach of current nonlinear-optics technology.",
+      "categories": [
+        "quant-ph",
+        "gr-qc"
+      ],
+      "published": "2025-11-21T00:21:36+00:00",
+      "updated": "2026-04-20T03:28:22+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.16865v2",
+      "html_url": "https://arxiv.org/html/2511.16865v2",
+      "entry_url": "http://arxiv.org/abs/2511.16865v2"
+    },
+    {
+      "arxiv_id": "2511.16971v2",
+      "base_id": "2511.16971",
+      "title": "Probing Dark Matter Substructure with Image Number Anomaly in Strong Lensing Systems",
+      "authors": [
+        "Wenlin Hou",
+        "Jianxiang Liu",
+        "Kai Liao"
+      ],
+      "abstract": "Gravitational lensing observables, including anomalies in image positions, flux ratios, and time delays, serve as usual probes of dark matter (DM) substructure. When dark matter substructure possesses sufficient perturbations, it may lead to the formation of extra images in otherwise canonical doubly or quadruply imaged systems. With the advent of increasingly precise observational instruments, previously undetectable images may become measurable and image number anomalies therefore could be an increasingly viable method. In this paper, we utilize the gravitational lensing phenomenon of image number anomaly to derive constraints on dark matter substructure. We present the extra images induced by distinct forms of DM substructure, specifically primordial black holes (PBHs) and fuzzy dark matter (FDM) and show that higher angular resolution observations increase the probability of detecting additional lensed images. Based on a null detection of image number anomalies in a sample of 3500 lens systems generated from the \\textit{Strong Lensing Halo model-based mock catalogs} (SL-Hammocks), we derive upper limits on the abundance of PBHs. At the 95\\% confidence level, the PBH abundance is constrained to $\\lesssim 0.125\\%$, $0.08\\%$, and $0.04\\%$ for PBH masses in the range $\\sim 10^{7}$--$10^{9}~M_{\\odot}$, corresponding to angular resolutions of $0.1''$, $0.05''$, and $0.01''$, respectively. Similarly, we exclude particle masses below $0.4$, $0.6$, and $3.5 \\times 10^{-22} \\ \\mathrm{eV}$ for FDM at the same confidence level for the respective resolutions. Furthermore, the abundance of PBHs $\\lesssim 0.9\\%$ could be constrained at an angular resolution of $0.5''$ for the Legacy Survey of Space and Time (LSST) Observations. Finally, we discuss methodologies for identifying image number anomalies in special cases and demonstrate feasibility using a fitting procedure.",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.GA"
+      ],
+      "published": "2025-11-21T05:54:26+00:00",
+      "updated": "2026-05-12T02:10:04+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.16971v2",
+      "html_url": "https://arxiv.org/html/2511.16971v2",
+      "entry_url": "http://arxiv.org/abs/2511.16971v2"
+    }
+  ],
+  "total": 2
+}

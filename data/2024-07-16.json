@@ -1,0 +1,26 @@
+{
+  "date": "2024-07-16",
+  "papers": [
+    {
+      "arxiv_id": "2407.11446v4",
+      "base_id": "2407.11446",
+      "title": "Feynman Diagrams for Matter Wave Interferometry",
+      "authors": [
+        "Jonah Glick",
+        "Tim Kovachy"
+      ],
+      "abstract": "We introduce a new theoretical framework based on Feynman diagrams to compute phase shifts in matter wave interferometry. The method allows for analytic computation of higher order quantum corrections, beyond the traditional semi-classical approximation. These additional terms depend on the finite size of the initial matter wavefunction and/or have higher order dependence on $\\hbar$. We apply the method to compute the response of matter wave interferometers to power law potentials and potentials with an arbitrary spatial dependence. The analytic expressions are validated by comparing to numerical simulations, and estimates are provided for the scale of the quantum corrections to the phase shift response to the gravitational field of the earth, anharmonic trapping potentials, and gravitational fields from local proof masses. We find that for certain experimentally feasible parameters, these corrections are large enough to be measured, and could lead to systematic errors if not accounted for. We anticipate these corrections will be especially important for trapped matter wave interferometers and for free-space matter wave interferometers in the presence of proof masses. These interferometers are becoming increasingly sensitive tools for mobile inertial sensing, gravity surveying, tests of gravity and its interplay with quantum mechanics, and searches for dark energy.",
+      "categories": [
+        "physics.atom-ph",
+        "gr-qc",
+        "quant-ph"
+      ],
+      "published": "2024-07-16T07:26:19+00:00",
+      "updated": "2026-05-12T21:40:41+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2407.11446v4",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2407.11446v4"
+    }
+  ],
+  "total": 1
+}

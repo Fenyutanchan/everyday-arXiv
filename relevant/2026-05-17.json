@@ -1,0 +1,116 @@
+{
+  "date": "2026-05-17",
+  "total": 4,
+  "papers": [
+    {
+      "arxiv_id": "2506.18334v3",
+      "base_id": "2506.18334",
+      "title": "False Vacuum Decay across the Quantum-to-Thermal Crossover: A Comparison of Real-Time Observables",
+      "authors": [
+        "Haiyang Wang",
+        "Renhui Qin",
+        "Ligong Bian"
+      ],
+      "abstract": "We develop a real-time Wigner-functional lattice framework with positive Hartree-Gaussian initial sampling and introduce a connected-cluster survival criterion for extracting false-vacuum decay rates across the crossover from quantum fluctuations to thermal nucleation. At high temperatures, the connected-cluster rate agrees well with the Hartree-resummed thermal nucleation benchmark, while the commonly used global-survival criterion can give substantially smaller rates because of multi-seed dynamics and global averaging. At low temperatures, the connected-cluster and global-survival rates approach each other in the dilute-event regime, whereas the false-vacuum fraction observable can be contaminated by transient spatial conversion and kink-antikink reflection. Our results clarify how different real-time observables encode distinct aspects of metastable decay.",
+      "categories": [
+        "hep-th",
+        "astro-ph.CO",
+        "hep-lat",
+        "hep-ph",
+        "quant-ph"
+      ],
+      "published": "2025-06-23T06:29:45+00:00",
+      "updated": "2026-05-17T10:03:05+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.18334v3",
+      "html_url": "https://arxiv.org/html/2506.18334v3",
+      "entry_url": "http://arxiv.org/abs/2506.18334v3",
+      "relevance": {
+        "relevant": true,
+        "score": 7,
+        "reason": "This paper on false vacuum decay in first-order phase transitions is directly relevant to the user's early-universe cosmology interests, particularly pre-thermalization gravitational waves and stochastic gravitational-wave backgrounds from cosmological phase transitions, and also connects to their PBH research since the paper explicitly mentions first-order transitions seeding primordial black holes.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.17589v1",
+      "base_id": "2605.17589",
+      "title": "Impact of the axion-like self-interactions in gravitational atoms for LISA",
+      "authors": [
+        "Samuel Gómez Gómez",
+        "Xisco Jimenez Forteza",
+        "Carlos Palenzuela Luque"
+      ],
+      "abstract": "Ultralight bosons with self-interactions, such as axion-like particles, can form astrophysical Bose-Einstein condensates around stars or compact objects, often referred to as gravitational atoms. In this work, we adopt a recently proposed dynamical formation mechanism for these halos and estimate their impact on extreme- and intermediate-mass-ratio inspirals when present around the primary black hole. We show that, for signal-to-noise ratios $\\lesssim 100$, LISA can distinguish gravitational waveforms from binaries embedded in such halo overdensities. Our analysis indicates that LISA can probe boson masses $m_\\mathrm{dm}\\sim10^{-17}$-$10^{-15}\\,\\mathrm{eV}$ and decay constants $f_a\\sim10^{10}$-$3.2 \\times 10^{12}\\,\\mathrm{GeV}$ using binaries with total masses $M\\sim10^4$-$10^5\\,M_\\odot$, assuming conservative DM densities consistent with the central values of Navarro-Frenk-White profiles. Allowing for higher background densities and different extreme-mass-ratio configurations further extends the accessible parameter space. Moreover, we find that for a binary configuration with $M\\sim10^4\\,M_\\odot$, $ρ_\\mathrm{dm} = 10^3\\,\\mathrm{GeV/cm^3}$, and signal-to-noise ratio $\\mathrm{SNR}\\sim20$, a particle mass of $m_\\mathrm{dm}\\sim2.5\\times10^{-16}\\,\\mathrm{eV}$ and decay constant $f_a\\sim6.3\\times10^{10}\\,\\mathrm{GeV}$ maximize the dephasing due to dynamical friction, enabling the recovery of the particle parameters at the percent level. These results demonstrate that LISA can place constraints on axion-like particle masses and self-interactions without requiring additional couplings to Standard Model fields.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE",
+        "hep-ph"
+      ],
+      "published": "2026-05-17T18:33:22+00:00",
+      "updated": "2026-05-17T18:33:22+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.17589v1",
+      "html_url": "https://arxiv.org/html/2605.17589v1",
+      "entry_url": "http://arxiv.org/abs/2605.17589v1",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "The paper involves axion-like particle physics and dark matter detection strategies which overlap with the researcher's interest in axion physics, but focuses on gravitational-wave phenomenology from black hole binaries rather than the researcher's core interests in Primakoff solar axion flux, electromagnetic axion detection, or early-universe stochastic gravitational-wave backgrounds.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.17417v1",
+      "base_id": "2605.17417",
+      "title": "Collective response and noise of a levitated ferromagnet lattice for ultralight dark matter detection",
+      "authors": [
+        "Dongyi Yang",
+        "Xiao Yang",
+        "Chenxi Sun",
+        "Jianwei Zhang"
+      ],
+      "abstract": "Ultralight dark matter can induce weak oscillating magnetic-like signals and can therefore be searched for with precision magnetometry. Levitated ferromagnets provide a sensitive platform for such searches, but a single ferromagnet is limited in total polarized spin and readout performance. We investigate a levitated ferromagnet lattice as a scalable detector for ultralight dark matter. We develop a theoretical description of the collective lattice response in the fully trapped regime, incorporating dipole-dipole interactions, finite-size effects, and boundary-induced mode mixing. We further analyze the collective noise budget and show that interaction effects mainly produce a narrow blind zone through thermal-noise amplification, while away from this region, the lattice preserves favorable collective noise scaling. We then derive projected sensitivities to axion-electron, dark-photon, and axion-photon couplings. We find that the lattice improves the reach in all three channels relative to a single-ferromagnet detector, with an additional coherent signal enhancement in the axion-photon channel from the lattice-generated electromagnetic background.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-05-17T12:25:18+00:00",
+      "updated": "2026-05-17T12:25:18+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.17417v1",
+      "html_url": "https://arxiv.org/html/2605.17417v1",
+      "entry_url": "http://arxiv.org/abs/2605.17417v1",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "The paper is tangentially related through its discussion of axion-electron, axion-photon, and dark-photon coupling sensitivity projections, which connects to the researcher's interest in axion detection strategies and dark matter physics, but it is primarily an experimental detector design paper focused on levitated ferromagnet lattice instrumentation and condensed-matter-style many-body dynamics rather than theoretical particle physics or cosmology.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2307.01899v2",
+      "base_id": "2307.01899",
+      "title": "Improving Slow-Roll Estimates in Starobinsky Inflation Using Analytic Hubble Parameter",
+      "authors": [
+        "Jose Mathew"
+      ],
+      "abstract": "Potential slow-roll parameters are widely used in inflationary cosmology to estimate the scalar and tensor perturbation amplitudes and the scalar spectral index, although the inflationary observables are fundamentally expressed in terms of the Hubble slow-roll parameters. In this work, we revisit this approximation in the context of Starobinsky inflation in the Einstein frame. Instead of approximating the Hubble slow-roll parameters through the potential, we derive them from an analytic approximate expression for the Hubble parameter obtained in the Jordan frame and mapped to the Einstein frame. We then compare the resulting analytic predictions with numerical solutions of the background equations. We show that this procedure yields a more accurate, over the relevant interval, description of the evolution of the Hubble slow-roll parameters than the conventional potential slow-roll approximation. Consequently, for the observationally relevant value $n_s = 0.9649$, the inferred number of e-foldings decreases by more than one relative to the standard estimate, with corresponding shifts in the predicted inflationary observables. Our analysis demonstrates that the usual potential slow-roll approximation can lead to systematic deviations in precision studies of inflation, and highlights the need for more reliable estimates of the Hubble slow-roll parameters in comparisons between theoretical models and observational data.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO"
+      ],
+      "published": "2023-07-04T19:45:14+00:00",
+      "updated": "2026-05-17T19:11:48+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2307.01899v2",
+      "html_url": "https://arxiv.org/html/2307.01899v2",
+      "entry_url": "http://arxiv.org/abs/2307.01899v2",
+      "relevance": {
+        "relevant": true,
+        "score": 3,
+        "reason": "While the paper falls within early-universe cosmology (inflation), it focuses on precision slow-roll parameter estimates in Starobinsky inflation rather than the researcher's specific interests in reheating dynamics, pre-thermalization gravitational waves, or stochastic gravitational-wave backgrounds.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    }
+  ]
+}

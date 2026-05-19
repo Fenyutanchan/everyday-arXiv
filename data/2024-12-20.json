@@ -1,0 +1,46 @@
+{
+  "date": "2024-12-20",
+  "papers": [
+    {
+      "arxiv_id": "2412.15996v2",
+      "base_id": "2412.15996",
+      "title": "Ti and Spi, Carrollian extended boundaries at timelike and spatial infinity",
+      "authors": [
+        "Jack Borthwick",
+        "Maël Chantreau",
+        "Yannick Herfray"
+      ],
+      "abstract": "The goal of this paper is to provide a definition for a notion of extended boundary at time and space-like infinity which, following Figueroa-O'Farril--Have--Prohazka--Salzer, we refer to as Ti and Spi. This definition applies to asymptotically flat spacetime in the sense of Ashtekar--Romano and we wish to demonstrate, by example, its pertinence in a number of situations. The definition is invariant, is constructed solely from the asymptotic data of the metric and is such that automorphisms of the extended boundaries are canonically identified with asymptotic symmetries. Furthermore, scattering data for massive fields are realised as functions on Ti and a geometric identification of cuts of Ti with points of Minkowksi then produces an integral formula of Kirchhoff type. Finally, Ti and Spi are both naturally equipped with (strong) Carrollian geometries which, under mild assumptions, enable to reduce the symmetry group down to the BMS group, or to Poincaré in the flat case. In particular, Strominger's matching conditions are naturally realised by restricting to Carrollian geometries compatible with a discrete symmetry of Spi.",
+      "categories": [
+        "gr-qc",
+        "hep-th",
+        "math-ph"
+      ],
+      "published": "2024-12-20T15:45:24+00:00",
+      "updated": "2026-04-22T12:01:51+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2412.15996v2",
+      "html_url": "https://arxiv.org/html/2412.15996v2",
+      "entry_url": "http://arxiv.org/abs/2412.15996v2"
+    },
+    {
+      "arxiv_id": "2412.15962v3",
+      "base_id": "2412.15962",
+      "title": "Feynman Integral Reduction without Integration-By-Parts",
+      "authors": [
+        "Ziwen Wang",
+        "Li Lin Yang"
+      ],
+      "abstract": "We present an interesting study of Feynman integral reduction that does not employ integration-by-parts identities. Our approach proceeds by studying the equivalence relations of integral contours in the Feynman parameterization. We find that the integration contour can take a more general form than that given by the Cheng-Wu theorem. We apply this idea to one-loop integrals, and derive universal reduction formulas that can be used to efficiently reduce any one-loop integral. We expect that this approach can be useful in the reduction of multi-loop integrals as well.",
+      "categories": [
+        "hep-th",
+        "hep-ph"
+      ],
+      "published": "2024-12-20T14:57:51+00:00",
+      "updated": "2026-04-29T11:38:13+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2412.15962v3",
+      "html_url": "https://arxiv.org/html/2412.15962v3",
+      "entry_url": "http://arxiv.org/abs/2412.15962v3"
+    }
+  ],
+  "total": 2
+}

@@ -1,0 +1,47 @@
+{
+  "date": "2025-11-08",
+  "papers": [
+    {
+      "arxiv_id": "2511.06133v2",
+      "base_id": "2511.06133",
+      "title": "Black holes and black regions, horizons and barriers in Lorentzian manifolds",
+      "authors": [
+        "Cristina Giannotti",
+        "Andrea Spiro"
+      ],
+      "abstract": "We prove that if S is a time-oriented null hypersurface of a Lorentzian n-manifold (M, g), the causal world-lines, which intersect transversally S and are time-oriented in a compatible way, cross the hypersurface all in the same direction, the other being forbidden. Even if it is known that a smooth event horizon (in the sense of Penrose, Hawking and Ellis) is a null hypersurface and has the above semi-permeability property, at the best of our knowledge, in the literature it was not stated so far that the latter is a mere consequence of the former. Our result leads to the concepts of barriers (= null hypersurfaces separating the space-time into disjoint regions) and black regions (= time-oriented regions bounded by barriers). These objects naturally include (smooth) event horizons and (smoothly bounded) black holes. Since barriers are defined by two simple properties -- the merely local property of \"nullity\" combined with the global property of \"separating the space-time\" -- we expect they may be used to simplify computations for locating static and/or dynamic horizons in numerical computations.",
+      "categories": [
+        "gr-qc",
+        "math-ph",
+        "math.DG"
+      ],
+      "published": "2025-11-08T20:51:05+00:00",
+      "updated": "2026-04-23T11:02:46+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.06133v2",
+      "html_url": "https://arxiv.org/html/2511.06133v2",
+      "entry_url": "http://arxiv.org/abs/2511.06133v2"
+    },
+    {
+      "arxiv_id": "2511.05786v5",
+      "base_id": "2511.05786",
+      "title": "Dual holography as functional renormalization group",
+      "authors": [
+        "Ki-Seok Kim",
+        "Arpita Mitra",
+        "Debangshu Mukherjee",
+        "Seung-Jong Yoo"
+      ],
+      "abstract": "We investigate the relationship between the functional renormalization group (RG) and the dual holography framework in the path integral formulation, highlighting how each can be understood as a manifestation of the other. Rather than employing the conventional functional RG formalism, we consider a functional RG equation for the probability distribution function, where the RG flow is governed by a Fokker-Planck-type equation. The central idea is to reformulate the solution of Fokker-Planck type functional RG equation in a path integral representation. Within the semiclassical approximation, this leads to a Hamilton-Jacobi equation for an effective renormalized on-shell action. We then examine our framework for an Einstein-Hilbert action coupled to a scalar field. Applying standard techniques, we derive a corresponding functional RG equation for the distribution function, where the dual holographic path integral serves as its formal solution. By synthesizing these two perspectives, we propose a generalized dual holography framework in which the RG flow is explicitly incorporated into the bulk effective action. This generalization naturally introduces RG $β$-functions and reveals that the RG flow of the distribution function is essentially identical to that of the functional RG equation.",
+      "categories": [
+        "hep-th",
+        "cond-mat.str-el"
+      ],
+      "published": "2025-11-08T01:31:30+00:00",
+      "updated": "2026-04-26T00:51:39+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.05786v5",
+      "html_url": "https://arxiv.org/html/2511.05786v5",
+      "entry_url": "http://arxiv.org/abs/2511.05786v5"
+    }
+  ],
+  "total": 2
+}

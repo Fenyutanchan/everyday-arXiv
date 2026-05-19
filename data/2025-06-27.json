@@ -1,0 +1,46 @@
+{
+  "date": "2025-06-27",
+  "papers": [
+    {
+      "arxiv_id": "2506.22363v2",
+      "base_id": "2506.22363",
+      "title": "Binary black holes in the heat of merger",
+      "authors": [
+        "Samanwaya Mukherjee",
+        "Sayak Datta",
+        "Sukanta Bose",
+        "Khun Sang Phukon"
+      ],
+      "abstract": "A black hole binary approaching merger undergoes changes in its inspiral rate as energy and angular momentum are lost from the orbits into the horizons. This effect strengthens as the black holes come closer. We use numerical relativity data to model this so-called tidal heating in the strong gravity regime. We present a frequency-domain approximant for nonspinning black hole binaries that accounts for tidal heating effects up to the merger frequency. The approximant includes horizon parameters that characterize the nature of the compact objects. By applying this model to a binary black hole baseline that incorporates tidal heating, one can construct a more accurate point-particle waveform, one that is devoid of finite-size effects of the component objects. We also discuss its ramifications in modeling binary neutron star systems.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-06-27T16:25:24+00:00",
+      "updated": "2026-05-10T17:37:43+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.22363v2",
+      "html_url": "https://arxiv.org/html/2506.22363v2",
+      "entry_url": "http://arxiv.org/abs/2506.22363v2"
+    },
+    {
+      "arxiv_id": "2506.22616v2",
+      "base_id": "2506.22616",
+      "title": "A novel phenomenological approach to total charm cross-section measurements at the LHC",
+      "authors": [
+        "Yewon Yang",
+        "Achim Geiser",
+        "Sven-Olaf Moch",
+        "Oleksandr Zenaiev"
+      ],
+      "abstract": "We propose a novel, data-driven method for determining total charm cross sections in proton-proton collisions by extrapolating measured fiducial cross sections without assuming any particular fragmentation model. The recently observed charm fragmentation non-universality at the LHC experimentally establishes strongly increased baryon production fractions and correspondingly decreased meson production fractions compared to electron-positron collisions, with a very significant $p_T$ dependence. The novel method accounts for this non-universality and its $p_T$-dependence through a data-driven extrapolation function called ddFONLL. Applied to $D^0$ production at 5 and 13 TeV, this approach yields total charm cross sections that fully incorporate the fragmentation non-universality and increase significantly compared to the previous measurements still based on fragmentation universality. The results are consistent with NNLO QCD predictions and enable direct comparisons free from fragmentation assumptions. We use this to evaluate the sensitivity of total cross-section measurements to parton distribution functions and the charm-quark mass. An outlook is given on the potential of further expanding the use of the ddFONLL method.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-06-27T20:26:38+00:00",
+      "updated": "2026-05-14T16:18:02+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.22616v2",
+      "html_url": "https://arxiv.org/html/2506.22616v2",
+      "entry_url": "http://arxiv.org/abs/2506.22616v2"
+    }
+  ],
+  "total": 2
+}

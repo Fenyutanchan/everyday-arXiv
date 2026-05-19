@@ -1,0 +1,29 @@
+{
+  "date": "2025-01-31",
+  "papers": [
+    {
+      "arxiv_id": "2501.19269v2",
+      "base_id": "2501.19269",
+      "title": "Information Metrics and Possible Limitations of Local Information Objectivity in Quantum Gravity",
+      "authors": [
+        "Per Berglund",
+        "Andrew Geraci",
+        "Tristan Hubsch",
+        "David Mattingly",
+        "Djordje Minic"
+      ],
+      "abstract": "Local information objectivity, that local, independent observers can infer the same information about a model upon exchange of independently acquired experimental data, is fundamental to science. It is mathematically encoded via Cencov's theorem: the Fisher information metric is the unique metric invariant under the assumptions of independent, identically distributed sampling and sufficient statistics. However, quantum gravity typically violates these assumptions, permitting contextual deviations from the Fisher metric that reflect the dynamical experimental and environmental configurations. This yields a possible extension of spacetime general covariance to information geometry. Since compatibility with the metric on probability spaces heavily restricts the form of the Born rule for quantum mechanics, deviations from the Fisher metric also can induce modifications of the Born rule, leading it to vary between observers. We explain some possible variations, advocate for experimental tests, and suggest a new quantum gravity approach based on generally covariant information geometry.",
+      "categories": [
+        "gr-qc",
+        "hep-th",
+        "quant-ph"
+      ],
+      "published": "2025-01-31T16:29:16+00:00",
+      "updated": "2026-05-15T19:54:00+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2501.19269v2",
+      "html_url": "https://arxiv.org/html/2501.19269v2",
+      "entry_url": "http://arxiv.org/abs/2501.19269v2"
+    }
+  ],
+  "total": 1
+}

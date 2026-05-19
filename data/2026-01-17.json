@@ -1,0 +1,24 @@
+{
+  "date": "2026-01-17",
+  "papers": [
+    {
+      "arxiv_id": "2601.11842v2",
+      "base_id": "2601.11842",
+      "title": "Template-free search for gravitational wave events using coincident anomaly detection",
+      "authors": [
+        "Daniel Ratner"
+      ],
+      "abstract": "Gravitational-wave (GW) observatories have used template-based search to detect hundreds of compact binary coalescences (CBCs). However, template-based search cannot detect astrophysical sources that lack accurate waveform models, including core-collapse supernovae, neutron star glitches, and cosmic strings. Here, we present a novel approach for template-free search using coincident anomaly detection (CoAD). CoAD requires neither labeled training examples nor background-only training sets, instead exploiting the coincidence of events across spatially separated detectors as the training loss itself: two neural networks independently analyze data from each detector and are trained to maximize coincident predictions. Additionally, we show that integrated gradient analysis can localize GW signals from the neural-network weights, providing a path toward data-driven template construction of unmodeled sources, and further improving precision by frequency matching. Using the CodaBench dataset of real LIGO backgrounds with injected simulated CBCs and sine-Gaussian low-frequency bursts, CoAD achieves recall up to 0.91 and 0.85 respectively at a false-alarm rate of one event per year, and achieves recall above 0.5 at signal-to-noise ratios below 10. The fully-unsupervised nature of CoAD makes it especially well-suited for next-generation detectors with greater sensitivity and associated increases in GW event rates.",
+      "categories": [
+        "astro-ph.IM",
+        "gr-qc"
+      ],
+      "published": "2026-01-17T00:19:09+00:00",
+      "updated": "2026-04-29T23:18:44+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.11842v2",
+      "html_url": "https://arxiv.org/html/2601.11842v2",
+      "entry_url": "http://arxiv.org/abs/2601.11842v2"
+    }
+  ],
+  "total": 1
+}

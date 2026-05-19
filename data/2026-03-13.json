@@ -1,0 +1,45 @@
+{
+  "date": "2026-03-13",
+  "papers": [
+    {
+      "arxiv_id": "2603.13053v2",
+      "base_id": "2603.13053",
+      "title": "A unified harmonic framework for dark siren cosmology",
+      "authors": [
+        "April Qiu Cheng",
+        "Jonathan Gair"
+      ],
+      "abstract": "The galaxy catalog dark siren method aims to infer cosmological parameters from gravitational waves (GWs) without an electromagnetic counterpart by statistically marginalizing over possible host galaxies. The cross-correlation of GW sources and galaxies is a promising avenue for cosmological inference without requiring observed host galaxies, by leveraging 2-point statistics. We provide a detailed guide to the cross-correlation method, clarifying its relationship to standard dark siren techniques as well as the assumptions necessary to be able to use this formalism on GW data. We show that the cross-correlation method is an extension of the angular part of the galaxy catalog method in which we effectively marginalize over all possible realizations of the unknown galaxy field, jointly adding information from galaxy--galaxy clustering. Combined with the spectral sirens method, which encodes information from the GW rate evolution, mass distribution, and selection effects, one can perform an inference that leverages the joint constraining power of all dark siren methods. We also present a strategy to rigorously fold GW measurement errors into the likelihood. Using this method, we show that with a 2 Einstein Telescope + 1 Cosmic Explorer setup, the GW--galaxy cross-correlation part alone can jointly measure $H_0$ and $Ω_{m,0}$ to 1% and 5% precision with just 2 years of data, demonstrating its potential as a precise and scalable inference technique in the next generation of GW and galaxy surveys. This is in contrast with canonical population inference techniques, which are known to scale poorly with the precision and catalog size expected of next-generation GW experiments. Contrary to some previous projections, we remain pessimistic about the cross-correlation method until these next generation detectors are online, due to its implicit requirement of large-number statistics.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "published": "2026-03-13T15:03:05+00:00",
+      "updated": "2026-04-16T17:34:24+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.13053v2",
+      "html_url": "https://arxiv.org/html/2603.13053v2",
+      "entry_url": "http://arxiv.org/abs/2603.13053v2"
+    },
+    {
+      "arxiv_id": "2603.12670v2",
+      "base_id": "2603.12670",
+      "title": "Shaving off soft hairs and the black hole image memory effect",
+      "authors": [
+        "Shaoqi Hou",
+        "Zong-Hong Zhu"
+      ],
+      "abstract": "Soft hairs of black holes are the Noether charges associated with the generalized Bondi-Metzner-Sachs symmetries. In this work, the images of soft-haired Kerr black holes are studied. For an eternal black hole, the image is rotated, dilated, and drifting compared to that of the bald counterpart in the celestial plane. The rotation and the dilation are independent of time, while the drifting occurs at a constant speed and in a fixed direction. These effects all depend on angular directions. The soft hair of an astronomical black hole can change due to the emission of gravitational or electromagnetic waves from various physical processes occurring in the vicinity of the horizon. Then, the image roams in the observer's view, causing the image memory effect, the smoking gun for the existence of soft hair. The magnitude of the image memory effect of a huge, spinning black hole accompanied by a much smaller one is estimated. It turns out that this effect is proportional to the mass of the large black hole, increases with its spin, but decreases with the mass ratio. Due to the limited angular resolution of current and future detectors, this effect is hard to detect if the impact of cosmological expansion is ignored.",
+      "categories": [
+        "gr-qc",
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2026-03-13T05:31:16+00:00",
+      "updated": "2026-05-09T00:18:52+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.12670v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2603.12670v2"
+    }
+  ],
+  "total": 2
+}

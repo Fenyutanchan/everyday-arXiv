@@ -1,0 +1,112 @@
+{
+  "date": "2025-07-02",
+  "papers": [
+    {
+      "arxiv_id": "2507.01858v4",
+      "base_id": "2507.01858",
+      "title": "Infinite Dimensional Topological-Holomorphic Symmetry in Three-Dimensions",
+      "authors": [
+        "Hank Chen",
+        "Joaquin Liniado"
+      ],
+      "abstract": "We introduce a three-dimensional quantum field theory with an infinite-dimensional symmetry, realized explicitly through a centrally extended affine graded Lie algebra. This symmetry is a direct three-dimensional generalization of the chiral symmetry in the Wess-Zumino-Witten model. Upon performing radial quantization, we construct the Fock space of the theory and, via a three-dimensional analogue of the state-operator correspondence, we demonstrate that the algebra of local operators is endowed with the structure of a raviolo vertex algebra. Accordingly, this setup provides a framework for extending the methods of two-dimensional conformal field theory to three dimensions, and we expect it to lay the groundwork for exact methods in three-dimensional quantum field theory.",
+      "categories": [
+        "hep-th",
+        "math-ph"
+      ],
+      "published": "2025-07-02T16:17:39+00:00",
+      "updated": "2026-04-30T19:26:31+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2507.01858v4",
+      "html_url": "https://arxiv.org/html/2507.01858v4",
+      "entry_url": "http://arxiv.org/abs/2507.01858v4"
+    },
+    {
+      "arxiv_id": "2507.02037v3",
+      "base_id": "2507.02037",
+      "title": "An M-theory dS maximum from Casimir energies on Riemann-flat manifolds",
+      "authors": [
+        "Bruno Valeixo Bento",
+        "Miguel Montero"
+      ],
+      "abstract": "We initiate the study of flux compactifications on non-supersymmetric Riemann-flat manifolds (RFM's) with Casimir energy. While curvature and other corrections are suppressed in RFM's, the inclusion of Casimir energies allows one to evade standard dS no-go theorems, and the absence of orientifolds or other singular sources means that the construction is completely captured by ten or eleven-dimensional supergravity. We obtain a fully explicit formula for the Casimir stress-energy in a general RFM, including its ten or eleven-dimensional profile. The Casimir energy localizes in particular loci of the RFM, which we call ``Casimir branes''. The tension of Casimir branes sometimes cancels exactly, due to a spacetime analog of worldsheet Atkin-Lehner symmetry. We use Casimir energies to construct an explicit $dS_5$ maximum solution of a flux compactification of M-theory on a specific 6-dimensional RFM. The resulting solution is scale-separated, has a vacuum energy of $10^{-8}$ in five-dimensional Planck units, the Hubble radius is $10^4$ Planck lengths, and the light fields have masses of order $H$. This is a fully explicit, top-down de Sitter maximum in M-theory, with precisely computable vacuum energy. While the solution is not parametric, it is under very good control: higher derivative and loop corrections to the vacuum energy are suppressed in powers of a small parameter $δV/V\\sim 10^{-5}$, and M2 and M5-brane instantons are negligible. In short, the solution survives all known corrections. Nevertheless, it might be sensitive to more exotic ones, such as e.g. loops of 11d Planckian virtual black holes if there were a large enough number of them. We also extend the Ewald numerical method for lattice sums to arbitrary dimensions and develop an efficient numerical implementation.}",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2025-07-02T18:00:00+00:00",
+      "updated": "2026-05-05T11:02:42+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2507.02037v3",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2507.02037v3"
+    },
+    {
+      "arxiv_id": "2507.01675v3",
+      "base_id": "2507.01675",
+      "title": "Extending the sensitivity of heavy sterile neutrino searches with solar neutrino experiments",
+      "authors": [
+        "Yutao Zhu",
+        "Haoyang Fu",
+        "Wentai Luo",
+        "Shaomin Chen",
+        "Litao Yang",
+        "Zhicai Zhang"
+      ],
+      "abstract": "A sensitivity study of the search for heavy sterile neutrinos ($ν_H$) in the MeV mass range using solar neutrino experiments is presented. $ν_H$, with masses ranging from a few MeV up to around 15 MeV, can be produced in the Sun through $^8$B decay and subsequently decay into $ν_e e^+ e^-$. Its flux and lifetime strongly depend on the mixing parameter $|U_{eH}|^2$ and mass $m_{ν_H}$. The $ν_H$ signal can be detected via its decay products, either the $e^+e^-$ pair or $ν_e$, depending on whether $ν_H$ decays inside or outside the detector. Expected signal yields for both detection methods (detecting $e^+e^-$ or $ν_e$ signal) are presented across the full $|U_{eH}|^2$ and $m_{ν_H}$ parameter space. These two methods are found to be complementary in different regions of the $|U_{eH}|^2$ and $m_{ν_H}$ phase space. By combining both approaches, we anticipate observing at least a handful of signal events across most of the parameter space of $10^{-6} < |U_{eH}|^2 < 1$ and 2 MeV $< m_{ν_H} < $ 14 MeV, assuming a 500-ton solar neutrino experiment operating for one year. Key variables, such as the energy spectra and opening angle of $ν_e$ or $e^+e^-$ and the solar angle of $ν_e$ and its scattered electron, are also discussed to help distinguish signal from major backgrounds, such as solar neutrino events.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2025-07-02T12:59:00+00:00",
+      "updated": "2026-05-04T13:45:19+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2507.01675v3",
+      "html_url": "https://arxiv.org/html/2507.01675v3",
+      "entry_url": "http://arxiv.org/abs/2507.01675v3"
+    },
+    {
+      "arxiv_id": "2507.01294v2",
+      "base_id": "2507.01294",
+      "title": "A Gaussian process framework for testing general relativity with gravitational waves",
+      "authors": [
+        "Lachlan Passenger",
+        "Shun Yin Cheung",
+        "Nir Guttman",
+        "Nikhil Kannachel",
+        "Paul D. Lasky",
+        "Eric Thrane"
+      ],
+      "abstract": "Gravitational-wave astronomy provides a promising avenue for the discovery of new physics beyond general relativity as it probes extreme curvature and ultra-relativistic dynamics. However, in the absence of a compelling alternative to general relativity, it is difficult to carry out an analysis that allows for a wide range of deviations. To that end, we introduce a Gaussian process framework to search for deviations from general relativity in gravitational-wave signals from binary black hole mergers with minimal assumptions. We employ a kernel that enforces our prior beliefs that - if gravitational waveforms deviate from the predictions of general relativity - the deviation is likely to be localised in time near the merger with some characteristic frequency. We demonstrate this formalism with simulated data and apply it to events from Gravitational-Wave Transient Catalog 3. We find no evidence for a deviation from general relativity. We limit the fractional deviation in gravitational-wave strain to as low as 7% (90% credibility) of the strain of GW190701_203306.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE"
+      ],
+      "published": "2025-07-02T02:17:15+00:00",
+      "updated": "2026-05-08T00:01:13+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2507.01294v2",
+      "html_url": "https://arxiv.org/html/2507.01294v2",
+      "entry_url": "http://arxiv.org/abs/2507.01294v2"
+    },
+    {
+      "arxiv_id": "2507.02032v2",
+      "base_id": "2507.02032",
+      "title": "Neural simulation-based inference of the Higgs trilinear self-coupling via off-shell Higgs production",
+      "authors": [
+        "Aishik Ghosh",
+        "Maximilian Griese",
+        "Ulrich Haisch",
+        "Tae Hyoun Park"
+      ],
+      "abstract": "One of the forthcoming major challenges in particle physics is the experimental determination of the Higgs trilinear self-coupling. While efforts have largely focused on on-shell double- and single-Higgs production in proton-proton collisions, off-shell Higgs production has also been proposed as a valuable complementary probe. In this article, we design a hybrid neural simulation-based inference (NSBI) approach to construct a likelihood of the Higgs signal incorporating modifications from the Standard Model effective field theory (SMEFT), relevant background processes, and quantum interference effects. It leverages the training efficiency of matrix-element-enhanced techniques, which are vital for robust SMEFT applications, while also incorporating the practical advantages of classification-based methods for effective background estimates. We demonstrate that our NSBI approach achieves sensitivity close to the theoretical optimum and provide expected constraints for the high-luminosity upgrade of the Large Hadron Collider. While we primarily concentrate on the Higgs trilinear self-coupling, we also consider constraints on other SMEFT operators that affect off-shell Higgs production.",
+      "categories": [
+        "hep-ph",
+        "hep-ex",
+        "physics.data-an",
+        "stat.ML"
+      ],
+      "published": "2025-07-02T18:00:00+00:00",
+      "updated": "2026-05-15T16:52:39+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2507.02032v2",
+      "html_url": "https://arxiv.org/html/2507.02032v2",
+      "entry_url": "http://arxiv.org/abs/2507.02032v2"
+    }
+  ],
+  "total": 5
+}

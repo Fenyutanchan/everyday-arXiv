@@ -1,0 +1,25 @@
+{
+  "date": "2026-01-11",
+  "papers": [
+    {
+      "arxiv_id": "2601.06864v2",
+      "base_id": "2601.06864",
+      "title": "Boundary-only weak deflection angles from isothermal optical geometry",
+      "authors": [
+        "Ali Övgün",
+        "Reggie C. Pantig"
+      ],
+      "abstract": "We develop a boundary only method for computing weak gravitational deflection angles at finite source and receiver distances within the Gauss-Bonnet theorem formulation of optical geometry. Exploiting the fact that the relevant equatorial optical manifold is two dimensional, we introduce isothermal (conformal) coordinates in which the optical metric is locally conformal to a flat reference metric and the Gaussian curvature reduces to a Laplacian of the conformal factor. Such an identity converts the curvature area term in the Gauss-Bonnet theorem into a pure boundary contribution via Green/Stokes-type relations, yielding a deflection formula that depends only on boundary data and controlled closure terms. The residual normalization freedom of the isothermal radius is isolated as an additive freedom in the conformal factor and is shown to leave physical observables invariant, eliminating the need for orbit dependent calibration prescriptions. We explicitly implement the boundary only formalism in weak deflection, where the leading bending reduces to elementary one-dimensional integrals evaluated on a flat reference ray in the conformal plane, with finite distance dependence entering solely through endpoint data. We validate the construction by reproducing finite distance weak deflection for Schwarzschild, deriving the leading finite distance charge correction for Reissner-Nordström, and applying the same boundary only framework to the Kottler (Schwarzschild-de Sitter) geometry as a representative non-asymptotically flat test case, recovering the standard finite distance expansion including the explicit $\\mathcal{O}(Λ)$ and mixed $\\mathcal{O}(ΛM)$ contributions to the total deflection angle.",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2026-01-11T11:17:16+00:00",
+      "updated": "2026-05-05T01:33:32+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.06864v2",
+      "html_url": "https://arxiv.org/html/2601.06864v2",
+      "entry_url": "http://arxiv.org/abs/2601.06864v2"
+    }
+  ],
+  "total": 1
+}

@@ -1,0 +1,66 @@
+{
+  "date": "2025-08-26",
+  "papers": [
+    {
+      "arxiv_id": "2508.18948v2",
+      "base_id": "2508.18948",
+      "title": "Gauge-covariant stochastic neural fields: Stability and finite-width effects",
+      "authors": [
+        "Rodrigo Carmo Terin"
+      ],
+      "abstract": "We develop a gauge-covariant stochastic effective field theory for stability and finite-width effects in deep neural systems. The model uses classical commuting fields: a complex matter field, a real Abelian connection field, and a fictitious stochastic depth variable. Using the Martin--Siggia--Rose--Janssen--de~Dominicis formalism, we derive its functional representation and a two-replica linear-response construction defining the maximal Lyapunov exponent and the amplification factor for the edge of chaos. Finite-width effects appear as perturbative corrections to dressed kernels, and the marginality condition remains unchanged at the order considered for fixed kernel geometry. Numerically, finite-width multilayer perceptrons follow the mean-field instability threshold, and a linear stochastic effective sector reproduces the predicted low-frequency spectral deformation.",
+      "categories": [
+        "hep-th",
+        "cond-mat.dis-nn",
+        "cs.LG",
+        "stat.ML"
+      ],
+      "published": "2025-08-26T11:41:11+00:00",
+      "updated": "2026-04-22T09:07:09+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.18948v2",
+      "html_url": "https://arxiv.org/html/2508.18948v2",
+      "entry_url": "http://arxiv.org/abs/2508.18948v2"
+    },
+    {
+      "arxiv_id": "2508.19106v3",
+      "base_id": "2508.19106",
+      "title": "Tracing Signatures of Modified Gravity in Redshift-Space Galaxy Bispectrum Multipoles: Prospects for Euclid",
+      "authors": [
+        "Sourav Pal",
+        "Debanjan Sarkar",
+        "Alejandro Aviles"
+      ],
+      "abstract": "We study the galaxy bispectrum multipoles in the Hu-Sawicki $f(R)$ gravity model, where a scalar degree of freedom mediates a fifth force that is screened in high-density environments. The model is specified by $f_{R0}$, the present-day background value of the scalar field, which controls the strength of deviations from General Relativity (GR). Using perturbation theory, we compute the redshift-space galaxy bispectrum with the full scale- and time-dependent second-order kernels, incorporating corrections from the scale-dependent growth rate and nonlinear screening. Expanding the bispectrum in spherical harmonics, we analyze the sensitivity of the multipoles to modified gravity and forecast their detectability in a \\textit{Euclid}-like survey. The monopole ($B_0^0$) and quadrupole ($B_2^0$) show the strongest signatures, with relative deviations of $2\\%$--$8\\%$ at $z=0.7$ and $k_1\\simeq0.3\\,h\\,{\\rm Mpc}^{-1}$ (largest side of the triangle) for $f_{R0}=10^{-5}$. Higher multipoles provide weaker but complementary signals. For \\textit{Euclid}, we forecast signal-to-noise ratios up to $\\sim30$ for the monopole and $\\sim15$ for the quadrupole including the Finger-of-God damping and shot noise effect. These results demonstrate that bispectrum multipoles are a powerful probe of gravity, capable of breaking degeneracies with bias and velocity effects and strengthening constraints on deviations from $Λ$CDM.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "published": "2025-08-26T15:10:00+00:00",
+      "updated": "2026-05-05T13:24:19+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.19106v3",
+      "html_url": "https://arxiv.org/html/2508.19106v3",
+      "entry_url": "http://arxiv.org/abs/2508.19106v3"
+    },
+    {
+      "arxiv_id": "2508.19190v4",
+      "base_id": "2508.19190",
+      "title": "Hits to Higgs: Hit-Level Higgs Classification from Raw LHC Detector Data Using Higgsformer",
+      "authors": [
+        "Sascha Caron",
+        "Polina Moskvitina",
+        "Roberto Ruiz de Austri",
+        "Eugene Shalugin"
+      ],
+      "abstract": "We present Higgsformer, a transformer-based architecture that classifies Higgs events at the Large Hadron Collider directly from raw inner tracker hits, bypassing the traditional reconstruction chain of intermediate physics objects. As a benchmark, we focus on distinguishing $t\\bar{t}H$ from $t\\bar{t}$ events with $H \\to b\\bar{b}$, a particularly challenging task due to their similar final state topologies. Our pipeline begins with event generation in Pythia8, fast simulation with ACTS/Fatras, and classification directly from raw detector hits.   We show for the first time that a transformer model originally developed for inner tracker hit-to-track assignment can be retrained to classify Higgs signal events directly from raw hits. For comparison, we reconstruct the same events with Delphes and train a Particle Transformer as an object-based classifier. We evaluate both approaches under varying dataset sizes and pileup levels. Despite relying exclusively on inner tracker hits, our large Higgsformer achieves an AUC of $0.855$, matching the performance of the traditional reconstruction pipeline at a $b$-tagging efficiency of $\\approx 40\\%$ under the same detector constraints.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-08-26T16:54:19+00:00",
+      "updated": "2026-05-12T16:23:10+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.19190v4",
+      "html_url": "https://arxiv.org/html/2508.19190v4",
+      "entry_url": "http://arxiv.org/abs/2508.19190v4"
+    }
+  ],
+  "total": 3
+}

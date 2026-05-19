@@ -1,0 +1,105 @@
+{
+  "date": "2025-11-03",
+  "papers": [
+    {
+      "arxiv_id": "2511.01848v2",
+      "base_id": "2511.01848",
+      "title": "Constraining memory-burdened primordial black holes with graviton-photon conversion and binary mergers",
+      "authors": [
+        "Po-Yan Tseng",
+        "Yu-Min Yeh"
+      ],
+      "abstract": "The memory-burden effect stabilizes the evaporating Primordial Black Holes (PBHs) before its complete decay. This also suppresses the evaporation flux via the entropy factor to the $k$-th power and circumvents severely astrophysical and cosmological constraints, such that it opens a new mass window for PBH Dark Matter lighter than $10^{15}$ g which has entered the memory-burden phase in the present epoch. In this study, we propose two scenarios to probe PBHs in the earlier semiclassical phase that evaporate at unsuppressed rates. The first scenario considers gravitons, emitted semiclassically from PBHs, propagating across the recombination epoch, then the magnetic field in the cosmological filaments converts them into photons via the Gertsenshtein effect. The second scenario relies on the PBHs mergers today, reproducing young semiclassical black holes with unsuppressed evaporation, but it is highly model dependent and has no sufficient theory support. For phenomenology studies, we perform computations of the extragalactic photon spectrum from PBHs emission according to these scenarios. The upper limits on the fractional abundance of PBH are obtained by comparing with the sensitivities of gamma-ray observations. The graviton-photon conversion scenario excludes the mass window $7.5\\times 10^5\\,{\\rm g} \\leq M_{\\rm PBH}\\leq 4.4\\times 10^7\\,{\\rm g}$ with $f_{\\rm PBH}|_{T_φ}\\geq 1$ and $k=1$, assuming the optimistic magnetic field $B_0=100$ nG. Meanwhile, the merging scenario, which is insensitive on $k$, restricts PBH Dark Matter lighter than $2.2\\times 10^{11}$ g.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-11-03T18:55:51+00:00",
+      "updated": "2026-04-30T12:17:42+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.01848v2",
+      "html_url": "https://arxiv.org/html/2511.01848v2",
+      "entry_url": "http://arxiv.org/abs/2511.01848v2"
+    },
+    {
+      "arxiv_id": "2511.01366v3",
+      "base_id": "2511.01366",
+      "title": "Symmetry-Resolved Entanglement Entropy from Heat Kernels",
+      "authors": [
+        "Yuan-Chun Jing",
+        "Chao Niu",
+        "Zhuo-Yu Xian"
+      ],
+      "abstract": "We develop a systematic framework for computing symmetry-resolved entanglement entropies (SREE) in charged quantum systems based on an improved heat kernel approach. Although the conventional Sommerfeld formula proves effective for neutral systems, it encounters limitations when gauge fields or chemical potentials are introduced due to incomplete residue prescriptions and violations of asymptotic boundary conditions. By reconstructing the analytic structure of the heat kernel using a phase factor, we derive a globally convergent expansion that reconciles discrete residue summations with continuous spectral decompositions. We further apply this framework to Gaussian continuous multi-scale entanglement renormalization ansatz (cMERA) states and show that the entanglement entropy (EE) can be expressed in terms of the cMERA flow functions. In particular, we obtain a symmetry-resolved entanglement entropy flow equation in the presence of a chemical potential. This formulation extends naturally to arbitrary spacetime dimensions and recovers established results for neutral systems in the mu -> 0 limit. We validate our framework through two settings: (1) exact agreement with (1+1)-dimensional conformal field theory (CFT) predictions using twist-operator techniques, and (2) consistency with holographic entropy calculations on S1 x H^(d-1) geometries. Our results both unify the treatment of charged and neutral entanglement entropy and extend this treatment to real-space renormalization frameworks, providing a robust tool for probing symmetry-resolved entanglement in conformal field theories, their holographic duals, and cMERA representations.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2025-11-03T09:09:51+00:00",
+      "updated": "2026-05-07T13:49:50+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.01366v3",
+      "html_url": "https://arxiv.org/html/2511.01366v3",
+      "entry_url": "http://arxiv.org/abs/2511.01366v3"
+    },
+    {
+      "arxiv_id": "2511.01630v3",
+      "base_id": "2511.01630",
+      "title": "2D or not 2D: a \"holographic dictionary\" for Lowest Landau Levels",
+      "authors": [
+        "Gautam Mandal",
+        "Ajay Mohan",
+        "Rushikesh Suroshe"
+      ],
+      "abstract": "We consider 2D fermions on a plane with a perpendicular magnetic field, described by Landau levels. It is wellknown that, semiclassically, restriction to the lowest Landau levels (LLL) implies two constraints on a 4D phase space, that transforms the 2D coordinate space (x,y) into a 2D phase space, thanks to the non-zero Dirac bracket between x and y. A naive application of Dirac's prescription of quantizing LLL in terms of L2 functions of x (or of y) fails because the wavefunctions are functions of x and y. We are able, however, to construct a 1D QM, sitting differently inside the 2D QM, which describes the LLL physics. The construction includes an exact 1D-2D correspondence between the fermion density ρ(x,y) and the Wigner distribution of the 1D QM. In a suitable large N limit, (a) the Wigner distribution is upper bounded by 1, since a phase space cell can have at most one fermion (Pauli exclusion principle) and (b) the 1D-2D correspondence becomes an identity transformation. (a) and (b) imply an upper bound for the fermion density ρ(x,y). We also explore the entanglement entropy (EE) of subregions of the 2D noncommutative space. It behaves differently from conventional 2D systems as well as conventional 1D systems, falling somewhere between the two. The main new feature of the EE, directly attributable to the noncommutative space, is the absence of a logarithmic dependence on the size of the entangling region, even though there is a Fermi surface. In this paper, instead of working directly with the Landau problem, we consider a more general problem, of 2D fermions in a rotating harmonic trap, which reduces to the Landau problem in a special limit. Among other consequences of the emergent 1D physics, we find that post-quench dynamics of the (generalized) LLL system is computed more simply in 1D terms, which is described by well-developed methods of 2D phase space hydrodynamics.",
+      "categories": [
+        "hep-th",
+        "cond-mat.stat-mech",
+        "math-ph"
+      ],
+      "published": "2025-11-03T14:40:17+00:00",
+      "updated": "2026-05-07T09:55:07+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.01630v3",
+      "html_url": "https://arxiv.org/html/2511.01630v3",
+      "entry_url": "http://arxiv.org/abs/2511.01630v3"
+    },
+    {
+      "arxiv_id": "2511.01978v3",
+      "base_id": "2511.01978",
+      "title": "Single-Sided Black Holes in Double-Scaled SYK Model and No Man's Island",
+      "authors": [
+        "Xuchen Cao",
+        "Ping Gao"
+      ],
+      "abstract": "We study a single-sided black hole with an end-of-the-world (EoW) brane behind the horizon in the double-scaled SYK (DSSYK). The new Hamiltonian is a deformation of the original DSSYK Hamiltonian with an extra exponential wormhole length operator, which leads to a new chord diagram rule. The boundary algebra is defined as generated by the new Hamiltonian and boundary matter. There is an alternative but equivalent definition with a $q$-coherent state due to a nontrivial isomorphism of the vN algebra of DSSYK. This isomorphism induces a unitary equivalence, which yields a surprising result that the boundary algebra of a single-sided black hole in DSSYK has a non-trivial commutant and is a type II$_1$ vN factor. It follows that the full bulk reconstruction from the boundary is impossible, and there is a ``no man's island\" behind the horizon in the semiclassical JT limit. Inspired by the EoW brane, we construct a family of matter-brane states with an arbitrary number of matter chords and behaving like an EoW brane. They exactly solve the full spectrum of DSSYK.   We take different ways to understand the nontrivial commutant. We show that the commutant is complex on chord number basis and thus non-geometric. In the semiclassical JT limit, the commutant becomes the canonical purification of the boundary algebra and claims the no man's island. In the context of Hawking radiation after Page time, the unitary equivalence is interpreted as encoding the canonical purification into the old Hawking radiation, and the no man's island has the same essence as the island. Including the exponential wormhole length operator independently, the boundary algebra is extended to all bounded operators and reconstructs the no man's island. This can be regarded as a different choice for the definition of boundary algebra. This type I$_\\infty$ algebra is closely related to the EoW brane in Kourkoulou-Maldacena.",
+      "categories": [
+        "hep-th",
+        "math-ph"
+      ],
+      "published": "2025-11-03T19:00:04+00:00",
+      "updated": "2026-05-07T22:25:51+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.01978v3",
+      "html_url": "https://arxiv.org/html/2511.01978v3",
+      "entry_url": "http://arxiv.org/abs/2511.01978v3"
+    },
+    {
+      "arxiv_id": "2511.01325v3",
+      "base_id": "2511.01325",
+      "title": "U-spin symmetry energy and hyperon puzzle",
+      "authors": [
+        "Hao-Song You",
+        "Ting-Lan Yu",
+        "Sophia Han",
+        "Cheng-Jun Xia",
+        "Ren-Xin Xu"
+      ],
+      "abstract": "By combining the ($u$,$d$) I-spin doublets or ($d$,$s$) U-spin doublets, the SU(3) flavor symmetry of light quarks can be decomposed into SU(2)$_I\\times$U(1)$_Y$ or SU(2)$_U\\times$U(1)$_Q$ subgroups, which have been widely adopted to categorize hadrons and their decay properties. The I-spin counterpart for the interactions among nucleons has been extensively investigated, i.e., the nuclear symmetry energy $E_\\mathrm{sym}(n_\\mathrm{b})$, which characterizes the variation of binding energy as the neutron to proton ratio in a nuclear system. In this work, we propose U-spin symmetry energy $E_\\mathrm{U}(n_\\mathrm{b})$ for hyperonic matter to characterize the variation of binding energy with the inclusion of hyperons. In particular, being the lightest hyperon, $Λ$ hyperons are included in dense matter, where the U-spin symmetry energy $E_\\mathrm{U}(n_\\mathrm{b})$ is fixed according to state-of-the-art constraints from nuclear physics and astrophysical observations using Bayesian inference approach. It is found that $E_\\mathrm{U}(n_\\mathrm{b})$ is much smaller than that of $E_\\mathrm{sym}(n_\\mathrm{b})$, indicating much stronger proton-neutron attraction than that of nucleon-hyperon pairs. Consequently, the $Λ$ hyperon potential increases significantly with density and becomes repulsive at high densities. The results indicate that there is more than 50\\% probability for the emergence of $Λ$ hyperons in posterior EOSs, which are likely to vanish at densities $n_\\mathrm{b} \\gtrsim 5\\,n_0$. In scenarios where $Λ$ hyperons do emerge, the onset density $n_{\\mathrm{b}}^Λ$ is typically within the range of $2\\,n_0$--$5\\,n_0$, corresponding to neutron stars more massive than $1.0\\,\\rm{M_\\odot}$.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.HE"
+      ],
+      "published": "2025-11-03T08:16:39+00:00",
+      "updated": "2026-05-17T07:56:21+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.01325v3",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2511.01325v3"
+    }
+  ],
+  "total": 5
+}

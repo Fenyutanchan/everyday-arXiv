@@ -1,0 +1,88 @@
+{
+  "date": "2025-08-04",
+  "papers": [
+    {
+      "arxiv_id": "2508.02869v3",
+      "base_id": "2508.02869",
+      "title": "Attenuation of the ultra-high-energy neutrino flux by dark matter scatterings",
+      "authors": [
+        "Ivan Esteban",
+        "Alejandro Ibarra"
+      ],
+      "abstract": "A flux of ultra-high-energy (UHE) neutrinos, produced by astrophysical sources at cosmological distances, is anticipated to exist and reach Earth. In this paper, we investigate the impact on the total flux, energy spectrum, and arrival directions of UHE neutrinos of neutrino-dark matter (DM) scatterings. We study scatterings both in the intergalactic medium and in the Milky Way. We emphasize the complementarity among neutrino detectors at different latitudes, that can probe anisotropies induced by neutrinos scattering with the Milky Way DM halo. We also discuss that, with mild astrophysical assumptions, limits on the DM-$ν$ scattering cross section can be placed even if the neutrino sources are unknown. Finally, we explore all this phenomenology with the recent UHE neutrino event KM3230213A, and place the corresponding limits on the DM-$ν$ scattering cross section.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "astro-ph.HE"
+      ],
+      "published": "2025-08-04T19:55:16+00:00",
+      "updated": "2026-04-22T16:52:50+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.02869v3",
+      "html_url": "https://arxiv.org/html/2508.02869v3",
+      "entry_url": "http://arxiv.org/abs/2508.02869v3"
+    },
+    {
+      "arxiv_id": "2508.02788v3",
+      "base_id": "2508.02788",
+      "title": "Measurement-Induced Entanglement in Conformal Field Theory",
+      "authors": [
+        "Kabir Khanna",
+        "Romain Vasseur"
+      ],
+      "abstract": "Local measurements can radically reshape patterns of many-body entanglement, especially in long-range entangled quantum-critical states. Yet, analytical results addressing the effects of measurements on many-body states remain scarce, and measurements are often approximated as forcing specific measurement outcomes. We study measurement-induced entanglement (MIE) in Tomonaga-Luttinger liquids, a broad family of 1+1d quantum critical states described at low energies by compact free boson conformal field theories (CFT). Measuring the local charge operator, we show that the MIE is entirely universal, conformally invariant, and depends on the operator content of the CFT. Using a replica-trick to address the randomness of the measurement outcomes, we compute the MIE exactly for Tomonaga-Luttinger liquids, in very good agreement with matrix-product state calculations. We show that the MIE for physical quantum measurements is fundamentally different from the entanglement induced by forcing measurement outcomes, and has a natural interpretation in terms of Born averaging over conformally-invariant boundary conditions.",
+      "categories": [
+        "quant-ph",
+        "cond-mat.stat-mech",
+        "cond-mat.str-el",
+        "hep-th"
+      ],
+      "published": "2025-08-04T18:01:22+00:00",
+      "updated": "2026-04-27T19:18:51+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.02788v3",
+      "html_url": "https://arxiv.org/html/2508.02788v3",
+      "entry_url": "http://arxiv.org/abs/2508.02788v3"
+    },
+    {
+      "arxiv_id": "2508.02800v2",
+      "base_id": "2508.02800",
+      "title": "Towards Motivic Coactions at Genus One from Zeta Generators",
+      "authors": [
+        "Axel Kleinschmidt",
+        "Franziska Porkert",
+        "Oliver Schlotterer"
+      ],
+      "abstract": "The motivic coaction of multiple zeta values and multiple polylogarithms encodes both structural insights on and computational methods for scattering amplitudes in a variety of quantum field theories and in string theory. In this work, we propose coaction formulae for iterated integrals over holomorphic Eisenstein series that arise from configuration-space integrals at genus one. Our proposal is motivated by formal similarities between the motivic coaction and the single-valued map of multiple polylogarithms at genus zero that are exposed in their recent reformulations via zeta generators. The genus-one coaction of this work is then proposed by analogies with the construction of single-valued iterated Eisenstein integrals via zeta generators at genus one. We show that our proposal exhibits the expected properties of a coaction and deduce $f$-alphabet decompositions of the multiple modular values obtained from regularized limits.",
+      "categories": [
+        "hep-th",
+        "math.AG",
+        "math.NT"
+      ],
+      "published": "2025-08-04T18:11:26+00:00",
+      "updated": "2026-05-04T22:04:53+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.02800v2",
+      "html_url": "https://arxiv.org/html/2508.02800v2",
+      "entry_url": "http://arxiv.org/abs/2508.02800v2"
+    },
+    {
+      "arxiv_id": "2508.02659v3",
+      "base_id": "2508.02659",
+      "title": "Enhancing the ergodicity of Worldvolume HMC via embedding generalized thimble HMC",
+      "authors": [
+        "Masafumi Fukuma",
+        "Yusuke Namekawa"
+      ],
+      "abstract": "The Worldvolume Hybrid Monte Carlo (WV-HMC) method [arXiv:2012.08468] is an efficient and versatile algorithm that mitigates the sign problem while resolving the ergodicity issues inherent in Lefschetz-thimble approaches. We focus on cases where the maximum flow time can be kept small, such as when applying WV-HMC to the doped Hubbard model utilizing a redundant, nonphysical parameter. An optimal choice of this parameter significantly reduces the sign problem on the original integration surface. This allows for small flow times, thereby enabling the simulation of larger system sizes at a modest computational cost. However, when the worldvolume reduces to a thin layer, phase-space exploration becomes inefficient, and ergodicity problems may reemerge. To address this limitation in WV-HMC, we propose embedding generalized thimble HMC (GT-HMC) into the WV-HMC framework. GT-HMC performs updates on a single deformed surface at a fixed flow time. Despite its inherent ergodicity issues at the zeros of the Boltzmann weight, GT-HMC efficiently explores the allowed region and typically permits larger molecular dynamics step sizes than WV-HMC. Consequently, it is highly effective in regions where ergodicity issues are less severe. We prove that GT-HMC can be consistently embedded within WV-HMC and confirm that the standalone and combined algorithms agree within statistical errors for the two-dimensional doped Hubbard model on an $8 \\times 8$ lattice. This combined algorithm enables simulations on larger spacetime lattices. We demonstrate the feasibility of this approach by extrapolating the number and energy densities to the zero Trotter step limit at fixed temperature $T/t = 1/6.4\\simeq 0.156$ and repulsive interaction $U/t = 8.0$. Even with modest sample sizes, we achieve controlled statistical errors across the entire range of the chemical potential.",
+      "categories": [
+        "cond-mat.str-el",
+        "hep-lat",
+        "hep-th"
+      ],
+      "published": "2025-08-04T17:49:31+00:00",
+      "updated": "2026-05-14T15:28:59+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.02659v3",
+      "html_url": "https://arxiv.org/html/2508.02659v3",
+      "entry_url": "http://arxiv.org/abs/2508.02659v3"
+    }
+  ],
+  "total": 4
+}

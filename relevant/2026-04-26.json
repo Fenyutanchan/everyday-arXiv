@@ -1,0 +1,84 @@
+{
+  "date": "2026-04-26",
+  "total": 3,
+  "papers": [
+    {
+      "arxiv_id": "2508.09946v2",
+      "base_id": "2508.09946",
+      "title": "Stochastic Inflation with Interacting Noises",
+      "authors": [
+        "Amin Nassiri-Rad",
+        "Haidar Sheikhahmadi",
+        "Hassan Firouzjahi"
+      ],
+      "abstract": "Stochastic $δN$ formalism is a powerful tool to calculate the cosmological correlators non-perturbatively. However, it requires the initial data for the amplitude of the noise on the initial flat hypersurface which for a free theory during inflation is fixed to be $\\frac{H}{2 π}$. In this work, we study the setups where the underlying theory involves interactions and the stochastic noises inherit these interactions. We extend the stochastic $δN$ formalism to these setups and rewrite the corresponding Langevin and Fokker-Planck equations in which the QFT corrections in the amplitude of the noises are taken into account. As an example, in the three-phase SR-USR-SR setup which is employed for PBHs formation, the modification in the amplitude of noise is calculated from the one-loop corrections in power spectrum via in-in formalism. We show that in these setups the amplitude of the stochastic noise is modified to $\\frac{H}{2 π} \\Big(1+ \\frac{ Δ{\\cal P}_{\\cal R} }{ {\\cal P}^{(0)}_{ {\\cal R} } }\\Big)^{\\frac{1}{2}}$ in which $ \\frac{Δ{\\cal P}_{\\cal R} }{ {\\cal P}^{(0)}_{{\\cal R} } }$ is the fractional one-loop correction in power spectrum.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2025-08-13T17:01:58+00:00",
+      "updated": "2026-04-26T15:32:13+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.09946v2",
+      "html_url": "https://arxiv.org/html/2508.09946v2",
+      "entry_url": "http://arxiv.org/abs/2508.09946v2",
+      "relevance": {
+        "relevant": true,
+        "score": 7,
+        "reason": "The paper is directly relevant to early-universe cosmology and PBH physics—two of the user's core interests—as it extends the stochastic δN formalism to incorporate quantum loop corrections in the noise amplitude, with a specific application to the SR-USR-SR inflationary setup used for PBH formation.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2604.23526v1",
+      "base_id": "2604.23526",
+      "title": "Smooth Threshold Effects from Dimensional Regularization",
+      "authors": [
+        "Yannick Kluth"
+      ],
+      "abstract": "We suggest a non-minimal renormalization scheme based on dimensional regularization that naturally incorporates threshold effects of heavy particles. By renormalizing couplings and masses to subtract all poles in $d \\geq 4$, the resulting scheme is mass-dependent and circumvents shortcomings of mass-independent schemes like minimal subtraction. At the same time, many advantages of minimal subtraction such as gauge independence are retained. Through explicit one-loop computations in QCD, we demonstrate that this scheme reduces to minimal subtraction at high energies while providing smooth transitions at particle thresholds and implementing the Appelquist-Carazzone theorem. Potential future applications and extensions are discussed.",
+      "categories": [
+        "hep-th",
+        "hep-ph"
+      ],
+      "published": "2026-04-26T04:17:46+00:00",
+      "updated": "2026-04-26T04:17:46+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.23526v1",
+      "html_url": "https://arxiv.org/html/2604.23526v1",
+      "entry_url": "http://arxiv.org/abs/2604.23526v1",
+      "relevance": {
+        "relevant": true,
+        "score": 5,
+        "reason": "The paper proposes a novel mass-dependent renormalization scheme using dimensional regularization for smooth threshold effects, which is tangentially relevant to the user's multi-loop perturbative QCD and electroweak precision calculation work, though the specific focus on renormalization scheme design does not directly match the user's core research on specific high-order corrections (N³LO top-quark decay, b→u decays) or their primary interests in cosmology, neutrino physics, and axion/dark matter phenomenology.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2604.23879v1",
+      "base_id": "2604.23879",
+      "title": "Searching for ultralight bosons with Josephson junction interferometry",
+      "authors": [
+        "Djuna Croon",
+        "Tanmay Kumar Poddar"
+      ],
+      "abstract": "Ultralight bosons sourced by macroscopic objects can generate long-range spin-independent and spin-dependent potentials that are accessible to precision interferometry. Such potentials induce phase shifts in Josephson junctions, detectable through precision current measurements. We propose three experimental scenarios to probe photophilic scalar interactions, Lorentz-violating scalar-mediated interactions, and axion-mediated monopole-dipole interactions, depending on the nature (unpolarized or polarized) of the source. The proposed setups provide sensitivities to novel mixed couplings that are largely unconstrained by existing bounds and enables the exploration of new forces at centimeter to micrometer length scales.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-04-26T20:43:57+00:00",
+      "updated": "2026-04-26T20:43:57+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.23879v1",
+      "html_url": "https://arxiv.org/html/2604.23879v1",
+      "entry_url": "http://arxiv.org/abs/2604.23879v1",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "The paper partially overlaps with the user's interest in axion detection strategies and dark matter physics (specifically axion-mediated monopole-dipole interactions and scalar boson searches), but it is primarily an experimental proposal using condensed-matter Josephson junction techniques rather than the theoretical particle physics, cosmology, or multi-loop QCD calculations that form the user's core research focus.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    }
+  ]
+}

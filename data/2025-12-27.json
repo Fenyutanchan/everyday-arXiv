@@ -1,0 +1,46 @@
+{
+  "date": "2025-12-27",
+  "papers": [
+    {
+      "arxiv_id": "2512.22531v2",
+      "base_id": "2512.22531",
+      "title": "Cosmological long-wavelength solutions in non-adiabatic multi-fluid systems",
+      "authors": [
+        "Hayami Iizuka",
+        "Tomohiro Harada"
+      ],
+      "abstract": "We develop a formulation of nonlinear cosmological perturbations on superhorizon scales in multi-fluid systems. It is based on the Arnowitt-Deser-Misner formalism combined with a spatial gradient expansion characterized by a small expansion parameter defined as the ratio of the comoving wavenumber to the Hubble scale. The background spacetime is assumed to be a flat Friedmann-Lemaitre-Robertson-Walker universe. Within this framework, we explicitly construct nonlinear long-wavelength solutions for cosmological perturbations. Since multi-fluid systems are inherently non-adiabatic, these solutions admit both adiabatic and entropy modes already at leading nonlinear order. We define adiabatic and entropy perturbations and discuss the non-uniqueness in defining pure entropy perturbations. Using different choices of pure entropy initial conditions, we analyze the time evolution of physical quantities such as the curvature perturbation and density perturbations in the geodesic slicing for two-fluid systems.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO"
+      ],
+      "published": "2025-12-27T09:27:24+00:00",
+      "updated": "2026-05-11T05:37:12+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.22531v2",
+      "html_url": "https://arxiv.org/html/2512.22531v2",
+      "entry_url": "http://arxiv.org/abs/2512.22531v2"
+    },
+    {
+      "arxiv_id": "2512.22728v2",
+      "base_id": "2512.22728",
+      "title": "Probing higher curvature gravity via ringdown with overtones",
+      "authors": [
+        "Keisuke Nakashi",
+        "Masashi Kimura",
+        "Hayato Motohashi",
+        "Kazufumi Takahashi"
+      ],
+      "abstract": "We investigate metric perturbations of a spherically symmetric black hole in higher curvature gravity. We show that higher curvature corrections deform the near-horizon region of the effective potential, and that the deviations of the quasinormal mode (QNM) frequencies from their general relativity (GR) values become more pronounced for overtone modes. We find that, as the order of the higher curvature term increases, the deformations approach the horizon and the deviations of the overtone QNM frequencies grow progressively larger. We also analyze the ringdown waveforms in the higher curvature gravity model. We consider setups in which the deviations from the vacuum-GR QNMs remain mild for the fundamental mode and the first few overtones, and show that these shifted QNMs can be identified in the ringdown signal through waveform fitting.",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2025-12-27T23:59:41+00:00",
+      "updated": "2026-05-14T14:37:19+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.22728v2",
+      "html_url": "https://arxiv.org/html/2512.22728v2",
+      "entry_url": "http://arxiv.org/abs/2512.22728v2"
+    }
+  ],
+  "total": 2
+}

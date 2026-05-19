@@ -1,0 +1,27 @@
+{
+  "date": "2023-06-01",
+  "papers": [
+    {
+      "arxiv_id": "2306.01043v2",
+      "base_id": "2306.01043",
+      "title": "Clifford Orbits from Cayley Graph Quotients",
+      "authors": [
+        "Cynthia Keeler",
+        "William Munizzi",
+        "Jason Pollack"
+      ],
+      "abstract": "We describe the structure of the $n$-qubit Clifford group $C_n$ via Cayley graphs, whose vertices represent group elements and edges represent generators. In order to obtain the action of Clifford gates on a given quantum state, we introduce a quotient procedure. Quotienting the Cayley graph by the stabilizer subgroup of a state gives a reduced graph which depicts the state's Clifford orbit. Using this protocol for $C_2$, we reproduce and generalize the reachability graphs introduced in arXiv:2204.07593. Since the procedure is state-independent, we extend our study to non-stabilizer states, including the W and Dicke states. Our new construction provides a more precise understanding of state evolution under Clifford circuit action.",
+      "categories": [
+        "quant-ph",
+        "hep-th",
+        "math.GR"
+      ],
+      "published": "2023-06-01T18:00:02+00:00",
+      "updated": "2026-05-04T16:36:45+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2306.01043v2",
+      "html_url": "https://arxiv.org/html/2306.01043v2",
+      "entry_url": "http://arxiv.org/abs/2306.01043v2"
+    }
+  ],
+  "total": 1
+}

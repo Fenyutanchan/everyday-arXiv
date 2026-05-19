@@ -1,0 +1,105 @@
+{
+  "date": "2026-01-08",
+  "papers": [
+    {
+      "arxiv_id": "2601.05145v2",
+      "base_id": "2601.05145",
+      "title": "How deep can a cosmic void be? Voids-informed theoretical bounds in Galileon gravity",
+      "authors": [
+        "Tommaso Moretti",
+        "Noemi Frusciante",
+        "Giovanni Verza",
+        "Francesco Pace"
+      ],
+      "abstract": "We establish a void-based consistency test for Galileon scalar-tensor theories. We show that the previously reported unphysical breakdown of the predicted Newtonian force in certain Galileon models is controlled by a single condition linking non-linear void dynamics to the cosmic expansion history. This connection yields a redshift-dependent upper bound on the allowed depth of voids and promotes this requirement to a new viability condition, complementary to standard stability criteria. As an example, we apply this void-based criterion to a linear parameterization in the scale factor constrained by theoretical and observational bounds; we find that $\\sim 60\\%$ of the parameter space is excluded, with most problematic models failing by $z\\lesssim 10$. These results position cosmic voids as sharp, complementary and theory-informed filters for viable modified gravity, enabling more informed priors and parameter-space choices in future cosmological inference.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "published": "2026-01-08T17:32:49+00:00",
+      "updated": "2026-04-17T03:28:58+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.05145v2",
+      "html_url": "https://arxiv.org/html/2601.05145v2",
+      "entry_url": "http://arxiv.org/abs/2601.05145v2"
+    },
+    {
+      "arxiv_id": "2601.04623v2",
+      "base_id": "2601.04623",
+      "title": "Non-supersymmetric F1-P black rings",
+      "authors": [
+        "Pavan Dharanipragada",
+        "Gurmeet Singh Punia",
+        "Amitabh Virmani"
+      ],
+      "abstract": "We construct singly and doubly spinning non-supersymmetric F1--P black ring solutions in five-dimensional supergravity. These black rings have regular horizons and non-zero temperature. The singly spinning configuration lies in the duality orbit of the black ring constructed by Elvang, Emparan, and Figueras, while the doubly spinning configuration is a charged extension of the black ring constructed by Chen, Hong, and Teo. We analyze the physical properties of these solutions and the various limits they admit. In particular, the doubly spinning solution admits an extremal limit in which the entropy satisfies the relation S= 2 πJ_φ, thereby linking it directly to the angular momentum on the S^2.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2026-01-08T05:52:30+00:00",
+      "updated": "2026-04-14T11:41:58+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.04623v2",
+      "html_url": "https://arxiv.org/html/2601.04623v2",
+      "entry_url": "http://arxiv.org/abs/2601.04623v2"
+    },
+    {
+      "arxiv_id": "2601.05229v2",
+      "base_id": "2601.05229",
+      "title": "Mitigating Simulator Dependence in AI Parameter Inference for the Epoch of Reionization: The Importance of Simulation Diversity",
+      "authors": [
+        "Jasper Solt",
+        "Jonathan C. Pober",
+        "Stephen H. Bach"
+      ],
+      "abstract": "The 21cm signal of neutral hydrogen contains a wealth of information about the poorly constrained era of cosmological history, the Epoch of Reionization (EoR). Recently, AI models trained on EoR simulations have gained significant attention as a powerful and flexible option for inferring parameters from 21cm observations. However, previous works show that AI models trained on data from one simulator fail to generalize to data from another, raising doubts about AI models' ability to accurately infer parameters from observation. We develop a new strategy for training AI models on cosmological simulations based on the principle that increasing the diversity of the training dataset improves model robustness by averaging out spurious and contradictory information. We train AI models on data from different combinations of four simulators, then compare the models' performance when predicting on data from held-out simulators acting as proxies for the real universe. We find that models trained on data from multiple simulators perform better on data from a held-out simulator than models trained on data from a single simulator, indicating that increasing the diversity of the training dataset improves a model's ability to generalize. This result suggests that future EoR parameter inference methods can mitigate simulator-specific bias by incorporating multiple simulation approaches into their analyses.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2026-01-08T18:55:01+00:00",
+      "updated": "2026-05-06T19:05:25+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.05229v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2601.05229v2"
+    },
+    {
+      "arxiv_id": "2601.05312v3",
+      "base_id": "2601.05312",
+      "title": "Energy-Energy Correlator from the AdS Virasoro-Shapiro Amplitude",
+      "authors": [
+        "Lecheng Ren",
+        "Bo Wang",
+        "Congkao Wen"
+      ],
+      "abstract": "We establish a precise formula relating the world-sheet integral of the AdS Virasoro-Shapiro amplitude to the energy-energy correlator (EEC) in $\\mathcal{N}=4$ super Yang-Mills theory at strong coupling. This mapping allows us to evaluate the coefficients of the AdS curvature expansion of the EEC in terms of the world-sheet integral over a unit disk. To illustrate this idea, we explicitly compute the flat-space contribution and the first curvature correction to the EEC. Our results provide a rigorous description of the stringy energy flow, demonstrating how world-sheet correlators imprint themselves on collider observables and offering a potential template for effective string descriptions of energy correlators in general gauge theories.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2026-01-08T19:00:01+00:00",
+      "updated": "2026-05-13T11:44:18+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.05312v3",
+      "html_url": "https://arxiv.org/html/2601.05312v3",
+      "entry_url": "http://arxiv.org/abs/2601.05312v3"
+    },
+    {
+      "arxiv_id": "2601.05351v2",
+      "base_id": "2601.05351",
+      "title": "Dipole Radiation and Kinetic Mixing from Dark Photon Solitons",
+      "authors": [
+        "Enrico D. Schiappacasse",
+        "Moira Venegas"
+      ],
+      "abstract": "Wave-like dark matter composed of spin-1 particles, known as dark photons, is theorized to form clumps called \"vector solitons\". These solitons are compact astrophysical objects that exhibit coherent oscillations and a high concentration relative to the local dark matter density. A significant portion of dark matter in galactic halos today may consist of these solitons. This study explores how photons can be produced from these vector solitons by the influence of external electromagnetic fields or charge densities, via a dimension-6 dark photon-photon coupling and a kinetic mixing, respectively. We further explore the astrophysical implications of these phenomena, highlighting a novel avenue for dark matter discovery that our research provides.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "astro-ph.HE"
+      ],
+      "published": "2026-01-08T20:05:49+00:00",
+      "updated": "2026-05-15T12:47:16+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.05351v2",
+      "html_url": "https://arxiv.org/html/2601.05351v2",
+      "entry_url": "http://arxiv.org/abs/2601.05351v2"
+    }
+  ],
+  "total": 5
+}

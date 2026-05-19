@@ -1,0 +1,86 @@
+{
+  "date": "2025-12-28",
+  "papers": [
+    {
+      "arxiv_id": "2512.23030v2",
+      "base_id": "2512.23030",
+      "title": "Molecular states $J/ψB_{c}^{+}$ and $η_{c}B_{c}^{\\ast +} $",
+      "authors": [
+        "S. S. Agaev",
+        "K. Azizi",
+        "H. Sundu"
+      ],
+      "abstract": "Hadronic molecules $\\mathfrak{M}=J/ψB_{c}^{+}$ and $\\widetilde{\\mathfrak{ \\ M}}=η_{c}B_{c}^{\\ast +}$ are investigated in the framework of QCD sum rule method. These particles with spin-parities $J^{\\mathrm{P}}=1^+$ have the quark contents $cc \\overline{c}\\overline{b}$. We compute their masses and current couplings and find that they are numerically very close to each other coinciding within accuracy of the sum rule method. Therefore, we concentrate on the molecule $J/ψB_{c}^{+}$ and explore features of this state in a detailed form. Our prediction $m=(9740 \\pm 70)~\\mathrm{MeV}$ for its mass means that $\\mathfrak{M}$ easily decays to pairs of ordinary mesons through strong interactions. There are two mechanisms responsible for transformations of $\\mathfrak{M}$ to conventional mesons. The fall-apart mechanism generates the dominant decay channels $\\mathfrak{M} \\to J/ψB_{c}^{+}$ and $\\mathfrak{M} \\to η_{c}B_{c}^{\\ast +}$. Annihilation of $ \\overline{c}c$ quarks triggers subdominant processes with various final-state $B$ and $D$ mesons: Six of such channels are considered in this work. The partial widths all of decays are computed using the three-point sum rule approach. The width $Γ[ \\mathfrak{M}]=(121 \\pm 17)~ \\mathrm{MeV }$ of the hadronic axial-vector molecule $\\mathfrak{M}$, as well as its mass provide valuable information for running and future experiments.",
+      "categories": [
+        "hep-ph",
+        "hep-ex",
+        "hep-lat"
+      ],
+      "published": "2025-12-28T18:14:43+00:00",
+      "updated": "2026-04-29T09:10:01+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.23030v2",
+      "html_url": "https://arxiv.org/html/2512.23030v2",
+      "entry_url": "http://arxiv.org/abs/2512.23030v2"
+    },
+    {
+      "arxiv_id": "2512.23008v2",
+      "base_id": "2512.23008",
+      "title": "Resolving the Core-Cusp and Diversity Problems with a Baryon-Correlated Dark Matter Profile",
+      "authors": [
+        "Kento Kamada"
+      ],
+      "abstract": "The rotation velocity profiles of galaxies (rotation curves) remain unexpectedly flat at large distances, where visible matter alone should make the rotation velocity decrease with radius. Conventionally, this requires a large amount of unseen dark matter. However, standard dark matter models face persistent small-scale challenges, such as the core-cusp and diversity problems, and struggle to explain the observed correlation between dark matter and baryons. Here, we introduce a simple empirical law for the dark matter distribution, stating that the effective dark matter energy density $ρ_{\\rm DM}$ is directly correlated with the baryonic gravitational potential $Φ_b$ with the relation of $ρ_{\\rm DM} = μΦ_b^2 / c^4$ in the rest frame of the galaxy. This leads to a Poisson equation for the total gravitational potential $Φ_{\\rm tot}$, \\[ \\nabla^2Φ_{\\rm tot}   = 4πG\\,ρ_b /c^2   + 4πG\\,μ\\,Φ_b^2 / c^6. \\] Assuming that $μ= K M_b^{-3/2}$ with a parameter $K$, we applied this equation to 91 galaxies from the SPARC database. This baryon-correlated dark matter profile reproduced both the inner rise and outer flat regions of the observed rotation curves, resolving the core-cusp and diversity problems using the observed baryonic mass profiles only. The fitted $K$ values for the 91 galaxies were found to be concentrated within a narrow range. In addition, our detailed analysis of the nine galaxies using specific stellar mass-to-light ratios from the THINGS survey reduced the scatter in $K$, further demonstrating the validity of this model. These results suggest the existence of new fields interacting with baryons.",
+      "categories": [
+        "astro-ph.GA",
+        "astro-ph.CO"
+      ],
+      "published": "2025-12-28T17:16:59+00:00",
+      "updated": "2026-05-11T15:47:14+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.23008v2",
+      "html_url": "https://arxiv.org/html/2512.23008v2",
+      "entry_url": "http://arxiv.org/abs/2512.23008v2"
+    },
+    {
+      "arxiv_id": "2512.22928v3",
+      "base_id": "2512.22928",
+      "title": "Area Monotonicity of Wormhole Throats and a Geometric Bound on Information Transfer",
+      "authors": [
+        "Fuat Berkin Altunkaynak",
+        "Aslı Tuncer"
+      ],
+      "abstract": "We develop a semiclassical geometric framework to constrain information transfer through traversable wormholes. This study is motivated by the growing intersection between spacetime geometry and quantum information theory, specifically the ER=EPR conjecture and the bit-thread formulation of holographic entropy. First, we prove a geometric monotonicity result for traversable wormhole throats, demonstrating that after a traversable window is established via an averaged null energy condition (ANEC) violating deformation, any subsequent signal-carrying matter satisfying the pointwise null energy condition (NEC) causes the throat cross-sectional area to be non-increasing. Second, we utilize this monotonicity to derive a semiclassical geometric upper bound on the number of independent quantum degrees of freedom (qubits) transmissible through the wormhole. This bound $Q_{\\max} \\leq A_{\\min}/4G_N$, is motivated via the Max-Flow Min-Cut theorem for bit threads and interpreted as a geometric proxy for the holographic capacity of a quantum teleportation channel. We further discuss a holographic tensor-network analogy based on the HaPPY code, where the discrete max-flow/min-cut theorem provides an illustrative graph-theoretic counterpart of the bottleneck structure. Our results identify the wormhole throat as a natural geometric bottleneck, providing a geometric perspective on information-transfer limits in semiclassical gravity.",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2025-12-28T13:45:20+00:00",
+      "updated": "2026-05-11T10:34:20+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.22928v3",
+      "html_url": "https://arxiv.org/html/2512.22928v3",
+      "entry_url": "http://arxiv.org/abs/2512.22928v3"
+    },
+    {
+      "arxiv_id": "2512.22997v3",
+      "base_id": "2512.22997",
+      "title": "Generalised Entanglement Entropies from Unit-Invariant Singular Value Decomposition",
+      "authors": [
+        "Pawel Caputa",
+        "Abhigyan Saha",
+        "Piotr Sułkowski"
+      ],
+      "abstract": "We introduce generalisations of von Neumann entanglement entropy that are invariant with respect to certain scale transformations. These constructions are based on the Unit-Invariant Singular Value Decomposition (UISVD) in its left-, right-, and bi-invariant incarnations, which are variations of the standard Singular Value Decomposition (SVD) that remain invariant under the corresponding class of diagonal transformations. These measures are naturally defined for non-Hermitian or rectangular operators and remain useful when the input and output spaces possess different dimensions or metric weights. We apply the UISVD entropy and discuss its advantages in the physically interesting framework of Biorthogonal Quantum Mechanics, whose important aspect is indeed the behaviour under scale transformations. Further, we illustrate features of UISVD-based entropies in other well-known setups, from simple quantum mechanical bipartite states to random matrices relevant to quantum chaos and holography, and in the context of Chern-Simons theory. In all cases, the UISVD yields stable, physically meaningful entropic spectra that are invariant under rescalings and normalisations.",
+      "categories": [
+        "hep-th",
+        "math-ph",
+        "math.PR",
+        "quant-ph"
+      ],
+      "published": "2025-12-28T16:51:19+00:00",
+      "updated": "2026-05-16T18:36:39+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.22997v3",
+      "html_url": "https://arxiv.org/html/2512.22997v3",
+      "entry_url": "http://arxiv.org/abs/2512.22997v3"
+    }
+  ],
+  "total": 4
+}

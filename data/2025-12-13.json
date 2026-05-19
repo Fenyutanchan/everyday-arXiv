@@ -1,0 +1,63 @@
+{
+  "date": "2025-12-13",
+  "papers": [
+    {
+      "arxiv_id": "2512.12481v4",
+      "base_id": "2512.12481",
+      "title": "Readdressing the contribution of photonuclear reactions to the muon content of extensive air showers: a heuristic approach",
+      "authors": [
+        "Nickolay S. Martynenko"
+      ],
+      "abstract": "The indirect ground-based observations of cosmic rays through extensive air showers in modern experiments typically involve the use of Monte Carlo simulations to determine the characteristics of the primary particles. These simulations necessitate assumptions about particle interactions at energies that have not yet been experimentally probed, which introduces systematic uncertainties in key observables, particularly the number of muons. Current research on this uncertainty primarily focuses on hadronic interaction models, the dominant source of muon production. This study presents an approach that takes into account another significant mechanism for muon generation: photonuclear reactions. A robust heuristic technique has been developed to estimate the contribution of these interactions to the total number of muons over a wide range of extensive air shower parameters (including primary particle type, energy, and slant atmospheric depth) and photonuclear interaction models, with an absolute percentage error on the order of $10\\%$ in the estimated number of muons. Furthermore, several potential applications of the suggested method in relation to modern challenges in extensive air shower physics are discussed.",
+      "categories": [
+        "astro-ph.HE",
+        "hep-ph"
+      ],
+      "published": "2025-12-13T22:42:52+00:00",
+      "updated": "2026-04-17T13:44:04+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.12481v4",
+      "html_url": "https://arxiv.org/html/2512.12481v4",
+      "entry_url": "http://arxiv.org/abs/2512.12481v4"
+    },
+    {
+      "arxiv_id": "2512.12286v3",
+      "base_id": "2512.12286",
+      "title": "Inflation with Gauss-Bonnet Correction and Higgs Potential",
+      "authors": [
+        "Zahra Ahghari",
+        "Mehrdad Farhoudi"
+      ],
+      "abstract": "We investigate the cosmological inflation for the Einstein-Hilbert action plus the Higgs potential function and the Gauss-Bonnet term coupled with the Higgs scalar field through a dilaton-like coupling. Then, using the Friedmann-Lemaıtre-Robertson-Walker metric and considering the appropriate slow-roll parameters, we derive the necessary equations of motion. In the proposed model, since the e-folding integral cannot be easily solved analytically, we first utilize a well-known Taylor expansion. Then, with a certain range of values derived for the model parameters, utilizing several plots and numerical analysis methods, we obtain results for the tensor-to-scalar ratio and the scalar spectral index that are in good agreement with the latest observational data, particularly from ACT DR6, within the acceptable range of the e-folding values. Meanwhile, a key aspect of this work, crucial for achieving reliable values of the inflationary observables, lies in the adopted functional forms for the potential and coupling functions. Also, in the absence of the Gauss-Bonnet term, we find that the inflationary observables are roughly the same as the predictions of the chaotic inflation model.",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2025-12-13T11:12:57+00:00",
+      "updated": "2026-04-23T08:11:26+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.12286v3",
+      "html_url": "https://arxiv.org/html/2512.12286v3",
+      "entry_url": "http://arxiv.org/abs/2512.12286v3"
+    },
+    {
+      "arxiv_id": "2512.12310v3",
+      "base_id": "2512.12310",
+      "title": "Spectrum of $J^{PC} = 0^{\\pm\\pm}$ Gluonic Hidden-Charm Tetraquark States",
+      "authors": [
+        "Bing-Dong Wan",
+        "Ming-Yang Yuan",
+        "Jun-Hao Zhang",
+        "Yan Zhang"
+      ],
+      "abstract": "We investigate gluonic hidden-charm tetraquark states composed of two valence quarks, two valence antiquarks and an explicit valence gluon. In the color configuration $[\\bar{3}_c]_{c q}\\otimes[8_c]_{G}\\otimes[3_c]_{\\bar{c}\\bar{q}}$, a complete set of eight interpolating currents is constructed for states with quantum numbers $^{PC}=0^{++}$, $0^{-+},$ $0^{--}$, and $0^{+-}$. The corresponding mass spectra are systematically analysed within the QCD sum rule framework, including nonperturbative condensate contributions up to dimension eight. Our numerical analysis indicates the possible existence of six gluonic hidden-charm tetraquark states exhibiting stable behaviour in the adopted Borel windows. By replacing the charm quark with the bottom quark, masses for the corresponding hidden-bottom partners are also estimated. Possible production mechanisms and dominant decay channels are discussed, providing phenomenological guidance for experimental searches. These predicted states may be accessible at current and forthcoming facilities, including Belle II, PANDA, SuperB and LHCb, and thus offer an opportunity to probe explicit gluonic degrees of freedom in multiquark systems and deepen our understanding of nonperturbative QCD.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-12-13T12:48:31+00:00",
+      "updated": "2026-04-30T10:48:35+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.12310v3",
+      "html_url": "https://arxiv.org/html/2512.12310v3",
+      "entry_url": "http://arxiv.org/abs/2512.12310v3"
+    }
+  ],
+  "total": 3
+}

@@ -1,0 +1,45 @@
+{
+  "date": "2025-07-07",
+  "papers": [
+    {
+      "arxiv_id": "2507.05194v2",
+      "base_id": "2507.05194",
+      "title": "Light-cone vector superspace and continuous-spin field in AdS",
+      "authors": [
+        "R. R. Metsaev"
+      ],
+      "abstract": "In the framework of light-cone gauge vector superspace, a continuous-spin field propagating in AdS space of dimension greater than or equal to four is studied. Use of such framework allows us to find a simple solution for spin operators entering our light-cone gauge Lagrangian formulation. Bosonic continuous-spin field is considered in AdS space of arbitrary dimensions, while the use of a helicity basis in four-dimensional AdS space allows us to consider bosonic and fermionic continuous-spin fields on an equal footing. Classification of continuous-spin fields is proposed. Conjectures on the notion of masslessness for continuous-spin field are made. All unitary irreps of non-linear spin algebra for four-dimensional AdS are also obtained.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2025-07-07T16:54:15+00:00",
+      "updated": "2026-04-16T14:05:15+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2507.05194v2",
+      "html_url": "https://arxiv.org/html/2507.05194v2",
+      "entry_url": "http://arxiv.org/abs/2507.05194v2"
+    },
+    {
+      "arxiv_id": "2507.05185v3",
+      "base_id": "2507.05185",
+      "title": "An operator algebraic approach to fusion category symmetry on the lattice",
+      "authors": [
+        "David E. Evans",
+        "Corey Jones"
+      ],
+      "abstract": "We propose a framework for fusion category symmetry on the (1+1)D lattice in the infinite-volume limit by giving a formal interpretation of SymTFT decompositions. Our approach is based on axiomatizing physical boundary subalgebra of quasi-local observables, and applying ideas from algebraic quantum field theory to derive the expected categorical structures. We show that given a physical boundary subalgebra $B$ of a quasi-local algebra $A$, there is a canonical fusion category $\\mathcal{C}$ that acts on $A$ by bimodules and whose fusion ring acts by locality preserving quantum channels on the quasi-local algebra such that $B$ is recovered as the fixed point operators. We show that a fusion category can be realized as symmetries on a tensor product quasi-local algebra if and only if all of its objects have integer dimensions, and that it admits an ``on-site\" action on a tensor product spin chain if and only if it admits a fiber functor. We give a formal definition of a topological symmetric state, and prove two anomaly enforced gaplessness theorems, one for internal categorical symmetries and one for anomalous duality channels. Using the first, we show that for any fusion category $\\mathcal{C}$ with no fiber functor there always exist gapless pure symmetric states on an anyon chain.",
+      "categories": [
+        "math-ph",
+        "cond-mat.str-el",
+        "hep-th",
+        "math.OA",
+        "math.QA"
+      ],
+      "published": "2025-07-07T16:42:01+00:00",
+      "updated": "2026-04-15T18:33:14+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2507.05185v3",
+      "html_url": "https://arxiv.org/html/2507.05185v3",
+      "entry_url": "http://arxiv.org/abs/2507.05185v3"
+    }
+  ],
+  "total": 2
+}

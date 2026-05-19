@@ -1,0 +1,48 @@
+{
+  "date": "2025-05-14",
+  "papers": [
+    {
+      "arxiv_id": "2505.09202v3",
+      "base_id": "2505.09202",
+      "title": "Angular momentum of vacuum bubbles in a first-order phase transition",
+      "authors": [
+        "Jan Tristram Acuña",
+        "Danny Marfatia",
+        "Po-Yan Tseng"
+      ],
+      "abstract": "The formation of primordial black holes (PBHs) during a first-order phase transition (FOPT) in a dark sector has been of recent interest. A quantity that characterizes a black hole is its spin. We carry out the first step towards determining the spin of such PBHs, by calculating the spin of spherical false vacuum bubbles induced by cosmological perturbations. The angular momentum is given by the product of density and velocity perturbations. We carefully track the evolution of background quantities and calculate the transfer functions during the FOPT. We find that the dimensionless spin parameter $s = J/(G_{\\rm N} M^2)$ of false vacuum bubbles of mass $M$ and angular momentum $J$, take a wide range of values from ${\\cal{O}}(10^{-5})$ to ${\\cal{O}}(10)$ for FOPTs between 10 keV and 100 GeV and a dark sector that is 0.1 to 0.4 times cooler than the visible sector. We also find a scaling relation between the root-mean-square value of the spin, the FOPT time scale, the bubble wall velocity, and the dark sector-to-visible sector temperature ratio.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "hep-ex"
+      ],
+      "published": "2025-05-14T07:28:01+00:00",
+      "updated": "2026-04-22T04:41:02+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2505.09202v3",
+      "html_url": "https://arxiv.org/html/2505.09202v3",
+      "entry_url": "http://arxiv.org/abs/2505.09202v3"
+    },
+    {
+      "arxiv_id": "2505.09832v3",
+      "base_id": "2505.09832",
+      "title": "LITMUS: Bayesian Lag Recovery in Reverberation Mapping with Fast Differentiable Models",
+      "authors": [
+        "Hugh G. McDougall",
+        "Tamara M. Davis",
+        "Benjamin J. S. Pope"
+      ],
+      "abstract": "Reverberation mapping is a technique in which the mass of a Seyfert I galaxy's central supermassive black hole is estimated, along with the system's physical scale, from the timescale at which variations in brightness propagate through the galactic nucleus. This mapping allows for a long baseline of time measurements to extract spatial information beyond the angular resolution of our telescopes, and is the main means of constraining supermassive black hole masses at high redshift. The most recent generation of multi-year reverberation mapping campaigns for large numbers of active galactic nuclei (e.g. OzDES) have had to deal with persistent complications of identifying false positives, such as those arising from aliasing due to seasonal gaps in time-series data. We introduce LITMUS (Lag Inference Through the Mixed Use of Samplers), a modern lag recovery tool built on the \"damped random walk\" model of quasar variability, built in the autodiff framework JAX. LITMUS is purpose built to handle the multimodal aliasing of seasonal observation windows and provides evidence integrals for model comparison, a more quantified alternative to existing methods of lag validation. LITMUS also offers a flexible modular framework for extending modelling of AGN variability, and includes JAX-enabled implementations of other popular lag recovery methods like nested sampling and the interpolated cross correlation function. We test LITMUS on a number of mock light curves modelled after the OzDES sample and find that it recovers their lags with high precision and a successfully identifies spurious lag recoveries, reducing its false positive rate to drastically outperform the state of the art program JAVELIN. LITMUS's high performance is accomplished by an algorithm for mapping the Bayesian posterior density which both constrains the lag and offers a Bayesian framework for model null hypothesis testing.",
+      "categories": [
+        "astro-ph.GA",
+        "astro-ph.CO",
+        "astro-ph.IM"
+      ],
+      "published": "2025-05-14T22:23:08+00:00",
+      "updated": "2026-05-11T13:54:43+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2505.09832v3",
+      "html_url": "https://arxiv.org/html/2505.09832v3",
+      "entry_url": "http://arxiv.org/abs/2505.09832v3"
+    }
+  ],
+  "total": 2
+}

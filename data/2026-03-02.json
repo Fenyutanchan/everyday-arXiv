@@ -1,0 +1,124 @@
+{
+  "date": "2026-03-02",
+  "papers": [
+    {
+      "arxiv_id": "2603.01543v2",
+      "base_id": "2603.01543",
+      "title": "Mass-type invariants in the presence of a cosmological constant",
+      "authors": [
+        "Virginia Agostiniani",
+        "Stefano Borghini",
+        "Lorenzo Mazzieri"
+      ],
+      "abstract": "In this paper, we introduce a new family of mass-type invariants for time-symmetric initial data in space-times satisfying the Dominant Energy Condition. For positive cosmological constant, these invariants, unlike the total Hawking mass, turn out to be genuinely effective in providing new characterizations of the de Sitter solution. From a theoretical standpoint, this opens a new perspective on how one might refine the rigidity statement originally proposed by Min-Oo in his well known conjecture, later refuted by the counterexamples of Brendle, Marques, and Neves. Via a formal limiting procedure, we also define another invariant, the 1-harmonic Mass, for which we independently prove a positive mass theorem and a Penrose-type inequality, thereby extending tools for probing space-time geometries in the presence of a positive cosmological constant.",
+      "categories": [
+        "math.DG",
+        "gr-qc",
+        "math.AP"
+      ],
+      "published": "2026-03-02T07:15:30+00:00",
+      "updated": "2026-04-27T12:17:52+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.01543v2",
+      "html_url": "https://arxiv.org/html/2603.01543v2",
+      "entry_url": "http://arxiv.org/abs/2603.01543v2"
+    },
+    {
+      "arxiv_id": "2603.02124v2",
+      "base_id": "2603.02124",
+      "title": "On the Physical Nature of the Scalar Mode Mass in the Jordan frame of a Metric $f(R)$ gravity",
+      "authors": [
+        "Giovanni Montani",
+        "Andrea Valletta"
+      ],
+      "abstract": "We analyze the Taylor expansion of metric $f(R)$ gravity in the Jordan frame around the General Relativity limit. By relating the scalar--tensor representation to the original $f(R)$ formulation, we derive constraints on the expansion parameters from the observed value of the present-day $Λ$CDM deceleration parameter and from cosmological bounds on the variation of Newton's constant. We show that these requirements imply that the scalar degree of freedom must have a mass exceeding the Hubble scale by several orders of magnitude. This result challenges the common assumption that the scalar mode can drive cosmological dynamics with a mass of order $H_0$. We provide a dynamical interpretation of this hierarchy by emphasizing that a proper definition of the scalar mass, in a field-theoretical sense, requires an adiabatic separation between background evolution and perturbations, which naturally leads to a super-Hubble mass scale.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2026-03-02T17:42:40+00:00",
+      "updated": "2026-04-25T13:04:25+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.02124v2",
+      "html_url": "https://arxiv.org/html/2603.02124v2",
+      "entry_url": "http://arxiv.org/abs/2603.02124v2"
+    },
+    {
+      "arxiv_id": "2603.01411v2",
+      "base_id": "2603.01411",
+      "title": "Naturalness and Fisher Information",
+      "authors": [
+        "James Halverson",
+        "Thomas R. Harvey",
+        "Michael Nee"
+      ],
+      "abstract": "Fine-tuning and naturalness, the sensitivity of low-energy observables to small changes in the fundamental parameters of a theory, are cornerstones of physics beyond the Standard Model. We propose a new measure of fine-tuning based on information theory. To each point in parameter space we associate a probability distribution over observables. Divergence measures encode the sensitivity of observables to model parameters and determine a Riemannian metric on parameter space. By Chentsov's theorem, the physically motivated metric is the Fisher information metric, up to scaling. We propose a rescaled fine-tuning matrix $\\mathcal{F}_{ij}$ derived from the Fisher information matrix, whose non-zero eigenvalues serve as our measure of fine-tuning. When the number of observables exceeds the number of parameters, $\\mathcal{F}_{ij}$ admits a natural geometric interpretation as the pullback of the Euclidean metric from observable space to the submanifold of admissible predictions, with large eigenvalues corresponding to highly stretched directions and indicative of fine-tuning. Our measure reproduces the familiar Barbieri--Giudice criterion as a special case, while generalising it to multiple correlated parameters. We illustrate its behaviour on dimensional transmutation, the Wilson--Fisher fixed point, a simple model of the hierarchy problem, and the electron Yukawa coupling, finding agreement with physical intuition in each case.",
+      "categories": [
+        "hep-th",
+        "hep-ex",
+        "hep-ph"
+      ],
+      "published": "2026-03-02T03:28:58+00:00",
+      "updated": "2026-05-01T15:42:18+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.01411v2",
+      "html_url": "https://arxiv.org/html/2603.01411v2",
+      "entry_url": "http://arxiv.org/abs/2603.01411v2"
+    },
+    {
+      "arxiv_id": "2603.01636v2",
+      "base_id": "2603.01636",
+      "title": "Covariant Cherenkov Radiation and its Friction Force",
+      "authors": [
+        "Will Price",
+        "Martin S. Formanek",
+        "Johann Rafelski"
+      ],
+      "abstract": "We derive the covariant generalization of the Frank-Tamm formula describing the Cherenkov radiation by a charged particle moving uniformly with a speed faster than the local speed of light within a homogeneous dielectric medium. We use our result to derive the covariant Cherenkov radiation reaction force and obtain a four-force explicitly orthogonal to particle four-velocity consistent with a relativistic friction force. We present the photon emission spectrum that is dependent primarily on the dielectric properties of the medium. We hint at a possible use of this work to interpret an excess of soft photons seen in relativistic hadron collisions.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-03-02T09:10:39+00:00",
+      "updated": "2026-05-04T09:25:25+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.01636v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2603.01636v2"
+    },
+    {
+      "arxiv_id": "2603.02310v2",
+      "base_id": "2603.02310",
+      "title": "The Latent Information Geometry of Jet Classification",
+      "authors": [
+        "Rebecca Maria Kuntz",
+        "Tilman Plehn",
+        "Björn Malte Schäfer",
+        "Benedikt Schosser",
+        "Sophia Vent"
+      ],
+      "abstract": "Latent representations are an important theme in modern machine learning. Any network training with the notion of locality introduces a latent geometry which we can analyze with the help of differential geometry, specifically information geometry. We introduce the main concepts needed to analyze learned latent geometries, specifically curvature and nonmetricities, and show how they can be used for decoder and classifier geometries. We then apply our new methods to understand the physics behind binary quark-gluon classification and three-fold fat jet tagging.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-03-02T19:00:01+00:00",
+      "updated": "2026-05-06T08:29:35+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.02310v2",
+      "html_url": "https://arxiv.org/html/2603.02310v2",
+      "entry_url": "http://arxiv.org/abs/2603.02310v2"
+    },
+    {
+      "arxiv_id": "2603.01507v2",
+      "base_id": "2603.01507",
+      "title": "Anisotropic matter and nonlinear electromagnetics black holes",
+      "authors": [
+        "Yun Soo Myung",
+        "Wonwoo Lee"
+      ],
+      "abstract": "It is shown that anisotropic matter black holes with two parameters $w$ and $K$ correspond to nonlinear electrodynamics (NED) black holes with power-index $s$ and charge term $ξ(s,q)$ by introducing a NED term. These NED black holes include dark matter ($s=3/4$), constant scalar hair ($s=1$), charged quantum Oppenheimer-Snyder ($s=3/2$), and Einstein-Euler-Heisenberg ($s=2$) black holes derived from their known actions. Rotating NED black holes can be obtained from rotating anisotropic matter black holes when replacing $w$ and $K$ by $2s-1$ and $ξ(s,q)$. The extremal rotating NED black holes being the boundary between rotating charged NED black hole and naked singularity are derived as functions of the rotation parameter $a(q)$.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2026-03-02T06:33:40+00:00",
+      "updated": "2026-05-18T04:43:48+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.01507v2",
+      "html_url": "https://arxiv.org/html/2603.01507v2",
+      "entry_url": "http://arxiv.org/abs/2603.01507v2"
+    }
+  ],
+  "total": 6
+}

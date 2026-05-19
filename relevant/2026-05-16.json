@@ -1,0 +1,59 @@
+{
+  "date": "2026-05-16",
+  "total": 2,
+  "papers": [
+    {
+      "arxiv_id": "2605.17178v1",
+      "base_id": "2605.17178",
+      "title": "An EFT Map of Axion Dark Radiation from Reheating",
+      "authors": [
+        "Yong Xu"
+      ],
+      "abstract": "Light, weakly coupled sectors can retain information about the cosmological background in which they are produced. We study light axions produced during reheating and their contribution to dark radiation, $ΔN_{\\rm eff}$. We develop a shift-symmetric EFT in which an inflaton-dependent axion kinetic term systematically organizes the leading production channels. The same kinetic function generates both direct inflaton decay and inflaton annihilation from the oscillating inflaton background. Direct decay is described by an invisible inflaton branching fraction, while annihilation is a genuinely reheating-sensitive source controlled by a coherent combination of Wilson coefficients. We derive the contribution to $ΔN_{\\rm eff}$ from both channels and show that they scale oppositely with the reheating temperature: the decay contribution falls as $T_{\\rm rh}^{-2}$, whereas the annihilation contribution grows approximately as $T_{\\rm rh}^{4/3}$. Their crossing is missed by treatments that keep only one production channel. We translate current and projected $ΔN_{\\rm eff}$ sensitivities into constraints on the Wilson coefficients of the kinetic function, obtaining a two-dimensional EFT map of axion dark radiation from reheating. This map can imply both lower and upper bounds on the reheating temperature, showing that light axion relics can turn dark radiation measurements into constraints on reheating.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "published": "2026-05-16T22:29:19+00:00",
+      "updated": "2026-05-16T22:29:19+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.17178v1",
+      "html_url": "https://arxiv.org/html/2605.17178v1",
+      "entry_url": "http://arxiv.org/abs/2605.17178v1",
+      "relevance": {
+        "relevant": true,
+        "score": 9,
+        "reason": "This paper directly intersects multiple core interests: cosmic reheating dynamics, axion physics, and cosmological ΔN_eff constraints, making it highly relevant to the user's research on early-universe cosmology and axion dark matter.",
+        "pass_number": 1,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2603.24677v2",
+      "base_id": "2603.24677",
+      "title": "Constraints on Light Sterile Neutrinos and Scalar Non-Standard Interactions Using the First Reactor Antineutrino Oscillation Results at JUNO",
+      "authors": [
+        "L. J. Flores",
+        "R. Pacheco-Aké",
+        "Eduardo Peinado",
+        "G. Sanchez Garcia",
+        "E. Vázquez-Jáuregui"
+      ],
+      "abstract": "Constraints on light sterile neutrinos and scalar non-standard neutrino interactions are obtained from the first reactor antineutrino results reported by JUNO. The analysis is based on a spectral $χ^2$ fit to the prompt-energy distribution corresponding to 59.1 days of data, including full three-flavor oscillations extended to a $3+1$ framework and effective scalar NSI contributions. The reactor flux is modeled using the Daya Bay measured spectrum, and systematic uncertainties are accounted for through a set of nuisance parameters describing reactor flux normalization, spectral shape, background normalization, and detector response. It is found that JUNO is already sensitive to light sterile neutrinos in the mass-splitting range $10^{-5} \\lesssim Δm^2_{41}/\\text{eV}^2 \\lesssim 10^{-2}$, probing mixing amplitudes down to $\\sin^2 2θ_{14} \\sim \\mathcal{O}(10^{-1})$. In addition, a constraint on the scalar NSI parameter $|η_{ee}| < \\mathcal{O}(10^{-2})$ is obtained, with correlations with solar oscillation parameters. These results demonstrate the potential of JUNO to probe small deviations from the Standard Model resulting from new physics through precision measurements, with significant improvements expected as statistics and systematic control improve.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-03-25T18:00:39+00:00",
+      "updated": "2026-05-16T16:36:10+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.24677v2",
+      "html_url": "https://arxiv.org/html/2603.24677v2",
+      "entry_url": "http://arxiv.org/abs/2603.24677v2",
+      "relevance": {
+        "relevant": true,
+        "score": 9,
+        "reason": "This paper directly analyzes JUNO's first reactor antineutrino data—the user's own experiment—to constrain light sterile neutrinos and scalar NSI, both of which fall squarely within the user's stated neutrino physics and JUNO phenomenology research interests.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    }
+  ]
+}

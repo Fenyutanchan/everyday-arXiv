@@ -1,0 +1,46 @@
+{
+  "date": "2025-06-02",
+  "papers": [
+    {
+      "arxiv_id": "2506.02109v2",
+      "base_id": "2506.02109",
+      "title": "Towards a microscopic description of de Sitter dynamics",
+      "authors": [
+        "Vladimir Narovlansky"
+      ],
+      "abstract": "Describing dynamics in a gravitational universe with positive cosmological constant, such as de Sitter space, is a conceptually challenging problem. We propose a principle for constructing a quantum system that can potentially be used to study this question. This quantum system describes a heavy object in such a universe interacting with its environment, to which gauge invariant dynamical observables can be anchored. In order to describe gravity with positive cosmological constant, the proposed quantum system needs to agree with all known semiclassical results. We investigate this with a particular microscopic realization constructed using SYK. We first find that correlators match the classical limit of gravity, given by quantum fields in rigid de Sitter space. In particular, the usual UV behavior of quantum fields is surprisingly reproduced by the quantum mechanical system. In order to probe small effects in the gravitational constant, we also consider the intrinsically dynamical out-of-time-order correlators (OTOCs). These correspond to gravitational scattering in the bulk away from the worldline associated with the quantum system. Such OTOCs have highly non-trivial features in de Sitter space, including a Lyapunov exponent which is twice as big as the maximal chaos exponent from the bound on chaos, as well as an unusual behavior of the coefficients in various OTOCs. Interestingly, we find that these features are reproduced by the quantum system.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2025-06-02T18:00:02+00:00",
+      "updated": "2026-05-05T20:05:22+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.02109v2",
+      "html_url": "https://arxiv.org/html/2506.02109v2",
+      "entry_url": "http://arxiv.org/abs/2506.02109v2"
+    },
+    {
+      "arxiv_id": "2506.01957v3",
+      "base_id": "2506.01957",
+      "title": "Violation of Universal Operator Growth Hypothesis in $\\mathcal{W}_3$Conformal Field Theories",
+      "authors": [
+        "Dileep P. Jatkar",
+        "Sujoy Mahato",
+        "Sukrut Mondkar",
+        "Praveen Thalore"
+      ],
+      "abstract": "We show that operator growth in large-central-charge conformal field theories with $\\mathcal{W}_3$ symmetry can violate the universal operator growth hypothesis once the Liouvillian is enlarged to probe the higher-spin generators. For the generalized Liouvillian $\\mathcal{L} = κ_1 \\left( L_1 + L_{-1} \\right) + κ_2 \\left( W_2 + W_{-2} \\right)$, we compute the Lanczos coefficients in the descendant module of a heavy primary and find several classes with faster-than-linear growth in the descendant level $N$, including maximally violating sectors with asymptotic behavior $b_N \\sim N^2$. This superlinear growth exceeds the conjectured bound and renders the Krylov complexity divergent. We further show that the same quadratic asymptotic growth already arises in the global $SL(3, \\mathbb{R})$ subalgebra, indicating that the violation is rooted in the extended higher-rank symmetry itself. Our results demonstrate that extended $\\mathcal{W}$-symmetries can qualitatively modify operator growth and evade conventional bounds on information scrambling.",
+      "categories": [
+        "hep-th",
+        "cond-mat.str-el",
+        "quant-ph"
+      ],
+      "published": "2025-06-02T17:59:59+00:00",
+      "updated": "2026-05-11T04:09:00+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.01957v3",
+      "html_url": "https://arxiv.org/html/2506.01957v3",
+      "entry_url": "http://arxiv.org/abs/2506.01957v3"
+    }
+  ],
+  "total": 2
+}

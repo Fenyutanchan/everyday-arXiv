@@ -1,0 +1,44 @@
+{
+  "date": "2026-02-07",
+  "papers": [
+    {
+      "arxiv_id": "2602.07651v2",
+      "base_id": "2602.07651",
+      "title": "Cosmology with one galaxy: An analytic formula relating $Ω_{\\rm m}$ with galaxy properties",
+      "authors": [
+        "Kito Liao",
+        "Francisco Villaescusa-Navarro",
+        "Romain Teyssier",
+        "Natalí S. M. de Santi"
+      ],
+      "abstract": "Standard cosmological analyses typically treat galaxy formation and cosmological parameter inference as decoupled problems, relying on population-level statistics such as clustering, lensing, or halo abundances. However, classical studies of baryon fractions in massive galaxy clusters have long suggested that gravitationally bound systems may retain cosmological information through their baryonic content. Building on this insight, we present the first analytic and physically interpretable cosmological tracer that links the matter density parameter, $Ω_m$, directly to intrinsic galaxy-scale observables, demonstrating that cosmological information can be extracted from individual galaxies. Using symbolic regression applied to state-of-the-art hydrodynamical simulations from the CAMELS project, we identify a compact functional form that robustly recovers $Ω_m$ across multiple simulation suites (IllustrisTNG, ASTRID, SIMBA, and Swift-EAGLE), requiring only modest recalibration of a small number of coefficients. The resulting expression admits a transparent physical interpretation in terms of baryonic retention and enrichment efficiency regulated by gravitational potential depth, providing a clear explanation for why $Ω_m$ is locally encoded in galaxy properties. Our work establishes a direct, interpretable bridge between small-scale galaxy physics and large-scale cosmology, opening a complementary pathway to cosmological inference that bypasses traditional clustering-based statistics and enables new synergies between galaxy formation theory and precision cosmology.",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.GA"
+      ],
+      "published": "2026-02-07T18:23:07+00:00",
+      "updated": "2026-04-27T14:45:49+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.07651v2",
+      "html_url": "https://arxiv.org/html/2602.07651v2",
+      "entry_url": "http://arxiv.org/abs/2602.07651v2"
+    },
+    {
+      "arxiv_id": "2602.07389v2",
+      "base_id": "2602.07389",
+      "title": "A General Formulation of the Kinematic Dipole as a Functional of Selection and Source Properties: Beyond the Ellis--Baldwin Approximation",
+      "authors": [
+        "Tsutomu T. Takeuchi"
+      ],
+      "abstract": "The dipole anisotropy in galaxy and QSO number counts induced by the motion of the observer (the kinematic dipole) provides an important test of cosmological isotropy and a comparison with the Cosmic Microwave Background (CMB) dipole. Traditionally, the Ellis \\& Baldwin expression,$\\mathcal{A}=2+x(1+α)$, has been widely adopted, assuming power-law number counts and a single power-law spectral energy distribution (SED). Realistic surveys, however, involve a range of non-ideal effects, including diverse SEDs, finite instrumental bandpasses, non-power-law number counts, multi-band photometry and photo-$z$ selections, and direction-dependent or stochastic detection limits. In this paper, we incorporate these effects explicitly at the theoretical level and present a unified formulation of the kinematic dipole for a general parent population and a general multi-dimensional selection function. We show that the dipole amplitude is not described by a single index, but is instead given by a functional, $\\mathcal{A}[\\mathcal{W},f]$, defined as the Doppler response of the selection function acting on the underlying population. We demonstrate that the classical Ellis--Baldwin result is recovered as a special limiting case of this formalism, and clarify the relation between the theoretical coefficient $\\mathcal{A}$ and the dipole vector estimated from finite catalogs, separating theoretical response from statistical uncertainty. This framework provides a basis for reinterpreting reported discrepancies in kinematic dipole measurements across surveys and is directly applicable to future wide-area, multi-band observations.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2026-02-07T06:08:53+00:00",
+      "updated": "2026-05-08T12:55:40+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.07389v2",
+      "html_url": "https://arxiv.org/html/2602.07389v2",
+      "entry_url": "http://arxiv.org/abs/2602.07389v2"
+    }
+  ],
+  "total": 2
+}

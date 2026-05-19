@@ -1,0 +1,89 @@
+{
+  "date": "2025-04-29",
+  "papers": [
+    {
+      "arxiv_id": "2504.20478v5",
+      "base_id": "2504.20478",
+      "title": "Tomographic Alcock-Paczynski Test with Marked Correlation Functions",
+      "authors": [
+        "Liang Xiao",
+        "Limin Lai",
+        "Zhujun Jiang",
+        "Xiao-Dong Li",
+        "Le Zhang"
+      ],
+      "abstract": "The tomographic Alcock-Paczynski(AP) method, developed over the past decade, exploits redshift evolution for cosmological determination, aiming to mitigate contamination from redshift distortions and capture nonlinear scale information. Marked Correlation Functions (MCFs) extend information beyond the two-point correlation. For the first time, this study integrated the tomographic AP test with MCFs to constrain the flat $w$CDM cosmology model. Our findings show that multiple density weights in MCFs outperform the traditional two-point correlation function, reducing the uncertainties of the matter density parameter $Ω_m$ and dark energy equation of state $w$ by 48\\% and 45\\%, respectively. Furthermore, we introduce a novel principal component analysis (PCA) compression scheme that efficiently projects high-dimensional statistical measurements into a compact set of eigenmodes while preserving most of the cosmological information. This approach retains significantly more information than traditional coarse binning methods, which simply average adjacent bins in a lossy manner, yielding an additional $\\sim 40\\%$ reduction in error margins. To assess robustness, we incorporate realistic redshift errors expected in future spectroscopic surveys. While these errors modestly degrade cosmological constraints, our combined framework, which utilizes MCFs and PCA compression within tomographic AP tests, is less affected and always yields tight cosmological constraints. This scheme remains highly promising for upcoming slitless spectroscopic surveys, such as the Chinese Space Station Telescope (CSST).",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2025-04-29T07:19:58+00:00",
+      "updated": "2026-04-17T05:39:20+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2504.20478v5",
+      "html_url": "https://arxiv.org/html/2504.20478v5",
+      "entry_url": "http://arxiv.org/abs/2504.20478v5"
+    },
+    {
+      "arxiv_id": "2504.20457v2",
+      "base_id": "2504.20457",
+      "title": "Modular Channels, Thermal Filtering and the Spectral Emergence of Spacetime",
+      "authors": [
+        "Pedro J. Trejo-Calderón"
+      ],
+      "abstract": "We investigate the information-theoretic structure underlying causal horizons through the formalism of modular quantum channels. By analyzing the singular value decomposition of the channel induced by the partial trace over inaccessible regions, we show that the Unruh effect and the Page curve can be understood as manifestations of a universal thermal filtering mechanism governed by the modular Hamiltonian. This structure leads to a Gibbs-weighted hierarchy of information transmission modes, with entanglement entropy corresponding to spectral activation and thermal capacity.   We reinterpret the first law of entanglement as a Clausius relation for modular flow and derive Einstein's equations by requiring its local validity across Rindler horizons. In the case of black hole evaporation, we find that the modular channel undergoes an informational phase transition at the Page time, marked by a shift from entanglement preservation to recoverability, quantified through fidelity and channel capacity.   Based on these results, we propose the Modular Channels Flow Correspondence (MCFC): a minimal holographic principle whereby the area of a causal screen measures the storage of filtered quantum information. Our framework offers a unified operational account of holography, entropy, and curvature, grounded in the spectral dynamics of modular channels.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-04-29T06:35:15+00:00",
+      "updated": "2026-04-21T07:01:33+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2504.20457v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2504.20457v2"
+    },
+    {
+      "arxiv_id": "2504.20992v2",
+      "base_id": "2504.20992",
+      "title": "Constraints on primordial non-Gaussianity from Quaia",
+      "authors": [
+        "Giulio Fabbian",
+        "David Alonso",
+        "Kate Storey-Fisher",
+        "Thomas Cornish"
+      ],
+      "abstract": "We analyse the large-scale angular clustering of quasars in the \\gaia-\\unwise quasar catalog, \\quaia, and their cross-correlation with maps of the lensing convergence of the Cosmic Microwave Background (CMB), to constrain the level of primordial non-Gaussianity (PNG). Specifically, we target the scale-dependent bias that would be induced by PNG on biased tracers of the matter inhomogeneities on large scales. The \\quaia sample is particularly well suited for this analysis, given the large effective volume covered, and our ability to map out the main potential sources of systematic contamination and mitigate their impact. Using the universality relation to characterise the response of the quasar overdensity to PNG ($p_φ=1$), we report constraints on the local-type PNG parameter $f_{\\rm NL}$ of $f_{\\rm NL} =-20.5^{+19.0}_{-18.1}$ (68\\% C.L.) by combining the quasar auto-correlation and its cross-correlation with CMB lensing in two tomographic redshift bins (or $f_{\\rm NL} =-28.7^{+26.1}_{-24.6}$ if assuming a lower response for quasars, $p_φ=1.6$). The error on $f_{\\rm NL}$ can be further improved if the cross-correlation between the tomographic redshift bins is included. Using the CMB lensing cross-correlations alone, we find $f_{\\rm NL} =-13.8^{+26.7}_{-25.0}$ and $f_{\\rm NL} = -15.6^{+42.3}_{-34.8}$ for $p_φ=1$ and $p_φ=1.6$ respectively. These are the tightest constraints on $f_{\\rm NL}$ to date from angular clustering statistics and cross-correlations with CMB lensing.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "published": "2025-04-29T17:58:04+00:00",
+      "updated": "2026-05-18T16:14:42+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2504.20992v2",
+      "html_url": "https://arxiv.org/html/2504.20992v2",
+      "entry_url": "http://arxiv.org/abs/2504.20992v2"
+    },
+    {
+      "arxiv_id": "2504.20404v5",
+      "base_id": "2504.20404",
+      "title": "Beyond Robertson-Schrödinger: A General Uncertainty Relation Unveiling Hidden Noncommutative Trade-offs",
+      "authors": [
+        "Gen Kimura",
+        "Aina Mayumi",
+        "Hiromichi Ohno",
+        "Jaeha Lee",
+        "Dariusz Chruściński"
+      ],
+      "abstract": "We report a universal improvement to the standard Robertson--Schrödinger uncertainty relation. Our result shows that the Robertson--Schrödinger lower bound can be supplemented by a new noncommutativity-induced term. This term represents a previously overlooked quantum contribution and becomes more pronounced as the state becomes more mixed. Moreover, it is expressed as the expectation value of a positive observable, namely the squared modulus of the commutator, and therefore preserves the direct, experimentally accessible character of the Robertson--Schrödinger relation. For two-level quantum systems, our relation becomes an \\emph{exact equality} for \\emph{any} state and \\emph{any} pair of observables, thereby ensuring the tightness of the bound in the strongest possible sense. The relation also yields, as a corollary, a complete proof of a general uncertainty bound that had previously been supported only by numerical evidence.",
+      "categories": [
+        "quant-ph",
+        "cond-mat.stat-mech",
+        "hep-th",
+        "math-ph"
+      ],
+      "published": "2025-04-29T04:00:02+00:00",
+      "updated": "2026-05-16T04:41:31+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2504.20404v5",
+      "html_url": "https://arxiv.org/html/2504.20404v5",
+      "entry_url": "http://arxiv.org/abs/2504.20404v5"
+    }
+  ],
+  "total": 4
+}

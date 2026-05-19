@@ -1,0 +1,195 @@
+{
+  "date": "2025-11-19",
+  "papers": [
+    {
+      "arxiv_id": "2511.15693v3",
+      "base_id": "2511.15693",
+      "title": "Effects of short-range correlations at high densities on neutron stars with and without DM content: role of the repulsive self-interaction",
+      "authors": [
+        "Odilon Lourenço",
+        "Everson H. Rodrigues",
+        "Carline Biesdorf",
+        "Mariana Dutra"
+      ],
+      "abstract": "In this work, we investigate how short-range correlations affect relativistic hadronic models at high densities, with direct consequences for the structure of neutron stars, both with and without dark matter content. Two versions of the model are examined: one with vector self-interactions up to second order ($ω_0^2$) and another including a fourth-order term ($ω_0^4$). We show that SRC tend to soften the equation of state when only the quadratic term is present, but produce a noticeable stiffening once the $ω_0^4$ term is included. The corresponding Tolman-Oppenheimer-Volkoff solutions for pure neutron stars indicate that short-range correlations reduce the maximum mass in the first case but increase it in the second. Extending the analysis to stars containing a fermionic dark matter component, within the two-fluid formalism, we verify that the same features appear in the respective mass-radius diagrams. In particular, the decrease of the maximum mass with increasing dark matter fraction is partly compensated by the SRC effects in the hadronic sector for the model with the fourth-order term. In all cases, the resulting parametrizations are consistent with recent astrophysical constraints, including the joint NICER-XMM-Newton analyses of the pulsars PSR J0030+0451 and PSR J0740+6620, as well as the gravitational-wave event GW190425.",
+      "categories": [
+        "nucl-th",
+        "hep-ph"
+      ],
+      "published": "2025-11-19T18:50:27+00:00",
+      "updated": "2026-04-20T17:28:30+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.15693v3",
+      "html_url": "https://arxiv.org/html/2511.15693v3",
+      "entry_url": "http://arxiv.org/abs/2511.15693v3"
+    },
+    {
+      "arxiv_id": "2511.15697v2",
+      "base_id": "2511.15697",
+      "title": "Real-time Scattering in φ^4 Theory using Matrix Product States",
+      "authors": [
+        "Bahaa Al Sayegh",
+        "Wissam Chemissany"
+      ],
+      "abstract": "We investigate the critical behavior and real-time scattering dynamics of the interacting $φ^4$ quantum field theory in (1+1)-dimensions using uniform matrix product states (uMPS) and the time-dependent variational principle (TDVP). A finite-entanglement scaling analysis at $λ= 0.8$ bounds the critical mass-squared to $μ_c^2 \\in ]-0.2595,-0.2594[$ and provides a quantitative map of the symmetric, near-critical, and spontaneously broken regimes. Using these ground states as asymptotic vacua, we simulate two-particle collisions in a sandwich geometry and extract the elastic scattering probability $P_{11\\to 11}(E)$ and Wigner time delay $Δt(E)$ using a sandwich geometry protocol. We find strongly inelastic scattering in the symmetric phase ($P_{11\\to 11} \\simeq 0.712$, $Δt \\simeq -158$ for $μ^2 = +0.2$) and almost perfectly elastic collisions in the spontaneously broken phase ($P_{11\\to 11} \\simeq 1$, $Δt \\simeq -108$ for $μ^2=-0.1$ and $P_{11\\to 11} \\simeq 1$, $Δt \\simeq -177.781$ for $μ^2=-0.5$). Crucially, the scattering protocol exhibits a distinctive divergence near the critical coupling; we show that this behavior serves as a dynamical signature of the quantum critical point, arising directly from the closing of the mass gap. These results demonstrate that TDVP-based uMPS can effectively probe nonperturbative scattering and critical dynamics in lattice field theories with controlled entanglement truncation.",
+      "categories": [
+        "hep-th",
+        "cond-mat.str-el",
+        "hep-lat",
+        "quant-ph"
+      ],
+      "published": "2025-11-19T18:55:00+00:00",
+      "updated": "2026-04-18T11:20:05+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.15697v2",
+      "html_url": "https://arxiv.org/html/2511.15697v2",
+      "entry_url": "http://arxiv.org/abs/2511.15697v2"
+    },
+    {
+      "arxiv_id": "2511.15892v2",
+      "base_id": "2511.15892",
+      "title": "Consistent subsectors of maximal supergravity and wrapped M5-branes",
+      "authors": [
+        "Martin Pico",
+        "Oscar Varela"
+      ],
+      "abstract": "A new family of $D=4$ $\\mathcal{N}=8$ gauged supergravities is introduced, consisting in a mixture of Scherk-Schwarz and dyonic CSO gaugings that involves the trombone scaling symmetry. A specific theory in this class is shown to admit supersymmetric anti-de Sitter vacua, argued to be related to various wrapped M5-brane configurations. The mass spectrum of these vacua within our maximal theory is computed, extending previous results in smaller gauged supergravity models, and shown to exhibit some exotic features due to the trombone gauging. These vacua are obtained as solutions of certain subsectors of our $\\mathcal{N}=8$ supergravity. Such subsectors in turn arise by consistent truncation of the parent maximal supergravity to the invariant fields under specific groups that are not contained in the $\\mathcal{N}=8$ gauge group. Prompted by these and other similar subtruncations recently considered, we formalise sufficient conditions that allow any maximal supergravity to be truncated consistently to invariant subsectors thereof when the invariance group is not necessarily contained in the $\\mathcal{N}=8$ gauge group.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2025-11-19T21:44:10+00:00",
+      "updated": "2026-04-15T15:54:06+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.15892v2",
+      "html_url": "https://arxiv.org/html/2511.15892v2",
+      "entry_url": "http://arxiv.org/abs/2511.15892v2"
+    },
+    {
+      "arxiv_id": "2511.15426v3",
+      "base_id": "2511.15426",
+      "title": "Probing decoupled Throats of AdS$_{D}$ Black Holes in $D=6,7$",
+      "authors": [
+        "Weichao Bu",
+        "Yang Lei"
+      ],
+      "abstract": "The Kerr/CFT correspondence establishes a relationship between extremal black holes in higher dimensions and a chiral conformal field theory (CFT) in their near-horizon limit. A generalization of this framework, known as the EVH/CFT correspondence, has been developed for four- and five-dimensional AdS black holes. It was further proposed in arXiv:1910.14293 that a generalized duality between $(D-2)$-dimensional geometry and $(D-3)$-dimensional field theory may emerge in AdS$_{D=6,7}$ black holes under a suitably defined extremal vanishing horizon (EVH) limit. In this work, we demonstrate that the near-EVH geometries arising in these AdS$_{6,7}$ black hole models, under the EVH limit, reduce to lower-dimensional black hole solutions whose metrics are conformally related to configurations of Einstein-Maxwell-Maxwell-dilaton (EMMD) gravity. This structural resemblance suggests a potential route toward a microscopic counting of non-AdS black hole entropy via higher-dimensional AdS/CFT techniques.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2025-11-19T13:25:36+00:00",
+      "updated": "2026-04-14T11:36:38+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.15426v3",
+      "html_url": "https://arxiv.org/html/2511.15426v3",
+      "entry_url": "http://arxiv.org/abs/2511.15426v3"
+    },
+    {
+      "arxiv_id": "2511.15381v2",
+      "base_id": "2511.15381",
+      "title": "New algorithms for Feynman integral reduction and $\\varepsilon$-factorised differential equations",
+      "authors": [
+        "Iris Bree",
+        "Federico Gasparotto",
+        "Antonela Matijašić",
+        "Pouria Mazloumi",
+        "Dmytro Melnichenko",
+        "Sebastian Pögel",
+        "Toni Teschke",
+        "Xing Wang",
+        "Stefan Weinzierl",
+        "Konglong Wu",
+        "Xiaofeng Xu"
+      ],
+      "abstract": "In this paper, we give a detailed account of the algorithm outlined in [1] for Feynman integral reduction and $\\varepsilon$-factorised differential equations. The algorithm consists of two steps. In the first step, we use a new geometric order relation in the integration-by-parts reduction to obtain a basis of master integrals, whose differential equations on the maximal cut are of a Laurent polynomial form in the regularisation parameter $\\varepsilon$ and compatible with a filtration. This step works entirely with rational functions. In a second step, we provide a method to $\\varepsilon$-factorise the aforementioned Laurent differential equations. The second step may introduce algebraic and transcendental functions. We illustrate the versatility of the algorithm by applying it to different examples with a wide range of complexity.",
+      "categories": [
+        "hep-th",
+        "hep-ph",
+        "math-ph"
+      ],
+      "published": "2025-11-19T12:16:15+00:00",
+      "updated": "2026-05-11T16:23:12+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.15381v2",
+      "html_url": "https://arxiv.org/html/2511.15381v2",
+      "entry_url": "http://arxiv.org/abs/2511.15381v2"
+    },
+    {
+      "arxiv_id": "2511.15783v2",
+      "base_id": "2511.15783",
+      "title": "Automorphism in Gauge Theories: Higher Symmetries and Transversal Non-Clifford Logical Gates",
+      "authors": [
+        "Po-Shen Hsin",
+        "Ryohei Kobayashi"
+      ],
+      "abstract": "Gauge theories are important descriptions for many physical phenomena and systems in quantum computation. Automorphism of gauge group naturally gives global symmetries of gauge theories. In this work we study such symmetries in gauge theories induced by automorphisms of the gauge group, when the gauge theories have nontrivial topological actions in different spacetime dimensions. We discover the automorphism symmetry can be extended, become a higher group symmetry, and/or become a non-invertible symmetry. We illustrate the discussion with various models in field theory and on the lattice. In particular, we use automorphism symmetry to construct new transversal non-Clifford logical gates in topological quantum codes. In particular, we show that 2+1d $\\mathbb{Z}_N$ qudit Clifford stabilizer models can implement non-Clifford transversal logical gate in the 4th level $\\mathbb{Z}_N$ qudit Clifford hierarchy for $N\\geq 3$, extending the generalized Bravyi-König bound proposed in the companion paper [arXiv:2511.02900] for qubits.",
+      "categories": [
+        "cond-mat.str-el",
+        "hep-th",
+        "quant-ph"
+      ],
+      "published": "2025-11-19T19:00:00+00:00",
+      "updated": "2026-05-11T09:13:04+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.15783v2",
+      "html_url": "https://arxiv.org/html/2511.15783v2",
+      "entry_url": "http://arxiv.org/abs/2511.15783v2"
+    },
+    {
+      "arxiv_id": "2511.15049v3",
+      "base_id": "2511.15049",
+      "title": "The effects of dark energy on the matter-gravity coupling",
+      "authors": [
+        "Antonio Enea Romano"
+      ],
+      "abstract": "Dark energy perturbations are expected to modify the evolution of cosmological perturbations, producing different observational effects. We show that these effects can be encoded in a momentum, space and polarization dependent effective matter-gravity coupling. For scalar perturbations the effective gravitational coupling can be locally negative, in regions with local dark energy under-densities. For adiabatic perturbations the effective gravitational coupling for scalar perturbations can be negative for phantom dark energy, providing a possible explanation for the observed structure suppression at low redshift, consistent with other independent evidences of evolving dark energy. For gravitational waves the effective coupling can make the radiation emitted by compact binary convalescences polarization and frequency dependent.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO"
+      ],
+      "published": "2025-11-19T02:40:20+00:00",
+      "updated": "2026-05-18T17:46:49+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.15049v3",
+      "html_url": "https://arxiv.org/html/2511.15049v3",
+      "entry_url": "http://arxiv.org/abs/2511.15049v3"
+    },
+    {
+      "arxiv_id": "2511.15240v2",
+      "base_id": "2511.15240",
+      "title": "A construction of single-valued elliptic polylogarithms",
+      "authors": [
+        "Konstantin Baune",
+        "Johannes Broedel",
+        "Yannis Moeckli"
+      ],
+      "abstract": "We establish a general construction of single-valued elliptic polylogarithms as functions on the once-punctured elliptic curve. Our formalism is an extension of Brown's construction of genus-zero single-valued polylogarithms to the elliptic curve: the condition of trivial monodromy for solutions to the Knizhnik-Zamolodchikov-Bernard equation is expressed in terms of elliptic associators and involves two representations of a two-letter alphabet. Our elliptic single-valued condition reduces to Brown's genus-zero condition upon degeneration of the torus. We provide several examples for our construction, including the elliptic Bloch-Wigner dilogarithm.",
+      "categories": [
+        "hep-th",
+        "math-ph",
+        "math.AG",
+        "math.NT"
+      ],
+      "published": "2025-11-19T08:49:12+00:00",
+      "updated": "2026-05-18T14:06:57+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.15240v2",
+      "html_url": "https://arxiv.org/html/2511.15240v2",
+      "entry_url": "http://arxiv.org/abs/2511.15240v2"
+    },
+    {
+      "arxiv_id": "2511.15546v2",
+      "base_id": "2511.15546",
+      "title": "Extracting Mellin moments of double parton distributions from lattice data",
+      "authors": [
+        "Markus Diehl",
+        "Oskar Grocholski",
+        "Daniel Reitinger",
+        "Andreas Schäfer",
+        "Christian Zimmermann"
+      ],
+      "abstract": "Reconstructing Mellin moments of double parton distributions from calculations on a Euclidean lattice requires taking an integral over a variable that may be regarded as a Ioffe time. The Fourier conjugate of this variable plays the role of a kinematic skewness in the double parton distributions. We discuss the skewness dependence of the relevant hadronic correlation functions. Using several models, we study the impact of this dependence on extracting moments of double parton distributions from existing lattice data.",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "published": "2025-11-19T15:38:21+00:00",
+      "updated": "2026-05-18T12:25:28+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.15546v2",
+      "html_url": "https://arxiv.org/html/2511.15546v2",
+      "entry_url": "http://arxiv.org/abs/2511.15546v2"
+    }
+  ],
+  "total": 9
+}

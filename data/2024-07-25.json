@@ -1,0 +1,31 @@
+{
+  "date": "2024-07-25",
+  "papers": [
+    {
+      "arxiv_id": "2407.18319v2",
+      "base_id": "2407.18319",
+      "title": "Gravitational wave surrogate model for spinning, intermediate mass ratio binaries based on perturbation theory and numerical relativity",
+      "authors": [
+        "Katie Rink",
+        "Ritesh Bachhar",
+        "Tousif Islam",
+        "Nur E. M. Rifat",
+        "Kevin Gonzalez-Quesada",
+        "Scott E. Field",
+        "Gaurav Khanna",
+        "Scott A. Hughes",
+        "Vijay Varma"
+      ],
+      "abstract": "We present BHPTNRSur2dq1e3, a reduced order surrogate model of gravitational waves emitted from binary black hole (BBH) systems in the comparable to large mass ratio regime with aligned spin ($χ_1$) on the heavier mass ($m_1$). We trained this model on waveform data generated from point particle black hole perturbation theory (ppBHPT) with mass ratios varying from $3 \\leq q \\leq 1000$ and spins from $-0.8 \\leq χ_1 \\leq 0.8$. The waveforms are $13,500 \\ m_1$ long and include all spin-weighted spherical harmonic modes up to $\\ell = 4$ except the $(4,1)$ and $m = 0$ modes. We find that for binaries with $χ_1 \\lesssim -0.5$, retrograde quasi-normal modes are significantly excited, thereby complicating the modeling process. To overcome this issue, we introduce a domain decomposition approach to model the inspiral and merger-ringdown portion of the signal separately. The resulting model can faithfully reproduce ppBHPT waveforms with a median time-domain mismatch error of $8 \\times 10^{-5}$. We then calibrate our model with numerical relativity (NR) data in the comparable mass regime $(3 \\leq q \\leq 10)$. By comparing with spin-aligned BBH NR simulations at $q = 15$, we find that the dominant quadrupolar (subdominant) modes agree to better than $\\approx 10^{-3} \\ (\\approx 10^{-2})$ when using a time-domain mismatch error, where the largest source of calibration error comes from the transition-to-plunge and ringdown approximations of perturbation theory. Mismatch errors are below $\\approx 10^{-2}$ for systems with mass ratios between $6 \\leq q \\leq 15$ and typically get smaller at larger mass ratio. Our two models - both the ppBHPT waveform model and the NR-calibrated ppBHPT model - will be publicly available through gwsurrogate and the Black Hole Perturbation Toolkit packages.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2024-07-25T18:19:06+00:00",
+      "updated": "2026-05-15T21:01:12+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2407.18319v2",
+      "html_url": "https://arxiv.org/html/2407.18319v2",
+      "entry_url": "http://arxiv.org/abs/2407.18319v2"
+    }
+  ],
+  "total": 1
+}

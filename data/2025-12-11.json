@@ -1,0 +1,198 @@
+{
+  "date": "2025-12-11",
+  "papers": [
+    {
+      "arxiv_id": "2512.10709v3",
+      "base_id": "2512.10709",
+      "title": "Disperon QED",
+      "authors": [
+        "Yizhou Fang",
+        "Sophie Kollatzsch",
+        "Marco Rocco",
+        "Adrian Signer",
+        "Yannick Ulrich",
+        "Max Zoller"
+      ],
+      "abstract": "We present disperon QED, a method to deal with data input in loop processes in Monte Carlo codes. It relies on dispersion relations, automated tools such as OpenLoops, effective field theory methods and a threshold subtraction. We motivate this method and apply it to the process $ee\\toππ$ in McMule to deal with hadronic vacuum polarisation insertions in two-loop contributions as well as the vector form factor of the pion within the form-factor scalar QED approximation. The generality of this method for more complicated processes is emphasised.",
+      "categories": [
+        "hep-ph",
+        "hep-ex",
+        "nucl-th"
+      ],
+      "published": "2025-12-11T14:48:02+00:00",
+      "updated": "2026-04-20T08:07:23+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.10709v3",
+      "html_url": "https://arxiv.org/html/2512.10709v3",
+      "entry_url": "http://arxiv.org/abs/2512.10709v3"
+    },
+    {
+      "arxiv_id": "2512.11026v2",
+      "base_id": "2512.11026",
+      "title": "Weak Scale Triggers in the SMEFT",
+      "authors": [
+        "Pier Giuseppe Catinari",
+        "Raffaele Tito D'Agnolo",
+        "Pablo Sesma"
+      ],
+      "abstract": "There are no weak scale triggers in the SMEFT up to dimension six that can solve the hierarchy problem far above the weak scale. Our arguments can be used to show that the same is true at dimension eight. Weak scale triggers are local operators sensitive to the Higgs mass squared and they are needed in a large number of qualitatively different cosmological solutions to the hierarchy problem. These solutions have little in common besides the use of a trigger operator. We argue that focusing on the signatures of the three already-known trigger operators can lead to discover or exclude this class of solutions to the hierarchy problem.",
+      "categories": [
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2025-12-11T19:00:00+00:00",
+      "updated": "2026-04-22T14:35:10+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.11026v2",
+      "html_url": "https://arxiv.org/html/2512.11026v2",
+      "entry_url": "http://arxiv.org/abs/2512.11026v2"
+    },
+    {
+      "arxiv_id": "2512.10343v2",
+      "base_id": "2512.10343",
+      "title": "Stationary Stars Are Axisymmetric in Higher Curvature Gravity",
+      "authors": [
+        "Nitesh K. Dubey",
+        "Sanved Kolekar",
+        "Sudipta Sarkar"
+      ],
+      "abstract": "The final equilibrium stage of stellar evolution can result in either a black hole or a compact object such as a white dwarf or neutron star. In general relativity, both stationary black holes and stationary stellar configurations are known to be axisymmetric, and black hole rigidity has been extended to several higher curvature modifications of gravity. In contrast, no comparable result had previously been established for stationary stars beyond general relativity. In this work we extend the stellar axisymmetry theorem to a broad class of diffeomorphism invariant metric theories. Assuming asymptotic flatness and standard smoothness requirements, we show that the Killing symmetry implied by thermodynamic equilibrium inside the star uniquely extends to the exterior region, thereby enforcing rotational invariance. This demonstrates that axisymmetry of stationary stellar configurations is not a feature peculiar to Einstein gravity but a universal property of generally covariant gravitational theories, persisting even in the presence of higher curvature corrections.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE",
+        "astro-ph.SR",
+        "hep-th"
+      ],
+      "published": "2025-12-11T06:53:21+00:00",
+      "updated": "2026-04-23T06:04:14+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.10343v2",
+      "html_url": "https://arxiv.org/html/2512.10343v2",
+      "entry_url": "http://arxiv.org/abs/2512.10343v2"
+    },
+    {
+      "arxiv_id": "2512.11118v2",
+      "base_id": "2512.11118",
+      "title": "Network-Irreducible Multiparty Entanglement in Quantum Matter",
+      "authors": [
+        "Liuke Lyu",
+        "Pedro Lauand",
+        "William Witczak-Krempa"
+      ],
+      "abstract": "We show that the standard approach to characterize collective entanglement via genuine multiparty entanglement (GME) leads to an area law in ground and thermal Gibbs states of local Hamiltonians. To capture the truly collective part one needs to go beyond this short-range contribution tied to interfaces between subregions. Genuine network multiparty entanglement (GNME) achieves a systematic resolution of this goal by analyzing whether a $k$-party state can be prepared by a quantum network consisting of $(k-1)$-partite resources. We develop tools to certify and quantify GNME, and benchmark them for GHZ, W and Dicke states. We then study the 1d transverse field Ising model, where we find a sharp peak of GNME near the critical phase transition, and rapid suppression elsewhere. Finite temperature leads to a faster death of GNME compared to GME. Furthermore, certain 2d quantum spin liquids do not have GNME in microscopic subregions while possessing strong GME. This approach will allow to chart truly collective entanglement in quantum matter both in and out of equilibrium.",
+      "categories": [
+        "quant-ph",
+        "cond-mat.str-el",
+        "hep-th"
+      ],
+      "published": "2025-12-11T20:59:22+00:00",
+      "updated": "2026-04-27T03:44:37+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.11118v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2512.11118v2"
+    },
+    {
+      "arxiv_id": "2512.10513v2",
+      "base_id": "2512.10513",
+      "title": "A Nonlocal Realization of MOND that Interpolates from Cosmology to Gravitationally Bound Systems",
+      "authors": [
+        "C. Deffayet",
+        "R. P. Woodard"
+      ],
+      "abstract": "Nonlocal modifications of gravity derive from corrections to the quantum gravitational stress tensor which grow nonperturbatively strong during primordial inflation and may persist to the current epoch. Phenomenological constructions have been given that realize MOND in gravitationally bound systems and, separately, reproduce all the cosmological phenomena usually ascribed to dark matter, including the cosmic microwave background radiation, baryon acoustic oscillations and linearized structure formation. In this work we exhibit a single model that interpolates between the two regimes.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-th"
+      ],
+      "published": "2025-12-11T10:34:29+00:00",
+      "updated": "2026-04-30T17:01:54+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.10513v2",
+      "html_url": "https://arxiv.org/html/2512.10513v2",
+      "entry_url": "http://arxiv.org/abs/2512.10513v2"
+    },
+    {
+      "arxiv_id": "2512.11031v2",
+      "base_id": "2512.11031",
+      "title": "A Holographic Constraint on Scale Separation",
+      "authors": [
+        "Nikolay Bobev",
+        "Hynek Paul",
+        "Filippo Revello"
+      ],
+      "abstract": "We propose a new consistency condition for the compatibility of a gravitational effective field theory in AdS with a dual holographic description in terms of a family of large-$N$ CFTs. Using large-$N$ factorization of correlation functions combined with a properly defined notion of single- and multi-particle operators, we argue that the cubic scalar bulk couplings for fields dual to operators with extremal arrangements of the conformal dimensions, i.e. $Δ_i=Δ_j+Δ_k$, should vanish. We apply this criterion to the 4d $\\mathcal{N}=1$ effective supergravity theory describing the simplest DGKT AdS$_4$ vacua in type IIA string theory and show that it is non-trivially satisfied. In addition, we calculate explicitly all non-vanishing three-point correlation functions of low-lying scalar operators in the putative 3d CFTs dual to these AdS$_4$ string theory backgrounds.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2025-12-11T19:00:02+00:00",
+      "updated": "2026-05-02T08:38:27+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.11031v2",
+      "html_url": "https://arxiv.org/html/2512.11031v2",
+      "entry_url": "http://arxiv.org/abs/2512.11031v2"
+    },
+    {
+      "arxiv_id": "2512.10843v2",
+      "base_id": "2512.10843",
+      "title": "Analyticity and positivity of Green's functions without Lorentz",
+      "authors": [
+        "Paolo Creminelli",
+        "Alessandro Longo",
+        "Borna Salehian",
+        "Ahmadullah Zahed"
+      ],
+      "abstract": "We study the properties imposed by microcausality and positivity on the retarded two-point Green's function in a theory with spontaneous breaking of Lorentz invariance. We assume invariance under time and spatial translations, so that the Green's function $G$ depends on $ω$ and $\\vec k$. We discuss that in Fourier space microcausality is equivalent to the analyticity of $G$ when $\\Im (ω,\\vec k)$ lies in the forward light-cone, supplemented by bounds on the growth of $G$ as one approaches the boundaries of this domain. Microcausality also implies that the imaginary part of $G$ (its spectral density) cannot have compact support for real $(ω,\\vec k)$. Using analyticity, we write multi-variable dispersion relations and show that the spectral density must satisfy a family of integral constraints. Analogous constraints can be applied to the fluctuations of the system, via the fluctuation-dissipation theorem. A stable physical system, which can only absorb energy from external sources, satisfies $ω\\cdot \\Im G(ω,\\vec k) \\ge 0$ for real $(ω,\\vec k)$. We show that this positivity property can be extended to the complex domain: $\\Im [ω\\, G(ω,\\vec k)] >0$ in the domain of analyticity guaranteed by microcausality. Functions with this property belong to the Herglotz-Nevanlinna class. This allows to prove the analyticity of the permittivities $ε(ω,k)$ and $μ^{-1}(ω,k)$ that appear in Maxwell equations in a medium. We verify the above properties in several examples where Lorentz invariance is broken by a background field, e.g. non-zero chemical potential, or non-zero temperature. We study subtracted dispersion relations when the assumption $G \\to 0$ at infinity must be relaxed.",
+      "categories": [
+        "hep-th",
+        "cond-mat.stat-mech",
+        "math.CV"
+      ],
+      "published": "2025-12-11T17:31:21+00:00",
+      "updated": "2026-05-07T09:39:05+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.10843v2",
+      "html_url": "https://arxiv.org/html/2512.10843v2",
+      "entry_url": "http://arxiv.org/abs/2512.10843v2"
+    },
+    {
+      "arxiv_id": "2512.11041v2",
+      "base_id": "2512.11041",
+      "title": "KiDS-Legacy: Constraining dark energy, neutrino mass, and curvature",
+      "authors": [
+        "Robert Reischke",
+        "Benjamin Stölzner",
+        "Benjamin Joachimi",
+        "Angus H. Wright",
+        "Marika Asgari",
+        "Maciej Bilicki",
+        "Nora Elisa Chisari",
+        "Andrej Dvornik",
+        "Christos Georgiou",
+        "Benjamin Giblin",
+        "Joachim Harnois-Déraps",
+        "Catherine Heymans",
+        "Hendrik Hildebrandt",
+        "Henk Hoekstra",
+        "Shahab Joudaki",
+        "Konrad Kuijken",
+        "Shun-Sheng Li",
+        "Laila Linke",
+        "Arthur Loureiro",
+        "Constance Mahony",
+        "Lauro Moscardini",
+        "Lucas Porth",
+        "Mario Radovich",
+        "Tilman Tröster",
+        "Maximilian von Wietersheim-Kramsta",
+        "Ziang Yan",
+        "Mijin Yoon",
+        "Yun-Hao Zhang"
+      ],
+      "abstract": "We constrained minimally extended cosmological models with the cosmic shear analysis of the final data release from the Kilo-Degree Survey (KiDS-Legacy) in combination with external probes. Due to the consistency of the KiDS-Legacy analysis with the cosmic microwave background (CMB), we could combine these datasets reliably for the first time. Additionally, we used CMB lensing, galaxy redshift-space distortions, and baryon acoustic oscillations. We assessed, in turn, the effects of spatial curvature, varying neutrino masses, and an evolving dark energy component on cosmological constraints from KiDS-Legacy alone and from KiDS-Legacy combined with external probes. We find KiDS-Legacy to be consistent with the fiducial flat $Λ$-cold dark matter ($Λ$CDM) analysis with $c^2 \\sum m_ν\\leq 1.5\\,$eV, $w_0 = -1.0\\pm 0.7$, and $w_a = -1.3^{+1.9}_{-2.0}$ while $Ω_K = 0.08^{+0.16}_{-0.17}$ (1$σ$ bounds) with an almost equal goodness of fit. The $w_0w_a$CDM model is not a significant improvement over $Λ$CDM when cosmic shear and CMB lensing are combined, yielding a Bayes factor $B = 0.07$. If all probes are combined, however, $B$ increases to 2.73, corresponding to a $2.6σ$ suspiciousness tension. The constraint on $S_8 = σ_8\\sqrt{Ω_\\mathrm{m}/0.3}$ is robust to opening up the parameter space for cosmic shear. Adding all external datasets to KiDS-Legacy, we find $S_8 = 0.816 \\pm 0.006$ in $Λ$CDM and $S_8 = 0.837 \\pm 0.008$ in $w_0 w_a$CDM for all probes combined.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2025-12-11T19:00:39+00:00",
+      "updated": "2026-05-10T11:33:01+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.11041v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2512.11041v2"
+    }
+  ],
+  "total": 8
+}

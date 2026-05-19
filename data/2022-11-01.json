@@ -1,0 +1,25 @@
+{
+  "date": "2022-11-01",
+  "papers": [
+    {
+      "arxiv_id": "2211.00333v2",
+      "base_id": "2211.00333",
+      "title": "Derivation of a $\\PT$-Symmetric Sine-Gordon Model from a Nonequilibrium Spin-Boson System via Keldysh Functional Integrals",
+      "authors": [
+        "Vinayak M. Kulkarni"
+      ],
+      "abstract": "We present a microscopic derivation from a nonequilibrium spin-boson model to a $\\PT$-symmetric non-Hermitian sine-Gordon (SG) effective theory, via the Keldysh functional-integral formalism, a Lang-Firsov polaron transformation, bosonization, and a Grassmann coherent-state spin trace.The spin trace yields the generic reduced vertex $g_r\\cos(λΦ_1)+ig_i\\sin(λΦ_1)$, where the imaginary part originates from the nonequilibrium Keldysh distribution asymmetry $δn(ω)=n_+(ω)-n_-(ω)$. We provide an explicit dictionary between the spin-boson microscopic parameters and the NH-SG couplings: $K=v_f/\\tilde{J}_\\parallel^2$ (Luttinger parameter from $J_\\parallel$), $g_r\\propto J_\\perp^2/Γ$ (from the transverse coupling and impurity width), and $\\mathcal{I}=g_i/g_r\\proptoμ/v_f$ (bias ratio, an exact RG invariant).One-loop Wilson momentum-shell RG on the NH-SG action gives the closed equations $\\diff K/\\diff l=-g_r^2(1-\\mathcal{I}^2)K^2$ and $\\diff g_r/\\diff l=(2-K)g_r$, identical to those of Ashida \\textit{et al.}\\ for the $\\PT$-symmetric SG; the present work supplies the microscopic initial conditions from the spin-boson Keldysh reduction. The BKT separatrix $K=2$ (Toulouse line), the EP fixed manifold $\\mathcal{I}=1$ ($μ=μ_c$), and the mass gap $m\\simΛe^{-c/\\sqrt{K_0-2}}$ all follow from this closed system.In the non-relativistic soliton sector near the EP, the effective coupling $\\tilde{g}=g_r\\sqrt{1-\\mathcal{I}^2}$ reduces the S-matrix to the Lieb-Liniger rational form and the Bethe ansatz becomes exact for that auxiliary gas.Within this sector we derive $n$-string bound states with$E_n^{\\rm bind}=-n(n^2-1)\\tilde{g}^2/12$, identify the EP as the many-body bound-state threshold, and construct the Jordan-partner state from the $ε$-regularised dimer.",
+      "categories": [
+        "quant-ph",
+        "hep-th",
+        "math-ph"
+      ],
+      "published": "2022-11-01T08:55:56+00:00",
+      "updated": "2026-04-23T09:34:01+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2211.00333v2",
+      "html_url": "https://arxiv.org/html/2211.00333v2",
+      "entry_url": "http://arxiv.org/abs/2211.00333v2"
+    }
+  ],
+  "total": 1
+}

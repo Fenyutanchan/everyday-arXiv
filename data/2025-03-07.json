@@ -1,0 +1,31 @@
+{
+  "date": "2025-03-07",
+  "papers": [
+    {
+      "arxiv_id": "2503.05651v3",
+      "base_id": "2503.05651",
+      "title": "Inverting no-hair theorems: How requiring General Relativity solutions restricts scalar-tensor theories",
+      "authors": [
+        "Hajime Kobayashi",
+        "Shinji Mukohyama",
+        "Johannes Noller",
+        "Sergi Sirera",
+        "Kazufumi Takahashi",
+        "Vicharit Yingcharoenrat"
+      ],
+      "abstract": "Black hole solutions in general scalar-tensor theories are known to permit hair, i.e. non-trivial scalar profiles and/or metric solutions different from the ones of General Relativity (GR). Imposing that some such solutions$\\unicode{x2013}$e.g. Schwarzschild or de Sitter solutions motivated in the context of black hole physics or cosmology$\\unicode{x2013}$should exist, the space of scalar-tensor theories is strongly restricted. Here we investigate precisely what these restrictions are within general quadratic/cubic higher-order scalar-tensor theories for stealth solutions, whose metric is given by that in GR, supporting time-dependent scalar hair with a constant kinetic term. We derive, in a fully covariant approach, the conditions under which the Euler-Lagrange equations admit all (or a specific set of) exact GR solutions, as the first step toward our understanding of a wider class of theories that admit approximately stealth solutions. Focusing on static and spherically symmetric black hole spacetimes, we study the dynamics of linear odd-parity perturbations and discuss possible deviations from GR. Importantly, we find that requiring the existence of all stealth solutions prevents any deviations from GR in the odd-parity sector. In less restrictive scenarios, in particular for theories only requiring the existence of Schwarzschild(-de Sitter) black holes, we identify allowed deviations from GR, derive the stability conditions for the odd modes, and investigate the generic deviation of a non-trivial speed of gravitational waves. All calculations performed in this paper are reproducible via companion $\\texttt {Mathematica}$ notebooks.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "astro-ph.HE",
+        "hep-th"
+      ],
+      "published": "2025-03-07T18:15:05+00:00",
+      "updated": "2026-04-29T13:21:43+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2503.05651v3",
+      "html_url": "https://arxiv.org/html/2503.05651v3",
+      "entry_url": "http://arxiv.org/abs/2503.05651v3"
+    }
+  ],
+  "total": 1
+}

@@ -1,0 +1,116 @@
+{
+  "date": "2025-10-23",
+  "papers": [
+    {
+      "arxiv_id": "2510.20902v2",
+      "base_id": "2510.20902",
+      "title": "Searching for emergent spacetime in spin glasses",
+      "authors": [
+        "Dimitris Saraidaris",
+        "Leo Shaposhnik"
+      ],
+      "abstract": "Recent work on algebraic formulations of holographic dualities in terms of large $N$ algebras has revealed a deep connection between the properties of the associated spectral functions and the emergence of a semiclassical spacetime and causal horizons therein. One of the main lessons is that, for a radial direction to emerge, the spectral function has to exhibit non-compact support. Furthermore, there exist conjectures upon a possible duality between complex gravitational configurations and glassy systems. The goal of this paper is to combine these ideas by studying many-body quantum-mechanical systems and assess in which parameter regimes they could potentially be holographic. Thus, we compute the spectral functions of three many-body systems with quenched disorder, the SYK model, the $p$-spin model and the SU$(M)$ Heisenberg chain in the large $N$ limit and present results in different parameter regimes. Our main finding is that in the quantum spin glass phase of the SU$(M)$ Heisenberg model, the spectral function develops an exponential tail, similar to the large $q$ limit of SYK. Furthermore, we demonstrate the presence of an infinite family of quasiparticle excitations deep in the spin liquid phase of the $p$-spin model, which could point towards an emergent type I von Neumann algebra. In addition, we demonstrate the presence of an exponential tail in the spectral function for all cases without compact support and conformal symmetry. Motivated by this observation, we prove that no low-energy operator can detect a nontrivial bulk causal structure, if the spectral function has exponentially decaying tails.",
+      "categories": [
+        "hep-th",
+        "cond-mat.dis-nn",
+        "cond-mat.stat-mech",
+        "cond-mat.str-el",
+        "gr-qc"
+      ],
+      "published": "2025-10-23T18:00:41+00:00",
+      "updated": "2026-04-20T15:57:23+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.20902v2",
+      "html_url": "https://arxiv.org/html/2510.20902v2",
+      "entry_url": "http://arxiv.org/abs/2510.20902v2"
+    },
+    {
+      "arxiv_id": "2510.20207v2",
+      "base_id": "2510.20207",
+      "title": "Emergent time and more from wavefunction collapse in general relativity",
+      "authors": [
+        "Sung-Sik Lee"
+      ],
+      "abstract": "In this paper, we further develop a recently proposed theory of time based on wavefunction collapse in general relativity. It is based on the postulations that quantum states, which violate the momentum and Hamiltonian constraints, represent instances of time, and stochastic fluctuations of the lapse and shift generate the time evolution under which an initial state gradually collapses toward a diffeomorphism-invariant state. Under the wavefunction collapse, the scale factor monotonically increases, thus acting as a clock. The scalar, vector, and tensor gravitons arise as physical excitations, and the arrow of time for their evolution is set by the initial state. In the long-time limit, the tensor gravitons exhibit emergent unitary dynamics. However, the extra modes are strongly damped due to the non-unitary dynamics that suppress the constraint-violating excitations. The vector mode is uniformly suppressed over all length scales, but the decay rate of the scalar is proportional to its wave vector. This makes the latter a viable candidate for dark matter; excitations with large wavelengths survive over long periods, contributing to long-range interactions, while the fast decay of short-wavelength modes renders them undetectable without sufficient temporal resolution. These are demonstrated for the cosmological constant-dominated universe through semi-classical and adiabatic approximations, which are controlled in the limit of large space dimension.",
+      "categories": [
+        "gr-qc",
+        "hep-th",
+        "quant-ph"
+      ],
+      "published": "2025-10-23T04:48:28+00:00",
+      "updated": "2026-04-22T15:22:08+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.20207v2",
+      "html_url": "https://arxiv.org/html/2510.20207v2",
+      "entry_url": "http://arxiv.org/abs/2510.20207v2"
+    },
+    {
+      "arxiv_id": "2510.20991v2",
+      "base_id": "2510.20991",
+      "title": "Absence of gravitationally induced entanglement in certain semi-classical theories of gravity",
+      "authors": [
+        "Ward Struyve"
+      ],
+      "abstract": "Bose et al. and Marletto and Vedral proposed an experiment to test whether gravity can induce entanglement between massive systems, arguing that the capacity to do so would imply the quantum nature of gravity. In this work, a class of semi-classical models is examined that treat gravity classically, through some potential in the Schrödinger equation, and it is shown that these models do not generate entanglement. This class includes the Newton-Schrödinger model, where gravity is sourced by the wave function, the Bohmian analogue, where gravity is sourced by actual point-particles, and an interpolating model proposed by Döner and Grossardt. These models are analyzed in the context of the proposed experiment and contrasted with the standard Newtonian potential, which does generate entanglement.",
+      "categories": [
+        "quant-ph",
+        "gr-qc"
+      ],
+      "published": "2025-10-23T20:39:07+00:00",
+      "updated": "2026-04-28T16:09:00+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.20991v2",
+      "html_url": "https://arxiv.org/html/2510.20991v2",
+      "entry_url": "http://arxiv.org/abs/2510.20991v2"
+    },
+    {
+      "arxiv_id": "2510.20561v2",
+      "base_id": "2510.20561",
+      "title": "Strong Lensing Model and Dust Extinction Maps of the Host Galaxy of Type Ia Supernova H0pe",
+      "authors": [
+        "A. Galan",
+        "S. Schuldt",
+        "G. B. Caminha",
+        "S. H. Suyu",
+        "R. Cañameras",
+        "S. Ertl",
+        "C. Grillo",
+        "A. Acebron",
+        "B. Frye",
+        "A. M. Koekemoer",
+        "M. Pascale",
+        "R. Windhorst",
+        "J. M. Diego",
+        "N. Foo"
+      ],
+      "abstract": "Strong gravitational lensing by massive galaxy clusters offers rare opportunities to observe multiple images of distant ($z \\gtrsim 2$) Type Ia supernovae (SNe) and to resolve the properties of their host galaxies. A recent outstanding example is the Type Ia SN H0pe ($z = 1.78$), which the James Webb Space Telescope (JWST) discovered in NIRCam images, when the galaxy cluster PLCK G165.7+67.0 (G165, $z = 0.35$) still produced three images of it. In this work, we build a new strong lensing model of G165, first using only the positions of multiple images of background galaxies. We then significantly increase the number of constraints around the position of SN H0pe by modeling the extended surface brightness of the SN host galaxy. Including extended image information reduces the average uncertainty on mass model parameters by more than an order of magnitude. We also study the spatial distribution of dust in the arc to estimate the dust extinction at the position of SN H0pe. We find good statistical agreement of the extinction estimate, at $\\lesssim 1σ$, with three fully independent methods based on spectral energy distribution fitting. Moreover, our extended-image lens model of G165 allows us to map the dust distribution of the host galaxy from the image plane to the source plane. Supernova H0pe exploded in a region with a relatively high extinction ($A_V \\approx 0.9$ mag) at around $\\sim 1$ kpc from its host center. This work shows that extended image modeling in lensing clusters simultaneously reduces the uncertainty on lens model parameters and enables spatially resolved analyses of lensed transients' host galaxies. Such modeling advances are expected to play an important role in future cosmological analyses using strongly lensed SNe.",
+      "categories": [
+        "astro-ph.GA",
+        "astro-ph.CO",
+        "astro-ph.IM"
+      ],
+      "published": "2025-10-23T13:42:14+00:00",
+      "updated": "2026-04-29T11:51:27+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.20561v2",
+      "html_url": "https://arxiv.org/html/2510.20561v2",
+      "entry_url": "http://arxiv.org/abs/2510.20561v2"
+    },
+    {
+      "arxiv_id": "2510.20664v2",
+      "base_id": "2510.20664",
+      "title": "Niebla: an open-source code for modeling the extragalactic background light",
+      "authors": [
+        "Sara Porras-Bedmar",
+        "Manuel Meyer"
+      ],
+      "abstract": "The flux of extragalactic gamma rays is attenuated through interactions with optical and infrared photons of the extragalactic background light (EBL). The EBL is an isotropic, diffuse photon field that is difficult to measure directly at these wavelengths due to strong foreground emission. We present niebla, the first open-source code to compute the EBL from optical to far-infrared wavelengths using a phenomenological approach that accepts fully customizable inputs. This software enables a detailed modeling of the influence of EBL optical depth on gamma-ray observations and facilitates the distinction between different dust reemission models. The code models the optical background primarily from stellar emission, by evolving the spectrum of a single stellar population as a function of redshift, considering mean metallicity evolution and star formation rate density. Additional sources to the EBL can be provided by the user. The code already includes optional contributions from, e.g., stripped stars, intra-halo light, or the decay of axion dark matter. The optical emissivity is then absorbed by interstellar dust and reemitted in the infrared regime. We provide multiple prescriptions to model this process, using spectral dust templates or a combination of blackbodies. We provide three EBL models calculated with different dust reemission prescriptions, which have been fitted to various observational data sets. In addition, we showcase the versatility of our model through a simulated observation of the blazar Markarian 501 in a high-flux state with the LHAASO array. We find that the simulated VHE spectrum is highly sensitive to the photon density of the EBL at infrared wavelengths. Our model will therefore allow the community to distinguish between different dust reemission models and constrain EBL parameters with future observations.",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.HE"
+      ],
+      "published": "2025-10-23T15:39:01+00:00",
+      "updated": "2026-04-30T16:07:59+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.20664v2",
+      "html_url": "https://arxiv.org/html/2510.20664v2",
+      "entry_url": "http://arxiv.org/abs/2510.20664v2"
+    }
+  ],
+  "total": 5
+}

@@ -1,0 +1,143 @@
+{
+  "date": "2025-10-15",
+  "papers": [
+    {
+      "arxiv_id": "2510.14148v3",
+      "base_id": "2510.14148",
+      "title": "On $β$-function of $\\mathcal{N}=2$ supersymmetric integrable sigma models II",
+      "authors": [
+        "Mikhail Alfimov",
+        "Andrey Kurakin"
+      ],
+      "abstract": "We continue studying regularization scheme dependence of the $\\mathcal{N}=2$ supersymmetric sigma models. In the present work the previous result for the four loop $β$-function is extended to the five loop order. Namely, we find the renormalization scheme, in which the fifth loop contribution is completely eliminated, while the fourth loop contribution is represented by the certain invariant, which is coordinate independent for the metrics of some models. These models include complete $T$-duals of the $η$-deformed $SU(n)/U(n-1)$ models, as well as $η$- and $λ$-deformed $SU(2)/U(1)$ models, whose metrics solve the RG flow equation up to the fifth loop order. We also comment on the $λ$-deformed $SU(2)/U(1)$ and $SU(3)/U(2)$ case, showing that they satisfy five-loop RG flow equation, and discuss their Kähler structure.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2025-10-15T22:36:09+00:00",
+      "updated": "2026-04-21T07:35:47+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.14148v3",
+      "html_url": "https://arxiv.org/html/2510.14148v3",
+      "entry_url": "http://arxiv.org/abs/2510.14148v3"
+    },
+    {
+      "arxiv_id": "2510.13962v3",
+      "base_id": "2510.13962",
+      "title": "Simulation budgeting for hybrid effective field theories",
+      "authors": [
+        "Alexa Bartlett",
+        "Joseph DeRose",
+        "Martin White"
+      ],
+      "abstract": "In this work, we forecast the number of, and requirements on, N-body simulations needed to train hybrid effective field theory (HEFT) emulators for a range of use cases, using a hybrid of HMcode and perturbation theory as a surrogate model. Our accuracy goals, determined with careful consideration of statistical and systematic uncertainties, are $1\\%$ accurate in the high-likelihood range of cosmological parameters, and $2\\%$ accurate over a broader parameter space volume for $k<1 h Mpc^{-1}$ and $z<3$. Focusing in part on the 8-parameter $w_0w_a$CDM+$m_ν$ cosmological model, we find that $<225$ simulations are required to meet our error goals over our wide parameter space, including models with rapidly evolving dark energy, given our simulation and emulator recommendations. For a more restricted parameter space volume, as few as 80 simulations are sufficient. We additionally present simulation forecasts for example use cases, and make the code used in our analyses publicly available. These results offer practical guidance for efficient emulator design and simulation budgeting in future cosmological analyses.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2025-10-15T18:00:04+00:00",
+      "updated": "2026-04-21T21:19:27+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.13962v3",
+      "html_url": "https://arxiv.org/html/2510.13962v3",
+      "entry_url": "http://arxiv.org/abs/2510.13962v3"
+    },
+    {
+      "arxiv_id": "2510.13971v2",
+      "base_id": "2510.13971",
+      "title": "Open case for a closed universe",
+      "authors": [
+        "Nathan L. Burwig",
+        "Damien A. Easson"
+      ],
+      "abstract": "We establish a new no-go theorem for cosmology: spatially flat ($k=0$) and open ($k=-1$) Friedmann--Robertson--Walker (FRW) non-static spacetimes cannot be simultaneously nonsingular, geodesically complete, and consistent with the averaged null energy condition (ANEC). Equivalently, any dynamic flat or open universe that is complete must violate the ANEC. By contrast, closed universes ($k=+1$) uniquely admit nonsingular, geodesically complete, ANEC-consistent solutions, with global de Sitter space as the canonical realization that saturates the ANEC. Furthermore, we analytically demonstrate that positive spatial curvature naturally mimics the phenomenology of phantom dark energy ($w<-1$), biasing flat-model reconstructions of $w(z)$ at the $\\sim 1\\%$ level. These results augment the classical singularity theorems, establish a new classification of eternal cosmologies, and motivate renewed scrutiny of spatial curvature in both theory and observation.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2025-10-15T18:01:16+00:00",
+      "updated": "2026-04-24T02:05:13+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.13971v2",
+      "html_url": "https://arxiv.org/html/2510.13971v2",
+      "entry_url": "http://arxiv.org/abs/2510.13971v2"
+    },
+    {
+      "arxiv_id": "2510.13966v2",
+      "base_id": "2510.13966",
+      "title": "Light new physics and the $τ$ lepton dipole moments: prospects at Belle II",
+      "authors": [
+        "Martin Hoferichter",
+        "Gabriele Levati"
+      ],
+      "abstract": "While electron and muon dipole moments are well-established precision probes of physics beyond the standard model, it is notoriously challenging to test realistic new-physics (NP) scenarios for the $τ$ lepton. Constructing suitable asymmetries in $e^+e^-\\toτ^+τ^-$ has emerged as a promising such avenue, providing access to the electric and magnetic dipole moment once a polarized electron beam is available, e.g., with the proposed polarization upgrade of the SuperKEKB $e^+e^-$ collider. However, this interpretation relies on an effective-field-theory (EFT) argument that only applies if the NP scale is large compared to the center-of-mass energy. In this Letter we address the consequences of the asymmetry measurements in the case of light NP, using light spin-0 and spin-1 bosons as test cases, to show how results can again be interpreted as constraints on dipole moments, albeit in a model-dependent manner, and how the decoupling to the EFT limit proceeds in these cases. In particular, we observe that the imaginary parts generated by light new particles can yield nonvanishing asymmetries even without electron polarization, which can again be interpreted as constraints on the $τ$ anomalous magnetic moment. This proposed measurement, thus, presents a novel opportunity for NP searches that can be realized already with present data at Belle II.",
+      "categories": [
+        "hep-ph",
+        "hep-ex",
+        "nucl-th"
+      ],
+      "published": "2025-10-15T18:00:09+00:00",
+      "updated": "2026-05-05T15:55:01+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.13966v2",
+      "html_url": "https://arxiv.org/html/2510.13966v2",
+      "entry_url": "http://arxiv.org/abs/2510.13966v2"
+    },
+    {
+      "arxiv_id": "2510.13677v2",
+      "base_id": "2510.13677",
+      "title": "APRIL: Auxiliary Physically-Redundant Information in Loss -- A physics-informed framework for parameter estimation with a gravitational-wave case study",
+      "authors": [
+        "Matteo Scialpi",
+        "Francesco Di Clemente",
+        "Leigh Smith",
+        "Michał Bejger"
+      ],
+      "abstract": "Physics-Informed Neural Networks (PINNs) embed the partial differential equations (PDEs) governing the system under study directly into the training of Neural Networks, ensuring solutions that respect physical laws. While effective for single-system problems, standard PINNs scale poorly to datasets containing many realizations of the same underlying physics with varying parameters. To address this limitation, we present a complementary approach by including auxiliary physically-redundant information in loss (APRIL), i.e. augment the standard supervised output-target loss with auxiliary terms which exploit exact physical redundancy relations among outputs. We mathematically demonstrate that these terms preserve the true physical minimum while reshaping the loss landscape, improving convergence toward physically consistent solutions. As a proof-of-concept, we benchmark APRIL on a fully-connected neural network for gravitational wave (GW) parameter estimation (PE). We use simulated, noise-free compact binary coalescence (CBC) signals, focusing on inspiral-frequency waveforms to recover the chirp mass $\\mathcal{M}$, the total mass $M_\\mathrm{tot}$, and symmetric mass ratio $η$ of the binary. In this controlled setting, we show that APRIL achieves up to an order-of-magnitude improvement in test accuracy, especially for parameters that are otherwise difficult to learn. This method provides physically consistent learning for large multi-system datasets and is well suited for future GW analyses involving realistic noise and broader parameter ranges.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.IM",
+        "cs.NE",
+        "physics.comp-ph"
+      ],
+      "published": "2025-10-15T15:34:19+00:00",
+      "updated": "2026-05-12T15:48:29+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.13677v2",
+      "html_url": "https://arxiv.org/html/2510.13677v2",
+      "entry_url": "http://arxiv.org/abs/2510.13677v2"
+    },
+    {
+      "arxiv_id": "2510.13569v2",
+      "base_id": "2510.13569",
+      "title": "Orbital dynamics and precession in magnetized Kerr spacetime",
+      "authors": [
+        "Karthik Iyer",
+        "Chandrachur Chakraborty"
+      ],
+      "abstract": "We study the orbital structure and precession dynamics of neutral test particles in the magnetized Kerr black hole (MKBH) spacetime-an exact electrovacuum solution of the Einstein-Maxwell equations that self-consistently incorporates the curvature effects of an external magnetic field. This geometry allows a unified treatment of gravitational and magnetic influences across weak to ultra-strong regimes. The analysis reveals a critical magnetic field strength above which no circular geodesics, timelike or null, can exist, establishing an upper magnetic bound for orbital motion. For subcritical fields, the photon circular orbit admits two real roots, the outer of which defines an outermost stable circular orbit (OSCO), complementing the conventional innermost stable circular orbit (ISCO) and confining stable motion within a finite radial domain. Exact expressions for the orbital, radial, and vertical epicyclic frequencies, and their associated precession rates, show substantial deviations from Kerr behavior, including a magnetically induced reversal of periastron precession within a finite radial range. For astrophysically relevant magnetic field strengths, the retrograde precession could be observable at large radii around astrophysical BHs, offering a potential diagnostic of large-scale magnetization. These findings highlight the geometric influence of magnetic curvature on strong-field dynamics, providing a self-consistent framework to interpret quasi-periodic oscillation phenomenology and potential magnetic imprints in precision timing observations of compact objects.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE"
+      ],
+      "published": "2025-10-15T14:08:22+00:00",
+      "updated": "2026-05-11T07:04:32+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.13569v2",
+      "html_url": "https://arxiv.org/html/2510.13569v2",
+      "entry_url": "http://arxiv.org/abs/2510.13569v2"
+    },
+    {
+      "arxiv_id": "2510.13770v2",
+      "base_id": "2510.13770",
+      "title": "Gauge-independent Gravitational Waves from Cogenesis in a $B-L$ Conserving Universe",
+      "authors": [
+        "Wan-Zhe Feng",
+        "Jinzheng Li",
+        "Pran Nath",
+        "Zong-Huan Ye"
+      ],
+      "abstract": "An analysis of baryogenesis and stochastic gravitational wave production is presented for an extension of the standard model where the dark sector consists of dark matter particles charged under a $U(1)_x$ gauge symmetry, while a subset of dark fields also carry lepton number but no $U(1)_x$ charge. We demonstrate that with CP violation induced by Yukawa couplings, equal and opposite lepton asymmetries are generated in the visible and hidden sectors. Subsequent evolution preserves lepton number separately in each sector, and sphaleron interactions partially convert the lepton asymmetry into baryon asymmetry near the temperature of the first-order phase transition. Further, we discuss stochastic gravitational wave background production for the first-order phase transition using a gauge-independent bubble nucleation dynamics which yields spectra also valid in the supercooled low-temperature regime with {$T_p/m_{A_x} \\ll 1$} where $T_p$ is the percolation temperature and $m_{A_x}$ is the dark photon mass. A parameter-space scan identifies regions that simultaneously account for cogenesis of baryon asymmetry and dark matter and predict stochastic gravitational wave signals within reach of current (NANOGrav, EPTA, PPTA) and future detectors at higher frequencies, providing a unified framework for cogenesis and associated gravitational wave production.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-10-15T17:19:24+00:00",
+      "updated": "2026-05-08T01:20:55+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.13770v2",
+      "html_url": "https://arxiv.org/html/2510.13770v2",
+      "entry_url": "http://arxiv.org/abs/2510.13770v2"
+    }
+  ],
+  "total": 7
+}

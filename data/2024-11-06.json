@@ -1,0 +1,27 @@
+{
+  "date": "2024-11-06",
+  "papers": [
+    {
+      "arxiv_id": "2411.03773v3",
+      "base_id": "2411.03773",
+      "title": "Model-independent calibration of Gamma-Ray Bursts with neural networks",
+      "authors": [
+        "Purba Mukherjee",
+        "Maria Giovanna Dainotti",
+        "Konstantinos F. Dialektopoulos",
+        "Jackson Levi Said",
+        "Jurgen Mifsud"
+      ],
+      "abstract": "The $Λ$ Cold Dark Matter ($Λ$CDM) cosmological model has been highly successful in predicting cosmic structure and evolution, yet recent precision measurements have highlighted discrepancies, especially in the Hubble constant inferred from local and early-Universe data. Gamma-ray bursts (GRBs) present a promising alternative for cosmological measurements, capable of reaching higher redshifts than traditional distance indicators. This work leverages GRBs to refine cosmological parameters independently of the $Λ$CDM framework. Using the Platinum compilation of long GRBs, we calibrate the Dainotti relations-empirical correlations among GRB luminosity properties-as standard candles through artificial neural networks (ANNs). We analyze both the 2D and 3D Dainotti calibration relations, leveraging an ANN-driven Markov Chain Monte Carlo approach to minimize scatter in the calibration parameters, thereby achieving a stable Hubble diagram. This ANN-based calibration approach offers advantages over Gaussian processes, avoiding issues such as kernel function dependence and overfitting. Our results emphasize the need for model-independent calibration approaches to address systematic challenges in GRB luminosity variability, ultimately extending the cosmic distance ladder in a robust way. By addressing redshift evolution and reducing systematic uncertainties, GRBs can serve as reliable high-redshift distance indicators, offering critical insights into current cosmological tensions.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2024-11-06T09:10:25+00:00",
+      "updated": "2026-05-07T16:04:58+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2411.03773v3",
+      "html_url": "https://arxiv.org/html/2411.03773v3",
+      "entry_url": "http://arxiv.org/abs/2411.03773v3"
+    }
+  ],
+  "total": 1
+}

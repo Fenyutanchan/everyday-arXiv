@@ -1,0 +1,89 @@
+{
+  "date": "2026-01-14",
+  "papers": [
+    {
+      "arxiv_id": "2601.09707v2",
+      "base_id": "2601.09707",
+      "title": "Precision asymptotics of string amplitudes",
+      "authors": [
+        "Marco Maria Baccianti",
+        "Lorenz Eberhardt",
+        "Sebastian Mizera"
+      ],
+      "abstract": "Recent work revealed a tension between the Gross-Mende analysis of the high-energy fixed-angle behavior of string amplitudes and the explicit numerical data. Motivated by this puzzle, we revisit the problem of classifying saddle-point geometries for the one-loop amplitude. We find an infinite family of complex saddles that dominate the high-energy regime. Using general constraints and matching to numerical data, we formulate a bootstrap problem that determines their multiplicities. This procedure yields a precise asymptotic expansion of the one-loop amplitude at high energies. The resulting oscillatory contributions lead to a much richer high-energy behavior than that predicted by the original Gross-Mende analysis.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2026-01-14T18:59:59+00:00",
+      "updated": "2026-04-28T17:13:20+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.09707v2",
+      "html_url": "https://arxiv.org/html/2601.09707v2",
+      "entry_url": "http://arxiv.org/abs/2601.09707v2"
+    },
+    {
+      "arxiv_id": "2601.09801v2",
+      "base_id": "2601.09801",
+      "title": "Probing the Chaos to Integrability Transition in Double-Scaled SYK",
+      "authors": [
+        "Sergio E. Aguilar-Gutierrez",
+        "Rathindra Nath Das",
+        "Johanna Erdmenger",
+        "Zhuo-Yu Xian"
+      ],
+      "abstract": "We investigate how a thermodynamical first-order phase transition affects the dynamical chaotic behaviour of a given model. To this effect, we analyze the model of Berkooz, Brukner, Jia and Mamroud that interpolates between the double-scaled SYK model and an integrable chord Hamiltonian. This model exhibits a first-order transition, characterized by a kink in the free energy, between the chaotic and quasi-integrable phases, with the branch of subdominant saddles interpolating between them. We characterize the dynamical behavior across the phase diagram using the chord number, Krylov complexity, and operator size. The chord number, which is proportional to the Krylov state complexity in the classical limit, exhibits a discontinuous transition from linear to quadratic growth at the transition point. Similarly, the Krylov operator complexity and the operator size, as scrambling diagnostics, exhibit discontinuous transitions from exponential to quadratic growth. We also discuss a possible holographic interpretation of the model.",
+      "categories": [
+        "hep-th",
+        "cond-mat.str-el",
+        "nlin.CD",
+        "quant-ph"
+      ],
+      "published": "2026-01-14T19:08:01+00:00",
+      "updated": "2026-04-28T13:42:45+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.09801v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2601.09801v2"
+    },
+    {
+      "arxiv_id": "2601.09607v2",
+      "base_id": "2601.09607",
+      "title": "Confronting eikonal and post-Kerr methods with numerical evolution of scalar field perturbations in spacetimes beyond Kerr",
+      "authors": [
+        "Ciro De Simone",
+        "Sebastian H. Völkel",
+        "Kostas D. Kokkotas",
+        "Vittorio De Falco",
+        "Salvatore Capozziello"
+      ],
+      "abstract": "The accurate computation of quasinormal modes from rotating black holes beyond general relativity is crucial for testing fundamental physics with gravitational waves. In this study, we assess the accuracy of the eikonal and post-Kerr approximations in predicting the quasinormal mode spectrum of a scalar field on a deformed Kerr spacetime. To obtain benchmark results and to analyze the ringdown dynamics from generic perturbations, we further employ a 2+1-dimensional numerical time-evolution framework. This approach enables a systematic quantification of theoretical uncertainties across multiple angular harmonics, a broad range of spin parameters, and progressively stronger deviations from the Kerr geometry. We then confront these modeling errors with simple projections of statistical uncertainties in quasinormal mode frequencies as a function of the signal-to-noise ratio, thereby exploring the domain of validity of approximate methods for prospective high-precision black-hole spectroscopy. We also report that near-horizon deformations can affect prograde and retrograde modes differently and provide a geometrical explanation.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE",
+        "hep-th"
+      ],
+      "published": "2026-01-14T16:30:02+00:00",
+      "updated": "2026-05-05T11:56:11+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.09607v2",
+      "html_url": "https://arxiv.org/html/2601.09607v2",
+      "entry_url": "http://arxiv.org/abs/2601.09607v2"
+    },
+    {
+      "arxiv_id": "2601.09785v2",
+      "base_id": "2601.09785",
+      "title": "Superball of Strings",
+      "authors": [
+        "Yoav Zigdon"
+      ],
+      "abstract": "I solve the equations of the low-energy limit of string theory to obtain a solution corresponding to a microcanonical ensemble of highly-excited superstrings. This ``Superball of Strings'' is a static, spherically symmetric ``fuzzball'' of BPS strings with a size set by a random walk scaling. The solution can be embedded in string theory in a significant part of parameter space. While the solution does not constitute a Lorentzian interpretation for a Euclidean, horizonless solution by Chen, Maldacena, and Witten, a few connections are noted. A singular extremal black hole and the Superball of Strings exist as Supergravity solutions with the same asymptotic boundary conditions; however, I argue that the latter describes generic BPS microstates.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2026-01-14T19:00:02+00:00",
+      "updated": "2026-05-05T08:07:36+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.09785v2",
+      "html_url": "https://arxiv.org/html/2601.09785v2",
+      "entry_url": "http://arxiv.org/abs/2601.09785v2"
+    }
+  ],
+  "total": 4
+}

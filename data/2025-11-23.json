@@ -1,0 +1,23 @@
+{
+  "date": "2025-11-23",
+  "papers": [
+    {
+      "arxiv_id": "2511.18522v4",
+      "base_id": "2511.18522",
+      "title": "Robust Non-Singular Bouncing Cosmology from Regularized Hyperbolic Field Space",
+      "authors": [
+        "Oleksandr Kravchenko"
+      ],
+      "abstract": "We present a framework for non-singular bouncing cosmology in a closed ($k=+1$) universe with a two-field sigma model whose regularized hyperbolic field-space metric $g^S_{χχ}(φ) = (1 + e^{-2αφ/M_{\\mathrm{Pl}}})^{-1}$ is derived from three physical boundary conditions: (i) kinetic suppression during contraction enabling the bounce, (ii) canonical normalization during inflation preserving perturbative unitarity, and (iii) positive-definiteness ensuring ghost-freedom. The bounce preserves the Null Energy Condition and is BKL-stable. The full two-field perturbation system $(δφ, δχ, Φ)$ is integrated in the Newtonian gauge through the bounce over 65 e-folds, circumventing the comoving-gauge $H=0$ singularity, with both Einstein constraints verified a posteriori. Scalar sound speeds numerically measured adjacent to $H=0$ satisfy $|c_φ^2-1|, |c_χ^2-1| \\leq 8 \\times 10^{-16}$, establishing strict hyperbolicity (no ghost or gradient instability); $\\mathcal{R}$ is conserved on super-Hubble scales to $|Δ\\mathcal{R}^2/\\mathcal{R}^2| = 4.43 \\times 10^{-3}$. An independent CMB-scale Mukhanov-Sasaki integration confirms $n_s = 0.9683$, matching exact Starobinsky slow-roll to $|Δn_s| = 5.47 \\times 10^{-4}$. $δN$ non-Gaussianity yields $f_{\\mathrm{NL}}^{\\mathrm{local}} = +0.0133$, consistent with Maldacena's relation to $|Δf_{\\mathrm{NL}}| = 1.54 \\times 10^{-4}$. A bounce-scale spectral feature is pushed by $\\sim 2630$ post-bounce e-folds to $k_{\\mathrm{CMB}}/k_H \\sim 10^{1116}$, far beyond the observable universe, so the model recovers Starobinsky predictions on all observable scales while resolving the initial singularity. Predictions ($n_s \\approx 0.967$, $r \\approx 0.003$, $f_{\\mathrm{NL}}^{\\mathrm{local}} \\approx +0.013$, independent of $α$) are consistent with Planck 2018 and testable by next-generation CMB experiments.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-11-23T16:27:41+00:00",
+      "updated": "2026-04-25T21:51:06+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.18522v4",
+      "html_url": "https://arxiv.org/html/2511.18522v4",
+      "entry_url": "http://arxiv.org/abs/2511.18522v4"
+    }
+  ],
+  "total": 1
+}

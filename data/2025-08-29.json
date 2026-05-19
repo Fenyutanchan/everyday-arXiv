@@ -1,0 +1,49 @@
+{
+  "date": "2025-08-29",
+  "papers": [
+    {
+      "arxiv_id": "2508.21825v2",
+      "base_id": "2508.21825",
+      "title": "Standard Model Baryon Number Violation at Zero Temperature from Higgs Bubble Collisions",
+      "authors": [
+        "Nabeen Bhusal",
+        "Simone Blasi",
+        "Martina Cataldi",
+        "Aleksandr Chatrchyan",
+        "Marco Gorghetto",
+        "Geraldine Servant"
+      ],
+      "abstract": "We compute for the first time baryon number violation at zero temperature from Higgs bubble collisions and find that it can be of the same order as that from thermal sphalerons in the symmetric phase at electroweak temperatures. We study the dependence of the rate of Chern--Simons number transitions on the shape of the scalar potential and on the Lorentz factor of the bubble walls at collision via large-scale (3+1)D lattice simulations of the Higgs doublet and SU(2) gauge fields. We estimate the resulting baryon asymmetry assuming some CP-violating source activated by the Higgs-field variation during the phase transition.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-08-29T17:59:59+00:00",
+      "updated": "2026-04-23T22:38:47+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.21825v2",
+      "html_url": "https://arxiv.org/html/2508.21825v2",
+      "entry_url": "http://arxiv.org/abs/2508.21825v2"
+    },
+    {
+      "arxiv_id": "2509.00139v2",
+      "base_id": "2509.00139",
+      "title": "Deep Learning for CMB Foreground Removal and Beam Deconvolution: A U-Net GAN Approach",
+      "authors": [
+        "Obasho M",
+        "Shambhavi Jaiswal",
+        "Santanu Das",
+        "Krishna Mohan Parattu"
+      ],
+      "abstract": "Extracting cosmological information from microwave sky observations requires accurate estimation of the underlying Cosmic Microwave Background (CMB) by removing foreground contamination, instrumental noise, and the effects of beam convolution. In this work, we develop a machine learning-based approach for CMB reconstruction using a generative adversarial network (GAN) architecture, where the generator is modeled as a U-Net-based convolutional neural network. To train the network, we generate realistic microwave sky maps by simulating Planck-like observations: scanning HEALPix-simulated skies with real Planck beam profile, actual scan patterns, and anisotropic noise consistent with Planck data. Our method achieves high-fidelity reconstruction, with the difference between the input and recovered maps being less than $1\\%$ (approximately $2μ\\mathrm{K}$ for temperature and less than $0.5μ\\mathrm{K}$ for polarization) outside the Galactic region. Even within the Galactic plane, the reconstruction error stays below $2$-$3\\%$ for temperature maps across most regions, and is even smaller for polarization, apart from a few isolated pixels.. Most importantly, we demonstrate, for the first time, that a GAN-based method can effectively correct for foreground contamination, the systematic effects of non-circular beams and the asymmetric Planck scan pattern for both T and E-mode skymaps. Our results demonstrate the effectiveness of our method for robust and accurate recovery of the CMB signal, even in the presence of strong astrophysical foregrounds and instrumental systematics.",
+      "categories": [
+        "astro-ph.IM",
+        "astro-ph.CO"
+      ],
+      "published": "2025-08-29T17:08:22+00:00",
+      "updated": "2026-05-10T13:52:49+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.00139v2",
+      "html_url": "https://arxiv.org/html/2509.00139v2",
+      "entry_url": "http://arxiv.org/abs/2509.00139v2"
+    }
+  ],
+  "total": 2
+}

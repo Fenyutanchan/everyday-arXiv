@@ -1,0 +1,24 @@
+{
+  "date": "2023-11-01",
+  "papers": [
+    {
+      "arxiv_id": "2311.00550v2",
+      "base_id": "2311.00550",
+      "title": "Holographic renormalization and the variational problem for mixed boundary conditions via a solution-dependent superpotential-like function",
+      "authors": [
+        "David Choque",
+        "Raúl Rojas"
+      ],
+      "abstract": "We study holographic renormalization and the variational problem in four-dimensional Einstein gravity coupled to a self-interacting scalar field in asymptotically AdS spacetimes with mixed, designer-gravity boundary conditions. For static black-hole solutions, we introduce a solution-dependent superpotential-like function $W(φ)$, motivated by the Hamilton--Jacobi formulation but defined directly from the equations of motion. Focusing on the case $m^{2}L^{2}=-2$, we show that the near-boundary expansion $ W(φ)=-\\frac{4}{L}-\\frac{φ^{2}}{2L}+aφ^{3}+\\mathcal{O}(φ^{4}) $ is not fully determined by the bulk equations. Instead, once integrable mixed boundary conditions $B=B(A)$ are imposed and the variational principle is required to be well posed, the cubic coefficient is fixed in terms of the boundary deformation. In this way, the mixed boundary condition is encoded directly in the scalar counterterm, rendering the Euclidean on-shell action finite without the need for additional scalar boundary terms. We then derive the renormalized Euclidean action and holographic stress tensor, verify the quantum-statistical relation under mixed boundary conditions, and show that $W(φ)$ provides a natural characterization of holographic renormalization-group data in non-extremal backgrounds. Finally, we illustrate the formalism in exact asymptotically AdS black-hole solutions arising in consistent truncations, including a case where comparison with a supergravity superpotential clarifies why the RG observables are controlled by the solution-dependent function $W(φ)$ rather than by $W_{\\text{SUGRA}}$.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2023-11-01T14:33:23+00:00",
+      "updated": "2026-05-05T18:24:02+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2311.00550v2",
+      "html_url": "https://arxiv.org/html/2311.00550v2",
+      "entry_url": "http://arxiv.org/abs/2311.00550v2"
+    }
+  ],
+  "total": 1
+}

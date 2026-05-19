@@ -1,0 +1,47 @@
+{
+  "date": "2025-04-21",
+  "papers": [
+    {
+      "arxiv_id": "2504.15458v4",
+      "base_id": "2504.15458",
+      "title": "Compton Form Factor Extraction using Quantum Deep Neural Networks",
+      "authors": [
+        "Brandon B. Le",
+        "Dustin Keller"
+      ],
+      "abstract": "We extract Compton form factors (CFFs) from deeply virtual Compton scattering measurements at the Thomas Jefferson National Accelerator Facility (JLab) using quantum-inspired deep neural networks (QDNNs). The analysis implements the twist-2 Belitsky-Kirchner-Müller formalism and employs a fitting strategy that emulates standard local fits. Using pseudodata, we benchmark QDNNs against classical deep neural networks (CDNNs) and find that QDNNs often deliver higher predictive accuracy and tighter uncertainties at comparable model complexity. Guided by these results, we introduce a quantitative selection metric that indicates when QDNNs or CDNNs are optimal for a given experimental fit. After obtaining local extractions from the JLab data, we perform a standard neural-network global CFF fit and compare with previous global analyses. The results support QDNNs as an efficient and complementary tool to CDNNs for CFF determination and for future multidimensional studies of parton distributions and hadronic structure.",
+      "categories": [
+        "cs.LG",
+        "hep-ph",
+        "nucl-th",
+        "quant-ph"
+      ],
+      "published": "2025-04-21T21:56:49+00:00",
+      "updated": "2026-04-29T14:57:11+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2504.15458v4",
+      "html_url": "https://arxiv.org/html/2504.15458v4",
+      "entry_url": "http://arxiv.org/abs/2504.15458v4"
+    },
+    {
+      "arxiv_id": "2504.15345v2",
+      "base_id": "2504.15345",
+      "title": "The (Limited) Effect of Viscosity in Multiphase Turbulent Mixing",
+      "authors": [
+        "Tirso Marin-Gilabert",
+        "Max Gronke",
+        "S. Peng Oh"
+      ],
+      "abstract": "Multiphase gas can be found in many astrophysical environments, such as galactic outflows, stellar wind bubbles, and the circumgalactic medium, where the interplay between turbulence, cooling, and viscosity can significantly influence gas dynamics and star formation processes. We investigate the role of viscosity in modulating turbulence and radiative cooling in turbulent radiative mixing layers (TRMLs). In particular, we aim to determine how different amounts of viscosity affect the Kelvin-Helmholtz instability (KHI), turbulence evolution, and the efficiency of gas mixing and cooling. Using idealized 2D numerical setups, we compute the critical viscosity required to suppress the KHI in shear flows characterized by different density contrasts and Mach numbers. These results are then used in a 3D shear layer setup to explore the impact of viscosity on cooling efficiency and turbulence across different cooling regimes. We find that the critical viscosity follows the expected dependence on overdensity and Mach number. Our viscous TRMLs simulations show different behaviors in the weak and strong cooling regimes. In the weak cooling regime, viscosity has a strong impact, resulting in laminar flows and breaking previously established inviscid relations between cooling and turbulence (albeit leaving the total luminosity unaffected). However, in the strong cooling regime, when cooling timescales are shorter than viscous timescales, key scaling relations in TRMLs remain largely intact. In this regime -- which must hold for gas to remain multiphase -- radiative losses dominate, and the system effectively behaves as non-viscous regardless of the actual level of viscosity. Our findings have direct implications for both the interpretation of observational diagnostics and the development of subgrid models in large-scale simulations.",
+      "categories": [
+        "astro-ph.GA",
+        "astro-ph.CO"
+      ],
+      "published": "2025-04-21T18:00:07+00:00",
+      "updated": "2026-05-13T18:00:27+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2504.15345v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2504.15345v2"
+    }
+  ],
+  "total": 2
+}

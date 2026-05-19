@@ -1,0 +1,123 @@
+{
+  "date": "2026-03-11",
+  "papers": [
+    {
+      "arxiv_id": "2603.10844v2",
+      "base_id": "2603.10844",
+      "title": "Long-lived quasinormal modes, shadows and particle motion in four-dimensional quasi-topological gravity",
+      "authors": [
+        "Bekir Can Lütfüoğlu"
+      ],
+      "abstract": "We investigate massive scalar perturbations and several characteristics of particle motion in the spacetime of regular black holes arising in four-dimensional quasi-topological gravity. Quasinormal modes are computed using high-order WKB approximations with Padé resummation and verified through time-domain integration. For moderate values of the scalar-field mass, the time-domain profiles confirm the WKB results with excellent accuracy. As the mass increases, the damping rate decreases substantially, indicating the approach to the quasi-resonant regime of long-lived modes. For sufficiently large masses, the late-time signal becomes dominated by oscillatory power-law tails, which mask the quasi-resonant mode in the time-domain profile. In addition, we analyze photon motion and circular geodesics, including the photon-sphere radius, shadow size, Lyapunov exponent, and ISCO characteristics. These quantities exhibit only moderate deviations from their Schwarzschild values, unlike the Hawking temperature of the black hole.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2026-03-11T14:52:37+00:00",
+      "updated": "2026-04-16T17:09:38+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.10844v2",
+      "html_url": "https://arxiv.org/html/2603.10844v2",
+      "entry_url": "http://arxiv.org/abs/2603.10844v2"
+    },
+    {
+      "arxiv_id": "2603.10627v2",
+      "base_id": "2603.10627",
+      "title": "Efficient Conformal Block Evaluation with GoBlocks",
+      "authors": [
+        "James Chryssanthacopoulos",
+        "Vasilis Niarchos",
+        "Constantinos Papageorgakis",
+        "Alexander G. Stapleton"
+      ],
+      "abstract": "Conformal blocks in odd spacetime dimensions are not known in closed analytic form. To facilitate efficient computations in the conformal bootstrap, we introduce $\\texttt{GoBlocks}$: a novel conformal-block generator implemented in the Go programming language, designed for rapid, on-the-fly, parallel evaluation using recursive relations. The package supports both multi-point and derivative-based bootstrap approaches and allows flexible control over accuracy and performance. We benchmark $\\texttt{GoBlocks}$ against the $\\texttt{scalar_blocks}$ package, finding significant speed improvements in applications where computational speed and moderate accuracy are critical, but ultra-high precision is not essential. As an illustration, we apply $\\texttt{GoBlocks}$ to the mixed-correlator bootstrap of the three-dimensional Ising model, formulated as a non-convex optimisation problem in a suitable truncation scheme. We simultaneously optimise over external scaling dimensions and OPE CFT data. In addition, we discuss how the approach scales as we increase the number of mixed correlators in more general $O(N)$ vector models.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2026-03-11T10:42:43+00:00",
+      "updated": "2026-04-16T15:38:38+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.10627v2",
+      "html_url": "https://arxiv.org/html/2603.10627v2",
+      "entry_url": "http://arxiv.org/abs/2603.10627v2"
+    },
+    {
+      "arxiv_id": "2603.10819v2",
+      "base_id": "2603.10819",
+      "title": "Generalised Complex and Spinor Relations",
+      "authors": [
+        "Thomas C. De Fraja",
+        "Vincenzo Emilio Marotta",
+        "Richard J. Szabo"
+      ],
+      "abstract": "Courant algebroid relations are used to define notions of relations between Dirac structures and spinors. It is shown under which circumstances a spinor relation gives a Courant algebroid relation and how it descends to a relation between Dirac structures. A converse to this result is proved: a T-duality relation induces a spinor relation that links the Dirac generating operators defining T-dual Courant algebroids, generalising the isomorphism of twisted cohomology associated with topological T-duality. We introduce the notion of relation between generalised complex structures and characterise their reduction. We also define relations between generalised Kähler structures, and rephrase them in terms of bi-Hermitian structures which induce T-duality relations between $\\mathcal{N}=(2,2)$ supersymmetric sigma-models. We prove existence results for T-dual structures, and demonstrate compatibility of T-duality relations with Type II supergravity equations.",
+      "categories": [
+        "hep-th",
+        "math-ph",
+        "math.DG",
+        "math.SG"
+      ],
+      "published": "2026-03-11T14:30:05+00:00",
+      "updated": "2026-04-16T11:08:44+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.10819v2",
+      "html_url": "https://arxiv.org/html/2603.10819v2",
+      "entry_url": "http://arxiv.org/abs/2603.10819v2"
+    },
+    {
+      "arxiv_id": "2603.10915v3",
+      "base_id": "2603.10915",
+      "title": "Naturally Light Distortion",
+      "authors": [
+        "Kazunori Nakayama"
+      ],
+      "abstract": "In the most general formulation of gravity, the metric and connection are independent degrees of freedom, and the connection may include torsion and non-metricity (or distortion, collectively) degrees of freedom, resulting in a huge number of possible dynamical fields. However, the most fields are either non-dynamical or extremely heavy and the general relativity is recovered at low energy. We find a unique naturally light vector- or scalar-like distortion field, which can be dynamical and have phenomenological implications. In particular, a light scalar particle that mixes with the Higgs boson naturally appears.",
+      "categories": [
+        "gr-qc",
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2026-03-11T15:59:43+00:00",
+      "updated": "2026-04-21T17:32:37+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.10915v3",
+      "html_url": "https://arxiv.org/html/2603.10915v3",
+      "entry_url": "http://arxiv.org/abs/2603.10915v3"
+    },
+    {
+      "arxiv_id": "2603.11163v2",
+      "base_id": "2603.11163",
+      "title": "Alice in Warpland: KK modes, Warped Compactifications and the Swampland",
+      "authors": [
+        "Salvatore Raucci",
+        "Ignacio Ruiz",
+        "Irene Valenzuela"
+      ],
+      "abstract": "We investigate the asymptotic behavior of Kaluza-Klein (KK) towers in warped compactifications to Minkowski space. Focusing on the overall decompactification limit, we derive the scaling of KK masses at large KK momentum for scalar fluctuations in lower-dimensional Planck units. In codimension-one warped backgrounds sourced by a higher-dimensional exponential potential, we solve explicitly for the internal profiles and obtain a closed expression for the exponential mass decay rate $λ_{\\rm KK}$ of the tower in terms of the moduli space distance. We find that warping reduces $λ_{\\rm KK}$ relative to the unwarped case, in such a way that sufficiently strong warping could in principle violate the Sharpened Distance Conjecture bound. Remarkably, this sharpened bound is still satisfied precisely when the higher-dimensional potential obeys the condition forbidding asymptotic accelerated expansion, establishing a direct link between the Sharpened Distance Conjecture and the Strong de Sitter condition in one higher dimension. We also argue that for higher-codimension warped backgrounds the asymptotic KK scaling remains unmodified.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2026-03-11T18:00:00+00:00",
+      "updated": "2026-05-04T15:51:39+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.11163v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2603.11163v2"
+    },
+    {
+      "arxiv_id": "2603.11097v3",
+      "base_id": "2603.11097",
+      "title": "Searching for New Particles Hidden under Known Resonances: A Heavy-Ion Diagnostic",
+      "authors": [
+        "Yi Yang"
+      ],
+      "abstract": "Searches for new physics typically rely on proton-proton collisions, where isolated mass bumps are the primary signatures. However, when a new particle is nearly degenerate in mass with a known Standard Model resonance, it can be partially or fully absorbed into the primary signal template. We investigate this generic loophole by proposing that heavy-ion collisions can provide complementary diagnostics for such hidden states. By utilizing observables sensitive to the quark-gluon plasma, such as the nuclear modification factor ($R_{AA}$) and elliptic flow ($v_2$), a hidden component can manifest as correlated biases in the extracted kinematics. We formulate a model-independent two-component framework, focusing on quarkonium peaks and using the $Υ(1S)$ mass region as a concrete stress-test example. The same template-level issue can in principle arise in other precision dimuon resonances, including electroweak channels such as $Z\\toμ^+μ^-$, although those cases involve different intrinsic widths, backgrounds, and systematic uncertainties. Treating the mass resolution as an experimental nuisance parameter, we present sensitivity maps identifying the measurements required to constrain or reveal such hidden components.",
+      "categories": [
+        "hep-ph",
+        "hep-ex",
+        "nucl-ex",
+        "nucl-th"
+      ],
+      "published": "2026-03-11T08:44:28+00:00",
+      "updated": "2026-05-13T01:29:31+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.11097v3",
+      "html_url": "https://arxiv.org/html/2603.11097v3",
+      "entry_url": "http://arxiv.org/abs/2603.11097v3"
+    }
+  ],
+  "total": 6
+}

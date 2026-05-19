@@ -1,0 +1,54 @@
+{
+  "date": "2025-05-27",
+  "papers": [
+    {
+      "arxiv_id": "2505.21054v3",
+      "base_id": "2505.21054",
+      "title": "Polaron formation as the vertex function problem: From Dyck's paths to self-energy Feynman diagrams",
+      "authors": [
+        "Tomislav Miškić",
+        "Juraj Krsnik",
+        "Stefano Ragni",
+        "Andrey S. Mishchenko",
+        "Osor S. Barišić"
+      ],
+      "abstract": "We present an iterative method for generating the complete set of self-energy Feynman diagrams at arbitrary order for the single-polaron problem with arbitrary linear coupling to the lattice. The approach combines a combinatorial representation of noncrossing diagrams, based on Dyck paths associated with Stieltjes-Rogers polynomials, with the constraints of the Ward-Takahashi identity to systematically incorporate vertex corrections. This construction yields a one-to-one correspondence between terms in the expansion based on Stieltjes-Rogers polynomials and diagrammatic contributions, and provides, through a sequence of simple steps, a closed, algorithmic framework for generating all diagrams of a given order, together with their relative weights. The method enables efficient, unbiased evaluation of diagrammatic series and improves the convergence of diagrammatic Monte Carlo by eliminating the need for stochastic weighting between different topologies. We further outline how the construction can be generalized to finite-density electron systems.",
+      "categories": [
+        "cond-mat.str-el",
+        "hep-ph"
+      ],
+      "published": "2025-05-27T11:44:08+00:00",
+      "updated": "2026-04-16T11:57:23+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2505.21054v3",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2505.21054v3"
+    },
+    {
+      "arxiv_id": "2505.20996v3",
+      "base_id": "2505.20996",
+      "title": "Parameter inference of millilensed gravitational waves using neural spline flows",
+      "authors": [
+        "Zheng Qin",
+        "Tian-Yang Sun",
+        "Bo-Yuan Li",
+        "Jing-Fei Zhang",
+        "Xiao Guo",
+        "Xin Zhang"
+      ],
+      "abstract": "When gravitational waves (GWs) propagate near massive objects, they undergo gravitational lensing that imprints lens model dependent modulations on the waveform. This effect provides a powerful tool for cosmological and astrophysical studies. Due to the added parameters of lenses and the uncertainty of lens models, parameter inference for lensed GW events using traditional methods is extremely time-consuming, thus requiring more efficient parameter inference methods. In this work, we explore the use of neural spline flows (NSFs) for posterior inference of millilensed GWs, and successfully apply NSFs to the inference of 11-dimensional lens parameters. Our results demonstrate that compared with traditional methods like Bilby dynesty that rely on Bayesian inference, the NSF network we built not only achieves inference accuracy comparable to traditional methods for most parameters, but also can reduce the inference time from approximately 3 days to 0.8 s on average. Additionally, the network exhibits strong generalization for the spin parameters of GW sources. It is anticipated to become a powerful tool for future low-latency searches for lensed GW signals.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "astro-ph.IM",
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2025-05-27T10:31:21+00:00",
+      "updated": "2026-05-11T16:32:51+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2505.20996v3",
+      "html_url": "https://arxiv.org/html/2505.20996v3",
+      "entry_url": "http://arxiv.org/abs/2505.20996v3"
+    }
+  ],
+  "total": 2
+}

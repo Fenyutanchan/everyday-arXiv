@@ -1,0 +1,71 @@
+{
+  "date": "2025-09-06",
+  "papers": [
+    {
+      "arxiv_id": "2509.05756v2",
+      "base_id": "2509.05756",
+      "title": "Quantum Mpemba-like effect in Unruh thermalization",
+      "authors": [
+        "Zihao Wang",
+        "Wenjing Chen",
+        "Si-Wei Han",
+        "Xiaoshan Feng",
+        "Linmu Qiao",
+        "Zhichun Ouyang",
+        "Jun Feng"
+      ],
+      "abstract": "We revisit the thermal nature of the Unruh effect within a quantum thermodynamic framework. For a Unruh-deWitt (UDW) detector in $n$-dimensional Minkowski spacetime, we demonstrate that its irreversible thermalization to a Gibbs equilibrium state follows distinct trajectories on the Bloch sphere, which depend on the types of fields the detector interacts with, as well as the spacetime dimensionality. Using thermodynamic process functions, particularly quantum coherence and heat that form the quantum First Law, we characterize the Unruh thermalization through a complementary time evolution between the trajectory-dependent rates of process functions. Grounded in information geometry, we further explore the kinematics of the detector state as it \"flows\" along the trajectory. In particular, we propose two heating/cooling protocols for the UDW detector undergoing Unruh thermalization. We observe a quantum Mpemba-like effect, characterized by faster heating than cooling in terms of Uhlmann fidelity \"distance\" change. Most significantly, we establish the maximum fidelity difference as a novel diagnostic that essentially distinguishes between Unruh thermalization and its classical counterpart, i.e., classical thermal bath-driven thermalization of an inertial UDW detector. This compelling criterion may serve as a hallmark of the quantum origin of the Unruh effect in future experimental detection and quantum simulation. Finally, we conclude with a general analysis of Unruh thermalization, starting from equal-fidelity non-thermal states, and demonstrate that the detectors' fidelity and \"speed\" of quantum evolution still exhibit a Mpemba-like behavior.",
+      "categories": [
+        "hep-th",
+        "quant-ph"
+      ],
+      "published": "2025-09-06T15:56:30+00:00",
+      "updated": "2026-05-02T14:33:21+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.05756v2",
+      "html_url": "https://arxiv.org/html/2509.05756v2",
+      "entry_url": "http://arxiv.org/abs/2509.05756v2"
+    },
+    {
+      "arxiv_id": "2509.05618v3",
+      "base_id": "2509.05618",
+      "title": "Primordial Black Holes Evaporating before Big Bang Nucleosynthesis",
+      "authors": [
+        "Quan-feng Wu",
+        "Xun-Jie Xu"
+      ],
+      "abstract": "Primordial black holes (PBHs) formed from the collapse of density fluctuations provide a unique window into the physics of the early Universe. Their evaporation through Hawking radiation around the epoch of Big Bang nucleosynthesis (BBN) can leave measurable imprints on the primordial light-element abundances. In this work, we analyze in detail the effects of PBHs evaporating before BBN, with various intermediate steps understood analytically, and obtain the BBN constraint on PBHs within a transparent and reproducible framework. We find that, to produce observable effects on BBN, the PBH mass must exceed $10^{9}$ g, a threshold higher than that reported in some earlier studies. Slightly above $10^{9}$ g, the BBN sensitivity rapidly increases with the mass and then decreases, with the turning point occurring at $2\\times10^{9}$ g. For PBHs in the mass range $[10^{9},\\ 10^{10}]$ g, current measurements of BBN observables set an upper bound on the initial mass fraction parameter $β$ ranging from $10^{-17}$ to $10^{-19}$. To facilitate future improvements, we make our code publicly available, enabling straightforward incorporation of updated nuclear reaction rates, particle-physics inputs, and cosmological data.",
+      "categories": [
+        "astro-ph.CO",
+        "hep-ph"
+      ],
+      "published": "2025-09-06T06:32:50+00:00",
+      "updated": "2026-05-06T03:36:24+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.05618v3",
+      "html_url": "https://arxiv.org/html/2509.05618v3",
+      "entry_url": "http://arxiv.org/abs/2509.05618v3"
+    },
+    {
+      "arxiv_id": "2509.05713v2",
+      "base_id": "2509.05713",
+      "title": "Quantum-Gravitational Backreaction in the BTZ Background from Curved Momentum Space",
+      "authors": [
+        "Partha Nandi",
+        "Mainak Roy",
+        "Langa Horoto",
+        "Frederik G. Scholtz",
+        "Biswajit Chakraborty"
+      ],
+      "abstract": "We explore how quantum properties of spacetime, specifically the curvature of momentum space, can backreact on classical gravity within a tractable semiclassical (2+1)-dimensional framework with a negative cosmological constant. Motivated by quantum-gravity scenarios, we investigate how Planck-scale modifications of particle kinematics influence both dynamics and gravitational solutions. Starting from a first-order action, we derive an effective configuration-space description and show that particle trajectories remain geodesic, preserving the weak equivalence principle despite the underlying deformation. Coupling this modified matter sector to Einstein gravity, we obtain a deformed BTZ black hole solution. Remarkably, the local geometric structure and thermodynamic relations retain their standard form, while all quantum-gravity effects are encoded in a nonlinear mapping between the microscopic mass parameter and the ADM mass. This induces a renormalization of the horizon radius and thermodynamic quantities without altering their functional dependence. As a concrete observable consequence, we compute corrections to the return time of massless probes traveling along null geodesics between the horizon and the AdS3 boundary. Our results demonstrate that Planck-scale kinematic effects can leave controlled and potentially measurable imprints on classical geometry, providing a clear and consistent bridge between quantum-gravity ideas and semiclassical observables.",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2025-09-06T13:20:44+00:00",
+      "updated": "2026-05-11T21:49:45+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.05713v2",
+      "html_url": "https://arxiv.org/html/2509.05713v2",
+      "entry_url": "http://arxiv.org/abs/2509.05713v2"
+    }
+  ],
+  "total": 3
+}

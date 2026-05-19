@@ -1,0 +1,74 @@
+{
+  "date": "2025-10-05",
+  "papers": [
+    {
+      "arxiv_id": "2510.04179v3",
+      "base_id": "2510.04179",
+      "title": "Crosschecking Cosmic Distances from DESI BAO and DES SNe",
+      "authors": [
+        "Mauricio Lopez-Hernandez",
+        "Eoin Ó Colgáin",
+        "Saeed Pourojaghi",
+        "M. M. Sheikh-Jabbari"
+      ],
+      "abstract": "We perform a consistency check of DESI DR2 BAO constraints ($D_M/r_d, D_H/r_d)$ by reconstructing the same quantities from DES supernovae (SNe) in bins with the same effective redshift $z_{\\textrm{eff}} \\in \\{ 0.510, 0.706, 0.934 \\}$ and a Planck $r_d$ prior. Through mock analysis we show that $D_M(z_{\\rm eff})$ and $D_{H}(z_{\\rm eff})$ can be locally reconstructed model agnostically from $Λ$CDM and extended models, but only if one employs frequentist methods; purely Bayesian reconstructions from Markov Chain Monte Carlo (MCMC) exhibit bias. We find that the ratio of the three $D_M/r_d$ values at different $z_{\\textrm{eff}}$ are consistent with a horizontal, thus confirming that the distance duality relation holds up to calibration. However, the $D_H/r_d$ ratio shows a decreasing trend driven by the $z_{\\textrm{eff}} = 0.934$ bin, the significance of which varies from $2.5 σ$ with Bayesian methods down to $1.4 σ$ with frequentist methods. We show that replacing DES with DES-Dovekie SNe reduces the significance to $1.7 σ$ and $1.2 σ$ in Bayesian and frequentist approaches, respectively. We conclude that distances reconstructed from SNe show good agreement with DESI BAO distances across the redshifts studied. We also note that $D_M(z_{\\rm eff} = 0.510)/r_d$ reconstructed from SNe favours DESI BAO over transversal BAO against a backdrop of a $3.7 σ$ disagreement.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2025-10-05T12:41:23+00:00",
+      "updated": "2026-04-24T15:53:25+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.04179v3",
+      "html_url": "https://arxiv.org/html/2510.04179v3",
+      "entry_url": "http://arxiv.org/abs/2510.04179v3"
+    },
+    {
+      "arxiv_id": "2510.04283v3",
+      "base_id": "2510.04283",
+      "title": "Long-time behaviour of sphalerons in $φ^4$ models with a false vacuum",
+      "authors": [
+        "Stephen C. Anco",
+        "Danial Saadatmand"
+      ],
+      "abstract": "Evolution of sphalerons in a class of quartic Klein-Gordon models are studied under a growing perturbation. Sphalerons are unstable lump-like solutions that arise from a saddle point between true and false vacua in the energy functional. Numerical simulations are presented which show the sphaleron evolving into an accelerating kink-antikink pair whose separation increases in time and asymptotically approaches the speed of light. To explain this behaviour analytically, a nonlinear collective coordinate method is developed which has three dynamical parameters and leads to an explicit asymptotic solution using a power series expansion. The solution describes the emergence of a spreading tabletop profile whose height approaches the true vacuum while its flanks steepen and accelerate outward. In addition, the energy density is shown to concentrate at the flanks, indicating the onset of a gradient blow-up at large times. These results provide a detailed description of the long-time dynamics of positively perturbed sphalerons, and reveal a universal mechanism for the formation of relativistically expanding structures in nonlinear field theories.",
+      "categories": [
+        "hep-th",
+        "math-ph",
+        "nlin.PS"
+      ],
+      "published": "2025-10-05T16:52:16+00:00",
+      "updated": "2026-05-06T22:05:51+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.04283v3",
+      "html_url": "https://arxiv.org/html/2510.04283v3",
+      "entry_url": "http://arxiv.org/abs/2510.04283v3"
+    },
+    {
+      "arxiv_id": "2510.04332v2",
+      "base_id": "2510.04332",
+      "title": "Biased parameter inference of eccentric, spin-precessing binary black holes",
+      "authors": [
+        "Divyajyoti",
+        "Isobel M. Romero-Shaw",
+        "Vaishak Prasad",
+        "Kaushik Paul",
+        "Chandra Kant Mishra",
+        "Prayush Kumar",
+        "Akash Maurya",
+        "Michael Boyle",
+        "Lawrence E. Kidder",
+        "Harald P. Pfeiffer",
+        "Mark A. Scheel"
+      ],
+      "abstract": "While the majority of gravitational wave (GW) events observed by the LIGO and Virgo detectors are consistent with mergers of binary black holes (BBHs) on quasi-circular orbits, some events are also consistent with non-zero orbital eccentricity, indicating that the binaries could have formed via dynamical interactions. Moreover, there may be GW events which show support for spin-precession, eccentricity, or both. In this work, we study the interplay of spins and eccentricity on the parameter estimation of GW signals from BBH mergers. We inject eccentric signals with no spins, aligned spins, and precessing spins using hybrids, TEOBResumS-DALI, and new Numerical Relativity (NR) simulations, respectively, and study the biases in the posteriors of source parameters when these signals are recovered with a quasi-circular precessing-spin waveform model, as opposed to an aligned-spin eccentric waveform model. We find significant biases in the source parameters, such as chirp mass and spin-precession ($χ_p$), when signals from highly-eccentric BBHs are recovered with a quasi-circular waveform model. Moreover, we find that for signals with both eccentricity and spin-precession effects, Bayes factor calculations confirm that an eccentric, aligned-spin model is preferred over a quasi-circular precessing-spin model. Our study highlights the complex nature of GW signals from eccentric, precessing-spin binaries and the need for readily usable inspiral-merger-ringdown eccentric, spin-precessing waveform models for unbiased parameter estimation.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE"
+      ],
+      "published": "2025-10-05T19:29:41+00:00",
+      "updated": "2026-05-12T13:46:37+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.04332v2",
+      "html_url": "https://arxiv.org/html/2510.04332v2",
+      "entry_url": "http://arxiv.org/abs/2510.04332v2"
+    }
+  ],
+  "total": 3
+}

@@ -1,0 +1,54 @@
+{
+  "date": "2024-12-30",
+  "papers": [
+    {
+      "arxiv_id": "2412.20932v3",
+      "base_id": "2412.20932",
+      "title": "Weak nuclear decays deep-underground as a probe of axion dark matter",
+      "authors": [
+        "Jorge Alda",
+        "Carlo Broggini",
+        "Giuseppe Di Carlo",
+        "Luca Di Luzio",
+        "Denise Piatti",
+        "Stefano Rigolin",
+        "Claudio Toni"
+      ],
+      "abstract": "We investigate the time modulation of weak nuclear decays as a method to probe axion dark matter. To this end, we develop a theoretical framework to compute the $θ$-dependence of weak nuclear decays, including electron capture and $β$ decay, which enables us to predict the time variation of weak radioactivity in response to an oscillating axion dark matter background. As an application, we recast old data sets, from the weak nuclear decays of ${^{40}\\text{K}}$ and ${^{137}\\text{Cs}}$ taken at the underground Gran Sasso Laboratory, in order to set constraints on the axion decay constant, specifically in the axion mass range from few $10^{-23}\\;$eV up to $10^{-19}\\;$eV. We finally propose a new measurement at the Gran Sasso Laboratory, based on the weak nuclear decay of ${^{40}\\text{K}}$ via electron capture, in order to explore even shorter timescales, thus reaching sensitivities to axion masses up to $10^{-9}\\;$eV.",
+      "categories": [
+        "hep-ph",
+        "hep-ex",
+        "nucl-ex",
+        "nucl-th"
+      ],
+      "published": "2024-12-30T13:22:39+00:00",
+      "updated": "2026-04-29T14:21:41+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2412.20932v3",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2412.20932v3"
+    },
+    {
+      "arxiv_id": "2412.20664v2",
+      "base_id": "2412.20664",
+      "title": "Enhancing Early Detection and Localization of Gravitational Waves via Eccentricity-Induced Higher Harmonic Modes with 2G Detector Networks",
+      "authors": [
+        "Tao Yang",
+        "Rong-Gen Cai",
+        "Zhoujian Cao",
+        "Hyung Mok Lee"
+      ],
+      "abstract": "Early detection and localization of gravitational waves (GWs) are essential for identifying electromagnetic (EM) counterparts, playing a key role in multi-messenger astronomy. However, second-generation (2G) ground-based detectors are most sensitive to frequencies of tens to hundreds of hertz, limiting the in-band duration of GW signals to $\\mathcal{O}(0.1)$ to several tens of seconds. This constraint hinders early-warning capabilities and early localization. We present the first theoretical study on how eccentricity-induced higher harmonic modes, which enters the detector band significantly earlier than the dominant mode, enhance early detection and localization in a 2G detector network. By decomposing each harmonic mode in the frequency domain and tracking their sequential entry into the detector band, we analyze the evolution of the average signal-to-noise ratios (SNRs) and localization accuracy as functions of time-to-merger. For a GW170817-like BNS, an eccentricity of $e_0=0.4$ at 10 Hz allows the signal to reach SNR 4 and the detection threshold of SNR 8 approximately 12 and 5 minutes before merger, respectively-gains of 4.5 and 1.5 minutes over the circular case. Localization within $1000 \\, (100)\\,\\rm deg^2$ is achievable 5 (1) minutes before merger, improving by 2 minutes (15 seconds). Our results highlight the potential of eccentricity-induced higher harmonics in improving early warnings and localization, particularly for BNS mergers, enhancing the prospects for multi-messenger astronomy.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "astro-ph.IM"
+      ],
+      "published": "2024-12-30T02:47:07+00:00",
+      "updated": "2026-04-30T09:24:39+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2412.20664v2",
+      "html_url": "https://arxiv.org/html/2412.20664v2",
+      "entry_url": "http://arxiv.org/abs/2412.20664v2"
+    }
+  ],
+  "total": 2
+}

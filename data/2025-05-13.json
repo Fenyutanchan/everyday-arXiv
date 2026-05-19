@@ -1,0 +1,44 @@
+{
+  "date": "2025-05-13",
+  "papers": [
+    {
+      "arxiv_id": "2505.08761v2",
+      "base_id": "2505.08761",
+      "title": "The CMB Cold Spot under the lens II: Lensing signatures in polarization and cosmic texture footprints",
+      "authors": [
+        "Pedro da Silveira Ferreira",
+        "Stephen Owusu"
+      ],
+      "abstract": "We forecast the detectability of the lensing footprint of a collapsing cosmic texture, a topological defect proposed as an explanation of the CMB Cold Spot. Our pipeline is a quadratic, template-amplitude estimator for localized, azimuthally symmetric lensing profiles: it projects the standard off-diagonal covariance response of lensed CMB fields onto a physically motivated template. Rather than reconstructing an arbitrary lensing field, the method targets weak but coherent localized footprints from sources such as voids, clusters and topological defects. Using the temperature/polarization pairs TT, TE+ET, EE, TB+BT and EB+BE for forthcoming Simons Observatory data, we estimate a $2.3σ$ detection if the texture amplitude reaches the current Planck 2018 $2σ$ upper limit, and a $1.5σ$ measurement for the best-fit texture parameters. This sensitivity is notable given the expected typical deflection angle below $6''$. The inclusion of polarization substantially increases the cumulative signal-to-noise ratio, by $\\sim67\\%$ relative to temperature alone, making sub-$10''$ localized lensing footprints accessible to SO-like surveys.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2025-05-13T17:28:26+00:00",
+      "updated": "2026-05-07T06:14:05+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2505.08761v2",
+      "html_url": "https://arxiv.org/html/2505.08761v2",
+      "entry_url": "http://arxiv.org/abs/2505.08761v2"
+    },
+    {
+      "arxiv_id": "2505.08877v2",
+      "base_id": "2505.08877",
+      "title": "On the universality of late-time ringdown tail",
+      "authors": [
+        "Romeo Felice Rosato",
+        "Paolo Pani"
+      ],
+      "abstract": "The late time response of vacuum black holes in General Relativity is notoriously governed by power law tails arising from the wave scattering off the curved spacetime geometry far from the black hole. While it is known that such tails are universal to a certain extent, a precise characterization of their key ingredients is missing. Here we provide an analytical proof that the tail fall-off is universal for any effective potential asymptotically decaying as $1/r^2$, while the power law decay is different if the potential decays as $1/r^α$ with $1<α<2$. This result extends and revises some previous work and is in agreement with numerical analyses. Our proof is based on an analytical evaluation of the branch cut contribution to the Green function, and includes charged black holes, different kinds of perturbations, Teukolsky equation for the Kerr metric, exotic compact objects, extensions of General Relativity, and environmental effects. In the latter case, our results indicate that tails are largely insensitive to a wide range of physically motivated matter distributions around black holes, including the Navarro Frenk White profile commonly used to model dark matter.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE",
+        "hep-th"
+      ],
+      "published": "2025-05-13T18:05:21+00:00",
+      "updated": "2026-05-13T15:21:01+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2505.08877v2",
+      "html_url": "https://arxiv.org/html/2505.08877v2",
+      "entry_url": "http://arxiv.org/abs/2505.08877v2"
+    }
+  ],
+  "total": 2
+}

@@ -1,0 +1,116 @@
+{
+  "date": "2025-10-31",
+  "papers": [
+    {
+      "arxiv_id": "2511.00152v2",
+      "base_id": "2511.00152",
+      "title": "Every Wrinkle Carries A Memory: An Integro-differential Bootstrap for Features in Cosmological Correlators",
+      "authors": [
+        "Sadra Jazayeri",
+        "Xi Tong",
+        "Yuhang Zhu"
+      ],
+      "abstract": "Motivated by cosmological observations, we push the cosmological bootstrap program beyond the de Sitter invariance lamppost by considering correlators that explicitly break scale invariance, thereby exhibiting primordial features. For exchange processes involving heavy fields with time-dependent masses and sound speeds, we demonstrate that locality in the bulk implies a set of integro-differential equations for correlators on the boundary. These scale-breaking boundary equations come with a built-in memory kernel in momentum-kinematic space encapsulating the universe's evolution during inflation. Specialising to heavy fields with sinusoidal masses such as those found in axion monodromy scenarios, we show that a powerful synthesis of microcausality and analyticity allows an analytical solution of these equations at leading order in the amplitude of mass oscillations. Meanwhile, we also unveil non-perturbative information in the integro-differential equations by resumming apparent infrared divergences as parametric resonances. In addition, we provide a first-of-its-kind example of numerical bootstrap that directly maps out the solution space of such boundary equations. Finally, we compute the bispectrum and uncover, in the squeezed limit, a scale-breaking cosmological collider signal, whose amplitude can be exponentially enhanced (with respect to the Boltzmann suppression) due to particle production triggered by high-frequency mass oscillations.",
+      "categories": [
+        "hep-th",
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "published": "2025-10-31T18:00:12+00:00",
+      "updated": "2026-04-15T16:05:48+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.00152v2",
+      "html_url": "https://arxiv.org/html/2511.00152v2",
+      "entry_url": "http://arxiv.org/abs/2511.00152v2"
+    },
+    {
+      "arxiv_id": "2510.27424v3",
+      "base_id": "2510.27424",
+      "title": "Extracting Properties of Dark Dense Environments around Black Holes from Gravitational Waves",
+      "authors": [
+        "Qianhang Ding",
+        "Minxi He",
+        "Hui-Yu Zhu"
+      ],
+      "abstract": "Dark matter (DM) can form dense condensates around black holes (BHs), such as superradiant clouds and ultracompact mini halos, which can significantly affect the orbital evolution of their companion objects through dynamical friction (DF). In this work, we define a novel quantity to quantify such effects in the emitted gravitational waves (GWs) in terms of GW amplitude, frequency, and their time derivatives. The information about the density profile can be extracted from this quantity, which characterizes the type of condensate and, therefore, the corresponding DM property. This quantity allows us to probe the dark dense environment by multi-wavelength GW observation with existing ground-based and future space-based GW detectors, potentially revealing the properties of the dark sector and shedding light on the primordial origin of the stellar mass BHs. A null detection can place strong constraints on the relevant DM parameters.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "astro-ph.HE",
+        "hep-ph"
+      ],
+      "published": "2025-10-31T12:24:32+00:00",
+      "updated": "2026-04-21T09:48:29+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.27424v3",
+      "html_url": "https://arxiv.org/html/2510.27424v3",
+      "entry_url": "http://arxiv.org/abs/2510.27424v3"
+    },
+    {
+      "arxiv_id": "2510.27604v3",
+      "base_id": "2510.27604",
+      "title": "DiffstarPop: A generative physical model of galaxy star formation history",
+      "authors": [
+        "Alex Alarcon",
+        "Andrew P. Hearin",
+        "Matthew R. Becker",
+        "Gillian Beltz-Mohrmann",
+        "Andrew Benson",
+        "Sachi Weerasooriya"
+      ],
+      "abstract": "We present DiffstarPop, a differentiable forward model of cosmological populations of galaxy star formation histories (SFH). In the model, individual galaxy SFH is parametrized by Diffstar, which has parameters $θ_{\\rm SFH}$ that have a direct interpretation in terms of galaxy formation physics, such as star formation efficiency and quenching. DiffstarPop is a model for the statistical connection between $θ_{\\rm SFH}$ and the mass assembly history (MAH) of dark matter halos. We have formulated DiffstarPop to have the minimal flexibility needed to accurately reproduce the statistical distributions of galaxy SFH predicted by a diverse range of simulations, including the IllustrisTNG hydrodynamical simulation, the Galacticus semi-analytic model, and the UniverseMachine semi-empirical model. Our publicly available code written in JAX includes Monte Carlo generators that supply statistical samples of galaxy assembly histories that mimic the populations seen in each simulation, and can generate SFHs for $10^6$ galaxies in 1.1 CPU-seconds, or 0.03 GPU-seconds. We conclude the paper with a discussion of applications of DiffstarPop, which we are using to generate catalogs of synthetic galaxies populating the merger trees in cosmological N-body simulations.",
+      "categories": [
+        "astro-ph.GA",
+        "astro-ph.CO"
+      ],
+      "published": "2025-10-31T16:28:59+00:00",
+      "updated": "2026-05-07T12:58:59+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.27604v3",
+      "html_url": "https://arxiv.org/html/2510.27604v3",
+      "entry_url": "http://arxiv.org/abs/2510.27604v3"
+    },
+    {
+      "arxiv_id": "2511.00154v3",
+      "base_id": "2511.00154",
+      "title": "Hadronic scattering in (1+1)D SU(2) lattice gauge theory from tensor networks",
+      "authors": [
+        "João Barata",
+        "Juan Hormaza",
+        "Zhong-Bo Kang",
+        "Wenyang Qian"
+      ],
+      "abstract": "We present a first real-time study of hadronic scattering in a (1+1)-dimensional SU(2) lattice gauge theory with fundamental fermions using tensor-network techniques. Working in the gaugeless Hamiltonian formulation -- where the gauge field is exactly integrated out and no truncation of the electric flux is required -- we investigate scattering processes across sectors of fixed global baryon number $B = 0, 1, 2$. These correspond respectively to meson-meson, meson-baryon, and baryon-baryon collisions. At strong coupling, the $B = 0$ and $B = 2$ channels exhibit predominantly elastic dynamics closely resembling those of the U(1) Schwinger model. In contrast, the mixed $B = 1$ sector shows qualitatively new behavior: meson and baryon wave packets become entangled during the collision, and depending on their initial kinematics, the slower state becomes spatially delocalized while the faster one propagates ballistically. We characterize these processes through local observables, entanglement entropy, and the information-lattice, which together reveal how correlations build up and relax during the interaction. Our results establish a first benchmark for non-Abelian real-time scattering from first principles and open the path toward quantum-simulation studies of baryon-number dynamics and inelastic processes in gauge theories.",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "nucl-th",
+        "quant-ph"
+      ],
+      "published": "2025-10-31T18:00:46+00:00",
+      "updated": "2026-05-12T11:54:39+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.00154v3",
+      "html_url": "https://arxiv.org/html/2511.00154v3",
+      "entry_url": "http://arxiv.org/abs/2511.00154v3"
+    },
+    {
+      "arxiv_id": "2511.00157v2",
+      "base_id": "2511.00157",
+      "title": "Nucleosynthesis and CMB bounds on photophilic ALPs: a fresh look",
+      "authors": [
+        "Miguel Escudero",
+        "Clara Garcia-Perez",
+        "Maksym Ovchynnikov"
+      ],
+      "abstract": "We provide a fresh look at the cosmological constraints on axion-like particles (ALPs) that couple predominantly to photons, focusing on lifetimes $τ_{a} \\lesssim 10^{4}\\, {\\rm s}$ and masses $m_a\\lesssim 10\\,{\\rm GeV}$. We consider Big Bang Nucleosynthesis (BBN) and Cosmic Microwave Background (CMB) bounds and explore how these limits depend upon the unknown reheating temperature of the Universe, $T_{\\rm reh}$. Compared with some previous studies, we account for the rare decays of these ALPs into light hadrons and show that this leads to extended constraints for several reheating temperatures. Our limits are cast in a model-independent way, and we identify regions of parameter space where these ALPs could alleviate small tensions in the determinations of $N_{\\rm eff}$ and the deuterium abundance.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "published": "2025-10-31T18:04:05+00:00",
+      "updated": "2026-05-11T11:49:51+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.00157v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2511.00157v2"
+    }
+  ],
+  "total": 5
+}

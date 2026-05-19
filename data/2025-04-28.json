@@ -1,0 +1,47 @@
+{
+  "date": "2025-04-28",
+  "papers": [
+    {
+      "arxiv_id": "2504.20008v3",
+      "base_id": "2504.20008",
+      "title": "The shape of differential radial flow $v_0(p_T)$, not its zero-crossing, carries physical information",
+      "authors": [
+        "Somadutta Bhatta",
+        "Aman Dimri",
+        "Jiangyong Jia"
+      ],
+      "abstract": "Radial flow, a key collective phenomenon in heavy-ion collisions, manifests itself through event-by-event fluctuations of transverse-momentum ($p_{\\mathrm{T}}$) spectra. The $p_{\\mathrm{T}}$-differential radial flow observable, $v_0(p_{\\mathrm{T}})$, was introduced to quantify local spectral-shape fluctuations, but it is unavoidably influenced by global multiplicity fluctuations. Using the HIJING model, we show that different event-activity definitions for centrality classification and different spectral normalization schemes generate a constant vertical offset in $v_0(p_{\\mathrm{T}})$ without altering its shape. This offset reflects the impact of residual volume/centrality fluctuations rather than genuine dynamical radial flow fluctuations. Accordingly, only the shape of $v_0(p_{\\mathrm{T}})$, or equivalently its derivative $dv_0(p_{\\mathrm{T}})/dp_{\\mathrm{T}}$, carries physical information about radial-flow dynamics; its zero crossing does not. Practical implications include the need to vertically align measurements from different experiments before comparison, thereby removing normalization ambiguities when constraining QGP properties.",
+      "categories": [
+        "nucl-th",
+        "hep-ph",
+        "nucl-ex"
+      ],
+      "published": "2025-04-28T17:29:10+00:00",
+      "updated": "2026-04-29T01:57:14+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2504.20008v3",
+      "html_url": "https://arxiv.org/html/2504.20008v3",
+      "entry_url": "http://arxiv.org/abs/2504.20008v3"
+    },
+    {
+      "arxiv_id": "2504.20182v3",
+      "base_id": "2504.20182",
+      "title": "Testing the consistency of gravitational waves and large scale structure constraints on dark energy",
+      "authors": [
+        "Antonio Enea Romano",
+        "Juan Manuel Cardenas Mancipe"
+      ],
+      "abstract": "Gravitational wave (GW) astronomy has opened a new window on the Universe, allowing to obtain constraints on dark energy and gravity independent from other electromagnetic waves observations, such as large scale structure (LSS). For the purpose of investigating the consistency between different observations the effective field theory (EFT) of dark energy is a useful tool, allowing to derive model and parametrization independent consistency relations (CR) between the effective gravitational constant, the slip parameter, the gravitational and electromagnetic luminosity (EM) distance, and the speed of GWs. We test the constant brading and no-slip CRs, by comparing for the first time the constraints on the effective gravitational coupling obtained from LSS observations with those from GW events with and without electromagnetic counterparts, confirming the validity of the CRs at the current level of experimental uncertainty. The event GW170817 and its electromagnetic counterpart provides a constraint of the effective gravitational constant with an accuracy comparable with LSS constraints, while the analysis of GW events without electromagnetic counterpart are consistent, but do not have a constraining power comparable to LSS observations. Beside allowing to test the consistency between independent observations, the CRs can be used to estimate the effective gravitational coupling with GWs at high redshift, where other observations are not available.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-th"
+      ],
+      "published": "2025-04-28T18:34:02+00:00",
+      "updated": "2026-05-18T17:40:49+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2504.20182v3",
+      "html_url": "https://arxiv.org/html/2504.20182v3",
+      "entry_url": "http://arxiv.org/abs/2504.20182v3"
+    }
+  ],
+  "total": 2
+}

@@ -1,0 +1,519 @@
+{
+  "date": "2026-05-07",
+  "total": 19,
+  "papers": [
+    {
+      "arxiv_id": "2511.21634v2",
+      "base_id": "2511.21634",
+      "title": "Cosmological Probes of Lepton Parity Freeze-in Dark Matter: $ΔN_{\\rm eff}$ & Gravitational Waves",
+      "authors": [
+        "Ernest Ma",
+        "Partha Kumar Paul",
+        "Narendra Sahu"
+      ],
+      "abstract": "In the canonical type-I seesaw mechanism for neutrino masses, a residual symmetry known as lepton parity: $(-1)^L$, remains preserved. Introducing a Majorana fermion $S$ with even lepton parity renders it naturally stable, making it a viable dark matter (DM) candidate. The addition of a lepton parity odd singlet scalar $σ$ allows for the coupling $N S σ$, where $N$ is the right-handed neutrino. If $S$ is not thermalized, then DM relic can be produced in two distinct ways: (i) for reheating temperature, $T_{\\rm rh}>m_{N}$, dominantly through the decay of $N$ ($N\\rightarrow Sσ$), and (ii) for $T_{\\rm EW}<T_{\\rm rh}\\ll m_{N}$, via standard model Higgs ($h$) decay ($h\\rightarrow SS$ at one loop). If the $σ-h$ quartic coupling is large, then it can lead to a strong first-order electroweak phase transition even if $\\langleσ\\rangle=0$. Alternatively, if $σ-h$ coupling is small, then $σ$ can freeze out with a larger abundance, and hence its decay ($σ\\rightarrow Sν$) at late epochs can give rise to additional relativistic degrees of freedom ($Δ{N}_{\\rm eff}$). Thus, the framework gives a viable DM with mass range varying from MeV to TeV and leaves observable imprints, via gravitational waves and $Δ{N}_{\\rm eff}$, which offer complementary probes, potentially detectable in future gravitational wave and CMB experiments.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "published": "2025-11-26T18:04:21+00:00",
+      "updated": "2026-05-07T01:19:31+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.21634v2",
+      "html_url": "https://arxiv.org/html/2511.21634v2",
+      "entry_url": "http://arxiv.org/abs/2511.21634v2",
+      "relevance": {
+        "relevant": true,
+        "score": 9,
+        "reason": "This paper directly intersects multiple core interests: cosmological bounds from ΔN_eff, stochastic gravitational-wave backgrounds from first-order phase transitions, early-universe reheating dynamics, and the seesaw mechanism connecting HNLs to dark sector physics with freeze-in dark matter production.",
+        "pass_number": 1,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.06777v1",
+      "base_id": "2605.06777",
+      "title": "Neutrino-Antineutrino Conversion from Ultralight Vector Dark Matter",
+      "authors": [
+        "Asher Berlin",
+        "Rodolfo Capdevilla",
+        "Ting Cheng",
+        "Matheus Hostert",
+        "Pedro A. N. Machado"
+      ],
+      "abstract": "We show that Majorana neutrinos convert into antineutrinos in a background of ultralight vector dark matter coupled to lepton number, such as the gauge boson of $\\text{U}(1)_{B-L}$ or $\\text{U}(1)_{L_i - L_j}$ with $i, j = e , μ, τ$. This effect is suppressed by the small neutrino mass, but the enhancement by long astrophysical baselines can enable future searches for solar and supernova neutrinos to explore uncharted parameter space. For instance, for $\\text{U}(1)_{B-L}$ dark matter, the observation of a supernova neutrino burst at DUNE, Hyper-Kamiokande, and JUNO could probe gauge couplings as small as $e^\\prime \\sim 10^{-32} - 10^{-25}$ for dark matter masses of $m_{A^\\prime} \\sim 10^{-22} \\ \\text{eV} - 10^{-14} \\ \\text{eV}$, beyond the capability of other future probes.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.HE",
+        "hep-ex"
+      ],
+      "published": "2026-05-07T18:00:02+00:00",
+      "updated": "2026-05-07T18:00:02+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.06777v1",
+      "html_url": "https://arxiv.org/html/2605.06777v1",
+      "entry_url": "http://arxiv.org/abs/2605.06777v1",
+      "relevance": {
+        "relevant": true,
+        "score": 9,
+        "reason": "This paper directly intersects multiple core interests: JUNO phenomenology (explicitly mentioned as a probe), neutrino physics (neutrino-antineutrino conversion of Majorana neutrinos), and dark matter physics (ultralight vector dark matter coupled to lepton number), with implications for solar and supernova neutrino detection.",
+        "pass_number": 1,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2512.08301v2",
+      "base_id": "2512.08301",
+      "title": "Isocurvature Induced Gravitational Waves at Pulsar Timing Arrays",
+      "authors": [
+        "Yi-Fu Cai",
+        "Peizhi Du",
+        "Jiahang Zhong"
+      ],
+      "abstract": "Gravitational waves (GWs) are powerful probes of new physics in the early Universe. In particular, GWs induced by primordial isocurvature perturbations encode information of novel dynamics beyond the standard $Λ$CDM model. Existing studies of isocurvature induced GWs focus on a particular type: cold dark matter (CDM) isocurvature. In this work, we present a more comprehensive study of four kinds of isocurvature involving CDM, baryons, neutrinos and free-streaming dark radiation (DR). We first reformulate initial conditions of isocurvature with coupled neutrinos because modes relevant for observations at Pulsar Timing Arrays enter the horizon before neutrino decoupling. With these new initial conditions, neutrino isocurvature is phenomenologically similar to CDM isocurvature up to an overall coefficient, which leads to an interesting conversion of isocurvature between radiation and matter sectors. We then find that the spectrum of isocurvature induced GWs from free-streaming DR is qualitatively different than that from CDM due to the presence of anisotropic stress. Unlike GWs induced by CDM isocurvature that are suppressed at high frequencies due to matter density being suppressed at early times, DR isocurvature induced GWs is proportional to the constant ratio between DR density and total radiation. Finally, we utilize two general parametrizations of the isocurvature power spectrum: a delta function and a broken power law, and derive novel constraints with recent NANOGrav data. Our results set stringent constraints on isocurvature around $10^{6}\\,\\textrm{Mpc}^{-1}$, which are complementary to cosmological observations at large scales.",
+      "categories": [
+        "astro-ph.CO",
+        "hep-ph"
+      ],
+      "published": "2025-12-09T07:00:12+00:00",
+      "updated": "2026-05-07T13:16:15+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.08301v2",
+      "html_url": "https://arxiv.org/html/2512.08301v2",
+      "entry_url": "http://arxiv.org/abs/2512.08301v2",
+      "relevance": {
+        "relevant": true,
+        "score": 8,
+        "reason": "This paper is directly relevant to the researcher's interest in stochastic gravitational-wave backgrounds and early-universe cosmology, studying isocurvature-induced GWs from CDM, baryons, neutrinos, and dark radiation with Pulsar Timing Array constraints.",
+        "pass_number": 1,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2601.08221v2",
+      "base_id": "2601.08221",
+      "title": "Energy and momentum dependence of the soft-axion interaction rate",
+      "authors": [
+        "Killian Bouzoud",
+        "Jacopo Ghiglieri",
+        "M. Laine",
+        "G. S. S. Sakoda"
+      ],
+      "abstract": "Axions coupled to thermal non-Abelian gauge fields may have cosmological significance. As the heat bath defines a frame, its influence depends separately on energy and momentum. A light-like momentum ($k \\approx ω$) is relevant for the axion contribution to the effective number of light neutrinos, $ΔN^{ }_\\mathrm{eff}$, whereas a vanishing momentum ($k=0$) plays a role for warm natural inflation or ultralight dark matter, and has been employed in lattice estimates (both classical and quantum-statistical) of the strong sphaleron rate. Focussing on soft energies ($α_\\mathrm{s}^{ }T \\ll ω\\ll πT$), we carry out an HTL computation to show how the domains $k=0$ and $k \\approx ω$ interpolate to each other. We then compare with lattice data at $k=0$, and connect our analysis to NLO computations at $k \\approx ω\\ge πT$. Assembling the current best input, we re-investigate light QCD axion decoupling dynamics at $T \\ge 200$ MeV, showing that efficient interactions in the ultrasoft domain increase $ΔN^{ }_\\mathrm{eff}$ from $\\sim 0.03$ to $\\sim 0.04$ at $f^{ }_a = 4\\times 10^8_{ }$ GeV.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-01-13T04:56:34+00:00",
+      "updated": "2026-05-07T06:14:26+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.08221v2",
+      "html_url": "https://arxiv.org/html/2601.08221v2",
+      "entry_url": "http://arxiv.org/abs/2601.08221v2",
+      "relevance": {
+        "relevant": true,
+        "score": 8,
+        "reason": "This paper directly addresses axion physics in cosmological environments and its contribution to ΔN_eff, which intersects the user's interests in both axion/dark matter physics and cosmological bounds from ΔN_eff, with thermal field theory computations relevant to their theoretical physics background.",
+        "pass_number": 1,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.05947v1",
+      "base_id": "2605.05947",
+      "title": "Kaon Portal to Freeze-in Dark Matter",
+      "authors": [
+        "Motoi Endo",
+        "Takumu Yamanaka"
+      ],
+      "abstract": "We investigate freeze-in production of light dark matter through the quark flavor-changing operator $(\\bar{s}γ_μd)(\\barχγ^μχ)$ in a low-reheating cosmology. For reheating temperatures below the QCD crossover, kaon decays and scatterings generate the dark matter abundance through $K\\toπχ\\barχ$ and $Kπ\\toχ\\barχ$. The same interaction induces the rare kaon decays $K^+\\toπ^+χ\\barχ$ and $K_L\\toπ^0χ\\barχ$. This links the freeze-in relic abundance to searches at NA62, KOTO, and KOTO II. We find that lower reheating temperatures require larger couplings to compensate for the Boltzmann-suppressed kaon abundance, making kaon-driven freeze-in dark matter testable at rare kaon decay experiments.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "hep-ex"
+      ],
+      "published": "2026-05-07T09:57:13+00:00",
+      "updated": "2026-05-07T09:57:13+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.05947v1",
+      "html_url": "https://arxiv.org/html/2605.05947v1",
+      "entry_url": "http://arxiv.org/abs/2605.05947v1",
+      "relevance": {
+        "relevant": true,
+        "score": 7,
+        "reason": "The paper connects low-reheating cosmology—a key interest of the user—to dark matter freeze-in production through kaon processes, touching on reheating dynamics, BBN constraints, and dark sector interactions, though it focuses more on hadronic/flavor physics than the user's primary emphases on gravitational waves, axions, or perturbative calculations.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.06775v1",
+      "base_id": "2605.06775",
+      "title": "SIRENA -- Sum-Integral REductioN Algorithm",
+      "authors": [
+        "Luis Gil",
+        "Javier López Miras",
+        "Adrián Moreno-Sánchez"
+      ],
+      "abstract": "We present SIRENA, a Python and C++ implementation of the Laporta algorithm for the automatic reduction of multi-loop sum-integrals via integration-by-parts identities. The method builds on established techniques for zero-temperature Feynman integrals and extends them to finite-temperature quantum field theory by consistently accounting for the Matsubara sum structure. We validate the framework by reproducing several known results from the literature up to 3-loop order, and we further provide, for the first time, reductions for selected 3-loop fermionic sum-integrals. In addition to the package, we derive an analytic factorization formula for arbitrary 2-loop fermionic sum-integrals, extending on a previous result for the bosonic case.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-05-07T18:00:02+00:00",
+      "updated": "2026-05-07T18:00:02+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.06775v1",
+      "html_url": "https://arxiv.org/html/2605.06775v1",
+      "entry_url": "http://arxiv.org/abs/2605.06775v1",
+      "relevance": {
+        "relevant": true,
+        "score": 7,
+        "reason": "This paper presents SIRENA, a computational tool for automated IBP reduction of multi-loop sum-integrals at finite temperature, which directly connects to the user's interests in computational tools for HEP, multi-loop perturbative calculations, and early-universe cosmology (where thermal field theory and dimensional reduction are essential for studying cosmological phase transitions and reheating dynamics).",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.05906v1",
+      "base_id": "2605.05906",
+      "title": "Axion-Like Particle Dark Matter Intensity Mapping: A New Probe via Cross-Correlation with Galaxy Surveys",
+      "authors": [
+        "Wen-Qing Guo"
+      ],
+      "abstract": "The particle nature of dark matter (DM) remains one of the most significant enigmas in modern cosmology. Axion-like particles (ALPs), as well-motivated candidates for cold dark matter, can undergo radiative decay into photon pairs, a process that is significantly enhanced in the presence of ambient radiation fields. In this work, we propose a novel probe of $μ{\\rm eV}$-scale ALP DM by cross-correlating radio intensity mapping (IM) with the large-scale galaxy distribution from the 2MASS Redshift Survey (2MRS) in the local universe ($z\\leq 0.1$). We develop a comprehensive theoretical framework that incorporates stimulated decay effects driven by both the Cosmic Microwave Background (CMB) and a bottom-up modeled extragalactic radio background (ERB). By forecasting the sensitivity of the Square Kilometre Array (SKA) Phase 2, we demonstrate that this cross-correlation technique provides a promising and complementary approach to searching for ALP DM signals. This study establishes a new proof-of-concept for utilizing next-generation radio telescopes to probe ALP dark matter on cosmic scales.",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.HE"
+      ],
+      "published": "2026-05-07T09:17:02+00:00",
+      "updated": "2026-05-07T09:17:02+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.05906v1",
+      "html_url": "https://arxiv.org/html/2605.05906v1",
+      "entry_url": "http://arxiv.org/abs/2605.05906v1",
+      "relevance": {
+        "relevant": true,
+        "score": 6,
+        "reason": "The paper proposes a novel axion detection strategy using radio intensity mapping cross-correlated with galaxy surveys, which falls within the researcher's interest in axion detection strategies, though it is primarily an observational cosmology/forecasting methodology paper rather than theoretical particle physics or JUNO-related phenomenology.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.06795v1",
+      "base_id": "2605.06795",
+      "title": "Plasma heating during the chiral plasma instability",
+      "authors": [
+        "Balin Armstrong",
+        "Andrew J. Long",
+        "Károly Seller",
+        "Günter Sigl"
+      ],
+      "abstract": "The presence of a chiral asymmetry in a relativistic plasma opens a tachyonic instability toward the growth of a helical magnetic field. We study the transfer of energy from the chiral asymmetry into the magnetic field during the development of this chiral plasma instability. We find that there is more energy stored in the initial chiral asymmetry than goes into growing magnetic field and that the excess energy is transferred to the thermal bath. Consequently, we find that the chiral plasma instability is accompanied by a heating of the plasma, and the temperature increase is parametrically $δT \\sim μ_5^2 / T$ if the ratio of chemical potential to temperature is small, i.e. $μ_5/T \\ll 1$. We briefly remark on possible observable implications for early universe cosmology.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "published": "2026-05-07T18:00:46+00:00",
+      "updated": "2026-05-07T18:00:46+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.06795v1",
+      "html_url": "https://arxiv.org/html/2605.06795v1",
+      "entry_url": "http://arxiv.org/abs/2605.06795v1",
+      "relevance": {
+        "relevant": true,
+        "score": 6,
+        "reason": "The paper studies energy transfer and plasma heating during the chiral plasma instability with explicit discussion of early-universe cosmology implications (magnetogenesis, primordial plasma dynamics), which connects to the researcher's interest in cosmic reheating dynamics and early-universe thermal history, though it focuses more on chiral MHD than the researcher's specific topics of inflaton decay or gravitational wave backgrounds.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.06787v1",
+      "base_id": "2605.06787",
+      "title": "The structure of multi-axion solutions to the strong CP problem",
+      "authors": [
+        "Mario Fernández Navarro",
+        "Marta F. Zamoro",
+        "Marko Pesut",
+        "Xavier Ponce Díaz"
+      ],
+      "abstract": "A broad experimental program is targeting the QCD axion band predicted by single-axion solutions to the strong CP problem. Multi-axion theories provide a well-motivated departure from this canonical picture, since additional states generically modify the mass-photon-coupling relation. We investigate the general structure of multi-axion solutions to the strong CP problem and study the different qualitative mass-coupling patterns that arise, including axions to the right of the QCD band, axions in the experimentally accessible region to its left, and scenarios in which the QCD axion band itself is displaced. This general treatment reveals a broad set of phenomenological possibilities that are not captured by more restrictive assumptions. In particular, we identify the structure of Peccei-Quinn symmetry breaking and the relative alignment between the QCD and electromagnetic anomalies as key ingredients determining the location of the axions in parameter space. Combining these ingredients, we derive a general sum rule for $N$-axion systems that incorporates both general PQ breaking and non-universal anomaly coefficients. We apply the framework to the two-axion system and to general multi-axion setups, identifying UV-complete theories in which the different phenomenological regimes arise naturally. Our results motivate an extended axion search program and have implications for our understanding of fundamental physics and the ultraviolet completion of the Standard Model.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "hep-ex",
+        "hep-th"
+      ],
+      "published": "2026-05-07T18:00:05+00:00",
+      "updated": "2026-05-07T18:00:05+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.06787v1",
+      "html_url": "https://arxiv.org/html/2605.06787v1",
+      "entry_url": "http://arxiv.org/abs/2605.06787v1",
+      "relevance": {
+        "relevant": true,
+        "score": 6,
+        "reason": "This theoretical paper on multi-axion systems and their modified mass-photon-coupling relations is relevant to the researcher's interest in axion detection strategies and axion physics, though it focuses on model-building phenomenology rather than the researcher's specific focus on Primakoff solar axion flux calculations or astrophysical axion production.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2604.27954v2",
+      "base_id": "2604.27954",
+      "title": "Axion dark matter from extended misalignment with a constant-$ω_φ$ pre-oscillatory phase and dark radiation",
+      "authors": [
+        "José María Pérez-Poyatos"
+      ],
+      "abstract": "In this work, we extend the standard pre-inflationary misalignment mechanism for axion-like particles (ALPs) by introducing a pre-oscillatory phase with constant equation of state $ω_φ\\in[-1,1]$, generated by a tracking potential. During the radiation-dominated era, the potential undergoes a rapid transition to the conventional cosine potential. The resulting change in the potential energy across the transition can drive the ALP into a kinetic misalignment phase ($ω_φ=1$) prior to the onset of oscillations. Motivated by persistent cosmological tensions, such as those in $H_0$ and $S_8$, we also investigate an ALP coupling to a dark radiation sector (DR), allowing for its decay. Using a Bayesian analysis, we constrain the ALP parameter space with current cosmological data. Our analysis shows that ALP-induced DR does not resolve the existing tensions. Instead, the data place robust constraints on the model, favoring negative values of $ω_φ$ and constraining the symmetry-breaking scale to $f_φ\\in[80,1.5\\times10^{10}]~\\mathrm{TeV}$, corresponding to ALP masses in the range $m_φ\\in[10^{-20},10^{-2}]~\\mathrm{eV}$.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2026-04-30T14:51:00+00:00",
+      "updated": "2026-05-07T15:11:55+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.27954v2",
+      "html_url": "https://arxiv.org/html/2604.27954v2",
+      "entry_url": "http://arxiv.org/abs/2604.27954v2",
+      "relevance": {
+        "relevant": true,
+        "score": 5,
+        "reason": "The paper deals with axion-like particle cosmology and dark matter through misalignment mechanisms, which connects to the user's interest in axion and dark matter physics, but it focuses on cosmological parameter constraints and dark radiation rather than the user's specific interests in solar axion flux, detection strategies, or early-universe gravitational waves.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2510.18953v2",
+      "base_id": "2510.18953",
+      "title": "The $B^+ \\to K^+ ν\\bar ν$ decay as a search for the QCD axion",
+      "authors": [
+        "Merna Abumusabh",
+        "Giulio Dujany",
+        "Diego Guadagnoli",
+        "Axel Iohner",
+        "Claudio Toni"
+      ],
+      "abstract": "We introduce a model-independent framework to reinterpret Belle II results using only public data, analytically reconstructing the mapping between true and reconstructed kinematic variables within the statistically dominant Inclusive Tagging Analysis. This enables rare-decay measurements to probe light invisible particles -- such as the QCD axion or axion-like particles, collectively denoted $a$ -- without relying on internal simulations. Applying the method to $B^+ \\! \\to \\! K^+ ν\\barν$ yields the strongest bound on the branching fraction for $B^+ \\! \\to \\! K^+ a$, improving existing limits by about a factor of nine and constraining the axion's fundamental flavour-changing coupling to $b$ and $s$ quarks. The approach establishes $B^+ \\! \\to \\! K^+ ν\\barν$ as a dual probe -- simultaneously testing short-distance new physics and light invisible states, the two probes working independently to an excellent approximation -- and provides a general strategy for model-independent reinterpretation of collider data.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2025-10-21T18:00:00+00:00",
+      "updated": "2026-05-07T14:51:48+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.18953v2",
+      "html_url": "https://arxiv.org/html/2510.18953v2",
+      "entry_url": "http://arxiv.org/abs/2510.18953v2",
+      "relevance": {
+        "relevant": true,
+        "score": 5,
+        "reason": "The paper directly addresses axion detection strategies and constrains QCD axion/ALP couplings, which falls within the researcher's 'axion and dark matter physics' interest, though the specific collider-based flavor-physics approach (B meson decays at Belle II) differs from the researcher's primary focus on Primakoff solar axion flux and astrophysical axion production.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.06362v1",
+      "base_id": "2605.06362",
+      "title": "Towards Precision Neutrino Fits in GUTs: Relevance of One-Loop Finite Corrections",
+      "authors": [
+        "Chee Sheng Fong",
+        "Shaikh Saad"
+      ],
+      "abstract": "In this work, we perform a dedicated analysis of fermion mass fits in the minimal $SO(10)$ grand unified theory (GUT), going beyond the tree-level approximation by incorporating one-loop finite corrections to the neutrino mass matrix. We show that parameter regions that successfully reproduce all fermion masses and mixings at tree level can lead to significant deviations in neutrino masses and leptonic mixing parameters once the radiative corrections are included. These results expose a limitation of conventional tree-level fitting procedures and highlight the sensitivity of neutrino observables to loop effects. Since in the minimal $SO(10)$ GUT the same set of Yukawa parameters simultaneously governs quark masses, charged lepton masses, and neutrino properties, these radiative corrections propagate across all fermion sectors, reshaping the viable parameter space in a highly non-trivial and correlated manner. We find that the largest corrections to the masses and mixing angles are of order $\\mathcal{O}(30\\%)$-$\\mathcal{O}(40\\%)$, therefore, cannot be neglected. In light of the current precision of neutrino oscillation measurements, and the expected improvements from ongoing and future experiments, we demonstrate that the inclusion of one-loop effects is essential for a consistent and reliable exploration of the parameter space, with important implications for the predictivity of $SO(10)$ GUTs.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-05-07T14:38:34+00:00",
+      "updated": "2026-05-07T14:38:34+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.06362v1",
+      "html_url": "https://arxiv.org/html/2605.06362v1",
+      "entry_url": "http://arxiv.org/abs/2605.06362v1",
+      "relevance": {
+        "relevant": true,
+        "score": 5,
+        "reason": "The paper touches on neutrino physics and one-loop radiative corrections, which marginally overlap with the user's interests in neutrino phenomenology and precision calculations, but the core focus on SO(10) GUT model fitting for fermion masses is quite distant from the user's primary work on JUNO phenomenology, early-universe cosmology, multi-loop QCD, and computational tools.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.06542v1",
+      "base_id": "2605.06542",
+      "title": "de Sitter Wavefunction from Quadrangular Polylogarithms: Chain Graphs",
+      "authors": [
+        "Livia Ferro",
+        "Tomasz Lukowski",
+        "Lecheng Ren",
+        "Marcus Spradlin",
+        "Anastasia Volovich",
+        "He-Chen Weng",
+        "Yao-Qi Zhang"
+      ],
+      "abstract": "We present an explicit formula for the $n$-site chain graph contribution to the cosmological wavefunction for conformally coupled $φ^3$ theory in de Sitter space. Our result relies on the recent finding that the symbol of this function satisfies total compatibility with respect to the $A_{2n-2}$ cluster algebra, and that Rudenko's quadrangular polylogarithms provide, by construction, a complete basis for such functions. We prove our formula by directly relating a recursive set of differential equations satisfied by these wavefunction coefficients to a recursive coproduct formula for quadrangular polylogarithms.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2026-05-07T16:38:23+00:00",
+      "updated": "2026-05-07T16:38:23+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.06542v1",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2605.06542v1",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "The paper's use of polylogarithms and differential equation methods shares methodological overlap with the researcher's multi-loop perturbative QCD work, but the specific application to cosmological wavefunctions in de Sitter space is peripheral to their core early-universe interests (reheating dynamics, gravitational waves, PBHs).",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2305.16991v5",
+      "base_id": "2305.16991",
+      "title": "Sensitivity prospects for lepton-trijet signals in the $ν$SMEFT at the LHeC",
+      "authors": [
+        "Gabriel Zapata",
+        "Tomás Urruzola",
+        "Oscar A. Sampayo",
+        "Lucía Duarte"
+      ],
+      "abstract": "The observation of neutrino oscillations and masses motivates the extension of the standard model with right handed neutrinos, leading to heavy neutrino states possibly in the electroweak scale, which could be impacted by new high-scale weakly coupled physics. A systematic tool for studying these interactions is the neutrino-extended standard model effective field theory $ν$SMEFT. In this work we study the prospects of the future LHeC electron-proton collider to discover or constrain the $ν$SMEFT interactions, performing the first dedicated and realistic analysis of the well known lepton-trijet signals, both for the lepton flavor violating $p ~ e^{-} \\rightarrow μ^{-} + 3 \\mathrm{j}$ (LFV) and the lepton number violating $p ~ e^{-} \\rightarrow μ^{+} + 3 \\mathrm{j}$ (LNV) channels, for HNLs masses in the electroweak scale range: $100 ~\\rm GeV \\leq m_N \\leq 500 ~\\rm GeV$. The obtained sensitivity prospects show that the LHeC with $100 ~\\rm fb^{-1}$ luminosity could be able to probe the scenario of a heavy $N$ and constrain the effective couplings to a region of the parameter space as tight as the bounds that are currently considered for the $\\mathcal{O}(10)$GeV scale masses, with effective couplings of $\\mathcal{O}(10^{-1})$ for NP scale $Λ=1 \\rm TeV$.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2023-05-26T14:46:29+00:00",
+      "updated": "2026-05-07T15:21:20+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2305.16991v5",
+      "html_url": "https://arxiv.org/html/2305.16991v5",
+      "entry_url": "http://arxiv.org/abs/2305.16991v5",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "The paper studies HNL phenomenology within the νSMEFT framework at the LHeC collider, which tangentially relates to the researcher's interest in heavy neutral leptons, but focuses on collider sensitivity projections rather than the cosmological bounds (BBN, ΔN_eff), dark decays, or JUNO phenomenology that are central to their neutrino physics interests.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.05916v1",
+      "base_id": "2605.05916",
+      "title": "Squeezed Gravitons and One-Loop Self-Energy under Light-Cone Smearing",
+      "authors": [
+        "Hiroki Matsui"
+      ],
+      "abstract": "We investigate light-cone smearing induced by quantum fluctuations of gravitons and its implications for the ultraviolet structure of quantum field theory. By treating the first-order correction to Synge's world function as an operator, we show that the retarded Green's function is smeared by the variance of graviton fluctuations. The smearing width depends on the quantum state of gravitons: vacuum fluctuations generate a Gaussian smearing of the light cone, coherent states shift the light-cone position, and squeezed states modify the smearing width itself. We then apply the smeared Feynman propagator to one-loop self-energies in interacting scalar field theories. In both the $φ^3$ bubble diagram and the $φ^4$ tadpole diagram, the short-distance singularities responsible for the usual ultraviolet divergences are regularized by a nonzero smearing width. We also estimate the contribution from primordial gravitons generated during inflation and show that it induces a finite correction of order $10^{-10}$ to the one-loop self-energy. Our results suggest that the quantum state of gravitons can leave a finite imprint on the causal and short-distance structure of quantum field theory.",
+      "categories": [
+        "hep-th",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "published": "2026-05-07T09:28:05+00:00",
+      "updated": "2026-05-07T09:28:05+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.05916v1",
+      "html_url": "https://arxiv.org/html/2605.05916v1",
+      "entry_url": "http://arxiv.org/abs/2605.05916v1",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "The paper touches on primordial gravitons from inflation and squeezed states relevant to early-universe cosmology, but its primary focus on quantum gravity effects on QFT causal structure and UV regularization is quite distant from the researcher's core interests in neutrino physics, PBHs, multi-loop QCD, and observational cosmology phenomenology.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2512.24403v2",
+      "base_id": "2512.24403",
+      "title": "CoLoRFulNNLO for hadron collisions: integrating the iterated single unresolved subtraction terms",
+      "authors": [
+        "L. Fekésházy",
+        "G. Somogyi",
+        "S. Van Thurenhout"
+      ],
+      "abstract": "We present the analytic integration of the iterated single-unresolved subtraction terms in the extension of the CoLoRFulNNLO subtraction scheme to color-singlet production in hadron collisions. We exploit the fact that, in this scheme, subtraction terms are defined through momentum mappings which lead to exact phase space convolutions for real emissions. This allows us to write the integrated subtraction terms as parametric integrals, which can be evaluated using standard tools. Finally, we show that the integrated iterated single-unresolved approximate cross section can be written as a convolution of the Born cross section with an appropriately defined insertion operator.",
+      "categories": [
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2025-12-30T18:36:34+00:00",
+      "updated": "2026-05-07T07:30:06+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.24403v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2512.24403v2",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "The paper deals with NNLO QCD subtraction schemes for hadron collisions, which is tangentially related to the user's interest in multi-loop perturbative QCD calculations and computational tools, but the specific methodology (CoLoRFulNNLO subtraction for color-singlet hadron-collider production) is at a lower perturbative order (NNLO vs N³LO) and addresses different processes than the user's core focus areas.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.06996v1",
+      "base_id": "2605.06996",
+      "title": "Renormalon-based resummation for B(D) Mesons",
+      "authors": [
+        "Cesar Ayala",
+        "Gorazd Cvetic"
+      ],
+      "abstract": "We apply a previously developed method of renormalon-based resummation of spacelike and timelike QCD observables, to evaluate of the values of the pole masses $m_q$ of $q=b$ and $c$ quarks, using as input the knowledge of the values of the corresponding ${\\overline{\\rm MS}}$ masses ${\\overline m}_q \\equiv {\\overline m}_q({\\overline m}_q^2)$. The evaluation also uses the knowledge of the first few coefficients of the perturbation expansion of $m_q$ (i.e., of $m_q/{\\overline m}_q$), as well as the known renormalon structure of that expansion. In the evaluation, we use the timelike QCD running coupling based on a specific holomorphic spacelike QCD coupling, in order to avoid additional ambiguities due to the Landau poles of the usual perturbative coupling. The principal IR regulator parameter of the coupling is varied in an expected range. We also reevaluate the chromomagnetic Wilson coefficient of heavy quark ${\\hat C}(m_q^2)$, and extract values of several corresponding hadronic parameters.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-05-07T22:20:13+00:00",
+      "updated": "2026-05-07T22:20:13+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.06996v1",
+      "html_url": "https://arxiv.org/html/2605.06996v1",
+      "entry_url": "http://arxiv.org/abs/2605.06996v1",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "The paper deals with perturbative QCD renormalon resummation and heavy quark pole masses, which is tangentially related to the researcher's multi-loop QCD work on semileptonic b→u decays and top-quark processes, but the specific methodology (holomorphic AQCD couplings, renormalon-based resummation) and application (HQET parameters for B/D meson spectroscopy) fall outside the researcher's core interests in N³LO calculations with harmonic polylogarithms and differential equation methods.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.06796v1",
+      "base_id": "2605.06796",
+      "title": "Decaying spin-3/2 dark matter from baryon number violation",
+      "authors": [
+        "Francesco Costa",
+        "Gabriel M. Salla"
+      ],
+      "abstract": "We explore an uncharted corner of dark matter phenomenology: non-supersymmetric spin-$3/2$ dark matter with baryon number violating interactions. In an effective field theory description, we identify the leading baryonic portal between the spin-$3/2$ state and Standard Model quarks and show that it can account for the observed dark matter abundance through UV freeze-in and Boltzmann-suppressed freeze-in, while the freeze-out region is completely excluded. The resulting phenomenology is distinctive, with relic production controlled by the competition between baryon-violating single-particle processes and baryon-conserving pair production. We map the viable parameter space against indirect detection, direct detection, and LHC monojet bounds, finding strong complementarity between these probes and especially stringent limits when production and decay are tied to the same operator. We also present a dark QCD-like ultraviolet completion in which the spin-$3/2$ particle arises as a composite baryon, naturally generating the effective interactions and mitigating the main theoretical obstacles of elementary higher-spin states. This framework opens a novel and testable connection between baryonic portals, confining dark sectors, and higher-spin dark matter.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "published": "2026-05-07T18:00:49+00:00",
+      "updated": "2026-05-07T18:00:49+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.06796v1",
+      "html_url": "https://arxiv.org/html/2605.06796v1",
+      "entry_url": "http://arxiv.org/abs/2605.06796v1",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "The paper overlaps with the researcher's interests in dark matter physics and early-universe cosmology (freeze-in/freeze-out production, reheating temperature dependence, dark sector UV completions), but the specific focus on spin-3/2 dark matter with baryon number violation is distinct from the researcher's core interests in axion physics, neutrino phenomenology, PBHs, and multi-loop QCD calculations.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.05880v1",
+      "base_id": "2605.05880",
+      "title": "Top-associated Higgs-boson production using perturbative fragmentation functions at next-to-leading-order",
+      "authors": [
+        "Colomba Brancaccio",
+        "Michal Czakon",
+        "Terry Generet",
+        "Benedikt Gurdon"
+      ],
+      "abstract": "Under certain conditions, the production of a Higgs boson in association with a top-anti-top pair at hadron colliders can be described via a factorisation theorem using perturbative fragmentation functions. The latter describe the nearly collinear emission of a Higgs boson from a top-quark and reproduce the leading mass dependence of the exact next-to-leading-order (NLO) calculation. Although the NLO fragmentation functions have been calculated a few years ago, it has not been possible up to now to demonstrate the applicability of the approximation in a realistic setup. At NLO, we analyse two different ways of treating the top-quark mass, called the zero-mass-top-quark (ZMTQ) and the hybrid prescription. We show that the method yields reliable results at LHC center-of-mass (cms) energies in the hybrid prescription. In the ZMTQ prescription, the results at LHC cms energies are only reliable in the quark-anti-quark channel, but become viable for the full $pp \\rightarrow t\\bar{t}H$ process at a 100 TeV hadron collider. In addition, we discuss some subtleties and complications arising when extending the formalism to next-to-next-to-leading-order (NNLO) and beyond.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-05-07T08:47:26+00:00",
+      "updated": "2026-05-07T08:47:26+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.05880v1",
+      "html_url": "https://arxiv.org/html/2605.05880v1",
+      "entry_url": "http://arxiv.org/abs/2605.05880v1",
+      "relevance": {
+        "relevant": true,
+        "score": 3,
+        "reason": "While this paper involves higher-order QCD perturbative calculations and Higgs physics which overlap with the researcher's interest in multi-loop QCD and electroweak precision calculations, it focuses on NLO fragmentation-function techniques for tt̄H at hadron colliders rather than the researcher's core topics of N³LO calculations, semileptonic decays, or future Higgs factory phenomenology.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    }
+  ]
+}

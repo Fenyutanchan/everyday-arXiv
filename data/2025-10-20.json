@@ -1,0 +1,190 @@
+{
+  "date": "2025-10-20",
+  "papers": [
+    {
+      "arxiv_id": "2510.17597v4",
+      "base_id": "2510.17597",
+      "title": "Photon radiation induced by rescattering in strong-interacting medium with a magnetic field",
+      "authors": [
+        "Yue Zhang",
+        "Han-Zhong Zhang"
+      ],
+      "abstract": "The photon radiation induced by rescattering in a magnetized medium is investigated in relativistic heavy-ion collisions. Within the high-energy limit, the photon emission rate and the associated electromagnetic energy loss are derived using the Gyulassy-Levai-Vitev formalism at first order in opacity, for a quark jet propagating a quark-gluon plasma under a background magnetic field. Quantitative analysis shows a slight suppression of the overall photon radiation over a broad range of jet energies in this process. This reduction in photon yield consequently leads to a moderate decrease in the electromagnetic energy loss of the jet. Our results contribute to a better understanding of the electromagnetic properties of strongly interacting matter in high-energy nucleus-nucleus collisions and motivate experimental comparison of photon yields from quark-gluon plasma with similar properties but distinct magnetic field strengths.",
+      "categories": [
+        "nucl-th",
+        "hep-th"
+      ],
+      "published": "2025-10-20T14:47:42+00:00",
+      "updated": "2026-04-20T06:21:24+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.17597v4",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2510.17597v4"
+    },
+    {
+      "arxiv_id": "2510.17387v3",
+      "base_id": "2510.17387",
+      "title": "One-loop QED and Weak Corrections to $γγ\\to H^\\pm H^\\mp$ in the Inert Doublet Model",
+      "authors": [
+        "Hamza Abouabid",
+        "Abdesslam Arhrib",
+        "Jaouad El Falaki",
+        "Bin Gong",
+        "Qi-Shu Yan"
+      ],
+      "abstract": "We present a complete one-loop analysis of charged scalar boson pair production in photon-photon collisions, $γγ\\to H^\\pm H^\\mp$, within the framework of the Inert Doublet Model (IDM). The calculation is carried out in the on-shell renormalization scheme and incorporates both weak corrections and QED effects, including soft and hard photon radiation. Virtual loop contributions and real emission processes are computed using the Feynman diagrammatic method, ensuring the cancellation of ultraviolet and infrared divergences. To properly account for the Coulomb singularity that arises in the QED sector near threshold, we introduce the resummed cross section based on the Sommerfeld factor. The IDM parameter space is explored under theoretical consistency conditions, collider limits, and dark matter constraints, and three representative scenarios are studied in detail. We find that the magnitude of the quantum corrections is strongly controlled by the absolute value of the trilinear scalar coupling $λ_{h^0 H^+ H^-}$, which correlates with the charged scalar mass. When all constraints are applied, the weak corrections are typically in the range of $-12\\%$ to $-7\\%$ at $\\sqrt{s}=250$~GeV, and between $-15\\%$ and $6\\%$ at $\\sqrt{s}=500$~GeV. At higher energies, such as $\\sqrt{s}=1$~TeV, the corrections can become very large, ranging from about $-20\\%$ up to $+60\\%$. Our findings highlight the significant role of higher-order effects in photon-photon collisions and establish $γγ\\to H^\\pm H^\\mp$ as a promising process to investigate the charged scalar sector of the IDM at future high-energy photon colliders. Several benchmark points are proposed to facilitate future experimental searches.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-10-20T10:25:39+00:00",
+      "updated": "2026-04-16T12:44:10+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.17387v3",
+      "html_url": "https://arxiv.org/html/2510.17387v3",
+      "entry_url": "http://arxiv.org/abs/2510.17387v3"
+    },
+    {
+      "arxiv_id": "2510.17730v2",
+      "base_id": "2510.17730",
+      "title": "Automated computation of spin-density matrices and quantum observables for collider physics",
+      "authors": [
+        "Valentin Durupt",
+        "Fabio Maltoni",
+        "Olivier Mattelaer"
+      ],
+      "abstract": "We present a fully automated framework to compute production spin-density matrices for generic collider processes at tree level within \\textsc{MadGraph5\\_aMC@NLO}. The method assembles helicity amplitudes into event-by-event production matrices. These are written to the LHE file in a compact form, together with run metadata, enabling direct post-processing of quantum observables. The implementation supports bi- and multipartite qubit and qutrit final states, configurable reference frames, and both polarised and unpolarised initial states. A companion, easy-to-extend library provides analysis routines to determine key quantum-information measures and witnesses. These include purity, concurrence, and entanglement of formation for qubits; Peres--Horodecki tests and negativity; spin-polarisation vectors and correlation matrices; $D$-coefficients; and stabiliser-based ``magic'' measures. As a result, multi-particle quantum correlations can be quantified systematically. We validate the implementation against known results for $t\\bar t$ and $VV$ ($V=W^\\pm,Z$) production in $pp$ and $e^+e^-$ collisions and in heavy-resonance decays. We then consider new applications and study quantum correlations in several LHC final states: $t\\bar t W^\\pm$, $tW^-$ vs.\\ $t(\\bar t\\to W^- \\bar b)$, and $t\\bar t t$ vs. $t\\bar t t\\bar t$.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-10-20T16:44:34+00:00",
+      "updated": "2026-04-25T13:32:03+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.17730v2",
+      "html_url": "https://arxiv.org/html/2510.17730v2",
+      "entry_url": "http://arxiv.org/abs/2510.17730v2"
+    },
+    {
+      "arxiv_id": "2510.17549v4",
+      "base_id": "2510.17549",
+      "title": "Electromagnetic form factors and structure of the $T_{bb}$ tetraquark from lattice QCD",
+      "authors": [
+        "Ivan Vujmilovic",
+        "Sara Collins",
+        "Luka Leskovec",
+        "Sasa Prelovsek"
+      ],
+      "abstract": "We present the first lattice QCD determination of the electromagnetic form factors of the exotic tetraquark $T_{bb} \\ (bb \\bar u \\bar d)$ with quantum numbers $I( J^P ) = 0( 1^+ )$. The extracted form factors encode information about its internal structure, including the charge distribution and the magnetic dipole moments, determined separately for the light and heavy quarks. Our results provide evidence in favor of it being a bound state consisting of a compact heavy diquark $[bb]$ in a color-antitriplet with spin one, and a light antidiquark $[\\bar u \\bar d]$ in a color-triplet with spin zero. The charge radius of $T_{bb}$ is found to be significantly smaller than the combined charge radii of $B$ and $B^*$ mesons. These two comprise the lowest-lying threshold $BB^*$ in the channel we are considering, and their electric charge form factors are also determined. The computations were performed on a single CLS ensemble with $N_f = 2+1$ dynamical quarks and a lattice spacing of approximately $a \\approx0.064 \\ \\mathrm{fm}$ at the pion mass $m_π\\approx 290 \\ \\mathrm{MeV}$.",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "published": "2025-10-20T13:58:04+00:00",
+      "updated": "2026-04-29T14:32:34+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.17549v4",
+      "html_url": "https://arxiv.org/html/2510.17549v4",
+      "entry_url": "http://arxiv.org/abs/2510.17549v4"
+    },
+    {
+      "arxiv_id": "2510.17243v2",
+      "base_id": "2510.17243",
+      "title": "Deep Neural Network extraction of Unpolarized Transverse Momentum Distributions",
+      "authors": [
+        "I. P. Fernando",
+        "D. Keller"
+      ],
+      "abstract": "Building on the first-ever application of neural networks in TMD phenomenology: \"Extraction of the Sivers function with deep neural networks\", we now present a momentum space, physics-informed deep learning framework for the direct extraction of unpolarized transverse momentum dependent parton distributions (TMDs) from fixed target Drell-Yan data (E288, E605). Rather than transforming to impact-parameter space, we remain in k and embed a normalized integrand s(x, k; Q) whose auto-convolution produces the observed qT spectra. The extraction proceeds in two steps. Stage I learns the structure kernel S(qT , x1, x2; QM ) by regressing the cross-section with known kinematic prefactors and charge-weighted PDF combinations factored out; experimental and PDF uncertainties are propagated with Monte Carlo replicas. Stage II reconstructs s(x, k; Q) with an end-to-end differentiable k quadrature layer. Applied to Fermilab cross-section data from experiments E288 and E605, the method reproduces the measured qT spectra across Q and yields x and Q dependent TMDs that broaden with Q, with uncertainty bands that consistently propagate experimental, PDF, algorithmic and methodological components. The approach is minimally biased (no factorized Ansatze and no bT transform) and provides a transferable template for polarized TMDs and related QCD inverse problems.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-10-20T07:31:01+00:00",
+      "updated": "2026-05-02T19:56:29+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.17243v2",
+      "html_url": "https://arxiv.org/html/2510.17243v2",
+      "entry_url": "http://arxiv.org/abs/2510.17243v2"
+    },
+    {
+      "arxiv_id": "2510.17954v2",
+      "base_id": "2510.17954",
+      "title": "Green function of the Pöschl-Teller potential",
+      "authors": [
+        "Adrien Kuntz"
+      ],
+      "abstract": "We use an approximation of the Regge-Wheeler-Zerilli potential, known as Pöschl-Teller, to exactly compute the time-domain Green function of black hole perturbations in this simplified model, taking into account all causality conditions. We find the existence of an additional early times piece in the Green function, contributing to new exponentially growing modes just before the signal interacts with the maximum of the potential. The waveform itself is decomposed as an instantaneous piece traveling exactly on the light-cones of the Green function and a historical piece depending on the past trajectory of the system inside the light-cone. We also study redshift modes and show that the Regge-Wheeler-Zerilli Green function is regular at their frequency, with no zero nor pole.",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2025-10-20T18:00:00+00:00",
+      "updated": "2026-05-05T18:22:42+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.17954v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2510.17954v2"
+    },
+    {
+      "arxiv_id": "2510.17066v2",
+      "base_id": "2510.17066",
+      "title": "Compact Stars in Symmetric Teleparallel Scalar-Tensor Gravity",
+      "authors": [
+        "Grigorios Panotopoulos",
+        "Andrés Lueiza-Colipí",
+        "Nikolaos Dimakis",
+        "Andronikos Paliathanasis"
+      ],
+      "abstract": "We investigate the existence of static, spherically symmetric compact objects within the framework of symmetric teleparallel scalar-tensor gravity. This theory extends the Brans-Dicke and scalar-tensor models within the symmetric teleparallel formalism. We consider a nontrivial connection that allows for genuinely nontrivial solutions in the limit of General Relativity. The field equations admit a minisuperspace description and by applying the method of variational symmetries we construct the corresponding conservation laws in vacuum. The application of these conservation laws enables the reconstruction of analytic black-hole solutions. Finally, we study the interior structure of compact objects matched to an extremal Reissner-Nordström exterior and show that the symmetric teleparallel scalar-tensor theory supports the existence of viable astrophysical objects.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-10-20T00:45:01+00:00",
+      "updated": "2026-05-09T13:48:50+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.17066v2",
+      "html_url": "https://arxiv.org/html/2510.17066v2",
+      "entry_url": "http://arxiv.org/abs/2510.17066v2"
+    },
+    {
+      "arxiv_id": "2510.17967v2",
+      "base_id": "2510.17967",
+      "title": "Scalar fields around black hole binaries in LIGO-Virgo-KAGRA",
+      "authors": [
+        "Soumen Roy",
+        "Rodrigo Vicente",
+        "Josu C. Aurrekoetxea",
+        "Katy Clough",
+        "Pedro G. Ferreira"
+      ],
+      "abstract": "Light scalar particles arise naturally in many extensions of the Standard Model and are compelling dark-matter candidates. Gravitational interactions near black holes can trigger the growth of dense scalar configurations that, if sustained during inspiral, alter binary dynamics and imprint signatures on gravitational-wave signals. Detecting such effects would provide a novel probe of fundamental physics and dark matter. Here we develop a semi-analytic waveform model for binaries in scalar environments, validate it against numerical relativity simulations, and apply it in a Bayesian analysis of the LIGO-Virgo-KAGRA catalog. We obtain physically meaningful upper limits on scalar densities around most compact binaries. For GW190728 and GW190814, vacuum lies outside the $95\\%$ credible region. When including superradiance priors, GW190728 shows tentative evidence for a scalar environment with a Bayes factor of $\\ln \\mathrm{B}^{\\rm env}_{\\rm vac} \\approx 3.5$, consistent with a light scalar of mass $\\sim10^{-12}\\,\\mathrm{eV}$.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "astro-ph.HE",
+        "hep-ph"
+      ],
+      "published": "2025-10-20T18:00:02+00:00",
+      "updated": "2026-05-13T17:25:00+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.17967v2",
+      "html_url": "https://arxiv.org/html/2510.17967v2",
+      "entry_url": "http://arxiv.org/abs/2510.17967v2"
+    },
+    {
+      "arxiv_id": "2510.17980v2",
+      "base_id": "2510.17980",
+      "title": "FLAMINGO: Tracing the co-evolution of hot gas and black holes in galaxy groups and clusters",
+      "authors": [
+        "Emily E. Costello",
+        "Ian G. McCarthy",
+        "Jaime Salcido",
+        "John C. Helly",
+        "Robert J. McGibbon",
+        "Matthieu Schaller",
+        "Joop Schaye"
+      ],
+      "abstract": "The gas mass fraction of galaxy groups and clusters is a key physical quantity for constraining the impact of feedback processes on large-scale structure. While several modern cosmological simulations use the gas fraction-halo mass relation to calibrate their feedback implementations, we note that this relation exhibits substantial intrinsic scatter whose origin has not been fully elucidated. Using the large-volume FLAMINGO hydrodynamical simulations, we examine the role of both central and satellite supermassive black holes (BHs) in shaping this scatter, probing higher halo masses than previously possible. For haloes with M500 < 10^13 Msun, we find that central BH mass correlates strongly and negatively with gas fraction, such that higher BH masses give rise to lower gas fractions at fixed halo mass, consistent with previous studies. Interestingly, however, for 10^13 Msun < M500 < 10^14.5 Msun the correlation reverses and becomes positive, with overmassive BHs residing in haloes with above-average gas fractions. By tracing progenitor BHs and haloes through cosmic time, we show that this behaviour is driven by the expulsion and subsequent re-accretion of halo gas, regulated by the timing of BH growth and feedback. Specifically, haloes that collapse earlier form BHs earlier, leading to earlier gas expulsion and re-accretion and a high gas fraction compared to haloes of the same present-day mass that formed later. Our results demonstrate that present-day scatter in the gas fraction-halo mass relation is strongly shaped by the early growth history of BHs and their haloes, a prediction that can be tested with future observational measurements.",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.GA"
+      ],
+      "published": "2025-10-20T18:01:12+00:00",
+      "updated": "2026-05-18T15:35:11+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.17980v2",
+      "html_url": "https://arxiv.org/html/2510.17980v2",
+      "entry_url": "http://arxiv.org/abs/2510.17980v2"
+    }
+  ],
+  "total": 9
+}

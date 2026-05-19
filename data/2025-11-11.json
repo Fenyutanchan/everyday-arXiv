@@ -1,0 +1,113 @@
+{
+  "date": "2025-11-11",
+  "papers": [
+    {
+      "arxiv_id": "2511.08685v4",
+      "base_id": "2511.08685",
+      "title": "Kinematic scaling relations of disc galaxies from ionised gas at $z\\sim1$ and their connection with dark matter haloes",
+      "authors": [
+        "Pavel E. Mancera Piña",
+        "Enrico M. Di Teodoro",
+        "S. Michael Fall",
+        "Antonino Marasco",
+        "Mariska Kriek",
+        "Marco Martorano"
+      ],
+      "abstract": "We derive the Tully-Fisher (TFR, $M_\\ast-V_{\\rm circ,f}$) and Fall (FR, $j_\\ast-M_\\ast$) relations at redshift $z = 0.9$ using a sample of 43 main-sequence disc galaxies with H$α$ IFU data and JWST/HST imaging. The strength of our analysis lies in the use of state-of-the-art 3D kinematic models to infer galaxy rotation curves, the inclusion and morphological modelling of NIR bands, and the use of SED modelling applied to our photometry measurements to estimate stellar masses. After correcting the inferred H$α$ velocities for asymmetric drift, we find a TFR of the form $\\log(M_\\ast / M_\\odot) = a \\log(V_{\\rm circ,f} / 150~\\mathrm{km\\,s^{-1}}) + b$, with $a=3.82^{+0.55}_{-0.40}$ and $b=10.27^{+0.06}_{-0.07}$, as well as a FR of the form $\\log(j_\\ast / \\mathrm{kpc\\,km\\,s^{-1}}) = a \\log(M_\\ast / 10^{10.5} M_\\odot) + b$, with $a=0.44^{+0.06}_{-0.06}$ and $b=2.86^{+0.02}_{-0.02}$. Compared with their $z=0$ counterparts, we find moderate evolution in the TFR and strong evolution in the FR over the past 8 Gyr. We interpret our findings in the context of the galaxy-to-halo scaling parameters $f_{\\rm M}=M_\\ast/M_{\\rm vir}$ and $f_{\\rm j}=j_\\ast/j_{\\rm vir}$. We infer that $f_{\\rm j}$ shows little redshift evolution and depends very weakly on $M_\\ast$, with typical values around $f_{\\rm j}\\sim0.8$. As for $f_{\\rm M}$, we find it to be higher and less dependent on $M_\\ast$ at $z=0.9$ than at $z=0$. Interpreting our observed $f_{\\rm M}-M_\\ast$ relations within the Cold Dark Matter framework implies necessarily that the galaxy populations at $z=0.9$ and $z=0$ are not the progenitor/descendant of one another. The alternative scenario is that the $z=0.9$ relations are incorrect due to strong selection effects, unidentified systematics, or the possibility that H$α$ kinematics may not be a reliable dynamical tracer. Such problems would also affect previous studies on the same subject.",
+      "categories": [
+        "astro-ph.GA",
+        "astro-ph.CO"
+      ],
+      "published": "2025-11-11T19:00:04+00:00",
+      "updated": "2026-04-17T14:05:29+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.08685v4",
+      "html_url": "https://arxiv.org/html/2511.08685v4",
+      "entry_url": "http://arxiv.org/abs/2511.08685v4"
+    },
+    {
+      "arxiv_id": "2511.08777v2",
+      "base_id": "2511.08777",
+      "title": "Infrared Universality: The $r^{-3}$ Spectral Threshold for Coupled Gravitational and Electromagnetic Fields",
+      "authors": [
+        "Michael Wilson"
+      ],
+      "abstract": "We identify the $r^{-3}$ curvature-decay rate as a universal geometric threshold separating compact from non-compact perturbations of Laplace-type operators on asymptotically flat manifolds. For the coupled Einstein--Maxwell system, we prove that the linearized operator $\\mathcal{L}$ is essentially self-adjoint and that curvature and field strengths decaying faster than $r^{-3}$ act as relatively compact perturbations, while decay exactly at $r^{-3}$ places $0\\inσ_{\\mathrm{ess}}(\\mathcal{L})$ through delocalized zero modes. This threshold mechanism unifies the infrared behavior of spin-1, spin-2, and mixed spin-$(1\\oplus2)$ fields, linking the onset of spectral delocalization with the appearance of gravitational and electromagnetic memory. Finite-difference simulations corroborate the analytic scaling and reproduce the characteristic quadrupolar and dipolar sky maps predicted for the coupled memory fields. These results demonstrate that curvature decay at $r^{-3}$ constitutes a fundamental geometric boundary underlying infrared universality in gauge and gravitational theories, providing a spectral counterpart to the asymptotic-symmetry and soft-theorem formulations of memory.",
+      "categories": [
+        "gr-qc",
+        "math-ph"
+      ],
+      "published": "2025-11-11T20:57:18+00:00",
+      "updated": "2026-04-29T15:47:13+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.08777v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2511.08777v2"
+    },
+    {
+      "arxiv_id": "2511.08692v2",
+      "base_id": "2511.08692",
+      "title": "Excitation factors for horizonless compact objects: long-lived modes, echoes, and greybody factors",
+      "authors": [
+        "Romeo Felice Rosato",
+        "Shauvik Biswas",
+        "Sumanta Chakraborty",
+        "Paolo Pani"
+      ],
+      "abstract": "We present an analytical and numerical investigation of the quasinormal excitation factors of ultracompact horizonless objects. These systems possess long lived quasinormal modes with extremely small imaginary parts, originating from the effective cavity between the photon sphere and the object's interior. We show that the excitation of such modes is strongly suppressed, scaling with the imaginary part of their frequency, and therefore they contribute to the waveform only at very late times. This hierarchy naturally explains the structure of echo signals: the prompt ringdown is dominated by standard light ring modes, the early echoes arise from moderately damped cavity modes, and only the latest echoes are governed by long lived modes. Based on this, we propose a practical ringdown waveform model based on a superposition of ordinary black hole quasinormal modes and cavity modes, which captures the complexity of the ringdown of horizonless ultracompact objects. We further demonstrate that the combination of small excitation factors and weak damping enhances the robustness of long lived modes against localized perturbations, in contrast to the spectral instabilities affecting standard black hole quasinormal modes. Finally, we extend the analysis of greybody factors to exotic compact objects and wormholes, showing that they remain stable under small deformations of the effective potential and thus represent robust observables. Our results provide a unified framework for understanding excitation, stability, and echoes in ultracompact horizonless objects, with direct implications for their spectral properties and gravitational wave signatures.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE",
+        "hep-ph"
+      ],
+      "published": "2025-11-11T19:00:08+00:00",
+      "updated": "2026-05-13T14:11:56+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.08692v2",
+      "html_url": "https://arxiv.org/html/2511.08692v2",
+      "entry_url": "http://arxiv.org/abs/2511.08692v2"
+    },
+    {
+      "arxiv_id": "2511.07905v2",
+      "base_id": "2511.07905",
+      "title": "Parametrisation and dictionary for CP violating Higgs boson interactions",
+      "authors": [
+        "Daniele Barducci",
+        "Matthew Forslund",
+        "Marta Fuentes Zamoro",
+        "Pier Paolo Giardino",
+        "Andrei V. Gritsan",
+        "Giacomo Ortona"
+      ],
+      "abstract": "Searches for charge-parity (CP) violating interactions of the Standard Model (SM) Higgs boson are a key priority of the LHC physics program. Experimental results from ATLAS and CMS are often reinterpreted within a variety of theoretical parametrisations, the most commonly used being the Higgs basis, $κ$'s and angles, CP fractions and effective field theories (EFT) such as the SMEFT and the Higgs EFT. However, differing conventions and assumptions across the literature make the translation between these parametrisations nontrivial and prone to inconsistencies. In this paper, we provide a unified framework and construct explicit dictionaries connecting these different approaches. This facilitates a transparent comparison between theoretical studies and experimental analyses, enabling more robust interpretations of CP violating effects in Higgs boson interactions.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2025-11-11T07:01:52+00:00",
+      "updated": "2026-05-13T07:23:28+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.07905v2",
+      "html_url": "https://arxiv.org/html/2511.07905v2",
+      "entry_url": "http://arxiv.org/abs/2511.07905v2"
+    },
+    {
+      "arxiv_id": "2511.08154v2",
+      "base_id": "2511.08154",
+      "title": "Good flavor search in SU(5): a machine learning approach",
+      "authors": [
+        "Fayez Abu-Ajamieh",
+        "Shinsuke Kawai",
+        "Nobuchika Okada"
+      ],
+      "abstract": "We revisit the fermion mass problem of the $SU(5)$ grand unified theory using machine learning techniques. The original $SU(5)$ model proposed by Georgi and Glashow is incompatible with the observed fermion mass spectrum. Two remedies are known to resolve this discrepancy, one is through introducing a new interaction via a 45-dimensional field, and the other via a 24-dimensional field. We investigate which modification is more beautiful, defining the beauty as proximity to the original Georgi-Glashow $SU(5)$ model. Our analysis shows that, in both supersymmetric and non-supersymmetric scenarios, the model incorporating the interaction with the 24-dimensional field is more beautiful under this criterion. We then generalise these models by introducing a continuous parameter $y$, which takes the value 3 for the 45-dimensional field and 1.5 for the 24-dimensional field. Numerical optimisation reveals that $y \\approx 0.8$ yields the closest match to the original $SU(5)$ model, indicating that this value corresponds to the most beautiful model according to our definition.",
+      "categories": [
+        "hep-ph",
+        "cs.LG",
+        "hep-th"
+      ],
+      "published": "2025-11-11T12:06:14+00:00",
+      "updated": "2026-05-16T08:41:42+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.08154v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2511.08154v2"
+    }
+  ],
+  "total": 5
+}

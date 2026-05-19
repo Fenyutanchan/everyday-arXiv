@@ -1,0 +1,89 @@
+{
+  "date": "2026-02-12",
+  "papers": [
+    {
+      "arxiv_id": "2602.11627v2",
+      "base_id": "2602.11627",
+      "title": "Krylov Subspace Dynamics as Near-Horizon AdS$_2$ Holography",
+      "authors": [
+        "Hyun-Sik Jeong"
+      ],
+      "abstract": "We establish a holographic gravitational dual for the fundamental dynamical equations governing operator growth in Krylov subspace. Specifically, we show that the deep interior of the Krylov subspace maps directly to the near-horizon regime of AdS$_2$ gravity. We demonstrate that, in the continuum limit, the discrete evolution on the Krylov chain transforms into the dynamics of a continuous field, which is isomorphic to the Klein-Gordon equation for a scalar field in the AdS$_2$ throat. This correspondence identifies the linear growth rate of Lanczos coefficients with the Hawking temperature, $α=πT$, thereby recovering the saturation of the maximal chaos bound. Notably, the Breitenlohner-Freedman bound, a fundamental stability criterion in AdS gravity, emerges as a necessary consistency requirement for the dual description of Krylov subspace dynamics. Our results advance a Krylov-based holographic dictionary in a unified $SL(2, \\mathbb{R})$ representation, revealing that the emergent geometry of Krylov subspace is a reflection of the near-horizon AdS spacetime.",
+      "categories": [
+        "hep-th",
+        "cond-mat.str-el",
+        "quant-ph"
+      ],
+      "published": "2026-02-12T06:23:37+00:00",
+      "updated": "2026-04-21T12:16:15+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.11627v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2602.11627v2"
+    },
+    {
+      "arxiv_id": "2602.12347v2",
+      "base_id": "2602.12347",
+      "title": "Sign-Switching Dark Energy: Smooth Transitions with Recent DESI DR2 Observations",
+      "authors": [
+        "Beñat Ibarra-Uriondo",
+        "Mariam Bouhmadi-López"
+      ],
+      "abstract": "Sign-switching dark energy provides a novel mechanism for modifying the late-time expansion history of the Universe without invoking additional fields or finely tuned initial conditions. In this work, we investigate a class of background--level cosmological models in which the dark energy contribution changes sign at a transition redshift $z_\\dagger$, producing a sharp deviation from standard $Λ$CDM dynamics. We confront these models with a comprehensive set of cosmological observations, including Planck 18 cosmic microwave background (CMB) measurements, DESI DR2 Baryonic Acoustic Oscillation (BAO) data and the Pantheon+ $\\&$ SH0ES Type Ia supernova sample (SN). Using a full Markov Chain Monte Carlo (MCMC) analysis, we find that the sign-switching scenario significantly alleviates the Hubble tension while obtaining better results when statistically comparing with $Λ$CDM, as quantified by the Akaike and Bayesian information Criteria. Although the model is explored only at the background level, the improvement in the inferred Hubble constant demonstrates that sign-switching dark energy offers a promising and physically economical pathway toward resolving late-universe discrepancies.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2026-02-12T19:08:27+00:00",
+      "updated": "2026-05-14T14:22:35+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.12347v2",
+      "html_url": "https://arxiv.org/html/2602.12347v2",
+      "entry_url": "http://arxiv.org/abs/2602.12347v2"
+    },
+    {
+      "arxiv_id": "2602.11936v3",
+      "base_id": "2602.11936",
+      "title": "Probing Dynamical Dark Energy with Late-Time Data: Evidence, Tensions, and the Limits of the $w_0w_a$CDM Framework",
+      "authors": [
+        "Tengpeng Xu",
+        "Suresh Kumar",
+        "Yun Chen",
+        "Abraão J. S. Capistrano",
+        "Özgür Akarsu"
+      ],
+      "abstract": "We test the dynamical dark-energy $w_0w_a$CDM (CPL) framework against $Λ$CDM using CMB anisotropies and lensing together with DESI DR2, SDSS-IV, transverse/angular BAO (BAOtr), and Cepheid-calibrated PantheonPlus SN~Ia data. CPL inferences are strongly dataset-dependent. CMB data alone leave a broad geometric degeneracy, while DESI DR2 BAO pulls the reconstruction toward weak present-day acceleration. In contrast, CMB combined with PP\\&SH0ES and BAOtr favors a moderately accelerating expansion and substantially reduces the Hubble tension. The origin of this behavior can be traced to low-redshift distance information: BAOtr and DESI/SDSS prefer different BAO distance ratios at $z\\lesssim0.5$, which drives divergent CPL expansion histories. We quantify this mismatch directly at the data level by comparing angular BAO scales, including the common $z=0.510$ point and a conservative local interpolation of BAOtr with no extrapolation. Within CPL, where pre-recombination physics is fixed, $r_{\\rm d}$ remains nearly unchanged, so shifts in $H_0$ are absorbed by late-time expansion freedom rather than by a change in the sound horizon. Bayesian evidence is likewise contingent on the low-redshift data: it favors CPL mainly when PP\\&SH0ES and/or BAOtr are included, is inconclusive for CMB-only and CMB+DESI, and moderately favors $Λ$CDM for CMB+SDSS. These results show that apparent support for CPL and its ability to ease the Hubble tension are not universal, motivating more flexible late-time models and closer scrutiny of BAO systematics.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2026-02-12T13:35:54+00:00",
+      "updated": "2026-05-18T12:54:32+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.11936v3",
+      "html_url": "https://arxiv.org/html/2602.11936v3",
+      "entry_url": "http://arxiv.org/abs/2602.11936v3"
+    },
+    {
+      "arxiv_id": "2602.12077v2",
+      "base_id": "2602.12077",
+      "title": "Cosmographic Connection Between Cosmological And Planck Scales: The Barrow-Tsallis Entropy",
+      "authors": [
+        "Yu. L. Bolotin",
+        "V. V. Yanovsky",
+        "D. A. Yerokhin"
+      ],
+      "abstract": "One of the fundamental challenges of quantum gravity is to understand how the microscopic degrees of freedom of the cosmological horizon shape the evolution of the Universe. One possible approach to this problem is based on the Barrow--Tsallis entropy. This entropy accounts for both quantum gravitational effects and the nonextensive effects inherent in any long-range interaction. Using a general method we developed for finding the parameters of cosmological models, we discovered a relationship between the parameter describing the microscopic structure of quantum foam and the parameter associated with macroscopic nonextensive effects. We also used our method for finding the parameters of cosmological models to evaluate the feasibility of using fractional derivatives to describe the late evolution of the Universe. The resulting relationships are exact. Therefore, the uncertainty in the relationship between the model parameters depends only on the current uncertainty in the values of the cosmographic parameters.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2026-02-12T15:36:21+00:00",
+      "updated": "2026-05-16T14:51:54+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.12077v2",
+      "html_url": "https://arxiv.org/html/2602.12077v2",
+      "entry_url": "http://arxiv.org/abs/2602.12077v2"
+    }
+  ],
+  "total": 4
+}

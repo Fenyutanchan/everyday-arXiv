@@ -1,0 +1,28 @@
+{
+  "date": "2025-10-25",
+  "papers": [
+    {
+      "arxiv_id": "2510.22137v2",
+      "base_id": "2510.22137",
+      "title": "Inferring neutron-star Love-Q relations from gravitational waves in the hierarchical Bayesian framework",
+      "authors": [
+        "Zhihao Zheng",
+        "Ziming Wang",
+        "Jinwen Deng",
+        "Yiming Dong",
+        "Lijing Shao"
+      ],
+      "abstract": "Despite the large uncertainties in the equation of state for neutron stars (NSs), a tight universal ``Love-Q'' relation exists between their dimensionless tidal deformability, $Λ$, and the dimensionless quadrupole moment, $Q$. However, this relation has not yet been directly measured through observations. Gravitational waves (GWs) emitted from binary NS (BNS) coalescences provide an avenue for such a measurement. In this study, we adopt a hierarchical Bayesian framework and combine multiple simulated GW events to measure the Love-Q relation. We simulate 1000 GW sources and select 20 events with the highest signal-to-noise ratios and NS spins for the analysis. By inspecting four parameterization models of the Love-Q relation, we observe strong correlations between the model parameters. We verify that a linear relation between $\\lnΛ$ and $\\ln Q$ is practically sufficient to describe the Love-Q relation with the precision expected from next-generation GW detectors. Furthermore, we utilize the inferred Love-Q relation to test modified gravity. Taking the dynamical Chern-Simons gravity as an example, our results suggest that the characteristic length can be constrained to $10\\, \\mathrm{km}$ or less with future GW observations.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE"
+      ],
+      "published": "2025-10-25T03:18:25+00:00",
+      "updated": "2026-04-17T07:23:37+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.22137v2",
+      "html_url": "https://arxiv.org/html/2510.22137v2",
+      "entry_url": "http://arxiv.org/abs/2510.22137v2"
+    }
+  ],
+  "total": 1
+}

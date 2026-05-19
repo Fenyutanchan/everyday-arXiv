@@ -1,0 +1,50 @@
+{
+  "date": "2025-04-22",
+  "papers": [
+    {
+      "arxiv_id": "2504.15701v5",
+      "base_id": "2504.15701",
+      "title": "Systematic approach to $\\ell$-loop planar integrands from the classical equation of motion",
+      "authors": [
+        "Yi-Xiao Tao"
+      ],
+      "abstract": "In this paper, we present a recursive method for $\\ell$-loop planar integrands in colored quantum field theories. We start with the classical equation of motion and then pick out the comb component, which will help us to define the loop kernels. Then we construct the $\\ell$-loop integrands based on some recursion rules for the $\\ell$-loop kernels. Finally, we reach a recursion formula for the $\\ell$-loop planar integrands. Our method can be easily generalized to general quantum field theories, even non-Lagrangian theories, to obtain the planar part of the whole $\\ell$-loop integrands.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2025-04-22T08:43:33+00:00",
+      "updated": "2026-04-22T09:32:53+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2504.15701v5",
+      "html_url": "https://arxiv.org/html/2504.15701v5",
+      "entry_url": "http://arxiv.org/abs/2504.15701v5"
+    },
+    {
+      "arxiv_id": "2505.04630v3",
+      "base_id": "2505.04630",
+      "title": "Quantum Noise from Vacuum Field Injection in Optical Cavities with Diffraction-related Loss",
+      "authors": [
+        "Kurumi Umemura",
+        "Tomohiro Ishikawa",
+        "Kenji Tsuji",
+        "Shoki Iwaguchi",
+        "Yutaro Enomoto",
+        "Yuta Michimura",
+        "Kentaro Komori",
+        "Keiko Kokeyama",
+        "Seiji Kawamura"
+      ],
+      "abstract": "The space-based gravitational wave detector DECIGO is designed to observe primordial gravitational waves with 1,000 km Fabry-Perot cavities. Its sensitivity is limited by quantum noise, and although squeezing can suppress it, its effectiveness is reduced by diffraction-related loss, which leads to the injection of vacuum fields into the interferometer. This paper presents a rigorous treatment of quantum field propagation in the presence of diffraction and higher-order mode losses, deriving input-output relations, and modeling their impact via an optomechanical block diagram. The analysis shows that diffraction-induced vacuum fields slightly increase radiation pressure noise, while shot noise remains unaffected. Nevertheless, cavity detuning with homodyne detection yields a dip in the noise spectrum. By accurately capturing these effects, this framework enables a detailed study of sensitivity improvements made by either just detuning the main cavity while implementing homodyne detection, or by combining this with optical-spring quantum locking using auxiliary cavities, laying a firm foundation for enhancing DECIGO's capability to detect primordial gravitational waves.",
+      "categories": [
+        "physics.optics",
+        "gr-qc",
+        "physics.ins-det"
+      ],
+      "published": "2025-04-22T14:39:03+00:00",
+      "updated": "2026-05-10T08:39:21+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2505.04630v3",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2505.04630v3"
+    }
+  ],
+  "total": 2
+}

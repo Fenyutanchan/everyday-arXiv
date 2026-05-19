@@ -1,0 +1,280 @@
+{
+  "date": "2026-05-10",
+  "total": 10,
+  "papers": [
+    {
+      "arxiv_id": "2605.09686v1",
+      "base_id": "2605.09686",
+      "title": "Asymmetric Reheating of Dark QED",
+      "authors": [
+        "Simon Cléry",
+        "Jean Kimus",
+        "Michel H. G. Tytgat"
+      ],
+      "abstract": "We study in detail a scenario in which the inflaton scalar field couples to both a visible sector (VS) and a hidden sector (HS). The VS is assumed to contain the Standard Model (SM), while the HS contains a dark matter (DM) candidate. We are in particular interested in a scenario in which the inflaton decays dominantly into the HS degrees of freedom. The DM candidate is taken to be a dark Dirac fermion $χ$, coupled to a massive dark photon $γ'$, a popular model for a HS also known as Dark QED. The inflaton decays into particles of both sectors generate an initial asymmetry between the SM and HS fermion abundances, which we model as being proportional to the ratio of effective Yukawa couplings, $y$ and $y'$. We pay particular attention to the process of thermalisation of the HS, with temperature $T'$, as a function of $y'$ and $α'$, the HS fine structure constant. We investigate the several possible ways of producing the observed DM relic abundance, and their interplay with the reheating of the HS and the transfer of energy between the HS and the VS. Key results, beyond the systematic character of our analysis, include: a new mechanism for DM production, which occurs when DM particles annihilate while still being produced by the inflaton decay; a study of the temperature ratio $ξ= T'/T$ and its relation with the initial energy asymmetry between the HS and VS, as parameterized by $ξ_i = \\sqrt{y'/y}$; a reassessment of the domain of viable DM candidates, taking into account the constraints set by unitarity and the thermalisation of the HS, accounting for the LPM effect; and, in cases where the HS does not reach thermal equilibrium, an analysis of how non-thermal DM production fits within the domain of thermal DM candidates.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "published": "2026-05-10T18:16:28+00:00",
+      "updated": "2026-05-10T18:16:28+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.09686v1",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2605.09686v1",
+      "relevance": {
+        "relevant": true,
+        "score": 9,
+        "reason": "This paper directly addresses cosmic reheating dynamics—a core research interest—through its detailed study of inflaton decays into visible and hidden sectors, thermalisation processes, and dark matter production mechanisms in a dark QED framework.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.09541v1",
+      "base_id": "2605.09541",
+      "title": "An Algorithm for the Symbolic Reduction of Multi-loop Feynman Integrals via Generating Functions",
+      "authors": [
+        "Bo Feng",
+        "Xiang Li",
+        "Yuanche Liu",
+        "Yanqing Ma",
+        "Yang Zhang"
+      ],
+      "abstract": "We develop a generating-function formulation for the symbolic reduction of multi-loop Feynman integrals. In this framework, integration-by-parts identities are rewritten as differential equations for sector-wise generating functions, so the reduction problem can be studied in a non-commutative algebra of differential operators rather than only through relations among individual integrals. This viewpoint leads to an iterative algorithm that generates candidate equations, extracts symbolic reduction rules, updates the active rule set, and tests completeness on the lattice of integral indices. We illustrate the method with the sunset topology, planar and non-planar massless double-box topologies, representative subsectors, and a degenerate example in which the top sector contains no master integral. Together, these examples show how symbolic reduction rules, descendant equations, and completeness criteria can be organized within a single algebraic framework.",
+      "categories": [
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2026-05-10T13:53:34+00:00",
+      "updated": "2026-05-10T13:53:34+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.09541v1",
+      "html_url": "https://arxiv.org/html/2605.09541v1",
+      "entry_url": "http://arxiv.org/abs/2605.09541v1",
+      "relevance": {
+        "relevant": true,
+        "score": 8,
+        "reason": "This paper develops a new algorithmic framework for symbolic reduction of multi-loop Feynman integrals via generating functions and differential equations, directly relevant to the user's work on multi-loop perturbative calculations, differential equation methods, and computational tools for high-energy physics.",
+        "pass_number": 1,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2509.16409v2",
+      "base_id": "2509.16409",
+      "title": "The Noise of Vacuum",
+      "authors": [
+        "Gabriela Barenboim"
+      ],
+      "abstract": "We investigate the evolution of primordial cosmological perturbations in a vacuum decay model where de Sitter space transitions to radiation domination through quantum-thermal decay processes. Unlike standard inflation, this framework generates curvature perturbations through stochastic noise from vacuum decay rather than quantum fluctuations of an inflaton field. We derive the stochastic differential equation governing the curvature perturbation $\\mathcal{R}(t)$ and show that any horizon crossing is brief and does not constitute the primary mechanism for perturbation generation. Scale dependence emerges from spatial correlations in the noise rather than horizon crossing dynamics. The model naturally addresses the horizon and flatness problems through initial thermal equilibrium in de Sitter space and predicts zero tensor-to-scalar ratio. We demonstrate that spatially correlated noise can generate observationally viable spectral tilts while maintaining Gaussian statistics.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "published": "2025-09-19T20:33:56+00:00",
+      "updated": "2026-05-10T09:58:48+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.16409v2",
+      "html_url": "https://arxiv.org/html/2509.16409v2",
+      "entry_url": "http://arxiv.org/abs/2509.16409v2",
+      "relevance": {
+        "relevant": true,
+        "score": 8,
+        "reason": "The paper is directly relevant to the researcher's interest in early-universe cosmology and cosmic reheating dynamics, as it studies the transition from de Sitter space to radiation domination through quantum-thermal vacuum decay processes and the generation of primordial curvature perturbations via stochastic mechanisms.",
+        "pass_number": 1,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2507.00077v2",
+      "base_id": "2507.00077",
+      "title": "Ward Identity Constraints on Loop Corrections in Non-Attractor Inflation",
+      "authors": [
+        "Cheng-Jun Fang",
+        "Zhen-Hong Lyu",
+        "Chao Chen",
+        "Zong-Kuan Guo"
+      ],
+      "abstract": "The conservation of super-horizon curvature perturbations in strongly interacting inflationary models, particularly in the presence of quantum-loop corrections, remains a topic of active debate. We found that this conservation is essentially a direct consequence of the symmetry in perturbation theory. We demonstrate that the associated Ward identity imposes strict non-perturbative constraints on the infrared power spectrum. This finding provides a rigorous, symmetry-based framework for understanding nonlinear quantum fluctuations in the primordial universe.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2025-06-29T13:58:19+00:00",
+      "updated": "2026-05-10T16:50:39+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2507.00077v2",
+      "html_url": "https://arxiv.org/html/2507.00077v2",
+      "entry_url": "http://arxiv.org/abs/2507.00077v2",
+      "relevance": {
+        "relevant": true,
+        "score": 7,
+        "reason": "This paper on Ward identity constraints for loop corrections in non-attractor inflation directly connects to the user's core interests in early-universe cosmology and primordial black holes (USR inflation is a key PBH formation mechanism), and its use of all-order diagrammatic and symmetry-based methods resonates with the user's multi-loop perturbative calculation expertise, though the specific PBH phenomenology (Hawking evaporation, BBN constraints) the user focuses on is not addressed.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.09571v1",
+      "base_id": "2605.09571",
+      "title": "Einstein-Cartan pseudoscalaron inflation, reheating and nonthermal leptogenesis",
+      "authors": [
+        "Carlo Di Benedetto",
+        "Alessandro Di Marco",
+        "Emanuele Orazi",
+        "Gianfranco Pradisi"
+      ],
+      "abstract": "We study the postinflationary dynamics of an Einstein-Cartan-Holst gravity-motivated inflationary scenario, known as Einstein-Cartan pseudoscalaron inflation, coupled to a type-I seesaw extension of the Standard Model with three heavy right-handed Majorana neutrinos. In particular, we show that nonthermal leptogenesis emerges as a necessary and self-consistent mechanism for generating the observed baryon asymmetry of the Universe, mainly because of the universal coupling of the inflaton to the additional heavy Majorana fermions. The resulting framework provides theoretical predictions that are fully compatible with the latest cosmological constraints from the Cosmic Microwave Background, Baryon Acoustic Oscillations, and Big Bang Nucleosynthesis, as well as with neutrino oscillation experiments, for a wide range of the fundamental Barbero-Immirzi model parameter $γ$, which controls the inflationary and postinflationary phases. In particular, for $γ\\sim -1/100$ and a lightest Majorana-neutrino mass of order $10^{13}$ GeV, we find a scalar spectral index $n_s \\sim 0.970$, a tensor-to-scalar ratio $r \\sim 0.004$, for a number of e-folds before the end of inflation $N_e \\lesssim 60$, and a baryon-to-entropy ratio $n_B/s \\sim 8.7 \\times 10^{-11}$.",
+      "categories": [
+        "astro-ph.CO",
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2026-05-10T14:34:44+00:00",
+      "updated": "2026-05-10T14:34:44+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.09571v1",
+      "html_url": "https://arxiv.org/html/2605.09571v1",
+      "entry_url": "http://arxiv.org/abs/2605.09571v1",
+      "relevance": {
+        "relevant": true,
+        "score": 7,
+        "reason": "The paper is directly relevant to the user's core interest in cosmic reheating dynamics and inflaton decay, and also connects to heavy neutrino physics (type-I seesaw RHNs) and BBN constraints, though the specific Einstein-Cartan gravity framework and leptogenesis focus are somewhat tangential to the user's primary emphasis on gravitational waves, JUNO phenomenology, and perturbative calculations.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.09444v1",
+      "base_id": "2605.09444",
+      "title": "Non-factorisable electroweak virtual corrections to single-resonant processes",
+      "authors": [
+        "Fazila Ahmadova",
+        "Luca Buonocore",
+        "Massimiliano Grazzini",
+        "Chiara Savoini"
+      ],
+      "abstract": "We consider electroweak (EW) virtual corrections to $2\\to 2$ fermion scattering processes mediated by a vector boson $V$ ($V=W^\\pm,Z$) in the pole approximation. As is well known, the computation can be organised into factorisable and non-factorisable contributions. The factorisable corrections can be computed by evaluating the (polarised) EW form factor of the vector boson at the relevant perturbative order. The non-factorisable corrections are instead driven by soft-photon exchanges between the initial- and final-state fermions and/or the resonance. We perform an explicit two-loop computation to show that, once the heavy degrees of freedom are properly decoupled, such non-factorisable corrections can be expressed as an iteration of the one-loop result, plus a new contribution due to (light) fermion loops. The final two-loop result, which can be expected on general grounds from soft-photon factorisation, is shown to hold exactly in dimensional regularisation and is peculiar to the exchange of a single resonance. We discuss its extension to all perturbative orders.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-05-10T09:42:40+00:00",
+      "updated": "2026-05-10T09:42:40+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.09444v1",
+      "html_url": "https://arxiv.org/html/2605.09444v1",
+      "entry_url": "http://arxiv.org/abs/2605.09444v1",
+      "relevance": {
+        "relevant": true,
+        "score": 7,
+        "reason": "This paper on two-loop electroweak non-factorisable virtual corrections is directly relevant to your interest in electroweak precision calculations at O(α²) for future Higgs factories (FCC-ee is prominently discussed), and involves multi-loop perturbative methods with dimensional regularisation that overlap with your computational expertise, though the specific processes (Drell-Yan, single-resonant fermion scattering) differ from your e⁺e⁻→ZH focus.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2601.15983v2",
+      "base_id": "2601.15983",
+      "title": "Radiative corrections to decays of the 125 GeV Higgs boson in the complex Higgs triplet model",
+      "authors": [
+        "Masashi Aiko",
+        "Shinya Kanemura",
+        "Mariko Kikuchi",
+        "Kodai Sakurai",
+        "Sora Taniguchi",
+        "Kei Yagyu"
+      ],
+      "abstract": "The extension of the Higgs sector with an additional complex triplet field is often considered for generating the neutrino mass by the Type-II seesaw mechanism. Such an extension generally predicts $ρ\\neq1$, where $ρ$ is the electroweak rho parameter at the tree level, so that the renormalization of the electroweak parameters is different from models like the standard model (SM) and two Higgs doublet models. In this paper, we present a full set of radiative corrections to decays of the 125 GeV Higgs boson ($h$) in this model. One-loop contributions of the extra Higgs bosons as well as SM fermions and gauge bosons to the decay rates of $h$ are calculated in the on-shell scheme. Gauge dependence appearing in the counter terms of mixing angles is eliminated by the pinch technique. Higher-order QCD corrections are also implemented. We find that the decay rates can significantly deviate from the predictions in the SM and other extensions such as the two Higgs doublet models and the singlet model. For example, the decay rates of $h\\to WW^\\ast$ and $h\\to ZZ^\\ast$ can be a few percent larger than the SM value under current experimental and theoretical constraints. In this case, deviations in $h\\to γγ$ and Higgs self-coupling can reach about $-20\\%$ and $100\\%$, respectively. The pattern of the deviations is different from the other extended Higgs models. These characteristic predictions are expected to be detected at the High-Luminosity LHC or future Higgs factories.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-01-22T14:04:41+00:00",
+      "updated": "2026-05-10T03:31:37+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.15983v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2601.15983v2",
+      "relevance": {
+        "relevant": true,
+        "score": 6,
+        "reason": "The paper relates to electroweak precision calculations and future Higgs factory phenomenology which overlap with the user's interests, but focuses on one-loop BSM Higgs corrections rather than the user's primary focus on multi-loop SM calculations or direct neutrino/DM phenomenology.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.09736v1",
+      "base_id": "2605.09736",
+      "title": "Taming the infrared in de Sitter space: autonomous equations, stochastic approach, and Borel resummation",
+      "authors": [
+        "Alexander Kamenshchik",
+        "Polina Petriakova",
+        "Tereza Vardanyan"
+      ],
+      "abstract": "We investigate the divergent perturbative series of correlation functions for a massless, self-interacting scalar field in de Sitter space. First, we use our previously proposed method of autonomous equations to obtain finite time-dependent functions, and show that these functions approximate the time evolution of the correlation functions of the stochastic theory reasonably well. Second, we apply the technique of autonomous equations to the Borel-Le Roy transforms of correlation functions, and use solutions of these equations to perform Borel resummation. The results match the time evolution obtained in the stochastic picture substantially better. In addition, we propose an alternative method for extracting perturbative coefficients and provide a new derivation of our autonomous equation by truncating a system of Schwinger-Dyson-type differential equations.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2026-05-10T20:10:45+00:00",
+      "updated": "2026-05-10T20:10:45+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.09736v1",
+      "html_url": "https://arxiv.org/html/2605.09736v1",
+      "entry_url": "http://arxiv.org/abs/2605.09736v1",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "The paper deals with formal QFT methods in de Sitter space (resummation of perturbative series, stochastic inflation) which is peripherally related to early-universe cosmology, but it focuses on mathematical techniques rather than the phenomenological topics central to the researcher's interests like reheating dynamics, PBHs, neutrino physics, or multi-loop QCD calculations.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2512.05694v4",
+      "base_id": "2512.05694",
+      "title": "Nearly Degenerate Majorana Dark Matter and Its Self-Interactions in a Gauged $U(1)_{L_μ- L_τ}$ Model",
+      "authors": [
+        "Kwei-Chou Yang"
+      ],
+      "abstract": "We propose a model of nearly degenerate Majorana dark matter (DM) in a gauged $U(1)_{L_μ- L_τ}$ extension of the Standard Model. Spontaneous symmetry breaking generates a dominant Majorana mass via a strong Yukawa coupling, splitting the dark fermion into two nearly degenerate states. The lighter state ($χ_-$) is the DM candidate, with an allowed mass of $\\sim 10$ GeV to several hundred GeV. Crucially, within the $10 \\sim 75$ GeV mass range and a scalar mediator at the tens of MeV scale, this strong coupling dictates the thermal relic abundance and induces significant elastic self-interactions. These self-interactions naturally resolve small-scale structure anomalies, such as the core-cusp problem, while satisfying massive cluster constraints. Furthermore, we place stringent joint constraints on the scalar mass and the Higgs mixing angle $α$ using the latest LZ 2025 direct detection data. The model's gauge boson $Z^\\prime$ maintains early-Universe thermal equilibrium and accommodates the muon anomalous magnetic moment $(g-2)_μ$, remaining consistent with updated cosmological and experimental bounds.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "astro-ph.GA",
+        "astro-ph.HE",
+        "hep-ex"
+      ],
+      "published": "2025-12-05T13:22:33+00:00",
+      "updated": "2026-05-10T03:13:32+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.05694v4",
+      "html_url": "https://arxiv.org/html/2512.05694v4",
+      "entry_url": "http://arxiv.org/abs/2512.05694v4",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "The paper has tangential relevance through its discussion of ΔN_eff and cosmological constraints from the U(1)_{L_μ-L_τ} gauge boson coupling to neutrinos, but its primary focus on dark matter self-interactions and small-scale structure problems does not align closely with the user's specific interests in JUNO phenomenology, axion physics, PBHs, or multi-loop calculations.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.09756v1",
+      "base_id": "2605.09756",
+      "title": "Hawking Radiation and Greybody Factors of Test Scalar and Electromagnetic Fields on Asymptotically Flat Pure Lovelock Black Holes",
+      "authors": [
+        "Jayden Tan"
+      ],
+      "abstract": "Pure Lovelock black holes are geometrically more transparent than their Einstein counterparts, but they radiate far less. We compute scalar and higher-dimensional electromagnetic greybody factors and Hawking spectra on the critical branch $d=2N+2$, compare them with Schwarzschild--Tangherlini black holes at the same horizon radius $r_h$, and show that the smaller Hawking temperature overwhelms the enhanced transmission. In the benchmark $d=6$ case, the integrated scalar and electromagnetic powers are reduced by about $10^{-3}$ and $10^{-5}$, respectively. We also find a clean higher-curvature signature: as the Lovelock order $N$ grows, Hawking radiation becomes increasingly dominated by the scalar-type electromagnetic sector.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2026-05-10T21:05:04+00:00",
+      "updated": "2026-05-10T21:05:04+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.09756v1",
+      "html_url": "https://arxiv.org/html/2605.09756v1",
+      "entry_url": "http://arxiv.org/abs/2605.09756v1",
+      "relevance": {
+        "relevant": true,
+        "score": 3,
+        "reason": "While the paper deals with Hawking radiation and greybody factors—topically connected to the user's interest in PBH Hawking evaporation—it focuses on pure Lovelock gravity in higher dimensions without any connection to PBH phenomenology, BBN constraints, high-energy particle production, or dark sector decays that the user specifically studies.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    }
+  ]
+}

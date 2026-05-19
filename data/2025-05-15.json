@@ -1,0 +1,64 @@
+{
+  "date": "2025-05-15",
+  "papers": [
+    {
+      "arxiv_id": "2505.10327v2",
+      "base_id": "2505.10327",
+      "title": "Comparative Study of Indicators of Chaos in the Closed and Open Dicke Model",
+      "authors": [
+        "Prasad Pawar",
+        "Arpan Bhattacharyya",
+        "B. Prasanna Venkatesh"
+      ],
+      "abstract": "The Dicke model, renowned for its superradiant quantum phase transition, also exhibits a transition from regular to chaotic dynamics. In this work, we provide a systematic, comparative study of static and dynamical indicators of chaos for the closed and open Dicke model. In the closed Dicke model, we find that indicators of chaos sensitive to long-range correlations in the energy spectrum, such as the spectral form factor (SFF), can deviate from the Poissonian predictions and show a dip-ramp-plateau feature even in the regular region of the Dicke model unless very large values of the spin size are chosen. Thus, care is needed in using such indicators of chaos in general. In the open Dicke model with cavity damping, we find that the dissipative spectral form factor emerges as a robust diagnostic displaying a quadratic dip-ramp-plateau behavior in agreement with the Ginibre Unitary Ensemble (GinUE) in the superradiant regime. Moreover, by examining the spectral properties of the Liouvillian, we provide indirect evidence for the concurrence of the dissipative superradiant quantum phase transition and the change in Liouvillian eigenvalue statistics from 2-D Poissonian to GinUE behavior.",
+      "categories": [
+        "quant-ph",
+        "hep-th"
+      ],
+      "published": "2025-05-15T14:11:41+00:00",
+      "updated": "2026-04-15T07:47:07+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2505.10327v2",
+      "html_url": "https://arxiv.org/html/2505.10327v2",
+      "entry_url": "http://arxiv.org/abs/2505.10327v2"
+    },
+    {
+      "arxiv_id": "2505.09984v2",
+      "base_id": "2505.09984",
+      "title": "Sphalerogenesis",
+      "authors": [
+        "Masanori Tanaka"
+      ],
+      "abstract": "We propose a mechanism called sphalerogenesis to explain the baryon asymmetry of the universe (BAU). The BAU is explained by a CP-violating decay of the electroweak sphaleron. We introduce a dimension-six operator constructed from weak gauge fields: $Q_{\\widetilde{W}} \\sim Λ^{-2} ε_{ijk} \\widetilde{W}_{μν}^{i} W^{j νρ} W_ρ^{kμ}$. We find that the BAU can be explained if $Λ\\simeq 38\\,{\\rm TeV}$. This scenario can be tested by electron electric dipole moment measurements in the near future.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2025-05-15T05:47:55+00:00",
+      "updated": "2026-05-04T17:00:41+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2505.09984v2",
+      "html_url": "https://arxiv.org/html/2505.09984v2",
+      "entry_url": "http://arxiv.org/abs/2505.09984v2"
+    },
+    {
+      "arxiv_id": "2505.10406v2",
+      "base_id": "2505.10406",
+      "title": "One-loop amplitudes for $t\\bar{t}j$ and $t\\bar{t}γ$ productions at the LHC through $\\mathcal{O}(ε^2)$",
+      "authors": [
+        "Souvik Bera",
+        "Colomba Brancaccio",
+        "Dhimiter Canko",
+        "Heribertus Bayu Hartanto"
+      ],
+      "abstract": "We present analytic expressions for the one-loop QCD helicity amplitudes contributing to top-quark pair production in association with a photon or a jet at the Large Hadron Collider (LHC), evaluated through $\\mathcal{O}(ε^2)$ in the dimensional regularisation parameter, $ε$. These amplitudes are required to construct the two-loop hard functions that enter the NNLO QCD computation. The helicity amplitudes are expressed as linear combinations of algebraically independent components of the $ε$-expanded master integrals--known as pentagon function--with the corresponding rational coefficients written in terms of momentum-twistor variables. We derive differential equations for the pentagon functions and solve them numerically using the generalised power series expansion method.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-05-15T15:28:36+00:00",
+      "updated": "2026-05-14T14:22:47+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2505.10406v2",
+      "html_url": "https://arxiv.org/html/2505.10406v2",
+      "entry_url": "http://arxiv.org/abs/2505.10406v2"
+    }
+  ],
+  "total": 3
+}

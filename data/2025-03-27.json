@@ -1,0 +1,27 @@
+{
+  "date": "2025-03-27",
+  "papers": [
+    {
+      "arxiv_id": "2503.21432v2",
+      "base_id": "2503.21432",
+      "title": "Exploring the flavor structure of leptons via diffusion models",
+      "authors": [
+        "Satsuki Nishimura",
+        "Hajime Otsuka",
+        "Haruki Uchiyama"
+      ],
+      "abstract": "We propose a method to explore the flavor structure of leptons using diffusion models, which are known as one of generative artificial intelligence (generative AI). We consider a simple extension of the Standard Model with the type I seesaw mechanism and train a neural network to generate the neutrino mass matrix. By utilizing transfer learning, the diffusion model generates 104 solutions that are consistent with the neutrino mass squared differences and the leptonic mixing angles. The distributions of the CP phases and the sums of neutrino masses, which are not included in the conditional labels but are calculated from the solutions, exhibit non-trivial tendencies. In addition, the effective mass in neutrinoless double beta decay is concentrated near the boundaries of the existing confidence intervals, allowing us to verify the obtained solutions through future experiments. An inverse approach using the diffusion model is expected to facilitate the experimental verification of flavor models from a perspective distinct from conventional analytical methods.",
+      "categories": [
+        "hep-ph",
+        "cs.LG",
+        "hep-th"
+      ],
+      "published": "2025-03-27T12:17:00+00:00",
+      "updated": "2026-04-15T19:11:19+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2503.21432v2",
+      "html_url": "https://arxiv.org/html/2503.21432v2",
+      "entry_url": "http://arxiv.org/abs/2503.21432v2"
+    }
+  ],
+  "total": 1
+}

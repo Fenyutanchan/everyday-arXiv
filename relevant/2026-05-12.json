@@ -1,0 +1,270 @@
+{
+  "date": "2026-05-12",
+  "total": 10,
+  "papers": [
+    {
+      "arxiv_id": "2601.20939v2",
+      "base_id": "2601.20939",
+      "title": "Probing Bose-enhanced Inflaton Decay with Gravitational Waves",
+      "authors": [
+        "Nicolás Bernal",
+        "Quan-feng Wu",
+        "Xun-Jie Xu",
+        "Yong Xu"
+      ],
+      "abstract": "We investigate cosmic reheating dynamics in the presence of a transient condensate formed by bosonic decay products of the inflaton. We show that the emergence of such a condensate and the corresponding Bose enhancement can dramatically increase the efficiency of inflaton decay, giving rise to qualitatively new reheating dynamics beyond the standard perturbative picture. As a consequence, graviton production from inflaton decay processes is significantly amplified by Bose enhancement effects, leading to a stochastic gravitational-wave background with a potentially observable amplitude, even in the low-frequency regime.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-01-28T19:00:01+00:00",
+      "updated": "2026-05-12T14:34:35+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.20939v2",
+      "html_url": "https://arxiv.org/html/2601.20939v2",
+      "entry_url": "http://arxiv.org/abs/2601.20939v2",
+      "relevance": {
+        "relevant": true,
+        "score": 10,
+        "reason": "This paper directly addresses the user's core research interests in Bose-enhanced inflaton decay, cosmic reheating dynamics, and stochastic gravitational-wave backgrounds from pre-thermalization processes.",
+        "pass_number": 1,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.11956v1",
+      "base_id": "2605.11956",
+      "title": "Probing the small-scale primordial power spectrum via relic neutrinos and acoustic reheating",
+      "authors": [
+        "Giovanni Piccoli",
+        "Sunny Vagnozzi",
+        "Joseph Silk"
+      ],
+      "abstract": "We show that the dissipation of small-scale perturbations through diffusion damping after neutrino decoupling lowers the present-day neutrino temperature compared to the expected value of $1.96\\,{\\text{K}}$. This reduces the relic neutrino abundance by an amount controlled by the integral of the primordial curvature power spectrum $Δ_{\\cal R}^2(k)$. We find that a relic neutrino detection by PTOLEMY can set limits $Δ_{\\cal R}^2(k) \\lesssim {\\cal O}(0.1)$ on scales $k \\lesssim 3 \\times 10^5\\,{\\text{Mpc}^{-1}}$, complementary to limits from Big Bang Nucleosynthesis, spectral distortions, pulsar timing arrays, and future dark ages 21-cm observations.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2026-05-12T11:08:00+00:00",
+      "updated": "2026-05-12T11:08:00+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.11956v1",
+      "html_url": "https://arxiv.org/html/2605.11956v1",
+      "entry_url": "http://arxiv.org/abs/2605.11956v1",
+      "relevance": {
+        "relevant": true,
+        "score": 8,
+        "reason": "This paper sits at the intersection of several core interests: early-universe cosmology (acoustic reheating dynamics), neutrino physics (relic neutrino abundance, cosmological bounds from BBN and ΔN_eff), primordial black holes (as motivation for enhanced small-scale power), and stochastic gravitational-wave backgrounds (SIGWs from NANOGrav), making it highly relevant despite focusing on PTOLEMY rather than JUNO.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.11630v1",
+      "base_id": "2605.11630",
+      "title": "Long-lived sterile neutrinos from axionlike particles at the Super Tau-Charm Facility",
+      "authors": [
+        "Xiaokun Li",
+        "Zeren Simon Wang",
+        "Yu Zhang",
+        "Xiaorong Zhou"
+      ],
+      "abstract": "We study the search prospect of long-lived heavy neutral leptons (HNLs) pair produced in decays of axionlike particles (ALPs) at the proposed Super Tau-Charm Facility (STCF), focusing on the center-of-mass energy of $\\sqrt{s}=3.773$ GeV. The ALPs are assumed to originate from $D^\\pm$-meson decays in association with a charged pion. We perform both truth-level and detector-level Monte Carlo simulations and obtain the expected sensitivity reach to the mixing parameter between the HNL and the electron neutrino, $|V_{eN}|^2$, with a displaced-vertex search at STCF. We find that STCF can probe values of $|V_{eN}|^2$ about one-to-two orders of magnitude beyond the existing bounds. We also perform an approximate reinterpretation of a search for HNLs at the CHARM experiment, which is subject to model-dependent assumptions on the production and kinematic distributions, and find that beam-dump experiments may provide strong complementary constraints.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2026-05-12T06:55:48+00:00",
+      "updated": "2026-05-12T06:55:48+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.11630v1",
+      "html_url": "https://arxiv.org/html/2605.11630v1",
+      "entry_url": "http://arxiv.org/abs/2605.11630v1",
+      "relevance": {
+        "relevant": true,
+        "score": 8,
+        "reason": "This paper directly intersects two of the user's core interests—heavy neutral leptons (HNLs) with dark decays and axionlike particle physics—by studying the ALP-HNL portal model where ALPs from charm meson decays produce long-lived HNLs, and the STCF facility in Hefei is also relevant to the user's position at IHEP.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2512.11285v3",
+      "base_id": "2512.11285",
+      "title": "JUNO's Impact on the Neutrino Mass Ordering from Lorentz Invariance Violation",
+      "authors": [
+        "Tatiana Araya-Santander",
+        "Cesar Bonilla",
+        "Supriya Pan"
+      ],
+      "abstract": "We explore the potential of the Jiangmen Underground Neutrino Observatory (JUNO) to probe new physics by searching for Lorentz-invariance violation (LIV). Using the 59.1-day dataset recently released by this experiment, we analyze neutrino oscillations to place new constraints on the LIV parameters in the CPT-even ($c_{ee} - c_{eμ}$, $c_{ee} - c_{eτ}$) and CPT-odd ($a_{ee} - a_{eμ}$, $a_{ee} - a_{eτ}$) sectors. Our analysis reveals a significant shift in the oscillation parameter space of $\\sin^2θ_{12}-Δm^2_{21}$ when LIV is included; with the best-fit point for normal ordering moving to the higher values of the solar angle $θ_{12}$, a strong preference emerges for inverted mass ordering. In particular, the $c_{ee} - c_{eτ}$ and $a_{ee} - a_{eτ}$ sectors show the most pronounced effects. We report the most stringent bounds from JUNO to date on these LIV parameters, showcasing the detector's unique sensitivity to physics beyond the Standard Model.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2025-12-12T05:12:27+00:00",
+      "updated": "2026-05-12T19:26:03+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.11285v3",
+      "html_url": "https://arxiv.org/html/2512.11285v3",
+      "entry_url": "http://arxiv.org/abs/2512.11285v3",
+      "relevance": {
+        "relevant": true,
+        "score": 8,
+        "reason": "This paper directly addresses JUNO phenomenology—a core interest of the researcher—by analyzing real JUNO data to constrain Lorentz-invariance violation in neutrino oscillations, making it highly relevant to their work on JUNO and new physics searches in the neutrino sector.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.12054v1",
+      "base_id": "2605.12054",
+      "title": "Ultra-light axion constraints from Planck and ACT: the role of nonlinear modelling",
+      "authors": [
+        "Lauren Gaughan",
+        "Anne M. Green",
+        "Adam Moss"
+      ],
+      "abstract": "We study how constraints on the abundance of ultralight axions (ULAs) from cosmic microwave background (CMB) data depend on their nonlinear modelling. We focus on the axion mass range $10^{-25} \\leq m/\\rm{eV} \\leq 10^{-23}$, where the axion Jeans scale falls in the quasi-linear regime probed by CMB lensing, making constraints highly sensitive to the choice of nonlinear prescription. We show that the inferred constraints depend significantly on the choice of nonlinear model, which must therefore be treated carefully. Performing Markov Chain Monte Carlo (MCMC) analyses with \\Planck\\, 2018, ACT DR6 and DESI DR2 BAO data, we find naive nonlinear modelling of non-cold matter can produce an artificial preference for a subdominant ULA dark matter component with mass $m \\approx 10^{-24}\\,$eV. This arises from a lensing-like enhancement of the CMB power spectrum.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2026-05-12T12:35:30+00:00",
+      "updated": "2026-05-12T12:35:30+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.12054v1",
+      "html_url": "https://arxiv.org/html/2605.12054v1",
+      "entry_url": "http://arxiv.org/abs/2605.12054v1",
+      "relevance": {
+        "relevant": true,
+        "score": 5,
+        "reason": "The paper concerns ultralight axion dark matter constraints from CMB data, which overlaps with the user's interest in 'axion and dark matter physics,' but the specific focus on cosmological CMB constraints and nonlinear structure formation modeling is quite different from the user's primary axion interests in Primakoff solar axion flux and axion detection strategies.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2510.25505v3",
+      "base_id": "2510.25505",
+      "title": "Resonant production of millicharged scalars in $k^2>0$ electromagnetic wave background",
+      "authors": [
+        "Ekaterina Dmitrieva",
+        "Petr Satunin"
+      ],
+      "abstract": "We investigate the solution of the Klein-Gordon equation for a charged scalar particle in an electromagnetic plane wave background with $k^2>0$, which can be realized in a medium with a refractive index $n<1$. We reduce the equation of motion to the Mathieu equation, which has resonant solutions that grow exponentially for certain parameter ranges. We apply our results to derive constraints on scalar millicharged particles and compare them with existing experimental data.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-10-29T13:30:39+00:00",
+      "updated": "2026-05-12T11:15:26+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.25505v3",
+      "html_url": "https://arxiv.org/html/2510.25505v3",
+      "entry_url": "http://arxiv.org/abs/2510.25505v3",
+      "relevance": {
+        "relevant": true,
+        "score": 5,
+        "reason": "The paper discusses Bose-enhanced parametric resonance and Mathieu equation dynamics analogous to cosmological preheating, and millicharged particles as dark matter candidates, which tangentially connect to the user's interests in Bose-enhanced inflaton decay and dark matter physics, but the core focus on classical EM wave backgrounds and laboratory mCP constraints diverges from the user's primary research in early-universe cosmology, neutrino physics, and multi-loop calculations.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.11792v1",
+      "base_id": "2605.11792",
+      "title": "Formulation of parton shower evolution beyond leading order for electron-positron annihilation",
+      "authors": [
+        "Zoltan Nagy",
+        "Davison E. Soper"
+      ],
+      "abstract": "Parton shower evolution is given by a renormalization group equation that reflects the infrared behavior of perturbative QCD including color and spin and including quantum interference. With added approximations, such an evolution equation can provide the basis for a parton shower event generator. To date, splitting functions for parton shower evolution have been derived only to leading order in $\\as$. We provide a framework that can provide splitting functions beyond leading order, and in particular at order $\\as^2$. This requires a representation of Feynman graphs in which partons are off shell and are characterized by vector or spinor indices instead of on-shell spins.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-05-12T08:54:31+00:00",
+      "updated": "2026-05-12T08:54:31+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.11792v1",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2605.11792v1",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "While this paper deals with higher-order perturbative QCD splitting functions and Feynman graph representations, which tangentially relates to the researcher's multi-loop QCD and computational tool interests, its focus on parton shower evolution for event generators is distinct from the researcher's emphasis on fixed-order precision calculations (N³LO corrections, decay widths) and automated amplitude generation.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2512.24215v2",
+      "base_id": "2512.24215",
+      "title": "Neutrino Mass, Vacuum Stability and Higgs Inflation with Vector-Like Quarks and a Single Right-Handed Neutrino",
+      "authors": [
+        "Canan Karahan"
+      ],
+      "abstract": "We investigate a Standard Model extension containing $n$ degenerate down-type isosinglet vector-like quarks (VLQs) with masses $M_{\\mathcal D}$ and Yukawa couplings $y_{\\mathcal D}$, supplemented by a single right-handed neutrino (RHN), aiming to simultaneously address neutrino mass generation, electroweak vacuum stability, and Higgs inflation. The VLQs play the dominant role in stabilizing the Higgs potential through their impact on the renormalization-group evolution, while the RHN generates light neutrino masses via a Type-I seesaw mechanism and smooths the high-scale running of the Higgs quartic coupling in the inflationary regime. We perform a two-loop Standard Model renormalization-group equation analysis supplemented by the one-loop contributions of the VLQs and the RHN, with proper matching across their mass thresholds. Using these RG trajectories, we identify the regions in $(n,\\, y_{\\mathcal D},\\, M_{\\mathcal D})$ that stabilize the Higgs potential up to the Planck scale while satisfying experimental constraints. Employing the RG-improved Higgs potential in the metric formulation of non-minimal Higgs inflation, we compute the inflationary observables $n_s$ and $r$. The SM+$(n)$VLQ+RHN framework yields predictions consistent with the latest Planck-LB-BK18 and ACT-LB-BK18 data, while simultaneously ensuring electroweak vacuum stability and phenomenologically viable neutrino masses within well-defined regions of parameter space. For comparison, we also investigate the SM+$(n)$VLQ limit and present its vacuum stability and Higgs inflation predictions as a reference to quantify the stabilizing role of the VLQ sector.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-12-30T13:26:27+00:00",
+      "updated": "2026-05-12T20:22:50+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.24215v2",
+      "html_url": "https://arxiv.org/html/2512.24215v2",
+      "entry_url": "http://arxiv.org/abs/2512.24215v2",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "The paper touches on neutrino physics (Type-I seesaw) and early-universe inflation, but the specific topics—Higgs inflation predictions, vacuum stability via VLQs, and two-loop RG running—do not closely align with the researcher's core interests in HNL dark decays, JUNO phenomenology, reheating/gravitational-wave backgrounds, PBHs, or multi-loop perturbative QCD.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.12057v1",
+      "base_id": "2605.12057",
+      "title": "Explicit Conditions for Diagnosing Tree-Level Unitarity",
+      "authors": [
+        "Jaehoon Jeong",
+        "Pyungwon Ko",
+        "Yu-Hui Zheng"
+      ],
+      "abstract": "We explicitly present all coupling conditions required for tree-level unitarity (tree unitarity) in theories with a finite number of massive and massless particles of spin up to 1. They allow us to diagnose tree unitarity of a system using only its particle content in the mass basis, without reconstructing the full Lagrangian. We show that all four-point amplitudes whose high-energy growth is canceled by tree unitarity conditions are on-shell constructible, thereby motivating the recursive construction of four-point amplitudes. By examining their high-energy growth, we derive tree unitarity conditions for four-point amplitudes. Imposing these conditions to simplify the Lagrangian structure, we use the Stückelberg formulation to derive the tree unitarity conditions arising from all higher-point amplitudes. We show that all tree unitarity conditions are fully captured up to five-point amplitudes, ensuring no necessity of examining higher-point ones. We apply our results to systematically examine tree unitarity conditions in the dark sector with a massive dark photon and dark matter particles of spin up to 1, and extract the essential features for mass generation in the massive dark photon case. In addition, we show that our results allow us to conclude that theories without scalars require an infinite tower of vectors and fermions for tree unitarity. Finally unitarity and related issues in the Higgs portal VDM are discussed in brief.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-05-12T12:43:23+00:00",
+      "updated": "2026-05-12T12:43:23+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.12057v1",
+      "html_url": "https://arxiv.org/html/2605.12057v1",
+      "entry_url": "http://arxiv.org/abs/2605.12057v1",
+      "relevance": {
+        "relevant": true,
+        "score": 3,
+        "reason": "The paper's application to dark photon scenarios with dark matter particles of spin up to 1 has some overlap with the user's dark matter physics interests, but the core topic of tree-level unitarity conditions using on-shell methods is largely outside the user's main research focus on cosmology, neutrino physics, multi-loop calculations, and computational tools.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.11747v1",
+      "base_id": "2605.11747",
+      "title": "SMEFT everywhere: a NLO study of $\\boldsymbol{pp \\to t\\bar{t}H}$ with decaying tops",
+      "authors": [
+        "Giuseppe Bevilacqua",
+        "Minos Reinartz",
+        "Malgorzata Worek"
+      ],
+      "abstract": "We present the computation of the next-to-leading order QCD corrections to the $pp\\to t\\bar{t} H+X$ process in the di-lepton channel at the LHC, including relevant dimension-6 operators $({\\cal O}_{tφ}, \\, {\\cal O}_{φG},\\, {\\cal O}_{tG}, \\, {\\cal O}_{tW})$ from the Standard Model Effective Field Theory. In our studies, higher-order corrections and effective operators are consistently included in the production part of the process as well as in the top-quark decays. We perform a detailed study of linear, cross, and quadratic contributions and their uncertainties, including renormalisation group effects. Our findings are presented at the integrated and differential cross-section level for the LHC Run III center-of-mass energy of $\\sqrt{s}=13.6$ TeV. Finally, we provide predictions for $pp\\to t\\bar{t} H+X$ with stable top quarks and compare them with the results in which top quarks are reconstructed from their decay products. We show that kinematic cuts, as well as higher-order effects and SMEFT operators in top-quark decays, are important and should be consistently considered together, because they have a significant impact on the shape of the standard observables measured for the $pp\\to t\\bar{t}H+X$ process at the LHC.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2026-05-12T08:25:47+00:00",
+      "updated": "2026-05-12T08:25:47+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.11747v1",
+      "html_url": "https://arxiv.org/html/2605.11747v1",
+      "entry_url": "http://arxiv.org/abs/2605.11747v1",
+      "relevance": {
+        "relevant": true,
+        "score": 3,
+        "reason": "While the paper develops computational tools (Helac-Smeft) for automated Feynman amplitude generation from UFO models—which tangentially overlaps with the researcher's interest in computational tools—the physics topic of NLO QCD SMEFT corrections to pp→tt̄H at the LHC is far from the researcher's core interests in early-universe cosmology, neutrino physics, multi-loop perturbative QCD, and dark matter.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    }
+  ]
+}

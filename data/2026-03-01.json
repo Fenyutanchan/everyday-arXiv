@@ -1,0 +1,43 @@
+{
+  "date": "2026-03-01",
+  "papers": [
+    {
+      "arxiv_id": "2603.01061v2",
+      "base_id": "2603.01061",
+      "title": "QCD phase transition at finite isospin density and magnetic field",
+      "authors": [
+        "Chujun Ke",
+        "Gaoqing Cao"
+      ],
+      "abstract": "The QCD phase transition is explored at finite isospin density and magnetic field within the extended two-flavor Nambu--Jona-Lasinio model. By adopting the Ginzburg-Landau approximation, we study the transitions from normal chiral symmetry breaking phase to pion superfluidity or rho superconductivity. To avoid the artificial divergence for a large isospin chemical potential, we adopt the Landau representation rather than the proper-time one for the fermion propagators in a constant magnetic field. For the Landau representation, the same cutoff to the Landau energies, rather than to Landau levels, should be adopted to regularize the divergences from the summations over Landau levels. Then, the Ginzburg-Landau coefficients for pion and rho mesons are worked out both analytically and numerically in random phase approximation. The results show that pion superfluidity is favored for a small magnetic field while rho superconductivity is favored for a large magnetic field when increasing isospin chemical potential, in line with the magnetic enhancement (deduction) of the lowest energy of $π^+ (ρ^{+})$ meson. The novel rho superconductivity phase at large magnetic field and finite isospin density implies an interesting and nontrivial interplay between QCD and QED.",
+      "categories": [
+        "nucl-th",
+        "hep-ph"
+      ],
+      "published": "2026-03-01T11:36:22+00:00",
+      "updated": "2026-04-24T01:14:05+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.01061v2",
+      "html_url": "https://arxiv.org/html/2603.01061v2",
+      "entry_url": "http://arxiv.org/abs/2603.01061v2"
+    },
+    {
+      "arxiv_id": "2603.00885v2",
+      "base_id": "2603.00885",
+      "title": "Comments on \"Unified neutrino mixing and approximate $μ-τ$ reflection symmetry\" (Mod. Phys. Lett. A, 40 (2025) 26, 2550097 [arXiv:2502.18029 [hep-ph]])",
+      "authors": [
+        "Chao-Shang Huang",
+        "Wen-Jun Li"
+      ],
+      "abstract": "Resolving mass ordering is an important issue in the neutrino physics. In Ref.\\cite{yt} the authors investigate the phenomenology of a unified neutrino mixing framework and reveal that the predicted sum of neutrino masses derived from an approximate $μ-τ$ reflection symmetric flavor neutrino mass matrix based on the unified neutrino mixing with an inverted mass ordering, is excluded from DESI2024 and Supernova Ia luminosity distance data. We note that in Ref.\\cite{yt} an error is present in Eq.(20), {\\it i.e.}, the expression for $ M_{23}^{μ-τ} $, a similar error also appears in Eq.(26) for $M_{13}^{μ-τ}$. That is, the condition that $M_{ee}$ and $M_{μτ}$ are real is omitted. We impose this condition and analyze its consequences. Using the newest data\\cite{azz}, it is obtained that the predicted sm derived from the approximate $μ-τ$ reflection symmetric neutrino mass matrices $M_{23}$ for both NO and IO are allowed. We note also that their conclusion is invalid, as it is based on outdated data.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-03-01T03:11:11+00:00",
+      "updated": "2026-05-13T16:18:43+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.00885v2",
+      "html_url": "https://arxiv.org/html/2603.00885v2",
+      "entry_url": "http://arxiv.org/abs/2603.00885v2"
+    }
+  ],
+  "total": 2
+}

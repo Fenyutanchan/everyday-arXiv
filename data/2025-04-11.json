@@ -1,0 +1,49 @@
+{
+  "date": "2025-04-11",
+  "papers": [
+    {
+      "arxiv_id": "2504.08978v2",
+      "base_id": "2504.08978",
+      "title": "Non-Abelian Extensions of the Dirac Oscillator: A Theoretical Approach",
+      "authors": [
+        "Abdelmalek Boumali",
+        "Sarra Garrah"
+      ],
+      "abstract": "We formulate the Dirac oscillator covariantly in the presence of external non-Abelian gauge fields. More precisely, the matter field is written as $Ψ_{αA}(x)$, where $α$ denotes the Dirac index and $A$ the isospin index, so that the Hamiltonian acts on the tensor-product space $\\mathbb{C}^{4}\\otimes\\mathbb{C}^{2}$ in the fundamental representation. Starting from the gauge-covariant Dirac equation, we then implement the oscillator interaction through the standard non-minimal substitution and promote the construction to an $\\mathrm{SU}(2)$ background. In this way, we derive the associated non-Abelian field-strength tensor and isolate the commutator contribution, which has no Abelian analogue. Consequently, the generalized Pauli interaction $σ^{μν}\\mathcal{F}_{μν}$ produces matrix-valued spin--isospin couplings. At the same time, the Abelian sector reduces to the conventional Moshinsky--Szczepaniak Dirac oscillator, whose exactly solvable spectrum provides a natural benchmark for the extended theory.",
+      "categories": [
+        "quant-ph",
+        "hep-th"
+      ],
+      "published": "2025-04-11T21:07:08+00:00",
+      "updated": "2026-04-16T13:43:01+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2504.08978v2",
+      "html_url": "https://arxiv.org/html/2504.08978v2",
+      "entry_url": "http://arxiv.org/abs/2504.08978v2"
+    },
+    {
+      "arxiv_id": "2504.08631v2",
+      "base_id": "2504.08631",
+      "title": "Can the strong interactions between hadrons be determined using femtoscopy?",
+      "authors": [
+        "Evgeny Epelbaum",
+        "Sven Heihoff",
+        "Ulf-G. Meißner",
+        "Alexander Tscherwon"
+      ],
+      "abstract": "In the last decades, femtoscopic measurements from heavy-ion collisions have become a popular tool to investigate the strong interactions between hadrons. The key observables measured in such experiments are the two-hadron momentum correlations, which depend on the production mechanism of hadron pairs and the final-state interactions. Given the complexity of ultra-relativistic collision experiments, the source term describing the production mechanism can only be modeled phenomenologically based on numerous assumptions. The commonly employed approach for analyzing femtoscopic data relies on the Koonin-Pratt formula, which relates the measured correlation functions with the relative wave function of an outgoing hadron pair and a source term that is assumed to be universal. Here, we critically examine this universality assumption and show that for strongly interacting particles such as nucleons, the interpretation of femtoscopic measurements suffers from a potentially large intrinsic uncertainty. We also comment on the ongoing efforts to explore three-body interactions using this experimental technique.",
+      "categories": [
+        "nucl-th",
+        "hep-ex",
+        "hep-lat",
+        "hep-ph",
+        "nucl-ex"
+      ],
+      "published": "2025-04-11T15:33:33+00:00",
+      "updated": "2026-05-09T08:55:40+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2504.08631v2",
+      "html_url": "https://arxiv.org/html/2504.08631v2",
+      "entry_url": "http://arxiv.org/abs/2504.08631v2"
+    }
+  ],
+  "total": 2
+}

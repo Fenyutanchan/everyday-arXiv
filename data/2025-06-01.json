@@ -1,0 +1,61 @@
+{
+  "date": "2025-06-01",
+  "papers": [
+    {
+      "arxiv_id": "2506.00758v2",
+      "base_id": "2506.00758",
+      "title": "Dimensional reduction for sampled priors and application to photometric redshift distributions",
+      "authors": [
+        "Gary Bernstein",
+        "William Assignies Doumerg",
+        "Michael A. Troxel",
+        "Alex Alarcon",
+        "Alexandra Amon",
+        "Giulia Giannini",
+        "Boyan Yin",
+        "Sahar Allam",
+        "Felipe Andrade-Oliveira",
+        "David Brooks",
+        "Aurelio Carnero Rosell",
+        "Jorge Carretero",
+        "Luiz da Costa",
+        "Maria Elidaiana da Silva Pereira",
+        "Juan De Vicente",
+        "Spencer Everett",
+        "Josh Frieman",
+        "Juan Garcia-Bellido",
+        "Daniel Gruen",
+        "Samuel Hinton",
+        "Devon L. Hollowood",
+        "Klaus Honscheid",
+        "David James",
+        "Sujeong Lee",
+        "Jennifer Marshall",
+        "Juan Mena-Fernández",
+        "Ramon Miquel",
+        "Andrés Plazas Malagón",
+        "Eusebio Sanchez",
+        "David Sanchez Cid",
+        "Ignacio Sevilla",
+        "Tae-hyeon Shin",
+        "Mathew Smith",
+        "Eric Suchyta",
+        "Molly Swanson",
+        "Noah Weaverdyck",
+        "Jochen Weller",
+        "Philip Wiseman"
+      ],
+      "abstract": "A typical Bayesian inference on the values of some parameters of interest $\\bf q$ from some data $D$ involves running a Markov Chain (MC) to sample from the posterior $p({\\bf q},{\\bf n} | D) \\propto \\mathcal{L}(D | {\\bf q},{\\bf n}) p({\\bf q}) p({\\bf n}),$ where $\\bf n$ are some nuisance parameters with separable prior. In some cases, the nuisance parameters are high-dimensional, and their prior $p({\\bf n})$ is itself defined only by a set of samples that have been drawn from some other MC. The MC for the posterior will typically require evaluation of $p({\\bf n})$ at arbitrary values of ${\\bf n},$ i.e.\\ one needs to provide a density estimator over the full $\\bf n$ space from the provided samples. But the high dimensionality of $\\bf n$ hinders both the density estimation and the efficiency of the MC for the posterior. We describe a solution to this problem: a linear compression of the $\\bf n$ space into a much lower-dimensional space $\\bf u$ which projects away directions in $\\bf n$ space that cannot appreciably alter $\\mathcal{L}.$ The algorithm for doing so is a slight modification to principal components analysis, and is less restrictive on $p(\\bf n)$ than other proposed solutions to this issue. We demonstrate this ``mode projection'' technique using the analysis of 2-point correlation functions of weak lensing fields and galaxy density in the \\textit{Dark Energy Survey}, where $\\bf n$ is a binned representation of the redshift distribution $n(z)$ of the galaxies.",
+      "categories": [
+        "astro-ph.IM",
+        "astro-ph.CO"
+      ],
+      "published": "2025-06-01T00:09:30+00:00",
+      "updated": "2026-04-28T14:04:07+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.00758v2",
+      "html_url": "https://arxiv.org/html/2506.00758v2",
+      "entry_url": "http://arxiv.org/abs/2506.00758v2"
+    }
+  ],
+  "total": 1
+}

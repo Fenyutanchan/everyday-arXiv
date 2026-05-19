@@ -1,0 +1,49 @@
+{
+  "date": "2025-11-10",
+  "papers": [
+    {
+      "arxiv_id": "2511.07226v2",
+      "base_id": "2511.07226",
+      "title": "Renormalization-Group Invariant Parity-Doublet Model for Nuclear and Neutron-Star Matter",
+      "authors": [
+        "Mattia Recchi",
+        "Lorenz von Smekal",
+        "Jochen Wambach"
+      ],
+      "abstract": "The Parity-Doublet Model (PDM) is a chirally invariant effective theory for strong-interaction matter involving nucleons and their opposite-parity partners in a parity-doubling framework. We introduce a multiplicatively renormalizable mean-field approach to include the baryonic vacuum contributions to the resulting grand-canonical potential in an explicitly renormalization-group invariant form. As an application, we evaluate the pertinent thermodynamics of two-flavor symmetric and asymmetric nuclear matter, focusing on the restoration of spontaneously broken chiral symmetry at baryon densities and temperatures relevant for the astrophysics of neutron stars. Special attention is paid to the effect of the baryonic vacuum fluctuations on the evolution of chiral condensate with baryon density and temperature for specific choices of the chirally invariant baryon mass $m_0$ to demonstrate the importance of consistently including these vacuum fluctuations in the PDM.",
+      "categories": [
+        "nucl-th",
+        "astro-ph.HE",
+        "hep-ph"
+      ],
+      "published": "2025-11-10T15:46:14+00:00",
+      "updated": "2026-04-23T12:34:40+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.07226v2",
+      "html_url": "https://arxiv.org/html/2511.07226v2",
+      "entry_url": "http://arxiv.org/abs/2511.07226v2"
+    },
+    {
+      "arxiv_id": "2511.07679v2",
+      "base_id": "2511.07679",
+      "title": "Alternative approach to time-delay interferometry with optical frequency comb",
+      "authors": [
+        "Kohei Yamamoto",
+        "Hannah Tomio",
+        "Charlotte Zehnder",
+        "Kenji Numata",
+        "Holly Leopardi"
+      ],
+      "abstract": "Spaceborne gravitational wave observatories, exemplified by the Laser Interferometer Space Antenna (LISA) mission, are designed to remove laser noise and clock noise from interferometric phase measurements in postprocessing. The planned observatories will utilize electro-optic modulators (EOMs) to encode the onboard clock timing onto the beam phase. Recent research has demonstrated the advantage of introducing an optical frequency comb (OFC) in the metrology system with the modified framework of time-delay interferometry (TDI): the removal of the EOM and the simultaneous suppression of the stochastic jitter of the laser and the clock in the observation band. In this paper, we explore an alternative approach with the OFC-based metrology system. We report that after proper treatment, it is possible to use the measured carrier-carrier heterodyne frequencies to monitor the time derivative of the pseudoranges, which represent the physical light travel time and the clock difference. This approach does not require changing the existing TDI framework, as previous OFC based efforts did. Furthermore, this approach naturally captures not only stochastic jitter but also clock offsets and slow drifts. We also present the experimental demonstration of our scheme using two separate systems to model two spacecraft. Using this novel approach, we synchronize the two independent phase measurement systems with an accuracy better than 0.47 ns, while the stochastic jitter in the observation band is suppressed down to the setup sensitivity around the LISA performance levels at 15 pm/sqrt(Hz).",
+      "categories": [
+        "astro-ph.IM",
+        "gr-qc"
+      ],
+      "published": "2025-11-10T22:57:08+00:00",
+      "updated": "2026-05-15T17:51:53+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.07679v2",
+      "html_url": "https://arxiv.org/html/2511.07679v2",
+      "entry_url": "http://arxiv.org/abs/2511.07679v2"
+    }
+  ],
+  "total": 2
+}

@@ -1,0 +1,152 @@
+{
+  "date": "2025-09-17",
+  "papers": [
+    {
+      "arxiv_id": "2509.13654v2",
+      "base_id": "2509.13654",
+      "title": "Cosmic Birefringence from the Atacama Cosmology Telescope Data Release 6",
+      "authors": [
+        "P. Diego-Palazuelos",
+        "E. Komatsu"
+      ],
+      "abstract": "The polarized light of the cosmic microwave background is sensitive to new physics that violates parity symmetry. For example, the interaction of photons with the fields of elusive dark matter and dark energy could cause a uniform rotation of the plane of linear polarization across the sky, an effect known as cosmic birefringence. We extract the cosmological rotation angle, $β$, using Bayesian analysis of parity-violating correlations, $EB$ and $TB$, of polarization data from the Atacama Cosmology Telescope (ACT) Data Release 6. We use prior probabilities for instrumental miscalibration angles derived from the optics model for the ACT telescope and instruments, and marginalize over a residual intensity-to-polarization leakage. We measure $β= 0.215^\\circ\\pm 0.074^\\circ$ (68\\% confidence level), which excludes $β=0$ with a statistical significance of $2.9σ$. Although there remain systematics in the ACT data that are not understood and do not allow us to draw strong cosmological conclusions, this result is consistent with previous independent results from the WMAP and Planck missions. It is suggestive that independent data sets and analyses using different methodologies have yielded the same sign and comparable magnitudes for $β$.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2025-09-17T02:59:36+00:00",
+      "updated": "2026-04-14T13:07:43+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.13654v2",
+      "html_url": "https://arxiv.org/html/2509.13654v2",
+      "entry_url": "http://arxiv.org/abs/2509.13654v2"
+    },
+    {
+      "arxiv_id": "2509.13690v2",
+      "base_id": "2509.13690",
+      "title": "Conditioning halos on the tidal environment for fast and accurate HI power spectra during reionization",
+      "authors": [
+        "Gaurav Pundir",
+        "Tirthankar Roy Choudhury",
+        "Aseem Paranjape"
+      ],
+      "abstract": "Predicting the statistical properties of the neutral hydrogen (HI) density field during reionization is an important step in using upcoming 21 cm observations to constrain models of reionization. Semi-numerical models of reionization are often coupled with the collapse fraction field $f_{\\text{coll}}(\\mathbf{x})$, which determines the fraction of dark matter within halos. In this work, we improve upon earlier prescriptions that compute $f_{\\text{coll}}$ based on the dark matter overdensity $δ(\\mathbf{x})$ alone, to include more information about the environment in the form of eigenvalues of the tidal tensor. We compute the mean of the $f_{\\text{coll}}$ conditioned on these eigenvalues from a set of high-resolution, small-volume simulations and use them to sample the $f_{\\text{coll}}$ field of a low-resolution, large-volume simulation. We subsequently use a semi-numerical code for reionization to compute the HI density field and its power spectrum, and benchmark our results against a reference high-resolution, large-volume simulation. Across variations in redshift, ionized fraction, grid resolution, and minimum halo mass, our method recovers the large-scale HI power spectrum with errors at the $\\lesssim 2\\%-5\\%$ level for $k \\lesssim 0.5~ h~ \\text{Mpc}^{-1}$, providing a substantial improvement over the $\\sim 10\\%$ results previously obtained using density-only conditioning. Overall, this makes our method a simple yet efficient tool for forward modeling HI maps during reionization.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2025-09-17T04:37:21+00:00",
+      "updated": "2026-04-21T01:45:01+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.13690v2",
+      "html_url": "https://arxiv.org/html/2509.13690v2",
+      "entry_url": "http://arxiv.org/abs/2509.13690v2"
+    },
+    {
+      "arxiv_id": "2509.14323v3",
+      "base_id": "2509.14323",
+      "title": "High-Quality Axion Dark Matter at Gravitational Wave Interferometers",
+      "authors": [
+        "Disha Bandyopadhyay",
+        "Debasish Borah",
+        "Nayan Das",
+        "Rome Samanta"
+      ],
+      "abstract": "Gravitational effects are known to violate global symmetries, threatening the Peccei-Quinn (PQ) solution to the strong CP problem. Ultraviolet completions featuring a gauged $U(1)$ symmetry, where $U(1)_{\\rm PQ}$ arises as an accidental global symmetry, can suppress Planck-suppressed operators, enabling high-quality axions in a mass window where it can also account for the observed dark matter (DM) in the Universe. We show that in such models, the spontaneous breaking of the $U(1)$ gauge symmetry generates a strong stochastic gravitational wave background (SGWB) from gauge cosmic string loops. Even in the most conservative scenario, for breaking scales $\\gtrsim 10^{14}$ GeV, the SGWB signal strength can exceed astrophysical foregrounds across a broad frequency range. Such quality axion models have a characteristic IR break frequency originating from the dynamics of the string-wall network collapse. We propose this characteristic SGWB frequency-amplitude region, identified as \\textit{Signature-Window-Axion-Gravitational waves} (SWAG), to be a novel probe of high-quality axion DM at future space and ground-based interferometers.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "published": "2025-09-17T18:00:11+00:00",
+      "updated": "2026-04-27T15:28:30+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.14323v3",
+      "html_url": "https://arxiv.org/html/2509.14323v3",
+      "entry_url": "http://arxiv.org/abs/2509.14323v3"
+    },
+    {
+      "arxiv_id": "2509.14322v2",
+      "base_id": "2509.14322",
+      "title": "Probing the limits of cosmological information from the Lyman-$α$ forest 2-point correlation functions",
+      "authors": [
+        "Wynne Turner",
+        "Andrei Cuceu",
+        "Paul Martini",
+        "J. Aguilar",
+        "S. Ahlen",
+        "A. Anand",
+        "D. Bianchi",
+        "D. Brooks",
+        "L. Casas",
+        "T. Claybaugh",
+        "A. de la Macorra",
+        "B. Dey",
+        "P. Doel",
+        "S. Ferraro",
+        "A. Font-Ribera",
+        "J. E. Forero-Romero",
+        "E. Gaztañaga",
+        "S. Gontcho A Gontcho",
+        "G. Gutierrez",
+        "H. K. Herrera-Alcantar",
+        "K. Honscheid",
+        "M. Ishak",
+        "R. Joyce",
+        "R. Kehoe",
+        "D. Kirkby",
+        "A. Kremin",
+        "O. Lahav",
+        "M. Landriau",
+        "L. Le Guillou",
+        "M. Manera",
+        "R. Miquel",
+        "A. Muñoz-Gutiérrez",
+        "S. Nadathur",
+        "G. Niz",
+        "N. Palanque-Delabrouille",
+        "W. J. Percival",
+        "C. Poppett",
+        "F. Prada",
+        "A. J. Ross",
+        "G. Rossi",
+        "E. Sanchez",
+        "D. Schlegel",
+        "M. Schubnell",
+        "H. Seo",
+        "J. Silber",
+        "D. Sprayberry",
+        "G. Tarlé",
+        "M. Walther",
+        "B. A. Weaver",
+        "R. Zhou",
+        "H. Zou"
+      ],
+      "abstract": "The standard cosmological analysis with the Ly$α$ forest relies on a continuum fitting procedure that suppresses information on large scales and distorts the three-dimensional correlation function on all scales. In this work, we present the first cosmological forecasts without continuum fitting distortion in the Ly$α$ forest, focusing on the recovery of large-scale information. Using idealized synthetic data, we compare the constraining power of the full shape of the Ly$α$ forest auto-correlation and its cross-correlation with quasars using the baseline continuum fitting analysis versus the true continuum. We find that knowledge of the true continuum enables a $\\sim10\\%$ reduction in uncertainties on the Alcock-Paczyński (AP) parameter and the matter density, $Ω_\\mathrm{m}$. We also explore the impact of large-scale information by extending the analysis up to separations of $240\\,h^{-1}\\mathrm{Mpc}$ along and across the line of sight. The combination of these analysis choices can recover significant large-scale information, yielding up to a $\\sim15\\%$ improvement in AP constraints. This improvement is analogous to extending the Ly$α$ forest survey area by $\\sim40\\%$.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2025-09-17T18:00:11+00:00",
+      "updated": "2026-05-04T19:03:34+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.14322v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2509.14322v2"
+    },
+    {
+      "arxiv_id": "2509.14215v2",
+      "base_id": "2509.14215",
+      "title": "Non-associative structures in extended geometry",
+      "authors": [
+        "Martin Cederwall",
+        "Jakob Palmkvist"
+      ],
+      "abstract": "We consider a generalisation of vector fields on a vector space, where the vector space is generalised to a highest-weight module over a Kac-Moody algebra. The generalised vector field is an element in a non-associative superalgebra defined by the module and the Kac-Moody algebra. Also the Lie derivative of a vector field parameterised by another is generalised and expressed in a simple way in terms of this superalgebra. It reproduces the generalised Lie derivative in the general framework of extended geometry, which in special cases reduces to the one in exceptional field theory, unifying diffeomorphisms with gauge transformations in supergravity theories.",
+      "categories": [
+        "hep-th",
+        "math-ph",
+        "math.RA",
+        "math.RT"
+      ],
+      "published": "2025-09-17T17:46:49+00:00",
+      "updated": "2026-05-04T13:38:22+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.14215v2",
+      "html_url": "https://arxiv.org/html/2509.14215v2",
+      "entry_url": "http://arxiv.org/abs/2509.14215v2"
+    }
+  ],
+  "total": 5
+}

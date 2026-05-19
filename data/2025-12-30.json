@@ -1,0 +1,144 @@
+{
+  "date": "2025-12-30",
+  "papers": [
+    {
+      "arxiv_id": "2512.24267v2",
+      "base_id": "2512.24267",
+      "title": "From $\\mathrm{AdS}_5$ to $\\mathrm{AdS}_3$: TsT deformations, Magnetic fields and Holographic RG Flows",
+      "authors": [
+        "Lucas S. Sousa"
+      ],
+      "abstract": "It was previously shown that a D7 brane probe in a D3 brane background with a pure gauge constant magnetic field $\\mathrm{B} = \\mathrm{H}$ exhibits chiral symmetry breaking and a discrete meson spectrum with Zeeman splitting. In this work, we investigate how these features are modified by a TsT deformation of the background, which renders the Kalb Ramond field physical and radially dependent, thereby obscuring its interpretation as a constant magnetic field.   We show that chiral symmetry breaking persists in the deformed model. The meson spectrum, however, depends on the fluctuation sector. Fluctuations perpendicular to the magnetic field are sensitive to the deformation and, for generic values of the TsT parameter $\\mathrm{k}$, do not admit a consistent spectrum due to divergent behavior near the horizon, whereas fluctuations parallel to the magnetic field remain unaffected.   Remarkably, the combined effect of the magnetic field and the TsT deformation singles out the special value $\\mathrm{k} = -\\frac{1}{\\mathrm{H}}$. At this point, the perpendicular modes are restored. Moreover, the Kalb Ramond field becomes constant again, recovering its interpretation as a magnetic field. The resulting effects on the spectrum appear only at order $O(H^2)$, and therefore the Zeeman splitting, if present at all, is shifted to this higher order.   Furthermore, the resulting background with $\\mathrm{k} = - \\frac{1}{\\mathrm{H}}$ is interesting in its own right, even without embedding any brane. The spacetime admits an interpretation in terms of D1 branes and exhibits a degenerate boundary geometry, asymptotically $\\mathrm{AdS}_3 \\times S^5$, with a degenerate horizon. We present a first discussion of the dual field theory interpretation, making connections to D1 and D5 systems, renormalization group flow, defect field theories, and domain wall holography.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2025-12-30T14:43:36+00:00",
+      "updated": "2026-04-23T20:29:04+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.24267v2",
+      "html_url": "https://arxiv.org/html/2512.24267v2",
+      "entry_url": "http://arxiv.org/abs/2512.24267v2"
+    },
+    {
+      "arxiv_id": "2512.23962v6",
+      "base_id": "2512.23962",
+      "title": "Lectures on insulating and conducting quantum spin liquids",
+      "authors": [
+        "Subir Sachdev"
+      ],
+      "abstract": "Two of the iconic phases of the hole-doped cuprate materials are the intermediate temperature pseudogap metal and the lower temperature $d$-wave superconductor. Following the suggestion of P. W. Anderson, there were early theories of these phases as doped quantum spin liquids. However, these theories have had difficulties with two prominent observations:   (i) angle-dependent magnetoresistance measurements (ADMR) in the pseudogap metal, including observation of the Yamaji effect, present convincing evidence of small hole pockets which can tunnel coherently between square lattice layers (Fang et al., Nature Physics 18, 558 (2022); Chan et al., Nature Physics 21, 1753 (2025)) and   (ii) the velocities of the nodal Bogoliubov quasiparticles in the $d$-wave superconductor are highly anisotropic, with $v_F \\gg v_Δ$ (Chiao et al., Phys. Rev. B 62, 3554 (2000)).   These notes review how the fractionalized Fermi Liquid (FL*) state, which dopes quantum spin liquids with gauge-neutral electron-like quasiparticles, resolves both difficulties. Theories of insulating quantum spin liquids employing fractionalization of the electron spin into bosonic or fermionic partons are discussed. Doping the bosonic parton theory leads to a holon metal theory: while not appropriate for the cuprate pseudogap, this theory is argued to apply to ultracold atom experiments on the Lieb lattice. Doping the fermionic parton theory leads to a $d$-wave superconductor with nearly isotropic quasiparticle velocities. The construction of the FL* state in a single band Hubbard-type model is described using a quantum dimer model, followed by a more realistic description using the Ancilla Layer Model (ALM), which is then used to obtain the theory of the pseudogap and the $d$-wave superconductor. The ALM also leads to a wavefunction for the FL* state of the Hubbard model, which agrees with ultracold atom observations.",
+      "categories": [
+        "cond-mat.str-el",
+        "cond-mat.quant-gas",
+        "cond-mat.supr-con",
+        "hep-th"
+      ],
+      "published": "2025-12-30T03:26:34+00:00",
+      "updated": "2026-04-29T18:22:33+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.23962v6",
+      "html_url": "https://arxiv.org/html/2512.23962v6",
+      "entry_url": "http://arxiv.org/abs/2512.23962v6"
+    },
+    {
+      "arxiv_id": "2512.24403v2",
+      "base_id": "2512.24403",
+      "title": "CoLoRFulNNLO for hadron collisions: integrating the iterated single unresolved subtraction terms",
+      "authors": [
+        "L. Fekésházy",
+        "G. Somogyi",
+        "S. Van Thurenhout"
+      ],
+      "abstract": "We present the analytic integration of the iterated single-unresolved subtraction terms in the extension of the CoLoRFulNNLO subtraction scheme to color-singlet production in hadron collisions. We exploit the fact that, in this scheme, subtraction terms are defined through momentum mappings which lead to exact phase space convolutions for real emissions. This allows us to write the integrated subtraction terms as parametric integrals, which can be evaluated using standard tools. Finally, we show that the integrated iterated single-unresolved approximate cross section can be written as a convolution of the Born cross section with an appropriately defined insertion operator.",
+      "categories": [
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2025-12-30T18:36:34+00:00",
+      "updated": "2026-05-07T07:30:06+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.24403v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2512.24403v2"
+    },
+    {
+      "arxiv_id": "2512.24121v2",
+      "base_id": "2512.24121",
+      "title": "High order numerical discretizations of the Einstein-Euler equations in the Generalized Harmonic formulation",
+      "authors": [
+        "Stefano Muzzolon",
+        "Michael Dumbser",
+        "Olindo Zanotti",
+        "Elena Gaburro"
+      ],
+      "abstract": "We propose two new alternative numerical schemes to solve the coupled Einstein-Euler equations in the Generalized Harmonic formulation. The first one is a finite difference (FD) Central Weighted Essentially Non-Oscillatory (CWENO) scheme on a traditional Cartesian mesh, while the second one is an ADER (Arbitrary high order Derivatives) discontinuous Galerkin (DG) scheme on 2D unstructured polygonal meshes. The latter, in particular, represents a preliminary step in view of a full 3D numerical relativity calculation on moving meshes. Both schemes are equipped with a well-balancing (WB) property, which allows to preserve the equilibrium of a priori known stationary solutions exactly at the discrete level. We validate our numerical approaches by successfully reproducing standard vacuum test cases, such as the robust stability, the linearized wave, and the gauge wave tests, as well as achieving long-term stable evolutions of stationary black holes, including Kerr black holes with extreme spin. Concerning the coupling with matter, modeled by the relativistic Euler equations, we perform some special relativistic Riemann problems, a classical test of spherical accretion onto a Schwarzschild black hole, as well as an evolution of a perturbed non-rotating neutron star, demonstrating the capability of our schemes to operate also on the full Einstein-Euler system. Altogether, these results provide a solid foundation for addressing more complex and challenging simulations of astrophysical sources through DG schemes on unstructured 3D meshes.",
+      "categories": [
+        "math.NA",
+        "gr-qc"
+      ],
+      "published": "2025-12-30T10:04:32+00:00",
+      "updated": "2026-05-11T09:54:10+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.24121v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2512.24121v2"
+    },
+    {
+      "arxiv_id": "2512.24079v2",
+      "base_id": "2512.24079",
+      "title": "Initial spin fluctuations as a probe of cluster spin structure in $^{16}\\mathrm{O}$ and $^{20}\\mathrm{Ne}$ nuclei",
+      "authors": [
+        "Xiang Fan",
+        "Jun-Qi Tao",
+        "Ze-Fang Jiang",
+        "Ben-Wei Zhang"
+      ],
+      "abstract": "We investigate the imprint of $α$ clustering on initial spin fluctuations in relativistic $^{16}\\mathrm{O}+{}^{16}\\mathrm{O}$ and $^{20}\\mathrm{Ne}+{}^{20}\\mathrm{Ne}$ collisions at $\\sqrt{s_{\\mathrm{NN}}}=5.36$~TeV. Utilizing \\textit{ab initio} configurations from Nuclear Lattice Effective Field Theory (NLEFT) and phenomenological $α$-cluster models within a Monte-Carlo Glauber framework, we compute the event-by-event variance of the initial net spin polarization. We find that the strong short-range spin--isospin correlations characteristic of $α$ clusters lead to a significant suppression of spin fluctuations compared to a spherical Woods--Saxon baseline with uncorrelated spins. By constructing a scaled fluctuation observable that accounts for trivial finite-size effects, we demonstrate that this suppression exhibits a non-monotonic centrality dependence sensitive to the detailed cluster geometry. Furthermore, we propose the ratio of scaled spin fluctuations between $^{20}\\mathrm{Ne}$ and $^{16}\\mathrm{O}$ systems as a robust probe. Our results predict distinct percent-level deviations from the baseline for clustered nuclei, suggesting that measurements of final-state $Λ$-hyperon spin correlations can provide novel constraints on the ground-state spin structure of light nuclei.",
+      "categories": [
+        "nucl-th",
+        "hep-ph"
+      ],
+      "published": "2025-12-30T08:41:39+00:00",
+      "updated": "2026-05-09T15:46:48+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.24079v2",
+      "html_url": "https://arxiv.org/html/2512.24079v2",
+      "entry_url": "http://arxiv.org/abs/2512.24079v2"
+    },
+    {
+      "arxiv_id": "2512.24370v2",
+      "base_id": "2512.24370",
+      "title": "$D^*π$ interaction from the lineshape of $D_1(2420)$ in $B$-decays",
+      "authors": [
+        "Pedro Brandão",
+        "Breno Agatão",
+        "Luciano M. Abreu",
+        "K. P. Khemchandani",
+        "A. Martínez Torres"
+      ],
+      "abstract": "We present a model calculation to reproduce the differential mass distribution for the $D^*π$ system in the reactions $B^- \\to D^{*+} π^- π^-$ and $B^{+}\\to D_s^+D^{*-}π^{+}$ analyzed by the LHCb Collaboration, which shows a dominant signal for $D_1(2420)$. %\\textbf{We} (The idea is to) We consider a model based on coupled channel meson-meson interactions that can describe the properties of $D_1(2420)$ in terms of the underlying dynamics, use it to determine the invariant mass distribution of the $D^*π$ system, and compare the results with the experimental data. We also determine the $D^*π$ scattering length, for which different values are available from different sources, leading to a controversy. To our knowledge, this is the first attempt to reproduce the mentioned data using model calculations. Our formalism relies on the hadronization of different mesons through a weak decay, allowing for the final-state (strong) interactions among the relevant constituents. We benefit from our previous work when obtaining the amplitudes corresponding to the strong interactions. We hope that our findings can be useful in further investigations of the properties of $D_1(2420)$.",
+      "categories": [
+        "hep-ph",
+        "nucl-th"
+      ],
+      "published": "2025-12-30T17:28:39+00:00",
+      "updated": "2026-05-13T14:57:34+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.24370v2",
+      "html_url": "https://arxiv.org/html/2512.24370v2",
+      "entry_url": "http://arxiv.org/abs/2512.24370v2"
+    },
+    {
+      "arxiv_id": "2512.24215v2",
+      "base_id": "2512.24215",
+      "title": "Neutrino Mass, Vacuum Stability and Higgs Inflation with Vector-Like Quarks and a Single Right-Handed Neutrino",
+      "authors": [
+        "Canan Karahan"
+      ],
+      "abstract": "We investigate a Standard Model extension containing $n$ degenerate down-type isosinglet vector-like quarks (VLQs) with masses $M_{\\mathcal D}$ and Yukawa couplings $y_{\\mathcal D}$, supplemented by a single right-handed neutrino (RHN), aiming to simultaneously address neutrino mass generation, electroweak vacuum stability, and Higgs inflation. The VLQs play the dominant role in stabilizing the Higgs potential through their impact on the renormalization-group evolution, while the RHN generates light neutrino masses via a Type-I seesaw mechanism and smooths the high-scale running of the Higgs quartic coupling in the inflationary regime. We perform a two-loop Standard Model renormalization-group equation analysis supplemented by the one-loop contributions of the VLQs and the RHN, with proper matching across their mass thresholds. Using these RG trajectories, we identify the regions in $(n,\\, y_{\\mathcal D},\\, M_{\\mathcal D})$ that stabilize the Higgs potential up to the Planck scale while satisfying experimental constraints. Employing the RG-improved Higgs potential in the metric formulation of non-minimal Higgs inflation, we compute the inflationary observables $n_s$ and $r$. The SM+$(n)$VLQ+RHN framework yields predictions consistent with the latest Planck-LB-BK18 and ACT-LB-BK18 data, while simultaneously ensuring electroweak vacuum stability and phenomenologically viable neutrino masses within well-defined regions of parameter space. For comparison, we also investigate the SM+$(n)$VLQ limit and present its vacuum stability and Higgs inflation predictions as a reference to quantify the stabilizing role of the VLQ sector.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-12-30T13:26:27+00:00",
+      "updated": "2026-05-12T20:22:50+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.24215v2",
+      "html_url": "https://arxiv.org/html/2512.24215v2",
+      "entry_url": "http://arxiv.org/abs/2512.24215v2"
+    }
+  ],
+  "total": 7
+}

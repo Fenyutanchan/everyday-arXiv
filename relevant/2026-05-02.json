@@ -1,0 +1,120 @@
+{
+  "date": "2026-05-02",
+  "total": 4,
+  "papers": [
+    {
+      "arxiv_id": "2511.13815v2",
+      "base_id": "2511.13815",
+      "title": "Stripped-Envelope Supernovae for QCD Axion Detection",
+      "authors": [
+        "Francisco R. Candón",
+        "Damiano F. G. Fiorillo",
+        "Ángel Gil Muyor",
+        "Hans-Thomas Janka",
+        "Georg G. Raffelt",
+        "Edoardo Vitagliano"
+      ],
+      "abstract": "QCD axions would be copiously produced in the proto-neutron star formed in a core-collapse supernova (SN). After escaping, they would convert into gamma rays in the Galactic magnetic field and, as recently shown, in that of the progenitor star itself. Here, we show that Type Ibc SNe -- whose progenitors have lost their hydrogen or even helium envelopes -- are the optimal targets for this search. The stripped progenitors are much more compact, and they show larger magnetic fields than both red and blue supergiants, the progenitors of Type IIP/L SNe. If the next galactic SN is of Type Ibc, Fermi-LAT or a similar gamma-ray satellite might be able to discover the QCD axion down to masses as small as $m_a\\simeq 10^{-4}\\,\\rm eV$ (Peccei-Quinn scale $f_a\\simeq 10^{11} \\,\\rm GeV$).",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "astro-ph.HE"
+      ],
+      "published": "2025-11-17T19:00:00+00:00",
+      "updated": "2026-05-02T11:07:26+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.13815v2",
+      "html_url": "https://arxiv.org/html/2511.13815v2",
+      "entry_url": "http://arxiv.org/abs/2511.13815v2",
+      "relevance": {
+        "relevant": true,
+        "score": 9,
+        "reason": "This paper is highly relevant to the user's core interest in axion production in astrophysical environments and axion detection strategies, specifically studying QCD axion production in supernova cores via nucleon bremsstrahlung and subsequent axion-photon conversion in progenitor magnetic fields detectable by gamma-ray satellites.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.01318v1",
+      "base_id": "2605.01318",
+      "title": "Gravitational waves from CP domain wall collapse and electron EDM in a complex singlet model with dimension-five Yukawa interactions",
+      "authors": [
+        "Hieu The Pham",
+        "Eibun Senaha"
+      ],
+      "abstract": "We study the interplay between gravitational waves (GWs) from domain wall collapse and the electron electric dipole moment (EDM) in a complex singlet extension of the standard model with dimension-five Yukawa interactions. In this framework, the scalar potential admits CP-related degenerate vacua, leading to the formation of CP domain walls. While the resulting GW signal provides a probe of the vacuum structure of the singlet scalar sector, it does not by itself constitute a CP-violating observable. Once the singlet scalar is coupled to standard model fermions, CP-violating phases become observable through EDMs. We analyze whether current and future EDM experiments can probe the parameter region where the GW signal is detectable by SKA and THEIA. We find that the current electron EDM bound already constrains part of the parameter space, while future sensitivities at the level of $10^{-31}$--$10^{-32}\\,e\\,\\mathrm{cm}$ can probe regions overlapping with the GW-detectable domain. Our results highlight the complementarity between GW and EDM observables in probing the singlet scalar sector, providing a coherent picture of its vacuum structure and CP properties.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-05-02T08:28:13+00:00",
+      "updated": "2026-05-02T08:28:13+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.01318v1",
+      "html_url": "https://arxiv.org/html/2605.01318v1",
+      "entry_url": "http://arxiv.org/abs/2605.01318v1",
+      "relevance": {
+        "relevant": true,
+        "score": 5,
+        "reason": "The paper addresses stochastic gravitational-wave backgrounds from early-universe domain wall collapse, which partially overlaps with the researcher's interest in pre-thermalization gravitational waves and stochastic GW backgrounds, but the specific focus on CP domain walls in a complex singlet model coupled to EDM phenomenology is not a central match to the researcher's core topics of reheating dynamics, PBHs, neutrino physics, or multi-loop QCD.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2502.12253v2",
+      "base_id": "2502.12253",
+      "title": "A Precise Determination of $α_s$ from the Heavy Jet Mass Distribution",
+      "authors": [
+        "Miguel A. Benitez",
+        "Arindam Bhattacharya",
+        "Andre H. Hoang",
+        "Vicent Mateu",
+        "Matthew D. Schwartz",
+        "Iain W. Stewart",
+        "Xiaoyuan Zhang"
+      ],
+      "abstract": "A global fit for $α_s(m_Z)$ is performed on available $e^+e^-$ data for the heavy jet mass distribution. The state-of-the-art theory prediction includes $\\mathcal{O}(α_s^3)$ fixed-order results, N$^3$LL$^\\prime$ dijet resummation, N$^2$LL Sudakov shoulder resummation, and a first-principles treatment of power corrections in the dijet region. Theoretical correlations are incorporated through a flat random-scan covariance matrix. The global fit results in $0.1148^{+ 0.0015}_{-0.0022}$, compatible with similar determinations from thrust and $C$-parameter. Dijet resummation is essential for a robust fit, as it engenders insensitivity to the fit-range lower cutoff; without resummation the fit-range sensitivity is overwhelming. In addition, we find evidence for a negative power correction in the trijet region if and only if Sudakov shoulder resummation is included.",
+      "categories": [
+        "hep-ph",
+        "hep-ex",
+        "nucl-ex",
+        "nucl-th"
+      ],
+      "published": "2025-02-17T19:00:13+00:00",
+      "updated": "2026-05-02T10:15:38+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2502.12253v2",
+      "html_url": "https://arxiv.org/html/2502.12253v2",
+      "entry_url": "http://arxiv.org/abs/2502.12253v2",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "The paper involves N³LO QCD corrections and precision perturbative QCD, which overlaps with the user's multi-loop QCD interest, but focuses on phenomenological αs extraction from event shapes with resummation rather than the user's core focus on computing multi-loop integrals, harmonic polylogarithms, and differential equation methods.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2512.18382v2",
+      "base_id": "2512.18382",
+      "title": "Lepton anomalous magnetic moments: Theory",
+      "authors": [
+        "Hartmut Wittig"
+      ],
+      "abstract": "The anomalous magnetic moment of a lepton encodes the fraction of the lepton's interaction strength with an external magnetic field, which is generated by quantum corrections. Lepton anomalous magnetic moments are sensitive probes of fundamental interactions and play a pivotal role in the quest for \"new physics\" that may be able to explain the shortcomings of the Standard Model. This chapter introduces the basic concepts and describes the calculation of the individual contributions arising from electromagnetism, the strong and the weak interactions.",
+      "categories": [
+        "hep-ph",
+        "hep-lat"
+      ],
+      "published": "2025-12-20T14:46:51+00:00",
+      "updated": "2026-05-02T20:55:37+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.18382v2",
+      "html_url": "https://arxiv.org/html/2512.18382v2",
+      "entry_url": "http://arxiv.org/abs/2512.18382v2",
+      "relevance": {
+        "relevant": true,
+        "score": 3,
+        "reason": "While the paper involves multi-loop perturbative calculations and precision electroweak physics that marginally overlap with the researcher's interests in multi-loop QCD and electroweak precision calculations, the specific topic of lepton anomalous magnetic moments is quite distant from the researcher's core focus areas of early-universe cosmology, neutrino physics, PBHs, and axion/dark matter physics.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2025-08-24",
+  "papers": [
+    {
+      "arxiv_id": "2508.17543v3",
+      "base_id": "2508.17543",
+      "title": "Validity of relativistic hydrodynamics beyond local equilibrium",
+      "authors": [
+        "Reghukrishnan Gangadharan"
+      ],
+      "abstract": "We examine the applicability of relativistic hydrodynamics far from equilibrium by constructing formal solutions of the Boltzmann moment equations in the relaxation time approximation. These solutions naturally decompose into a divergent gradient series and exponentially decaying non-perturbative modes that encode initial conditions. The non-perturbative contributions are essential for understanding causality, the divergence of the gradient series, and the unexpected effectiveness of relativistic hydrodynamics far from equilibrium.   In the 0+1D Bjorken scenario, we demonstrate that the exact evolution of non-equilibrium terms shares the same structural form as the gradient expansion, differing only through modified transport coefficients that reflect both initial data and free-streaming dynamics. Extending to 3+1D, we find that hydrodynamics remains effective not because the system is close to equilibrium, but because it interpolates smoothly between free streaming and collective behavior. This perspective offers a natural explanation for the remarkable success of hydrodynamics in modeling quark-gluon plasma evolution.",
+      "categories": [
+        "nucl-th",
+        "hep-th"
+      ],
+      "published": "2025-08-24T22:32:16+00:00",
+      "updated": "2026-04-28T06:39:40+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.17543v3",
+      "html_url": "https://arxiv.org/html/2508.17543v3",
+      "entry_url": "http://arxiv.org/abs/2508.17543v3"
+    }
+  ],
+  "total": 1
+}

@@ -1,0 +1,110 @@
+{
+  "date": "2025-11-14",
+  "papers": [
+    {
+      "arxiv_id": "2511.10986v2",
+      "base_id": "2511.10986",
+      "title": "Spin-averaged $B_c$ Spectrum in a Cornell-type Potential Using VMC Baseline and GFMC Evolution",
+      "authors": [
+        "Tarik Akan"
+      ],
+      "abstract": "In this work, the spin-averaged $B_c$ spectrum is computed in a naive Cornell framework, treating the meson as a nonrelativistic system in a spin-independent potential. The Cornell parameters are calibrated directly to the spin-averaged $B_c$ tower by anchoring the $1S$ centroid and scanning a grid in $(σ,κ)$, with the additive constant $V_0$ fixed at each point by the experimental ground state mass. The spectrum is obtained with a two stage Monte Carlo approach. Variational Monte Carlo (VMC) provides optimized radial trial states with the desired nodal pattern. Fixed node Green's function Monte Carlo (GFMC) then projects the corresponding ground state energies for each $(n,\\ell)$ channel. Controlled scans over the GFMC time step, projection time, walker population, and radial grid identify plateau regions where discretization and projection systematics are quantitatively under control. At a representative best point in the low-RMSE valley, the predicted spin-averaged masses agree with the experimental centroids at the level of a few tens of MeV, and the fitted Cornell parameters are consistent with canonical heavy quarkonium analyses.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-11-14T06:17:49+00:00",
+      "updated": "2026-04-15T07:24:10+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.10986v2",
+      "html_url": "https://arxiv.org/html/2511.10986v2",
+      "entry_url": "http://arxiv.org/abs/2511.10986v2"
+    },
+    {
+      "arxiv_id": "2511.11382v2",
+      "base_id": "2511.11382",
+      "title": "Self-gravitating baryonic tubes supported by $π$- and $ω$-mesons and its flat limit",
+      "authors": [
+        "Gonzalo Barriga",
+        "Carla Henríquez-Baez",
+        "Leonardo Sanhueza",
+        "Aldo Vera"
+      ],
+      "abstract": "In this paper, we construct self-gravitating topological solitons in the $SU(N)$ Einstein non-linear sigma model coupled to $ω$-vector mesons in four space-time dimensions. These solutions represent tube-like configurations free of curvature singularities, carrying a non-vanishing topological charge that is identified as the baryon number. We show that by employing the maximal embedding Ansatz of $SU(2)$ into $SU(N)$ in the exponential representation, these tubes can be constructed for an arbitrary number of flavors, $N$, with the topological charge scaling proportionally to this number. The flat-space limit of the solutions, corresponding to an array of baryonic tubes within a finite volume, is analyzed in detail. Remarkably, while the total energy of the solitons at a finite volume is an increasing function of $N$, the binding energy decreases as the number of flavors increases. This analysis reaffirms that the inclusion of more than two flavors to the model systematically improves the physical predictions.",
+      "categories": [
+        "hep-th",
+        "gr-qc",
+        "nucl-th"
+      ],
+      "published": "2025-11-14T15:04:36+00:00",
+      "updated": "2026-04-20T20:05:09+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.11382v2",
+      "html_url": "https://arxiv.org/html/2511.11382v2",
+      "entry_url": "http://arxiv.org/abs/2511.11382v2"
+    },
+    {
+      "arxiv_id": "2511.11537v2",
+      "base_id": "2511.11537",
+      "title": "Two-loop all-plus helicity amplitudes for self-dual Higgs boson with gluons via unitarity cut constraints",
+      "authors": [
+        "Simon Badger",
+        "Christian Biello",
+        "Colomba Brancaccio",
+        "Federico Ripani"
+      ],
+      "abstract": "We present the two-loop amplitudes for a self-dual Higgs boson with up to four positive helicity gluons in the heavy top-quark limit. Because the tree amplitudes in the all-plus sector vanish, we can construct simple representations of the polylogarithmic parts of the two-loop amplitudes using four-dimensional unitarity cuts into rational one-loop and tree amplitudes. The remaining rational function ambiguity is extracted from a tensor integral reduction over finite fields. The final expressions are presented using polylogarithms up to weight two and compact rational functions of spinor-helicity products.",
+      "categories": [
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2025-11-14T18:17:33+00:00",
+      "updated": "2026-05-14T14:29:48+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.11537v2",
+      "html_url": "https://arxiv.org/html/2511.11537v2",
+      "entry_url": "http://arxiv.org/abs/2511.11537v2"
+    },
+    {
+      "arxiv_id": "2511.11424v2",
+      "base_id": "2511.11424",
+      "title": "Double virtual QCD corrections to $t\\bar{t}+$jet production at the LHC",
+      "authors": [
+        "Simon Badger",
+        "Matteo Becchetti",
+        "Colomba Brancaccio",
+        "Michał Czakon",
+        "Heribertus Bayu Hartanto",
+        "Rene Poncelet",
+        "Simone Zoia"
+      ],
+      "abstract": "We present a leading colour computation of the double virtual contributions to top-quark pair production in association with a jet at a hadron collider at next-to-next-to-leading order in QCD. The finite remainders of the two-loop amplitudes, after subtraction of infrared and ultraviolet divergences, are extracted analytically from evaluations over finite fields by using a (potentially) overcomplete basis of special functions defined through their differential equations. We construct the colour- and spin-summed interference with the tree-level amplitudes and present a \\texttt{C++} library suitable for immediate use in phenomenological studies. We present new techniques for the evaluation of the special functions through direct numerical integration of differential equations which perform well across the full physical phase space.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-11-14T15:52:56+00:00",
+      "updated": "2026-05-14T13:51:26+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.11424v2",
+      "html_url": "https://arxiv.org/html/2511.11424v2",
+      "entry_url": "http://arxiv.org/abs/2511.11424v2"
+    },
+    {
+      "arxiv_id": "2511.11343v2",
+      "base_id": "2511.11343",
+      "title": "Global symmetries: locality, unitarity, and regularity",
+      "authors": [
+        "Ibrahima Bah",
+        "Shlomo S. Razamat",
+        "Michal Shemesh",
+        "Hannah Tillim"
+      ],
+      "abstract": "We study the apparent tension between locality and unitarity for symmetries in quantum field theory. This emerges in the context of categorical symmetries where symmetry operators are generically non-invertible. We argue that locality imposes particular regularities in the action of symmetries on the Hilbert space. This allows us to introduce an observable that can measure the properties of the non-locality for symmetry operators. We study it for a class of examples and demonstrate that this observable can encode data associated to the fusion algebra of symmetries.",
+      "categories": [
+        "hep-th",
+        "cond-mat.str-el"
+      ],
+      "published": "2025-11-14T14:31:18+00:00",
+      "updated": "2026-05-14T19:45:53+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.11343v2",
+      "html_url": "https://arxiv.org/html/2511.11343v2",
+      "entry_url": "http://arxiv.org/abs/2511.11343v2"
+    }
+  ],
+  "total": 5
+}

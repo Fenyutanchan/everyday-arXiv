@@ -1,0 +1,110 @@
+{
+  "date": "2025-11-28",
+  "papers": [
+    {
+      "arxiv_id": "2512.00145v3",
+      "base_id": "2512.00145",
+      "title": "Role of prompt cusps in driving the core collapse of SIDM halos",
+      "authors": [
+        "Vinh Tran",
+        "Daniel Gilman",
+        "M. Sten Delos",
+        "Xuejian Shen",
+        "Oliver Zier",
+        "Mark Vogelsberger",
+        "David Xu"
+      ],
+      "abstract": "Prompt cusps (PCs) form from the direct collapse of overdensities in the early Universe, reside at the center of every dark matter halo, and have density profiles steeper than $r^{-1}$ NFW cusps. Using a suite of high-resolution N-body simulations, we study the evolution of isolated halos in self-interacting dark matter (SIDM) with massive PCs embedded at their centers, a scenario that could be realized in certain SIDM models with light mediators that predict a small-scale suppression of the linear matter power spectrum. We track the evolution of three equally concentrated $10^7\\,{\\rm{M}}_\\odot$ halos, hosting PCs of various total masses, and quantify how the presence of a PC affects the processes of core formation and collapse. Early in the core-formation phase, halos with more prominent PCs exhibit a delayed evolution by a factor of $\\sim 2$ due to smaller velocity dispersion gradients in the inner region. During most of the core-collapse phase, the halo evolution becomes closely aligned in physical time, with appropriate rescaling of densities, radii, and velocity dispersions. The scale densities and radii preserve the virial mass of the original halos, but with increased concentration. Deviations occur at the late phase of core-collapse at the level of $\\sim 5\\%$ relative to the reference collapse track of an NFW halo. These deviations depend non-trivially on both the increased concentration incurred by the PCs, as well as the velocity dispersion (temperature) of the outer halo regions, which can inhibit or enhance the heat transfer process. Our simulations illustrate the complex interplay between the inner and outer halo profiles in determining the onset of core collapse and motivate future studies in the full cosmological context.",
+      "categories": [
+        "astro-ph.GA",
+        "astro-ph.CO"
+      ],
+      "published": "2025-11-28T19:00:00+00:00",
+      "updated": "2026-04-22T15:48:08+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.00145v3",
+      "html_url": "https://arxiv.org/html/2512.00145v3",
+      "entry_url": "http://arxiv.org/abs/2512.00145v3"
+    },
+    {
+      "arxiv_id": "2511.23410v2",
+      "base_id": "2511.23410",
+      "title": "The Art of Counting: a reappraisal of the HEFT expansion",
+      "authors": [
+        "Ilaria Brivio",
+        "Ramona Gröber",
+        "Konstantin Schmid"
+      ],
+      "abstract": "We revisit the power counting of the Higgs Effective Field Theory (HEFT) from first principles, by requiring that predictions for physical observables follow a series expansion in small, dimensionless quantities. Depending on whether HEFT is formulated in terms of a unique low-energy scale $v$ or in terms of two scales $v<f$, this approach identifies two viable power counting rules that can accommodate any operator normalization choice. We provide quantitative prescriptions for the consistent truncation of HEFT operators, amplitudes and observable contributions and we illustrate our arguments with a number of examples.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-11-28T18:04:40+00:00",
+      "updated": "2026-04-29T09:34:34+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.23410v2",
+      "html_url": "https://arxiv.org/html/2511.23410v2",
+      "entry_url": "http://arxiv.org/abs/2511.23410v2"
+    },
+    {
+      "arxiv_id": "2511.23411v2",
+      "base_id": "2511.23411",
+      "title": "Higgs pair production in gluon fusion to higher orders in Higgs Effective Field Theory",
+      "authors": [
+        "Ilaria Brivio",
+        "Ramona Gröber",
+        "Konstantin Schmid"
+      ],
+      "abstract": "Higgs pair production offers the opportunity to probe correlations among the couplings of one or two Higgs bosons to fermions and gauge bosons. In this context, it serves as a powerful test of the underlying Effective Field Theory (EFT) framework. In particular, while such couplings remain correlated in the Standard Model Effective Field Theory (SMEFT) at dimension six, they can become fully de-correlated in Higgs Effective Field Theory (HEFT) already at leading order in the EFT expansion. In this work, we study Higgs pair production via gluon fusion within the HEFT framework. We demonstrate that adopting a consistent power counting in combination with next-to-leading order (NLO) diagrams necessitates the inclusion of higher-dimensional operators beyond the leading ones. We analyze their phenomenological impact and re-assess critically the kinematic benchmark scenarios commonly used in experimental non-resonant di-Higgs searches in light of these additional contributions.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-11-28T18:04:45+00:00",
+      "updated": "2026-05-08T15:44:36+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.23411v2",
+      "html_url": "https://arxiv.org/html/2511.23411v2",
+      "entry_url": "http://arxiv.org/abs/2511.23411v2"
+    },
+    {
+      "arxiv_id": "2511.22851v2",
+      "base_id": "2511.22851",
+      "title": "The Shear-to-Cosmology Paradigm I. Hybrid Field-Level and Simulation-Based Framework for Weak Lensing Surveys",
+      "authors": [
+        "Jiacheng Ding",
+        "Chen Su",
+        "Ji Yao",
+        "Le Zhang",
+        "Huanyuan Shan"
+      ],
+      "abstract": "Precise cosmological inference from next-generation weak lensing surveys requires extracting non-Gaussian information beyond standard two-point statistics. We present a hybrid machine-learning (ML) framework that integrates field-level inference (FLI) with simulation-based inference (SBI) to map observed shear fields directly to cosmological parameters, eliminating the need for convergence reconstruction. The FLI network extracts rich non-Gaussian information from the shear field to produce informative features, which are then used by SBI to model the resulting complex posteriors. To mitigate noise from intrinsic galaxy shapes, we develop a blind, training-free, PCA-based shear denoising method. Tests on CSST-like mock catalogs reveal significant performance gains. The shear-based inference achieves approximately twice the cosmological constraining power in Figure of Merit (FoM) compared to the conventional convergence-based approach. Moreover, the combination of PCA denoising and ML compression can deliver a 36.4% improvement in FoM over standard shear two-point statistics. This work establishes a scalable and robust pathway for cosmological inference, unlocking the full potential of Stage-IV weak-lensing surveys.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2025-11-28T03:09:48+00:00",
+      "updated": "2026-05-18T00:07:49+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.22851v2",
+      "html_url": "https://arxiv.org/html/2511.22851v2",
+      "entry_url": "http://arxiv.org/abs/2511.22851v2"
+    },
+    {
+      "arxiv_id": "2511.23076v2",
+      "base_id": "2511.23076",
+      "title": "Scalar field effective potentials in de Sitter spacetime",
+      "authors": [
+        "Lucas Vicente García-Consuegra",
+        "Arttu Rajantie"
+      ],
+      "abstract": "We investigate two different definitions of a scalar field effective potential in quantum field theory in de Sitter spacetime: the standard textbook definition, and the constraint effective potential proposed by O'Raifeartaigh et al. in 1986. While these definitions are equivalent in Minkowski spacetime, they differ significantly in de Sitter. We demonstrate this by computing them both explicitly at one-loop order in perturbation theory. It is well known that the perturbative expansion of the standard effective potential fails converge for light fields. In contrast, the constraint effective potential does not suffer from this infrared problem, and it can therefore be computed using perturbation theory. We discuss the physical interpretation of the two effective potentials. In particular, we provide evidence supporting an earlier conjecture that the constraint effective potential is the correct one to use in the stochastic Starobinsky-Yokoyama theory.",
+      "categories": [
+        "hep-th",
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "published": "2025-11-28T11:04:44+00:00",
+      "updated": "2026-05-15T13:55:33+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.23076v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2511.23076v2"
+    }
+  ],
+  "total": 5
+}

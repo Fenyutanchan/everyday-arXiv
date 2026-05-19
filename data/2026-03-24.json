@@ -1,0 +1,187 @@
+{
+  "date": "2026-03-24",
+  "papers": [
+    {
+      "arxiv_id": "2603.23656v2",
+      "base_id": "2603.23656",
+      "title": "Information-Geometric Quantum Process Tomography of Single Qubit Systems",
+      "authors": [
+        "T. Koide",
+        "A. van de Venn"
+      ],
+      "abstract": "We establish an exact information-geometric inequality that remains valid regardless of the underlying dynamics, encompassing both Markovian and non-Markovian evolutions within the mixed-state domain. This inequality can be viewed as an extension of thermodynamic speed limits, which are typically formulated as inequalities. For single qubits, we show that this inequality saturates into a strict equality because the density matrix belongs to the quantum exponential family with the Pauli matrices serving as sufficient statistics. From a practical perspective, this identity enables a non-iterative linear regression approach to continuous-time quantum process tomography, bypassing the local minima issues common in non-linear optimization. We demonstrate the efficiency of this method by estimating the Hamiltonian and dissipation parameters of the Gorini-Kossakowski-Sudarshan-Lindblad (GKSL) master equation. Numerical simulations confirm the validity of this geometric estimator and highlight the necessity of error mitigation near the pure-state boundary where the inverse metric becomes singular.",
+      "categories": [
+        "quant-ph",
+        "cond-mat.stat-mech",
+        "hep-th",
+        "nucl-th"
+      ],
+      "published": "2026-03-24T18:59:59+00:00",
+      "updated": "2026-04-23T17:45:00+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.23656v2",
+      "html_url": "https://arxiv.org/html/2603.23656v2",
+      "entry_url": "http://arxiv.org/abs/2603.23656v2"
+    },
+    {
+      "arxiv_id": "2603.23687v2",
+      "base_id": "2603.23687",
+      "title": "Review of strongly coupled regimes in gravity with Dyson-Schwinger approach",
+      "authors": [
+        "Marco Frasca",
+        "Anish Ghoshal"
+      ],
+      "abstract": "We analyze various gravity theories involving de-Sitter, quadratic $\\mathcal{R}^2$ and non-minimally coupled scalar in the light of application of the Dyson-Schwinger technique involving exact background solution of the Green's function. We denote specific set of solutions for the metric to move towards a quantum analysis of the theory. This kind of solutions is identified as conformally flat metric. Such a conclusion naturally arises in the use of the Dyson-Schwinger equations in the study of the Yang-Mills theory through the mapping theorem. We show a sequence of cosmological phase transitions starting from the breaking of such conformal invariance that can be hindered by the presence of the non-minimal coupling.",
+      "categories": [
+        "gr-qc",
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2026-03-24T19:51:50+00:00",
+      "updated": "2026-04-27T10:11:11+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.23687v2",
+      "html_url": "https://arxiv.org/html/2603.23687v2",
+      "entry_url": "http://arxiv.org/abs/2603.23687v2"
+    },
+    {
+      "arxiv_id": "2603.23332v2",
+      "base_id": "2603.23332",
+      "title": "Quantum gravity and matter fields in a general background gauge",
+      "authors": [
+        "J. Frenkel",
+        "S. Martins-Filho"
+      ],
+      "abstract": "We analyse the gauge-dependence of the effective action in an interacting quantum theory of gravitational and matter fields. An explicit off-shell result is obtained in a general background gauge at one-loop order, which reduces in a particular gauge to the effective action found by 't Hooft-Veltman. We confirm the validity of DeWitt-Kallosh theorem, which implies that the on-shell effective action should be independent of the gauge-fixing parameter. We employ this theorem to expose the non-renormalizability of the theory in a general background gauge.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2026-03-24T15:33:19+00:00",
+      "updated": "2026-04-25T01:40:02+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.23332v2",
+      "html_url": "https://arxiv.org/html/2603.23332v2",
+      "entry_url": "http://arxiv.org/abs/2603.23332v2"
+    },
+    {
+      "arxiv_id": "2603.23634v2",
+      "base_id": "2603.23634",
+      "title": "Testing Dark Energy with Black Hole Ringdown",
+      "authors": [
+        "Laurens Smulders",
+        "Johannes Noller",
+        "Sergi Sirera"
+      ],
+      "abstract": "We show that dynamical dark energy theories can imprint $O(1)$ modifications on the quasi-normal mode (QNM) spectrum characterising black hole ringdown. The time dependence of dynamical dark energy naturally gives rise to cosmological 'hair' around a black hole. Taking the cubic Galileon as a concrete example, which admits the only known stable solution of this kind, we parametrically connect the cosmological and black hole regimes, derive the induced QNM shifts and forecast the resulting dark energy constraints. We find that the dark energy field profile can be constrained with an accuracy of up to $10^{-2}$ for LVK and $10^{-4}$ for LISA.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-th"
+      ],
+      "published": "2026-03-24T18:20:49+00:00",
+      "updated": "2026-04-29T08:42:54+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.23634v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2603.23634v2"
+    },
+    {
+      "arxiv_id": "2603.24623v2",
+      "base_id": "2603.24623",
+      "title": "Causal-Horizon Scaling of Quarkonium Suppression in Strong QCD Fields",
+      "authors": [
+        "Yi Yang"
+      ],
+      "abstract": "The simultaneous observation of strong sequential suppression and small azimuthal anisotropy for bottomonium states provides a stringent constraint on the time scale and geometry of the suppression mechanism. We propose an early-time geometric survival mechanism in which the strong pre-equilibrium color field induces a local proper acceleration and an associated Unruh causal scale. The survival probability is modeled by a WKB-motivated exponential controlled by the ratio of the quarkonium radius to the causal horizon. Combined with CGC-inspired centrality and energy scaling, the framework gives a compact description of the $Υ(1S, 2S, 3S)$ suppression pattern and predicts a definite RHIC/LHC energy dependence. Because the suppression acts as a local scalar factor before hydrodynamic response develops, it naturally produces little additional quarkonium momentum anisotropy.",
+      "categories": [
+        "hep-ph",
+        "hep-ex",
+        "nucl-ex",
+        "nucl-th"
+      ],
+      "published": "2026-03-24T23:07:41+00:00",
+      "updated": "2026-05-07T09:47:19+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.24623v2",
+      "html_url": "https://arxiv.org/html/2603.24623v2",
+      "entry_url": "http://arxiv.org/abs/2603.24623v2"
+    },
+    {
+      "arxiv_id": "2603.23108v2",
+      "base_id": "2603.23108",
+      "title": "Holography, Brick Wall and a Little Hierarchy Problem",
+      "authors": [
+        "Vishal Gayari",
+        "Chethan Krishnan",
+        "Pradipta S. Pathak"
+      ],
+      "abstract": "We propose a heuristic for the brick wall in AdS/CFT: the location where a boundary mode's local bulk energy reaches a (Planckian) UV cut-off. This accomplishes two things: (a) the brick wall is framed as a breakdown criterion for bulk effective field theory, and (b) the definition is boundary-anchored rather than horizon-anchored, aligning it with holography. Near the horizon, spacetime effectively gets cut-off due to blueshift relative to the boundary, and leads to normal modes. By directly computing these new modes for the BTZ black hole, we show that they are qualitatively unchanged from conventional 't Hooftian brick wall normal modes in the relevant part of the spectrum -- successfully reproducing black hole thermodynamics and exterior smooth-horizon correlators, under similar approximations. However, unlike 't Hooft's (and our own previous) calculations, we also do an $exact$ numerical evaluation of the normal mode partition function. This allows us to identify a \"little hierarchy\" problem in the brick wall paradigm, irrespective of whether it is horizon-anchored or boundary-anchored: because the modes are not exactly degenerate in the $J$-direction, the coefficient of the area law is slightly subleading, unless the brick wall is slightly trans-Planckian. One way to evade the problem is to increase the number of active species. While this is certainly a possibility in string theory, we argue that a natural resolution is to take into account the degrees of freedom intrinsic to the (stretched) horizon, as suggested by the recent results in arXiv:2601.18775. We argue that this will lead to a dominant contribution from a quantum number associated to the radial direction, while retaining the successes of the $J$-degenerate toy model. We discuss the possible significance of these observations for (a) quantum chaos in black holes, and (b) the fuzzball program.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2026-03-24T11:58:39+00:00",
+      "updated": "2026-05-12T17:24:01+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.23108v2",
+      "html_url": "https://arxiv.org/html/2603.23108v2",
+      "entry_url": "http://arxiv.org/abs/2603.23108v2"
+    },
+    {
+      "arxiv_id": "2603.23287v2",
+      "base_id": "2603.23287",
+      "title": "Five-flavor molecular pentaquarks in the $Ξ_b^{(\\prime,\\,*)} \\bar D^{(*)}$ and $Ξ_c^{(\\prime,\\,*)} B^{(*)}$ systems",
+      "authors": [
+        "Fu-Lai Wang",
+        "Xiang Liu"
+      ],
+      "abstract": "The discovery of hidden-charm pentaquarks and open-flavor tetraquarks motivates the search for even more exotic hadron configurations. In this work, we investigate genuinely exotic molecular pentaquark candidates comprising five different flavors, focusing on the $Ξ_b^{(\\prime,\\,*)} \\bar D^{(*)}$ and $Ξ_c^{(\\prime,\\,*)} B^{(*)}$ systems. Employing the one-boson-exchange model with the $S$-$D$ wave mixing and coupled-channel dynamics, we identify the most promising molecular pentaquark candidates comprising five different flavors. These include the $Ξ_b \\bar D$, $Ξ_b^{\\prime} \\bar D$, $Ξ_c B$, and $Ξ_c^{\\prime} B$ states with $I(J^P)=0(1/2^-)$, the $Ξ_b \\bar D^{*}$, $Ξ_b^{\\prime} \\bar D^{*}$, $Ξ_c B^{*}$, and $Ξ_c^{\\prime} B^{*}$ states with $I(J^P)=0(1/2^-,\\,3/2^-)$, the $Ξ_b^{*} \\bar D$ and $Ξ_c^{*} B$ states with $I(J^P)=0(3/2^-)$, as well as the $Ξ_b^{*} \\bar D^{*}$ and $Ξ_c^{*} B^{*}$ states with $I(J^P)=0(1/2^-,\\,3/2^-,\\,5/2^-)$. Importantly, these loosely bound states exhibit pronounced spin splittings across different total angular momentum configurations after incorporating the spin-dependent interactions or the channel couplings. In addition, we identify several possible isovector molecular pentaquark candidates within the $Ξ_b^{(\\prime,\\,*)} \\bar D^{(*)}$ and $Ξ_c^{(\\prime,\\,*)} B^{(*)}$ systems. Our predictions provide clear targets for experimental searches at facilities such as LHCb and Belle II, where the unique five-flavor quark configuration offers a distinctive experimental signature.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2026-03-24T14:51:44+00:00",
+      "updated": "2026-05-09T01:53:32+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.23287v2",
+      "html_url": "https://arxiv.org/html/2603.23287v2",
+      "entry_url": "http://arxiv.org/abs/2603.23287v2"
+    },
+    {
+      "arxiv_id": "2603.23665v2",
+      "base_id": "2603.23665",
+      "title": "New soliton solutions for Chen-Lee-Liu and Burgers hierarchies and its Bäcklund transformations",
+      "authors": [
+        "Y. F. Adans",
+        "H. Aratyn",
+        "C. P. Constantinidis",
+        "J. F. Gomes",
+        "G. V. Lobo",
+        "T. C. Santiago"
+      ],
+      "abstract": "Positive and negative flows of the Chen-Lee-Liu model and its various reductions, including Burgers hierarchy, are formulated within the framework of Riemann-Hilbert-Birkhoff decomposition with the constant grade two generator. Two classes of vacua, namely zero vacuum and constant non-zero vacuum can be realized within a centerless Heisenberg algebra. The tau functions for soliton solutions are obtained by a dressing method and vertex operators are constructed for both types of vacua. We are able to select and classify the soliton solutions in terms of the type of vertices involved. A judicious choice of vertices yields in a closed form a particular set of multi soliton solutions for the Burgers hierarchy. We develop and analyze a class of gauge-Bäcklund transformations that generate further multi soliton solutions from those obtained by dressing method by letting them interact with various integrable defects.",
+      "categories": [
+        "nlin.SI",
+        "hep-th",
+        "math-ph"
+      ],
+      "published": "2026-03-24T19:10:15+00:00",
+      "updated": "2026-05-14T13:51:45+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.23665v2",
+      "html_url": "https://arxiv.org/html/2603.23665v2",
+      "entry_url": "http://arxiv.org/abs/2603.23665v2"
+    },
+    {
+      "arxiv_id": "2603.22864v2",
+      "base_id": "2603.22864",
+      "title": "A search for heavy axion-like particles in light-by-light scattering at the FCC-hh",
+      "authors": [
+        "S. C. Inan",
+        "A. V. Kisselev"
+      ],
+      "abstract": "A virtual production of heavy axion-like particles (ALPs) via light-by-light scattering in pp, pPb and Pb collisions at the future 100 TeV collider FCC-hh is studied. Both differential and total cross sections are calculated. The 95\\% C.L. exclusion limits, as well as $3σ$ and $5σ$ discovery limits on an ALP coupling constant versus ALP mass $m_a$ are given, using integrated luminosities of 30 ab$^{-1}$, 27 pb$^{-1}$ and 110 nb$^{-1}$. Our results are compared with the current LHC bounds. The strongest limit on the ALP coupling is obtained if $m_a \\simeq 250$ GeV for the PbPb collisions, and if $m_a \\simeq 1$ TeV for pp or pPb collisions. This suggests that the FCC-hh has a great physics potential of searching for the heavy ALPs.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2026-03-24T07:05:47+00:00",
+      "updated": "2026-05-15T06:16:14+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.22864v2",
+      "html_url": "https://arxiv.org/html/2603.22864v2",
+      "entry_url": "http://arxiv.org/abs/2603.22864v2"
+    }
+  ],
+  "total": 9
+}

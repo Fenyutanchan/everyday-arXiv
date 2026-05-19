@@ -1,0 +1,67 @@
+{
+  "date": "2025-06-18",
+  "papers": [
+    {
+      "arxiv_id": "2506.15816v2",
+      "base_id": "2506.15816",
+      "title": "Generalized Spectral Statistics in the Kicked Ising model",
+      "authors": [
+        "Divij Gupta",
+        "Brian Swingle"
+      ],
+      "abstract": "The kicked Ising model has been studied extensively as a model of quantum chaos. Bertini, Kos, and Prosen studied the system in the thermodynamic limit, finding an analytic expression for the spectral form factor, $K(t)$, at the self-dual point with periodic boundary conditions. The spectral form factor is the 2nd moment of the trace of the time evolution operator, and we study the higher moments of this random variable in the kicked Ising model. A previous study of these higher moments by Flack, Bertini, and Prosen showed that, surprisingly, the trace behaves like a real Gaussian random variable when the system has periodic boundary conditions at the self dual point. By contrast, we investigate the model with open boundary conditions at the self dual point and find that the trace of the time evolution operator behaves as a complex Gaussian random variable as expected from random matrix universality based on the circular orthogonal ensemble. This result highlights a surprisingly strong effect of boundary conditions on the statistics of the trace. We also study a generalization of the spectral form factor known as the Loschmidt spectral form factor and present results for different boundary conditions.",
+      "categories": [
+        "cond-mat.stat-mech",
+        "hep-th",
+        "nlin.CD",
+        "quant-ph"
+      ],
+      "published": "2025-06-18T19:01:13+00:00",
+      "updated": "2026-04-24T18:06:53+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.15816v2",
+      "html_url": "https://arxiv.org/html/2506.15816v2",
+      "entry_url": "http://arxiv.org/abs/2506.15816v2"
+    },
+    {
+      "arxiv_id": "2506.15331v4",
+      "base_id": "2506.15331",
+      "title": "Naive parton picture for kaon color transparency in $A(e,e'K^+)$",
+      "authors": [
+        "Kook-Jin Kong",
+        "Tae Keun Choi",
+        "Byung-Geel Yu"
+      ],
+      "abstract": "Nuclear transparency in the electronuclear reaction $A(e,e'K^+)$ is investigated in parallel with our previous study of pion transparency in Phys.\\ Rev.\\ C {\\bf 111}, 064608 (2025). Based on an extended Glauber framework that incorporates shadowing from the initial-state two-step process, kaon color transparency (CT) is analyzed to show that the steeper $Q^2$ dependence observed for kaon CT, compared with the pion case, is more naturally described by the naive parton model (NPM) than by the quantum diffusion model (QDM). The inclusion of initial-state shadowing further reduces the transparency and improves the agreement with the experimental data. The $Q^2$ and $A$ dependences of the kaon transparency are presented up to $Q^2=10$~GeV$^2/c^2$, together with the corresponding $α(Q^2)$ and the supplementary ratio $T_A/T_C$, for comparison with the Jefferson Lab (JLab) data obtained with the 6-GeV electron beam on $^{12}$C, $^{63}$Cu, and $^{197}$Au nuclei.",
+      "categories": [
+        "nucl-th",
+        "hep-ph"
+      ],
+      "published": "2025-06-18T10:11:08+00:00",
+      "updated": "2026-05-06T07:56:12+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.15331v4",
+      "html_url": "https://arxiv.org/html/2506.15331v4",
+      "entry_url": "http://arxiv.org/abs/2506.15331v4"
+    },
+    {
+      "arxiv_id": "2506.15798v2",
+      "base_id": "2506.15798",
+      "title": "Charged, rotating black holes in Einstein-Maxwell-dilaton theory",
+      "authors": [
+        "Carlos Herdeiro",
+        "Eugen Radu",
+        "Etevaldo dos Santos Costa Filho"
+      ],
+      "abstract": "The asymptotically flat, electrically charged, rotating black holes (BHs) in Einstein-Maxwell-dilaton (EMd) theory are known in closed form for \\textit{only} two particular values of the dilaton coupling constant $γ$: the Einstein-Maxwell coupling ($γ=0$), corresponding to the Kerr-Newman (KN) solution, and the Kaluza-Klein coupling ($γ=\\sqrt{3}$). Rotating solutions with arbitrary $γ$ are known only in the slow-rotation or weakly charged limits. In this work, we numerically construct such EMd BHs with arbitrary $γ$. We present an overview of the parameter space of the solutions for illustrative values of $γ$ together with a study of their basic properties. The solutions are in general KN-like; there are however, new features. The data suggest that the spinning solutions with $0<γ<\\sqrt{3}$ possess a zero temperature limit, which, albeit regular in terms of curvature invariants, exhibits a $pp$-singularity. A different limiting behaviour is found for $γ>\\sqrt{3}$, in which case, moreover, we have found hints of BH non-uniqueness for the same global charges.",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2025-06-18T18:33:14+00:00",
+      "updated": "2026-05-14T12:01:25+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.15798v2",
+      "html_url": "https://arxiv.org/html/2506.15798v2",
+      "entry_url": "http://arxiv.org/abs/2506.15798v2"
+    }
+  ],
+  "total": 3
+}

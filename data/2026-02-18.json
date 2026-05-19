@@ -1,0 +1,147 @@
+{
+  "date": "2026-02-18",
+  "papers": [
+    {
+      "arxiv_id": "2602.16285v2",
+      "base_id": "2602.16285",
+      "title": "Tidal Deformation Bounds and Perturbation Transfer in Bounded Curvature Spacetimes",
+      "authors": [
+        "Martin Drobczyk"
+      ],
+      "abstract": "We derive two model-independent results for spacetimes with globally bounded tidal fields. These are operational resolution scales of the local-inertial approximation and tidal dynamics; no spacetime discreteness is implied. Given an invariant bound $λ_{\\max}\\leλ_{\\rm bound}$ on the electric Riemann eigenvalues $E_{ij}\\equiv R_{\\hat{0}i\\hat{0}j}$ along freely falling worldlines, we prove (i)~a rigorous upper bound on accumulated geodesic deviation through any bounded curvature interior, controlled by $τ_*\\equivλ_{\\max}^{-1/2}$, and (ii)~the existence of a critical wavenumber $k_*\\simτ_*^{-1}$ separating adiabatic from non-adiabatic perturbation transfer through high-curvature epochs, with Bogoliubov coefficients exponentially suppressed for $k\\,τ_*\\gg 1$. Both results depend only on the tidal bound (and, for mode transfer, on a mild timescale assumption for the curvature-driven effective potential) and are otherwise insensitive to metric details. For preparation, we collect the standard operational consequences of bounded curvature, including the accuracy-dependent local-inertial domain $L_{\\rm LI}(\\varepsilon)\\sim\\sqrt{\\varepsilon}\\, λ_{\\max}^{-1/2}$ and, for conformally flat cores in four dimensions, the benchmark ratio $τ_*/L_*=24^{1/4}$ with $L_*\\equiv K_{\\max}^{-1/4}$. We quantify the robustness of this coefficient under departures from maximal symmetry via the Weyl-to-Kretschmann ratio $ε_C$. The general framework is validated numerically in the extremal Hayward geometry.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2026-02-18T09:11:06+00:00",
+      "updated": "2026-04-14T14:07:00+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.16285v2",
+      "html_url": "https://arxiv.org/html/2602.16285v2",
+      "entry_url": "http://arxiv.org/abs/2602.16285v2"
+    },
+    {
+      "arxiv_id": "2602.16425v2",
+      "base_id": "2602.16425",
+      "title": "Dynamical generation of fermion mass in a scalar-fermion theory with $λφ^4$ interaction",
+      "authors": [
+        "Somnath Majumder",
+        "Krishnendu Mukherjee"
+      ],
+      "abstract": "The effective potential for a scalar theory with $λφ^4$ interaction, coupled to a massless fermion through Yukawa interaction is calculated by summing over infinite number of two particle irreducible (2PI) diagrams of two different types and a 2PI diagram of a third type using Cornwall, Jackiw and Tomboulis (CJT) method. There is an inversion symmetry present in the effective potential under $φ\\rightarrow -φ$. When the value of coupling constant falls beyond an open set of positive real numbers, the effective potential exhibits both maxima and minima above and below the zero potential line respectively on either side of its minimum at $φ=0$. The fermion acquires a mass in this region of coupling constant when the system settles into the minimum at positive, non-zero $φ$ breaking the inversion symmetry of the vacuum. However, the effective potential exhibits a minimum only at $φ=0$ and also the fermion remains massless when the coupling constant assumes any value from this open set.",
+      "categories": [
+        "hep-th",
+        "hep-ph"
+      ],
+      "published": "2026-02-18T12:58:10+00:00",
+      "updated": "2026-04-27T12:06:17+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.16425v2",
+      "html_url": "https://arxiv.org/html/2602.16425v2",
+      "entry_url": "http://arxiv.org/abs/2602.16425v2"
+    },
+    {
+      "arxiv_id": "2602.16575v2",
+      "base_id": "2602.16575",
+      "title": "Chiral gravitational waves from multi-phase magnetogenesis",
+      "authors": [
+        "H. V. Ragavendra",
+        "Gianmassimo Tasinato",
+        "L. Sriramkumar"
+      ],
+      "abstract": "Cosmological vector fields are central to many early-Universe phenomena, including inflationary dynamics, primordial magnetogenesis, and dark-matter scenarios. However, constructing models able to generate cosmological magnetic fields while avoiding strong coupling, backreaction, and cosmic microwave background constraints remains challenging. We study a novel mechanism in which brief non--slow-roll phases during inflation amplify primordial magnetic fields at small scales, while maintaining theoretical consistency and observational viability. We incorporate parity-violating interactions in the vector sector and demonstrate, for the first time in a non--slow-roll framework, that chirality can significantly boost magnetic-field amplitudes and imprint distinctive polarization-dependent spectral features. We complement detailed numerical computations with an analytical treatment yielding compact expressions for chiral vector mode functions that reproduce the main spectral properties. We then develop a systematic formalism to evaluate the stochastic gravitational-wave background naturally induced at second order by these amplified fields, identifying both an intensity component and a circularly polarized contribution with characteristic frequency profiles. We discuss detection prospects with future multiband gravitational-wave observatories, showing that chiral signatures could provide a distinctive observational probe. Our results introduce new avenues for enhancing primordial magnetic fields and their associated gravitational-wave signals, opening promising possibilities for their future detection and interpretation, both with cosmological and gravitational wave probes.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2026-02-18T16:20:53+00:00",
+      "updated": "2026-04-28T17:53:39+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.16575v2",
+      "html_url": "https://arxiv.org/html/2602.16575v2",
+      "entry_url": "http://arxiv.org/abs/2602.16575v2"
+    },
+    {
+      "arxiv_id": "2602.16694v2",
+      "base_id": "2602.16694",
+      "title": "Yang-Mills Flux Tube in AdS II: Effective String Theory",
+      "authors": [
+        "Barak Gabai",
+        "Victor Gorbenko",
+        "Bendeguz Offertaler"
+      ],
+      "abstract": "We continue the study of flux tubes in confining gauge theories placed in a rigid AdS background, focusing on the three-dimensional case. Our analysis is performed in the large-radius regime, where effective string theory provides a good approximation of the dynamics. Using a combination of techniques, primarily the analytic transcendentality ansatz bootstrap, we compute observables up to two-loop order in the expansion in powers of the string length over the AdS radius, which constitutes the main result of this work. Finally, we employ Padé resummations to explore the possible compatibility of our results with a smooth interpolation of observables between large-radius AdS and small-radius AdS, in which gauge theory is weakly coupled.",
+      "categories": [
+        "hep-th",
+        "hep-ph"
+      ],
+      "published": "2026-02-18T18:40:37+00:00",
+      "updated": "2026-05-11T21:08:24+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.16694v2",
+      "html_url": "https://arxiv.org/html/2602.16694v2",
+      "entry_url": "http://arxiv.org/abs/2602.16694v2"
+    },
+    {
+      "arxiv_id": "2602.16237v2",
+      "base_id": "2602.16237",
+      "title": "Rotating Black Holes with Primary Scalar Hair: Shadow Signatures in Beyond Horndeski Gravity",
+      "authors": [
+        "Kourosh Nozari",
+        "Milad Hajebrahimi",
+        "Sara Saghafi",
+        "G. Mustafa",
+        "Emmanuel N. Saridakis"
+      ],
+      "abstract": "The Event Horizon Telescope (EHT) image of M87* provides a direct test of strong-field gravity, measuring an angular shadow diameter $θ_{d}=42\\pm 3~μ\\mathrm{as}$ and a circularity deviation $ΔC\\leq 0.1$. Such observations allow quantitative tests of the Kerr paradigm and of possible deviations from the no-hair theorem. In scalar-tensor extensions of gravity, black holes may possess primary scalar hair, introducing an additional independent parameter beyond mass and spin. In this work, we construct a rotating configuration inspired by black hole solutions with primary scalar hair in beyond Horndeski gravity and analyze their photon regions and shadow formation. We show that the scalar hair parameter $Q$ induces characteristic modifications of the shadow, and in particular negative $Q$ enlarges the shadow and reduces its oblateness, while positive $Q$ shrinks and enhances its distortion. Adopting M87* as a representative case within this framework and imposing the EHT bounds on $θ_{d}$ and $ΔC$, we identify the viable $(a,Q)$ parameter space. We find that current observations do not exclude rotating black holes with primary scalar hair, although the allowed region is significantly restricted for $Q>0$. Finally, the scalar-hair-induced deviations are of order $\\mathcal{O}(μ\\mathrm{as})$, placing them near the sensitivity threshold of present instruments and within reach of next-generation horizon-scale imaging.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-th"
+      ],
+      "published": "2026-02-18T07:27:05+00:00",
+      "updated": "2026-05-11T19:17:50+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.16237v2",
+      "html_url": "https://arxiv.org/html/2602.16237v2",
+      "entry_url": "http://arxiv.org/abs/2602.16237v2"
+    },
+    {
+      "arxiv_id": "2602.16369v2",
+      "base_id": "2602.16369",
+      "title": "Rapidity dependence of mean transverse momentum fluctuation and decorrelation in baryon-dense medium",
+      "authors": [
+        "Tribhuban Parida"
+      ],
+      "abstract": "I study the event-by-event fluctuation and rapidity decorrelation of the mean transverse momentum $\\spt$, which has recently been proposed as a sensitive probe of the equation of state at finite baryon density. The investigation reveals that, in a baryon-rich medium, the event-by-event fluctuation of the mean transverse momentum is driven by the combined effects of energy-density and net-baryon-density fluctuations. Consequently, the rapidity dependence of this observable provides a promising handle to probe the three-dimensional structure of both energy and baryon density profiles. Previous studies have shown that $\\spt$ decorrelation along rapidity is largely insensitive to shear and bulk viscosity; however, its dependence on baryon diffusion, another key transport coefficient in baryonic matter, has not been explored. I find that baryon diffusion has a negligible impact, establishing this observable as a robust probe of the equation of state. Furthermore, I present predictions for identified hadrons and observe a pronounced splitting in the rapidity decorrelation of mean transverse momentum between protons and antiprotons, indicating different transverse flow dynamics for baryons and antibaryons.",
+      "categories": [
+        "nucl-th",
+        "hep-ph",
+        "nucl-ex"
+      ],
+      "published": "2026-02-18T11:12:06+00:00",
+      "updated": "2026-05-11T17:31:07+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.16369v2",
+      "html_url": "https://arxiv.org/html/2602.16369v2",
+      "entry_url": "http://arxiv.org/abs/2602.16369v2"
+    },
+    {
+      "arxiv_id": "2602.16514v2",
+      "base_id": "2602.16514",
+      "title": "Atmospheric Neutrino Charged-Current Interactions at Large Liquid-Scintillator Detectors: I. Physics of Neutrino-Antineutrino Discrimination",
+      "authors": [
+        "Xinhai He",
+        "Gao-song Li",
+        "Yu-Feng Li",
+        "Wuming Luo",
+        "Liang-jian Wen"
+      ],
+      "abstract": "In this work, we present a systematic study of the event characteristics and physics of neutrino-antineutrino discrimination associated with atmospheric neutrino charged-current interactions in large liquid scintillator detectors. This study encompasses the primary neutrino interactions, the sequential second interactions of final-state particles, and the final neutron captures. We carefully investigate the properties of final-state charged leptons and hadrons, providing distinct distributions of inelasticity and captured neutron multiplicity for both neutrino and antineutrino interactions. These distributions are employed to assess the quantitative performance of neutrino-antineutrino discrimination. Our findings lay the groundwork for atmospheric neutrino oscillation studies in large liquid scintillator detectors, particularly in the determination of neutrino mass ordering.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2026-02-18T15:02:32+00:00",
+      "updated": "2026-05-13T03:27:56+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.16514v2",
+      "html_url": "https://arxiv.org/html/2602.16514v2",
+      "entry_url": "http://arxiv.org/abs/2602.16514v2"
+    }
+  ],
+  "total": 7
+}

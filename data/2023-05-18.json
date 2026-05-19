@@ -1,0 +1,26 @@
+{
+  "date": "2023-05-18",
+  "papers": [
+    {
+      "arxiv_id": "2305.10915v3",
+      "base_id": "2305.10915",
+      "title": "Optimizing The Cut And Count Method In Phenomenological Studies",
+      "authors": [
+        "Baradhwaj Coleppa",
+        "Gokul B. Krishna",
+        "Agnivo Sarkar",
+        "Sujay Shil"
+      ],
+      "abstract": "We introduce an optimization technique to discriminate signal and background in any phenomeno- logical study based on the cut and count-based method. The core ideas behind this technique are the introduction of a ranking scheme that can quantitatively assess the relative importance of var- ious observables involved in a new physics process, and a more methodical way of choosing what cuts to impose. The technique is an iterative process that works with the help of the MadAnalysis5 interface. Working in the context of a BSM (Beyond Standard Model) scenario where we carry out a signal search of singly charged Higgs in the context of the Two Higgs Doublet Model (2HDM), we demonstrate how automating the cut and count process in this specific way results in an enhanced discovery potential compared with the more traditional way of imposing cuts.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2023-05-18T12:26:09+00:00",
+      "updated": "2026-05-18T16:18:54+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2305.10915v3",
+      "html_url": "https://arxiv.org/html/2305.10915v3",
+      "entry_url": "http://arxiv.org/abs/2305.10915v3"
+    }
+  ],
+  "total": 1
+}

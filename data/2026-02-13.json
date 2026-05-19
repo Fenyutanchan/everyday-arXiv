@@ -1,0 +1,44 @@
+{
+  "date": "2026-02-13",
+  "papers": [
+    {
+      "arxiv_id": "2602.12496v2",
+      "base_id": "2602.12496",
+      "title": "On non-vacuum black holes in new general relativity",
+      "authors": [
+        "D. F. López",
+        "A. A. Coley",
+        "B. Yildirim"
+      ],
+      "abstract": "New general relativity (NGR) is a torsion-based modification of general relativity whose Lagrangian depends on three free parameters, $(c_{a}, c_{v}, c_{t})$. A subset of the parameter space is physically admissible, namely that which simultaneously ensures ghost-freedom, propagation of a spin-2 mode, and a consistent Newtonian limit. In this work we analyze static and spherically symmetric configurations in NGR, both in vacuum and in the presence of a perfect fluid and an electromagnetic field, under the assumption of the existence of a local black-hole horizon. We find that the mere existence of such configurations forces the free parameters into regions associated with known pathological models: theories that either contain ghost instabilities, do not propagate a spin-2 mode, or lack a Newtonian limit. The remaining geometries are regular at the horizon, so the obstruction is not a breakdown of the geometry but a breakdown of the underlying theory. We therefore conclude that, within the class of models examined, NGR does not admit physically meaningful non-trivial black holes distinct from those of the teleparallel equivalent of general relativity.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2026-02-13T00:36:29+00:00",
+      "updated": "2026-04-22T22:37:59+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.12496v2",
+      "html_url": "https://arxiv.org/html/2602.12496v2",
+      "entry_url": "http://arxiv.org/abs/2602.12496v2"
+    },
+    {
+      "arxiv_id": "2602.12611v2",
+      "base_id": "2602.12611",
+      "title": "Resummation of threshold double logarithms in quarkonium fragmentation functions",
+      "authors": [
+        "Hee Sok Chung",
+        "U-Rae Kim",
+        "Jungil Lee"
+      ],
+      "abstract": "We develop a formalism for resumming threshold double logarithms that appear in fragmentation functions for production of heavy quarkonia. Threshold singularities appear in fixed-order calculations of quarkonium fragmentation functions in the nonrelativistic QCD factorization formalism due to radiation of soft gluons. Because of this, fixed-order quarkonium fragmentation functions are not positive definite, and can lead to unphysically negative cross sections. This problem can be resolved by resumming threshold logarithms to all orders in perturbation theory, which renders the fragmentation functions finite and ensures the positivity of cross sections. We present a detailed derivation of the resummation formalism and derive the formula for resummed quarkonium fragmentation functions, which can be computed entirely within perturbation theory without the need for nonperturbative model functions.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-02-13T04:34:10+00:00",
+      "updated": "2026-04-28T02:19:17+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.12611v2",
+      "html_url": "https://arxiv.org/html/2602.12611v2",
+      "entry_url": "http://arxiv.org/abs/2602.12611v2"
+    }
+  ],
+  "total": 2
+}

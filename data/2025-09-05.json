@@ -1,0 +1,63 @@
+{
+  "date": "2025-09-05",
+  "papers": [
+    {
+      "arxiv_id": "2509.05479v2",
+      "base_id": "2509.05479",
+      "title": "Handling Data Gaps for the Next Generation of Gravitational-Wave Observatories",
+      "authors": [
+        "Noah Pearson",
+        "Neil J. Cornish"
+      ],
+      "abstract": "In the coming decades, as the low frequency sensitivity of detectors improves, the time that gravitational-wave signals remain in the sensitive band will increase, leading to new challenges in analyzing data, namely non-stationary noise and data gaps. Time-frequency (wavelet) methods can efficiently handle non-stationary noise, but data gaps still lead to spectral leakage due to the finite length of the wavelet filters. It was previously shown that Bayesian data augmentation - \"gap filling\" - could mitigate spectral leakage in frequency domain analyses, but the computational cost associated with the matrix operations needed in that approach is prohibitive. Here we present a new, computationally efficient approach to Bayesian data augmentation in the time-frequency domain that avoids repeated, costly matrix operations. We show that our approach efficiently solves the problem of data gaps in simulated LISA data, and can be smoothly integrated into the LISA Global Fit. The same approach can also be used for future 3G ground-based interferometers.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-09-05T20:11:50+00:00",
+      "updated": "2026-04-30T17:20:56+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.05479v2",
+      "html_url": "https://arxiv.org/html/2509.05479v2",
+      "entry_url": "http://arxiv.org/abs/2509.05479v2"
+    },
+    {
+      "arxiv_id": "2509.05052v2",
+      "base_id": "2509.05052",
+      "title": "Semi-classical spacetime thermodynamics",
+      "authors": [
+        "Ana Alonso-Serrano",
+        "Marek Liška",
+        "Michał Piotrak"
+      ],
+      "abstract": "We derive the semi-classical gravitational dynamics from thermodynamics of local stretched light cones in 2-dimensional dilaton gravity, explicitly treating the backreaction of quantum matter through the conformal anomaly's effect on the generalized entropy. We also sketch the extension of this analysis to the conformal anomaly in 4-dimensional semi-classical gravity. In direct connection to this problem, we also tackle the appropriate definition of Wald entropy in thermodynamic derivation of equations of motion for classical scalar-tensor theories. For the class of Brans-Dicke theories, including 2-dimensional dilaton gravity, we show that the equations of motion follow from the dynamical Wald entropy associated with local causal horizons.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2025-09-05T12:31:59+00:00",
+      "updated": "2026-05-06T10:11:20+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.05052v2",
+      "html_url": "https://arxiv.org/html/2509.05052v2",
+      "entry_url": "http://arxiv.org/abs/2509.05052v2"
+    },
+    {
+      "arxiv_id": "2509.05412v3",
+      "base_id": "2509.05412",
+      "title": "Gravitational Hilbert spaces: invariant and co-invariant states, inner products, gauge-fixing, and BRST",
+      "authors": [
+        "Jesse Held",
+        "Henry Maxfield"
+      ],
+      "abstract": "Hilbert spaces in theories of gravity are notoriously subtle due to the Hamiltonian constraints, particularly regarding the inner product. To demystify this subject, we review and extend a collection of ideas in canonical gravity, and connect to the sum-over-histories approach by clarifying the Hilbert space interpretation of various gravitational path integrals. We use one-dimensional (or mini-superspace) models as the simplest context to exemplify the conceptual ideas. We emphasise that a physical Hilbert space can be defined either by requiring states to be annihilated by constraint operators (e.g., the Wheeler-DeWitt equation) or by equivalence relations between wavefunctions, and explain that these two approaches are related by an inner product. We advocate that the group averaging procedure constructs the correct physical inner product. The Klein-Gordon inner product is not positive-definite, which we explain as arising from a bad gauge choice; nonetheless, it agrees with group averaging when such a problem is absent. These concepts are all embedded in the BRST/BFV formalism, which provides a systematic way to construct these and other physically equivalent inner products (e.g., from maximal-volume gauge and Gaussian averaged gauges). Finally we discuss the application of these ideas in the semi-classical approximation, including non-perturbative gravitational effects.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2025-09-05T18:00:04+00:00",
+      "updated": "2026-05-14T00:18:58+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.05412v3",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2509.05412v3"
+    }
+  ],
+  "total": 3
+}

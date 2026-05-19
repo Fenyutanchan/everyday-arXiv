@@ -1,0 +1,193 @@
+{
+  "date": "2026-04-02",
+  "papers": [
+    {
+      "arxiv_id": "2604.02214v2",
+      "base_id": "2604.02214",
+      "title": "Quadratic gravity corrections to scalar QNMs of rapidly rotating black holes",
+      "authors": [
+        "Stef J. B. Husken",
+        "Tom van der Steen",
+        "Simon Maenaut",
+        "Kelvin Ka-Ho Lam",
+        "Maxim D. Jockwer",
+        "Adrian Ka-Wai Chung",
+        "Thomas Hertog",
+        "Tjonnie G. F. Li",
+        "Nicolás Yunes"
+      ],
+      "abstract": "In an effective-field-theory framework for gravity, black-hole quasinormal mode spectra acquire corrections in quadratic-curvature, scalar-tensor extensions of general relativity. Previous calculations of such corrections were limited to moderate spins, since the corresponding background solutions relied on expansions in the spin parameter. Using recently constructed numerical black-hole solutions valid for large spin, we compute the leading-order deviations from general relativity in the scalar quasinormal mode spectrum of rotating black holes in scalar Gauss-Bonnet and dynamical Chern-Simons gravity. We solve the resulting perturbation equations with pseudo-spectral collocation methods, allowing us to determine the quasinormal-mode corrections for dimensionless spins up to $a/M=0.99$, with accuracy better than $\\lesssim 10^{-3}$ for the $l=m=0$ mode and $\\lesssim 10^{-6}$ for higher multipoles. For spins $a/M>0.9$, the corrections to certain modes can increase by orders of magnitude.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2026-04-02T16:06:26+00:00",
+      "updated": "2026-04-14T16:14:38+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.02214v2",
+      "html_url": "https://arxiv.org/html/2604.02214v2",
+      "entry_url": "http://arxiv.org/abs/2604.02214v2"
+    },
+    {
+      "arxiv_id": "2604.02075v2",
+      "base_id": "2604.02075",
+      "title": "Emergence of volume-law scaling for entanglement negativity from the Hawking radiation of analogue black holes",
+      "authors": [
+        "S. Mahesh Chandran",
+        "Uwe R. Fischer"
+      ],
+      "abstract": "The quantum information content of Hawking radiation holds the key to understanding black-hole evaporation and the fate of unitarity. Motivated by recent advances in cold-atom experiments, we develop a lattice-regularization approach aimed at simulating the coarse-grained entanglement scaling of a quantum field in a 1+1D analogue black-hole background. We provide the first concrete demonstration that logarithmic negativity -- an entanglement monotone that typically exhibits a UV-divergent log-scaling for the conformal vacuum -- acquires a UV-finite volume term from the nonlocal correlations seeded by Hawking radiation. We show that this volume term encodes the number density as well as the spatial distribution of entangled Hawking pairs along the black-hole interior and exterior. We highlight its prospective detection in currently realizable experiments and its implications beyond the analogue paradigm, in particular for black-hole thermodynamics.",
+      "categories": [
+        "gr-qc",
+        "cond-mat.quant-gas",
+        "quant-ph"
+      ],
+      "published": "2026-04-02T14:06:57+00:00",
+      "updated": "2026-04-21T01:10:09+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.02075v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2604.02075v2"
+    },
+    {
+      "arxiv_id": "2604.02219v2",
+      "base_id": "2604.02219",
+      "title": "Many Wrongs Make a Right: Leveraging Biased Simulations Towards Unbiased Parameter Inference",
+      "authors": [
+        "Ezequiel Alvarez",
+        "Sean Benevedes",
+        "Manuel Szewc",
+        "Jesse Thaler"
+      ],
+      "abstract": "In particle physics, as in many areas of science, parameter inference relies on simulations to bridge the gap between theory and experiment. Recent developments in simulation-based inference have boosted the sensitivity of analyses; however, biases induced by simulation-data mismodeling can be difficult to control within standard inference pipelines. In this work, we propose a Template-Adapted Mixture Model to confront this problem in the context of signal fraction estimation: inferring the population proportion of signal in a mixed sample of signal and background, both of which follow arbitrarily complex distributions. We harness many biased simulations to perform data-driven estimates of each process distribution in the signal region, substantially reducing the bias on the signal fraction due to the domain shift between simulation and reality. We explore different methodological choices, including model selection, feature representation, and statistical method, and apply them to a Gaussian toy example and to a semi-realistic di-Higgs measurement. We find that the presented methods successfully leverage the biased simulations to provide estimates with well-calibrated uncertainties.",
+      "categories": [
+        "hep-ph",
+        "hep-ex",
+        "physics.data-an",
+        "stat.ME"
+      ],
+      "published": "2026-04-02T16:11:07+00:00",
+      "updated": "2026-04-21T18:28:56+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.02219v2",
+      "html_url": "https://arxiv.org/html/2604.02219v2",
+      "entry_url": "http://arxiv.org/abs/2604.02219v2"
+    },
+    {
+      "arxiv_id": "2604.02228v2",
+      "base_id": "2604.02228",
+      "title": "Gravitational null rays: Covariant Quantization and the Dressing Time",
+      "authors": [
+        "Laurent Freidel",
+        "Josh Kirklin"
+      ],
+      "abstract": "We quantize the degrees of freedom on a gravitational null ray segment in a fully gauge-invariant manner by using the dressing time as a quantum reference frame (QRF). Our work goes beyond previous models in that the QRF we employ is made out of the gravitational field itself, and accounts for the full group of diffeomorphisms along the ray, not just a locally compact subgroup. The key tool we introduce is covariant normal ordering, a QRF-dependent but background-independent renormalization prescription that restores diffeomorphism covariance at the quantum level. This enables the definition of a quantum dressing map whose image is the algebra of gauge-invariant observables. We find that this algebra carries the structure of a Virasoro crossed product, and that the dressing map induces a deformed product on gauge-fixed operators which can be understood as a quantization of the Dirac bracket, with consequences for the fluctuations of observables. We explain how to cancel anomalies in the physical Hilbert space representation of the gauge-invariant algebra by including a deformation at the classical level, thereby eliminating all spurious degrees of freedom at the quantum level. The physical Hilbert space admits a Page-Wootters reduction map to the perspective of the dressing time, and we show that the dressing time is non-ideal in the sense that its distinct coherent states have non-vanishing overlaps governed by the Teo-Takhtajan energy, i.e. the Kähler potential for Virasoro coadjoint orbits.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2026-04-02T16:22:27+00:00",
+      "updated": "2026-04-27T15:31:30+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.02228v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2604.02228v2"
+    },
+    {
+      "arxiv_id": "2604.02415v2",
+      "base_id": "2604.02415",
+      "title": "Generative models on phase space",
+      "authors": [
+        "Zachary Bogorad",
+        "Ibrahim Elsharkawy",
+        "Yonatan Kahn",
+        "Andrew J. Larkoski",
+        "Noam Levi"
+      ],
+      "abstract": "Deep generative models such as diffusion and flow matching are powerful machine learning tools capable of learning and sampling from high-dimensional distributions. They are particularly useful when the training data appears to be concentrated on a submanifold of the data embedding space. For high-energy physics data, consisting of collections of relativistic energy-momentum 4-vectors, this submanifold can enforce extremely strong physically-motivated priors, such as energy and momentum conservation. If these constraints are learned only approximately, rather than exactly, this can inhibit the interpretability and reliability of such generative models. To remedy this deficiency, we introduce generative models which are, by construction, confined at every step of their sampling trajectory to the manifold of massless N-particle Lorentz-invariant phase space in the center-of-momentum frame. In the case of diffusion models, the \"pure noise\" forward process endpoint corresponds to the uniform distribution on phase space, which provides a clear starting point from which to identify how correlations among the particles emerge during the reverse (de-noising) process. We demonstrate that our models are able to learn both few-particle and many-particle distributions with various singularity structures, paving the way for future interpretability studies using generative models trained on simulated jet data.",
+      "categories": [
+        "hep-ph",
+        "cs.AI"
+      ],
+      "published": "2026-04-02T18:00:01+00:00",
+      "updated": "2026-04-28T18:09:33+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.02415v2",
+      "html_url": "https://arxiv.org/html/2604.02415v2",
+      "entry_url": "http://arxiv.org/abs/2604.02415v2"
+    },
+    {
+      "arxiv_id": "2604.01521v2",
+      "base_id": "2604.01521",
+      "title": "Probing Black Hole Thermodynamics and Microstructure via the Shadow of Sagittarius A*",
+      "authors": [
+        "Jose Miguel Ladino",
+        "Carlos E. Romero-Figueroa",
+        "Hernando Quevedo"
+      ],
+      "abstract": "We explore the connection between black hole shadows, thermodynamic phase structure, and microstructure of charged and rotating black holes within General Relativity and Geometrothermodynamics. Focusing on Reissner-Nordström and Kerr solutions, we establish a criterion to select the most suitable Geometrothermodynamic metric for a system, revealing that the first metric from enthalpy and the second from mass correctly reproduce heat capacity singularities. We show that the shadow radius encodes the same phase information as entropy and introduce Shadow-Microstructure diagrams to extract insights into stability and microscopic interaction types directly from observational bounds. Applying this framework to Sagittarius A*, we constrain the macroscopic parameters and the allowed microscopic thermodynamic phases. Our findings indicate that shadow measurements offer a novel probe of thermodynamic and microscopic aspects of black holes, enabling tests of alternative theories of gravity and thermodynamic frameworks.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2026-04-02T01:20:53+00:00",
+      "updated": "2026-05-02T12:52:58+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.01521v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2604.01521v2"
+    },
+    {
+      "arxiv_id": "2604.02078v2",
+      "base_id": "2604.02078",
+      "title": "Taste-splitting mass and edge modes in $3+1$ D staggered fermions",
+      "authors": [
+        "Tatsuhiro Misumi",
+        "Tetsuya Onogi",
+        "Tatsuya Yamaoka"
+      ],
+      "abstract": "We investigate the symmetry structure of the $3+1$ D staggered fermion Hamiltonian and its implications for anomalies. Since the spin and flavor degrees of freedom of Dirac fermions are distributed over the lattice, in addition to the standard on-site mass term, the staggered fermion system also admits one-, two-, and three-link bilinear terms within a unit cube as local, charge conserving mass terms with different spin and flavor dependence. We identify the spin flavor structures of all those bilinear mass terms and determine the symmetries preserved by each of them. Among them, one of the one-link mass terms preserves a larger residual symmetry associated with conserved charges that generate the Onsager algebra. Motivated by this structure, we consider a kink profile of the one-link mass and analyze the resulting domain-wall system. In the low-energy limit, the $3+1$ D bulk becomes gapped, while two-flavor massless Dirac fermions appear as localized modes on the $2+1$ D domain wall. We show that the bulk conserved charges act on the wall as generators of a flavor $\\mathrm{SU}(2)$ symmetry, and that no symmetric mass gap is allowed for the boundary theory when this $\\mathrm{SU}(2)$ symmetry and space reflection symmetry are both imposed. This realizes the parity anomaly of the boundary theory and shows that the boundary flavor symmetry and anomaly descend from the ultraviolet staggered-fermion Hamiltonian rather than emerging only in the infrared.",
+      "categories": [
+        "hep-lat",
+        "cond-mat.str-el",
+        "hep-th"
+      ],
+      "published": "2026-04-02T14:10:06+00:00",
+      "updated": "2026-05-11T09:27:38+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.02078v2",
+      "html_url": "https://arxiv.org/html/2604.02078v2",
+      "entry_url": "http://arxiv.org/abs/2604.02078v2"
+    },
+    {
+      "arxiv_id": "2604.02133v2",
+      "base_id": "2604.02133",
+      "title": "Effective Field Theory for Superconducting Phase Transitions",
+      "authors": [
+        "Yanyan Bu",
+        "Zexin Yang"
+      ],
+      "abstract": "Employing the Schwinger-Keldysh formalism, we formulate an effective field theory for s-wave superconducting phase transition, where the dynamical variables consist of electromagnetic gauge field and complex scalar order parameter. Symmetry-constrained effective action allows systematic handling of dissipations and fluctuations. In particular, we explore the physical implications of higher-order terms, including those involving additional dynamical fields as well as higher time derivatives, on the real-time dynamics near the superconducting critical point. When appropriately truncated, the effective field theory reproduces the phenomenological Ginzburg-Landau equations. Upon crossing the critical temperature into the low-temperature phase, the electromagnetic gauge symmetry undergoes spontaneous breaking induced by the condensate of the order parameter. Collective excitation analysis reveals that the Higgs mode behaves as an overdamped diffusive mode near the critical point, while the phase fluctuation is absorbed into the gauge field via the Higgs mechanism. Via the holographic Schwinger-Keldysh technique, rigorous validation in a holographic superconductor confirms the structure of the effective action and quantifies the Wilsonian coefficients. Holographic results revaeal a complex relaxation parameter that indicates oscillatory dynamics characteristic of strongly coupled systems.",
+      "categories": [
+        "hep-th",
+        "cond-mat.mes-hall",
+        "cond-mat.supr-con"
+      ],
+      "published": "2026-04-02T15:07:19+00:00",
+      "updated": "2026-05-08T15:17:58+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.02133v2",
+      "html_url": "https://arxiv.org/html/2604.02133v2",
+      "entry_url": "http://arxiv.org/abs/2604.02133v2"
+    },
+    {
+      "arxiv_id": "2604.02470v2",
+      "base_id": "2604.02470",
+      "title": "Return to the Great Attractor: Strong Evidence for a Steradian-sized Flow Converging at $\\sim$70 Mpc within the GA Supercluster and Aligned with the CMB Dipole",
+      "authors": [
+        "Alan Dressler",
+        "Andrew Monson"
+      ],
+      "abstract": "We used the FourStar near-IR camera on Magellan-Baade to obtain high S/N H-Band imaging of 66 galaxies with radial velocities of 2000 < V < 5000 km/s. Our goal was to use the superior distance measurements of surface-brightness-fluctuations (SBF) to derive ``peculiar velocities'' to test claims that the CMB dipole anisotropy, equivalent to $\\approx$600 km/s with respect to the Local Group, arises from a 'local' overdensity in the galaxy/dark-matter distribution -- the Great Attractor. SBF's ability to measure distances with 5% accuracy confirms a strong flow over a steradian of the sky peaking at Vpec $\\sim$ 1000 km/s and converging to zero at D $\\approx$70 Mpc from the Local Group. The modest spatial extent of this flow $R_V$ $\\sim$ 5000 km/s is consistent with the original Great Attractor model (a diameter D $\\sim$ 140 Mpc), as well as the magnitude and direction of the CMB dipole anisotropy, and the power spectrum of CMB fluctuations -- the latter two arguably the most secure measurements in astrophysics. In contrast, our results are at-odds with reports of comparable amplitude 'bulk flows' on scales of hundreds of Mpc that themselves may be inconsistent with the expected fluctuations in the CMB for a $Λ$CDM universe. We contend that only distance-estimators as accurate as SBF are able settle the question of whether the CMB dipole arises from the gravitational influence of large-scale structure within, or without $\\sim$100 Mpc of the Local Group.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2026-04-02T19:04:32+00:00",
+      "updated": "2026-05-07T21:41:39+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.02470v2",
+      "html_url": "https://arxiv.org/html/2604.02470v2",
+      "entry_url": "http://arxiv.org/abs/2604.02470v2"
+    }
+  ],
+  "total": 9
+}

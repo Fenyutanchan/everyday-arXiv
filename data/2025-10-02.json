@@ -1,0 +1,109 @@
+{
+  "date": "2025-10-02",
+  "papers": [
+    {
+      "arxiv_id": "2510.02085v3",
+      "base_id": "2510.02085",
+      "title": "Fully charm tetraquark production at hadronic collisions with gluon radiation effects",
+      "authors": [
+        "Yefan Wang",
+        "Ruilin Zhu"
+      ],
+      "abstract": "We report the first complete next-to-leading order QCD calculation for processes involving fully charm tetraquark states, revealing that the renormalization constant of the color-singlet four charm quark operator is exactly unity at this order. We have investigated the possible quark configurations of the fully charm tetraquarks and expanded their states in the color symmetry-antisymmetry basis. By applying the transverse momentum dependent factorization formalism, large logarithms induced by soft and collinear gluon radiations are resummed to all orders in the expansion of the strong interaction coupling at the accuracy of next-to-leading logarithm. By combining LHCb data on the total cross section of the exotic hadron $X(6900)$ and CMS measurements of its spin-parity, we extracted its nonperturbative but universal long-distance matrix element. The rapidity and transverse momentum distributions of the $X(6900)$ and its spin-zero partners are also predicted, which await further experimental verification.",
+      "categories": [
+        "hep-ph",
+        "hep-ex",
+        "hep-lat"
+      ],
+      "published": "2025-10-02T14:51:19+00:00",
+      "updated": "2026-04-22T12:33:46+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.02085v3",
+      "html_url": "https://arxiv.org/html/2510.02085v3",
+      "entry_url": "http://arxiv.org/abs/2510.02085v3"
+    },
+    {
+      "arxiv_id": "2510.01962v2",
+      "base_id": "2510.01962",
+      "title": "Dispersion relations: foundations",
+      "authors": [
+        "Bastian Kubis"
+      ],
+      "abstract": "We give a pedagogical introduction to the founding ideas of dispersion relations in particle physics. Starting from elementary mechanical systems, we show how the physical principle of causality is closely related to the mathematical property of analyticity, and how both are implemented in quantum mechanical scattering theory. We present a personal selection of elementary applications such as the relation between hadronic production amplitudes or form factors to scattering, and the extraction of resonance properties on unphysical Riemann sheets. More advanced topics such as Roy equations for pion--pion scattering and dispersion relations for three-body decays are briefly touched upon.",
+      "categories": [
+        "hep-ph",
+        "nucl-th"
+      ],
+      "published": "2025-10-02T12:32:52+00:00",
+      "updated": "2026-05-04T12:08:17+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.01962v2",
+      "html_url": "https://arxiv.org/html/2510.01962v2",
+      "entry_url": "http://arxiv.org/abs/2510.01962v2"
+    },
+    {
+      "arxiv_id": "2510.02515v2",
+      "base_id": "2510.02515",
+      "title": "Neural Post-Einsteinian Test of General Relativity with the Third Gravitational-Wave Transient Catalog",
+      "authors": [
+        "Yiqi Xie",
+        "Gautham Narayan",
+        "Nicolás Yunes"
+      ],
+      "abstract": "Gravitational waves (GWs) from compact binaries are excellent probes of gravity in the strong- and dynamical-field regimes. We report a test of general relativity (GR) with the third GW Transient Catalog (GWTC-3) plus a few O4 events using the recently developed neural post-Einsteinian framework, both on individual events and at the population level through hierarchical modeling. We find no significant violation of GR and place a constraint that, for the first time, efficiently covers non-GR theories characterized by not only post-Newtonian deviations but also those beyond under the same theory-agnostic framework.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE",
+        "hep-ph"
+      ],
+      "published": "2025-10-02T19:42:41+00:00",
+      "updated": "2026-05-11T14:32:41+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.02515v2",
+      "html_url": "https://arxiv.org/html/2510.02515v2",
+      "entry_url": "http://arxiv.org/abs/2510.02515v2"
+    },
+    {
+      "arxiv_id": "2510.02449v4",
+      "base_id": "2510.02449",
+      "title": "4MOST Cosmology Redshift Survey (CRS): Clustering Properties of CRS Bright Galaxy and Luminous Red Galaxy Target Catalogues",
+      "authors": [
+        "Behnood Bandi",
+        "Antoine Rocher",
+        "Aurélien Verdier",
+        "Jon Loveday",
+        "Zhuo Chen",
+        "Johan Richard",
+        "Jean-Paul Kneib",
+        "Tom Shanks",
+        "Michael J. I. Brown"
+      ],
+      "abstract": "The 4-metre Multi-Object Spectroscopic Telescope Cosmology Redshift Survey (4MOST CRS) will obtain 5.4 million spectroscopic redshifts over ~5700 deg^2 to map large-scale structure and enable measurements of baryon acoustic oscillations, growth rates via redshift-space distortions, and cross-correlations with weak-lensing surveys. We validate the target selections, photometry, masking, systematics, and redshift distributions of the bright galaxy (BG) and luminous red galaxy (LRG) target catalogues selected from the Dark Energy Spectroscopic Instrument (DESI) Legacy Survey DR10.1 (LS) imaging. We measure the angular two-point correlation function, $w(θ)$, test masking strategies, and recover redshift distributions via cross-correlation with DESI DR1 spectroscopy. For BGs, we adopt LS MASKBITS that veto bright stars and extended sources; for LRGs, we pair these with unblurred coadds of the WISE imaging (unWISE) W1 artefact masks. These choices suppress small-scale excess power without imprinting large-scale modes. A Limber-scaling test across BG $r$-band magnitude slices shows that, after applying the scaling, the $w(θ)$ curves collapse to a near-common power law, demonstrating photometric uniformity with depth and consistency between the North and South Galactic Caps. Cross-correlations with DESI spectroscopy recover the expected N(z), albeit with high shot noise at the brightest magnitudes. For LRGs, angular clustering in photo-$z$ slices ($0.4\\le z<1.0$) is consistent between the Dark Energy Camera Legacy Survey (DECaLS) and Dark Energy Survey (DES) footprints and is well described by an approximate power law once photo-$z$ smearing is included; halo-occupation fits are consistent with recent LRG studies. Together, these tests indicate that the masks and target selections yield reliable clustering statistics, supporting precision large-scale structure analyses with 4MOST CRS.",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.GA"
+      ],
+      "published": "2025-10-02T18:00:57+00:00",
+      "updated": "2026-05-08T10:32:20+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.02449v4",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2510.02449v4"
+    },
+    {
+      "arxiv_id": "2510.02465v2",
+      "base_id": "2510.02465",
+      "title": "Flavour Invariants of the N Higgs Doublet Model",
+      "authors": [
+        "João C. Belas",
+        "João P. Silva"
+      ],
+      "abstract": "In this work, a systematic way of analyzing the N Higgs Doublet Models flavor sector will be developed. We introduce a complete set of mixing matrices describing the rotation between certain suitably defined bases, akin to the Cabibbo-Kobayashi-Maskawa matrix, which describes the relation between the up-quark and down-quark mass bases. We point out the crucial importance played by the charged Higgs basis. It is also introduced for the first time a complete set of weak basis transformation invariant traces of flavor matrices for the general N doublets case. This will be important for studies of the renormalization group evolution in terms of relevant physical parameters.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-10-02T18:19:29+00:00",
+      "updated": "2026-05-14T10:36:44+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.02465v2",
+      "html_url": "https://arxiv.org/html/2510.02465v2",
+      "entry_url": "http://arxiv.org/abs/2510.02465v2"
+    }
+  ],
+  "total": 5
+}

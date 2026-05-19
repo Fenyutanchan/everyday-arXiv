@@ -1,0 +1,46 @@
+{
+  "date": "2025-08-07",
+  "papers": [
+    {
+      "arxiv_id": "2508.05171v3",
+      "base_id": "2508.05171",
+      "title": "An analysis of nuclear parton distribution function based on relative entropy",
+      "authors": [
+        "Shu-Man Hu",
+        "Ao-Sheng Xiong",
+        "Ji Xu",
+        "Fu-Sheng Yu",
+        "Ji-Xin Yu"
+      ],
+      "abstract": "In this work, we propose a method to quantify the difference between nuclear parton distribution functions in different nuclei and parton distribution functions in free nucleons using the relative entropy (also known as Kullback-Leibler divergence), a measure widely employed in quantum information theory. By introducing certain constraints and the ``minimum relative entropy\" hypothesis, we can determine the shape of the structure function in the intermediate-$x$ region, which is intimately connected with the renowned EMC effect. For quark structure functions, our results align with the latest global fits to experimental data. This agreement suggests that the relative entropy-based methodology may provide novel insight into the structure of nucleons, particularly in cases where experimental data and theoretical QCD constraints are limited, such as those pertinent to gluon nPDFs. Therefore, we applied this methodology to gluon nPDFs, analyzing the results from two commonly used global fitting groups, EPPS21 and nNNPDF3.0. Our analysis suggests that the central values of EPPS21 align more closely with the ``minimum relative entropy\" hypothesis. This finding underscores the utility of the proposed method and provides a valuable reference for future global fitting of nPDFs.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-08-07T09:04:39+00:00",
+      "updated": "2026-05-10T11:25:18+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.05171v3",
+      "html_url": "https://arxiv.org/html/2508.05171v3",
+      "entry_url": "http://arxiv.org/abs/2508.05171v3"
+    },
+    {
+      "arxiv_id": "2508.05897v4",
+      "base_id": "2508.05897",
+      "title": "A spacetime-covariant approach to inertial and accelerated quantum clocks in first-quantization",
+      "authors": [
+        "Eduardo A. B. Oliveira",
+        "Andre G. S. Landulfo"
+      ],
+      "abstract": "It is expected that a quantum theory of gravity will radically alter our current notion of spacetime geometry. However, contrary to what was commonly assumed for many decades, quantum gravity effects could manifest in scales much larger than the Planck scale, provided that there is enough coherence in the superposition of geometries. Quantum clocks, i.e. quantum mechanical systems whose internal dynamics can keep track of proper time lapses, are a very promising tool for probing such low-energy quantum gravity effects. In this work, we contribute to this subject by proposing a spacetime-covariant formalism to describe clocks in first quantization. In particular, we account for the possibility of dynamically accelerated clocks via suitable couplings with external fields. We find that a particular decomposition of the (quadratic) clock Hamiltonian into positive- and negative-mass sectors, when attainable, enables one to compute the evolution of the system directly in terms of the clock's proper time while maintaining explicit covariance. When this decomposition is possible, the evolution obtained is always unitary, even with couplings with external fields used to, e.g., accelerate the clocks. We then apply this formulation to compute the joint time evolution of a pair of quantum clocks in two cases: (i) inertial clocks with relative motion and (ii) charged clocks accelerated by a uniform magnetic field. In both cases, when our clocks are prepared in coherent states, we find that the density matrix $ρ_{τ_2|τ_1}$ describing time-measurements of the two clocks yields not only conditional probabilities whose peaks match exactly the classical expected values for time dilation, but also yields coherent quantum fluctuations around that peak, with a profile which is either (i) a pure Gaussian or (ii) a Gaussian combined with a periodic modulation.",
+      "categories": [
+        "gr-qc",
+        "quant-ph"
+      ],
+      "published": "2025-08-07T23:10:46+00:00",
+      "updated": "2026-05-12T20:03:19+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.05897v4",
+      "html_url": "https://arxiv.org/html/2508.05897v4",
+      "entry_url": "http://arxiv.org/abs/2508.05897v4"
+    }
+  ],
+  "total": 2
+}

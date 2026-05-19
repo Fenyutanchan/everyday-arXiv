@@ -1,0 +1,27 @@
+{
+  "date": "2025-06-03",
+  "papers": [
+    {
+      "arxiv_id": "2506.02944v2",
+      "base_id": "2506.02944",
+      "title": "Modeling an internal structure of a black hole using a thermodynamic quasi-particle model",
+      "authors": [
+        "Sergey Bondarenko",
+        "Dima Cheskis",
+        "Raghvendra Singh"
+      ],
+      "abstract": "We develop an effective thermodynamic model for a black-hole interior composed of scalar quasiparticles. The interior is represented by two regions: a dense core and a surrounding crust, whose properties are controlled by the quasiparticle kinetics. In the core, quasiparticles are assumed to have vanishing classical kinetic energy, so the total core energy is dominated by a potential-energy functional $U(N)$ that depends only on the quasiparticle number $N$. As a consequence, the appropriate intensive variable governing the core thermodynamics is an inverse-temperature--like parameter $β$, introduced as the thermodynamic conjugate to $U$; it replaces the usual kinetic temperature $T$ in the core equations of state and can drive the core pressure and energy density negative in the relevant regime. Different core states are further characterized by the mean occupation number $η$. In the crust, quasiparticles remain trapped at finite kinetic temperature, and the no-escape condition is implemented via a truncation of the phase-space integrals, yielding an explicit analytic coupling between thermodynamics and gravity. The resulting framework provides a unified quasiparticle description of core and crust, clarifies the thermodynamic origin of negative pressure/energy in the interior, and provides an effective thermodynamic setting for exploring how semiclassical or microscopic resolutions of the singularity problem might be constrained.",
+      "categories": [
+        "gr-qc",
+        "cond-mat.stat-mech",
+        "hep-ph"
+      ],
+      "published": "2025-06-03T14:43:09+00:00",
+      "updated": "2026-04-29T04:00:59+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.02944v2",
+      "html_url": "https://arxiv.org/html/2506.02944v2",
+      "entry_url": "http://arxiv.org/abs/2506.02944v2"
+    }
+  ],
+  "total": 1
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2023-05-23",
+  "papers": [
+    {
+      "arxiv_id": "2305.13834v3",
+      "base_id": "2305.13834",
+      "title": "Methodological refinement of the submillimeter galaxy cross-correlation function measurements and their uncertainty estimation",
+      "authors": [
+        "J. González-Nuevo",
+        "L. Bonavera",
+        "M. M. Cueli",
+        "D. Crespo",
+        "J. M. Casas"
+      ],
+      "abstract": "In this study, we aim to develop a new methodology to estimate the cross-correlation function and uncertainties and apply it to the analysis of magnification bias in galaxy surveys. We adopt a new methodological framework that uses a statistically rigorous approach to obtain more robust measurements for constraining cosmological parameters. This strategy involves using the full field area to count the number of different pairs for each field and combine them into a single estimation, reducing statistical uncertainty and accounting for the full information available in the data. The covariance matrix was estimated internally using an oversampled bootstrap method. We divided each field into at least five patches, that were defined automatically using a k-mean clustering algorithm. We investigate the robustness of the new methodology by comparing the results from a spectroscopic lens sample with those from a photometric lens sample, finding them to be compatible. We also analyse the cross-correlation function and auto-correlation function for individual fields in the three GAMA fields, comparing both samples. The G15 field was found to have a stronger signal compared to the other fields, suggesting that the stronger cross-correlation is produced by the rare combination of two excesses of large-scale structure in both the foreground and background samples. Our results demonstrate the robustness of the new methodology and suggest that the differences with respect to the mini-tile previously used approached may be due to physical properties of the samples themselves. The identified G15 anomalous signal warrants further investigation into its impact on cosmological parameters.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2023-05-23T08:55:13+00:00",
+      "updated": "2026-05-05T13:59:11+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2305.13834v3",
+      "html_url": "https://arxiv.org/html/2305.13834v3",
+      "entry_url": "http://arxiv.org/abs/2305.13834v3"
+    }
+  ],
+  "total": 1
+}

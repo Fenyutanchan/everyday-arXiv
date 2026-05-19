@@ -1,0 +1,124 @@
+{
+  "date": "2026-01-23",
+  "papers": [
+    {
+      "arxiv_id": "2601.17119v2",
+      "base_id": "2601.17119",
+      "title": "NO LESS: Novel Opportunities for Light Exotic Searches at the SPS",
+      "authors": [
+        "Babette Döbrich",
+        "Jan Jerhot",
+        "Karim Massri",
+        "Jonathan L. Schubert",
+        "Tommaso Spadaro"
+      ],
+      "abstract": "A powerful way to test models with feebly interacting particles in the MeV to GeV mass range is through proton beam-dump experiments. In this paper, we compare the current sensitivity of CERN's NA62 experiment running in beam-dump mode with that of a hypothetical experiment using the same detectors in a future CERN ECN3 beam-dump facility. When optimising such an experiment, the geometric setup is particularly relevant for the specific new-physics scenario under study, since different production mechanisms can generate different angular distributions of new particles. We show that even the most minimalistic reconfiguration of the existing NA62 experiment's detectors can already provide a very competitive sensitivity and collect data immediately after the beam is available.",
+      "categories": [
+        "hep-ex",
+        "hep-ph"
+      ],
+      "published": "2026-01-23T19:00:02+00:00",
+      "updated": "2026-04-20T16:50:52+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.17119v2",
+      "html_url": "https://arxiv.org/html/2601.17119v2",
+      "entry_url": "http://arxiv.org/abs/2601.17119v2"
+    },
+    {
+      "arxiv_id": "2601.17117v2",
+      "base_id": "2601.17117",
+      "title": "Non-Equilibrium Relativistic Core Collapse of Self-Interacting Dark Matter Halos -- Limits On Seed Black Hole Mass",
+      "authors": [
+        "Hua-Peng Gu",
+        "Fangzhou Jiang",
+        "Xian Chen",
+        "Ran Li"
+      ],
+      "abstract": "Recent observations of supermassive black holes (SMBHs) at high redshifts pose challenges to standard seeding mechanisms. Among competing models, the collapse of self-interacting dark matter (SIDM) halos provide a plausible explanation for early SMBH formation. While previous studies on modeling the gravothermal collapse of SIDM halos have primarily focused on non-relativistic evolution under the assumption of hydrostatic equilibrium, We advance this framework by relaxing the equilibrium assumption and additionally incorporating general-relativistic effects. To this end, we introduce the Misner-Sharp formalism to the SIDM context for the first time. Our model reproduces the standard hydrostatic models in the early long-mean-free-path (LMFP) regime, but displays interesting distinct behavior in the late short-mean-free-path (SMFP) regime, where intense outward heat flux drives a rapid expansion of the outer envelope, removing mass from the core and significantly decelerating the collapse. Our general relativistic treatment enables us to follow halo evolution to the final stage when the apparent horizon forms. Our simulation yields a seed black hole mass of approximately $3\\times10^{-8}$ of the halo mass at horizon formation, suggesting that additional mechanisms such as baryonic effects are critical for seeding black holes that are sufficiently massive to account for SMBHs in the early Universe.",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.HE",
+        "gr-qc"
+      ],
+      "published": "2026-01-23T19:00:02+00:00",
+      "updated": "2026-04-25T12:29:32+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.17117v2",
+      "html_url": "https://arxiv.org/html/2601.17117v2",
+      "entry_url": "http://arxiv.org/abs/2601.17117v2"
+    },
+    {
+      "arxiv_id": "2601.16391v2",
+      "base_id": "2601.16391",
+      "title": "Extraction of the color dipole amplitude with physics-informed neural networks",
+      "authors": [
+        "Wei Kou",
+        "Xurong Chen"
+      ],
+      "abstract": "The process-independence of the color dipole amplitude is a cornerstone of high-energy Quantum Chromodynamics (QCD). However, standard phenomenological approaches typically rely on rigid parametric ansatzes and often require ad-hoc geometric adjustments to reconcile inclusive and diffractive measurements. To resolve this tension, we introduce Physics-Informed Neural Networks (PINNs) employing a ``Teacher--Student'' strategy. The physics-based momentum-space Balitsky-Kovchegov evolution dynamics act as the ``Teacher,'' constraining the solution manifold, while the network ``Student'' is refined against inclusive HERA $F_2$ data. This approach extracts a model-independent dipole amplitude without assuming initial states. Strikingly, we demonstrate that this amplitude -- without parameter retuning or geometric rescaling -- successfully predicts the absolute normalization and kinematic dependence of exclusive $J/ψ$ photoproduction cross-sections. This parameter-free prediction of the saturation dynamics provides promising evidence for the process-independence of the gluon saturation scale and establishes PINNs as a transformative paradigm for uncovering non-perturbative QCD structures.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-01-23T01:43:24+00:00",
+      "updated": "2026-05-07T12:57:07+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.16391v2",
+      "html_url": "https://arxiv.org/html/2601.16391v2",
+      "entry_url": "http://arxiv.org/abs/2601.16391v2"
+    },
+    {
+      "arxiv_id": "2601.16452v3",
+      "base_id": "2601.16452",
+      "title": "BRST methods for constructing quartic actions for spinning black holes",
+      "authors": [
+        "Julian Lang",
+        "Mirian Tsulaia"
+      ],
+      "abstract": "We develop a systematic approach to the computation of gauge invariant quartic interactions between reducible massive and massless higher spin fields. Extending the BRST formulation of existing cubic results, we obtain a single constraint for each off-shell quartic vertex that ensures both the gauge invariance of the Lagrangian and associativity of the gauge transformations at quartic order. A solution to these equations is presented. The general equation is then reduced to an on-shell version to reduce complexity. We find example solutions for the off-shell and on-shell quartic vertices in low spin examples relevant to the problem of black hole scattering.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2026-01-23T05:12:03+00:00",
+      "updated": "2026-05-07T05:33:04+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.16452v3",
+      "html_url": "https://arxiv.org/html/2601.16452v3",
+      "entry_url": "http://arxiv.org/abs/2601.16452v3"
+    },
+    {
+      "arxiv_id": "2601.17115v2",
+      "base_id": "2601.17115",
+      "title": "Effective geometrodynamics for renormalization-group improved black-hole spacetimes in spherical symmetry",
+      "authors": [
+        "Johanna Borissova",
+        "Raúl Carballo-Rubio"
+      ],
+      "abstract": "We consider the spherically reduced Einstein-Hilbert action, Einstein field equations and Schwarzschild spacetime modified by a renormalization-group (RG) scale-dependent gravitational Newton coupling, and present a systematic and operational approach to such an RG-improvement. The master field equations for spherically symmetric gravitational fields, recently constructed from two-dimensional Horndeski theory, allow us to retain partial contributions from higher-curvature truncations of the effective action, while preserving the second-order nature of the resulting field equations. Static RG-improved black-hole spacetimes with an effective gravitational coupling depending on the areal radius and the Misner-Sharp mass are derived as vacuum solutions to these master field equations, and are thereby identified as solutions to generally covariant two-dimensional Horndeski theories. We discuss explicitly the embedding of previous key works on RG-improvement into the newly developed formalism to illustrate its broad range of applicability. This formalism moreover allows us to establish explicitly the discrepancies in the outcomes of RG-improvement when implemented at the level of the action, in the field equations, or in the Schwarzschild solution.",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2026-01-23T19:00:00+00:00",
+      "updated": "2026-05-08T14:46:53+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.17115v2",
+      "html_url": "https://arxiv.org/html/2601.17115v2",
+      "entry_url": "http://arxiv.org/abs/2601.17115v2"
+    },
+    {
+      "arxiv_id": "2601.16887v2",
+      "base_id": "2601.16887",
+      "title": "General orbital perturbation theory in Schwarzschild space-time",
+      "authors": [
+        "Oleksii Yanchyshen",
+        "Eva Hackmann",
+        "Claus Lämmerzahl"
+      ],
+      "abstract": "We derive general relativistic Gaussian equations for osculating elements for orbits under the influence of a perturbing force without any restrictions in an underlying Schwarzschild space-time. Such a formulation provides a way to describe the evolution of orbital parameters in strong gravity relativistic settings. As examples of external forces we considered Kerr and $q$-metric space-times generated forces, for which we solve equations for osculating elements in linear approximation. For the Kerr space-time in the post-Newtonian limit, our result reproduces the well-known Lense--Thirring precession of the longitude of the ascending node.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2026-01-23T16:53:00+00:00",
+      "updated": "2026-05-14T13:48:45+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.16887v2",
+      "html_url": "https://arxiv.org/html/2601.16887v2",
+      "entry_url": "http://arxiv.org/abs/2601.16887v2"
+    }
+  ],
+  "total": 6
+}

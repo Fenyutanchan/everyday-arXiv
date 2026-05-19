@@ -1,0 +1,189 @@
+{
+  "date": "2026-03-31",
+  "papers": [
+    {
+      "arxiv_id": "2603.29947v2",
+      "base_id": "2603.29947",
+      "title": "Constraining Lyman-Werner Feedback from Velocity Acoustic Oscillations in the Cosmic Dawn 21 cm Signal",
+      "authors": [
+        "Xi Du",
+        "Bin Yue",
+        "Furen Deng",
+        "Yidong Xu",
+        "Yan Gong",
+        "Ely D. Kovetz",
+        "Xuelei Chen"
+      ],
+      "abstract": "During Cosmic Dawn, Pop III stars could be formed in minihalos through molecular hydrogen (H$_2$) cooling. The minimum halo mass required for H$_2$ cooling is highly sensitive to Lyman-Werner (LW) radiation, which dissociates H$_2$ and regulates star formation. However, the efficiency of LW feedback remains poorly constrained due to the lack of direct observations of Pop III stars. The dark matter-baryon relative streaming velocity suppresses star formation in low-mass halos and imprints characteristic Velocity Acoustic Oscillation (VAO) features in the 21 cm power spectrum. These features are particularly sensitive to the cooling threshold mass: if LW feedback raises the minimum halo mass above the streaming-sensitive regime, the VAO signal is strongly suppressed. This makes the VAO wiggles a promising indirect probe of LW feedback during Cosmic Dawn. We investigate the feasibility of constraining LW feedback parameters using semi-numerical 21 cm lightcone simulations. We compute the multi-frequency angular power spectrum (MAPS) to isolate the VAO features and train a Convolutional Neural Network (CNN) to infer the LW feedback efficiency and the baseline cooling threshold. We find that in the absence of instrumental noise, the LW feedback efficiency can be accurately recovered from the VAO features. However, for the SKA-low AA* configuration, meaningful constraints require integration times exceeding $10^4$ hours under optimistic foreground assumptions. Nonetheless, our results demonstrate that VAO features provide a physically robust and potentially powerful probe of LW feedback at Cosmic Dawn.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2026-03-31T16:17:25+00:00",
+      "updated": "2026-04-19T14:02:16+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.29947v2",
+      "html_url": "https://arxiv.org/html/2603.29947v2",
+      "entry_url": "http://arxiv.org/abs/2603.29947v2"
+    },
+    {
+      "arxiv_id": "2603.29443v2",
+      "base_id": "2603.29443",
+      "title": "Cosmological brick walls & quantum chaotic dynamics of de Sitter horizons",
+      "authors": [
+        "José M. Begines",
+        "Suman Das",
+        "Hyun-Sik Jeong",
+        "Juan F. Pedraza"
+      ],
+      "abstract": "Originally proposed by 't Hooft, the brick wall model has recently reemerged as a useful framework for probing quantum aspects of horizon physics, particularly in the context of holography. In this paper, we apply it to asymptotically de Sitter spacetimes. We compute the normal modes of a massless scalar field in pure de Sitter space and in the Schwarzschild-de Sitter black hole, and analyze the resulting single-particle spectra using the level-spacing distribution, the spectral form factor, and Krylov complexity. In pure de Sitter, the spectrum exhibits clear long-range signatures of chaos despite not obeying a conventional Wigner-Dyson level-spacing distribution. The Schwarzschild-de Sitter case is qualitatively richer: in the WKB regime, where tunneling between the two classically allowed regions is exponentially suppressed, the presence of both an event horizon and a cosmological horizon gives rise to two independent near-horizon sectors, so that the full spectrum is the superposition of two subsequences. As a result, the combined level-spacing distribution develops a nonzero value at $s=0$ even when spectral correlations remain. Nevertheless, for sufficiently small stretched-horizon fluctuations, the superposed spectrum still exhibits an approximately linear ramp in the spectral form factor and a pronounced peak in Krylov complexity. Our results show that the absence of strict level repulsion should not, by itself, be taken as evidence against chaos, and that the spectral form factor and Krylov complexity provide sharper diagnostics of the underlying chaotic dynamics.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2026-03-31T08:48:53+00:00",
+      "updated": "2026-04-17T08:16:40+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.29443v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2603.29443v2"
+    },
+    {
+      "arxiv_id": "2603.30003v2",
+      "base_id": "2603.30003",
+      "title": "The scalar--Maxwell--$Λ(x)$ system: Wormhole spacetimes without nonlinear electrodynamics in unimodular gravity",
+      "authors": [
+        "G. Alencar",
+        "T. M. Crispim"
+      ],
+      "abstract": "In General Relativity, constructing exact traversable wormholes coupled to electromagnetic fields typically requires complex Non-Linear Electrodynamics (NED). We demonstrate that Unimodular Gravity (UG) elegantly resolves this limitation. By relaxing energy-momentum conservation, UG introduces a dynamical cosmological term, $Λ(x)$, enabling a semi-classical energy exchange between matter and the vacuum. Exploiting this mechanism, we construct exact Scalar-Maxwell-$Λ(x)$ wormholes. We show that, provided the shape function $b(r)$ satisfies specific geometric conditions, these exact spacetimes can be fully supported by a phantom scalar field and standard linear Maxwell electrodynamics. This approach entirely bypasses NED, highlighting UG as a powerful framework for modeling non-trivial topologies with simplified, well-understood classical fields.",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2026-03-31T16:58:07+00:00",
+      "updated": "2026-04-23T16:44:57+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.30003v2",
+      "html_url": "https://arxiv.org/html/2603.30003v2",
+      "entry_url": "http://arxiv.org/abs/2603.30003v2"
+    },
+    {
+      "arxiv_id": "2604.00078v2",
+      "base_id": "2604.00078",
+      "title": "Regular Black Strings and BTZ Black Hole in Unimodular Gravity Supported by Maxwell Fields",
+      "authors": [
+        "G. Alencar",
+        "V. H. U. Borralho"
+      ],
+      "abstract": "In this work, we obtain a Maxwell source for regular black string and BTZ black hole using the framework of unimodular gravity. This type of alternative to general relativity imposes an additional condition on the spacetime volume element, namely that it is constant, $\\det(g_{μν}) = g_0$, and thus restricts diffeomorphism invariance to volume-preserving transformations. In this procedure, the cosmological constant does not appear directly in the action, but rather as an integration constant of the field equations. By using the non-conservation of the energy-momentum tensor, we show that the integration constant becomes a function $Λ(x)$, which is interpreted as a vacuum contribution depending on the radial coordinate, in our case. From the definition of the geometric function $H(r)$, we verify the validity of Maxwell electrodynamics as a source for the solutions and compute the vacuum contribution $Λ(r)$ that supports the solutions.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2026-03-31T16:11:08+00:00",
+      "updated": "2026-04-24T19:03:33+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.00078v2",
+      "html_url": "https://arxiv.org/html/2604.00078v2",
+      "entry_url": "http://arxiv.org/abs/2604.00078v2"
+    },
+    {
+      "arxiv_id": "2604.00095v2",
+      "base_id": "2604.00095",
+      "title": "Instanton condensation and a new phase of BPS black holes",
+      "authors": [
+        "Jack Holden"
+      ],
+      "abstract": "We analyse the 1/16-BPS superconformal index for BPS black holes at equal charge in $AdS_5 \\times S_5$, uncovering evidence for a new instability in the microcanonical ensemble along the small black hole saddle. This is indicated by instanton condensation in the matrix model description of the index. This instability occurs for black holes of radius close to, but below, the scale at which black holes become `small', and implies a new dominant phase in this region. We propose a connection to the partially deconfined phase in the field theory dual description. This would resolve recent confusion about the location of the partially deconfined phase in the BPS phase diagram and promises new avenues for understanding confinement, partial deconfinement, and the encoding of colour degrees of freedom under the holographic map. We also motivate the importance of instantons in partial deconfinement from a matrix model perspective.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2026-03-31T18:18:42+00:00",
+      "updated": "2026-04-30T01:25:15+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.00095v2",
+      "html_url": "https://arxiv.org/html/2604.00095v2",
+      "entry_url": "http://arxiv.org/abs/2604.00095v2"
+    },
+    {
+      "arxiv_id": "2603.29780v3",
+      "base_id": "2603.29780",
+      "title": "Conventional and Unitarity-Conserving Peccei-Quinn Inflation Models and ACT",
+      "authors": [
+        "J. McDonald"
+      ],
+      "abstract": "We compare conventional non-minimally coupled Peccei-Quinn (PQ) inflation with a version of the model in which unitarity conservation is imposed by additional Jordan frame interactions. Assuming instantaneous reheating, the unitarity-conserving model is within 1$σ$ agreement with the central value of the scalar spectral index reported by the ACT collaboration, whereas conventional PQ inflation is more than 2$σ$ below the ACT central value. In the case where dark matter is composed of axions and PQ symmetry is not restored after inflation, the axion isocurvature constraint of the unitarity-conserving model typically allows a much larger axion decay constant $f_{a}$ than the conventional model, with the conventional model upper bound being comparable only if the PQ scalar self-coupling is extremely small, $λ\\lesssim 10^{-10}$. For $λ= 0.1$, the axion isocurvature upper bounds are $f_{a} \\lesssim 1.1 \\times 10^{9} $ GeV for conventional PQ inflation and $f_{a} \\lesssim 6.4 \\times 10^{13}$ GeV for unitarity-conserving PQ inflation, with the latter bound being independent of $λ$. We also find a new isocurvature upper bound for conventional PQ inflation which is 650 times smaller than the existing bound. A modest reduction of the reheating temperature of the unitarity-conserving model from its maximum possible value will ensure that the PQ symmetry is not restored after inflation, allowing values of $f_{a}$ up to $6.4 \\times 10^{13}$ GeV. Thus only the unitarity-conserving PQ inflation model allows $f_{a}$ to access values greater than the symmetry restoration cosmological upper bound $\\sim 10^{12}$ GeV with naturally large values of the PQ scalar self-coupling.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "published": "2026-03-31T14:20:07+00:00",
+      "updated": "2026-05-04T11:26:56+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.29780v3",
+      "html_url": "https://arxiv.org/html/2603.29780v3",
+      "entry_url": "http://arxiv.org/abs/2603.29780v3"
+    },
+    {
+      "arxiv_id": "2604.00111v2",
+      "base_id": "2604.00111",
+      "title": "Eppur non si trovano Vol. 2: No Planetary-mass Primordial Black Holes toward the Andromeda Galaxy",
+      "authors": [
+        "Przemek Mróz",
+        "Andrzej Udalski"
+      ],
+      "abstract": "A recent preprint by Sugiyama et al. reported the discovery of twelve candidates for short-timescale (less than one day) gravitational microlensing events based on high-cadence photometric observations of the Andromeda Galaxy (M31) using the Subaru Hyper Suprime-Cam. These detections were attributed to a large population of planetary-mass primordial black holes (PBHs) that could account for the entirety of the dark matter in the Milky Way and M31 halos. However, these results are in clear tension with previous searches for short-timescale microlensing events toward the Magellanic Clouds, such as those by the OGLE survey. In addition, both the temporal and spatial distributions of the Subaru candidates are inconsistent with expectations for microlensing events. Here, we reanalyze the Subaru data using an independent difference image analysis photometric pipeline. We find that all twelve candidates identified by Sugiyama et al. exhibit asymmetric light curves and/or variability on multiple nights of Subaru observations. Our analysis reveals that among them ten objects are RR Lyrae stars, one is an eclipsing binary, and one is an unclassified variable star. We find no compelling evidence for short-timescale microlensing events among the candidates identified in the Subaru data set, nor for a significant population of planetary-mass PBHs as dark matter components. Our results underscore the necessity of robust variable-star rejection in high-cadence microlensing searches using large telescopes.",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.GA",
+        "astro-ph.IM",
+        "astro-ph.SR",
+        "gr-qc"
+      ],
+      "published": "2026-03-31T18:22:51+00:00",
+      "updated": "2026-05-04T07:06:28+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.00111v2",
+      "html_url": "https://arxiv.org/html/2604.00111v2",
+      "entry_url": "http://arxiv.org/abs/2604.00111v2"
+    },
+    {
+      "arxiv_id": "2603.29325v2",
+      "base_id": "2603.29325",
+      "title": "Baryonic vortices in rotating nuclear matter",
+      "authors": [
+        "Kazuya Mameda",
+        "Muneto Nitta",
+        "Zebin Qiu"
+      ],
+      "abstract": "We investigate baryonic vortices as topological excitations in rotating nuclear matter within the framework of chiral perturbation theory. We identify two distinct configurations: local and global vortices, both carrying the baryon number as the topological charge associated with the third homotopy group $π_3(S^3)$. For the local vortex, similar to the vortex Skyrmion in a finite isospin chemical potential, charged pions form the condensate on the boundary and have a phase winding, while the neutral pion varies along the rotation axis inside the vortex core. On the other hand, a global vortex is formed by the condensate and phase winding of the neutral pion, while the charged pions vary on the inside along the rotation axis. Crucially, although global vortices are usually discarded in infinite systems due to logarithmic divergence in energy, we demonstrate that the finite-size constraint dictated by causality in a rotating frame regularizes the divergence physically, rendering the global vortex a viable excitation. We reveal an energetic competition between global and local vortex states, under the tunable parameters of rotation, system size, and baryon chemical potential. Our results suggest that the previously overlooked global vortex can play a significant role in the topological structure of rotating dense QCD matter.",
+      "categories": [
+        "hep-ph",
+        "nucl-th"
+      ],
+      "published": "2026-03-31T06:47:04+00:00",
+      "updated": "2026-05-07T06:04:58+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.29325v2",
+      "html_url": "https://arxiv.org/html/2603.29325v2",
+      "entry_url": "http://arxiv.org/abs/2603.29325v2"
+    },
+    {
+      "arxiv_id": "2603.29581v2",
+      "base_id": "2603.29581",
+      "title": "Imprint of the adjoint meson spectrum in the decay patterns of hidden-bottom tetraquarks",
+      "authors": [
+        "Sipaz Sharma",
+        "Juan Andrés Urrea-Niño",
+        "Nora Brambilla",
+        "Francesco Knechtli",
+        "Michael Peardon"
+      ],
+      "abstract": "We aim to clarify the experimentally observed near-degeneracy and decay patterns of the isospin, $I=1$, hidden-bottom tetraquarks $Z_b(10610)$ and $Z_b(10650)$ with quantum numbers $J^{P}=1^{+}$.We refer to them as $Z_b$ and $Z_b^{'}$, respectively. In particular, we find first evidence that the suppression of the decay of $Z_b^{'}$ to $B\\bar{B^*}$ can be understood in the context of the Born-Oppenheimer Effective Field Theory (BOEFT). BOEFT enables writing both $Z_b$ and $Z_b^{'}$ as superpositions of $Z_1$ and $Z_2$ tetraquark configurations. This decomposition naturally relates the decay patterns of $Z_b$ and $Z_b^{'}$ to the degeneracy of the light degrees of freedom associated with $Z_1$ and $Z_2$ tetraquarks, {\\it i.e.,} $1^{--}$and $0^{-+}$ adjoint mesons, respectively. By calculating the adjoint meson correlators within the framework of lattice QCD, we get good indications that these adjoint mesons are degenerate.",
+      "categories": [
+        "hep-lat",
+        "hep-ex",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "published": "2026-03-31T11:03:17+00:00",
+      "updated": "2026-05-15T17:07:57+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.29581v2",
+      "html_url": "https://arxiv.org/html/2603.29581v2",
+      "entry_url": "http://arxiv.org/abs/2603.29581v2"
+    }
+  ],
+  "total": 9
+}

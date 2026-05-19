@@ -1,0 +1,66 @@
+{
+  "date": "2025-12-12",
+  "papers": [
+    {
+      "arxiv_id": "2512.11717v2",
+      "base_id": "2512.11717",
+      "title": "Renormalization of mixing angles and computation of the hadronic $W$ decay widths",
+      "authors": [
+        "Simonas Draukšas"
+      ],
+      "abstract": "We provide a practical prescription for a variant of the On-Shell scheme which does not require mixing matrix counterterms at all, i.e. $δV=0$. The scheme is based on the fact that one can always choose a basis in which there are no mixing matrices (angles) and, therefore, the corresponding counterterms are superfluous. Importantly, the prescription is model- and process-independent and is formulated entirely in terms of self-energies. As an example, we compute the 1-loop hadronic $W$-boson decay widths in the Standard Model with different renormalization schemes of the quark mixing matrix found in the literature and the one found in this paper. For full consistency, the principles of this scheme are employed both for the quark mixing matrix and for the Weinberg angle.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-12-12T16:54:23+00:00",
+      "updated": "2026-04-15T11:56:26+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.11717v2",
+      "html_url": "https://arxiv.org/html/2512.11717v2",
+      "entry_url": "http://arxiv.org/abs/2512.11717v2"
+    },
+    {
+      "arxiv_id": "2512.11955v2",
+      "base_id": "2512.11955",
+      "title": "Completeness from Gravitational Scattering",
+      "authors": [
+        "Francesco Calisto",
+        "Clifford Cheung",
+        "Grant N. Remmen",
+        "Francesco Sciotti",
+        "Michele Tarquini"
+      ],
+      "abstract": "We prove that symmetry in the presence of gravity implies a version of the completeness hypothesis. For a broad class of theories, we demonstrate that the existence of finitely many charged particles logically necessitates the existence of infinitely many charged particles populating the entire charge lattice. Our conclusions follow from the consistency of perturbative gravitational scattering and require the following ingredients: 1) a weakly coupled ultraviolet completion of gravity, 2) a nonabelian symmetry $G$, gauged or global, whose Cartan subgroup generates the abelian charge lattice, and 3) a spectrum containing some finite set of charged representations, in the simplest cases taken to be a single particle in the fundamental. Under these conditions, the abelian charge lattice is completely filled by single-particle states for $G=SO(N)$ with $N\\geq 5$ and $G=SU(N)$ with $N\\geq 3$, which in turn implies completeness for other symmetry groups such as $Spin(N)$, $Sp(N)$, and $E_8$. Curiously, a corollary of our results is that the $SU(5)$ and $SO(10)$ grand unified theories have precisely the minimal field content needed to derive completeness using our methodology.",
+      "categories": [
+        "hep-th",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "published": "2025-12-12T19:00:00+00:00",
+      "updated": "2026-05-11T14:52:47+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.11955v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2512.11955v2"
+    },
+    {
+      "arxiv_id": "2512.11285v3",
+      "base_id": "2512.11285",
+      "title": "JUNO's Impact on the Neutrino Mass Ordering from Lorentz Invariance Violation",
+      "authors": [
+        "Tatiana Araya-Santander",
+        "Cesar Bonilla",
+        "Supriya Pan"
+      ],
+      "abstract": "We explore the potential of the Jiangmen Underground Neutrino Observatory (JUNO) to probe new physics by searching for Lorentz-invariance violation (LIV). Using the 59.1-day dataset recently released by this experiment, we analyze neutrino oscillations to place new constraints on the LIV parameters in the CPT-even ($c_{ee} - c_{eμ}$, $c_{ee} - c_{eτ}$) and CPT-odd ($a_{ee} - a_{eμ}$, $a_{ee} - a_{eτ}$) sectors. Our analysis reveals a significant shift in the oscillation parameter space of $\\sin^2θ_{12}-Δm^2_{21}$ when LIV is included; with the best-fit point for normal ordering moving to the higher values of the solar angle $θ_{12}$, a strong preference emerges for inverted mass ordering. In particular, the $c_{ee} - c_{eτ}$ and $a_{ee} - a_{eτ}$ sectors show the most pronounced effects. We report the most stringent bounds from JUNO to date on these LIV parameters, showcasing the detector's unique sensitivity to physics beyond the Standard Model.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2025-12-12T05:12:27+00:00",
+      "updated": "2026-05-12T19:26:03+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.11285v3",
+      "html_url": "https://arxiv.org/html/2512.11285v3",
+      "entry_url": "http://arxiv.org/abs/2512.11285v3"
+    }
+  ],
+  "total": 3
+}

@@ -1,0 +1,61 @@
+{
+  "date": "2025-05-29",
+  "papers": [
+    {
+      "arxiv_id": "2505.23959v3",
+      "base_id": "2505.23959",
+      "title": "How Many Times Should We Matched Filter Gravitational Wave Data? A Comparison of GstLAL's Online and Offline Performance",
+      "authors": [
+        "Prathamesh Joshi",
+        "Wanting Niu",
+        "Chad Hanna",
+        "Rachael Huxford",
+        "Divya Singh",
+        "Leo Tsukada",
+        "Shomik Adhicary",
+        "Pratyusava Baral",
+        "Amanda Baylor",
+        "Kipp Cannon",
+        "Sarah Caudill",
+        "Michael W. Coughlin",
+        "Bryce Cousins",
+        "Jolien D. E. Creighton",
+        "Becca Ewing",
+        "Heather Fong",
+        "Richard N. George",
+        "Shaon Ghosh",
+        "Patrick Godwin",
+        "Reiko Harada",
+        "Yun-Jing Huang",
+        "Cody Messick",
+        "Soichiro Morisaki",
+        "Debnandini Mukherjee",
+        "Alexander Pace",
+        "Cort Posnansky",
+        "Anarya Ray",
+        "Surabhi Sachdev",
+        "Shio Sakon",
+        "Urja Shah",
+        "Ron Tapia",
+        "Koh Ueno",
+        "Aaron Viets",
+        "Leslie Wade",
+        "Madeline Wade",
+        "Zach Yarbrough",
+        "Noah Zhang"
+      ],
+      "abstract": "Searches for gravitational waves from compact binary coalescences employ a process called matched filtering, in which gravitational wave strain data is cross-correlated against a bank of waveform templates. Data from every observing run of the LIGO, Virgo, and KAGRA collaboration is typically analyzed in this way twice, first in a low-latency mode in which gravitational wave candidates are identified in near-real time, and later in a high-latency mode. Such high-latency analyses have traditionally been considered more sensitive, since background data from the full observing run is available for assigning significance to all candidates, as well as more robust, since they do not need to worry about keeping up with live data. In this work, we present a novel technique to use the matched filtering data products from a low-latency analysis and re-process them by assigning significances in a high-latency way, effectively removing the need to perform matched filtering a second time. To demonstrate the efficacy of our method, we analyze 38 days of LIGO and Virgo data from the third observing run (O3) using the GstLAL pipeline, and show that our method is as sensitive and reliable as a traditional high-latency analysis. Since matched filtering represents the vast majority of computing time for a traditional analysis, our method greatly reduces the time and computational burden required to produce the same results as a traditional high-latency analysis. Consequently, it has already been adopted by GstLAL for the fourth observing run (O4) of the LIGO, Virgo, and KAGRA collaboration.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "astro-ph.IM"
+      ],
+      "published": "2025-05-29T19:24:24+00:00",
+      "updated": "2026-05-09T05:27:19+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2505.23959v3",
+      "html_url": "https://arxiv.org/html/2505.23959v3",
+      "entry_url": "http://arxiv.org/abs/2505.23959v3"
+    }
+  ],
+  "total": 1
+}

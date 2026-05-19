@@ -1,0 +1,151 @@
+{
+  "date": "2026-04-07",
+  "papers": [
+    {
+      "arxiv_id": "2604.06326v2",
+      "base_id": "2604.06326",
+      "title": "Exotic Higgs Decays at a Muon Collider",
+      "authors": [
+        "JiJi Fan",
+        "Lingfeng Li",
+        "Tao Liu",
+        "Yanhan Wang",
+        "Mingrui Zhou"
+      ],
+      "abstract": "We study the sensitivity of a future muon collider to exotic Higgs decays in a minimal scenario of Standard Model (SM) augmented with a light singlet scalar $S$. We consider the decay $h\\to SS$ and $S$'s subsequently decay back to SM. In particular, we focus on final states with four bottom quarks ($4b$), or two bottom quarks and two muons ($2b2μ$). Analyses are performed for two muon collider benchmark configurations: center-of-mass collision energy $\\sqrt{s}=3~\\mathrm{TeV}$ with $1~\\mathrm{ab}^{-1}$ data and $\\sqrt{s}=10~\\mathrm{TeV}$ with $10~\\mathrm{ab}^{-1}$ data. Machine-learning techniques are applied to suppress backgrounds and mitigate jet-combinatorics effects in both channels. We find that the $4b$ mode could be sensitive to the branching ratio, BR$(h \\to SS \\to 4b)$, of ${\\cal O}(10^{-2})$ at 3 TeV and ${\\cal O}(10^{-3})$ at 10 TeV, significantly improving upon high-luminosity LHC projections. In the Higgs-portal model with $S$ coupling to SM only through mixing with the Higgs, the sensitivities to BR$(h \\to SS)$ remain at the same level given ${\\cal O}(1)$ branching fraction of $S$ decaying into $b$-quarks. The $2b2μ$ mode benefits from a clean dimuon resonance and can probe BR$(h\\to SS\\to 2b2μ)$ down to $10^{-5}$ level at a 10 TeV muon collider. But the sensitivity to BR$(h \\to SS)$ will be significantly reduced due to the small branching fraction of $S$ decaying into muons in the Higgs portal model.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-04-07T18:03:36+00:00",
+      "updated": "2026-04-15T17:13:05+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.06326v2",
+      "html_url": "https://arxiv.org/html/2604.06326v2",
+      "entry_url": "http://arxiv.org/abs/2604.06326v2"
+    },
+    {
+      "arxiv_id": "2604.06103v2",
+      "base_id": "2604.06103",
+      "title": "The SUSY reach of Higgs Factories in the most challenging scenario: scalar $τ$-leptons with lowest cross section and small mass differences",
+      "authors": [
+        "Maria Teresa Núñez Pardo de Vera",
+        "Mikael Berggren",
+        "Jenny List"
+      ],
+      "abstract": "The direct pair-production of the $\\tildeτ$, is one of the most interesting channels to search for SUSY in: the $\\tildeτ$ is likely to be the lightest of the scalar leptons, and the signature of $\\tildeτ$ pair production is one of the experimentally most difficult ones, making it the ``worst'' possible scenario for SUSY searches. The current limit on $\\tildeτ$ production in the general MSSM comes from LEP. Limits obtained at LHC do extend to higher masses, but they are only valid under strong assumptions. Future $e^+e^-$ colliders will be powerful for SUSY searches, offering advantages with respect to previous $e^+e^-$ colliders as well as to hadron machines. In order to quantify their capabilities, the ``worst-case'' scenario for $\\tildeτ$ searches has been studied, taking into account the effect of the $\\tildeτ$ mixing on both $\\tildeτ$ production cross section and on detection efficiency. To evaluate the latter, the ILD detector concept, originally developed for the International Linear Collider (ILC), and the ILC beam conditions at a centre-of-mass energy of $500$\\,GeV have been used for detailed simulations, including for the first time the effect of bunch-crossings containing no hard $e^+e^-$ interaction, but only low-$\\it{P_{T}}$ hadrons from $γγ$ interactions and $e^+e^-$ pairs from beamstrahlung. Still, the obtained exclusion and discovery reaches extend nearly up to the kinematic limit even in the worst-case scenario. This remains true also when the $\\tildeτ$ and the lightest SUSY particle are quite close in mass. The results of the detailed study are extrapolated to centre-of-mass energies, integrated luminosities and beam polarisations of other proposed Higgs factory projects and discussed in view of their respective experimental environments, in particular addressing the case of FCCee.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-04-07T17:15:44+00:00",
+      "updated": "2026-04-14T15:32:03+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.06103v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2604.06103v2"
+    },
+    {
+      "arxiv_id": "2604.06303v2",
+      "base_id": "2604.06303",
+      "title": "Optimization of entanglement harvesting with arbitrary temporal profiles: the limit of second order perturbation theory",
+      "authors": [
+        "Marcos Morote-Balboa",
+        "T. Rick Perche"
+      ],
+      "abstract": "We study the protocol of entanglement harvesting when two local probes couple to the vacuum of a real scalar quantum field with arbitrary temporal profiles. We use a Hermite expansion to efficiently compute smeared field propagators in closed-form, recasting the negativity between the probes as a matrix product. We then optimize the protocol under different signalling conditions, enhancing entanglement harvesting by several orders of magnitude. This optimization would take current experimental proposals beyond the regime of second order perturbation theory.",
+      "categories": [
+        "quant-ph",
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2026-04-07T18:00:00+00:00",
+      "updated": "2026-04-29T12:47:21+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.06303v2",
+      "html_url": "https://arxiv.org/html/2604.06303v2",
+      "entry_url": "http://arxiv.org/abs/2604.06303v2"
+    },
+    {
+      "arxiv_id": "2604.05391v2",
+      "base_id": "2604.05391",
+      "title": "Topologically shadowed quantum criticality: A non-compact conformal manifold",
+      "authors": [
+        "Tianyao Fang",
+        "Weicheng Ye",
+        "Zhengcheng Gu",
+        "Fei Zhou"
+      ],
+      "abstract": "We put forward a proposal for topological quantum critical points (tQCPs) separating non-invertible chiral topological orders in $(2+1)$ dimensions. We conjecture that these tQCPs can be captured by a family of scale-invariant field theories forming a non-compact scale-invariant manifold. A central feature of our proposal is topological shadowing: the underlying critical theory is rigorously constrained by the global topological data of the two adjacent gapped phases. These theories can be further projected into quantum field theories with universal non-local structures. Specifically, we show that the quantum dynamics of the $U(1)$ symmetric critical point uniquely characterized by a topological angle $Θ_{\\text{cft}}$ -- which is defined by a commutator between two Wilson loop operators on a torus -- is determined by the braiding angles $Θ_{1,2}$ of the adjacent gapped phases via the relation $Θ_{\\text{cft}}^{-1} =\\frac{1}{2}[Θ_1^{-1} + Θ_2^{-1}]$. Despite the non-locality, our renormalization group calculations (up to two-loop order) strongly suggest that the theory shall maintain exact scale invariance. This establishes, without supersymmetry, a continuous manifold of fixed points that naturally becomes a conformal manifold when the local structure is further enforced.",
+      "categories": [
+        "cond-mat.str-el",
+        "cond-mat.mes-hall",
+        "hep-th"
+      ],
+      "published": "2026-04-07T03:42:55+00:00",
+      "updated": "2026-04-30T04:25:27+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.05391v2",
+      "html_url": "https://arxiv.org/html/2604.05391v2",
+      "entry_url": "http://arxiv.org/abs/2604.05391v2"
+    },
+    {
+      "arxiv_id": "2604.06526v2",
+      "base_id": "2604.06526",
+      "title": "Traversable double-throat wormholes in a string cloud background",
+      "authors": [
+        "Yvens Amaral",
+        "M. S. Cunha",
+        "C. R. Muniz",
+        "M. O. Tahim"
+      ],
+      "abstract": "This work constructs a new class of traversable wormhole solutions with a double-throat topology, modeled as a localized perturbation of the Ellis-Bronnikov metric in a string cloud background. Embedding diagrams and the analysis of curvature invariants, including the Kretschmann scalar and the Weyl invariant, illustrate the geometric transition from single to double-throat structures as a function of the perturbation amplitude. By imposing the zero-tidal condition, we derive analytical expressions for the energy density and pressures, showing an asymptotic $r^{-2}$ decay characteristic of a string cloud, endowed with the topology of a global monopole. A key finding is that the energy density converges to a positive constant at the center, with the radial pressure becoming negative. This local behavior provides the repulsive support necessary to inflate the inter-throat region with non-exotic matter, concentrating Null Energy Condition violations to the throat vicinities. These results suggest that multi-throat geometries offer a natural mechanism for localizing exotic matter while maintaining a physical asymptotic background.",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2026-04-07T23:44:53+00:00",
+      "updated": "2026-05-05T17:15:02+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.06526v2",
+      "html_url": "https://arxiv.org/html/2604.06526v2",
+      "entry_url": "http://arxiv.org/abs/2604.06526v2"
+    },
+    {
+      "arxiv_id": "2604.05901v2",
+      "base_id": "2604.05901",
+      "title": "Geodesics from Quantum Field Theory: A Case Study in AdS",
+      "authors": [
+        "Vaibhav Burman",
+        "Chethan Krishnan",
+        "Livesh Parajuli"
+      ],
+      "abstract": "Localized one-particle states of a quantum field theory--whether in flat space or on a curved background--are expected to exhibit geodesic motion in an appropriate semiclassical regime. This expectation is often invoked heuristically: in this work we develop two precise implementations and test them in detail in global AdS$_3$. First, we define a covariant ''center-of-mass'' trajectory from the expectation value of the stress tensor operator and show, using only $\\nabla_μ\\langle T^{μν}\\rangle=0$, that it obeys the geodesic equation in the monopole (sufficiently localized) approximation in a general spacetime. This provides a QFT-in-curved-spacetime generalization of the Mathisson-Papapetrou-Dixon framework in classical general relativity. Second, we construct position operators from the Klein--Gordon inner product and mode completeness, and compute their expectation values in generic single-particle wave packet states. We then build explicit normalizable wave packets of a free scalar field in empty AdS$_3$ with tunable energy and angular momentum, and demonstrate analytically and numerically that both prescriptions reproduce the expected radial, circular, and elliptical-like timelike and null geodesics. Our discussion also isolates a natural ultra-relativistic regime in which the wave packet trajectory exhibits a controlled crossover from timelike to null geodesic behavior. We identify precise limits where the localized geodesic interpretation of the wave packet breaks down. On the CFT side, we show that bulk localization--specifically the radial data--is captured by how the state is distributed over global descendants of the dual primary.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2026-04-07T14:06:06+00:00",
+      "updated": "2026-05-07T11:09:37+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.05901v2",
+      "html_url": "https://arxiv.org/html/2604.05901v2",
+      "entry_url": "http://arxiv.org/abs/2604.05901v2"
+    },
+    {
+      "arxiv_id": "2604.05878v2",
+      "base_id": "2604.05878",
+      "title": "Exact WKB analysis of inverted triple-well: resonance, PT-symmetry breaking, and resurgence",
+      "authors": [
+        "Syo Kamata",
+        "Tatsuhiro Misumi",
+        "Cihan Pazarbaşı",
+        "Hidetoshi Taya"
+      ],
+      "abstract": "We study non-Hermitian quantum mechanics of an inverted triple-well potential within the exact WKB framework. For a single classical potential, different Siegert boundary conditions define three distinct quantum problems: the PT-symmetric, resonance, and anti-resonance systems. For each case, we derive the exact quantization condition and construct the associated trans-series solution. By identifying the resurgent structures and cancellations in these non-Hermitian setups, we obtain the median-summed series, clarifying when the spectra are real or complex in accordance with the physical properties of each system. Establishing explicit links to the semi-classical path integral formalism, we elucidate the roles of bounce and bion configurations in these non-Hermitian systems. This analysis predicts PT-symmetry breaking, which we also verify numerically. Using the median quantization conditions, we prove the existence of this symmetry breaking and establish an exact equation for the exceptional point, which emerges as a remarkably simple algebraic relation between the bounce and bion actions. We further show that the median-summed non-perturbative correction to the spectrum vanishes at the exceptional point, while the resurgent structure survives through a universal minimal trans-series. For the resonance and anti-resonance systems, we find that the exact median-summed spectra are related by complex conjugation, representing time reversal in this setting, are necessarily complex, and do not exhibit an exceptional point. Although their spectra differ significantly from the PT-symmetric case, they share the same minimal trans-series. By maintaining explicit links with the path integral saddles and the formal theory of resurgence, our analysis provides a unified and general perspective on the quantization of non-Hermitian theories.",
+      "categories": [
+        "hep-th",
+        "math-ph",
+        "quant-ph"
+      ],
+      "published": "2026-04-07T13:39:17+00:00",
+      "updated": "2026-05-12T04:48:34+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.05878v2",
+      "html_url": "https://arxiv.org/html/2604.05878v2",
+      "entry_url": "http://arxiv.org/abs/2604.05878v2"
+    }
+  ],
+  "total": 7
+}

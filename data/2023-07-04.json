@@ -1,0 +1,24 @@
+{
+  "date": "2023-07-04",
+  "papers": [
+    {
+      "arxiv_id": "2307.01899v2",
+      "base_id": "2307.01899",
+      "title": "Improving Slow-Roll Estimates in Starobinsky Inflation Using Analytic Hubble Parameter",
+      "authors": [
+        "Jose Mathew"
+      ],
+      "abstract": "Potential slow-roll parameters are widely used in inflationary cosmology to estimate the scalar and tensor perturbation amplitudes and the scalar spectral index, although the inflationary observables are fundamentally expressed in terms of the Hubble slow-roll parameters. In this work, we revisit this approximation in the context of Starobinsky inflation in the Einstein frame. Instead of approximating the Hubble slow-roll parameters through the potential, we derive them from an analytic approximate expression for the Hubble parameter obtained in the Jordan frame and mapped to the Einstein frame. We then compare the resulting analytic predictions with numerical solutions of the background equations. We show that this procedure yields a more accurate, over the relevant interval, description of the evolution of the Hubble slow-roll parameters than the conventional potential slow-roll approximation. Consequently, for the observationally relevant value $n_s = 0.9649$, the inferred number of e-foldings decreases by more than one relative to the standard estimate, with corresponding shifts in the predicted inflationary observables. Our analysis demonstrates that the usual potential slow-roll approximation can lead to systematic deviations in precision studies of inflation, and highlights the need for more reliable estimates of the Hubble slow-roll parameters in comparisons between theoretical models and observational data.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO"
+      ],
+      "published": "2023-07-04T19:45:14+00:00",
+      "updated": "2026-05-17T19:11:48+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2307.01899v2",
+      "html_url": "https://arxiv.org/html/2307.01899v2",
+      "entry_url": "http://arxiv.org/abs/2307.01899v2"
+    }
+  ],
+  "total": 1
+}

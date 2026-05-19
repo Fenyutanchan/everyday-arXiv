@@ -1,0 +1,114 @@
+{
+  "date": "2025-08-11",
+  "papers": [
+    {
+      "arxiv_id": "2508.08359v4",
+      "base_id": "2508.08359",
+      "title": "A Compact Story of Positivity in de Sitter",
+      "authors": [
+        "Priyesh Chakraborty",
+        "Timothy Cohen",
+        "Daniel Green",
+        "Yiwen Huang"
+      ],
+      "abstract": "Recent developments have yielded significant progress towards systematically understanding loop corrections to de Sitter (dS) correlators. In close analogy with physics in Anti-de Sitter (AdS), large logarithms can result from loops that can be interpreted as corrections to the dimensions of operators. In contrast with AdS, these dimensions are not manifestly real. This implies that the theoretical constraints on the associated correlators are less transparent, particularly in the presence of light scalars. In this paper, we revisit these issues by performing and comparing calculations using the spectral representation approach and the Soft de Sitter Effective Theory (SdSET). We review the general arguments that yield positivity constraints on dS correlators from both perspectives. Our particular focus will be on vertex operators for compact scalar fields, since this case introduces novel complications. We will explain how to resolve apparent disagreements between different techniques for calculating the anomalous dimensions for principal series fields coupled to these vertex operators. Along the way, we will offer new proofs of positivity of the anomalous dimensions, and explain why renormalization group flow associated with these anomalous dimensions in SdSET is the same as resumming bubble diagrams in the spectral representation.",
+      "categories": [
+        "hep-th",
+        "astro-ph.CO",
+        "hep-ph"
+      ],
+      "published": "2025-08-11T18:00:01+00:00",
+      "updated": "2026-04-24T02:40:52+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.08359v4",
+      "html_url": "https://arxiv.org/html/2508.08359v4",
+      "entry_url": "http://arxiv.org/abs/2508.08359v4"
+    },
+    {
+      "arxiv_id": "2508.07919v2",
+      "base_id": "2508.07919",
+      "title": "Topological Strings in SU(3) Gauge Theory at Finite Temperature",
+      "authors": [
+        "Sanatan Digal",
+        "Vinod Mamale",
+        "Sumit Shaw"
+      ],
+      "abstract": "We investigate string configurations in the deconfined phase of SU(3) gauge theory, which arise from the spontaneous breaking of the $Z_3$ center symmetry. These configurations form at the junctions of domain walls of the theory. The complex phase of the Polyakov loop changes by multiples of $2π$ on large spatial loops around the string, rendering them topologically stable. Using the Monte Carlo simulations of the partition function, we compute the free energy associated with these configurations. The simulations are performed on lattices with spatial dimensions $N_{x,y}=60, N_z=4$, and temporal extent $N_τ=2$. Our results show that the free energy of the $Z_3-$strings is dominated by the domain walls. Further near the transition point, thermal fluctuations cause the decay of domain walls as well as the $Z_3$ strings into confined-deconfined interfaces.",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "hep-th",
+        "nucl-th"
+      ],
+      "published": "2025-08-11T12:33:11+00:00",
+      "updated": "2026-05-01T09:11:03+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.07919v2",
+      "html_url": "https://arxiv.org/html/2508.07919v2",
+      "entry_url": "http://arxiv.org/abs/2508.07919v2"
+    },
+    {
+      "arxiv_id": "2508.07822v2",
+      "base_id": "2508.07822",
+      "title": "Light baryonium states with exotic quantum numbers",
+      "authors": [
+        "Bing-Dong Wan",
+        "Jun-Hao Zhang",
+        "Yan Zhang",
+        "Ming-Yang Yuan"
+      ],
+      "abstract": "The existence of baryonium-bound or resonant states composed of a baryon and an antibaryon has long been postulated as a natural extension of conventional hadron spectroscopy. In the present work, we conduct a systematic investigation of the mass spectrum and internal configurations of light baryonium candidates exhibiting exotic quantum numbers that are inaccessible within the framework of the traditional quark model. Employing the method of QCD sum rules, we analyze nucleon-antinucleon and light hyperon-anti-hyperon systems with quantum numbers $J^{PC}=0^{--}$ and $0^{+-}$, which are quantum number combinations prohibited for conventional mesonic states. Our analysis reveals the potential existence of two $0^{--}$ $Λ$-$\\barΛ$ baryonium states with masses $(2.90\\pm0.09)$ GeV and $(3.36\\pm0.09)$ GeV, respectively, as well as two $0^{+-}$ $Λ$-$\\barΛ$ states with masses $(2.91\\pm0.07)$ GeV and $(3.29\\pm0.07)$ GeV, respectively. In addition, corresponding nucleon-antinucleon partner states are identified at $(2.69\\pm0.07)$ GeV, $(3.07\\pm0.08)$ GeV, $(2.86\\pm0.07)$ GeV, and $(3.22\\pm0.07)$ GeV, respectively. Furthermore, analogous $Ξ$-$\\barΞ$ configurations are predicted with masses of $(3.10\\pm0.09)$ GeV, $(3.54\\pm0.07)$ GeV, $(3.08\\pm0.08)$ GeV, and $(3.45\\pm0.08)$ GeV, respectively. The possible decay modes of the light exotic baryonium states are analyzed, which are hopefully measurable in BESIII, BELLEII, and LHCb experiments.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-08-11T10:06:39+00:00",
+      "updated": "2026-05-03T02:56:48+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.07822v2",
+      "html_url": "https://arxiv.org/html/2508.07822v2",
+      "entry_url": "http://arxiv.org/abs/2508.07822v2"
+    },
+    {
+      "arxiv_id": "2508.08207v2",
+      "base_id": "2508.08207",
+      "title": "Equivariant localization for $D=5$ gauged supergravity",
+      "authors": [
+        "Pietro Benetti Genolini",
+        "Jerome P. Gauntlett",
+        "Yusheng Jiao",
+        "Jaeha Park",
+        "James Sparks"
+      ],
+      "abstract": "We consider supersymmetric solutions of $D=5$ Euclidean gauged supergravity coupled to an arbitrary number of vector multiplets. We consider solutions that admit both the R-symmetry Killing vector, $\\mathcal{K}$, constructed as a bilinear in the Killing spinor, as well as an additional Killing vector $\\ell$. Using $\\ell$ to perform a dimensional reduction to $D=4$, $\\mathcal{N}=2$ gauged supergravity, we show how the $D=5$ on-shell action can be computed using equivariant localization. We illustrate the formalism with some examples, computing the supersymmetric Casimir energy and the supersymmetric index of the dual SCFT without using the explicit supergravity solutions.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2025-08-11T17:28:48+00:00",
+      "updated": "2026-05-06T14:20:18+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.08207v2",
+      "html_url": "https://arxiv.org/html/2508.08207v2",
+      "entry_url": "http://arxiv.org/abs/2508.08207v2"
+    },
+    {
+      "arxiv_id": "2508.08528v3",
+      "base_id": "2508.08528",
+      "title": "Emergent gauge flux in mixed QED$_3$ with flavor chemical potential: application to magnetized U(1) Dirac spin liquids",
+      "authors": [
+        "Chuang Chen",
+        "Urban F. P. Seifert",
+        "Kexin Feng",
+        "Oleg A. Starykh",
+        "Leon Balents",
+        "Zi Yang Meng"
+      ],
+      "abstract": "We design a lattice model of a \"mixed\" U(1) gauge field coupled to fermions with a flavor chemical potential and solve it with large-scale determinant quantum Monte Carlo simulations, For zero flavor chemical potential, the model realizes three-dimensional quantum electrodynamics (QED$_3$) which has been argued to describe the ground state and low-energy excitations of the Dirac spin liquid phase of quantum antiferromagnets. At finite flavor chemical potential, corresponding to a Zeeman field perturbing the Dirac spin liquid, we find a \"chiral flux\" phase which is characterized by the generation of a finite mean emergent gauge flux and, accordingly, the formation of relativistic Landau levels for the Dirac fermions. In this state, the U(1)$_m$ magnetic symmetry is spontaneously broken, leading to a gapless free photon mode which, due to spin-flux-attachment, is observable in the longitudinal spin structure factor. We numerically compute longitudinal and transverse spin structure factors which match our continuum and lattice mean-field theory predictions. In a different region of the phase diagram, strong fluctuations of the emergent gauge field give rise to an antiferromagnetically ordered state with gapped Dirac fermions coexisting with a deconfined gauge field. We also find an interesting intermediate phase where the chiral flux phase and the antiferromagnetic phase coexist. We argue that our results pave the way to testable predictions for magnetized Dirac spin liquids in frustrated quantum antiferromagnets.",
+      "categories": [
+        "cond-mat.str-el",
+        "hep-th"
+      ],
+      "published": "2025-08-11T23:53:08+00:00",
+      "updated": "2026-05-14T08:22:56+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.08528v3",
+      "html_url": "https://arxiv.org/html/2508.08528v3",
+      "entry_url": "http://arxiv.org/abs/2508.08528v3"
+    }
+  ],
+  "total": 5
+}

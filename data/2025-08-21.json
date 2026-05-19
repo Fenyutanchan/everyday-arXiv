@@ -1,0 +1,28 @@
+{
+  "date": "2025-08-21",
+  "papers": [
+    {
+      "arxiv_id": "2508.15899v2",
+      "base_id": "2508.15899",
+      "title": "CIGaRS I: Combined simulation-based inference from type Ia supernovae and host photometry",
+      "authors": [
+        "Konstantin Karchev",
+        "Roberto Trotta",
+        "Raul Jimenez"
+      ],
+      "abstract": "Using type Ia supernovae as cosmological probes requires empirical corrections that are correlated with their host environment. Here we present a unified Bayesian hierarchical model designed to infer, from purely photometric observations, the intrinsic dependence of the brightness of type Ia supernovae on progenitor properties (metallicity and age), the delay-time distribution that governs their rate as a function of age, and cosmology, as well as the redshifts of all hosts. The model incorporates physics-based prescriptions for star formation and chemical evolution from Prospector-beta, dust extinction of both galaxy and supernova light, and observational selection effects. We show with simulations that intrinsic dependences on metallicity and age have distinct observational signatures, with metallicity mimicking the well-known step of magnitudes of type Ia supernovae across a host stellar mass of $\\sim 10^{10}M_{\\odot}$. We then demonstrate neural simulation-based inference of all model parameters from mock observations of ~16,000 type Ia supernovae and their hosts up to redshift 0.9. Our joint physics-based approach delivers robust and precise photometric redshifts (~0.01 median scatter) and improves cosmological constraints by a factor of ~4 over analyses of the small fraction of objects with spectroscopic follow-up. This approach unlocks the full power of photometric data and paves the way for an end-to-end simulation-based analysis pipeline in the LSST era.",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.GA",
+        "astro-ph.IM",
+        "cs.LG"
+      ],
+      "published": "2025-08-21T18:00:29+00:00",
+      "updated": "2026-05-07T13:27:17+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.15899v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2508.15899v2"
+    }
+  ],
+  "total": 1
+}

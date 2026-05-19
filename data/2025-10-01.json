@@ -1,0 +1,91 @@
+{
+  "date": "2025-10-01",
+  "papers": [
+    {
+      "arxiv_id": "2510.00377v2",
+      "base_id": "2510.00377",
+      "title": "Redshifted civilizations, galactic empires, and the Fermi paradox",
+      "authors": [
+        "Chris Reiss",
+        "Justin C. Feng"
+      ],
+      "abstract": "Given the vast distances between stars in the Milky Way and the long timescales required for interstellar travel, we consider how a civilization might overcome the constraints arising from finite lifespans and the speed of light without invoking exotic or novel physics. We consider several scenarios in which a civilization can migrate to a time-dilated frame within the scope of classical general relativity and without incurring a biologically intolerable level of acceleration. Remarkably, the power requirements are lower than one might expect; biologically tolerable orbits near the photon radius of Sgr A* can be maintained by a civilization well below the Type II threshold, and a single Type II civilization can establish a galaxy-spanning civilization with a time dilation factor of $10^4$, enabling trips spanning the diameter of the Milky Way within a human lifetime in the civilizational reference frame. We also find that isotropic, monochromatic signals from orbits near the photon radius of a black hole exhibit a downward frequency drift. The vulnerability of ultrarelativistic vessels to destruction, combined with the relatively short timescales on which adversarial civilizations can arise, provides a strong motivating element for the ``dark forest'' hypothesis.",
+      "categories": [
+        "gr-qc",
+        "physics.pop-ph"
+      ],
+      "published": "2025-10-01T00:50:50+00:00",
+      "updated": "2026-04-18T19:25:55+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.00377v2",
+      "html_url": "https://arxiv.org/html/2510.00377v2",
+      "entry_url": "http://arxiv.org/abs/2510.00377v2"
+    },
+    {
+      "arxiv_id": "2510.01316v3",
+      "base_id": "2510.01316",
+      "title": "Expectations for the first supermassive black-hole binary resolved by PTAs II: Milestones for binary characterization",
+      "authors": [
+        "Polina Petrov",
+        "Levi Schult",
+        "Stephen R. Taylor",
+        "Nihan Pol",
+        "Nima Laal",
+        "Maria Charisi",
+        "Chung-Pei Ma"
+      ],
+      "abstract": "Following the recent evidence for a gravitational wave (GW) background found by pulsar timing array (PTA) experiments, the next major science milestone is resolving individual supermassive black hole binaries (SMBHBs). The detection of these systems could arise via searches using a power-based GW anisotropy model or a deterministic template model. In Schult et al. 2025, we compared the efficacy of these models in constraining the GW signal from a single SMBHB using realistic, near-future PTA datasets, and found that the full-signal deterministic continuous wave (CW) search may achieve detection and characterization first. Here, we continue our analyses using only the CW model given its better performance, focusing now on characterization milestones. We examine the order in which CW parameters are constrained as PTA data are accumulated and the signal-to-noise ratio (S/N) grows. We also study how these parameter constraints vary across sources of different sky locations and GW frequencies. We find that the GW frequency and strain are generally constrained at the same time (or S/N), closely followed by the sky location, and later the chirp mass (if the source is highly evolving) and inclination angle. At fixed S/N, sources at higher frequencies generally achieve better precision on the GW frequency, chirp mass, and sky location. The time (and S/N) at which the signal becomes constrained is dependent on the sky location and frequency of the source, with the effects of pulsar terms and PTA geometry playing crucial roles in source detection and localization.",
+      "categories": [
+        "astro-ph.IM",
+        "gr-qc"
+      ],
+      "published": "2025-10-01T18:00:01+00:00",
+      "updated": "2026-04-17T21:54:29+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.01316v3",
+      "html_url": "https://arxiv.org/html/2510.01316v3",
+      "entry_url": "http://arxiv.org/abs/2510.01316v3"
+    },
+    {
+      "arxiv_id": "2510.00378v2",
+      "base_id": "2510.00378",
+      "title": "$\\bar{B}_{s,d}^{0} \\to J/ψμ^{+}μ^{-}$ Decays in QCD Factorization",
+      "authors": [
+        "Xin-Qiang Li",
+        "Yan Shi",
+        "Ya-Dong Yang",
+        "Xing-Bo Yuan",
+        "Chun-Yang Zhao"
+      ],
+      "abstract": "Motivated by the first LHCb searches for the rare $\\bar{B}_{s,d}^{0} \\to J/ψμ^{+}μ^{-}$ decays, we perform a detailed study of these processes within the QCD factorization formalism. Since the transverse size of the $J/ψ$ meson is small in the heavy quark mass limit, this formalism is generally expected to hold for these decays. We include both the leading- and next-to-leading-order QCD corrections to the hard-scattering kernels, which are convoluted with the light-cone distribution amplitudes (LCDAs) of the initial- and final-state hadrons. It is numerically found that, depending on the model parameters for the leading-twist $B$-meson LCDA, the maximum branching ratios of $\\bar{B}_{s}^{0}\\to J/ψμ^{+}μ^{-}$ and $\\bar{B}_{d}^{0} \\to J/ψμ^{+}μ^{-}$, integrated over the dimuon invariant mass squared $q^2$ from $1\\,\\mathrm{GeV}^2$ to $(m_{B_{s,d}}-m_{J/ψ})^2$, can reach up to $2.21\\times10^{-9}$ and $7.69\\times10^{-11}$ at the leading order in $α_s$, respectively. After incorporating the non-factorizable one-loop vertex corrections, these branching ratios are further reduced by about one order of magnitude, with $\\mathcal{B}(\\bar{B}_{s}^{0} \\to J/ψμ^{+}μ^{-})|_{q^2 \\geq 1\\,\\mathrm{GeV}^2}=2.88\\times10^{-10}$ and $\\mathcal{B}(\\bar{B}_{d}^{0} \\to J/ψμ^{+}μ^{-})|_{q^2 \\geq 1\\,\\mathrm{GeV}^2}=1.07\\times10^{-11}$. In addition, we have presented the dimuon invariant mass distributions of the individual and total helicity amplitudes squared, as well as the differential and integrated longitudinal polarization fractions of the $J/ψ$ meson, which could be probed by the future LHCb and Belle II experiments with more accumulated data.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2025-10-01T00:51:34+00:00",
+      "updated": "2026-05-08T01:06:03+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.00378v2",
+      "html_url": "https://arxiv.org/html/2510.00378v2",
+      "entry_url": "http://arxiv.org/abs/2510.00378v2"
+    },
+    {
+      "arxiv_id": "2510.00849v2",
+      "base_id": "2510.00849",
+      "title": "A semi-symmetric metric connection, perfect fluid space-time and phantom barrier",
+      "authors": [
+        "Miroslav Maksimović",
+        "Milan Zlatanović",
+        "Marija Najdanović"
+      ],
+      "abstract": "We consider a concircularly semi-symmetric metric connection and its application. The Ricci tensors with respect to the concircularly semi-symmetric metric connection are symmetric, and they are used to define Einstein type manifolds. In this way, conditions under which a pseudo-Riemannian manifold is quasi-Einstein are obtained. On a Lorentzian manifold, a concircularly semi-symmetric metric connection with a unit timelike generator becomes a semi-symmetric metric $P$-connection, and a Lorentzian manifold becomes a GRW space-time. { It is proven in which case the scalar curvature of a perfect fluid space-time with that connection is constant and what its value is, which implies a reduction to Einstein manifold. } Furthermore, an application to the theory of relativity is presented, and the value of the equation of state is examined. It is ultimately shown that the equation of state in a perfect fluid space-time that satisfies Einstein field equation with cosmological constant and admits a unit timelike torse-forming vector represents a phantom barrier.",
+      "categories": [
+        "math.DG",
+        "gr-qc"
+      ],
+      "published": "2025-10-01T12:59:13+00:00",
+      "updated": "2026-05-16T09:54:01+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.00849v2",
+      "html_url": "https://arxiv.org/html/2510.00849v2",
+      "entry_url": "http://arxiv.org/abs/2510.00849v2"
+    }
+  ],
+  "total": 4
+}

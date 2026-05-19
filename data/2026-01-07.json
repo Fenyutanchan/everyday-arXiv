@@ -1,0 +1,181 @@
+{
+  "date": "2026-01-07",
+  "papers": [
+    {
+      "arxiv_id": "2601.04309v2",
+      "base_id": "2601.04309",
+      "title": "Threshold resummation of rapidity distributions at fixed partonic rapidity",
+      "authors": [
+        "Lorenzo De Ros",
+        "Stefano Forte",
+        "Giovanni Ridolfi",
+        "Davide Maria Tagliabue"
+      ],
+      "abstract": "We derive a general expression for the resummation of rapidity distributions for processes with a colorless final state, such as Drell-Yan or Higgs production, in the limit in which the center-of-mass energy goes on threshold, but with fixed rapidity of the Higgs or gauge boson in the partonic center-of-mass frame. The result is obtained by suitably generalizing the renormalization-group based approach to threshold resummation previously pursued by us. The ensuing expression is valid to all logarithmic orders but the resummation coefficients must be determined by comparing to fixed order results. We perform this comparison for the Drell-Yan process using the fixed-order next-to-next-to-leading (NNLO) result, thereby determining resummation coefficients up to next-to-next-to-leading logarithmic (NNLL) accuracy, for the quark-antiquark coefficient function in the quark nonsinglet channel. We provide a translation to direct QCD of a result for this resummation previously obtained using SCET methods, and we show that it agrees with our own.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-01-07T19:00:00+00:00",
+      "updated": "2026-04-17T15:55:11+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.04309v2",
+      "html_url": "https://arxiv.org/html/2601.04309v2",
+      "entry_url": "http://arxiv.org/abs/2601.04309v2"
+    },
+    {
+      "arxiv_id": "2601.04162v3",
+      "base_id": "2601.04162",
+      "title": "2d Conformal Field Theories on Magic Triangle",
+      "authors": [
+        "Kimyeong Lee",
+        "Kaiwen Sun"
+      ],
+      "abstract": "The magic triangle due to Cvitanović and Deligne--Gross is an extension of the Freudenthal--Tits magic square of semisimple Lie algebras. In this paper, we identify all two-dimensional rational conformal field theories associated to the magic triangle. These include various Wess--Zumino--Witten (WZW) models, Virasoro minimal models, compact bosons and their non-diagonal modular invariants. At level one, we uncover a two-parameter family of fourth-order modular linear differential equation whose solutions yield the affine characters of all elements in the magic triangle. We further establish a universal coset relation for the whole triangle, generalizing the dual-pair structure with respect to $(E_8)_1$ in the Cvitanović--Deligne exceptional series. This coset structure determines the dimensions and degeneracies of all primary fields and leads to five atomic models from which all theories in the triangle can be constructed. At level two, we find that a distinghuished row of the triangle -- the subexceptional series -- exhibits emergent $N=1$ supersymmetry. The corresponding Neveu--Schwarz/Ramond characters satisfy a one-parameter family of fermionic modular linear differential equations. In addition, we find several new uniform coset constructions involving WZW models at higher levels.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2026-01-07T18:23:50+00:00",
+      "updated": "2026-04-17T13:09:45+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.04162v3",
+      "html_url": "https://arxiv.org/html/2601.04162v3",
+      "entry_url": "http://arxiv.org/abs/2601.04162v3"
+    },
+    {
+      "arxiv_id": "2601.04037v2",
+      "base_id": "2601.04037",
+      "title": "Renormalizable and unitary nonlocal quantum field theory with CPT violation and its implication",
+      "authors": [
+        "Moshe M. Chaichian",
+        "Markku A. Oksanen",
+        "Anca Tureanu"
+      ],
+      "abstract": "It is a common belief that any relativistic nonlocal quantum field theory encounters either the problem of renormalizability or unitarity or both of them. It is also known that any local relativistic quantum field theory (QFT) possesses the CPT symmetry. In this Letter we show that a previously proposed nonlocal Lorentz invariant QFT, which violates the CPT theorem, is both renormalizable and unitary, thus being a first presented example in the literature of such a nonlocal theory. The theory satisfies the requirement of causality as well. A further generalization of such a nonlocal QFT to include the gauge theories is also envisaged. In particular, dressing such a Standard Model with a CP violating phase, will make the theory satisfying most of the necessary criteria to finally explain the baryon asymmetry of the universe by a viable QFT. As for the necessity of baryon number violation, there are hopefully several possibilities such as by GUT and electroweak baryogenesis, leptogenesis or sphalerons.",
+      "categories": [
+        "hep-th",
+        "hep-ph"
+      ],
+      "published": "2026-01-07T15:53:52+00:00",
+      "updated": "2026-04-22T16:28:37+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.04037v2",
+      "html_url": "https://arxiv.org/html/2601.04037v2",
+      "entry_url": "http://arxiv.org/abs/2601.04037v2"
+    },
+    {
+      "arxiv_id": "2601.04168v4",
+      "base_id": "2601.04168",
+      "title": "A framework for LISA population inference",
+      "authors": [
+        "Alexandre Toubiana",
+        "Jonathan Gair"
+      ],
+      "abstract": "The Laser Interferometer Space Antenna (LISA) is expected to have a source rich data stream containing signals from large numbers of many different types of source. This will include both individually resolvable signals and overlapping stochastic backgrounds, a regime intermediate between current ground-based detectors and pulsar timing arrays. The resolved sources and backgrounds will be fitted together in a high dimensional Global Fit. To extract information about the astrophysical populations to which the sources belong, we need to decode the information in the Global Fit, which requires new methodology that has not been required for the analysis of current gravitational wave detectors. Here, we %start that development, presenting present a hierarchical Bayesian framework to infer the properties of astrophysical populations directly from the output of a LISA Global Fit, consistently accounting for information encoded in both the resolved sources and the unresolved background. Using a simplified model of the Global Fit, we illustrate how the interplay between resolved and unresolved components affects population inference and highlight the impact of data analysis choices, such as the signal-to-noise threshold for resolved sources, on the results. Our approach provides a practical foundation for population inference using LISA data.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.GA",
+        "astro-ph.HE",
+        "astro-ph.IM",
+        "astro-ph.SR"
+      ],
+      "published": "2026-01-07T18:35:53+00:00",
+      "updated": "2026-04-28T17:56:42+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.04168v4",
+      "html_url": "https://arxiv.org/html/2601.04168v4",
+      "entry_url": "http://arxiv.org/abs/2601.04168v4"
+    },
+    {
+      "arxiv_id": "2601.03740v2",
+      "base_id": "2601.03740",
+      "title": "Topological quantization of vector meson anomalous couplings",
+      "authors": [
+        "Chao-Qiang Geng",
+        "Chia-Wei Liu",
+        "Yue-Liang Wu"
+      ],
+      "abstract": "We identify an overlooked Wess--Zumino--Witten structure in the hidden-local-symmetry~(HLS) formulation of vector mesons. The newly identified term generically leads to the topological quantization of the vector-meson anomalous couplings. If confirmed experimentally, this structure would expose the gauge nature of vector mesons in the anomalous sector and single out HLS over matter-field descriptions. The observed success of vector-meson dominance in anomalous interactions can then be explained by topological-action saturation of the odd-intrinsic-parity processes. Precision measurements of $η^{(\\prime)}\\toπ^+π^-γ^*$ form factors at BESIII and the Super $τ$-Charm Facility can directly test this saturation picture.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2026-01-07T09:29:39+00:00",
+      "updated": "2026-05-07T14:18:18+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.03740v2",
+      "html_url": "https://arxiv.org/html/2601.03740v2",
+      "entry_url": "http://arxiv.org/abs/2601.03740v2"
+    },
+    {
+      "arxiv_id": "2601.04276v2",
+      "base_id": "2601.04276",
+      "title": "Search for Precessing Binary Black Holes in Advanced LIGO's Third Observing Run using Harmonic Decomposition",
+      "authors": [
+        "Rahul Dhurkunde",
+        "Ian Harry"
+      ],
+      "abstract": "Binary black holes (BBHs) exhibiting spin-induced orbital precession offer unique insight into compact-binary formation channels, cosmology, and tests of general relativity. We conduct a dedicated search for precessing BBHs with unequal masses in Advanced LIGO's third observing run (O3) using the harmonic decomposition method of precessing waveforms. We introduce a novel scheme to reduce the number of filters in a harmonic search. With our new approach, our template bank requires $5\\times$ fewer filters compared to another proposed precessing search in the same region. We do not find any new significant events. Our new search method achieves up to $\\sim 28\\%$ improvement in sensitivity and up to $5\\times$ lower computational costs compared to existing precessing search pipelines. Our method enables scalable, sensitive searches for precessing BBHs in future gravitational-wave observing runs.",
+      "categories": [
+        "astro-ph.IM",
+        "astro-ph.HE",
+        "gr-qc",
+        "hep-ex"
+      ],
+      "published": "2026-01-07T12:25:02+00:00",
+      "updated": "2026-05-12T15:16:18+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.04276v2",
+      "html_url": "https://arxiv.org/html/2601.04276v2",
+      "entry_url": "http://arxiv.org/abs/2601.04276v2"
+    },
+    {
+      "arxiv_id": "2601.04310v3",
+      "base_id": "2601.04310",
+      "title": "QFT as a set of ODEs",
+      "authors": [
+        "Manuel Loparco",
+        "Grégoire Mathys",
+        "Joao Penedones",
+        "Jiaxin Qiao",
+        "Xiang Zhao"
+      ],
+      "abstract": "Correlation functions of local operators in Quantum Field Theory (QFT) on hyperbolic space can be fully characterized by the set of QFT data $\\lbrace Δ_i,C_{ijk},b^{\\hat{\\mathcal{O}}}_j\\rbrace$. These are the scaling dimensions of boundary operators $Δ_i$, the boundary Operator Product Expansion (OPE) coefficients $C_{ijk}$ and the Boundary Operator Expansion (BOE) coefficients $b^{\\hat{\\mathcal{O}}}_j$ that characterize how each bulk operator $\\hat{\\mathcal{O}}$ can be expanded in terms of boundary operators $\\mathcal{O}_j$.For simplicity, we focus on two dimensional QFTs and derive a universal set of first order Ordinary Differential Equations (ODEs) that encode the variation of the QFT data under an infinitesimal change of a bulk relevant coupling. In principle, our ODEs can be used to follow a Renormalization Group (RG) flow starting from a solvable QFT into a strongly coupled phase and to the flat space limit.",
+      "categories": [
+        "hep-th",
+        "hep-ph"
+      ],
+      "published": "2026-01-07T19:00:00+00:00",
+      "updated": "2026-05-16T08:54:47+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.04310v3",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2601.04310v3"
+    },
+    {
+      "arxiv_id": "2601.03883v2",
+      "base_id": "2601.03883",
+      "title": "Filtering Interlopers with Photometry and Diagnostic Features: A Machine Learning Framework Validated with CSST Slitless Spectroscopy",
+      "authors": [
+        "Hui Peng",
+        "Yu Yu",
+        "Yiyang Guo",
+        "Yizhou Gu",
+        "Run Wen",
+        "Yunkun Han",
+        "Jipeng Sui",
+        "Hu Zou",
+        "Xiaohu Yang",
+        "Pengjie Zhang",
+        "Xian Zhong Zheng",
+        "Hong Guo",
+        "Yipeng Jing",
+        "Cheng Li",
+        "Hu Zhan",
+        "Gongbo Zhao"
+      ],
+      "abstract": "The slitless spectroscopic method employed by missions such as Euclid and the Chinese Space-station Survey Telescope (CSST) faces a fundamental challenge: spectroscopic redshifts derived from their data are susceptible to emission-line misidentification due to the limited spectral resolution and signal-to-noise ratio. This effect systematically introduces interloper galaxies into the sample. Conventional strict selection not only struggles to secure high redshift purity but also drastically reduces completeness by discarding valuable data. To overcome this limitation, we develop an XGBoost classifier that leverages photometric properties and spectroscopic diagnostics to construct a high-purity redshift catalog while maximizing completeness. We validate this method on a simulated sample with spectra generated by the CSST emulator for slitless spectroscopy. Of the $\\sim$62 million galaxies that obtain valid redshifts (parent sample), approximately 43% achieve accurate measurements, defined as $|Δz| \\leqslant 0.002(1+z)$. From this parent sample, the XGBoost classifier selects galaxies with a selection efficiency of 42.3% on the test set and 42.2% when deployed on the entire parent sample. Crucially, among the retained galaxies, 96.6% (parent sample: 96.5%) achieve accurate measurements, while the outlier fraction ($|Δz|>0.01(1+z)$) is constrained to 0.13% (0.11%). We verified that simplified configurations that exclude either spectroscopic diagnostics (except the measured redshift) or photometric data yield significantly higher outlier fractions, increasing by factors of approximately 3.5 and 6.3, respectively, with the latter case also introducing notable catastrophic interloper contamination. This framework effectively resolves the purity-completeness trade-off, enabling robust large-scale cosmological studies with CSST and similar surveys.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2026-01-07T12:50:37+00:00",
+      "updated": "2026-05-15T12:05:31+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.03883v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2601.03883v2"
+    }
+  ],
+  "total": 8
+}

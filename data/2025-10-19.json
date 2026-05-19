@@ -1,0 +1,47 @@
+{
+  "date": "2025-10-19",
+  "papers": [
+    {
+      "arxiv_id": "2510.16955v2",
+      "base_id": "2510.16955",
+      "title": "On the use of the Derivative Approximation for Likelihoods for Gravitational Wave Inference",
+      "authors": [
+        "Josiel Mendonça Soares de Souza",
+        "Miguel Quartin"
+      ],
+      "abstract": "Posterior inference on the more than a dozen parameters governing a gravitational wave (GW) event is challenging. A typical MCMC analysis can take around $100$ CPU hours, and next generation GW observatories will detect many thousands of events. Here we present a thorough comparison of the accuracy and computational cost of the Fisher Matrix, Derivative Approximation for Likelihoods (DALI) and traditional MCMC methods. We find that using DALI, which extends the traditional Fisher Matrix (FM) method to higher orders, allows for a good approximation of the posterior with a $55$ times smaller computational cost, and that the cost-benefit of the doublet-DALI is better than that of the triplet-DALI. We also show that the singlet-DALI, a hybrid MCMC-Fisher method, is much more accurate than the traditional FM and 10 times faster than the doublet-DALI. A large effort has been invested in forecasting the science case of different detector configurations, and the ability of making fast yet accurate estimations of the posteriors is an important step forward. We also introduce version \\texttt{1.0} of the public \\texttt{GWDALI} code, which incorporates automatic differentiation, modern waveforms and an optimized parameter decomposition.",
+      "categories": [
+        "astro-ph.IM",
+        "astro-ph.CO",
+        "gr-qc",
+        "physics.data-an"
+      ],
+      "published": "2025-10-19T18:16:22+00:00",
+      "updated": "2026-04-15T14:05:13+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.16955v2",
+      "html_url": "https://arxiv.org/html/2510.16955v2",
+      "entry_url": "http://arxiv.org/abs/2510.16955v2"
+    },
+    {
+      "arxiv_id": "2510.17906v2",
+      "base_id": "2510.17906",
+      "title": "Imaging and Polarimetric Signatures of Konoplya-Zhidenko Black Holes with Various Thick Disk",
+      "authors": [
+        "Xinyu Wang",
+        "Yukang Wang",
+        "Xiao-Xiong Zeng"
+      ],
+      "abstract": "We investigate the imaging properties of spherically symmetric Konoplya-Zhidenko (KZ) black holes surrounded by geometrically thick accretion flows, adopting a phenomenological radiatively inefficient accretion flow (RIAF) model and an analytical ballistic approximation accretion flow (BAAF) model. General relativistic radiative transfer is employed to compute synchrotron emission from thermal electrons and generate horizon-scale images. For the RIAF model, we analyze the dependence of image morphology on the deformation parameter, observing frequency, and flow dynamics. The photon ring and central dark region expand with increasing deformation parameter, with brightness asymmetries arising at high inclinations and depending on flow dynamics and emission anisotropy. The BAAF disk produces narrower rings and darker centers, while polarization patterns trace the brightness distribution and vary with viewing angle and deformation, revealing spacetime structure. These results demonstrate that intensity and polarization in thick-disk models provide probes of KZ black holes and near-horizon accretion physics.",
+      "categories": [
+        "astro-ph.HE",
+        "gr-qc"
+      ],
+      "published": "2025-10-19T14:55:31+00:00",
+      "updated": "2026-04-29T07:37:20+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.17906v2",
+      "html_url": "https://arxiv.org/html/2510.17906v2",
+      "entry_url": "http://arxiv.org/abs/2510.17906v2"
+    }
+  ],
+  "total": 2
+}

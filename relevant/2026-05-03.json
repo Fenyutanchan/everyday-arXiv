@@ -1,0 +1,61 @@
+{
+  "date": "2026-05-03",
+  "total": 2,
+  "papers": [
+    {
+      "arxiv_id": "2605.01992v1",
+      "base_id": "2605.01992",
+      "title": "Reviving Motivated Inflationary Potentials with $K$-inflation in the light of ACT",
+      "authors": [
+        "Milad Solbi",
+        "Daris Samart",
+        "Peera Simakachorn"
+      ],
+      "abstract": "Recent ACT data favor a higher scalar spectral index $n_s$, placing models such as $α$-attractor T-models and natural Inflation in tension with current observations. We propose a K-inflation framework with a field-dependent non-canonical kinetic term $G(φ)$ that reconciles these models with the latest Planck-ACT-LB-BK18 constraints. Our analysis includes a refined calculation of the reheating equation-of-state parameter $w_{\\rm re}$, avoids standard power-law approximations, and tests consistency with the Swampland Distance and de Sitter Conjectures. We find that the additional friction from the non-minimal kinetic coupling shifts both models into the favored observational regions. For the $α$-attractor T-model with $n=2$, viable solutions occur for $β\\sim \\mathcal{O}(10)$, with Swampland consistency favoring $α\\gtrsim \\mathcal{O}(10^{-3})$. This case predicts matter-like reheating and a red-tilted gravitational-wave background that is unlikely to be detected soon. In contrast, natural Inflation with $n=4,5$ is compatible with CMB constraints for $α\\lesssim 7,8$ and $β\\lesssim -1$, respectively, leading to stiff reheating and a blue-tilted gravitational-wave background potentially observable by LISA, Cosmic Explorer, Einstein Telescope, DECIGO, and BBO while satisfying BBN and $ΔN_{\\rm eff}$ bounds. Combining gravitational-wave probes with Swampland criteria may therefore help distinguish possible UV completions of inflation.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO"
+      ],
+      "published": "2026-05-03T17:48:42+00:00",
+      "updated": "2026-05-03T17:48:42+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.01992v1",
+      "html_url": "https://arxiv.org/html/2605.01992v1",
+      "entry_url": "http://arxiv.org/abs/2605.01992v1",
+      "relevance": {
+        "relevant": true,
+        "score": 7,
+        "reason": "The paper directly addresses the user's core interests in cosmic reheating dynamics (with a refined calculation of w_re), stochastic gravitational-wave backgrounds from inflation, and BBN/ΔN_eff constraints, though it does not connect to the user's particle physics or multi-loop calculation interests.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2511.13606v3",
+      "base_id": "2511.13606",
+      "title": "Probing Dark Sector Particles Coupling to Neutrinos with Double Beta Decay",
+      "authors": [
+        "Noor-Ines Boudjema",
+        "Frank F. Deppisch",
+        "Antonio Herrero-Brocal",
+        "Chayan Majumdar",
+        "Supriya Senapati"
+      ],
+      "abstract": "Motivated by the observation of non-zero neutrino masses and the potential for discovering physics beyond the Standard Model, numerous experiments are actively searching for neutrinoless double beta $(0νββ)$ decay. In all of these searches, a substantial amount of data on two-neutrino double beta $(2νββ)$ decay has been collected. In this work, we explore the sensitivity of current and future double beta decay experiments to a massive Majoron-like scalar particle coupled to neutrinos and potentially dark sector fermions, and compare their reach to the relevant cosmological constraints. On- and off-shell production of such a scalar leads to characteristic distortions in the emitted electron spectrum. We investigate how these distortions manifest in current and future double beta decay experiments, deriving the sensitivity to such a scenario. We project the reach of future experiments which can probe scalar-neutrino couplings of $|a_ν| \\approx 2\\times 10^{-6}$ for sub-MeV scalar particles and remain sensitive to off-shell production above the Q-value of double beta isotopes.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-11-17T17:11:33+00:00",
+      "updated": "2026-05-03T15:38:21+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.13606v3",
+      "html_url": "https://arxiv.org/html/2511.13606v3",
+      "entry_url": "http://arxiv.org/abs/2511.13606v3",
+      "relevance": {
+        "relevant": true,
+        "score": 7,
+        "reason": "The paper directly addresses heavy neutral leptons with dark decays and cosmological bounds from BBN and ΔNeff—both explicitly listed as core interests—and explores dark sector fermions coupling to neutrinos through scalar mediators, though it focuses on double beta decay rather than JUNO phenomenology or the researcher's other primary topics like PBHs or axions.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    }
+  ]
+}

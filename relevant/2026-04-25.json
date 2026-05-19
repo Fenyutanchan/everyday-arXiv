@@ -1,0 +1,135 @@
+{
+  "date": "2026-04-25",
+  "total": 5,
+  "papers": [
+    {
+      "arxiv_id": "2604.23224v1",
+      "base_id": "2604.23224",
+      "title": "Parametric Resonance in $φ^4$ Preheating: An Exact Numerical Study",
+      "authors": [
+        "Hrisikesh Thakur",
+        "Malay K. Nandy"
+      ],
+      "abstract": "Preheating after inflation proceeds through parametric resonance, leading to efficient particle production in scalar field models. In this work, we investigate the structure of parametric resonance in the $φ^4$ chaotic inflationary model during the preheating phase by performing a fully numerical analysis of the coupled dynamical equations governing the inflaton field and the mode function of the produced particles, thereby avoiding the approximations commonly employed in earlier studies. Our results reveal resonance patterns that differ significantly from those obtained with approximate analytical treatments. In the weak coupling regime, short-wavelength modes rapidly settle into oscillations with nearly constant amplitude, while the corresponding occupation numbers approach saturation. However, the long-wavelength modes exhibit gradual amplitude growth, with occupation numbers transitioning into a non-linear oscillatory regime. As the coupling strength increases, the dynamics becomes increasingly nonlinear, leading to the emergence of stochastic behavior. In the strong coupling regime, short-wavelength modes display a step-like (staircase) evolution in the occupation number, indicative of intermittent bursts of particle production. However, the long-wavelength modes exhibit a more gradual, monotonic growth with small superimposed fluctuations. These findings highlight the rich, coupling-dependent, structure of parametric resonance in the quartic inflationary model and underscore the importance of exact numerical treatment in accurately capturing preheating dynamics.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "published": "2026-04-25T09:31:06+00:00",
+      "updated": "2026-04-25T09:31:06+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.23224v1",
+      "html_url": "https://arxiv.org/html/2604.23224v1",
+      "entry_url": "http://arxiv.org/abs/2604.23224v1",
+      "relevance": {
+        "relevant": true,
+        "score": 7,
+        "reason": "The paper directly addresses cosmic reheating dynamics and inflaton decay via parametric resonance in the preheating phase, which falls squarely within the user's core interest in early-universe cosmology and reheating dynamics, though it focuses on a specific scalar-field model without connecting to gravitational waves or the other subtopics the user highlighted.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2101.04212v3",
+      "base_id": "2101.04212",
+      "title": "Spinors with torsion and matter$-$antimatter asymmetry",
+      "authors": [
+        "Nikodem Popławski"
+      ],
+      "abstract": "The conservation law for the orbital plus spin angular momentum of a free Dirac particle in curved spacetime requires that the affine connection has the antisymmetric part: the torsion tensor, which extends general relativity to the Einstein$-$Cartan theory of gravity. In the presence of torsion, the Dirac equation becomes a nonlinear, cubic equation in the spinor wave function. We show that the energy eigenvalues of the corresponding Hamiltonian as functions of the momentum are different for the fermion and antifermion components of the spinor, violating charge conjugation symmetry, and also depend on the helicity. Consequently, particles of matter and antimatter have different dispersion relations and therefore different masses. This mass difference increases with density and becomes significant near the Cartan density, which existed in the early Universe. Because antimatter particles were more massive than matter particles, they were also slower during pair production in the early Universe and therefore had higher cross sections for gravitational capture by primordial black holes. This difference might have led to the matter$-$antimatter imbalance in the observable Universe: the missing antimatter fell into black holes.",
+      "categories": [
+        "gr-qc",
+        "quant-ph"
+      ],
+      "published": "2021-01-11T22:06:27+00:00",
+      "updated": "2026-04-25T22:13:28+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2101.04212v3",
+      "html_url": "https://arxiv.org/html/2101.04212v3",
+      "entry_url": "http://arxiv.org/abs/2101.04212v3",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "The paper involves primordial black holes and early-universe cosmology which are in the user's core interests, but the focus is on Einstein-Cartan torsion gravity as a mechanism for baryogenesis through PBH gravitational capture of antimatter, which is quite removed from the user's specific interests in PBH Hawking evaporation, BBN constraints, neutrino phenomenology, and perturbative QCD calculations.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2511.18522v4",
+      "base_id": "2511.18522",
+      "title": "Robust Non-Singular Bouncing Cosmology from Regularized Hyperbolic Field Space",
+      "authors": [
+        "Oleksandr Kravchenko"
+      ],
+      "abstract": "We present a framework for non-singular bouncing cosmology in a closed ($k=+1$) universe with a two-field sigma model whose regularized hyperbolic field-space metric $g^S_{χχ}(φ) = (1 + e^{-2αφ/M_{\\mathrm{Pl}}})^{-1}$ is derived from three physical boundary conditions: (i) kinetic suppression during contraction enabling the bounce, (ii) canonical normalization during inflation preserving perturbative unitarity, and (iii) positive-definiteness ensuring ghost-freedom. The bounce preserves the Null Energy Condition and is BKL-stable. The full two-field perturbation system $(δφ, δχ, Φ)$ is integrated in the Newtonian gauge through the bounce over 65 e-folds, circumventing the comoving-gauge $H=0$ singularity, with both Einstein constraints verified a posteriori. Scalar sound speeds numerically measured adjacent to $H=0$ satisfy $|c_φ^2-1|, |c_χ^2-1| \\leq 8 \\times 10^{-16}$, establishing strict hyperbolicity (no ghost or gradient instability); $\\mathcal{R}$ is conserved on super-Hubble scales to $|Δ\\mathcal{R}^2/\\mathcal{R}^2| = 4.43 \\times 10^{-3}$. An independent CMB-scale Mukhanov-Sasaki integration confirms $n_s = 0.9683$, matching exact Starobinsky slow-roll to $|Δn_s| = 5.47 \\times 10^{-4}$. $δN$ non-Gaussianity yields $f_{\\mathrm{NL}}^{\\mathrm{local}} = +0.0133$, consistent with Maldacena's relation to $|Δf_{\\mathrm{NL}}| = 1.54 \\times 10^{-4}$. A bounce-scale spectral feature is pushed by $\\sim 2630$ post-bounce e-folds to $k_{\\mathrm{CMB}}/k_H \\sim 10^{1116}$, far beyond the observable universe, so the model recovers Starobinsky predictions on all observable scales while resolving the initial singularity. Predictions ($n_s \\approx 0.967$, $r \\approx 0.003$, $f_{\\mathrm{NL}}^{\\mathrm{local}} \\approx +0.013$, independent of $α$) are consistent with Planck 2018 and testable by next-generation CMB experiments.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-11-23T16:27:41+00:00",
+      "updated": "2026-04-25T21:51:06+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.18522v4",
+      "html_url": "https://arxiv.org/html/2511.18522v4",
+      "entry_url": "http://arxiv.org/abs/2511.18522v4",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "The paper falls within early-universe cosmology broadly (inflationary perturbations, CMB predictions, cosmological perturbation theory), but its specific focus on non-singular bouncing cosmology and closed-universe field-space geometry diverges from the researcher's core interests in reheating dynamics, pre-thermalization gravitational waves, and Bose-enhanced inflaton decay.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2510.17730v2",
+      "base_id": "2510.17730",
+      "title": "Automated computation of spin-density matrices and quantum observables for collider physics",
+      "authors": [
+        "Valentin Durupt",
+        "Fabio Maltoni",
+        "Olivier Mattelaer"
+      ],
+      "abstract": "We present a fully automated framework to compute production spin-density matrices for generic collider processes at tree level within \\textsc{MadGraph5\\_aMC@NLO}. The method assembles helicity amplitudes into event-by-event production matrices. These are written to the LHE file in a compact form, together with run metadata, enabling direct post-processing of quantum observables. The implementation supports bi- and multipartite qubit and qutrit final states, configurable reference frames, and both polarised and unpolarised initial states. A companion, easy-to-extend library provides analysis routines to determine key quantum-information measures and witnesses. These include purity, concurrence, and entanglement of formation for qubits; Peres--Horodecki tests and negativity; spin-polarisation vectors and correlation matrices; $D$-coefficients; and stabiliser-based ``magic'' measures. As a result, multi-particle quantum correlations can be quantified systematically. We validate the implementation against known results for $t\\bar t$ and $VV$ ($V=W^\\pm,Z$) production in $pp$ and $e^+e^-$ collisions and in heavy-resonance decays. We then consider new applications and study quantum correlations in several LHC final states: $t\\bar t W^\\pm$, $tW^-$ vs.\\ $t(\\bar t\\to W^- \\bar b)$, and $t\\bar t t$ vs. $t\\bar t t\\bar t$.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-10-20T16:44:34+00:00",
+      "updated": "2026-04-25T13:32:03+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.17730v2",
+      "html_url": "https://arxiv.org/html/2510.17730v2",
+      "entry_url": "http://arxiv.org/abs/2510.17730v2",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "The paper develops an automated computational framework within MG5aMC for helicity amplitude processing, which tangentially relates to the researcher's interest in computational tools for HEP (FeAmGen.jl, automated amplitude generation), but the primary focus on quantum information observables (entanglement, concurrence, magic) does not align with the researcher's core interests in early-universe cosmology, neutrino physics, PBHs, multi-loop QCD, or EW precision calculations.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2503.09677v3",
+      "base_id": "2503.09677",
+      "title": "Scalar Thermal Field Theory for a Rotating Plasma",
+      "authors": [
+        "Alberto Salvio"
+      ],
+      "abstract": "This paper initiates the systematic study of thermal field theory for generic equilibrium density matrices, which feature arbitrary values not only of temperature and chemical potentials, but also of average angular momentum. The focus here is on scalar fields, although some results also apply to fields with arbitrary spins. A general technique to compute ensemble averages is provided. Moreover, path-integral methods are developed to study thermal Green's functions (with an arbitrary number of points) in generic theories, which cover both the real-time and imaginary-time formalism. It is shown that, while the average angular momentum, like the chemical potentials, does not contribute positively to the Euclidean action, its negative contributions can be compensated by some other contributions that are instead positive, at least in some cases, e.g. when the chemical potentials vanish. As an application of the developed general formalism, it is shown that the production of particles weakly coupled to a rotating plasma can be significantly enhanced compared to the non-rotating case. The Higgs boson production through a portal coupling to a dark sector in the early universe is studied in some detail. The findings of this paper can also be useful, for example, to investigate the physics of rotating stars, ordinary and primordial black holes and more exotic compact objects.",
+      "categories": [
+        "hep-th",
+        "astro-ph.CO",
+        "hep-lat",
+        "hep-ph"
+      ],
+      "published": "2025-03-12T18:00:00+00:00",
+      "updated": "2026-04-25T11:13:22+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2503.09677v3",
+      "html_url": "https://arxiv.org/html/2503.09677v3",
+      "entry_url": "http://arxiv.org/abs/2503.09677v3",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "The paper has tangential relevance through its application to Higgs production via dark sector portal coupling in the early universe and mentions of primordial black holes, but it is primarily a formal thermal field theory methodology paper that doesn't directly address the researcher's specific interests in reheating dynamics, BBN constraints, neutrino phenomenology, or multi-loop perturbative calculations.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    }
+  ]
+}

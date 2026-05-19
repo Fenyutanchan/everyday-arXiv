@@ -1,0 +1,29 @@
+{
+  "date": "2023-12-05",
+  "papers": [
+    {
+      "arxiv_id": "2312.03073v3",
+      "base_id": "2312.03073",
+      "title": "Universality in driven open quantum matter",
+      "authors": [
+        "Lukas M. Sieberer",
+        "Michael Buchhold",
+        "Jamir Marino",
+        "Sebastian Diehl"
+      ],
+      "abstract": "Universality is a powerful concept, which enables making qualitative and quantitative predictions in systems with extensively many degrees of freedom. It finds realizations in almost all branches of physics, including in the realm of nonequilibrium systems. Our focus here is on its manifestations within a specific class of nonequilibrium stationary states: driven open quantum matter. Progress in this field is fueled by a number of uprising platforms ranging from light-driven quantum materials over synthetic quantum systems like cold atomic gases to the functional devices of the noisy intermediate scale quantum era. These systems share in common that, on the microscopic scale, they obey the laws of quantum mechanics, while detailed balance underlying thermodynamic equilibrium is broken due to the simultaneous presence of Hamiltonian unitary dynamics and nonunitary drive and dissipation. The challenge is then to connect this microscopic physics to macroscopic observables, and to identify universal collective phenomena that uniquely witness the breaking of equilibrium conditions, thus having no equilibrium counterparts. In the framework of a Lindblad-Keldysh field theory, we discuss on the one hand the principles delimiting thermodynamic equilibrium from driven open stationary states, and on the other hand show how unifying concepts such as symmetries, the purity of states, and scaling arguments are implemented. We then present instances of universal behavior structured into three classes: new realizations of paradigmatic nonequilibrium phenomena, including a survey of first experimental realizations; novel instances of nonequilibrium universality found in these systems made of quantum ingredients; and genuinely quantum phenomena out of equilibrium, including in fermionic systems. We also discuss perspectives for future research on driven open quantum matter.",
+      "categories": [
+        "cond-mat.stat-mech",
+        "cond-mat.quant-gas",
+        "hep-th",
+        "quant-ph"
+      ],
+      "published": "2023-12-05T19:00:07+00:00",
+      "updated": "2026-05-06T14:46:40+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2312.03073v3",
+      "html_url": "https://arxiv.org/html/2312.03073v3",
+      "entry_url": "http://arxiv.org/abs/2312.03073v3"
+    }
+  ],
+  "total": 1
+}

@@ -1,0 +1,29 @@
+{
+  "date": "2025-02-19",
+  "papers": [
+    {
+      "arxiv_id": "2502.13930v2",
+      "base_id": "2502.13930",
+      "title": "Diagnosing chaos with projected ensembles of process tensors",
+      "authors": [
+        "Peter O'Donovan",
+        "Neil Dowling",
+        "Kavan Modi",
+        "Mark T. Mitchison"
+      ],
+      "abstract": "The process tensor provides a general representation of a quantum system evolving under repeated interventions and is fundamental for numerical simulations of local many-body dynamics. In this work, we introduce the projected process ensemble, an ensemble of pure output states of a process tensor in a given basis of local interventions, and use it to define increasingly more fine-grained probes of quantum chaos. The first moment of this ensemble encapsulates numerous previously studied chaos quantifiers, including the Alicki-Fannes quantum dynamical entropy, butterfly flutter fidelity, and spatiotemporal entanglement. We discover characteristic entanglement structures within the ensemble's higher moments that can sharply distinguish chaotic from integrable dynamics, overcoming deficiencies of the quantum dynamical and spatiotemporal entropies. These conclusions are supported by extensive numerical simulations of many-body dynamics for a range of spin-chain models, including non-interacting, interacting-integrable, chaotic, and many-body localized regimes. Our work elucidates the fingerprints of chaos on spatiotemporal correlations in quantum stochastic processes, and provides a unified framework for analyzing the complexity of unitary and monitored many-body dynamics.",
+      "categories": [
+        "quant-ph",
+        "cond-mat.stat-mech",
+        "hep-th",
+        "nlin.CD"
+      ],
+      "published": "2025-02-19T18:06:07+00:00",
+      "updated": "2026-05-15T10:08:44+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2502.13930v2",
+      "html_url": "https://arxiv.org/html/2502.13930v2",
+      "entry_url": "http://arxiv.org/abs/2502.13930v2"
+    }
+  ],
+  "total": 1
+}

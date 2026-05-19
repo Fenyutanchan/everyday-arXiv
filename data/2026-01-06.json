@@ -1,0 +1,85 @@
+{
+  "date": "2026-01-06",
+  "papers": [
+    {
+      "arxiv_id": "2601.03214v2",
+      "base_id": "2601.03214",
+      "title": "When does entanglement through gravity imply gravitons?",
+      "authors": [
+        "Nikolaos Mitrakos",
+        "Maria Papageorgiou",
+        "T. Rick Perche",
+        "Marios Christodoulou"
+      ],
+      "abstract": "Detection of entanglement through the Newtonian potential has been claimed to support the existence of gravitons, by extrapolating to a thought experiment which demonstrates that complementarity and causality would be in conflict unless quantum fluctuations exist. We critically assess this consistency argument using scalar field models. We show that whether complementarity or no-signalling is violated when quantum fluctuations are neglected, depends on how this approximation is taken, while in both cases entanglement is generated locally in spacetime. We clarify that the correct reading of the paradox requires making a clear distinction between two notions of causality violation: Newtonian action-at-a-distance and the quantum mechanical no-signalling; the latter is pertinent while the former is not. We conclude that the thought experiment (a) does not add to the epistemological relevance of entanglement through Newtonian potentials (b) lends support for the existence of gravitons, if retardation effects are detected in entanglement through gravity.",
+      "categories": [
+        "gr-qc",
+        "quant-ph"
+      ],
+      "published": "2026-01-06T17:54:24+00:00",
+      "updated": "2026-04-15T11:39:41+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.03214v2",
+      "html_url": "https://arxiv.org/html/2601.03214v2",
+      "entry_url": "http://arxiv.org/abs/2601.03214v2"
+    },
+    {
+      "arxiv_id": "2601.02816v2",
+      "base_id": "2601.02816",
+      "title": "Nonlinear Weak Lensing reconstruction for Galaxy Clusters",
+      "authors": [
+        "Yuan Shi",
+        "Li Cui"
+      ],
+      "abstract": "We present a numerical investigation of nonlinear cluster lens reconstruction using weak lensing mass mapping. Recent advances in imaging and shear estimation have pushed reliable reduced shear measurements closer to cluster cores, making mass reconstruction accessible in the nonlinear regime. However, the Kaiser-Squires based algorithm becomes unstable in cluster cores, where convergence $κ$ significantly deviates from zero and the linear approximation breaks down. To address this limitation, we develop a reconstruction framework with two key modifications: applying smooth masks to these regions and using a model-derived analytical solution as the initial guess, rather than assuming $κ= 0$. We validate our framework using simulated cluster lensing data with known mass distributions, incorporating realistic masks that arise from limitations in reduced shear measurements. We show that in the absence of shape noise, our framework yields high-fidelity mass reconstruction in regions of large reduced shear, with the best-performing method achieving residuals below $0.02 σ$ in the unmasked regions. This pushes mass reconstruction to higher accuracy in the nonlinear regime.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2026-01-06T08:46:16+00:00",
+      "updated": "2026-04-22T14:06:11+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.02816v2",
+      "html_url": "https://arxiv.org/html/2601.02816v2",
+      "entry_url": "http://arxiv.org/abs/2601.02816v2"
+    },
+    {
+      "arxiv_id": "2601.03347v2",
+      "base_id": "2601.03347",
+      "title": "Mind the peak: improving cosmological constraints from GWTC-4.0 spectral sirens using semiparametric mass models",
+      "authors": [
+        "Matteo Tagliazucchi",
+        "Michele Moresco",
+        "Nicola Borghi",
+        "Chiara Ciapetti"
+      ],
+      "abstract": "Gravitational wave spectral sirens can provide cosmological constraints by using the shape of the binary black hole (BBH) mass distribution (MD). However, the precision and accuracy of these constraints depends critically on the capturing all the MD features. In this work, we analyze 137 BBH events from the latest GWTC-4.0 with a novel data-driven semiparametric approach based on \\textsc{Bspline} that adaptively places knots around the most informative structures in the MD, while keeping the dimensionality of the parameter space moderate. Our flexible models resolve three distinct peaks at $\\sim10$, $18$, and $33\\,\\mathrm{M}_\\odot$ and are statistically preferred over standard parametric models, with Bayes factors up to 226. Because these features are correlated with $H_0$, the semiparametric model yields, under different prior assumptions, 12%-21% improvement in the precision of $H_0$ relative to parametric models, providing $H_0 = 57.8^{+21.9}_{-20.6}\\,\\mathrm{km/s/Mpc}$ in the best case. Our results demonstrate that capturing the full complexity of the BBH mass distribution is essential for realizing the cosmological potential of spectral sirens as gravitational wave catalogs continue to grow.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "published": "2026-01-06T19:00:02+00:00",
+      "updated": "2026-04-29T08:12:09+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.03347v2",
+      "html_url": "https://arxiv.org/html/2601.03347v2",
+      "entry_url": "http://arxiv.org/abs/2601.03347v2"
+    },
+    {
+      "arxiv_id": "2601.02808v2",
+      "base_id": "2601.02808",
+      "title": "Two Higgs doublet model with a complex singlet scalar and Multi-critical Point Principle",
+      "authors": [
+        "Gi-Chol Cho",
+        "Chikako Idegawa",
+        "Chiaki Nose"
+      ],
+      "abstract": "We study a two Higgs doublet model extended by a complex singlet scalar, in which the imaginary part of the singlet serves as a dark matter (DM) candidate. In this model, degenerate masses of the three neutral Higgs bosons are crucial for achieving consistency with current constraints from DM direct-detection experiments and Higgs searches. This is called the degenerate scalar scenario. To provide a theoretical motivation for such a degenerate Higgs spectrum, we impose the tree-level Multiple Point Principle (MPP), which requires the electroweak and singlet vacua to be degenerate, and analyze its implications for the scalar potential, DM phenomenology, and the electroweak phase transition. We show that the tree-level MPP favors large SU(2)$_L$ doublet-singlet mixing parameters, which compete with the degenerate scalar scenario. Nevertheless, we demonstrate that viable parameter regions still exist in which the observed DM constraints are satisfied. Furthermore, although the tree-level MPP forbids a tree-level-driven first-order electroweak phase transition, we show that thermal loop effects can induce a strong first-order transition compatible with electroweak baryogenesis.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-01-06T08:31:19+00:00",
+      "updated": "2026-04-29T07:12:07+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.02808v2",
+      "html_url": "https://arxiv.org/html/2601.02808v2",
+      "entry_url": "http://arxiv.org/abs/2601.02808v2"
+    }
+  ],
+  "total": 4
+}

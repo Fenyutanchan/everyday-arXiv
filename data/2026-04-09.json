@@ -1,0 +1,163 @@
+{
+  "date": "2026-04-09",
+  "papers": [
+    {
+      "arxiv_id": "2604.08449v2",
+      "base_id": "2604.08449",
+      "title": "Coupled Dark Energy and Dark Matter for DESI: An Effective Guide to the Phantom Divide",
+      "authors": [
+        "Stefan Antusch",
+        "Stephen F. King",
+        "Xin Wang"
+      ],
+      "abstract": "Motivated by the recent Dark Energy Spectroscopic Instrument (DESI) DR2 preference for dynamical dark energy, we study interacting dark energy models in which a canonical quintessence field couples to cold dark matter through a field-dependent mass $m(φ)$. In such scenarios, the effective equation of state inferred under the assumption of non-interacting dark sectors, $w_{\\rm eff}(z)$, can differ from the intrinsic scalar-field equation of state $w_φ(z)$, making an apparent phantom crossing $w_{\\rm eff}<-1$ possible without introducing a phantom scalar. We show that a viable realization of this mechanism requires the scalar field to originate from a frozen phase deep in the radiation era, in order for the effective coupling to remain sufficiently suppressed before recombination to evade cosmic microwave background constraints, and for the late-time evolution to become strong enough to reproduce the apparent behavior of $w_{\\rm eff}(z)$ preferred by DESI. We identify the general conditions that allow these requirements to be satisfied simultaneously, and present an illustrative phenomenological realization in which $w_{\\rm eff}(z)$ evolves from $w_{\\rm eff}\\approx -1.2$ at $z \\approx 1.0$ to $w_{\\rm eff}\\approx -0.9$ at $z\\approx 0.4$. These conditions and requirements serve as a guide for designing future models of this kind which can safely navigate the phantom divide at $w=-1$ in an effective way without phantom fields.",
+      "categories": [
+        "astro-ph.CO",
+        "hep-ph"
+      ],
+      "published": "2026-04-09T16:45:31+00:00",
+      "updated": "2026-04-17T13:38:47+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.08449v2",
+      "html_url": "https://arxiv.org/html/2604.08449v2",
+      "entry_url": "http://arxiv.org/abs/2604.08449v2"
+    },
+    {
+      "arxiv_id": "2604.08349v2",
+      "base_id": "2604.08349",
+      "title": "Thermal Time and Irreversibility from Non-Commuting Observables in Accelerated Quantum Systems",
+      "authors": [
+        "Marcello Rotondo"
+      ],
+      "abstract": "We investigate when temporal ordering becomes operationally meaningful in relativistic quantum field theory using localized detector models. A time parameter alone does not ensure that different sequences of operations are physically distinguishable. We show that distinguishability arises when the state satisfies the Kubo--Martin--Schwinger (KMS) condition and the detector couples through non-commuting observables.   We consider uniformly accelerated two-level detectors interacting with a quantum field in the Minkowski vacuum. The restriction of the vacuum to the detector trajectory induces a thermal response characterized by the Unruh temperature and the Tolman profile. For sequential couplings through distinct observables, the reduced detector state depends on the ordering of interactions already at second order, with a dependence controlled by the KMS parameter.   This asymmetry is quantified using quantum relative entropy. In a minimal model, the relevant states form a family of non-commuting Gibbs states with identical spectra and different generators, yielding a closed-form expression depending only on the dimensionless combination of temperature and detector energy scale.",
+      "categories": [
+        "quant-ph",
+        "gr-qc"
+      ],
+      "published": "2026-04-09T15:17:39+00:00",
+      "updated": "2026-04-27T20:19:11+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.08349v2",
+      "html_url": "https://arxiv.org/html/2604.08349v2",
+      "entry_url": "http://arxiv.org/abs/2604.08349v2"
+    },
+    {
+      "arxiv_id": "2604.08662v2",
+      "base_id": "2604.08662",
+      "title": "Nucleation of Sachdev-Ye-Kitaev Clusters in One Spatial Dimension",
+      "authors": [
+        "Hrant Topchyan",
+        "Tigran A. Sedrakyan"
+      ],
+      "abstract": "We study how Sachdev-Ye-Kitaev (SYK) interactions can arise from localized single-particle states on a system that is effectively one dimensional. If a local interaction is projected onto coarse localized orbitals, the resulting couplings do not immediately follow the standard SYK distribution. Instead, they have a finite probability of being exactly zero, a broad non-Gaussian distribution for the nonzero values, and strong correlations coming from the geometry of the localized states. We then show that this changes when each localization volume is resolved into $M>1$ smaller microscopic pieces with random phases. As $M$ increases, the distribution of the nonzero couplings moves toward the complex-Gaussian SYK form. At the same time, the large-$M$ limit is a sparse but asymptotically canonical SYK network: the nonzero couplings create SYK clusters, while the pattern of missing or very weak couplings is still determined by the real-space overlap of the localized orbitals. Finally, we map the interaction tensor to a graph in pair space. This makes it possible to follow the formation, merger, and growth of SYK clusters, which we characterize using connected components and clique/simplex counts. The result is a minimal real-space phenomenological theory of SYK-cluster formation, providing clear experimental criteria.",
+      "categories": [
+        "cond-mat.str-el",
+        "cond-mat.dis-nn",
+        "hep-th"
+      ],
+      "published": "2026-04-09T18:00:04+00:00",
+      "updated": "2026-05-01T10:58:22+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.08662v2",
+      "html_url": "https://arxiv.org/html/2604.08662v2",
+      "entry_url": "http://arxiv.org/abs/2604.08662v2"
+    },
+    {
+      "arxiv_id": "2604.08431v2",
+      "base_id": "2604.08431",
+      "title": "Lifshitz-like Magnetic Black Branes: Third Law of Thermodynamics and the Null Energy Condition",
+      "authors": [
+        "Irina Ya. Aref'eva",
+        "Kristina Rannu",
+        "Viktor Zlobin"
+      ],
+      "abstract": "We develop a procedure to solve Einstein-dilaton-Maxwell models in quadratures using the potential reconstruction approach. We then apply this procedure to three distinct models, examining both the null energy condition (NEC) and the validity of the third law of thermodynamics in each case. The explicit knowledge of the blackening function -- as opposed to relying solely on numerical data -- allows us to discuss the validity of the third law in detail. The three models considered are: (I) a 5D model with two Maxwell fields, featuring anisotropy specified by a Gaussian function and a Lifshitz function; (II) the same 5D model as in (I), but with anisotropy parametrized by two Lifshitz parameters; and (III) a 6D model with one 2-form and one 3-form field, with the metric parametrized by two Lifshitz parameters. We show that for models I and II the parameter regions, where both the NEC and the third law are satisfied, exhibit no correlation between the two conditions. In contrast, for model III the validity of the NEC implies the validity of the third law.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2026-04-09T16:34:05+00:00",
+      "updated": "2026-05-04T15:02:49+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.08431v2",
+      "html_url": "https://arxiv.org/html/2604.08431v2",
+      "entry_url": "http://arxiv.org/abs/2604.08431v2"
+    },
+    {
+      "arxiv_id": "2604.08373v2",
+      "base_id": "2604.08373",
+      "title": "Stochastic problems in pulsar timing",
+      "authors": [
+        "Reginald Christian Bernardo"
+      ],
+      "abstract": "Langevin stochastic differential equations provide a dynamical description of pulsar timing noise and gravitational wave background (GWB) signals. They are also central to state space algorithms that have gained traction in pulsar timing array analysis due to their linear computational scaling with the number of observations. In this work, we utilize established methods in diffusion theory to derive analytical time-domain solutions (means, covariances, and probability density functions) to Langevin equations relevant to red noise and the GWB signal in pulsars. The solutions give direct physical insight on the dynamics of pulsar timing signals. As a canonical example, we show that the pulsar spin frequency modeled as an Ornstein-Uhlenbeck process is mathematically inconsistent with a stationary GWB signal when the timing residual is the direct observable. The nonstationarity can be partially dealt with by marginalizing over long time deterministic trends in the data. Then, we show that a random process based on an overdamped harmonic oscillator supports both a stationary spin frequency and phase residuals, consistent with a stationary GWB signal. We also turn our attention to a phenomenological model of a neutron star -- a two-component model with spin wandering -- that has been motivated to explain observed timing noise in radio pulsars. We derive analytical expressions for the means, covariances, and cross-covariances of the crust and superfluid rotational states driven by white noise. The associated constant deterministic torques are linked to the quadratic spin-down of pulsars. The solutions reveal the physical origin of nonstationarity in the residual model: the coexistence of damped and diffusive eigenmodes of the system.",
+      "categories": [
+        "astro-ph.HE",
+        "astro-ph.IM",
+        "cond-mat.stat-mech",
+        "gr-qc",
+        "physics.data-an"
+      ],
+      "published": "2026-04-09T15:35:35+00:00",
+      "updated": "2026-05-04T11:29:37+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.08373v2",
+      "html_url": "https://arxiv.org/html/2604.08373v2",
+      "entry_url": "http://arxiv.org/abs/2604.08373v2"
+    },
+    {
+      "arxiv_id": "2604.08736v2",
+      "base_id": "2604.08736",
+      "title": "Exact SL(2,Z)-Structure of Lattice Maxwell Theory with $θ$-term in Modified Villain Formulation",
+      "authors": [
+        "Shoto Aoki",
+        "Yoshio Kikukawa",
+        "Toshinari Takemoto"
+      ],
+      "abstract": "We study the duality of lattice Maxwell theory in the modified Villain formulation, employing an ultra-local action with a theta term. Although this action is known to become non ultra-local through the Poisson resummation formula, we show that this non ultra-locality can be removed by incorporating a non-local transformation procedure into the definition of the S-transformation. As a result, the ultra-local action with a theta term exhibits an exact SL(2,Z)-duality. We further analyze the SL(2,Z)-structure of Wilson and 't Hooft loops, demonstrating that they transform properly up to a nontrivial phase factor arising from the nontrivial self-linking of the loops. This effect originates from the non-local transformation procedure in the S-transformation. Remarkably, the resulting SL(2,Z)-structure closely resembles that of non-spin Maxwell theory.",
+      "categories": [
+        "hep-lat",
+        "cond-mat.str-el",
+        "hep-th"
+      ],
+      "published": "2026-04-09T20:00:03+00:00",
+      "updated": "2026-05-03T02:38:46+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.08736v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2604.08736v2"
+    },
+    {
+      "arxiv_id": "2604.08183v3",
+      "base_id": "2604.08183",
+      "title": "Positivity of holographic energy",
+      "authors": [
+        "Piotr T. Chruściel",
+        "Raphaela Wutte"
+      ],
+      "abstract": "We prove positivity of a weighted holographic energy for four-dimensional spacetimes with negative cosmological constant whose conformal boundary at infinity is conformally static and admits either spherical sections, or toroidal sections with compatible spin structure.",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2026-04-09T12:37:43+00:00",
+      "updated": "2026-05-08T07:46:05+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.08183v3",
+      "html_url": "https://arxiv.org/html/2604.08183v3",
+      "entry_url": "http://arxiv.org/abs/2604.08183v3"
+    },
+    {
+      "arxiv_id": "2604.08498v2",
+      "base_id": "2604.08498",
+      "title": "On Carrollian Loop Amplitudes for Gauge Theory and Gravity",
+      "authors": [
+        "Vijay Nenmeli",
+        "Bin Zhu"
+      ],
+      "abstract": "Carrollian amplitudes are scattering amplitudes of massless particles written in position space at null infinity. We study various aspects of Carrollian amplitudes for gauge theory and gravity at loop level using primarily the modified Mellin prescription of [1]. Finite one-loop four-point Carrollian amplitudes in gauge theory are shown to maintain an analytic structure similar to tree level results. We compute the one-loop four-point Carrollian MHV amplitudes in planar $N=4$ super Yang-Mills theory, which are expressed as differential operators acting on tree level Carrollian amplitudes. This result is generalized to all loop orders using the Bern-Dixon-Smirnov (BDS) formula. Similar structures are observed at one-loop for Carrollian MHV amplitudes in $N=8$ supergravity. We next consider $2\\to 2$ scattering of massless scalars via gravitational interactions in the eikonal regime and show that the corresponding Carrollian amplitudes exhibit logarithmic behavior in the `Carroll time' $u$. We compute the discontinuities of these Carrollian amplitudes up to $O(G^3)$ and show that they are descendants of Carrollian Born amplitudes. We observe similar logarithmic behavior in Carrollian amplitudes associated with the one-loop scalar box diagram. The dependence of this amplitude on dual scaling dimensions also differs from standard tree level results. Finally, we further study the infrared (IR) divergences of Carrollian amplitudes in massless scalar QED, gravity, and Yang-Mills theory. We show that Carrollian amplitudes in these theories naturally factorize, allowing us to provide an IR-safe definition for these objects.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2026-04-09T17:42:28+00:00",
+      "updated": "2026-05-14T09:27:07+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.08498v2",
+      "html_url": "https://arxiv.org/html/2604.08498v2",
+      "entry_url": "http://arxiv.org/abs/2604.08498v2"
+    }
+  ],
+  "total": 8
+}

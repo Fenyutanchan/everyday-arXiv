@@ -1,0 +1,29 @@
+{
+  "date": "2026-02-28",
+  "papers": [
+    {
+      "arxiv_id": "2603.00652v4",
+      "base_id": "2603.00652",
+      "title": "Synchronous Tunneling in a Multidimensional Quartic Potential: Competing Instanton Pathways and $D_4$ Symmetry Melting",
+      "authors": [
+        "Pervez Hoodbhoy",
+        "M. Haashir Ismail",
+        "M. Mufassir"
+      ],
+      "abstract": "Semi-classical analysis is used to investigate synchronous quantum tunneling in a multidimensional potential energy surface (PES) characterized by four degenerate minima, serving as a foundational model for coupled vibrational modes. The primary challenge in such systems is the non-linear ``locking\" of trajectories where degrees of freedom must traverse their respective barriers synchronously. Starting from the Feynman path integral in imaginary time, we analytically identify longitudinal, transverse, and diagonal instanton configurations that mediate competing tunneling pathways between minima. The translational zero mode for each trajectory is treated rigorously by transforming to a comoving rotating frame. By applying the Gelfand-Yaglom method to the functional determinant and utilizing graph theory to sum the multi-flavor dilute instanton gas , we derive coherent Rabi-type oscillations and exact ground-state tunneling splittings. Crucially, we identify a critical coupling regime where the discrete $D_4$ spatial symmetry of the minima undergoes a topological 'melting' transition into a continuous $O(2)$ rotational symmetry. These analytical results, validated against high-precision numerical diagonalization, provide a rigorous benchmark for multidimensional computational techniques, such as Ring Polymer Instanton (RPI) theory, particularly in the strongly coupled regime where standard discrete instanton approximations break down.",
+      "categories": [
+        "quant-ph",
+        "hep-th",
+        "math-ph",
+        "nlin.PS",
+        "physics.chem-ph"
+      ],
+      "published": "2026-02-28T13:44:21+00:00",
+      "updated": "2026-05-16T15:46:49+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.00652v4",
+      "html_url": "https://arxiv.org/html/2603.00652v4",
+      "entry_url": "http://arxiv.org/abs/2603.00652v4"
+    }
+  ],
+  "total": 1
+}

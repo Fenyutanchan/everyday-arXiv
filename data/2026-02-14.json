@@ -1,0 +1,61 @@
+{
+  "date": "2026-02-14",
+  "papers": [
+    {
+      "arxiv_id": "2602.13782v2",
+      "base_id": "2602.13782",
+      "title": "Defect relative entropy in symmetric orbifold CFTs",
+      "authors": [
+        "Mostafa Ghasemi"
+      ],
+      "abstract": "In this work, we compute the defect relative entropy between topological defects in the symmetric product orbifold CFT $\\mathrm{Sym}^N(M) = M^{\\otimes N}/S_N$. Our analysis covers two distinct classes of defects: universal defects, which realize the $\\mathrm{Rep}(S_N)$ non-invertible symmetry, and non-universal defects.   We show that the defect relative entropy reduces to a Kullback--Leibler (KL) divergence. The resulting expression decomposes naturally into two contributions: one governed by characters of the symmetric group $S_N$, and the other controlled by modular $S$-matrix elements of the seed RCFT. Remarkably, both sets of data appear as probability distributions, yielding an information-theoretic interpretation of permutation group data and modular data within the symmetric orbifold.   The structure of the divergence depends sensitively on the defect class. For universal defects, only the permutation group data contributes; for maximally fractional defects, both permutation and modular data enter and together define the relevant probability distributions. This feature suggests that the maximally fractional defect can be understood as a kind of product of the RCFT defect and the symmetric orbifold defect.",
+      "categories": [
+        "hep-th",
+        "cond-mat.stat-mech",
+        "math-ph",
+        "quant-ph"
+      ],
+      "published": "2026-02-14T13:59:51+00:00",
+      "updated": "2026-04-20T08:43:21+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.13782v2",
+      "html_url": "https://arxiv.org/html/2602.13782v2",
+      "entry_url": "http://arxiv.org/abs/2602.13782v2"
+    },
+    {
+      "arxiv_id": "2602.13922v2",
+      "base_id": "2602.13922",
+      "title": "Decoherence, Perturbations and Symmetry in Lindblad Dynamics -- Implications for Diffractive Dissociation",
+      "authors": [
+        "A. Y. Klimenko"
+      ],
+      "abstract": "We extend a perturbative Dyson-type treatment and discrete-symmetry constraints from the Schrödinger and von Neumann equations to a dephasing Lindblad framework. This work develops further the odd-symmetric formulation involving dual temporal conditions from general dynamical considerations to specific tools of quantum mechanics. Applying the resulting scaling relations to published single- and double-diffractive data in $pp$ and $p\\bar{p}$ collisions (ISR, UA4, UA5, CDF, D0, ALICE, and E710), we show that single-diffraction cross sections are well described by a three-parameter fit with a relative RMS deviation of $\\sim 4\\%$, substantially improving upon conventional approximations that neglect decoherence. The extracted decoherence factor is consistently $φ\\approx 0.89$, in agreement across SD, DD, and E710-based (direct) estimates, and is naturally interpreted as $φ=1$ for CP-invariant dephasing but $φ<1$ for CPT-invariant dephasing, favouring the latter.",
+      "categories": [
+        "quant-ph",
+        "hep-ph"
+      ],
+      "published": "2026-02-14T23:23:29+00:00",
+      "updated": "2026-05-08T07:01:36+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.13922v2",
+      "html_url": "https://arxiv.org/html/2602.13922v2",
+      "entry_url": "http://arxiv.org/abs/2602.13922v2"
+    },
+    {
+      "arxiv_id": "2602.13627v3",
+      "base_id": "2602.13627",
+      "title": "Higher Connection in Open String Field Theory",
+      "authors": [
+        "Yichul Choi"
+      ],
+      "abstract": "We define a 2-form connection in the space of classical solutions of the bosonic open string field theory, using the open string star product and integration. The corresponding higher holonomies and the 3-form curvature are new observables invariant under the infinite-dimensional gauge algebra of open string field theory. The definition is analogous to that of Berry phase in quantum mechanics and is motivated by recent studies on higher Berry phase in condensed matter physics and quantum field theory. We suggest identifying this 2-form connection with the Kalb-Ramond $B$-field of the closed string background at least in favorable situations. Also discussed are sigma models whose target space is the moduli space of conformal boundary conditions of a two-dimensional CFT with the $B$-field given by a cousin of this 2-form connection.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2026-02-14T06:35:33+00:00",
+      "updated": "2026-05-12T22:47:49+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.13627v3",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2602.13627v3"
+    }
+  ],
+  "total": 3
+}

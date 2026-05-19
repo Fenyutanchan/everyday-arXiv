@@ -1,0 +1,64 @@
+{
+  "date": "2025-06-05",
+  "papers": [
+    {
+      "arxiv_id": "2506.04934v3",
+      "base_id": "2506.04934",
+      "title": "On the geometry of synthetic null hypersurfaces",
+      "authors": [
+        "Fabio Cavalletti",
+        "Davide Manini",
+        "Andrea Mondino"
+      ],
+      "abstract": "This paper develops a synthetic framework for the geometric and analytic study of null (lightlike) hypersurfaces in non-smooth spacetimes. Drawing from optimal transport and recent advances in Lorentzian geometry and causality theory, we define a synthetic null hypersurface as a triple $(H, G, \\mathfrak{m})$: $H$ is a closed achronal set in a topological causal space, $G$ is a gauge function encoding affine parametrizations along null generators, and $\\mathfrak{m}$ is a Radon measure serving as a synthetic analog of the rigged measure. This generalizes classical differential geometric structures to potentially singular spacetimes.   The central object is the synthetic null energy condition ($\\mathsf{NC}^e(N)$), defined via the concavity of an entropy power functional along optimal transport, with parametrization given by the gauge $G$. This condition is invariant under changes of gauge and measure within natural equivalence classes. It agrees with the classical Null Energy Condition in the smooth setting and it applies to low-regularity spacetimes. A key property of the $\\mathsf{NC}^e(N)$ condition is the stability under convergence of synthetic null hypersurfaces.   The $\\mathsf{NC}^e(N)$ condition is also remarkably fruitful for applications. First, it provides a framework for a synthetic version of Hawking's area theorem. Second, the celebrated Penrose's singularity theorem is proved for continuous spacetimes, and the existence of trapped regions is settled in the general setting of topological causal spaces satisfying the $\\mathsf{NC}^e(N)$.",
+      "categories": [
+        "math.DG",
+        "gr-qc",
+        "math-ph",
+        "math.MG"
+      ],
+      "published": "2025-06-05T12:09:09+00:00",
+      "updated": "2026-04-29T18:29:45+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.04934v3",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2506.04934v3"
+    },
+    {
+      "arxiv_id": "2506.05472v3",
+      "base_id": "2506.05472",
+      "title": "The Intrinsic and Extrinsic Hierarchy Problems",
+      "authors": [
+        "James D. Wells"
+      ],
+      "abstract": "The Hierarchy Problem of elementary particle physics can be divided into two separate problems: the Intrinsic and Extrinsic Hierarchy Problems. The Intrinsic Hierarchy Problem (IHP) arises when the Wilsonian renormalization group induces a large $Λ_{\\rm UV}^2$ cutoff dependence on a much lighter scalar mass, creating a large finetuning. The Extrinsic Hierarchy Problem (EHP) arises when the IR theory is augmented with generically assumed extra states and interactions in the UV, making the resulting IR effective theory appear highly finetuned. The IHP is straightforward to analyze within a theory, but has suspicious regulator dependence, which has been suggested by some to be indication of a faux problem. The EHP is less straightforward to analyze, but has strength of physical intuition. We analyze EHP as a formal paradox, spelling out its premises and reasoning. From this we classify solutions to the EHP in terms of premise violations, and we articulate why some purported solutions to the Hierarchy Problem only partially solve the IHP and leave the EHP unaddressed.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-06-05T18:00:06+00:00",
+      "updated": "2026-05-05T16:05:57+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.05472v3",
+      "html_url": "https://arxiv.org/html/2506.05472v3",
+      "entry_url": "http://arxiv.org/abs/2506.05472v3"
+    },
+    {
+      "arxiv_id": "2506.05015v2",
+      "base_id": "2506.05015",
+      "title": "Periodic Orbits and Gravitational Wave Radiation of Black Hole in EGB gravity",
+      "authors": [
+        "Liping Meng",
+        "Zhaoyi Xu",
+        "Meirong Tang"
+      ],
+      "abstract": "This paper investigates the orbital dynamics and gravitational wave radiation characteristics of neutral test particles around a static spherically symmetric charged black hole (BH) in 4D Einstein-Gauss-Bonnet (4D-EGB) gravity theory.   We analyze the dependence of the marginally bound orbit (MBO) and the innermost stable circular orbit (ISCO) on the Gauss-Bonnet coupling parameter $α$ and charge $Q$. The results indicate that the orbital radius, angular momentum, and energy all decrease with increasing $α$ or $Q$, with the corresponding bound orbit region shifting leftward in the $(E, L)$ parameter space. By combining observational data from the BH shadows of M87* and Sgr A* as well as the orbital precession of the S2 star, we constrain the model parameters and find that existing observations can limit the ranges of $α$ and $Q$ to a certain extent. Furthermore, we investigate the characteristics of periodic orbits corresponding to different rational numbers $q$ and the gravitational waveforms they excite, finding that variations in $α$ and $Q$ can lead to distinguishable differences in periodic orbit structures and gravitational wave phases. This study contributes to understanding the effects of Gauss-Bonnet corrections on BH spacetimes, and the results may provide theoretical references for future gravitational wave observations of extreme mass ratio inspirals (EMRIs).",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-06-05T13:22:32+00:00",
+      "updated": "2026-05-02T14:57:43+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.05015v2",
+      "html_url": "https://arxiv.org/html/2506.05015v2",
+      "entry_url": "http://arxiv.org/abs/2506.05015v2"
+    }
+  ],
+  "total": 3
+}

@@ -1,0 +1,32 @@
+{
+  "date": "2024-10-07",
+  "papers": [
+    {
+      "arxiv_id": "2410.05549v3",
+      "base_id": "2410.05549",
+      "title": "Highly Excited Electron Cyclotron for QCD Axion and Dark-Photon Detection",
+      "authors": [
+        "Xing Fan",
+        "Gerald Gabrielse",
+        "Peter W. Graham",
+        "Harikrishnan Ramani",
+        "Samuel S. Y. Wong",
+        "Yawen Xiao"
+      ],
+      "abstract": "We propose using highly excited cyclotron states of a trapped electron to detect meV axion and dark photon dark matter, marking a significant improvement over our previous proposal and demonstration [Phys. Rev. Lett. 129, 261801]. When the axion mass matches the cyclotron frequency $ω_c$, the cyclotron state is resonantly excited, with a transition probability proportional to its initial quantum number, $n_c$. The sensitivity is enhanced by taking $n_c \\sim 10^6 \\left( \\frac{0.1~\\text{meV}}{ω_c} \\right)^2$. By optimizing key experimental parameters, we minimize the required averaging time for cyclotron detection to $t_{\\text{ave}} \\sim 10^{-6} $ seconds, permitting detection of such a highly excited state before its decay. An open-endcap trap design enables the external photon signal to be directed into the trap, rendering our background-free detector compatible with large focusing cavities, such as the BREAD proposal, while capitalizing on their strong magnetic fields. Furthermore, the axion conversion rate can be coherently enhanced by incorporating layers of dielectrics with alternating refractive indices within the cavity. Collectively, these optimizations enable us to probe the QCD axion parameter space from 0.1 meV to 2.3 meV (25-560 GHz), covering a substantial portion of the predicted post-inflationary QCD axion mass range. This sensitivity corresponds to probing the kinetic mixing parameter of the dark photon down to $ε\\approx 2 \\times 10^{-16}$.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "hep-ex",
+        "physics.atom-ph",
+        "quant-ph"
+      ],
+      "published": "2024-10-07T23:20:18+00:00",
+      "updated": "2026-05-14T22:44:50+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2410.05549v3",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2410.05549v3"
+    }
+  ],
+  "total": 1
+}
