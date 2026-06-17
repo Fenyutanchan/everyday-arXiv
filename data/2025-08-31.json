@@ -1,0 +1,47 @@
+{
+  "date": "2025-08-31",
+  "papers": [
+    {
+      "arxiv_id": "2509.00816v3",
+      "base_id": "2509.00816",
+      "title": "Interior Dynamics of Regular Schwarzschild Black Holes",
+      "authors": [
+        "J. Ovalle"
+      ],
+      "abstract": "We present an exact, purely geometric account of the interior dynamics of Schwarzschild black holes, formulated without invoking any specific gravitational theory and free of additional charges beyond the total mass ${\\cal M}$. We show that dynamical evolution generically produces new singularities, absent in the static case, whose resolution imposes highly restrictive conditions on gravitational collapse.",
+      "categories": [
+        "gr-qc",
+        "hep-th",
+        "math-ph"
+      ],
+      "published": "2025-08-31T12:18:11+00:00",
+      "updated": "2026-04-29T15:41:18+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.00816v3",
+      "html_url": "https://arxiv.org/html/2509.00816v3",
+      "entry_url": "http://arxiv.org/abs/2509.00816v3"
+    },
+    {
+      "arxiv_id": "2509.00712v2",
+      "base_id": "2509.00712",
+      "title": "Machine learning driven identification of heavy flavor decay leptons in proton-proton collisions at the Large Hadron Collider",
+      "authors": [
+        "Raghunath Sahoo",
+        "Kangkan Goswami",
+        "Suraj Prasad"
+      ],
+      "abstract": "The study of heavy-flavor hadrons is topical in the era of precision measurements, which is useful to test theories based on pQCD. The heavy-flavor hadrons are produced initially during heavy-ion or hadronic collisions and are one of the best probes to understand the initial stages of the collisions as well as the system evolution. In experiments, the heavy-flavor sectors are studied directly via their decay to different hadrons or di-leptons or via their semi-leptonic decay, which is accompanied by additional neutrinos. However, their measurement in experiments is resource-intensive and requires input from different Monte-Carlo event generators. In this study, we provide an independent method based on Machine Learning algorithms to separate such leptons coming from heavy-flavor semi-leptonic decays. We use PYTHIA8 to generate events for this study, which gives a good qualitative and quantitative description of heavy-flavor production in $pp$ collisions. We use the XGBoost model for this study, which is trained with $pp$ collisions at $\\sqrt{s}=13.6$~TeV. We use \\DCAXY, \\DCAZ~and pseudo-rapidity as the input to the machine. The ML model provides an accuracy of 98\\% for heavy-flavor decay electrons and almost 100\\% for heavy-flavor decay muons.",
+      "categories": [
+        "hep-ph",
+        "hep-ex",
+        "hep-th",
+        "nucl-th"
+      ],
+      "published": "2025-08-31T06:10:07+00:00",
+      "updated": "2026-05-25T05:59:55+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.00712v2",
+      "html_url": "https://arxiv.org/html/2509.00712v2",
+      "entry_url": "http://arxiv.org/abs/2509.00712v2"
+    }
+  ],
+  "total": 2
+}

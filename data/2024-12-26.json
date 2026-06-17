@@ -1,0 +1,28 @@
+{
+  "date": "2024-12-26",
+  "papers": [
+    {
+      "arxiv_id": "2412.19383v4",
+      "base_id": "2412.19383",
+      "title": "On the Quantum K-theory of Quiver Varieties at Roots of Unity",
+      "authors": [
+        "Peter Koroteev",
+        "Andrey Smirnov"
+      ],
+      "abstract": "Let $Ψ(\\textbf{z},\\textbf{a},q)$ a the fundamental solution matrix of the quantum difference equation of a Nakajima variety $X$. In this work, we prove that the operator $$ Ψ(\\textbf{z},\\textbf{a},q) Ψ\\left(\\textbf{z}^p,\\textbf{a}^p,q^{p^2}\\right)^{-1} $$ has no poles at the primitive complex $p$-th roots of unity $q=ζ_p$. As a byproduct, we show that the iterated product of the operators ${\\bf M}_{\\mathcal{L}}(\\textbf{z},\\textbf{a},q )$ from the $q$-difference equation on $X$: $$ {\\bf M}_{\\mathcal{L}} (\\textbf{z} q^{(p-1)\\mathcal{L}},\\textbf{a},q) \\cdots {\\bf M}_{\\mathcal{L}} (\\textbf{z} q^{\\mathcal{L}},\\textbf{a},q) {\\bf M}_{\\mathcal{L}} (\\textbf{z} ,\\textbf{a},q) $$ evaluated at $q=ζ_p$ has the same eigenvalues as ${\\bf M}_{\\mathcal{L}} (\\textbf{z}^p,\\textbf{a}^p,q^p)$.   Upon a reduction of the quantum difference equation of $X$ to the quantum differential equation over the field of finite characteristic, the above iterated product transforms into a Grothendiek-Katz $p$-curvature of the corresponding quantum connection whreas ${\\bf M}_{\\mathcal{L}} (\\textbf{z}^p,\\textbf{a}^p,q^p)$ becomes a certain Frobenius twist of that connection. In this way, we give an explicit description of the spectrum of the $p$-curvature of quantum connection for Nakajima varieties.",
+      "categories": [
+        "math.AG",
+        "hep-th",
+        "math-ph",
+        "math.NT",
+        "math.RT"
+      ],
+      "published": "2024-12-26T23:52:58+00:00",
+      "updated": "2026-06-02T05:52:11+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2412.19383v4",
+      "html_url": "https://arxiv.org/html/2412.19383v4",
+      "entry_url": "http://arxiv.org/abs/2412.19383v4"
+    }
+  ],
+  "total": 1
+}

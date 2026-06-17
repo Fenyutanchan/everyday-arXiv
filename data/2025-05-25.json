@@ -1,0 +1,28 @@
+{
+  "date": "2025-05-25",
+  "papers": [
+    {
+      "arxiv_id": "2505.18921v2",
+      "base_id": "2505.18921",
+      "title": "Microscopic constraints for the equation of state and structure of neutron stars: a Bayesian model mixing framework",
+      "authors": [
+        "A. C. Semposki",
+        "C. Drischler",
+        "R. J. Furnstahl",
+        "D. R. Phillips"
+      ],
+      "abstract": "Bayesian model mixing (BMM) is a statistical technique that can combine constraints from different regions of an input space in a principled way. Here we extend our BMM framework for the equation of state (EOS) of strongly interacting matter from symmetric nuclear matter to asymmetric matter, specifically focusing on zero-temperature, charge-neutral, $β$-equilibrated matter. We use Gaussian processes (GPs) to infer constraints on the neutron star matter EOS at intermediate densities from two different microscopic theories: chiral effective field theory ($χ$EFT) at baryon densities around nuclear saturation, $n_B \\sim n_0$, and perturbative QCD at asymptotically high baryon densities, $n_B \\geqslant 20 n_0$. The uncertainties of the $χ$EFT and pQCD EOSs are obtained using the BUQEYE truncation error model. We demonstrate the flexibility of our framework through the use of two categories of GP kernels: conventional stationary kernels and a non-stationary changepoint kernel. We use the latter to explore potential constraints on the dense matter EOS by including exogenous data representing theory predictions and heavy-ion collision measurements at densities $\\geqslant 2n_0$. We also use our EOSs to obtain neutron star mass-radius relations and their uncertainties. Our framework, whose implementation will be available through a GitHub repository, provides a prior distribution for the EOS that can be used in large-scale neutron-star inference frameworks.",
+      "categories": [
+        "nucl-th",
+        "astro-ph.HE",
+        "hep-ph"
+      ],
+      "published": "2025-05-25T01:04:40+00:00",
+      "updated": "2026-06-08T18:10:09+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2505.18921v2",
+      "html_url": "https://arxiv.org/html/2505.18921v2",
+      "entry_url": "http://arxiv.org/abs/2505.18921v2"
+    }
+  ],
+  "total": 1
+}

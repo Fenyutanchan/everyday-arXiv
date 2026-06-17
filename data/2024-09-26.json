@@ -1,0 +1,67 @@
+{
+  "date": "2024-09-26",
+  "papers": [
+    {
+      "arxiv_id": "2409.18130v4",
+      "base_id": "2409.18130",
+      "title": "Bridging 4D QFTs and 2D VOAs via 3D high-temperature EFTs",
+      "authors": [
+        "Arash Arabi Ardehali",
+        "Mykola Dedushenko",
+        "Dongmin Gang",
+        "Mikhail Litvinov"
+      ],
+      "abstract": "The high-temperature limit of the superconformal index, especially on higher sheets, often captures useful universal information about a theory. In 4d $\\mathcal{N}=2$ superconformal field theories with fractional r-charges, there exists a special notion of high-temperature limit on higher sheets that captures data of three-dimensional topological quantum field theories arising from r-twisted circle reduction. These TQFTs are closely tied with the VOA of the 4d SCFT. We study such high-temperature limits. More specifically, we apply Di~Pietro-Komargodski type supersymmetric effective field theory techniques to r-twisted circle reductions of $(A_1,A_{2n})$ Argyres-Douglas theories, leveraging their Maruyoshi-Song Lagrangian with manifest $\\mathcal{N}=1$ supersymmetry. The result on the second sheet is the Gang-Kim-Stubbs family of 3d $\\mathcal{N}=2$ SUSY enhancing rank-$0$ theories with monopole superpotentials, whose boundary supports the Virasoro minimal model VOAs $M(2,2n+3)$. Upon topological twist, they give non-unitary TQFTs controlled by the $M(2,2n+3)$ modular tensor category (MTC). The high-temperature limit on other sheets yields their unitary or non-unitary Galois conjugates. This opens up the prospect of a broader four-supercharge perspective on the celebrated correspondence between 4d $\\mathcal{N}=2$ SCFTs and 2d VOAs via interpolating 3d EFTs. Several byproducts follow, including a systematic approach to 3d SUSY enhancement from 4d SUSY enhancement, and a 3d QFT handle on Galois orbits of various MTCs associated with 4d $\\mathcal{N}=2$ SCFTs.",
+      "categories": [
+        "hep-th",
+        "math-ph",
+        "math.QA",
+        "math.RT"
+      ],
+      "published": "2024-09-26T17:59:55+00:00",
+      "updated": "2026-05-20T10:09:04+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2409.18130v4",
+      "html_url": "https://arxiv.org/html/2409.18130v4",
+      "entry_url": "http://arxiv.org/abs/2409.18130v4"
+    },
+    {
+      "arxiv_id": "2409.18076v2",
+      "base_id": "2409.18076",
+      "title": "On the existence and properties of solutions of the generalized Jang equation with respect to asymptotically anti-de Sitter initial data",
+      "authors": [
+        "Benjamin Meco"
+      ],
+      "abstract": "We provide a rigorous analysis of the generalized Jang equation in the asymptotically anti-de Sitter setting modelled on constant time slices of anti-de Sitter spacetimes in dimensions $3\\leq n \\leq 7$ for a very general class of asymptotics. Potential applications to spacetime positive mass theorems for asymptotically anti-de Sitter initial data sets are discussed.",
+      "categories": [
+        "math.DG",
+        "gr-qc",
+        "math.AP"
+      ],
+      "published": "2024-09-26T17:24:20+00:00",
+      "updated": "2026-05-26T11:51:09+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2409.18076v2",
+      "html_url": "https://arxiv.org/html/2409.18076v2",
+      "entry_url": "http://arxiv.org/abs/2409.18076v2"
+    },
+    {
+      "arxiv_id": "2409.17913v4",
+      "base_id": "2409.17913",
+      "title": "Symmetry Enhancement, SPT Absorption, and Duality in QED$_3$",
+      "authors": [
+        "Shai M. Chester",
+        "Zohar Komargodski"
+      ],
+      "abstract": "Quantum Electrodynamics in 2+1 dimensions (QED$_3$) with two Dirac fermions displays time reversal symmetry, nontrivial SPT phases and anomalies. The fate of this theory in its strongly coupled regime has been debated extensively. Surprisingly, we find that gluing together the phase diagrams of two standard Wilson-Fisher $O(4)$ theories suffices to reproduce all the SPT phases, anomalies, and semi-classical limits. A central mechanism behind it is ``SPT absorption''. The patching of the $O(4)$ transitions makes very concrete predictions for the behavior of the theory in its strongly coupled limits; for instance, the $θ=π$ sigma model with $S^3$ topology appears due to monopole condensation.",
+      "categories": [
+        "hep-th",
+        "cond-mat.str-el"
+      ],
+      "published": "2024-09-26T14:57:12+00:00",
+      "updated": "2026-05-30T13:19:18+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2409.17913v4",
+      "html_url": "https://arxiv.org/html/2409.17913v4",
+      "entry_url": "http://arxiv.org/abs/2409.17913v4"
+    }
+  ],
+  "total": 3
+}

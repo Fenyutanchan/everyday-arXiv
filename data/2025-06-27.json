@@ -1,0 +1,86 @@
+{
+  "date": "2025-06-27",
+  "papers": [
+    {
+      "arxiv_id": "2506.22363v2",
+      "base_id": "2506.22363",
+      "title": "Binary black holes in the heat of merger",
+      "authors": [
+        "Samanwaya Mukherjee",
+        "Sayak Datta",
+        "Sukanta Bose",
+        "Khun Sang Phukon"
+      ],
+      "abstract": "A black hole binary approaching merger undergoes changes in its inspiral rate as energy and angular momentum are lost from the orbits into the horizons. This effect strengthens as the black holes come closer. We use numerical relativity data to model this so-called tidal heating in the strong gravity regime. We present a frequency-domain approximant for nonspinning black hole binaries that accounts for tidal heating effects up to the merger frequency. The approximant includes horizon parameters that characterize the nature of the compact objects. By applying this model to a binary black hole baseline that incorporates tidal heating, one can construct a more accurate point-particle waveform, one that is devoid of finite-size effects of the component objects. We also discuss its ramifications in modeling binary neutron star systems.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-06-27T16:25:24+00:00",
+      "updated": "2026-05-10T17:37:43+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.22363v2",
+      "html_url": "https://arxiv.org/html/2506.22363v2",
+      "entry_url": "http://arxiv.org/abs/2506.22363v2"
+    },
+    {
+      "arxiv_id": "2506.22616v2",
+      "base_id": "2506.22616",
+      "title": "A novel phenomenological approach to total charm cross-section measurements at the LHC",
+      "authors": [
+        "Yewon Yang",
+        "Achim Geiser",
+        "Sven-Olaf Moch",
+        "Oleksandr Zenaiev"
+      ],
+      "abstract": "We propose a novel, data-driven method for determining total charm cross sections in proton-proton collisions by extrapolating measured fiducial cross sections without assuming any particular fragmentation model. The recently observed charm fragmentation non-universality at the LHC experimentally establishes strongly increased baryon production fractions and correspondingly decreased meson production fractions compared to electron-positron collisions, with a very significant $p_T$ dependence. The novel method accounts for this non-universality and its $p_T$-dependence through a data-driven extrapolation function called ddFONLL. Applied to $D^0$ production at 5 and 13 TeV, this approach yields total charm cross sections that fully incorporate the fragmentation non-universality and increase significantly compared to the previous measurements still based on fragmentation universality. The results are consistent with NNLO QCD predictions and enable direct comparisons free from fragmentation assumptions. We use this to evaluate the sensitivity of total cross-section measurements to parton distribution functions and the charm-quark mass. An outlook is given on the potential of further expanding the use of the ddFONLL method.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-06-27T20:26:38+00:00",
+      "updated": "2026-05-14T16:18:02+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.22616v2",
+      "html_url": "https://arxiv.org/html/2506.22616v2",
+      "entry_url": "http://arxiv.org/abs/2506.22616v2"
+    },
+    {
+      "arxiv_id": "2506.22546v2",
+      "base_id": "2506.22546",
+      "title": "Primal S-matrix bootstrap with dispersion relations",
+      "authors": [
+        "Claudia de Rham",
+        "Andrew J. Tolley",
+        "Zhuo-Hui Wang",
+        "Shuang-Yong Zhou"
+      ],
+      "abstract": "We propose a new method for constructing the consistent space of scattering amplitudes by parameterizing the imaginary parts of partial waves and utilizing dispersion relations, crossing symmetry, and full unitarity. Using this framework, we explicitly compute bounds on the leading couplings and examine the Regge behaviors of the constructed amplitudes. The method also readily accommodates spinning bound states, which we use to constrain glueball couplings. By incorporating dispersion relations, our approach inherently satisfies the Froissart-Martin/Jin-Martin bounds or softer high-energy behaviors by construction. This, in turn, allows us to formulate a new class of fractionally subtracted dispersion relations, through which we investigate the sensitivity of coupling bounds to the asymptotic growth rate.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2025-06-27T18:00:09+00:00",
+      "updated": "2026-05-20T17:08:29+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.22546v2",
+      "html_url": "https://arxiv.org/html/2506.22546v2",
+      "entry_url": "http://arxiv.org/abs/2506.22546v2"
+    },
+    {
+      "arxiv_id": "2506.22208v4",
+      "base_id": "2506.22208",
+      "title": "Application of the 3-Loop FlexibleEFTHiggs Method to the MSSM and the NMSSM",
+      "authors": [
+        "Thomas Kwasnitza",
+        "Dominik Stöckinger",
+        "Alexander Voigt",
+        "Johannes Wünsche"
+      ],
+      "abstract": "We perform an extensive analysis of the light CP-even Higgs boson pole mass in the MSSM and its dependencies on various parameters based on the 3-loop FlexibleEFTHiggs hybrid calculation which is implemented and publicly avaiable since recently in FlexibleSUSY. Our focus lies on the study of the robustness of the approach in scenarios of highly non-degenerate SUSY mass spectra. Also, we present an improved Higgs mass calculation in the NMSSM based on the same approach, which is published in the new version 2.9.0 of FlexibleSUSY as well. The calculation provides a treatment in the full-model parametrization, leading to an advantageous resummation of QCD-enhanced terms in the stop-mixing parameter and includes important 2-loop contributions as well as 3-loop QCD contributions in the MSSM limit. We assess the reliability of this new calculation by applying it to several distinct NMSSM scenarios. In this context, special attention is devoted to the estimation of NMSSM-specific theory uncertainty.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-06-27T13:28:41+00:00",
+      "updated": "2026-06-01T08:00:10+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.22208v4",
+      "html_url": "https://arxiv.org/html/2506.22208v4",
+      "entry_url": "http://arxiv.org/abs/2506.22208v4"
+    }
+  ],
+  "total": 4
+}

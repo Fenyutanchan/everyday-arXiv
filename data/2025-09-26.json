@@ -1,0 +1,132 @@
+{
+  "date": "2025-09-26",
+  "papers": [
+    {
+      "arxiv_id": "2509.22180v2",
+      "base_id": "2509.22180",
+      "title": "Detection of HI filament: Pair Stacking vs. Filament Stacking",
+      "authors": [
+        "Yuxi Meng",
+        "Jie Wang",
+        "Yingjie Jing",
+        "Hongxiang Chen",
+        "Zerui Liu"
+      ],
+      "abstract": "The faint 21 cm signal emitted by neutral hydrogen in cosmic filaments is expected to be detectable. However, due to its weakness, stacking techniques are required. We assessed two stacking methods--pair stacking and filament stacking--using the EAGLE and IllustrisTNG simulations. Pair stacking leverages the fact that cosmic filaments connect massive structures (i.e., knots) in the cosmic web, while filament stacking directly aggregates filaments identified from galaxy distributions. Our analysis indicates that, although pair stacking is convenient, it faces contamination from massive structures; after removing this contamination, the filament signal is significantly reduced. In contrast, HI detection via filament stacking appears more promising. The column density in filament stacking reaches $\\sim 10^{16}$--$10^{17}~\\mathrm{cm}^{-2}$ even when all haloes are masked, whereas pair stacking does not reach this level even without masking, and is further suppressed by several orders of magnitude once masking is applied. The effectiveness of filament stacking can be further improved with higher galaxy number density and better spatial resolution in radio intensity mapping observations. With the advent of upcoming optical and radio data, the detection of HI in cosmic filaments remains promising.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2025-09-26T10:38:35+00:00",
+      "updated": "2026-04-20T10:12:20+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.22180v2",
+      "html_url": "https://arxiv.org/html/2509.22180v2",
+      "entry_url": "http://arxiv.org/abs/2509.22180v2"
+    },
+    {
+      "arxiv_id": "2509.22051v2",
+      "base_id": "2509.22051",
+      "title": "From gauging to duality in one-dimensional quantum lattice models",
+      "authors": [
+        "Bram Vancraeynest-De Cuiper",
+        "José Garre-Rubio",
+        "Frank Verstraete",
+        "Kevin Vervoort",
+        "Dominic J. Williamson",
+        "Laurens Lootens"
+      ],
+      "abstract": "Gauging and duality transformations, two of the most useful tools in many-body physics, are shown to be equivalent up to constant depth quantum circuits in the case of one-dimensional quantum lattice models. This is demonstrated by making use of matrix product operators, which provide the lattice representation theory for global (categorical) symmetries as well as a classification of duality transformations. Our construction makes the symmetries of the gauged theory manifest and clarifies how to deal with static background fields when gauging generalised symmetries.",
+      "categories": [
+        "cond-mat.str-el",
+        "hep-th",
+        "math-ph"
+      ],
+      "published": "2025-09-26T08:34:55+00:00",
+      "updated": "2026-04-20T08:17:21+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.22051v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2509.22051v2"
+    },
+    {
+      "arxiv_id": "2509.21796v3",
+      "base_id": "2509.21796",
+      "title": "Black Hole Entropy from String Entanglement",
+      "authors": [
+        "Soichiro Mori",
+        "Tadakatsu Sakai",
+        "Masaki Shigemori"
+      ],
+      "abstract": "We discuss the notion of string entanglement in string theory, which aims to study entanglement between worldsheet Hilbert spaces rather than entanglement between spacetime Hilbert spaces defined on a time slice in spacetime. Applying this framework to the FZZ duality and its extension to a three-dimensional black hole, we argue that the thermal entropy of 2d and 3d black holes is accounted for by the string entanglement entropy between folded strings arising in the dual sine-Liouville CFT. We compute this via a worldsheet replica method and show that it decomposes into two parts, which we call the vertex operator contribution and the replica contribution. The former can be evaluated analytically and is shown to coincide with the black hole thermal entropies in the low temperature limit in large D dimensions. Although a computation of the latter is left as an open problem, we present evidence that it captures the remaining portion of the black hole entropy.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2025-09-26T02:51:50+00:00",
+      "updated": "2026-05-18T00:56:25+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.21796v3",
+      "html_url": "https://arxiv.org/html/2509.21796v3",
+      "entry_url": "http://arxiv.org/abs/2509.21796v3"
+    },
+    {
+      "arxiv_id": "2509.22478v2",
+      "base_id": "2509.22478",
+      "title": "halox: Dark matter halo properties and large-scale structure calculations using JAX",
+      "authors": [
+        "Florian Kéruzoré",
+        "Lance A. Moreau"
+      ],
+      "abstract": "Dark matter halos are fundamental structures in cosmology, forming the gravitational potential wells hosting galaxies and clusters of galaxies. Their properties and statistical distribution (including the halo mass function) are invaluable tools to infer the fundamental properties of the Universe. The \\texttt{halox} package is a JAX-powered Python library enabling differentiable and accelerated computations of key properties of dark matter halos, and of the halo mass function. The automatic differentiation capabilities of \\texttt{halox} enable its usage in gradient-based workflows, e.g. in efficient Hamiltonian Monte Carlo sampling or machine learning applications.",
+      "categories": [
+        "astro-ph.IM",
+        "astro-ph.CO"
+      ],
+      "published": "2025-09-26T15:23:57+00:00",
+      "updated": "2026-06-01T16:05:46+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.22478v2",
+      "html_url": "https://arxiv.org/html/2509.22478v2",
+      "entry_url": "http://arxiv.org/abs/2509.22478v2"
+    },
+    {
+      "arxiv_id": "2509.22178v3",
+      "base_id": "2509.22178",
+      "title": "When backgrounds become signals: neutrino interactions in xenon-based dark matter detectors",
+      "authors": [
+        "M. Atzori Corona",
+        "M. Cadeddu",
+        "N. Cargioli",
+        "F. Dordei",
+        "M. Sestu"
+      ],
+      "abstract": "Direct detection dark matter experiments have proven to be compelling probes for studying low-energy neutrino interactions with both nuclei and atomic electrons, offering complementary information to accelerator and reactor-based neutrino experiments. Recently, the XENONnT and PandaX-4T collaborations reported the first evidence of coherent elastic neutrino-nucleus scattering from $^8\\mathrm{B}$ solar neutrinos. Thanks to their excellent background rejection capabilities and distinctive signal signatures, dual-phase time projection chambers are also sensitive to $pp$ solar neutrinos via their elastic scattering off atomic electrons in the target material. Although this signal is subdominant within the Standard Model, it becomes significantly enhanced in many beyond the Standard Model scenarios, offering a unique opportunity to probe new physics in the low-energy regime. In this work, we analyze the latest electron recoil and nuclear recoil data from XENONnT, PandaX-4T, and LUX-ZEPLIN to probe Standard Model and Beyond the Standard Model physics. While the precision of current neutrino measurements from such detectors remains lower than that achieved by dedicated neutrino experiments, their sensitivity to the tau neutrino component of solar neutrinos helps complete the overall picture, especially when investigating flavor-dependent new physics effects.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.SR",
+        "hep-ex"
+      ],
+      "published": "2025-09-26T10:37:46+00:00",
+      "updated": "2026-06-03T09:06:00+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.22178v3",
+      "html_url": "https://arxiv.org/html/2509.22178v3",
+      "entry_url": "http://arxiv.org/abs/2509.22178v3"
+    },
+    {
+      "arxiv_id": "2509.22433v2",
+      "base_id": "2509.22433",
+      "title": "Cumulative proton production in $pd$ collisions",
+      "authors": [
+        "A. B. Larionov"
+      ],
+      "abstract": "The model of backward proton production in the exclusive reaction $pd \\to ppn$ at proton beam momenta up to several GeV/c is constructed on the basis of Feynman diagrams for one- and two-step amplitudes. The latter include nucleon and $Δ(1232)$ resonance intermediate scattering states with propagators reduced to eikonal form using the generalized eikonal approximation. The model calculations are compared with available experimental data on the energy spectra of protons at backward polar angles in the deuteron rest frame. It is shown that inclusion of two-step amplitudes significantly increases the production of backward protons with energies above $\\sim$ 50 MeV, thereby significantly improving the agreement with experiment. The remaining theoretical problem related to the description of the off-shell behavior of the elementary amplitudes of the $NN \\to NN$ and $NN \\leftrightarrow NΔ$ transitions is discussed. Partial discrepancies between different sets of experimental data do not allow for conclusion that exotic effects, such as proton interactions with density fluctuations and/or $6q$ clusters in the deuteron, are present.",
+      "categories": [
+        "nucl-th",
+        "hep-ex",
+        "hep-ph",
+        "nucl-ex"
+      ],
+      "published": "2025-09-26T14:51:47+00:00",
+      "updated": "2026-06-02T06:05:41+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.22433v2",
+      "html_url": "https://arxiv.org/html/2509.22433v2",
+      "entry_url": "http://arxiv.org/abs/2509.22433v2"
+    }
+  ],
+  "total": 6
+}

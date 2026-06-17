@@ -1,0 +1,70 @@
+{
+  "date": "2025-05-21",
+  "papers": [
+    {
+      "arxiv_id": "2505.15566v2",
+      "base_id": "2505.15566",
+      "title": "Hyperscaling of Fidelity and Operator Estimations in the Critical Manifold",
+      "authors": [
+        "Matheus H. Martins Costa",
+        "Flavio S. Nogueira",
+        "Jeroen van den Brink"
+      ],
+      "abstract": "By formulating the renormalization group as a quantum channel acting on density matrices in Quantum Field Theories (QFTs), we show that ground-state expectation values of observables supported on slow momentum modes can be approximated by their averages on the fixed-point theories to which the QFTs flow. This is done by studying the fidelity between ground states of different QFTs and arriving at certain hyperscaling relations satisfied at criticality. Our results allow for a clear identification of cases in which one can replace a QFT by its scale-invariant limit in the calculation of expectation values, opening the way for a range of applications, including the improvement of numerical and analytical methods used to tackle the costly computer simulation of critical models.",
+      "categories": [
+        "hep-th",
+        "cond-mat.str-el",
+        "quant-ph"
+      ],
+      "published": "2025-05-21T14:20:54+00:00",
+      "updated": "2026-04-15T17:16:12+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2505.15566v2",
+      "html_url": "https://arxiv.org/html/2505.15566v2",
+      "entry_url": "http://arxiv.org/abs/2505.15566v2"
+    },
+    {
+      "arxiv_id": "2505.15912v2",
+      "base_id": "2505.15912",
+      "title": "BHaHAHA: A Fast, Robust Apparent Horizon Finder Library for Numerical Relativity",
+      "authors": [
+        "Zachariah B. Etienne",
+        "Thiago Assumpção",
+        "Leonardo Rosa Werneck",
+        "Samuel D. Tootle"
+      ],
+      "abstract": "Apparent horizon (AH) finders are essential for characterizing black holes and excising their interiors in numerical relativity (NR) simulations. However, open-source AH finders to date are tightly coupled to individual NR codes. We introduce BHaHAHA, the BlackHoles@Home Apparent Horizon Algorithm, the first open-source, infrastructure-agnostic library for AH finding in NR. BHaHAHA implements the first-ever hyperbolic flow-based approach, recasting the elliptic partial differential equation for a marginally outer trapped surface as a damped nonlinear wave equation. To enhance performance, BHaHAHA incorporates a multigrid-inspired refinement strategy, an over-relaxation technique, and OpenMP parallelization. When compared to a naïve hyperbolic relaxation implementation, these enhancements result in 64x speedups for difficult common-horizon finds on a single spacetime slice, enabling BHaHAHA to achieve runtimes within 10% of the widely used (single-core) AHFinderDirect and outperform it on multiple cores. For dynamic horizon tracking with typical core counts on a high-performance-computing cluster, BHaHAHA is approximately 2.1 times faster than AHFinderDirect at accuracies limited by interpolation of metric data from the host NR code. Implemented and tested in both the Einstein Toolkit and BlackHoles@Home, BHaHAHA demonstrates that hyperbolic relaxation can be a robust, versatile, and performant approach for AH finding.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.IM"
+      ],
+      "published": "2025-05-21T18:05:47+00:00",
+      "updated": "2026-04-14T15:37:49+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2505.15912v2",
+      "html_url": "https://arxiv.org/html/2505.15912v2",
+      "entry_url": "http://arxiv.org/abs/2505.15912v2"
+    },
+    {
+      "arxiv_id": "2505.16071v2",
+      "base_id": "2505.16071",
+      "title": "A Match Made in Heaven: Linking Observables in Inflationary Cosmology",
+      "authors": [
+        "David Stefanyszyn",
+        "Xi Tong",
+        "Yuhang Zhu"
+      ],
+      "abstract": "Cosmological correlation functions of inflaton and graviton perturbations are the fundamental observables of early universe cosmology and remain a primary target for observations. In this work, we ask the following question: are these observables independent of one another? We find that in the parity-odd sector of inflationary perturbation theory, the answer is a resounding no! In earlier work we derived a correlator-to-correlator factorisation formula which states that parity-odd correlators factorise into lower-point correlators under some mild assumptions on the underlying theory. In this work, we show that these assumptions are satisfied in dynamical Chern-Simons gravity where the action of minimal inflation is augmented by a coupling between the inflaton and the gravitational Chern-Simons term. Such a theory gives rise to a parity-odd trispectrum of curvature perturbations, and we show that such a trispectrum can be expressed solely in terms of the bispectrum that arises due to the minimal coupling between the inflaton and graviton, and the graviton power spectrum which receives a parity-odd correction in this theory. The trispectrum is quadratic in this mixed inflaton-graviton bispectrum and can therefore be interpreted as a ``double copy\". Our final expression for the parity-odd trispectrum is a relatively simple function of the external momenta that is rational and factorised.",
+      "categories": [
+        "hep-th",
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "published": "2025-05-21T23:07:18+00:00",
+      "updated": "2026-04-14T15:27:02+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2505.16071v2",
+      "html_url": "https://arxiv.org/html/2505.16071v2",
+      "entry_url": "http://arxiv.org/abs/2505.16071v2"
+    }
+  ],
+  "total": 3
+}

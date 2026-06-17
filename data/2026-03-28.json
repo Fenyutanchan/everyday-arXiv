@@ -1,0 +1,103 @@
+{
+  "date": "2026-03-28",
+  "papers": [
+    {
+      "arxiv_id": "2603.27353v2",
+      "base_id": "2603.27353",
+      "title": "Universality in Relativistic Spinning Particle Models",
+      "authors": [
+        "Joon-Hwi Kim",
+        "Sangmin Lee"
+      ],
+      "abstract": "We establish an equivalence between massive spinning particle models in four spacetime dimensions coupled to electromagnetism or gravity, within the spin-magnitude-preserving sector. Four representative models in the literature are shown to describe exactly the same physics in their free and interacting theories: vector oscillator, spinor oscillator, spherical top, and massive twistor. The Bargmann-Michel-Telegdi (BMT) and quadrupolar Mathisson-Papapetrou-Dixon (QMPD) equations are derived in a model-independent fashion. This universal framework allows for incorporating higher spin multipole interactions as well. We establish the rigorous construction of the interacting theory of the spherical top model with emphasis on spin gauge invariance. Applications to black hole physics, conserved charges, and post-Newtonian or post-Minkowskian frameworks are discussed.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2026-03-28T18:00:31+00:00",
+      "updated": "2026-04-26T00:06:17+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.27353v2",
+      "html_url": "https://arxiv.org/html/2603.27353v2",
+      "entry_url": "http://arxiv.org/abs/2603.27353v2"
+    },
+    {
+      "arxiv_id": "2603.27174v2",
+      "base_id": "2603.27174",
+      "title": "5D black holes and mirror (topological) stars from nonlinear electrodynamics: Existence and stability",
+      "authors": [
+        "Kirill A. Bronnikov",
+        "Sergei V. Bolokhov",
+        "Milena V. Skvortsova"
+      ],
+      "abstract": "We consider static, spherically symmetric solutions of 5D general relativity with magnetic fields governed by nonlinear electrodynamics (NED) with the Lagrangian $L(\\cal F)$, ${\\cal F} = F_{AB} F^{AB}$, and show that generic solutions describe either 5D black holes (also called black strings due to a circular extra dimension) or so-called mirror stars with perfectly reflecting boundary surfaces (also called topological stars), not to be confused with 4D configurations of mirror matter considered in particle physics. Two particular examples of such solutions have been obtained, admitting analytic expressions for the metric coefficients and $L(\\cal F)$, and their stability under radial (monopole) perturbations is studied. While the whole obtained family of black hole solutions turns out to be stable, mirror star solutions prove to be stable only in a certain range in the parameter space. We thus extend to the Einstein-NED system the results previously obtained for Einstein-Maxwell fields.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2026-03-28T07:21:47+00:00",
+      "updated": "2026-05-29T13:23:13+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.27174v2",
+      "html_url": "https://arxiv.org/html/2603.27174v2",
+      "entry_url": "http://arxiv.org/abs/2603.27174v2"
+    },
+    {
+      "arxiv_id": "2603.27267v2",
+      "base_id": "2603.27267",
+      "title": "Vorticity-induced modifications of chemical freeze-out in heavy-ion collisions",
+      "authors": [
+        "Nandita Padhan",
+        "Kshitish Kumar Pradhan",
+        "Arghya Chatterjee",
+        "Raghunath Sahoo"
+      ],
+      "abstract": "We investigate the influence of global rotation on the chemical freeze-out parameters in ultra-relativistic heavy-ion collisions. Within the framework of the hadron resonance gas (HRG) model, the freeze-out parameters are determined using commonly employed freeze-out criteria, namely the fixed energy per particle and the scaled entropy density, extended here to include rotational effects. We find that the presence of rotation leads to a systematic shift of the chemical freeze-out curve toward lower temperatures in the $T\\text{--}μ_B$ phase diagram. The behavior of the electric charge and strangeness chemical potentials in the presence of rotation is also analyzed, providing the first systematic study of their rotational dependence within the HRG framework. Furthermore, we examine the impact of rotation on experimentally relevant observables, including hadron yield ratios and susceptibility ratios of conserved charges. Our results show that while particle yield ratios exhibit noticeable sensitivity to rotation, the conventional cumulant ratios remain comparatively less affected. This indicates that hadronic yield ratios may provide a more suitable observable for estimating the magnitude of rotational effects generated in heavy-ion collisions.",
+      "categories": [
+        "hep-ph",
+        "hep-ex",
+        "hep-th",
+        "nucl-ex",
+        "nucl-th"
+      ],
+      "published": "2026-03-28T13:32:20+00:00",
+      "updated": "2026-06-06T03:12:31+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.27267v2",
+      "html_url": "https://arxiv.org/html/2603.27267v2",
+      "entry_url": "http://arxiv.org/abs/2603.27267v2"
+    },
+    {
+      "arxiv_id": "2603.27366v2",
+      "base_id": "2603.27366",
+      "title": "Continuous Sensitivity Analysis for $δN$ Formalism",
+      "authors": [
+        "S. Mohammad Ahmadi"
+      ],
+      "abstract": "The $δN$ formalism provides a powerful non-perturbative framework for following the evolution of primordial curvature perturbations on super-horizon scales. However, its standard implementation relies on the separate universe assumption, which neglects significant spatial gradient interactions. Recent work has addressed this limitation by incorporating gradient interactions directly into the background dynamics through an effective source term in the Klein--Gordon equation, thereby extending the applicability of the $δN$ framework beyond the separate universe approximation. Despite this conceptual progress, practical calculations within the $δN$ formalism remain technically challenging, as cosmological observables require evaluating the sensitivity of the total number of $e$-folds to initial conditions, a task that becomes even more involved once gradient contributions are included. In this work, we develop a systematic method to simplify these calculations by applying Continuous Sensitivity Analysis to the gradient-corrected $δN$ framework. In this approach, the required phase-space derivatives are obtained by solving a set of coupled first-order differential equations for the field Jacobian and Hessian, which significantly streamlines both analytical and numerical evaluations of the $δN$ formalism. As an explicit demonstration, we apply the method to the Starobinsky model, which features a sharp transition into an ultra-slow-roll phase. Within this setup, we derive analytical expressions for the $k$-dependent power spectrum including full gradient corrections, and obtain an analytical estimate of the equilateral non-Gaussianity parameter $f_{\\rm NL}^{\\rm eq}$ that accurately captures the main non-Gaussian features.",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2026-03-28T18:23:31+00:00",
+      "updated": "2026-06-13T20:58:00+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.27366v2",
+      "html_url": "https://arxiv.org/html/2603.27366v2",
+      "entry_url": "http://arxiv.org/abs/2603.27366v2"
+    },
+    {
+      "arxiv_id": "2603.28810v3",
+      "base_id": "2603.28810",
+      "title": "Gauge couplings of the Standard Model in the octonionic framework: a broken-phase mechanism for $α_s/α_{\\mathrm{em}}=16$",
+      "authors": [
+        "Tejinder P. Singh"
+      ],
+      "abstract": "We present a consolidated gauge-sector account of the octonionic programme, starting from the trace-dynamics Lagrangian and ending with closed-form expressions for the strong and electromagnetic couplings, together with a brief review of the weak mixing angle. The main new step is a broken-phase support mechanism on the real octonionic ladder space $H_6$ which, under a specific support hypothesis, gives \\begin{equation} \\frac{α_s}{α_{\\mathrm{em}}}=16 \\end{equation} from a common visible Yang--Mills coupling. We then combine this relation with the 2022 Eur. Phys. J. Plus seed [1] \\begin{equation} A:=\\exp\\!\\left[q_0\\!\\left(q_0-\\sqrt{\\frac38}\\right)\\right],\\qquad q_0=\\frac13, \\end{equation} to obtain \\begin{equation} α_s^{\\mathrm{th}}(M_Z)=\\frac{9}{64}\\exp\\!\\left[\\frac23\\!\\left(\\frac13-\\sqrt{\\frac38}\\right)\\right]=0.11675418, \\end{equation} \\begin{equation} α_{\\mathrm{em}}^{\\mathrm{th}}(0)=\\frac{9}{1024}\\exp\\!\\left[\\frac23\\!\\left(\\frac13-\\sqrt{\\frac38}\\right)\\right]=0.00729713629. \\end{equation} The electromagnetic formula is algebraically the same as in the earlier paper [1], but its factor $1/16$ is now attached to an explicit broken-phase gauge normalization rather than to a length-identification step. A key conceptual point is that the seed is tied to the minimal visible charge quantum $q_0=1/3$, not to a specific particle species: the electron, whose charge is $1=3q_0$, enters later through the electromagnetic charge trace $k_{\\mathrm{em}}=8/3$. We also review the earlier spinorial derivation of the weak mixing angle [2], which yields $\\sin^2θ_W^{\\mathrm{th}}=0.24969776$, and assess it separately. The strong and electromagnetic results are numerically close to experiment; the weak-angle comparison is substantially less successful.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-03-28T07:32:48+00:00",
+      "updated": "2026-06-16T16:33:17+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.28810v3",
+      "html_url": "https://arxiv.org/html/2603.28810v3",
+      "entry_url": "http://arxiv.org/abs/2603.28810v3"
+    }
+  ],
+  "total": 5
+}

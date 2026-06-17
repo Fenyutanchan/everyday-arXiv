@@ -1,0 +1,27 @@
+{
+  "date": "2022-09-12",
+  "papers": [
+    {
+      "arxiv_id": "2209.05289v3",
+      "base_id": "2209.05289",
+      "title": "Semileptonic weak Hamiltonian to $\\mathcal{O}(αα_s(μ_{\\mathrm{Lattice}}))$ in momentum-space subtraction schemes",
+      "authors": [
+        "M. Gorbahn",
+        "S. Jäger",
+        "F. Moretti",
+        "E. van der Merwe"
+      ],
+      "abstract": "The CKM unitarity precision test of the Standard Model requires a systematic treatment of electromagnetic and strong corrections for semi-leptonic decays. Electromagnetic corrections require the renormalization of a semileptonic four-fermion operator. In this work we calculate the $\\mathcal{O}(αα_s)$ perturbative scheme conversion between the $\\bar{\\rm MS}$ scheme and several momentum-space subtraction schemes, which can also be implemented on the lattice. We consider schemes defined by MOM and SMOM kinematics and emphasize the importance of the choice of projector for each scheme. The conventional projector, that has been used in the literature for MOM kinematics, generates QCD corrections to the conversion factor that do not vanish for $α=0$ and which generate an artificial dependence on the lattice matching scale that would only disappear after summing all orders of perturbation theory. This can be traced to the violation of a Ward identity that holds in tha $α=0$ limit. We show how to remedy this by judicious choices of projector, and prove that the Wilson coefficients in those schemes are free from pure QCD contributions. The resulting Wilson coefficients (and operator matrix elements) have greatly reduced scale dependence. Our choice of the $\\bar{\\rm MS}$ scheme over the traditional $W$-mass scheme is motivated by the fact that, besides being more tractable at higher orders, unlike the latter it allows for a transparent separation of scales. We exploit this to obtain renormalization-group-improved leading-log and next-to-leading-log strong corrections to the electromagnetic contributions and study the (QED-induced) dependence on the lattice matching scale.",
+      "categories": [
+        "hep-ph",
+        "hep-lat"
+      ],
+      "published": "2022-09-12T14:43:44+00:00",
+      "updated": "2026-04-29T09:18:38+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2209.05289v3",
+      "html_url": "https://arxiv.org/html/2209.05289v3",
+      "entry_url": "http://arxiv.org/abs/2209.05289v3"
+    }
+  ],
+  "total": 1
+}

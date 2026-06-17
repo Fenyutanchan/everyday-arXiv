@@ -1,0 +1,246 @@
+{
+  "date": "2026-01-08",
+  "papers": [
+    {
+      "arxiv_id": "2601.05145v2",
+      "base_id": "2601.05145",
+      "title": "How deep can a cosmic void be? Voids-informed theoretical bounds in Galileon gravity",
+      "authors": [
+        "Tommaso Moretti",
+        "Noemi Frusciante",
+        "Giovanni Verza",
+        "Francesco Pace"
+      ],
+      "abstract": "We establish a void-based consistency test for Galileon scalar-tensor theories. We show that the previously reported unphysical breakdown of the predicted Newtonian force in certain Galileon models is controlled by a single condition linking non-linear void dynamics to the cosmic expansion history. This connection yields a redshift-dependent upper bound on the allowed depth of voids and promotes this requirement to a new viability condition, complementary to standard stability criteria. As an example, we apply this void-based criterion to a linear parameterization in the scale factor constrained by theoretical and observational bounds; we find that $\\sim 60\\%$ of the parameter space is excluded, with most problematic models failing by $z\\lesssim 10$. These results position cosmic voids as sharp, complementary and theory-informed filters for viable modified gravity, enabling more informed priors and parameter-space choices in future cosmological inference.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "published": "2026-01-08T17:32:49+00:00",
+      "updated": "2026-04-17T03:28:58+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.05145v2",
+      "html_url": "https://arxiv.org/html/2601.05145v2",
+      "entry_url": "http://arxiv.org/abs/2601.05145v2"
+    },
+    {
+      "arxiv_id": "2601.04623v2",
+      "base_id": "2601.04623",
+      "title": "Non-supersymmetric F1-P black rings",
+      "authors": [
+        "Pavan Dharanipragada",
+        "Gurmeet Singh Punia",
+        "Amitabh Virmani"
+      ],
+      "abstract": "We construct singly and doubly spinning non-supersymmetric F1--P black ring solutions in five-dimensional supergravity. These black rings have regular horizons and non-zero temperature. The singly spinning configuration lies in the duality orbit of the black ring constructed by Elvang, Emparan, and Figueras, while the doubly spinning configuration is a charged extension of the black ring constructed by Chen, Hong, and Teo. We analyze the physical properties of these solutions and the various limits they admit. In particular, the doubly spinning solution admits an extremal limit in which the entropy satisfies the relation S= 2 πJ_φ, thereby linking it directly to the angular momentum on the S^2.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2026-01-08T05:52:30+00:00",
+      "updated": "2026-04-14T11:41:58+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.04623v2",
+      "html_url": "https://arxiv.org/html/2601.04623v2",
+      "entry_url": "http://arxiv.org/abs/2601.04623v2"
+    },
+    {
+      "arxiv_id": "2601.05229v2",
+      "base_id": "2601.05229",
+      "title": "Mitigating Simulator Dependence in AI Parameter Inference for the Epoch of Reionization: The Importance of Simulation Diversity",
+      "authors": [
+        "Jasper Solt",
+        "Jonathan C. Pober",
+        "Stephen H. Bach"
+      ],
+      "abstract": "The 21cm signal of neutral hydrogen contains a wealth of information about the poorly constrained era of cosmological history, the Epoch of Reionization (EoR). Recently, AI models trained on EoR simulations have gained significant attention as a powerful and flexible option for inferring parameters from 21cm observations. However, previous works show that AI models trained on data from one simulator fail to generalize to data from another, raising doubts about AI models' ability to accurately infer parameters from observation. We develop a new strategy for training AI models on cosmological simulations based on the principle that increasing the diversity of the training dataset improves model robustness by averaging out spurious and contradictory information. We train AI models on data from different combinations of four simulators, then compare the models' performance when predicting on data from held-out simulators acting as proxies for the real universe. We find that models trained on data from multiple simulators perform better on data from a held-out simulator than models trained on data from a single simulator, indicating that increasing the diversity of the training dataset improves a model's ability to generalize. This result suggests that future EoR parameter inference methods can mitigate simulator-specific bias by incorporating multiple simulation approaches into their analyses.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2026-01-08T18:55:01+00:00",
+      "updated": "2026-05-06T19:05:25+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.05229v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2601.05229v2"
+    },
+    {
+      "arxiv_id": "2601.05312v3",
+      "base_id": "2601.05312",
+      "title": "Energy-Energy Correlator from the AdS Virasoro-Shapiro Amplitude",
+      "authors": [
+        "Lecheng Ren",
+        "Bo Wang",
+        "Congkao Wen"
+      ],
+      "abstract": "We establish a precise formula relating the world-sheet integral of the AdS Virasoro-Shapiro amplitude to the energy-energy correlator (EEC) in $\\mathcal{N}=4$ super Yang-Mills theory at strong coupling. This mapping allows us to evaluate the coefficients of the AdS curvature expansion of the EEC in terms of the world-sheet integral over a unit disk. To illustrate this idea, we explicitly compute the flat-space contribution and the first curvature correction to the EEC. Our results provide a rigorous description of the stringy energy flow, demonstrating how world-sheet correlators imprint themselves on collider observables and offering a potential template for effective string descriptions of energy correlators in general gauge theories.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2026-01-08T19:00:01+00:00",
+      "updated": "2026-05-13T11:44:18+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.05312v3",
+      "html_url": "https://arxiv.org/html/2601.05312v3",
+      "entry_url": "http://arxiv.org/abs/2601.05312v3"
+    },
+    {
+      "arxiv_id": "2601.05351v2",
+      "base_id": "2601.05351",
+      "title": "Dipole Radiation and Kinetic Mixing from Dark Photon Solitons",
+      "authors": [
+        "Enrico D. Schiappacasse",
+        "Moira Venegas"
+      ],
+      "abstract": "Wave-like dark matter composed of spin-1 particles, known as dark photons, is theorized to form clumps called \"vector solitons\". These solitons are compact astrophysical objects that exhibit coherent oscillations and a high concentration relative to the local dark matter density. A significant portion of dark matter in galactic halos today may consist of these solitons. This study explores how photons can be produced from these vector solitons by the influence of external electromagnetic fields or charge densities, via a dimension-6 dark photon-photon coupling and a kinetic mixing, respectively. We further explore the astrophysical implications of these phenomena, highlighting a novel avenue for dark matter discovery that our research provides.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "astro-ph.HE"
+      ],
+      "published": "2026-01-08T20:05:49+00:00",
+      "updated": "2026-05-15T12:47:16+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.05351v2",
+      "html_url": "https://arxiv.org/html/2601.05351v2",
+      "entry_url": "http://arxiv.org/abs/2601.05351v2"
+    },
+    {
+      "arxiv_id": "2601.05141v2",
+      "base_id": "2601.05141",
+      "title": "Superluminal modes in a quantum field simulator for cosmology from analog trans-Planckian physics",
+      "authors": [
+        "Christian F. Schmidt",
+        "Stefan Floerchinger"
+      ],
+      "abstract": "The quantum-field-theoretic description for the U(1)-Goldstone boson of a scalar Bose-Einstein condensate with time-dependent contact interactions is developed beyond the acoustic approximation in accordance with Bogoliubov theory. The resulting effective action is mapped to a relativistic quantum field theory on a dispersive (or rainbow) cosmological spacetime which has a superluminal Corley-Jacobson dispersion relation. Time-dependent changes of the s-wave scattering length to quantum-simulate cosmological particle production are accompanied by a time-dependent healing length that can be interpreted as an analog Planck length in the comoving frame. Non-adiabatic transitions acquire a dispersive character, which is thoroughly discussed. The framework is applied to exponentially expanding or power-law contracting $(2+1)$-dimensional spacetimes which are known to produce scale-invariant cosmological power spectra. The sensitivity of these scenarios to the time-dependence of the Bogoliubov dispersion is investigated: We find a violation of scale-invariance via analytically trackable Transplanckian damping effects if the cut-off scale is not well separated from the horizon-crossing scale. In case of the exponential expansion, these damping effects remarkably settle and converge to another scale-invariant plateau in the far ultraviolet regime where non-adiabatic transitions are suppressed by the high dispersion. The developed framework enables quantitative access to more drastic analog cosmological scenarios with improved predictability in the ultraviolet regime that ultimately may lead to the observation of a scale-invariant cosmological power spectrum in the laboratory.",
+      "categories": [
+        "gr-qc",
+        "cond-mat.quant-gas"
+      ],
+      "published": "2026-01-08T17:30:19+00:00",
+      "updated": "2026-05-20T08:24:03+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.05141v2",
+      "html_url": "https://arxiv.org/html/2601.05141v2",
+      "entry_url": "http://arxiv.org/abs/2601.05141v2"
+    },
+    {
+      "arxiv_id": "2601.05156v5",
+      "base_id": "2601.05156",
+      "title": "Generalized Thermodynamics of Solitonic Event Horizons in Dispersive Field Theories",
+      "authors": [
+        "Hasan Oguz"
+      ],
+      "abstract": "The realization of Hawking radiation in optical analogs has historically focused on kinematic observables, such as the effective temperature determined by the horizon's surface gravity. A complete thermodynamic description, however, necessitates a rigorous definition of entropy and irreversibility, which has remained elusive in Hamiltonian optical systems. In this work, we bridge this gap by introducing an operational entropy for solitonic event horizons, derived from the spectral partitioning of the optical field into coherent solitonic and incoherent radiative subsystems. The emission of resonant radiation, driven by the breaking of soliton integrability under higher-order dispersion, is the fundamental mechanism for entropy production. Numerical simulations of the generalized nonlinear Schrödinger equation (GNLSE) demonstrate that, in a coarse-grained sense, this process obeys a generalized second law (GSL), $ΔS_{\\mathrm{tot}} \\ge 0$, robustly across a wide range of soliton orders and dispersion strengths. These results show that event horizons in dispersive field theories behave as consistent nonequilibrium thermodynamic systems, and that the relevant entropy is accessible from laboratory spectral measurements.",
+      "categories": [
+        "physics.optics",
+        "gr-qc",
+        "nlin.PS"
+      ],
+      "published": "2026-01-08T17:47:30+00:00",
+      "updated": "2026-05-25T00:54:49+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.05156v5",
+      "html_url": "https://arxiv.org/html/2601.05156v5",
+      "entry_url": "http://arxiv.org/abs/2601.05156v5"
+    },
+    {
+      "arxiv_id": "2601.04962v2",
+      "base_id": "2601.04962",
+      "title": "ALP and $Z^\\prime$ boson at the Electron-Ion collider",
+      "authors": [
+        "Amit Adhikary",
+        "Dilip Kumar Ghosh",
+        "Sk Jeesun",
+        "Sourov Roy"
+      ],
+      "abstract": "We study the sensitivity of the upcoming electron-ion (EIC) collider to purely electrophilic new physics in the GeV mass range. Within an effective field theory framework, we consider two different scenarios: an axion-like particle (ALP) and a new heavy neutral vector gauge boson $Z^\\prime $, each couples to electrons only. We analyze electron-proton collisions at $\\sqrt{s}= 141$ GeV with an integrated luminosity of $100~{\\rm fb}^{-1}$, focusing primarily on the tri-electron final state. Additionally, loop-induced ALP-photon couplings driven photon final states are also explored. Incorporating realistic detector effects and systematic uncertainties, we obtain projected exclusion limits on the relevant cross-sections and couplings. We find that the results from EIC can significantly extend the sensitivity to electrophilic axion-like particles and $Z^\\prime $ bosons in regions of parameter space that remain weakly constrained by existing experiments.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2026-01-08T14:07:48+00:00",
+      "updated": "2026-06-10T06:01:14+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.04962v2",
+      "html_url": "https://arxiv.org/html/2601.04962v2",
+      "entry_url": "http://arxiv.org/abs/2601.04962v2"
+    },
+    {
+      "arxiv_id": "2601.04647v3",
+      "base_id": "2601.04647",
+      "title": "Probing Black Hole Thermal Effects in the Dual CFT via Wave Packets",
+      "authors": [
+        "Norihiro Tanahashi",
+        "Seiji Terashima",
+        "Shiki Yoshikawa"
+      ],
+      "abstract": "We investigate how the gravitational effects of a black hole manifest themselves as thermal behavior in the dual finite-temperature conformal field theory (CFT). In the holographic framework of AdS/CFT, we analyze a wave packet propagating into a black hole geometry in the bulk by computing three-point functions of a scalar primary operator in the boundary CFT. Our setup captures thermal signatures such as exponential damping of the expectation value, which are absent at zero-temperature. This provides a concrete and analytically tractable example of how black hole physics can be probed from the CFT side.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2026-01-08T06:44:43+00:00",
+      "updated": "2026-06-10T03:08:52+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.04647v3",
+      "html_url": "https://arxiv.org/html/2601.04647v3",
+      "entry_url": "http://arxiv.org/abs/2601.04647v3"
+    },
+    {
+      "arxiv_id": "2601.04989v2",
+      "base_id": "2601.04989",
+      "title": "Effective Range Expansion with the Left-Hand Cut: Higher Order Improvements",
+      "authors": [
+        "Wen-Jia Wang",
+        "Bing Wu",
+        "Meng-Lin Du",
+        "Feng-Kun Guo"
+      ],
+      "abstract": "A model-independent parameterization of the low-energy scattering amplitude that incorporates the left-hand cut from one-particle exchange, an extension of the conventional effective-range expansion (ERE), was recently proposed and successfully applied to the low-energy $DD^*$ system [Phys. Rev. Lett. 135, 011903 (2025)]. While the original formulation is based on a nonrelativistic approximation and is thus limited to a [1,1] approximant for self-consistency, we extend the framework by explicitly including the higher-order terms up to $\\mathcal{O}(k^6)$. We systematically investigate the reliability and robustness of the generalized ERE by incorporating relativistic kinematic effects. In addition, we develop a relativistic version of the ERE that accounts for lhc contributions. These results affirm the generalized ERE as a robust and systematically improvable framework for near-threshold scattering processes, providing both analytical and numerical reliability for applications in two-body scattering problems with a particle exchange.",
+      "categories": [
+        "hep-ph",
+        "nucl-th"
+      ],
+      "published": "2026-01-08T14:46:27+00:00",
+      "updated": "2026-06-11T02:54:26+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.04989v2",
+      "html_url": "https://arxiv.org/html/2601.04989v2",
+      "entry_url": "http://arxiv.org/abs/2601.04989v2"
+    },
+    {
+      "arxiv_id": "2601.05223v3",
+      "base_id": "2601.05223",
+      "title": "Constants of motion in gravitational self-force theory",
+      "authors": [
+        "David Trestini",
+        "Zachary Nasipak",
+        "Adam Pound"
+      ],
+      "abstract": "Synergies between self-force theory and other approaches to the gravitational two-body problem have traditionally relied on calculations of gauge-invariant observables as functions of orbital frequencies. However, in self-force theory, one can also define a complete set of constants of motion: energy, azimuthal angular momentum, and radial and polar actions. Here, we outline how directly utilizing these constants allows for more straightforward comparisons and hybridizations across the parameter space, as well as more streamlined waveform generation through flux-balance laws. Restricting to the case of nonspinning binaries and first order in self-force, we compute the constants of motion and the corrections to fundamental frequencies numerically as well as analytically (to 9PN in a post-Newtonian expansion), establishing consistency with the highest-order (4PN) results available from post-Newtonian theory. We also apply the results to identify the perturbed locations of special curves in the parameter space: circular orbits and the separatrix between bound and plunging orbits.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2026-01-08T18:52:09+00:00",
+      "updated": "2026-06-15T17:58:58+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.05223v3",
+      "html_url": "https://arxiv.org/html/2601.05223v3",
+      "entry_url": "http://arxiv.org/abs/2601.05223v3"
+    },
+    {
+      "arxiv_id": "2601.05218v3",
+      "base_id": "2601.05218",
+      "title": "Towards a unified quantum field theory of dark energy and inflation: unstable de Sitter vacuum and running vacuum",
+      "authors": [
+        "Joan Solà Peracaula",
+        "Àlex González-Fuentes",
+        "Cristian Moreno-Pulido"
+      ],
+      "abstract": "Inflation is a necessary cosmic mechanism to cure basic inconsistencies of the standard model of cosmology. These problems are usually `fixed' by postulating the existence of a scalar field (called the ``inflaton''). However, other less ad hoc options are possible. In the running vacuum model (RVM) framework, the vacuum energy density (VED) $ρ_{\\rm vac}$ is a function of the Hubble rate $H$ and its time derivatives. In this context, the VED is dynamical (there is no rigid cosmological constant $Λ$). In the FLRW epoch, $ρ_{\\rm vac}$ evolves very slowly with expansion. In contrast, in the very early universe the vacuum fluctuations induce higher powers $H^N$ capable of unleashing fast inflation in a short period in which $H\\simeq$ const. We call this mechanism `RVM-inflation'. It does not require an inflaton field since inflation is brought about by pure quantum field theory (QFT) effects on the dynamical background. It is different from Starobinsky's inflation, in which $H$ is never constant. In this work, we study a closely related scenario: the decay of the exact de Sitter vacuum into FLRW spacetime in its radiation epoch and the subsequent impact on the current universe, and compare with the RVM. We find that in both cases inflation is driven by $H^4$ powers together with subleading contributions of order $H^2$ that ease a graceful-exit transition into the radiation-dominated epoch, where the FLRW regime starts and ultimately develops a mildly evolving VED in the late universe: $δρ_{\\rm vac}\\sim {\\cal O}(m_{\\rm Pl} ^2 H^2)$. The proposal presented here aims at a unified QFT approach to inflation and dark energy (conceived as dynamical vacuum energy) with potentially measurable phenomenological consequences in the present universe, and constitutes a first step toward establishing its full theoretical and phenomenological consistency.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2026-01-08T18:43:36+00:00",
+      "updated": "2026-06-14T12:30:47+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.05218v3",
+      "html_url": "https://arxiv.org/html/2601.05218v3",
+      "entry_url": "http://arxiv.org/abs/2601.05218v3"
+    }
+  ],
+  "total": 12
+}

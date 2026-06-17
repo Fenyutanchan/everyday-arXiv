@@ -1,0 +1,67 @@
+{
+  "date": "2025-08-24",
+  "papers": [
+    {
+      "arxiv_id": "2508.17543v3",
+      "base_id": "2508.17543",
+      "title": "Validity of relativistic hydrodynamics beyond local equilibrium",
+      "authors": [
+        "Reghukrishnan Gangadharan"
+      ],
+      "abstract": "We examine the applicability of relativistic hydrodynamics far from equilibrium by constructing formal solutions of the Boltzmann moment equations in the relaxation time approximation. These solutions naturally decompose into a divergent gradient series and exponentially decaying non-perturbative modes that encode initial conditions. The non-perturbative contributions are essential for understanding causality, the divergence of the gradient series, and the unexpected effectiveness of relativistic hydrodynamics far from equilibrium.   In the 0+1D Bjorken scenario, we demonstrate that the exact evolution of non-equilibrium terms shares the same structural form as the gradient expansion, differing only through modified transport coefficients that reflect both initial data and free-streaming dynamics. Extending to 3+1D, we find that hydrodynamics remains effective not because the system is close to equilibrium, but because it interpolates smoothly between free streaming and collective behavior. This perspective offers a natural explanation for the remarkable success of hydrodynamics in modeling quark-gluon plasma evolution.",
+      "categories": [
+        "nucl-th",
+        "hep-th"
+      ],
+      "published": "2025-08-24T22:32:16+00:00",
+      "updated": "2026-04-28T06:39:40+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.17543v3",
+      "html_url": "https://arxiv.org/html/2508.17543v3",
+      "entry_url": "http://arxiv.org/abs/2508.17543v3"
+    },
+    {
+      "arxiv_id": "2508.17227v2",
+      "base_id": "2508.17227",
+      "title": "Effects of Geometric configuration in relativistic isobaric collisions at $\\sqrt{s_{NN}}=200$ GeV",
+      "authors": [
+        "Akash Das",
+        "Satya Ranjan Nayak",
+        "B. K. Singh"
+      ],
+      "abstract": "In this work, we present a study on the effects of nuclear deformation ($β_2$,$β_3$) and surface diffuseness ($a$) on the charged hadron multiplicity ($N_{\\mathrm{ch}}$) and elliptic flow ($v_2$), obtained in symmetric isobaric collisions of ${}^{96}_{44}\\mathrm{Ru} + {}^{96}_{44}\\mathrm{Ru}$ and ${}^{96}_{40}\\mathrm{Zr} + {}^{96}_{40}\\mathrm{Zr}$. The two extreme configurations (tip-tip and body-body) were used to determine the correlation between the final state observables and initial geometry using the HYDJET++ model. The octupole deformation parameter ($β_3$) enhances $N_{\\mathrm{ch}}$ in central tip-tip Zr+Zr collisions and suppresses it in peripheral ones. In mid-central to peripheral body-body Zr+Zr collisions, $β_3$ leads to a reduction in charged hadron production. Surface-diffuseness ($a$), along with quadrapole deformation ($β_2$), also shows a significant impact on multiplicity and elliptic flow. The octupole deformation enhances elliptic flow in Zr's body-body collisions. Results are compared with the STAR blind-analysis data where available.",
+      "categories": [
+        "nucl-th",
+        "hep-ph"
+      ],
+      "published": "2025-08-24T07:01:47+00:00",
+      "updated": "2026-05-28T06:16:00+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.17227v2",
+      "html_url": "https://arxiv.org/html/2508.17227v2",
+      "entry_url": "http://arxiv.org/abs/2508.17227v2"
+    },
+    {
+      "arxiv_id": "2508.17413v3",
+      "base_id": "2508.17413",
+      "title": "Sensitivity of neutrinoless double beta decays from a combined analysis of ground and excited states",
+      "authors": [
+        "C. R. Ding",
+        "K. Han",
+        "S. B. Wang",
+        "J. M. Yao"
+      ],
+      "abstract": "Next-generation neutrinoless double-beta ($0νββ$) decay experiments, with projected half-life sensitivities approaching $10^{28}$ years, aim to probe the entire parameter space of the inverted neutrino mass ordering in the light-neutrino-exchange scenario. However, this reach remains uncertain by the substantial model dependence of the nuclear matrix elements (NMEs). In this work, we propose a strategy based on a combined analysis of $0νββ$ decays to both the ground state and the first excited $0^+$ state of the daughter nucleus. We show that such a multi-channel approach can significantly enhance experimental sensitivity, depending on the underlying NME predictions. This method is particularly well-suited for large liquid xenon detectors, such as the proposed PandaX-xT and XLZD experiments, which can efficiently identify transitions of $^{136}$Xe to excited states. Our results highlight the importance of exploiting multiple decay channels in future $0νββ$ searches to maximize their discovery potential.",
+      "categories": [
+        "hep-ph",
+        "hep-ex",
+        "nucl-ex",
+        "nucl-th"
+      ],
+      "published": "2025-08-24T15:36:05+00:00",
+      "updated": "2026-06-01T02:39:33+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.17413v3",
+      "html_url": "https://arxiv.org/html/2508.17413v3",
+      "entry_url": "http://arxiv.org/abs/2508.17413v3"
+    }
+  ],
+  "total": 3
+}

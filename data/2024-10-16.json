@@ -1,0 +1,25 @@
+{
+  "date": "2024-10-16",
+  "papers": [
+    {
+      "arxiv_id": "2410.13071v3",
+      "base_id": "2410.13071",
+      "title": "Particle Acceleration Time due to Turbulent-Induced Magnetic Reconnection",
+      "authors": [
+        "Elisabete M. de Gouveia Dal Pino",
+        "Tania E. Medina-Torrejon"
+      ],
+      "abstract": "We numerically investigate a crucial parameter for understanding particle acceleration theory via turbulence-induced magnetic reconnection: the particle acceleration time. We examine particles accelerated either during the jet's dynamic evolution or in a post-processing, nearly stationary regime. We derive the particle acceleration time and compare it with theoretical predictions for both the Fermi and drift regimes identified in the simulations. In the Fermi regime, the acceleration time is expected to be independent of the particles' energy, for constant reconnection velocity, as energy increases exponentially with time. Conversely, we expect the reconnection acceleration time to depend on the current sheet's thickness and the reconnection velocity, a dependence recently revisited by xu and lazarian 2023. They identified three conditions for \\(t_{acc}\\). We tested these relations using statistical distributions of the current sheets' thickness and reconnection velocities in the turbulent jet over time. The resulting average value of \\(t_{acc}\\) was found to be nearly constant with particle energy. We compared this acceleration time with the average acceleration time derived directly from 50,000 particles accelerated in situ in the same relativistic jet. When considering a longer time interval for particle acceleration in a nearly stationary snapshot of the turbulent jet, we find that the acceleration time during the Fermi regime remains nearly independent of particle energy and aligns with the acceleration time theoretical relations up to the threshold energy, attained when the particles Larmor radius becomes as large as the thickness of the largest current sheets. Beyond this threshold, the acceleration regime shifts to the slower drift regime, showing strong energy dependence, as predicted. The results also indicate a clear dominance of the Fermi regime of acceleration.",
+      "categories": [
+        "astro-ph.HE",
+        "hep-ph"
+      ],
+      "published": "2024-10-16T21:59:33+00:00",
+      "updated": "2026-05-19T03:38:04+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2410.13071v3",
+      "html_url": "https://arxiv.org/html/2410.13071v3",
+      "entry_url": "http://arxiv.org/abs/2410.13071v3"
+    }
+  ],
+  "total": 1
+}

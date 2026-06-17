@@ -1,0 +1,106 @@
+{
+  "date": "2026-03-08",
+  "papers": [
+    {
+      "arxiv_id": "2603.07662v2",
+      "base_id": "2603.07662",
+      "title": "Gravitational waves from warm inflation in the weak dissipative regime",
+      "authors": [
+        "Orlando Luongo",
+        "Tommaso Mengoni",
+        "Paulo M. Sá"
+      ],
+      "abstract": "Previous work on the gravitational-wave background generated in a two-scalar-field cosmological model, in which warm inflation and the dark sector are unified within a single framework, has shown that the resulting spectrum could be potentially detectable by planned next-generation gravitational-wave observatories. In this work, we extend this analysis to the weak dissipation regime of warm inflation, highlighting how the features of the inflationary scenario play a crucial role in the production of gravitational waves. The full gravitational-wave energy spectrum is calculated using the formalism of continuous Bogoliubov coefficients. By comparing our results with those obtained in the strong dissipation regime and with the sensitivity curves of future detectors, we find that the weak dissipation regime improves the prospects for observational detection.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO"
+      ],
+      "published": "2026-03-08T14:51:35+00:00",
+      "updated": "2026-04-22T07:58:44+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.07662v2",
+      "html_url": "https://arxiv.org/html/2603.07662v2",
+      "entry_url": "http://arxiv.org/abs/2603.07662v2"
+    },
+    {
+      "arxiv_id": "2603.07781v2",
+      "base_id": "2603.07781",
+      "title": "Evolution of density perturbations in fractional cosmology",
+      "authors": [
+        "S. M. M. Rasouli"
+      ],
+      "abstract": "We investigate the evolution of matter density perturbations within a fractional cosmological framework inspired by fractal space-time constructions in field theory, where a deformation of the integration measure induces non-locality and memory effects in the dynamics. Working in the matter-dominated era and adopting a covariant fluid-flow approach, we derive the modified growth equation for the density contrast and obtain exact analytical solutions. The resulting dynamics depends explicitly on the fractional parameter $α$ and smoothly reduces to the corresponding standard case in the limit $α=1$. We show that the model admits both growing and decaying modes, and we identify the parameter range in which structure formation is physically viable. Focusing on the growing mode, we compute the evolution of density fluctuations from recombination to the present epoch. By confronting theoretical predictions with observational constraints from large-scale structure, in particular the $σ_8$ normalization and the Sachs-Wolfe effect, we derive a stringent upper bound on the fractional parameter, $α\\lesssim1.07$, which significantly improves upon previous constraints obtained at the background level. Our results show that the growth of density perturbations exhibits distinct fractional signatures, providing a sensitive observational probe of the underlying framework.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2026-03-08T19:48:45+00:00",
+      "updated": "2026-04-22T23:58:06+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.07781v2",
+      "html_url": "https://arxiv.org/html/2603.07781v2",
+      "entry_url": "http://arxiv.org/abs/2603.07781v2"
+    },
+    {
+      "arxiv_id": "2603.07714v2",
+      "base_id": "2603.07714",
+      "title": "Scattering from compact objects: Debye series and Regge-Debye poles",
+      "authors": [
+        "Mohamed Ould El Hadj"
+      ],
+      "abstract": "We investigate elastic scattering by a compact, horizonless body in curved spacetime, considering a massless scalar wave incident on a static, spherically symmetric, uniform-density star of radius $R$ and mass $M$ with a Schwarzschild exterior. We introduce an exact Debye-series decomposition of the scattering matrix, in the spirit of Debye expansions in Mie scattering. This decomposition separates direct surface reflection from contributions involving transmission into the interior and subsequent propagation, and admits a natural trajectory interpretation. We then determine the associated Regge-Debye pole spectrum in the complex angular-momentum plane. For neutron-star-like tenuities ($R>3M$), the spectrum exhibits two pole families: a surface-wave branch associated with the surface matching condition and a broad-resonance branch associated with the interior regularity condition. For ultracompact objects ($R<3M$), the surface-wave branch persists, while the interior-resonance sector splits into broad- and narrow-resonance branches.   We next reconstruct the scattering amplitude from the Debye partial-wave contributions and find excellent agreement with direct partial-wave calculations. Finally, we develop complex angular-momentum representations order by order in the Debye series, making explicit how the pole families and non-pole sectors contribute to each Debye term. In the neutron-star-like regime, we find a genuine competition between Regge-Debye pole sums and branch-cut contributions, and show that, at high frequency, the rainbow-like enhancement already arises from the first interior-transmission contribution and is dominated by the interior-resonance Regge-Debye poles. By contrast, in the ultracompact regime, the Debye amplitudes are overwhelmingly pole dominated.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE",
+        "hep-th"
+      ],
+      "published": "2026-03-08T16:33:39+00:00",
+      "updated": "2026-05-08T16:53:27+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.07714v2",
+      "html_url": "https://arxiv.org/html/2603.07714v2",
+      "entry_url": "http://arxiv.org/abs/2603.07714v2"
+    },
+    {
+      "arxiv_id": "2603.07661v2",
+      "base_id": "2603.07661",
+      "title": "Emergent fracton strings from covariant bi-form gauge field theory",
+      "authors": [
+        "Erica Bertolini",
+        "Hyungrok Kim",
+        "Giandomenico Palumbo"
+      ],
+      "abstract": "We present a covariant field-theoretical framework for a rank-4 tensor gauge field theory describing fractonic string-like objects. We show that the most general quadratic, parity-preserving action naturally leads to a Maxwell-like sector, with tensorial analogues of electric and magnetic fields, Maxwell-like equations, a conserved energy-momentum tensor, and a Lorentz-like force. Remarkably, the theory gives rise to fracton-like string excitations purely from symmetry principles: constraints on the motion of these extended objects appear as Gauss-like laws, without being imposed by hand. One of these laws is new and corresponds to a generalised dipole conservation for closed strings, restricting their mobility and defining a novel class of fractonic string-like excitations. Finally, we uncover a connection to linearised area-metric gravity: in a suitable limit, the theory reduces to known covariant fracton models with rank-2 gauge fields, highlighting a deep link between fractonic matter and gravity-like structures. This provides a unified perspective on higher-rank gauge fields, extended excitations, and emergent gravitational features.",
+      "categories": [
+        "hep-th",
+        "cond-mat.mes-hall",
+        "gr-qc"
+      ],
+      "published": "2026-03-08T14:50:21+00:00",
+      "updated": "2026-05-20T08:08:09+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.07661v2",
+      "html_url": "https://arxiv.org/html/2603.07661v2",
+      "entry_url": "http://arxiv.org/abs/2603.07661v2"
+    },
+    {
+      "arxiv_id": "2603.07469v3",
+      "base_id": "2603.07469",
+      "title": "Can Oscillatory and Persistent Nonlinearities Be Bridged in Black Hole Ringdown?",
+      "authors": [
+        "Jun-Xi Shi",
+        "Zhen-Tao He",
+        "Jiageng Jiao",
+        "Jing-Qi Lai",
+        "Caiying Shao",
+        "Yu Tian",
+        "Hongbao Zhang"
+      ],
+      "abstract": "Quadratic quasinormal modes (QQNMs) and Christodoulou memory effect are key nonlinear phenomena in gravitational wave physics. QQNMs characterize the near zone nonlinear response of a perturbed black hole, whereas the memory effect is a nonlinear remnant imprinted at null infinity by outgoing radiation. This naturally raises the question of whether and in what sense the two can be bridged. We show that they are related through bridge coefficients which depend primarily on remnant black hole parameters during ringdown. Future space-based gravitational wave detectors can probe this relation. These results provide a new avenue for testing gravity and a fresh perspective on the nonlinear regime of general relativity.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2026-03-08T05:11:47+00:00",
+      "updated": "2026-05-20T02:28:24+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.07469v3",
+      "html_url": "https://arxiv.org/html/2603.07469v3",
+      "entry_url": "http://arxiv.org/abs/2603.07469v3"
+    }
+  ],
+  "total": 5
+}

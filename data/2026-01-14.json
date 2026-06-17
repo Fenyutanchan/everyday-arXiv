@@ -1,0 +1,223 @@
+{
+  "date": "2026-01-14",
+  "papers": [
+    {
+      "arxiv_id": "2601.09707v2",
+      "base_id": "2601.09707",
+      "title": "Precision asymptotics of string amplitudes",
+      "authors": [
+        "Marco Maria Baccianti",
+        "Lorenz Eberhardt",
+        "Sebastian Mizera"
+      ],
+      "abstract": "Recent work revealed a tension between the Gross-Mende analysis of the high-energy fixed-angle behavior of string amplitudes and the explicit numerical data. Motivated by this puzzle, we revisit the problem of classifying saddle-point geometries for the one-loop amplitude. We find an infinite family of complex saddles that dominate the high-energy regime. Using general constraints and matching to numerical data, we formulate a bootstrap problem that determines their multiplicities. This procedure yields a precise asymptotic expansion of the one-loop amplitude at high energies. The resulting oscillatory contributions lead to a much richer high-energy behavior than that predicted by the original Gross-Mende analysis.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2026-01-14T18:59:59+00:00",
+      "updated": "2026-04-28T17:13:20+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.09707v2",
+      "html_url": "https://arxiv.org/html/2601.09707v2",
+      "entry_url": "http://arxiv.org/abs/2601.09707v2"
+    },
+    {
+      "arxiv_id": "2601.09801v2",
+      "base_id": "2601.09801",
+      "title": "Probing the Chaos to Integrability Transition in Double-Scaled SYK",
+      "authors": [
+        "Sergio E. Aguilar-Gutierrez",
+        "Rathindra Nath Das",
+        "Johanna Erdmenger",
+        "Zhuo-Yu Xian"
+      ],
+      "abstract": "We investigate how a thermodynamical first-order phase transition affects the dynamical chaotic behaviour of a given model. To this effect, we analyze the model of Berkooz, Brukner, Jia and Mamroud that interpolates between the double-scaled SYK model and an integrable chord Hamiltonian. This model exhibits a first-order transition, characterized by a kink in the free energy, between the chaotic and quasi-integrable phases, with the branch of subdominant saddles interpolating between them. We characterize the dynamical behavior across the phase diagram using the chord number, Krylov complexity, and operator size. The chord number, which is proportional to the Krylov state complexity in the classical limit, exhibits a discontinuous transition from linear to quadratic growth at the transition point. Similarly, the Krylov operator complexity and the operator size, as scrambling diagnostics, exhibit discontinuous transitions from exponential to quadratic growth. We also discuss a possible holographic interpretation of the model.",
+      "categories": [
+        "hep-th",
+        "cond-mat.str-el",
+        "nlin.CD",
+        "quant-ph"
+      ],
+      "published": "2026-01-14T19:08:01+00:00",
+      "updated": "2026-04-28T13:42:45+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.09801v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2601.09801v2"
+    },
+    {
+      "arxiv_id": "2601.09607v2",
+      "base_id": "2601.09607",
+      "title": "Confronting eikonal and post-Kerr methods with numerical evolution of scalar field perturbations in spacetimes beyond Kerr",
+      "authors": [
+        "Ciro De Simone",
+        "Sebastian H. Völkel",
+        "Kostas D. Kokkotas",
+        "Vittorio De Falco",
+        "Salvatore Capozziello"
+      ],
+      "abstract": "The accurate computation of quasinormal modes from rotating black holes beyond general relativity is crucial for testing fundamental physics with gravitational waves. In this study, we assess the accuracy of the eikonal and post-Kerr approximations in predicting the quasinormal mode spectrum of a scalar field on a deformed Kerr spacetime. To obtain benchmark results and to analyze the ringdown dynamics from generic perturbations, we further employ a 2+1-dimensional numerical time-evolution framework. This approach enables a systematic quantification of theoretical uncertainties across multiple angular harmonics, a broad range of spin parameters, and progressively stronger deviations from the Kerr geometry. We then confront these modeling errors with simple projections of statistical uncertainties in quasinormal mode frequencies as a function of the signal-to-noise ratio, thereby exploring the domain of validity of approximate methods for prospective high-precision black-hole spectroscopy. We also report that near-horizon deformations can affect prograde and retrograde modes differently and provide a geometrical explanation.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE",
+        "hep-th"
+      ],
+      "published": "2026-01-14T16:30:02+00:00",
+      "updated": "2026-05-05T11:56:11+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.09607v2",
+      "html_url": "https://arxiv.org/html/2601.09607v2",
+      "entry_url": "http://arxiv.org/abs/2601.09607v2"
+    },
+    {
+      "arxiv_id": "2601.09785v2",
+      "base_id": "2601.09785",
+      "title": "Superball of Strings",
+      "authors": [
+        "Yoav Zigdon"
+      ],
+      "abstract": "I solve the equations of the low-energy limit of string theory to obtain a solution corresponding to a microcanonical ensemble of highly-excited superstrings. This ``Superball of Strings'' is a static, spherically symmetric ``fuzzball'' of BPS strings with a size set by a random walk scaling. The solution can be embedded in string theory in a significant part of parameter space. While the solution does not constitute a Lorentzian interpretation for a Euclidean, horizonless solution by Chen, Maldacena, and Witten, a few connections are noted. A singular extremal black hole and the Superball of Strings exist as Supergravity solutions with the same asymptotic boundary conditions; however, I argue that the latter describes generic BPS microstates.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2026-01-14T19:00:02+00:00",
+      "updated": "2026-05-05T08:07:36+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.09785v2",
+      "html_url": "https://arxiv.org/html/2601.09785v2",
+      "entry_url": "http://arxiv.org/abs/2601.09785v2"
+    },
+    {
+      "arxiv_id": "2601.09621v3",
+      "base_id": "2601.09621",
+      "title": "Diamonds in the Bulk and Large-$N$ Scaling in AdS/CFT",
+      "authors": [
+        "Sidan A",
+        "Tom Banks"
+      ],
+      "abstract": "Quantum Field Theory introduced us to the notion that a causal diamond in space-time corresponded to a subsystem of a quantum mechanical system defined on the global space-time. Work by Jacobson, Fischler and Susskind, and particularly Bousso suggested that, in the quantum theory of gravity, this subsystem should have a density matrix of finite entropy. These authors formalized older intuitive arguments based on black hole physics. Although mathematically, Type II von Neumann algebras admit finite entropy density matrices, the black hole arguments suggest that the number of physical states in these subsystems is finite. The conjecture that de Sitter (dS) space has a finite number of physical states was first made by Fischler and one of the present authors. Leutheusser and Liu showed that, in the $N = \\infty$ limit, causal diamonds with finite area in AdS radius units had Type $III_1$ von Neumann sub-algebras of the full operator algebra. They claimed that this was true for finite values of the UV cutoff, and that the algebra was the algebra of bulk local fields in the diamond. We will argue that the second part of this conjecture is incorrect and that the bulk field algebra emerges only in a double scaled limit, where the boundary UV cutoff is taken to infinity as $N$ is taken to infinity. There is never a bulk field theory description that resolves distances smaller than the AdS radius.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2026-01-14T16:49:43+00:00",
+      "updated": "2026-05-26T18:52:15+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.09621v3",
+      "html_url": "https://arxiv.org/html/2601.09621v3",
+      "entry_url": "http://arxiv.org/abs/2601.09621v3"
+    },
+    {
+      "arxiv_id": "2601.09664v2",
+      "base_id": "2601.09664",
+      "title": "Constant-roll $β$-exponential inflation: Palatini formalism",
+      "authors": [
+        "Ozan Sargın"
+      ],
+      "abstract": "This paper investigates the inflationary dynamics of a $β$-exponential potential model within the framework of non-minimally coupled quadratic $(R+R^2)$ gravity. The functional form of the adopted potential provides a well-motivated framework; its physical origin can be interpreted either as the stabilization dynamics of a radion field determining the size of the extra dimension in braneworld cosmology, or as a manifestation of the $q$-exponential function emerging naturally from Tsallis non-extensive thermodynamics. Utilizing the Palatini formalism, we derive an effective Einstein-frame generalized k-inflation theory and analyze its evolution under the constant-roll condition. We perform a comprehensive scan of the parameter space to obtain predictions for the spectral index $n_s$ and the tensor-to-scalar ratio $r$. Our results demonstrate that for specific viable ranges of the model parameters, the inflationary observables are in excellent agreement with the latest observational data from the Atacama Cosmology Telescope (ACT) DR6 and the Planck mission, thereby identifying the physically consistent regions of the parameter space. Furthermore, an evaluation of the primordial non-Gaussianity confirms that the constant-roll dynamics generate a distinct, observationally viable phenomenological signature.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-ph"
+      ],
+      "published": "2026-01-14T17:55:56+00:00",
+      "updated": "2026-06-04T08:15:53+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.09664v2",
+      "html_url": "https://arxiv.org/html/2601.09664v2",
+      "entry_url": "http://arxiv.org/abs/2601.09664v2"
+    },
+    {
+      "arxiv_id": "2601.09542v2",
+      "base_id": "2601.09542",
+      "title": "Modulus stabilization of modular flavor models in Jordan frame supergravity",
+      "authors": [
+        "Fei Wang",
+        "Ying Kai Zhang"
+      ],
+      "abstract": "We propose to discuss the modular flavor model and the stabilization of single modulus field in the Jordan frame supergravity with non-minimal scalar-curvature coupling of the form $Φ(τ,\\barτ)R$. Modular invariance, positivity of the scale factor and positive definiteness of the Kahler metric constrain stringently the form of the frame function, consequently the Kahler potential by the relation $Φ(τ,\\barτ)=-3\\exp[-K(τ,\\barτ)/3]$. We discuss some general properties of scalar potentials after the scale transformation from the Jordan frame to the Einstein frame. We find that the shape of the resulting scalar potential in the Einstein frame is quite different from that of ordinary single modulus stabilization mechanism. The scalar potential could be stationary at the $i\\infty$ fixed point, leading to a runaway type vacuum. Such a runaway-type vacuum can be properly stabilized at typical modulus VEV with large $\\Imτ$. We also discuss numerically the modulus stabilization for some simplified scenarios.",
+      "categories": [
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2026-01-14T15:03:13+00:00",
+      "updated": "2026-06-02T03:42:21+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.09542v2",
+      "html_url": "https://arxiv.org/html/2601.09542v2",
+      "entry_url": "http://arxiv.org/abs/2601.09542v2"
+    },
+    {
+      "arxiv_id": "2601.09764v3",
+      "base_id": "2601.09764",
+      "title": "DC response of an interferometer topology with an L-shaped cavity: a tabletop study",
+      "authors": [
+        "Junlang Li",
+        "Jiehong Huang",
+        "Xinyao Guo",
+        "Haixing Miao",
+        "Yuchao Chen",
+        "Xiaoman Huang",
+        "Yuan Pan",
+        "Chenjie Zhou",
+        "Raffaele Flaminio",
+        "Jameson Graef Rollins",
+        "Bram Slagmolen",
+        "Fan Zhang",
+        "Teng Zhang",
+        "Mengyao Wang"
+      ],
+      "abstract": "A new interferometer topology for kilohertz gravitational-wave detection was recently proposed in [Zhang et al. Phys. Rev. X 13, 021019 (2023)]. The design is based on an L-shaped optical cavity pumped through a Sagnac-like vortex. We report a tabletop experiment that characterizes the interferometer's optical response near DC. When the laser frequency is locked to the resonance of the L-shaped cavity, we observe that the cavity input coupler becomes effectively transparent, yielding a simple Michelson-like response. Moreover, the Sagnac vortex separates into upper and lower paths, which behave as two independent pumping paths driving the cavity. These observations are in agreement with theoretical predictions. Our results provide an intuitive physical picture of this interferometer topology and offer insight into its lock acquisition strategy.",
+      "categories": [
+        "physics.ins-det",
+        "astro-ph.IM",
+        "gr-qc",
+        "physics.optics"
+      ],
+      "published": "2026-01-14T08:59:01+00:00",
+      "updated": "2026-06-06T15:53:19+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.09764v3",
+      "html_url": "https://arxiv.org/html/2601.09764v3",
+      "entry_url": "http://arxiv.org/abs/2601.09764v3"
+    },
+    {
+      "arxiv_id": "2601.09790v2",
+      "base_id": "2601.09790",
+      "title": "The Cosmic Neutrino Background is within Reach of Future Neutrino Telescopes",
+      "authors": [
+        "Gonzalo Herrera",
+        "Shunsaku Horiuchi",
+        "Xiaolin Qi",
+        "Ian M. Shoemaker"
+      ],
+      "abstract": "The cosmic neutrino background (C$ν$B) can be boosted to high energies due to scatterings with energetic cosmic rays (CRs) across cosmological scales. Previous calculations focused on neutral current incoherent and coherent elastic scatterings of cosmic-ray protons off relic neutrinos. However, charged current interactions and deep inelastic scatterings are also expected to occur, which enhances the boosted relic neutrino fluxes on Earth. Here, we compute the \\textit{total} diffuse boosted cosmic neutrino background (DBC$ν$B) arising from CRs at all redshifts in the Universe, accounting for neutral current and charged current elastic and deep inelastic scatterings. We find that IceCube already places an upper limit on the cosmic neutrino background overdensity in cosmological scales of ~$\\mathcal{O}(100-1000)$ at $E_ν=10^{10}$ GeV, for a lightest neutrino mass of $m_ν \\gtrsim 0.1$ eV. We further show that IceCube-Gen2 could test $\\mathcal{O}(1-10)$ C$ν$B overdensities, and the combination of $10$ future neutrino telescopes with similar sensitivity would allow us to test the $Λ$CDM expected C$ν$B density for a lightest neutrino mass compatible with the KATRIN bound.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "astro-ph.HE"
+      ],
+      "published": "2026-01-14T19:00:23+00:00",
+      "updated": "2026-06-09T22:42:56+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.09790v2",
+      "html_url": "https://arxiv.org/html/2601.09790v2",
+      "entry_url": "http://arxiv.org/abs/2601.09790v2"
+    },
+    {
+      "arxiv_id": "2601.09784v2",
+      "base_id": "2601.09784",
+      "title": "Classical equipartition dynamics between axions and non-Abelian gauge fields",
+      "authors": [
+        "Kim V. Berghaus",
+        "Adrien Florio",
+        "M. Laine",
+        "Franz R. Sattler"
+      ],
+      "abstract": "Motivated by axion-like inflation and its warm embedding within the Standard Model, we study the early stages of the energy transfer between an axion condensate and an SU(2) gauge ensemble, by employing non-linear classical real-time lattice simulations. The discretized equations of motion are worked out, elaborating on Gauss constraints. A numerical solution is implemented on the CosmoLattice platform. Adopting a quadratic potential, and omitting universe expansion, we establish initial exponential growth of the low-momentum gauge modes; damping of axion oscillations after some delay; and subsequent energy equipartition between axion and gauge ensembles. A clear difference between the SU(2) and U(1) dynamics is observed, likely associated with non-Abelian self-interactions. We elaborate on what this implies for the possible thermalization of the SU(2) ensemble.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "hep-lat"
+      ],
+      "published": "2026-01-14T19:00:01+00:00",
+      "updated": "2026-06-12T06:49:07+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.09784v2",
+      "html_url": "https://arxiv.org/html/2601.09784v2",
+      "entry_url": "http://arxiv.org/abs/2601.09784v2"
+    }
+  ],
+  "total": 10
+}

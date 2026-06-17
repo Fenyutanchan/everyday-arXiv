@@ -1,0 +1,203 @@
+{
+  "date": "2025-08-14",
+  "papers": [
+    {
+      "arxiv_id": "2508.10812v2",
+      "base_id": "2508.10812",
+      "title": "Scalar-induced gravitational waves with non-Gaussianity up to all orders",
+      "authors": [
+        "Xiang-Xi Zeng",
+        "Zhuan Ning",
+        "Rong-Gen Cai",
+        "Shao-Jiang Wang"
+      ],
+      "abstract": "Scalar-induced gravitational waves (SIGWs) are ubiquitous in many early-Universe processes accompanied by non-Gaussianity; while Gaussian perturbation can generate significant SIGWs, computations of SIGWs can be significantly affected and enhanced if the scalar perturbations have some degree of non-Gaussianity; hence, precise calculations of these kinds of SIGWs involve a full understanding of non-Gaussianity. In this Letter, we propose to use the lattice simulations to directly calculate the energy density spectra of SIGWs with non-Gaussianity up to all orders. Our proposal has been first verified to match the existing semi-analytical results with non-Gaussianity, and then applied to more general cases, including high-order primordial non-Gaussianities, the logarithmic dependence in curvature perturbations, the curvaton model, and the ultra slow-roll model. We find that even a modest non-Gaussianity can significantly alter ultraviolet behaviors in SIGW spectra, necessitating special cautions in future detections as well as mutual constraints on/from primordial black holes.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "published": "2025-08-14T16:38:06+00:00",
+      "updated": "2026-04-23T16:45:13+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.10812v2",
+      "html_url": "https://arxiv.org/html/2508.10812v2",
+      "entry_url": "http://arxiv.org/abs/2508.10812v2"
+    },
+    {
+      "arxiv_id": "2508.10761v2",
+      "base_id": "2508.10761",
+      "title": "Unexpected Symmetries of Kerr Black Hole Scattering",
+      "authors": [
+        "Dogan Akpinar",
+        "Graham R. Brown",
+        "Riccardo Gonzo",
+        "Mao Zeng"
+      ],
+      "abstract": "Motivated by the recent introduction of the Dirac bracket framework to compute spinning observables for the scattering of Kerr black holes, we initiate the study of conserved quantities from an on-shell amplitude perspective. We establish new results for the conservation of energy, angular momentum, the Rüdiger invariant and the quadrupolar Carter constant using the spinning radial action extracted from the literature both in the probe limit and beyond, up to third post-Minkowskian order in the conservative sector. Furthermore, we offer a new perspective on the spin-shift symmetry of the radial action, clarifying its role in the dynamics. Finally, we define a new on-shell notion of asymptotic integrability in the Liouville sense and present strong evidence that it is surprisingly satisfied by a spinning probe in Kerr up to quartic order in the probe spin, to all orders in the post-Minkowskian expansion. We further establish integrability beyond the probe limit at low PM orders. Our results suggest important new implications for the dynamics of Kerr black holes.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2025-08-14T15:46:29+00:00",
+      "updated": "2026-05-06T18:01:50+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.10761v2",
+      "html_url": "https://arxiv.org/html/2508.10761v2",
+      "entry_url": "http://arxiv.org/abs/2508.10761v2"
+    },
+    {
+      "arxiv_id": "2508.10279v3",
+      "base_id": "2508.10279",
+      "title": "A supergroup series for knot complements",
+      "authors": [
+        "John Chae"
+      ],
+      "abstract": "We introduce a three variable series invariant $F_K (y,z,q)$ for plumbed knot complements associated with a Lie superalgebra $sl(2|1)$. The invariant is a generalization of the $sl(2|1)$-series invariant $\\hat{Z}(q)$ for closed 3-manifolds introduced by Ferrari and Putrov and an extension of the two variable series invariant defined by Gukov and Manolescu (GM) to the Lie superalgebra. We derive a surgery formula relating $F_K (y,z,q)$ to $\\hat{Z}(q)$ invariant. We find appropriate expansion chambers for certain infinite families of torus knots and compute explicit examples. Furthermore, we provide evidence for a non semisimple $Spin^c$ decorated TQFT from the three variable series. We observe that the super $F_K (y,z,q)$ itself and its results exhibit distinctive features compared to the GM series.",
+      "categories": [
+        "math.GT",
+        "hep-th",
+        "math-ph",
+        "math.QA"
+      ],
+      "published": "2025-08-14T02:11:39+00:00",
+      "updated": "2026-05-12T02:27:39+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.10279v3",
+      "html_url": "https://arxiv.org/html/2508.10279v3",
+      "entry_url": "http://arxiv.org/abs/2508.10279v3"
+    },
+    {
+      "arxiv_id": "2508.11098v2",
+      "base_id": "2508.11098",
+      "title": "Theoretical Detailed Analyses for DC readout and a Fabri-Pérot gravitational-wave detector",
+      "authors": [
+        "Kouji Nakamura"
+      ],
+      "abstract": "The quantum expectation value and the stationary noise spectral density for a Fabry-P'erot gravitational-wave detector with a DC readout scheme are discussed in detail only through the quantum electrodynamics of lasers and the Heisenberg equations of mirrors' motion. We demonstrate that the initial conditions of the mirrors' motion concentrate around the fundamental frequency of the pendulum and are not related to the frequency range of our interest. Although, in the ideal case, there is consensus that the shot-noise contribution from the laser to the high-frequency range of the signal-referred noise spectral density decreases as the injected laser power increases, our derived noise spectral density shows that the shot-noise contribution does not decrease. This is due to leakage of classical radiation pressure forces from the carrier field to the output port, and the carrier field is used as the reference in the DC readout scheme. Since classical radiation pressure acts as a constant force, it shifts the pendulum's equilibrium point of the mirrors' motion. To recover the ideal case, we must consider adjusting the interferometer's tuning point to place the mirrors at their equilibrium positions. We investigate the case where the equilibrium tuning is incomplete and show that the behavior of the above shot noise is due to this incompleteness. We also discuss the maximum deviation of the mirror displacements from the equilibrium point during incomplete tuning to recover a near-ideal case.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.IM",
+        "math-ph",
+        "quant-ph"
+      ],
+      "published": "2025-08-14T22:24:56+00:00",
+      "updated": "2026-05-12T01:46:53+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.11098v2",
+      "html_url": "https://arxiv.org/html/2508.11098v2",
+      "entry_url": "http://arxiv.org/abs/2508.11098v2"
+    },
+    {
+      "arxiv_id": "2508.10983v2",
+      "base_id": "2508.10983",
+      "title": "Shedding light on dark matter spikes through refractive neutrino masses",
+      "authors": [
+        "Federica Pompa",
+        "Manibrata Sen"
+      ],
+      "abstract": "The origin of neutrino mass remains an open question in particle physics. One intriguing possibility is that neutrinos are massless in vacuum but acquire an effective refractive mass through interactions with ultralight dark matter during propagation. We investigate the capability of the upcoming Deep Underground Neutrino Experiment (DUNE) to probe such refractive masses using the time-of-flight delays of neutrinos from a galactic core-collapse supernova. Our analysis shows that DUNE can set competitive bounds on the refractive neutrino mass, with sensitivity significantly enhanced if neutrinos traverse a dark matter density spike near the Galactic Center. In particular, we quantify how the presence of a spike modifies the projected limits, demonstrating that supernova neutrino observations at DUNE provide a powerful and novel avenue to test both the nature of neutrino masses and the distribution of dark matter in the innermost regions of the Milky Way.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "published": "2025-08-14T18:00:02+00:00",
+      "updated": "2026-05-22T15:05:13+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.10983v2",
+      "html_url": "https://arxiv.org/html/2508.10983v2",
+      "entry_url": "http://arxiv.org/abs/2508.10983v2"
+    },
+    {
+      "arxiv_id": "2508.10514v8",
+      "base_id": "2508.10514",
+      "title": "Evidence for evolving dark energy from DESI DR2 BAO and Pantheon$^+$, DES-Dovekie, and Union3",
+      "authors": [
+        "Himanshu Chaudhary",
+        "Salvatore Capozziello",
+        "Vipin Kumar Sharma",
+        "Isidro Gómez-Vargas",
+        "G. Mustafa"
+      ],
+      "abstract": "Evidences for evolving dark energy are shown using baryon acoustic oscillation measurements from the recent Dark Energy Spectroscopic Instrument Data Release 2 , combined with different Type Ia supernova datasets (Pantheon$^+$, DES-Dovekie, and Union3) and the CMB compressed likelihood. We examine several dark energy parameterizations, including the Logarithmic, Exponential, CPL, BA, JBP, Thawing, Mirage, and GEDE models. Analyzing the DESI DR2 measurements alone, we find that evidence for evolving dark energy is primarily driven by the LRG1-2 tracers, as their inclusion yields a preferred value of $w_0 > -1$. However, as each tracer provides only limited observables, this preference can result in an underconstrained and potentially unstable inference. Further, we find that each dark energy model predicts values in the $w_0 > -1$, $w_a < 0$ quadrant, a region characterized by the Quintom-B type dark energy scenario. The logarithmic bayes factor shows that, among all models, the Mirage model shows the inconclusive-to-moderate evidence across all dataset combinations. Consistently, the statistical significance remains modest, with $Nσ\\sim 1.1$-$2.3$, and no model showing a robust preference for dynamical dark energy using late-time datasets alone. The evolution of $w(z)$ shows a phantom crossing around $z \\sim 0.5$ in most dynamical dark energy models, and the evolution of $f_{\\mathrm{DE}}(z)$ converges to $f_{\\mathrm{DE}}(0) = 1$ in all dark energy models.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2025-08-14T10:32:51+00:00",
+      "updated": "2026-05-22T13:49:35+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.10514v8",
+      "html_url": "https://arxiv.org/html/2508.10514v8",
+      "entry_url": "http://arxiv.org/abs/2508.10514v8"
+    },
+    {
+      "arxiv_id": "2508.11003v2",
+      "base_id": "2508.11003",
+      "title": "Spontaneously Broken Non-Invertible Symmetries in Transverse-Field Ising Qudit Chains",
+      "authors": [
+        "Kristian Tyn Kai Chung",
+        "Umberto Borla",
+        "Andriy H. Nevidomskyy",
+        "Sergej Moroz"
+      ],
+      "abstract": "Recent developments have revealed that symmetries need not form a group, but instead can be non-invertible. Here we use analytical arguments and numerical evidence to illuminate how spontaneous symmetry breaking of a non-invertible symmetry is similar yet distinct from ordinary, invertible, symmetry breaking. We consider one-dimensional chains of group-valued qudits, whose local Hilbert space is spanned by elements of a finite group $G$ (reducing to ordinary qubits when $G=\\mathbb{Z}_2$). We construct Ising-type transverse-field Hamiltonians with Rep($G$) symmetry whose generators multiply according to the tensor product of irreducible representations (irreps) of the group $G$. For non-Abelian $G$, the symmetry is non-invertible. In the symmetry broken phase there is one ground state per irrep on a closed chain. The symmetry breaking can be detected by local order parameters but, unlike the invertible case, different ground states have distinct entanglement patterns. We show that for each irrep of dimension greater than one the corresponding ground state exhibits string order, entanglement spectrum degeneracies, and has gapless edge modes on an open chain -- features usually associated with symmetry-protected topological order. Consequently, domain wall excitations behave as one-dimensional non-Abelian anyons with non-trivial internal Hilbert spaces and fusion rules. Our work identifies properties of non-invertible symmetry breaking that existing quantum hardware can probe.",
+      "categories": [
+        "cond-mat.str-el",
+        "hep-th",
+        "quant-ph"
+      ],
+      "published": "2025-08-14T18:11:14+00:00",
+      "updated": "2026-05-27T20:54:52+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.11003v2",
+      "html_url": "https://arxiv.org/html/2508.11003v2",
+      "entry_url": "http://arxiv.org/abs/2508.11003v2"
+    },
+    {
+      "arxiv_id": "2508.11091v2",
+      "base_id": "2508.11091",
+      "title": "Inference with finite time series II: the window strikes back",
+      "authors": [
+        "Colm Talbot",
+        "Sylvia Biscoveanu",
+        "Aaron Zimmerman",
+        "Tomasz Baka",
+        "Will M. Farr",
+        "Jacob Golomb",
+        "Charlie Hoy",
+        "Andrew Lundgren",
+        "Jacopo Tissino",
+        "Michael J. Williams",
+        "John Veitch",
+        "Aditya Vijaykumar"
+      ],
+      "abstract": "Smooth window functions are often applied to strain data when inferring the parameters describing the astrophysical sources of gravitational-wave transients. Within the LIGO-Virgo-KAGRA collaboration, it is conventional to include a term to account for power loss due to this window in the likelihood function. We show that the inclusion of this factor leads to biased inference. The simplest solution to this, omitting the factor, leads to unbiased posteriors and Bayes factor estimates provided the window does not suppress the signal for signal-to-noise ratios $\\lesssim O(100)$, but unreliable estimates of the absolute likelihood. Instead, we propose a multi-stage method that yields consistent estimates for the absolute likelihood in addition to unbiased posterior distributions and Bayes factors for signal-to-noise ratios $\\lesssim O(1000)$. Additionally, we demonstrate that the commonly held wisdom that using rectangular windows necessarily leads to biased inference is incorrect.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.IM"
+      ],
+      "published": "2025-08-14T22:08:48+00:00",
+      "updated": "2026-06-03T20:02:12+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.11091v2",
+      "html_url": "https://arxiv.org/html/2508.11091v2",
+      "entry_url": "http://arxiv.org/abs/2508.11091v2"
+    },
+    {
+      "arxiv_id": "2508.10978v4",
+      "base_id": "2508.10978",
+      "title": "A Generalized Crystalline Equivalence Principle",
+      "authors": [
+        "Devon Stockall",
+        "Matthew Yu"
+      ],
+      "abstract": "We prove a general version of the crystalline equivalence principle which gives an equivalence of categories between a category of TQFTs defined on a generic space with $G$-symmetry, and a category of TQFTs with internal symmetry. We give a definition and classification of anomalies associated to TQFTs in the presence of spatial symmetry, which we then generalize to a definition of an anomaly for a categorical symmetry.",
+      "categories": [
+        "math-ph",
+        "cond-mat.str-el",
+        "hep-th",
+        "math.CT"
+      ],
+      "published": "2025-08-14T18:00:00+00:00",
+      "updated": "2026-06-07T20:20:31+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.10978v4",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2508.10978v4"
+    }
+  ],
+  "total": 9
+}

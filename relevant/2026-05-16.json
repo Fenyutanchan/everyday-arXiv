@@ -1,0 +1,292 @@
+{
+  "date": "2026-05-16",
+  "total": 7,
+  "papers": [
+    {
+      "arxiv_id": "2605.17178v1",
+      "base_id": "2605.17178",
+      "title": "An EFT Map of Axion Dark Radiation from Reheating",
+      "authors": [
+        "Yong Xu"
+      ],
+      "abstract": "Light, weakly coupled sectors can retain information about the cosmological background in which they are produced. We study light axions produced during reheating and their contribution to dark radiation, $ΔN_{\\rm eff}$. We develop a shift-symmetric EFT in which an inflaton-dependent axion kinetic term systematically organizes the leading production channels. The same kinetic function generates both direct inflaton decay and inflaton annihilation from the oscillating inflaton background. Direct decay is described by an invisible inflaton branching fraction, while annihilation is a genuinely reheating-sensitive source controlled by a coherent combination of Wilson coefficients. We derive the contribution to $ΔN_{\\rm eff}$ from both channels and show that they scale oppositely with the reheating temperature: the decay contribution falls as $T_{\\rm rh}^{-2}$, whereas the annihilation contribution grows approximately as $T_{\\rm rh}^{4/3}$. Their crossing is missed by treatments that keep only one production channel. We translate current and projected $ΔN_{\\rm eff}$ sensitivities into constraints on the Wilson coefficients of the kinetic function, obtaining a two-dimensional EFT map of axion dark radiation from reheating. This map can imply both lower and upper bounds on the reheating temperature, showing that light axion relics can turn dark radiation measurements into constraints on reheating.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "published": "2026-05-16T22:29:19+00:00",
+      "updated": "2026-05-16T22:29:19+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.17178v1",
+      "html_url": "https://arxiv.org/html/2605.17178v1",
+      "entry_url": "http://arxiv.org/abs/2605.17178v1",
+      "relevance": {
+        "relevant": true,
+        "score": 9,
+        "reason": "This paper directly intersects multiple core interests: cosmic reheating dynamics, axion physics, and cosmological ΔN_eff constraints, making it highly relevant to the user's research on early-universe cosmology and axion dark matter.",
+        "pass_number": 1,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2603.24677v2",
+      "base_id": "2603.24677",
+      "title": "Constraints on Light Sterile Neutrinos and Scalar Non-Standard Interactions Using the First Reactor Antineutrino Oscillation Results at JUNO",
+      "authors": [
+        "L. J. Flores",
+        "R. Pacheco-Aké",
+        "Eduardo Peinado",
+        "G. Sanchez Garcia",
+        "E. Vázquez-Jáuregui"
+      ],
+      "abstract": "Constraints on light sterile neutrinos and scalar non-standard neutrino interactions are obtained from the first reactor antineutrino results reported by JUNO. The analysis is based on a spectral $χ^2$ fit to the prompt-energy distribution corresponding to 59.1 days of data, including full three-flavor oscillations extended to a $3+1$ framework and effective scalar NSI contributions. The reactor flux is modeled using the Daya Bay measured spectrum, and systematic uncertainties are accounted for through a set of nuisance parameters describing reactor flux normalization, spectral shape, background normalization, and detector response. It is found that JUNO is already sensitive to light sterile neutrinos in the mass-splitting range $10^{-5} \\lesssim Δm^2_{41}/\\text{eV}^2 \\lesssim 10^{-2}$, probing mixing amplitudes down to $\\sin^2 2θ_{14} \\sim \\mathcal{O}(10^{-1})$. In addition, a constraint on the scalar NSI parameter $|η_{ee}| < \\mathcal{O}(10^{-2})$ is obtained, with correlations with solar oscillation parameters. These results demonstrate the potential of JUNO to probe small deviations from the Standard Model resulting from new physics through precision measurements, with significant improvements expected as statistics and systematic control improve.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-03-25T18:00:39+00:00",
+      "updated": "2026-05-16T16:36:10+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.24677v2",
+      "html_url": "https://arxiv.org/html/2603.24677v2",
+      "entry_url": "http://arxiv.org/abs/2603.24677v2",
+      "relevance": {
+        "relevant": true,
+        "score": 9,
+        "reason": "This paper directly analyzes JUNO's first reactor antineutrino data—the user's own experiment—to constrain light sterile neutrinos and scalar NSI, both of which fall squarely within the user's stated neutrino physics and JUNO phenomenology research interests.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2508.18103v2",
+      "base_id": "2508.18103",
+      "title": "Searching non-standard interactions with atmospheric neutrinos at ESSnuSB",
+      "authors": [
+        "ESSnuSB",
+        ":",
+        "J. Aguilar",
+        "M. Anastasopoulos",
+        "D. Barčot",
+        "E. Baussan",
+        "A. K. Bhattacharyya",
+        "A. Bignami",
+        "M. Blennow",
+        "M. Bogomilov",
+        "B. Bolling",
+        "E. Bouquerel",
+        "F. Bramati",
+        "A. Branca",
+        "G. Brunetti",
+        "I. Bustinduy",
+        "C. J. Carlile",
+        "J. Cederkall",
+        "T. W. Choi",
+        "S. Choubey",
+        "P. Christiansen",
+        "M. Collins",
+        "E. Cristaldo Morales",
+        "P. Cupiał",
+        "D. D'Ago",
+        "H. Danared",
+        "J. P. A. M. de André",
+        "M. Dracos",
+        "I. Efthymiopoulos",
+        "T. Ekelöf",
+        "M. Eshraqi",
+        "G. Fanourakis",
+        "A. Farricker",
+        "E. Fasoula",
+        "T. Fukuda",
+        "N. Gazis",
+        "Th. Geralis",
+        "M. Ghosh",
+        "A. Giarnetti",
+        "G. Gokbulut",
+        "C. Hagner",
+        "L. Halić",
+        "M. Hooft",
+        "K. E. Iversen",
+        "N. Jachowicz",
+        "M. Jensen",
+        "R. Johansson",
+        "E. Kasimi",
+        "A. Kayis Topaksu",
+        "B. Kildetoft",
+        "K. Kordas",
+        "B. Kovač",
+        "A. Leisos",
+        "A. Longhin",
+        "C. Maiano",
+        "S. Marangoni",
+        "J. G. Marcos",
+        "C. Marrelli",
+        "D. Meloni",
+        "M. Mezzetto",
+        "N. Milas",
+        "R. Moolya",
+        "J. L. Muñoz",
+        "K. Niewczas",
+        "M. Oglakci",
+        "T. Ohlsson",
+        "M. Olvegård",
+        "M. Pari",
+        "D. Patrzalek",
+        "G. Petkov",
+        "Ch. Petridou",
+        "P. Poussot",
+        "A. Psallidas",
+        "F. Pupilli",
+        "D. Saiang",
+        "D. Sampsonidis",
+        "A. Scanu",
+        "C. Schwab",
+        "F. Sordo",
+        "G. Stavropoulos",
+        "R. Tarkeshian",
+        "F. Terranova",
+        "T. Tolba",
+        "E. Trachanas",
+        "R. Tsenov",
+        "A. Tsirigotis",
+        "S. E. Tzamarias",
+        "M. Vanderpoorten",
+        "G. Vankova-Kirilova",
+        "N. Vassilopoulos",
+        "S. Vihonen",
+        "J. Wurtz",
+        "V. Zeter",
+        "O. Zormpa"
+      ],
+      "abstract": "Atmospheric neutrinos provide a unique avenue to study neutrino interactions in matter. In this work, the prospects of constraining non-standard neutrino interactions with atmospheric neutrino oscillations are investigated for the proposed ESSnuSB far detector. By analyzing atmospheric neutrino samples equivalent to 5.4 Mt$\\cdot$year exposure, it is found that ESSnuSB could be able to set the upper bounds $|ε_{eμ}^m| < 0.053, |ε_{eτ}^m| < 0.057, |ε_{μτ}^m| < 0.021, ε_{ee}^m - ε_{μμ}^m < 0.075$ and $|ε_{ττ}^m - ε_{μμ}^m| < 0.031$ at $90\\%$ CL, when the results are minimized for $φ_{eμ}^m, φ_{eτ}^m$ and $φ_{μτ}^m$ and normal ordering is assumed for neutrino masses. It is also shown that the presence of non-standard interactions could affect the sensitivities to neutrino mass ordering and $θ_{23}^{}$ octant in comparison to the standard interaction scheme. The results of this work highlight the complementarity between atmospheric and accelerator neutrino programs in ESSnuSB.",
+      "categories": [
+        "hep-ex",
+        "hep-ph"
+      ],
+      "published": "2025-08-25T15:08:21+00:00",
+      "updated": "2026-05-16T16:26:29+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.18103v2",
+      "html_url": "https://arxiv.org/html/2508.18103v2",
+      "entry_url": "http://arxiv.org/abs/2508.18103v2",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "The paper deals with neutrino oscillation phenomenology and non-standard interactions, which is peripherally related to the user's neutrino physics interests, but it focuses on ESSnuSB (not JUNO) and atmospheric NSI constraints rather than the user's specific topics of HNLs, dark decays, BBN constraints, or solar antineutrinos.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.17057v1",
+      "base_id": "2605.17057",
+      "title": "Five legs @ three loops: slightly off-shell dual conformal integrals",
+      "authors": [
+        "Andrei V. Belitsky",
+        "Leonid V. Bork",
+        "Roman N. Lee",
+        "Andrei I. Onishchenko",
+        "Vladimir A. Smirnov"
+      ],
+      "abstract": "We calculate the three-loop master integrals contributing to the three-loop five-point amplitude on the special Coulomb branch of $\\mathcal{N}=4$ SYM theory. For the genuine pentagon integrals, we follow the approach of Ref. [JHEP 12 (2025) 107], which includes a regularization preserving dual conformal invariance (DCI). As a new ingredient, we introduce a simple method, allowing to factor out the dependence on the DCI cross ratios from the contribution of each region. The remaining integrals are then essentially simplified by taking successive limits of vanishing external invariants. For 3 out of 82 regions contributing to the most complicated integral $\\mathcal{I}_5^{(3)}$ we were not able to perform the integration even after these simplifications. For these three regions, we perform the integration-by-parts (IBP) reduction in parametric representation and evaluate the resulting locally finite integrals using HyperInt.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2026-05-16T16:00:01+00:00",
+      "updated": "2026-05-16T16:00:01+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.17057v1",
+      "html_url": "https://arxiv.org/html/2605.17057v1",
+      "entry_url": "http://arxiv.org/abs/2605.17057v1",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "The paper involves three-loop Feynman integral calculations with IBP reduction, harmonic polylogarithms, and parametric representations—techniques overlapping with the user's multi-loop QCD and computational tool interests—but the specific physics context (dual conformal integrals in planar N=4 SYM) is quite far from the user's core QCD, neutrino, and cosmology research.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.16721v1",
+      "base_id": "2605.16721",
+      "title": "Towards Measuring the CP-Violating Phase with Atmospheric Neutrinos",
+      "authors": [
+        "John F. Beacom",
+        "Nicole F. Bell",
+        "Matthew J. Dolan",
+        "Stephan A. Meighen-Berger",
+        "Ho Man Yim"
+      ],
+      "abstract": "We propose a new approach to measuring the CP-violating phase in neutrino mixing using atmospheric neutrinos, differing significantly from prior work. We develop an up-down flux ratio for sub-GeV atmospheric neutrinos that incorporates realistic detection effects and reduces systematic uncertainties. For the example of Hyper-Kamiokande -- the first experiment with sufficient atmospheric-neutrino statistics in this energy range -- our approach can surpass the sensitivity of the Tokai to Hyper-Kamiokande (T2HK) long-baseline experiment near $\\mathit{δ_\\mathrm{CP} = 90^\\circ}$ and $\\mathit{270^\\circ}$. Realizing this potential will require additional, but realistic, work to reduce theoretical uncertainties. Success will provide an important, complementary probe to multi-\\$1B accelerator-based experiments.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-05-16T00:07:50+00:00",
+      "updated": "2026-05-16T00:07:50+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.16721v1",
+      "html_url": "https://arxiv.org/html/2605.16721v1",
+      "entry_url": "http://arxiv.org/abs/2605.16721v1",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "The paper falls within neutrino physics broadly, which is one of the researcher's areas, but focuses on atmospheric neutrino CP-violation measurements at Hyper-Kamiokande rather than the researcher's specific interests in HNLs, dark decays, BBN constraints, solar antineutrinos, or JUNO phenomenology.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.07975v2",
+      "base_id": "2605.07975",
+      "title": "Phenomenological implications of the high-precision COHERENT germanium CE$ν$NS data",
+      "authors": [
+        "M. Atzori Corona",
+        "M. Cadeddu",
+        "N. Cargioli",
+        "R. Cerulli",
+        "G. Co'",
+        "F. Dordei",
+        "C. Giunti",
+        "R. Pavarani"
+      ],
+      "abstract": "This work presents the first comprehensive phenomenological analysis of the newly released Coherent Elastic Neutrino-Nucleus Scattering (CE$ν$NS) data on germanium, measured by the COHERENT collaboration at the Spallation Neutron Source. Leveraging the unprecedented precision of this dataset, we provide state-of-the-art determinations of key Standard Model and nuclear physics parameters. Specifically, we extract updated constraints on the weak mixing angle, the neutrino charge radii, and we perform a detailed extraction of the neutron root-mean-square radius of germanium nuclei. We also investigate the impact of quenching factor uncertainties by exploring an extended Lindhard framework, and assess their effect on the extraction of nuclear parameters. Additionally, we use these results to evaluate scenarios beyond the Standard Model, placing robust bounds on neutrino non-standard interactions. To maximize the statistical power and robustness of our findings, whenever possible, we perform a global combined analysis incorporating previous COHERENT measurements along with reactor antineutrino data from the CONUS+, TEXONO, and $ν$GeN experiments as well as dark-matter experiments.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2026-05-08T16:33:47+00:00",
+      "updated": "2026-05-16T17:58:48+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.07975v2",
+      "html_url": "https://arxiv.org/html/2605.07975v2",
+      "entry_url": "http://arxiv.org/abs/2605.07975v2",
+      "relevance": {
+        "relevant": true,
+        "score": 3,
+        "reason": "The paper addresses neutrino physics phenomenology (NSI constraints, weak mixing angle, neutrino charge radii) which is tangentially related to the user's neutrino physics interests, but focuses on CEνNS at COHERENT rather than the user's specific topics of JUNO phenomenology, heavy neutral leptons, solar antineutrinos, or cosmological neutrino bounds.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.16772v1",
+      "base_id": "2605.16772",
+      "title": "Constraints on non-canonical chaotic inflation from ACT DR6 and BICEP/Keck data",
+      "authors": [
+        "Wei Yang",
+        "Chen-Hao Wu",
+        "Ya-Peng Hu"
+      ],
+      "abstract": "In this study, we precisely evaluated the feasibility of the chaotic inflation model within a non-canonical kinetic framework. By applying the slow-roll approximation and imposing constraints on the equilateral non-Gaussianity $f_{\\rm NL}^{\\rm equil}$, we imposed constraints on the feasible range of the potential index $n$. We established physical bounds for the non-canonical parameter $α$. To obtain precise parameter constraints, we solved the primordial perturbation equations numerically and conducted a rigorous MCMC analysis by using a comprehensive joint P-ACT-LB-BK18 dataset. For these potentials $n=1/3$, $2/3$, and $1$, our results respectively tightly limit $α$ to the levels of $8.8^{+1.6}_{-2.8}$, $11.7^{+1.7}_{-2.6}$, and $16.4^{+3.7}_{-7.0}$, within the corresponding $1σ$ confidence intervals. Meanwhile, the required number of $e$-foldings naturally converges to $N \\simeq 54$, without the need for fine-tuning. These findings confirm that non-standard mechanisms can resurrect excluded chaotic inflation models within the $1σ$ allowed regions of high-precision cosmological data.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO"
+      ],
+      "published": "2026-05-16T02:49:42+00:00",
+      "updated": "2026-05-16T02:49:42+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.16772v1",
+      "html_url": "https://arxiv.org/html/2605.16772v1",
+      "entry_url": "http://arxiv.org/abs/2605.16772v1",
+      "relevance": {
+        "relevant": true,
+        "score": 3,
+        "reason": "The paper falls under early-universe cosmology broadly, but focuses on constraining inflationary model parameters from CMB data rather than the user's specific interests in reheating dynamics, pre-thermalization gravitational waves, PBHs, or stochastic gravitational-wave backgrounds.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2024-05-23",
+  "papers": [
+    {
+      "arxiv_id": "2405.14513v3",
+      "base_id": "2405.14513",
+      "title": "Brisk estimator for the angular multipoles of the redshift space bispectrum",
+      "authors": [
+        "Sukhdeep Singh Gill",
+        "Somnath Bharadwaj"
+      ],
+      "abstract": "The anisotropy of the redshift space bispectrum depends upon the orientation of the triangles formed by three $\\mathbf{k}$ modes with respect to the line of sight. For a triangle of fixed size ($k_1$) and shape ($μ,t$), this orientation dependence can be quantified in terms of angular multipoles $B_\\ell^m(k_1,μ,t)$ which contain a wealth of cosmological information. We propose a fast and efficient FFT-based estimator that computes the bispectrum multipole moments $B_\\ell^m$ of a 3D cosmological field for all possible $\\ell$ and $m$ (including $m\\neq 0$). The time required by the estimator to compute all multipoles from a gridded data cube of volume $N_g^3$ scales as $\\sim \\mathcal{O}(N_g^4)$ in contrast to the direct computation technique which requires time $\\sim \\mathcal{O}(N_g^6)$. Here, we demonstrate the formalism and validate the estimator using a simulated non-Gaussian field for which the analytical expressions for all the bispectrum multipoles are known. The estimated results are found to be in good agreement with the analytical predictions for all $16$ non-zero multipoles (up to $\\ell= 6, m=6$). We expect the $m \\neq 0$ bispectrum multipoles to significantly enhance the information available from galaxy redshift surveys and future redshifted 21-cm observations.",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.GA"
+      ],
+      "published": "2024-05-23T12:50:47+00:00",
+      "updated": "2026-06-11T14:06:37+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2405.14513v3",
+      "html_url": "https://arxiv.org/html/2405.14513v3",
+      "entry_url": "http://arxiv.org/abs/2405.14513v3"
+    }
+  ],
+  "total": 1
+}

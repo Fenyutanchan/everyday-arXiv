@@ -1,0 +1,25 @@
+{
+  "date": "2024-07-28",
+  "papers": [
+    {
+      "arxiv_id": "2407.19387v4",
+      "base_id": "2407.19387",
+      "title": "BPS Chaos",
+      "authors": [
+        "Yiming Chen",
+        "Henry W. Lin",
+        "Stephen H. Shenker"
+      ],
+      "abstract": "Black holes are chaotic quantum systems that are expected to exhibit random matrix statistics in their finite energy spectrum. Lin, Maldacena, Rozenberg and Shan (LMRS) have proposed a related characterization of chaos for the ground states of BPS black holes with finite area horizons. On a separate front, the \"fuzzball program\" has uncovered large families of horizon-free geometries that account for the entropy of holographic BPS systems, but only in situations with sufficient supersymmetry to exclude finite area horizons. The highly structured, non-random nature of these solutions seems in tension with strong chaos. We verify this intuition by performing analytic and numerical calculations of the LMRS diagnostic in the corresponding boundary quantum system. In particular we examine the 1/2 and 1/4-BPS sectors of $\\mathcal{N}=4$ SYM, and the two charge sector of the D1-D5 CFT. We find evidence that these systems are only weakly chaotic, with a Thouless time determining the onset of chaos that grows as a power of $N$. In contrast, finite horizon area BPS black holes should be strongly chaotic, with a Thouless time of order one. In this case, finite energy chaotic states become BPS as $N$ is decreased through the recently discovered \"fortuity\" mechanism. Hence they can plausibly retain their strongly chaotic character.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2024-07-28T04:08:11+00:00",
+      "updated": "2026-05-24T17:37:33+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2407.19387v4",
+      "html_url": "https://arxiv.org/html/2407.19387v4",
+      "entry_url": "http://arxiv.org/abs/2407.19387v4"
+    }
+  ],
+  "total": 1
+}

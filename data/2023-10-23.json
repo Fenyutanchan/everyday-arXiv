@@ -1,0 +1,26 @@
+{
+  "date": "2023-10-23",
+  "papers": [
+    {
+      "arxiv_id": "2310.15134v3",
+      "base_id": "2310.15134",
+      "title": "Analytic asymptotics of the integrable XXX critical spin chains in the small external-field limit from TBA",
+      "authors": [
+        "Yizhuang Liu"
+      ],
+      "abstract": "In this note, inspired partly by the works on the analytic trans-series of free-energies in 2D integrable QFTs in the UV limit, we study the corresponding asymptotic expansions in the IR limit of the integrable XXX spin chains, at the anti-ferromagnetic critical point. Starting from the linear TBA integral equation, we generate the perturbative series in the minimal-scheme coupling constants, up to the first order where the $ζ_3$ appears. To all perturbative orders, at spin one-half, the perturbative series relates to that of the $β^2=8π^-$ massive sine-Gordon by a sign flip of the coupling constant, and this relation generalizes for an arbitrary spin, to certain massive deformation of $su(2)_k$ WZW. This relation partially supports the conjectured field-theoretical interpretations of such critical points, at the leading-power $\\&\\&$ all-logarithmic accuracy. We also compute the perturbative coefficients attached to the first exponentially-small corrections up to the order where $ζ_3$ appears, in case $s>1$. An interesting feature is that the largest exponentially-small corrections at the locations $h^{2+\\frac{2k}{s}}$ are non-vanishing, but the corresponding Borel singularities in the perturbative series are canceled for generic $s>1$, not necessarily integers or half-integers. This becomes most dramatic in the a 't Hooft type large $s$ limit, in which the perturbative series has a finite convergence radius, while these exponentially small corrections still survive.",
+      "categories": [
+        "hep-th",
+        "cond-mat.stat-mech",
+        "hep-ph",
+        "math-ph"
+      ],
+      "published": "2023-10-23T17:41:23+00:00",
+      "updated": "2026-06-09T15:58:18+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2310.15134v3",
+      "html_url": "https://arxiv.org/html/2310.15134v3",
+      "entry_url": "http://arxiv.org/abs/2310.15134v3"
+    }
+  ],
+  "total": 1
+}

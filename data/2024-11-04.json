@@ -1,0 +1,25 @@
+{
+  "date": "2024-11-04",
+  "papers": [
+    {
+      "arxiv_id": "2411.02517v2",
+      "base_id": "2411.02517",
+      "title": "The $i\\varepsilon$-Prescription for String Amplitudes and Regularized Modular Integrals",
+      "authors": [
+        "Jan Manschot",
+        "Zhi-Zhen Wang"
+      ],
+      "abstract": "We study integrals appearing in one-loop amplitudes in string theory, and in particular their analytic continuation based on a string theoretic analog of the $i\\varepsilon$-prescription of quantum field theory. For various zero- and two-point one-loop amplitudes of both open and closed strings, we prove that this analytic continuation is equivalent to a regularization using generalized exponential integrals. Our approach provides exact expressions in terms of the degeneracies at each mass level. For one-loop amplitudes with boundaries, our result takes the form of a linear combination of three partition functions at different temperatures depending on a variable $T_0$, yet their sum is independent of this variable. The imaginary part of the amplitudes can be read off in closed form, while the real part is amenable to numerical evaluation. While the expressions are rather different, we demonstrate agreement of our approach with the contour put forward by Eberhardt-Mizera (2023) following the Hardy-Ramanujan-Rademacher circle method, and compare these two approaches. We include applications to the Ramond-Ramond sector of the vacuum amplitude and two-point amplitudes of Type I superstring theory.",
+      "categories": [
+        "hep-th",
+        "math.NT"
+      ],
+      "published": "2024-11-04T19:01:07+00:00",
+      "updated": "2026-06-12T15:13:36+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2411.02517v2",
+      "html_url": "https://arxiv.org/html/2411.02517v2",
+      "entry_url": "http://arxiv.org/abs/2411.02517v2"
+    }
+  ],
+  "total": 1
+}

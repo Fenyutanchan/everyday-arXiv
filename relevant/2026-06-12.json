@@ -1,0 +1,361 @@
+{
+  "date": "2026-06-12",
+  "total": 13,
+  "papers": [
+    {
+      "arxiv_id": "2606.14441v1",
+      "base_id": "2606.14441",
+      "title": "Bose-enhanced Neutrino Decays in a Thermal Medium",
+      "authors": [
+        "Yuber F. Perez-Gonzalez",
+        "Manibrata Sen",
+        "Walter Tangarife"
+      ],
+      "abstract": "We compute the decay width of neutrinos in a thermal medium using finite-temperature quantum field theory, focusing on non-standard decays into lighter neutrinos and a scalar or light vector boson. We derive general expressions for the thermal decay rate and show that finite-temperature effects can dramatically enhance neutrino decays when the parent and daughter states are nearly degenerate in mass. In this regime, the emitted boson is kinematically soft and undergoes strong Bose enhancement, leading to decay widths that can exceed their vacuum values by a couple of orders of magnitude. We demonstrate that this effect is largely insensitive to the Lorentz structure of the underlying interaction and arises generically from the interplay of thermal occupation factors and quasi-degenerate kinematics. Our results highlight a previously underappreciated feature of neutrino decay in thermal environments and provide a general framework applicable to a broad class of fermionic decay processes.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-06-12T13:21:12+00:00",
+      "updated": "2026-06-12T13:21:12+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.14441v1",
+      "html_url": "https://arxiv.org/html/2606.14441v1",
+      "entry_url": "http://arxiv.org/abs/2606.14441v1",
+      "relevance": {
+        "relevant": true,
+        "score": 9,
+        "reason": "The paper directly connects the researcher's interest in Bose-enhanced decay processes (from early-universe reheating) with neutrino physics, applying finite-temperature QFT to neutrino decays in a way that is highly relevant to cosmological neutrino phenomenology and early-universe thermal dynamics.",
+        "pass_number": 1,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.14379v1",
+      "base_id": "2606.14379",
+      "title": "Sachs-Wolfe effect as a smoking gun for cosmological gravitational wave backgrounds",
+      "authors": [
+        "Giorgio Mentasti",
+        "Leon Vidal",
+        "Quentin Baghi",
+        "Carlo Contaldi"
+      ],
+      "abstract": "The Sachs-Wolfe (SW) effect, arising from large-scale structures in the universe, modifies the frequencies of gravitational waves (GWs) sourced by a cosmological background. We show that for backgrounds with $Ω_{\\rm GW}\\gtrsim 10^{-10}$, this effect imprints anisotropies and spectral distortions that can be detectable with a network of space-based interferometers (such as LISA + Taiji) and, if not taken into account, may bias the estimate of the theoretical model of the GW background. The effect is particularly enhanced in the high-frequency end of the spectrum. The SW-induced anisotropies and spectral distortions present in a GW background sourced at primordial times will correlate with the SW signature present in the CMB. Any detection of a cross-correlation between the GW anisotropies and the CMB at large scales is therefore a smoking gun for confirming the primordial nature of the background.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2026-06-12T12:13:38+00:00",
+      "updated": "2026-06-12T12:13:38+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.14379v1",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2606.14379v1",
+      "relevance": {
+        "relevant": true,
+        "score": 8,
+        "reason": "This paper directly addresses stochastic gravitational-wave backgrounds of primordial origin—a core interest—studying their anisotropies, spectral distortions, and detectability via cross-correlation with the CMB, which aligns closely with the user's work on early-universe cosmology and pre-thermalization gravitational waves.",
+        "pass_number": 1,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2512.19858v2",
+      "base_id": "2512.19858",
+      "title": "FeynCalc 10.2 and FeynHelpers 2: Multiloop calculations streamlined",
+      "authors": [
+        "Vladyslav Shtabovenko"
+      ],
+      "abstract": "We present new versions of the Mathematica package FeynCalc and the FeynHelpers add-on that represent an important contribution to the collection of public codes for semi-automatic evaluation of multiloop Feynman diagrams. FeynHelpers enables interfacing between FeynCalc and selected programs routinely used in multiloop calculations such as QGRAF, FIRE, KIRA, FIESTA or pySecDec. In addition to that FeynCalc now supports parallelizing the execution of selected routines on multicore CPUs and can handle tensor integrals with zero Gram determinants where the traditional tensor reduction breaks down.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-12-22T20:26:27+00:00",
+      "updated": "2026-06-12T09:38:53+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.19858v2",
+      "html_url": "https://arxiv.org/html/2512.19858v2",
+      "entry_url": "http://arxiv.org/abs/2512.19858v2",
+      "relevance": {
+        "relevant": true,
+        "score": 8,
+        "reason": "This paper describes computational tools for multiloop Feynman diagram calculations, directly supporting the user's work on multi-loop perturbative QCD, electroweak precision calculations, and computational tools for high-energy physics.",
+        "pass_number": 1,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2601.09784v2",
+      "base_id": "2601.09784",
+      "title": "Classical equipartition dynamics between axions and non-Abelian gauge fields",
+      "authors": [
+        "Kim V. Berghaus",
+        "Adrien Florio",
+        "M. Laine",
+        "Franz R. Sattler"
+      ],
+      "abstract": "Motivated by axion-like inflation and its warm embedding within the Standard Model, we study the early stages of the energy transfer between an axion condensate and an SU(2) gauge ensemble, by employing non-linear classical real-time lattice simulations. The discretized equations of motion are worked out, elaborating on Gauss constraints. A numerical solution is implemented on the CosmoLattice platform. Adopting a quadratic potential, and omitting universe expansion, we establish initial exponential growth of the low-momentum gauge modes; damping of axion oscillations after some delay; and subsequent energy equipartition between axion and gauge ensembles. A clear difference between the SU(2) and U(1) dynamics is observed, likely associated with non-Abelian self-interactions. We elaborate on what this implies for the possible thermalization of the SU(2) ensemble.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "hep-lat"
+      ],
+      "published": "2026-01-14T19:00:01+00:00",
+      "updated": "2026-06-12T06:49:07+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.09784v2",
+      "html_url": "https://arxiv.org/html/2601.09784v2",
+      "entry_url": "http://arxiv.org/abs/2601.09784v2",
+      "relevance": {
+        "relevant": true,
+        "score": 8,
+        "reason": "This paper directly addresses early-universe reheating dynamics and axion physics—two of the user's core interests—by studying energy transfer from an axion condensate to SU(2) gauge fields via lattice simulations, which is closely related to cosmic reheating and thermalization processes.",
+        "pass_number": 1,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.14495v1",
+      "base_id": "2606.14495",
+      "title": "Cosmological signals of dark matter semi-annihilation",
+      "authors": [
+        "Boris Betancourt Kamenetskaia",
+        "Mathias Garny",
+        "Alejandro Ibarra",
+        "Alessia Musumeci",
+        "Merlin Reichard"
+      ],
+      "abstract": "The growth of primordial density fluctuations in the early Universe leads to an inhomogeneous dark matter distribution at high redshift, where semi-annihilation processes of the form $χχ\\rightarrow χ^c ν$ can occur with a sizable rate. Using a state-of-the-art model for the cosmological boost factor, we compute the resulting redshift-dependent flux of boosted dark matter particles generated by semi-annihilation, and we study the implications of the boosted component for structure formation and direct detection experiments. We find that the cosmological contribution can enhance the sensitivity of current dark matter searches by up to three orders of magnitude, and may allow future experiments to probe scattering cross sections in the femtobarn range for dark matter masses between $\\sim 10$ MeV and $\\sim1$ GeV.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-06-12T14:29:27+00:00",
+      "updated": "2026-06-12T14:29:27+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.14495v1",
+      "html_url": "https://arxiv.org/html/2606.14495v1",
+      "entry_url": "http://arxiv.org/abs/2606.14495v1",
+      "relevance": {
+        "relevant": true,
+        "score": 7,
+        "reason": "The paper connects to multiple core interests including dark matter phenomenology, early-universe cosmology structure formation constraints, and explicitly discusses JUNO sensitivity to neutrino signals from DM semi-annihilation, though it does not directly address the researcher's primary topics of PBHs, axions, gravitational waves, or multi-loop calculations.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.14121v1",
+      "base_id": "2606.14121",
+      "title": "Determining Neutrino Mass Ordering with NOvA and Upcoming JUNO Measurements",
+      "authors": [
+        "NOvA Collaboration"
+      ],
+      "abstract": "NOvA has reported a significance of mass ordering determination using ten years of data together with external constraints from reactor-based experiments. The JUNO collaboration is poised to provide a more precise reactor-based constraint on $|Δm^2_{32}|$. In this Letter, we explore the potential impact of this anticipated measurement on the determination of the neutrino mass ordering by NOvA. We find that $3σ$ evidence of the normal ordering is achievable over a range of plausible JUNO measurements within the next five years.",
+      "categories": [
+        "hep-ex",
+        "hep-ph"
+      ],
+      "published": "2026-06-12T05:00:31+00:00",
+      "updated": "2026-06-12T05:00:31+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.14121v1",
+      "html_url": "https://arxiv.org/html/2606.14121v1",
+      "entry_url": "http://arxiv.org/abs/2606.14121v1",
+      "relevance": {
+        "relevant": true,
+        "score": 7,
+        "reason": "This paper directly addresses JUNO phenomenology—one of the user's core neutrino physics interests—by exploring how JUNO's anticipated reactor measurement of |Δm²₃₂| can complement NOvA's long-baseline data to determine the neutrino mass ordering, a key question in neutrino physics.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.14098v1",
+      "base_id": "2606.14098",
+      "title": "Quality control for axions and ALPs",
+      "authors": [
+        "Andrew Cheek",
+        "Andrew Fowlie",
+        "Gonzalo Herrera"
+      ],
+      "abstract": "Axions and axion-like particles (ALPs) are protected by Peccei-Quinn (PQ) symmetries that quantum gravity is expected to break. Modeling quantum gravity by Planck-suppressed PQ-breaking operators with unsuppressed Wilson coefficients and random phases, we quantify the fine-tuning required for an acceptable strong CP phase or a given ALP mass. For the QCD axion to account for the observed dark matter abundance at $f_a \\simeq 10^{11}\\,\\text{GeV}$, PQ-breaking operators must be absent up to mass dimension $D \\gtrsim 12$. We show that the residual strong CP phase could be measurable in upcoming neutron electric dipole moment searches. For ALPs, we map the mass-decay constant plane by the degree of UV protection required, and find that parts of the parameter space targeted by future laboratory experiments are already fine-tuned at the part-per-million level or worse, or equivalently, require PQ quality to be protected up to dimension $D\\gg 10$. We argue that quality, not mass alone, is the central naturalness question for the axion program.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-06-12T04:23:45+00:00",
+      "updated": "2026-06-12T04:23:45+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.14098v1",
+      "html_url": "https://arxiv.org/html/2606.14098v1",
+      "entry_url": "http://arxiv.org/abs/2606.14098v1",
+      "relevance": {
+        "relevant": true,
+        "score": 6,
+        "reason": "This paper addresses axion and ALP theory and dark matter phenomenology, which overlaps with the researcher's stated interest in axion and dark matter physics, though its focus on the PQ quality problem and fine-tuning is somewhat tangential to the researcher's more specific interests in Primakoff solar axion flux, detection strategies, and astrophysical axion production.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2509.04384v2",
+      "base_id": "2509.04384",
+      "title": "Prominence: A discriminator of gravitational wave signals",
+      "authors": [
+        "João Gonçalves",
+        "Danny Marfatia",
+        "António P. Morais"
+      ],
+      "abstract": "The concept of prominence is familiar to signal engineers, topographers and mountaineers. We introduce Prominence $\\cal P$ as a discriminator of gravitational wave (GW) signals. We treat black hole and neutron star binaries as astrophysical background sources, and show how $\\cal P$ can be used to distinguish between GW spectra produced by first-order phase transitions, domain walls and cosmic strings, and combinations thereof. Prominence can also be used to discriminate between these and off-piste sources of GWs. The uncertainty in the measured energy density in GWs at Pulsar Timing Arrays needs to be at the sub-percent to percent level for $\\cal{P}$ to achieve discrimination at 3$σ$. LISA and ET data are expected to have sufficiently small uncertainties that Prominence can play a central role in their analysis. We define and apply a $χ^2$ statistic based on an inner product in signal space to show that sources indistinguishable at $2σ$ using the signal-to-noise ratio can be distinguished using $\\mathcal{P}$ with significances above and in some cases far above $3σ$.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ex"
+      ],
+      "published": "2025-09-04T16:47:32+00:00",
+      "updated": "2026-06-12T19:49:33+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.04384v2",
+      "html_url": "https://arxiv.org/html/2509.04384v2",
+      "entry_url": "http://arxiv.org/abs/2509.04384v2",
+      "relevance": {
+        "relevant": true,
+        "score": 6,
+        "reason": "The paper discusses discrimination of stochastic gravitational-wave backgrounds from early-universe sources (FOPTs, cosmic strings, domain walls), directly overlapping with the user's interest in stochastic GW backgrounds and early-universe cosmology, though it is primarily a methodological/data-analysis tool rather than theoretical particle physics.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.14853v1",
+      "base_id": "2606.14853",
+      "title": "The limits of lattice inflation: a cautionary tale",
+      "authors": [
+        "Will Barker",
+        "Benjamin Gladwyn",
+        "Sebastian Zell"
+      ],
+      "abstract": "Cosmological lattice simulations have become important tools for studying non-perturbative dynamics in the early Universe. Many widely used codes, however, approximate the gravitational background by an exact Friedmann-Lemaître-Robertson-Walker (FLRW) spacetime and neglect metric perturbations. We show that, during inflation, this approximation prevents the freezing of superhorizon modes. During slow roll, the curvature power spectrum decays as $H^4$, while the deviation becomes substantially stronger during ultra-slow roll. As a result, inflationary observables can be significantly distorted. In contrast, reheating studies appear to be considerably less sensitive to the omission of metric perturbations. We propose a practical criterion for assessing the validity of FLRW simulations based on the inclusion of first-order metric perturbations, and implement it in CosmoLattice.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2026-06-12T18:00:03+00:00",
+      "updated": "2026-06-12T18:00:03+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.14853v1",
+      "html_url": "https://arxiv.org/html/2606.14853v1",
+      "entry_url": "http://arxiv.org/abs/2606.14853v1",
+      "relevance": {
+        "relevant": true,
+        "score": 6,
+        "reason": "This paper is relevant to the researcher's interest in early-universe cosmology and cosmic reheating dynamics, as it critically examines the validity of lattice simulations used to study inflation and reheating—including scenarios relevant to primordial black hole formation from enhanced perturbations—though it is primarily a methodological study rather than presenting new physics results.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.14385v1",
+      "base_id": "2606.14385",
+      "title": "High-scale Mirror Standard Model Dark Matter, Dark Phase Transitions and Gravitational Waves Implications",
+      "authors": [
+        "V. K. Oikonomou"
+      ],
+      "abstract": "We consider a scenario for dark matter in the Universe, according to which the dark matter sector is comprised by a dark Standard Model sector which interacts only gravitationally with the ordinary Standard Model sector. This dark Standard Model sector is assumed to have the same symmetries as the ordinary Standard Model, with the couplings and the scale of the mirror Standard Model sector being different than the ordinary Standard Model sector. Specifically, the scale of the mirror Standard Model sector will be assumed to be quite higher compared to the ordinary Standard Model. Also the Yukawa couplings among the mirror Higgs and the mirror fermions are assumed to be different from those of the Standard Model and we examine the effects of the different scale and of the different Yukawas on the evolution of the Universe. As we show, a mirror world phase transition occurs at high temperatures of the baryonic Universe, which can be first order or second order, depending on the scale of the Universe and the Yukawa couplings. These are dark phase transitions which occur quite earlier than the real world Standard Model electroweak phase transition. The case of a second order phase transition is quite interesting phenomenologically, since it can potentially have a direct imprint on the spectrum of stochastic gravitational waves for frequencies probed by the future gravitational wave detectors. Also we examine whether this mirror dark matter world can form atoms and as we show in some scenario the high scale mirror dark matter can have both atomic and subatomic particle components. We also give an approximation of the total equation of state of high scale mirror DM and we discuss how high scale mirror DM can reconcile contradicting observations like the Bullet cluster and the Abell 520 cluster.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2026-06-12T12:19:57+00:00",
+      "updated": "2026-06-12T12:19:57+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.14385v1",
+      "html_url": "https://arxiv.org/html/2606.14385v1",
+      "entry_url": "http://arxiv.org/abs/2606.14385v1",
+      "relevance": {
+        "relevant": true,
+        "score": 5,
+        "reason": "The paper overlaps with the researcher's interests in stochastic gravitational-wave backgrounds and early-universe cosmology through its study of dark phase transitions and their GW signatures, but the specific focus on mirror SM dark matter model-building is tangential to the researcher's core topics of reheating dynamics, PBHs, HNLs, and multi-loop QCD calculations.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2509.26263v2",
+      "base_id": "2509.26263",
+      "title": "Slow-rolling down the curvature: a reassessment of the Planck constraints on $φ^2$ inflation in a closed universe",
+      "authors": [
+        "Enrico Specogna",
+        "Tatevik Vardanyan",
+        "William Giarè",
+        "Eleonora Di Valentino"
+      ],
+      "abstract": "We revisit the Cosmic Microwave Background (CMB) constraints on the spatial curvature of the Universe, assessing how they change when the curvature parameter and the primordial inflationary scalar spectrum are treated consistently within theoretically motivated frameworks. Instead of relying on the phenomenological parametrisation commonly used to capture curvature effects at the largest scales, we present a case study based on closed quadratic inflation, where the primordial spectrum is derived in full generality and in a gauge-invariant manner. Within this framework, we analyze both the $\\texttt{plik}$ PR3 and $\\texttt{CamSpec}$ PR4 Planck CMB likelihoods and find that the constraints on $Ω_{\\mathcal{K}}$ shift towards spatial flatness. In $\\texttt{plik}$ the preference for $Ω_{\\mathcal{K}}<0$ decreases from $\\gtrsim 3.5σ$ to $\\sim 2.5σ$, while in $\\texttt{CamSpec}$ it reduces to $\\sim 2σ$. At large angular scales ($\\ell < 10$), our model explains the low-$\\ell$ power suppression anomaly, notably improving the fit to the quadrupole. However, the reduced preference for highly negative values of $Ω_{\\mathcal{K}}$ only partially accounts for the lensing anomaly at high multipoles, worsening the fit to the $\\texttt{plik}$ spectrum at small scales. By contrast, in the $\\texttt{CamSpec}$ PR4 spectrum, where the lensing anomaly is less pronounced, the model yields an overall improvement. Our analysis highlights a key conceptual point: closed-inflation models tie the curvature parameter to the inflationary dynamics and the primordial spectrum, enforcing consistency conditions that do not necessarily allow for the large deviations from flatness seen in phenomenological parametrisations. In the case of quadratic inflation, these restrictions reduce the apparent evidence for negative curvature reported by earlier analyses, while allowing for a mildly closed geometry.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "published": "2025-09-30T13:49:22+00:00",
+      "updated": "2026-06-12T14:55:56+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.26263v2",
+      "html_url": "https://arxiv.org/html/2509.26263v2",
+      "entry_url": "http://arxiv.org/abs/2509.26263v2",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "The paper addresses early-universe inflationary dynamics and primordial power spectra in a closed universe, which loosely overlaps with the user's early-universe cosmology interests, but its focus on CMB observational constraints and Planck data analysis is tangential to the user's core theoretical interests in reheating, gravitational waves, PBHs, and particle physics phenomenology.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.14996v1",
+      "base_id": "2606.14996",
+      "title": "Domain walls and magnetic monopoles in Grand Unified Models",
+      "authors": [
+        "Harish Hemming",
+        "Tanmay Vachaspati",
+        "Anja Wachowitz"
+      ],
+      "abstract": "Motivated by Grand Unification, we study the formation of magnetic monopoles in an SU(3) non-Abelian gauge theory. We find that the number density of magnetic monopoles depends critically on a parameter, $ε$, that controls the abundance and subsequent decay of biased domain walls. For sufficiently small but non-vanishing values of $ε$, very few monopoles and walls survive in our simulations, potentially solving the cosmological monopole over-abundance problem. In addition, the scenario predicts a stochastic gravitational background from biased domain walls and the possibility of magnetically charged black holes.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "hep-th"
+      ],
+      "published": "2026-06-12T22:36:20+00:00",
+      "updated": "2026-06-12T22:36:20+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.14996v1",
+      "html_url": "https://arxiv.org/html/2606.14996v1",
+      "entry_url": "http://arxiv.org/abs/2606.14996v1",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "The paper touches on early-universe cosmology and stochastic gravitational-wave backgrounds from domain walls, which partially overlap with the researcher's interests, but the core focus on topological defects (monopoles and domain walls in GUT symmetry breaking) falls largely outside their primary research areas in neutrino physics, multi-loop QCD, axion physics, and PBH phenomenology.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.14575v1",
+      "base_id": "2606.14575",
+      "title": "A Supernova Constraint on F-theory",
+      "authors": [
+        "Sebastian Vander Ploeg Fallon",
+        "James Halverson",
+        "Liam McAllister",
+        "David J. E. Marsh"
+      ],
+      "abstract": "We study constraints on the quantum chromodynamics (QCD) axion in F-theory, a strongly coupled limit of string theory. We build models of QCD from compactifications to four dimensions on elliptic fibrations over toric threefolds $B_3$, characterized by an integer $N=h^{1,1}(B_3)$. The QCD axion mass increases with $N$, and we find that models with sufficiently high $N$ are inconsistent with observations of the neutrino burst from supernova 1987A, disfavoring large regions of the moduli space. Specifically, at least $95\\%$ of models with $N \\ge 8,791$ -- a regime that arguably contains the vast majority of known F-theory topologies -- have a QCD axion mass $m_{QCD}>15~meV$ and are thus constrained. This limit is independent of cosmology. We only consider weakly-curved threefolds, where $α'$ corrections are plausibly negligible.",
+      "categories": [
+        "hep-th",
+        "astro-ph.CO",
+        "hep-ph"
+      ],
+      "published": "2026-06-12T15:54:16+00:00",
+      "updated": "2026-06-12T15:54:16+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.14575v1",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2606.14575v1",
+      "relevance": {
+        "relevant": true,
+        "score": 3,
+        "reason": "While the paper involves QCD axion physics and astrophysical constraints, its primary focus on F-theory string compactifications and algebraic geometry of elliptic fibrations is far from the user's axion interests in Primakoff flux calculations and detection phenomenology.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    }
+  ]
+}

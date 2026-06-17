@@ -1,0 +1,85 @@
+{
+  "date": "2025-11-21",
+  "papers": [
+    {
+      "arxiv_id": "2511.16865v2",
+      "base_id": "2511.16865",
+      "title": "Quantum Optical Simulator for Unruh-DeWitt Detector Dynamics",
+      "authors": [
+        "Tai Hyun Yoon"
+      ],
+      "abstract": "We present a quantum-optical platform for simulating relativistic detector-field interactions using entangled nonlinear biphoton sources (ENBSs), realized through phase-controlled single-photon frequency-comb (SPFC) sources. By mapping the dynamical evolution of this system onto the Unruh-DeWitt (UDW) detector model, we show that signal-mode excitations emulate detector transitions driven by vacuum fluctuations, while coherently seeded idler modes act as an effective quantum field. This correspondence enables tabletop exploration of Unruh-like excitation, coherence harvesting, and field-induced entanglement. We derive the effective interaction Hamiltonian and Lindblad master equation for two coherently seeded ENBS units and obtain analytical solutions for the signal photon number \\(N_{\\rm sig}(t)\\) and second-order correlation function \\(g^{(2)}(0;t)\\). Numerical simulations confirm that phase-dependent biphoton dynamics reproduce UDW-type behavior, including tunable excitation and quantum correlations. The output signal state exhibits controllable fidelity, interference visibility, and entanglement entropy as functions of the seeding phase and amplitude. These results establish ENBSs as experimentally accessible quantum simulators of relativistic field phenomena, providing a photonic testbed for analog gravitational effects, vacuum fluctuations, and spacetime-induced coherence-all within reach of current nonlinear-optics technology.",
+      "categories": [
+        "quant-ph",
+        "gr-qc"
+      ],
+      "published": "2025-11-21T00:21:36+00:00",
+      "updated": "2026-04-20T03:28:22+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.16865v2",
+      "html_url": "https://arxiv.org/html/2511.16865v2",
+      "entry_url": "http://arxiv.org/abs/2511.16865v2"
+    },
+    {
+      "arxiv_id": "2511.16971v2",
+      "base_id": "2511.16971",
+      "title": "Probing Dark Matter Substructure with Image Number Anomaly in Strong Lensing Systems",
+      "authors": [
+        "Wenlin Hou",
+        "Jianxiang Liu",
+        "Kai Liao"
+      ],
+      "abstract": "Gravitational lensing observables, including anomalies in image positions, flux ratios, and time delays, serve as usual probes of dark matter (DM) substructure. When dark matter substructure possesses sufficient perturbations, it may lead to the formation of extra images in otherwise canonical doubly or quadruply imaged systems. With the advent of increasingly precise observational instruments, previously undetectable images may become measurable and image number anomalies therefore could be an increasingly viable method. In this paper, we utilize the gravitational lensing phenomenon of image number anomaly to derive constraints on dark matter substructure. We present the extra images induced by distinct forms of DM substructure, specifically primordial black holes (PBHs) and fuzzy dark matter (FDM) and show that higher angular resolution observations increase the probability of detecting additional lensed images. Based on a null detection of image number anomalies in a sample of 3500 lens systems generated from the \\textit{Strong Lensing Halo model-based mock catalogs} (SL-Hammocks), we derive upper limits on the abundance of PBHs. At the 95\\% confidence level, the PBH abundance is constrained to $\\lesssim 0.125\\%$, $0.08\\%$, and $0.04\\%$ for PBH masses in the range $\\sim 10^{7}$--$10^{9}~M_{\\odot}$, corresponding to angular resolutions of $0.1''$, $0.05''$, and $0.01''$, respectively. Similarly, we exclude particle masses below $0.4$, $0.6$, and $3.5 \\times 10^{-22} \\ \\mathrm{eV}$ for FDM at the same confidence level for the respective resolutions. Furthermore, the abundance of PBHs $\\lesssim 0.9\\%$ could be constrained at an angular resolution of $0.5''$ for the Legacy Survey of Space and Time (LSST) Observations. Finally, we discuss methodologies for identifying image number anomalies in special cases and demonstrate feasibility using a fitting procedure.",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.GA"
+      ],
+      "published": "2025-11-21T05:54:26+00:00",
+      "updated": "2026-05-12T02:10:04+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.16971v2",
+      "html_url": "https://arxiv.org/html/2511.16971v2",
+      "entry_url": "http://arxiv.org/abs/2511.16971v2"
+    },
+    {
+      "arxiv_id": "2511.17758v2",
+      "base_id": "2511.17758",
+      "title": "Efficient Search for Detection Candidates Using a Peak Finder Strategy for All-Sky-All-Frequency Gravitational Wave Radiometer",
+      "authors": [
+        "Arindam Sharma",
+        "Deepali Agarwal",
+        "Sanjit Mitra"
+      ],
+      "abstract": "The first all-sky-all-frequency (ASAF) radiometer search was conducted using data from the first three observing runs of the Advanced LIGO and Advanced Virgo detectors. The significance of this search lies in its fast and unmodeled approach, leveraging a cross-correlation technique to identify common signals across the detector network. As a result, this method serves as an excellent alternative to search for unknown or poorly modeled continuous wave sources and narrowband components of the gravitational wave (GW) background. For continuous wave sources whose waveform can be modeled, this method can serve as the first stage of a hierarchical scheme by identifying sub-threshold candidates to be followed up with more optimal but computationally expensive searches. The ASAF search, however, presently suffers from beam smearing, where multiple candidates may arise due to the same noise fluctuations, detector artifact, or a GW source. This can reduce the detection probability in follow-up analyzes, especially with limited computing resources. To mitigate this issue and reduce the number of correlated and unnecessary candidates, we introduce a novel Peak Finder algorithm. This algorithm helps identifying the most representative candidates while preserving detection sensitivity, thereby allowing follow up of a much larger number of independent candidates. The reduction in correlated samples leads to a significant reduction in False Dismissal Rate (FDR) using the Peak Finder method compared to the Full-sky method. For instance, following up 2 Peak Finder candidates at 30 Hz reduces FDR by a factor of 3.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-11-21T20:16:08+00:00",
+      "updated": "2026-05-22T06:05:55+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.17758v2",
+      "html_url": "https://arxiv.org/html/2511.17758v2",
+      "entry_url": "http://arxiv.org/abs/2511.17758v2"
+    },
+    {
+      "arxiv_id": "2511.17067v2",
+      "base_id": "2511.17067",
+      "title": "Exceptional line and pseudospectrum in black hole spectroscopy",
+      "authors": [
+        "Li-Ming Cao",
+        "Ming-Fei Ji",
+        "Liang-Bi Wu",
+        "Yu-Sen Zhou"
+      ],
+      "abstract": "We investigate the exceptional points (EPs) and their pseudospectra in black hole perturbation theory. By considering a Gaussian bump modification to the Regge-Wheeler potential with variable amplitude, position, and width parameters, $(\\varepsilon,d,σ_0)$, a continuous line of EPs (exceptional line, EL) in this three-dimensional parameter space is revealed. Notably, the EL exhibits an anisotropic spectral response: parameters migrating along the EL direction leaves the coalesced QNM spectra nearly unchanged, while moving parameters away from the EL induces the characteristic $ε^{1/2}$ scaling, highlighting the directional nature of spectral instability in exceptional structures. We find that the vorticity $ν=\\pm1/2$ and the Berry phase $γ=π$ for loops encircling the EL, while $ν=0$ and $γ=0$ for those do not encircle the EL. In the neighborhood of an eigenvalue, through matrix perturbation theory, we prove that the $ε$-pseudospectrum contour size scales as $ε^{1/q}$ at an EP , where $q$ is the order of the largest Jordan block of the Hamiltonian-like operator associated with that eigenvalue, contrasting with the linear $ε$ scaling at non-EPs. Numerical implements confirm this observation, demonstrating enhanced spectral instability at EPs for non-Hermitian systems including black holes.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE",
+        "quant-ph"
+      ],
+      "published": "2025-11-21T09:18:15+00:00",
+      "updated": "2026-06-04T07:43:51+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.17067v2",
+      "html_url": "https://arxiv.org/html/2511.17067v2",
+      "entry_url": "http://arxiv.org/abs/2511.17067v2"
+    }
+  ],
+  "total": 4
+}

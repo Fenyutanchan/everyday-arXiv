@@ -1,0 +1,50 @@
+{
+  "date": "2024-10-07",
+  "papers": [
+    {
+      "arxiv_id": "2410.05549v3",
+      "base_id": "2410.05549",
+      "title": "Highly Excited Electron Cyclotron for QCD Axion and Dark-Photon Detection",
+      "authors": [
+        "Xing Fan",
+        "Gerald Gabrielse",
+        "Peter W. Graham",
+        "Harikrishnan Ramani",
+        "Samuel S. Y. Wong",
+        "Yawen Xiao"
+      ],
+      "abstract": "We propose using highly excited cyclotron states of a trapped electron to detect meV axion and dark photon dark matter, marking a significant improvement over our previous proposal and demonstration [Phys. Rev. Lett. 129, 261801]. When the axion mass matches the cyclotron frequency $ω_c$, the cyclotron state is resonantly excited, with a transition probability proportional to its initial quantum number, $n_c$. The sensitivity is enhanced by taking $n_c \\sim 10^6 \\left( \\frac{0.1~\\text{meV}}{ω_c} \\right)^2$. By optimizing key experimental parameters, we minimize the required averaging time for cyclotron detection to $t_{\\text{ave}} \\sim 10^{-6} $ seconds, permitting detection of such a highly excited state before its decay. An open-endcap trap design enables the external photon signal to be directed into the trap, rendering our background-free detector compatible with large focusing cavities, such as the BREAD proposal, while capitalizing on their strong magnetic fields. Furthermore, the axion conversion rate can be coherently enhanced by incorporating layers of dielectrics with alternating refractive indices within the cavity. Collectively, these optimizations enable us to probe the QCD axion parameter space from 0.1 meV to 2.3 meV (25-560 GHz), covering a substantial portion of the predicted post-inflationary QCD axion mass range. This sensitivity corresponds to probing the kinetic mixing parameter of the dark photon down to $ε\\approx 2 \\times 10^{-16}$.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "hep-ex",
+        "physics.atom-ph",
+        "quant-ph"
+      ],
+      "published": "2024-10-07T23:20:18+00:00",
+      "updated": "2026-05-14T22:44:50+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2410.05549v3",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2410.05549v3"
+    },
+    {
+      "arxiv_id": "2410.04666v3",
+      "base_id": "2410.04666",
+      "title": "Positive Conserved Quantities in the Klein-Gordon Equation",
+      "authors": [
+        "Robert Lin"
+      ],
+      "abstract": "We introduce an embedding of the Klein-Gordon equation into a pair of coupled equations that are first-order in time. The existence of such an embedding is based on a positivity property exhibited by the Klein-Gordon equation. These coupled equations provide a more satisfactory reduction of the Klein-Gordon equation to first-order differential equations in time than the Schrodinger equation. Using this embedding, we show that the ``negative probabilities\" associated with the Klein-Gordon equation do not need to be resolved by introducing matrices as Dirac did with his eponymous equation. For the case of the massive Klein-Gordon equation, the coupled equations are equivalent to a forward Schrodinger equation in time and a backward Schrodinger equation in time, respectively, corresponding to a particle and its antiparticle. We show that there are two positive integrals that are conserved (constant in time) in the Klein-Gordon equation and thus provide a concrete resolution of the historical puzzle regarding the previously supposed lack of a probabilistic interpretation for the field governed by the Klein-Gordon equation. A significant consequence is that the Schrodinger equation is given a relativistic formulation, which does not require creation and annihilation operators, i.e. quantum fields. Physically, this corresponds to a theory in which the positive and negative energy parts do not directly interact, hence there will be no annihilation events--for example, particle-antiparticle collisions which do not result in photon emission. Thus, one practical consequence of this relativistically consistent theory is a simple explanation for dark matter.",
+      "categories": [
+        "quant-ph",
+        "hep-th"
+      ],
+      "published": "2024-10-07T00:38:55+00:00",
+      "updated": "2026-06-11T12:38:29+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2410.04666v3",
+      "html_url": "https://arxiv.org/html/2410.04666v3",
+      "entry_url": "http://arxiv.org/abs/2410.04666v3"
+    }
+  ],
+  "total": 2
+}

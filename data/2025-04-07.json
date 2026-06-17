@@ -1,0 +1,51 @@
+{
+  "date": "2025-04-07",
+  "papers": [
+    {
+      "arxiv_id": "2504.04961v4",
+      "base_id": "2504.04961",
+      "title": "Probing gravity with non-linear clustering in redshift space",
+      "authors": [
+        "C. Viglione",
+        "P. Fosalba",
+        "I. Tutusaus",
+        "L. Blot",
+        "J. Carretero",
+        "P. Tallada",
+        "F. Castander"
+      ],
+      "abstract": "We present the first computation of the gravity model testing parameter $E_G$ on realistic simulated modified gravity galaxy mocks. The analysis is conducted using two twin simulations presented in arXiv:1805.09824(1): one based on general relativity (GR) and the other on the $f(R)$ Hu $\\&$ Sawicki model with $f=10^{-5}$ (F5). This study aims to measure the $E_G$ estimator in GR and $f(R)$ models using high-fidelity simulated galaxy catalogs, with the goal of assessing how future galaxy surveys can detect deviations from standard gravity. Deriving this estimator requires precise, unbiased measurements of the growth rate of structure and the linear galaxy bias. We achieve this by implementing an end-to-end cosmological analysis pipeline in configuration space, using the multipoles of the 2-point correlation function. Our analysis demonstrates how to measure the scale-dependent growth rate predicted by non-standard gravity models. We split the estimation of the RSD $β$ parameter over distinct scale ranges, separating large (quasi-linear) and small (non-linear) scales. We show that this estimator can be accurately measured using mock galaxies in low redshift bins ($z < 1$), where it offers strong discriminating power over competing gravity theories. We find that, for an all-sky galaxy survey and neglecting observational systematics, accurate and largely unbiased estimations of $E_G$ can be obtained across all redshifts. However, the error bars are too large to clearly distinguish between the theories. When measuring the scale-dependence of the $E_G$ estimator, we note that state-of-the-art theory modeling limitations and intrinsic \"prior volume effects\" prevent high-accuracy constraints. Alternatively, we propose a null test of gravity using RSD clustering, which, if small scales are modeled accurately in future surveys, could detect significant departures from GR.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2025-04-07T11:49:43+00:00",
+      "updated": "2026-06-08T17:53:16+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2504.04961v4",
+      "html_url": "https://arxiv.org/html/2504.04961v4",
+      "entry_url": "http://arxiv.org/abs/2504.04961v4"
+    },
+    {
+      "arxiv_id": "2504.05373v2",
+      "base_id": "2504.05373",
+      "title": "Classifying Isolated Symplectic Singularities via 3d $\\mathcal{N}=4$ Coulomb Branches",
+      "authors": [
+        "Antoine Bourget",
+        "Quentin Lamouret",
+        "Sinan Moura Soysüren",
+        "Marcus Sperling"
+      ],
+      "abstract": "Based on the Decay and Fission Conjecture, we provide a classification of unitary quivers whose 3d $\\mathcal{N}=4$ Coulomb branches exhibit isolated singularities. This yields the complete list of isolated conical symplectic singularities that can arise in this way. In the process, we identify three new families of stable quivers: two giving rise to previously unknown isolated symplectic singularities, and one offering a novel realization of a known family.",
+      "categories": [
+        "hep-th",
+        "math-ph",
+        "math.AG"
+      ],
+      "published": "2025-04-07T18:00:00+00:00",
+      "updated": "2026-06-15T14:16:36+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2504.05373v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2504.05373v2"
+    }
+  ],
+  "total": 2
+}

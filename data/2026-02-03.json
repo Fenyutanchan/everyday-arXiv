@@ -1,0 +1,213 @@
+{
+  "date": "2026-02-03",
+  "papers": [
+    {
+      "arxiv_id": "2602.04079v2",
+      "base_id": "2602.04079",
+      "title": "Disentangling baryon stopping and neutron skin effects in heavy-ion collisions",
+      "authors": [
+        "Grégoire Pihan",
+        "Volodymyr Vovchenko"
+      ],
+      "abstract": "We analyse the net baryon (B) and net electric charge (Q) stopping in heavy-ion collisions using the statistical model. Focusing first on isobar collisions $\\rm{Ru}+\\rm{Ru}$ and $\\rm{Zr}+\\rm{Zr}$ at $\\sqrt{s_{\\rm NN}}=200$~GeV, we show that the excess baryon-stopping parameter $γ_B \\equiv (N_B/N_Q)\\,(Z/A)$ can be quantitatively extracted from forthcoming RHIC measurements of charge- and baryon-stopping ratios. We then generalize the approach to other collision systems at RHIC and LHC energies and introduce an oxygen-baseline observable, $r^{OX}$, whose central-to-peripheral ratio exhibits strong and systematic sensitivity to the neutron-skin thickness of the target nucleus $X$.",
+      "categories": [
+        "hep-ph",
+        "nucl-ex",
+        "nucl-th"
+      ],
+      "published": "2026-02-03T23:30:33+00:00",
+      "updated": "2026-04-28T17:17:09+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.04079v2",
+      "html_url": "https://arxiv.org/html/2602.04079v2",
+      "entry_url": "http://arxiv.org/abs/2602.04079v2"
+    },
+    {
+      "arxiv_id": "2602.03110v2",
+      "base_id": "2602.03110",
+      "title": "Evidence for deviation in gravitational light deflection from general relativity at cosmological scales with KiDS-Legacy and CMB lensing",
+      "authors": [
+        "Guo-Hong Du",
+        "Tian-Nuo Li",
+        "Tonghua Liu",
+        "Jing-Fei Zhang",
+        "Xin Zhang"
+      ],
+      "abstract": "General relativity (GR) faces challenges from cosmic acceleration and observational tensions, necessitating stringent tests at cosmological scales. In this work, we probe GR deviations via a $μ$--$Σ$ modified gravity parameterization, integrating KiDS-Legacy weak lensing (WL) data (1347 deg$^2$, $z\\leq 2.0$), joint cosmic microwave background (CMB) data from Planck, ACT, and SPT, DESI DR2 baryon acoustic oscillation, and DES-Dovekie supernova data. KiDS-Legacy significantly improves constraint precision: $μ_0$ (matter clustering) by $\\sim 60\\%$ and $Σ_0$ (gravitational light deflection) by $\\sim 43\\%$ relative to CMB alone. In the $Λ$CDM background, $μ_0 = 0.21\\pm 0.21$ is consistent with GR, while $Σ_0 = 0.149\\pm 0.051$ deviates from GR at the 3.0$σ$ level. Furthermore, within the observationally preferred $w_0w_a$CDM background, this deviation in gravitational light deflection persists at the 2.2$σ$ level. This deviation is likely driven by the higher amplitudes in the large-scale CMB lensing measurements. This precise separation of GR-consistent matter clustering and deviant light deflection provides key observational clues for new physics or data systematics. Our work underscores the critical role of synergizing high-precision CMB and WL data in advancing GR tests.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2026-02-03T05:11:50+00:00",
+      "updated": "2026-04-28T09:37:14+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.03110v2",
+      "html_url": "https://arxiv.org/html/2602.03110v2",
+      "entry_url": "http://arxiv.org/abs/2602.03110v2"
+    },
+    {
+      "arxiv_id": "2602.03441v2",
+      "base_id": "2602.03441",
+      "title": "Symmetries and Higher-Form Connections in Derived Differential Geometry",
+      "authors": [
+        "Severin Bunk",
+        "Lukas Müller",
+        "Joost Nuiten",
+        "Richard J. Szabo"
+      ],
+      "abstract": "We introduce a general definition of higher-form connections on principal $\\infty$-bundles in differential geometry. This is achieved by developing the formal differentiation and integration of maps from smooth manifolds to derived stacks with sufficient deformation theory. That allows us to introduce the Atiyah $L_\\infty$-algebroid of a principal $\\infty$-bundle and establish its global sections as the $L_\\infty$-algebra of the derived higher symmetry group of the bundle. We define the space of $p$-form connections on an $\\infty$-bundle as the space of order $p$ splittings of its Atiyah $L_\\infty$-algebroid. This can be cast equivalently as lifting the classifying map of a bundle on a manifold to the order $p$ truncation of the de Rham stack of the manifold. We demonstrate that our new concept of derived geometric $p$-form connections recovers the known notion of connections on higher U(1)-bundles defined via Čech-Deligne differential cocycles. We further relate the $L_\\infty$-algebras of derived higher symmetries of higher U(1)-bundles and higher Courant algebroids. Some applications in higher gauge theory and in supergravity are mentioned.",
+      "categories": [
+        "math.DG",
+        "hep-th",
+        "math-ph",
+        "math.AG",
+        "math.AT"
+      ],
+      "published": "2026-02-03T12:04:46+00:00",
+      "updated": "2026-05-05T15:45:12+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.03441v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2602.03441v2"
+    },
+    {
+      "arxiv_id": "2602.03961v2",
+      "base_id": "2602.03961",
+      "title": "On the importance of radiation-era initial conditions for tensor perturbations",
+      "authors": [
+        "Dražen Glavan",
+        "Juraj Klarić",
+        "Philipp Klose",
+        "Ignacy Sawicki"
+      ],
+      "abstract": "Conservation of super-horizon tensor fluctuations is crucial for connecting inflation to observations. Starting from first principles, recent works have found violations of this conservation if free-streaming radiation is produced during reheating. We show that the non-conservation is sensitive to the radiation initial state, and argue that the physical state should be affected by tensor perturbations that are already present during reheating. The deviation from super-horizon conservation is then negligible, recovering the standard result from kinetic theory. In contrast, a globally homogeneous and isotropic plasma state leads to a large suppression of tensor amplitudes. This difference between the local (physical) and global thermal equilibrium settles the discrepancy between the older and recent literature.",
+      "categories": [
+        "hep-th",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "published": "2026-02-03T19:22:57+00:00",
+      "updated": "2026-05-14T14:47:50+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.03961v2",
+      "html_url": "https://arxiv.org/html/2602.03961v2",
+      "entry_url": "http://arxiv.org/abs/2602.03961v2"
+    },
+    {
+      "arxiv_id": "2602.03540v2",
+      "base_id": "2602.03540",
+      "title": "Finite time pseudo-rip singularity in cosmology",
+      "authors": [
+        "Mariusz P. Dąbrowski",
+        "Teodor Borislavov Vasilev"
+      ],
+      "abstract": "By studying first a new decelerating sudden future singularity (SFS) universe we report finding a novel type of cosmological singularity which we dub a finite time pseudo-rip (FTPR) because unlike for a pseudo-rip, it happens in the finite future of the universe. In contrast to the new SFS model, where the expansion is decelerating before reaching the pressure singularity, the FTPR scenario is preceded by a super-accelerated phantom phase. Our claim is based on the thorough study of the energy conditions showing the violations of all of them for a FTPR, and only the dominant energy one for an SFS. Application of the so-called Raychaudhuri averaging shows that, alike within the requirement of geodesic completeness, these singularities are weak in the sense of this definition. We study the properties of the models including the behaviour of the cosmological horizons presented in the appropriate Penrose diagrams. Finally, we introduce a FTPR model containing standard radiation and dust fluids that can mimic the past expansion history of $Λ$CDM though facing a future pressure singularity.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2026-02-03T13:56:44+00:00",
+      "updated": "2026-05-16T11:44:30+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.03540v2",
+      "html_url": "https://arxiv.org/html/2602.03540v2",
+      "entry_url": "http://arxiv.org/abs/2602.03540v2"
+    },
+    {
+      "arxiv_id": "2602.03365v2",
+      "base_id": "2602.03365",
+      "title": "Note on higher spins and holographic symmetry algebra",
+      "authors": [
+        "Shamik Banerjee",
+        "Suman Guchait",
+        "Raju Mandal",
+        "Sudhakar Panda"
+      ],
+      "abstract": "In this paper we discuss a higher spin extension of the holographic symmetry algebra for graviton and gluon. Our primary observation is that in the presence of higher spin particles the soft symmetry algebra has a subalgebra isomorphic to $w_{\\infty}$ which is generated by the \\textit{conformally soft higher spin particles}. This $w_{\\infty}$ subalgebra does not commute with the $w_{1+\\infty}$ subalegbra generated by the conformally soft gravitons. The same thing holds for the colored higher spin particles. One gets a subalgebra isomorphic to the $S$-algebra which is generated by the conformally soft colored higher spin particles. We further verify the soft algebra for colored higher spin particles using the (tree-level) $4$-point MHV amplitude of the higher spin Yang-Mills theory constructed in arXiv:2210.07130. At the end we also discuss the higher spin extension of the deformed holographic symmetry algebra for non-zero cosmological constant as constructed in arXiv:2312.00876.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2026-02-03T10:36:29+00:00",
+      "updated": "2026-05-22T05:48:37+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.03365v2",
+      "html_url": "https://arxiv.org/html/2602.03365v2",
+      "entry_url": "http://arxiv.org/abs/2602.03365v2"
+    },
+    {
+      "arxiv_id": "2602.03050v6",
+      "base_id": "2602.03050",
+      "title": "Reissner Nordstrom black holes with integrable singularity interiors supported by string distributions",
+      "authors": [
+        "Milko Estrada"
+      ],
+      "abstract": "The Reissner Nordstrom (RN) black hole is characterized by two well known pathologies: a central singularity and an inner horizon associated with instabilities and a potential loss of predictability. In this work, we show that the RN exterior geometry can arise from an interior spacetime containing an integrable singularity but no inner horizon. In this scenario, tidal forces remain finite near the origin, allowing nondestructive radial infall, while the conventional description in terms of a pointlike mass is replaced by an extended matter distribution. To illustrate this possibility, we provide explicit realizations of such an interior region based on string distributions, namely a cloud of strings (CS) and a newly defined fluid of strings (FS). While the standard cloud of strings model leads to a divergence in the conserved energy associated with timelike Killing vectors, the proposed FS model can be interpreted as a geometrically screened version of the string cloud distribution and admits configurations that, when extended to infinity, describe black holes with finite conserved energy. Physical consistency between the interior region and the RN exterior geometry requires the continuity of temperature across the interface, implying thermal equilibrium between the two regions, while discontinuities in the tangential pressure can signal gravitational phase transitions. These results determine the physical conditions under which string based interior distributions can consistently generate the RN exterior geometry and clarify the circumstances under which phase transitions at the event horizon may arise.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2026-02-03T03:18:45+00:00",
+      "updated": "2026-05-25T01:42:27+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.03050v6",
+      "html_url": "https://arxiv.org/html/2602.03050v6",
+      "entry_url": "http://arxiv.org/abs/2602.03050v6"
+    },
+    {
+      "arxiv_id": "2602.03934v2",
+      "base_id": "2602.03934",
+      "title": "Dynamical Systematics for Time Delay Lenses and the Impact on the Hubble Constant",
+      "authors": [
+        "R. Forés-Toribio",
+        "C. S. Kochanek",
+        "J. A. Muñoz"
+      ],
+      "abstract": "While time-delay lenses can independently probe $H_0$, the estimates are degenerate with the convergence of the lens near the Einstein radius. Velocity dispersions, $σ$, can be used to break the degeneracy, with uncertainties $ΔH/H_0 \\propto Δσ^2/σ^2$ ultimately limited by systematic uncertainties in the kinematic measurements - measuring $H_0$ to 2\\% requires $Δσ^2/σ^2 < 2\\%$. Here we explore a broad range of potential systematic uncertainties affecting eight time-delay lenses used in cosmological analyses. We find that: (1) The characterization of the PSF in both absolute scale and shape is important, with biases in $Δσ^2/σ^2$ up to $1$-$5\\%$ for ground-based observations. Small miscenterings of the lens are less important. (2) The difference between the measured velocity dispersion and the mean square velocity needed for the Jeans equations is important, with up to $Δσ^2/σ^2 \\sim 2$-$6\\%$. (3) The choice of anisotropy models is important with maximum changes of $Δσ^2/σ^2 \\sim2$-$18\\%$. Biases may be minimized by using models that reproduce the $h_4$ velocity moments typical of early-type galaxies. (4) Small differences between the true stellar mass distribution and the model light profile matter ($Δσ^2/σ^2 \\sim 1$-$10\\%$), with radial color gradients further complicating the problem. The Jeans equations for mixed stellar populations imply that the correct profile is a population line equivalent width weighting corresponding to no broad band filter profile. Finally, the homogeneity of the early-type galaxy population means that many dynamically related parameters must be marginalized over the lens sample as a whole and not over individual lenses.",
+      "categories": [
+        "astro-ph.GA",
+        "astro-ph.CO"
+      ],
+      "published": "2026-02-03T19:00:04+00:00",
+      "updated": "2026-06-08T15:52:14+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.03934v2",
+      "html_url": "https://arxiv.org/html/2602.03934v2",
+      "entry_url": "http://arxiv.org/abs/2602.03934v2"
+    },
+    {
+      "arxiv_id": "2602.04055v3",
+      "base_id": "2602.04055",
+      "title": "A simple mechanism for the enhancement of the inflationary power spectrum",
+      "authors": [
+        "I. Dalianis",
+        "A. Katsis",
+        "N. Tetradis"
+      ],
+      "abstract": "The background evolution in two-field inflation can feature two distinct stages, corresponding to the evolution along two successive field directions. When the second stage occurs at a significantly lower energy scale, the inflationary trajectory includes a sharp transition, accompanied by a series of rapid turns in field space. Fluctuations crossing the Hubble horizon during this turning phase can experience amplification by several orders of magnitude. This mechanism is very intuitive and can be implemented even in simple two-field models. It produces a peak in the scalar power spectrum that can lead to significant abundances of primordial black holes and secondary gravitational waves.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2026-02-03T22:41:10+00:00",
+      "updated": "2026-06-06T18:30:11+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.04055v3",
+      "html_url": "https://arxiv.org/html/2602.04055v3",
+      "entry_url": "http://arxiv.org/abs/2602.04055v3"
+    },
+    {
+      "arxiv_id": "2602.03933v2",
+      "base_id": "2602.03933",
+      "title": "Electromagnetic Couplings of Dark Domain Walls",
+      "authors": [
+        "Nemanja Kaloper"
+      ],
+      "abstract": "We extend Maxwell electrodynamics with a Chern--Simons coupling to a dark sector top form sourced by domain walls. Cosmic birefringence can arise from a distinct mechanism in which photon polarization is rotated when crossing vacuum interfaces, rather than through adiabatic propagation in a background field. Ultrathin walls induce a finite, frequency-independent polarization rotation generated by an electromagnetic Chern-Simons term localized at the interface. The effect persists even in the absence of ultralight axions or other propagating scalar degrees of freedom. For phenomenologically viable parameters, such walls can generate cosmic microwave background polarization rotation at the level $Δ\\vartheta \\sim 10^{-3}$ rad, providing a signature of the topological structure of the dark-sector vacuum.",
+      "categories": [
+        "hep-th",
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "published": "2026-02-03T19:00:03+00:00",
+      "updated": "2026-06-11T16:00:01+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.03933v2",
+      "html_url": "https://arxiv.org/html/2602.03933v2",
+      "entry_url": "http://arxiv.org/abs/2602.03933v2"
+    }
+  ],
+  "total": 10
+}

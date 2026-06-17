@@ -1,0 +1,888 @@
+{
+  "date": "2026-06-10",
+  "total": 28,
+  "papers": [
+    {
+      "arxiv_id": "2606.11725v1",
+      "base_id": "2606.11725",
+      "title": "Bayesian Constraints on Inverse-Tangent Inflation with Constant-EOS Reheating and a Dynamical Reheating Analysis",
+      "authors": [
+        "Mayur Abhisheki",
+        "Prasanta Kumar Das"
+      ],
+      "abstract": "We perform a Bayesian inference analysis of an inflationary model based on an inverse-tangent potential, incorporating reheating dynamics in both constant and dynamical equation-of-state (DEOS) frameworks. Using Planck and ACT constraints on the scalar spectral index, we find preferred values $κ\\simeq0.5-0.6$ and $N_k\\simeq40-60$, leading to reheating temperatures $T_{RH}\\sim10^{10}-10^{14}$ GeV and reheating durations $N_{RH}\\sim3-36$ e-folds. Reheating weighted $H_0$ posteriors shift the Planck inference towards the ACT preferred region through the intrinsic $n_s-H_0$ degeneracy of the CMB likelihood. In the DEOS framework, reheating with a constant decay rate yields $N_{RH}\\simeq4-8$ e-folds and $T_{RH}\\simeq10^{13}$ GeV, while a dynamical decay rate produces a strong dependence on the Yukawa coupling $y$, with $N_{RH}$ varying from $\\mathcal{O}(30)$ to $\\mathcal{O}(1)$ e-folds and the reheating temperature spanning $\\sim10^{-2}-10^{14}$ GeV. Imposing inflation-reheating consistency significantly restricts the viable parameter space to a narrow region around $n_s\\simeq0.9720-0.9725$ and $r\\simeq0.026-0.060$, demonstrating that reheating dynamics provide a nontrivial bridge between early-universe inflation and late-time cosmological parameter inference.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2026-06-10T06:59:06+00:00",
+      "updated": "2026-06-10T06:59:06+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.11725v1",
+      "html_url": "https://arxiv.org/html/2606.11725v1",
+      "entry_url": "http://arxiv.org/abs/2606.11725v1",
+      "relevance": {
+        "relevant": true,
+        "score": 9,
+        "reason": "The paper directly investigates cosmic reheating dynamics—a specifically listed core research interest—by analyzing constant and dynamical equation-of-state frameworks to determine reheating temperatures and durations in an early-universe inflationary context.",
+        "pass_number": 1,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.12519v1",
+      "base_id": "2606.12519",
+      "title": "Observing Cosmic Reheating with the expanded Simons Observatory",
+      "authors": [
+        "Lei Ming",
+        "Marco Drewes"
+      ],
+      "abstract": "The Simons Observatory will be extended by three Small Aperture Telescopes by 2027, increasing the total number of these instruments to six. We study the prospects for probing the reheating temperature and the inflaton coupling with this configuration, assuming a discovery of primordial gravitational waves in benchmark scenarios with a tensor-to-scalar ratio r=0.0036 or r=0.01. In popular plateau models of inflation, such an observation would fix the scale of inflation and enable determination of the order of magnitude of the reheating temperature and the inflaton interactions. For QCD-driven Warm Inflation the reheating temperature and inflaton coupling to gluons could, under optimistic assumptions, be measured with a precision of a few percent. Such a measurement would imply a clear prediction for complementary inflaton searches in axion experiments, paving the way toward probing the mechanism responsible for the initial conditions of the hot Big Bang in the laboratory.",
+      "categories": [
+        "astro-ph.CO",
+        "hep-ph"
+      ],
+      "published": "2026-06-10T18:00:01+00:00",
+      "updated": "2026-06-10T18:00:01+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.12519v1",
+      "html_url": "https://arxiv.org/html/2606.12519v1",
+      "entry_url": "http://arxiv.org/abs/2606.12519v1",
+      "relevance": {
+        "relevant": true,
+        "score": 9,
+        "reason": "This paper directly addresses cosmic reheating dynamics and primordial gravitational waves, which are core research interests, and additionally connects to axion experiments relevant to the user's axion physics work.",
+        "pass_number": 1,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.12408v1",
+      "base_id": "2606.12408",
+      "title": "When direct detection constrains reheating temperature: freeze-in with stronger couplings and inflaton-seeded freeze-in",
+      "authors": [
+        "Xavier Bertou",
+        "Olivier Deligny",
+        "Mathieu Gross",
+        "Yann Mambrini",
+        "Issam-Eddine Mellouki"
+      ],
+      "abstract": "Recent results from the DAMIC-M and PandaX collaborations have excluded the standard freeze-in production of dark matter for masses in the range $3~\\mathrm{MeV} \\lesssim m_χ\\lesssim 1~\\mathrm{GeV}$ in the context of extensions of the Standard Model featuring an additional ultra-light $U(1)_{\\rm X}$ gauge boson. In this work, we analyze the constraints induced by DAMIC-M and PandaX results on the reheating temperature in freeze-in models at stronger coupling, or when a non-thermal source (such as inflaton decay) comes into play. We identify viable scenarios in which the DM relic abundance is correctly reproduced while evading current experimental bounds on the electron-scattering cross section, $\\overlineσ_\\mathrm{e}$. In particular, we show that for reheating temperatures below the electroweak scale, Boltzmann suppressed production can be compensated by stronger couplings, bringing freeze-in scenarios within present experimental reach. Finally, we study a hybrid scenario in which a small branching ratio of inflaton decay seeds a nonzero initial dark-matter abundance. We show that such contributions can significantly modify freeze-in predictions across broad regions of parameter space, offering an additional pathway for probing extremely feeble interactions.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "published": "2026-06-10T17:59:43+00:00",
+      "updated": "2026-06-10T17:59:43+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.12408v1",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2606.12408v1",
+      "relevance": {
+        "relevant": true,
+        "score": 8,
+        "reason": "The paper directly addresses cosmic reheating dynamics (constraints on reheating temperature from dark matter production) and inflaton decay physics, both of which are core interests in your early-universe cosmology research profile.",
+        "pass_number": 1,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2511.03794v2",
+      "base_id": "2511.03794",
+      "title": "Primordial Dirac Leptogenesis",
+      "authors": [
+        "Aqeel Ahmed",
+        "Juan P. Garcés",
+        "Manfred Lindner"
+      ],
+      "abstract": "We present a novel realization of Dirac leptogenesis based on the post-inflationary reheating phase of the early universe. An asymmetry generated within the scalar sector via CP-violating and out-of-equilibrium inflaton decays is transferred to chiral neutrinos through Yukawa interactions and then to baryons via electroweak sphalerons. We describe in detail a minimal realization of this mechanism that naturally accommodates small neutrino Yukawa couplings and results in contributions to the effective number of relativistic species, $N_{\\text{eff}}$, testable in upcoming cosmological observations.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-11-05T19:00:19+00:00",
+      "updated": "2026-06-10T13:53:35+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.03794v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2511.03794v2",
+      "relevance": {
+        "relevant": true,
+        "score": 8,
+        "reason": "This paper directly connects to multiple core interests: early-universe reheating dynamics and out-of-equilibrium inflaton decays, neutrino physics through chiral neutrinos and Yukawa interactions, and cosmological observables through testable contributions to $N_\\text{eff}$.",
+        "pass_number": 1,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2511.16196v3",
+      "base_id": "2511.16196",
+      "title": "Probing quark-lepton correlation in GUTs with high-precision neutrino measurements",
+      "authors": [
+        "Zi-Qiang Chen",
+        "Gao-Xiang Fang",
+        "Ye-Ling Zhou"
+      ],
+      "abstract": "GUTs unify quarks and leptons into same representations and predict correlations between their masses and mixing. We perform numerical scans in SO(10) GUTs to explore the flavor space with new data of JUNO taken into account. The quark-lepton correlation shows the preference of normal ordering for light neutrino masses, predicts favored region of the CP-violating phase in neutrino oscillations, and classifies GUT models based on their testability in neutrinoless double beta decay experiments. The quark-lepton correlation predicts mass spectrum of right-handed neutrinos, pointing to the energy scale of baryon and lepton number violation and providing sources for baryogenesis. We emphasize that, as high precision measurements of neutrino physics are coming, the quark-lepton correlation will provide increasingly important role in the testability of GUTs, complementary to proton decay measurements.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-11-20T10:01:57+00:00",
+      "updated": "2026-06-10T13:26:46+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.16196v3",
+      "html_url": "https://arxiv.org/html/2511.16196v3",
+      "entry_url": "http://arxiv.org/abs/2511.16196v3",
+      "relevance": {
+        "relevant": true,
+        "score": 8,
+        "reason": "This paper directly addresses JUNO phenomenology—a core interest of the researcher—by incorporating JUNO's latest measurements of sin²θ₁₂ and Δm²₂₁ to constrain SO(10) GUT models, and it also connects to the researcher's interests in heavy neutral leptons through its predictions of right-handed neutrino mass spectra and implications for leptogenesis.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.11929v1",
+      "base_id": "2606.11929",
+      "title": "Nonminimal couplings and preheating effects in $R^2$-Higgs inflation after ACT and SPT",
+      "authors": [
+        "Haneesh Gonuguntla",
+        "Tanmoy Modak",
+        "Arnab Samanta"
+      ],
+      "abstract": "We study the effects of dimension-four and dimension-six nonminimal Higgs couplings to the Ricci scalar $R$ in the $R^2$-Higgs inflation model in light of the recent ACT and SPT observations. We show that the dimension-six operators $|Φ|^2 R^2$ and $|Φ|^4 R$ can accommodate the enhanced scalar spectral index $n_s$ preferred by the combined CMB+BAO analyses. Using a doubly covariant formalism, we find that the same region of parameter space that explains the observed value of $n_s$ can also induce rapid preheating through the production of the Goldstone modes. If thermalization proceeds efficiently through this preheating mechanism, it may help match the inflationary scale with the CMB reference scale.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "published": "2026-06-10T11:03:14+00:00",
+      "updated": "2026-06-10T11:03:14+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.11929v1",
+      "html_url": "https://arxiv.org/html/2606.11929v1",
+      "entry_url": "http://arxiv.org/abs/2606.11929v1",
+      "relevance": {
+        "relevant": true,
+        "score": 8,
+        "reason": "This paper is highly relevant to the researcher's core interest in early-universe cosmology, specifically cosmic reheating dynamics, as it studies preheating through Goldstone mode production and thermalization in R²-Higgs inflation with nonminimal couplings.",
+        "pass_number": 1,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.12312v1",
+      "base_id": "2606.12312",
+      "title": "Sensitivity to top-quark couplings in diboson production at lepton colliders",
+      "authors": [
+        "Eugenia Celada",
+        "Víctor Miralles",
+        "Eleni Vryonidou"
+      ],
+      "abstract": "We study the next-to-leading order electroweak corrections to $e^+e^- \\rightarrow W^+W^-$ from dimension-six two-fermion top-quark operators in the Standard Model Effective Field Theory. We compute analytical and numerical results for future electron-positron colliders, focusing on the proposed LEP3 and FCC-ee that will operate at centre-of-mass energies below the $t \\bar{t}$ production threshold. We compare the indirect sensitivity arising from virtual corrections to $WW$ production to that from $ZH$ production, and to the current constraints from LEP and LHC data. We show that NLO corrections can provide competitive sensitivity to these operators. This work represents a first step towards the systematic computation of electroweak corrections to $W$-pair production at lepton colliders in the SMEFT, whose impact can then be properly assessed in global analyses.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-06-10T16:46:01+00:00",
+      "updated": "2026-06-10T16:46:01+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.12312v1",
+      "html_url": "https://arxiv.org/html/2606.12312v1",
+      "entry_url": "http://arxiv.org/abs/2606.12312v1",
+      "relevance": {
+        "relevant": true,
+        "score": 7,
+        "reason": "This paper is directly relevant to the user's interest in electroweak precision calculations for future Higgs factories, computing NLO SMEFT corrections to e+e- → W+W- and e+e- → ZH at FCC-ee and LEP3, though it focuses on one-loop SMEFT corrections rather than the user's primary two-loop SM calculations.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2507.20830v2",
+      "base_id": "2507.20830",
+      "title": "Probing the axion-electron coupling at cavity experiments",
+      "authors": [
+        "Deog Ki Hong",
+        "Sang Hui Im",
+        "Jinsu Kim",
+        "TaeHun Kim",
+        "SungWoo Youn"
+      ],
+      "abstract": "Axion dark matter induces electromagnetic radiation in conductors through nearly perpetual oscillations of electrons, driven by axion-electron interactions through the so-called chiral magnetic effect. It therefore provides a complementary probe of the axion-electron coupling $g_{ae}$ beyond the conventional axion-photon coupling $g_{a γ}$ in cavities. We show that existing axion cavity experiments can constrain the coupling to $g_{ae}\\lesssim 10^{-5}$ over the scanned axion mass ranges, $1\\,μ\\, {\\rm eV}\\lesssim m_a\\lesssim 20\\,μ\\,{\\rm eV}$. Although we find that the radiation due to $g_{ae}$ at the copper cavity surface of electric conductivity $σ$ is suppressed by $m_a^2/σ^2\\sim 10^{-20}$, compared to the radiation inside the cavity by the axion-photon conversion due to $g_{aγ}$, a sensitivity of about $10^{-9}$ could be achieved for $g_{ae}$ over a wider range of $m_a$, including values higher than those previously probed, if copper walls are replaced with carbon-based conductors.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2025-07-28T13:35:46+00:00",
+      "updated": "2026-06-10T07:06:21+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2507.20830v2",
+      "html_url": "https://arxiv.org/html/2507.20830v2",
+      "entry_url": "http://arxiv.org/abs/2507.20830v2",
+      "relevance": {
+        "relevant": true,
+        "score": 7,
+        "reason": "The paper proposes a novel axion detection strategy by probing the axion-electron coupling through chiral magnetic effects in cavity experiments, which aligns directly with the user's core interest in axion detection strategies and axion-dark matter phenomenology.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.12584v1",
+      "base_id": "2606.12584",
+      "title": "The $μ$-extension of iterated integrals and nested sums",
+      "authors": [
+        "J. Blümlein",
+        "A. M. Gavrilik",
+        "U. Y. Lunga",
+        "O. Mykhailiv"
+      ],
+      "abstract": "The analytic integration of single-scale Feynman integrals emerging in perturbative calculations in quantum field theories can be performed within special classes of functions, which appear as consecutive generalizations of the polylogarithm in form of Kummer-Poincaré iterative integrals over special alphabets and extensions thereof. These are the polylogarithms, Nielsen integrals, the iterated integrals over linear denominator terms, cyclotomic letters, letters induced by quadratic forms, and square-root valued letters. These integrals are solutions of first-order factorizing differential equations. They are related to specific nested sums via the Mellin transform and their expansions around $x=0$. We construct the $μ$-extensions of these iterated integrals and the associated nested sums. We present closed form solutions or provide algorithms in the case of more involved cases to derive the respective $μ$-extensions and study the algebras of the $μ$-extended function spaces. Except for the case of square-root valued alphabets, the $μ$-extension maps into the same function space polynomially in $μ$. This is also the case for the associated nested sums. For square-root valued alphabets or sums containing central binomials, the $μ$-extension leads to higher transcendental functions. In all other cases the $μ$-extension preserves the Hopf algebra structure implied by the (quasi)shuffle product, by supplementing $μ$ to the ground field.",
+      "categories": [
+        "hep-th",
+        "math-ph",
+        "math.QA"
+      ],
+      "published": "2026-06-10T18:32:31+00:00",
+      "updated": "2026-06-10T18:32:31+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.12584v1",
+      "html_url": "https://arxiv.org/html/2606.12584v1",
+      "entry_url": "http://arxiv.org/abs/2606.12584v1",
+      "relevance": {
+        "relevant": true,
+        "score": 7,
+        "reason": "The paper deals with harmonic polylogarithms, nested sums, and differential equation methods for Feynman integrals—all directly relevant to the researcher's multi-loop perturbative QCD and computational tool interests—though the specific focus on μ-extensions is a specialized mathematical direction not explicitly listed in the researcher's profile.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2509.03441v3",
+      "base_id": "2509.03441",
+      "title": "Boomerang mechanism explaining the excess radio background",
+      "authors": [
+        "Bhupal Dev",
+        "Pasquale Di Bari",
+        "Ivan Martinez-Soler",
+        "Rishav Roshan"
+      ],
+      "abstract": "We propose a boomerang mechanism for the explanation of the excess radio background detected by ARCADE 2. In an early stage of the Universe, at a temperature $T$ in the range $\\sim 0.1\\,{\\rm keV}$--$1\\,{\\rm MeV}$, a fraction of relic neutrinos is resonantly converted into dark neutrinos by mixing induced by a pre-existing lepton asymmetry. Dark neutrinos decay much later into a dark-standard photon state and a dark fermion, with a lifetime longer than the age of the Universe, as required by a solution to the excess radio background. This scenario circumvents the upper bound on the neutrino magnetic moment but still implies a testable lower bound.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "published": "2025-09-03T16:09:49+00:00",
+      "updated": "2026-06-10T18:07:40+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.03441v3",
+      "html_url": "https://arxiv.org/html/2509.03441v3",
+      "entry_url": "http://arxiv.org/abs/2509.03441v3",
+      "relevance": {
+        "relevant": true,
+        "score": 7,
+        "reason": "The paper is relevant to the researcher's interests in neutrino physics (dark neutrinos with dark decays, active-sterile oscillations), early-universe cosmology (neutrino conversions at keV–MeV temperatures, lepton asymmetry generation, BBN constraints), and JUNO phenomenology is explicitly mentioned as a probe of the predicted parameter space for active-sterile mixing.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.11923v1",
+      "base_id": "2606.11923",
+      "title": "Gamma-Ray Constraints on Heavy Axion-Like-Particle Decays from Fermi-LAT and H.E.S.S. Blazar Spectra",
+      "authors": [
+        "A. Acharyya",
+        "F. Aharonian",
+        "M. Backes",
+        "R. Batzofin",
+        "Y. Becherini",
+        "S. Bisero",
+        "M. Böttcher",
+        "C. Boisson",
+        "J. Bolmont",
+        "F. Brun",
+        "C. Burger-Scheidlin",
+        "T. Bylund",
+        "S. Casanova",
+        "D. Cecchin Momesso",
+        "M. Cerruti",
+        "A. Chen",
+        "M. Chernyakova",
+        "J. O. Chibueze",
+        "O. Chibueze",
+        "T. Collins",
+        "B. Cornejo",
+        "G. Cotter",
+        "G. Cozzolongo",
+        "J. de Assis Scarpin",
+        "M. de Naurois",
+        "E. de Oña Wilhelmi",
+        "A. Deka Baruah",
+        "A. Dmytriiev",
+        "K. Egberts",
+        "K. Egg",
+        "C. Escañuela Nieves",
+        "K. Feijen",
+        "M. D. Filipović",
+        "G. Fontaine",
+        "S. Funk",
+        "S. Gabici",
+        "Y. A. Gallant",
+        "M. Genaro",
+        "P. Geneste",
+        "J. F. Glicenstein",
+        "P. Goswami",
+        "C. Grimaud",
+        "L. Heckmann",
+        "B. Heß",
+        "J. A. Hinton",
+        "W. Hofmann",
+        "T. L. Holch",
+        "M. Holler",
+        "M. Jamrozy",
+        "F. Jankowsky",
+        "I. Jaroschewski",
+        "I. Jung-Richardt",
+        "D. Kerszberg",
+        "B. Khélifi",
+        "N. Komin",
+        "D. Kostunin",
+        "R. G. Lang",
+        "S. Lazarević",
+        "M. Lemoine-Goumard",
+        "J. -P. Lenain",
+        "P. Liniewicz",
+        "A. Luashvili",
+        "J. Mackey",
+        "D. Malyshev",
+        "D. Malyshev",
+        "V. Marandon",
+        "M. G. F. Mayer",
+        "A. Mehta",
+        "M. Meyer",
+        "A. M. W. Mitchell",
+        "R. Moderski",
+        "L. Mohrmann",
+        "A. Montanari",
+        "E. Moulin",
+        "J. Niemiec",
+        "L. Olivera-Nieto",
+        "M. O. Moghadam",
+        "M. Panter",
+        "R. D. Parsons",
+        "D. Pastuszka Malek",
+        "P. Pichard",
+        "S. Pita",
+        "S. Porras-Bedmar",
+        "T. Preis",
+        "G. Pühlhofer",
+        "M. Punch",
+        "A. Quirrenbach",
+        "A. Reimer",
+        "O. Reimer",
+        "H. X. Ren",
+        "B. Reville",
+        "F. Rieger",
+        "G. Roellinghoff",
+        "G. Rowell",
+        "B. Rudak",
+        "K. Sabri",
+        "V. Sahakian",
+        "A. Santangelo",
+        "M. Sasaki",
+        "F. Schüssler",
+        "J. N. S. Shapopi",
+        "W. Si Said",
+        "Ł. Stawarz",
+        "R. Steenkamp",
+        "S. Steinmassl",
+        "T. Tanaka",
+        "A. M. Taylor",
+        "G. L. Taylor",
+        "R. Terrier",
+        "Y. Tian",
+        "T. Unbehaun",
+        "C. van Eldik",
+        "M. Vecchi",
+        "J. Vink",
+        "V. Voitsekhovskyi",
+        "T. Wach",
+        "S. J. Wagner",
+        "A. Wierzcholska",
+        "M. Zacharias",
+        "A. Zech",
+        "W. Zhong"
+      ],
+      "abstract": "The propagation of very-high-energy (VHE; $E_γ \\geq 100$ GeV) gamma rays from extragalactic sources is affected by interactions with photons of the extragalactic background light (EBL), resulting in pair production that attenuates the intrinsic gamma-ray flux. This interaction renders the Universe increasingly opaque to VHE photons at high energies and redshifts. New physics scenarios involving axion-like particles (ALPs) could modify this expected optical depth. In particular, ALPs with masses $m_a \\sim 10$ eV can decay into two photons over cosmological timescales, thereby contributing to the diffuse EBL. If such ALPs constitute a significant fraction of the dark matter density, their decay would enhance the EBL intensity and consequently increase the gamma-ray optical depth. In this study, we investigate this scenario using a large sample of gamma-ray spectra observed with the High Energy Stereoscopic System (H.E.S.S.) and the Fermi Large Area Telescope. We model the contribution of decaying ALPs to the EBL and assess their impact on the spectra of blazars across redshifts. By comparing these observations with standard EBL models, we place constraints on the properties of heavy ALPs, specifically their mass and photon coupling, and evaluate their viability as a dark matter candidate capable of modifying the gamma-ray transparency of the Universe. From the combined analysis, and under the assumption that ALPs constitute the entire dark matter density, we derive 95% confidence exclusion limits on the photon-ALP coupling down to $g_{aγ} \\sim 7 \\times 10^{-12}$ GeV$^{-1}$ for masses $m_a\\sim 15$ eV. These constraints are competitive with existing astrophysical bounds and provide complementary sensitivity to other techniques, closing a previously unconstrained region of parameter space in the $m_a \\sim 2.5$-$20$ eV range.",
+      "categories": [
+        "astro-ph.HE",
+        "astro-ph.CO"
+      ],
+      "published": "2026-06-10T10:55:05+00:00",
+      "updated": "2026-06-10T10:55:05+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.11923v1",
+      "html_url": "https://arxiv.org/html/2606.11923v1",
+      "entry_url": "http://arxiv.org/abs/2606.11923v1",
+      "relevance": {
+        "relevant": true,
+        "score": 6,
+        "reason": "The paper constrains the axion-photon coupling $g_{a\\gamma}$ for heavy ALPs ($m_a \\sim 2.5$–$20$ eV) using astrophysical gamma-ray observations, which connects to the user's interest in axion detection strategies and astrophysical axion production, though it is primarily an observational analysis rather than a theoretical or cosmological study.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2508.08402v2",
+      "base_id": "2508.08402",
+      "title": "Sweeping the pion chimney for axion-like particles with KOTO",
+      "authors": [
+        "Reuven Balkin",
+        "Stefania Gori",
+        "Dean J. Robinson",
+        "Christiane Scherb"
+      ],
+      "abstract": "We demonstrate that novel limits on prompt axion-like particles (ALPs) in the hard-to-probe mass range near the neutral pion - the so-called pion chimney - may be obtained from recasting $K_L \\to 3π^0 \\to 6γ$ data taken by the J-PARC KOTO experiment, to search for $K_L \\to 2π^0a \\to 6γ$. We also explore the power of KOTO $6γ$ data to probe $K_L \\to 2π^0a$ for a broader range of ALP masses, incorporating displaced decays.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-08-11T18:51:37+00:00",
+      "updated": "2026-06-10T19:02:06+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.08402v2",
+      "html_url": "https://arxiv.org/html/2508.08402v2",
+      "entry_url": "http://arxiv.org/abs/2508.08402v2",
+      "relevance": {
+        "relevant": true,
+        "score": 6,
+        "reason": "The paper is relevant to the user's interest in axion detection strategies, proposing novel constraints on ALPs near the pion mass using KOTO kaon decay data, though it focuses on flavor-physics probes of ALPs rather than the user's primary axion interests in solar/astrophysical production.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.12549v1",
+      "base_id": "2606.12549",
+      "title": "Tachyonic Encore: A universal shift of inflationary observables",
+      "authors": [
+        "Diogo S. Gorgulho",
+        "Margherita Putti",
+        "Rodrigo Gonzalez Quaglia",
+        "Ema Dimastrogiovanni",
+        "Matteo Fasiello",
+        "Diederik Roest"
+      ],
+      "abstract": "We propose a generic, largely inflaton-potential-independent mechanism in which a light axion spectator, initialized near the hilltop of its potential, reshapes inflationary observables through purely gravitational multi-field dynamics. During inflation the axion is frozen and the background follows an effectively single-field trajectory. After inflation ends, the axion rolls, inducing a turn in field space and transient tachyonic phases of the isocurvature mode. The resulting ``tachyonic encore'' occurs entirely on super-horizon scales. These phases generate a nearly scale-invariant enhancement of the curvature power spectrum, suppressing the tensor-to-scalar ratio and shifting the scalar tilt to a weighted combination of adiabatic and entropic tilts at horizon crossing. We show that these effects can reconcile otherwise disfavored inflaton potentials with current CMB constraints. The same dynamics predict local non-Gaussianity, $f_{\\rm NL}^{\\rm loc.}\\sim \\mathcal{O}(1)$, within reach of upcoming surveys.",
+      "categories": [
+        "hep-th",
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "published": "2026-06-10T18:01:01+00:00",
+      "updated": "2026-06-10T18:01:01+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.12549v1",
+      "html_url": "https://arxiv.org/html/2606.12549v1",
+      "entry_url": "http://arxiv.org/abs/2606.12549v1",
+      "relevance": {
+        "relevant": true,
+        "score": 6,
+        "reason": "The paper touches on two of the researcher's core interests—early-universe cosmology (post-inflationary dynamics, reheating constraints) and axion physics—but focuses on inflationary observable modification via spectator axion dynamics rather than the researcher's specific subtopics like pre-thermalization gravitational waves, stochastic GW backgrounds, or axion detection strategies.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.12533v1",
+      "base_id": "2606.12533",
+      "title": "Constraining the real scalar singlet extension of the SM",
+      "authors": [
+        "Moritz Bosse",
+        "Gudrun Hiller",
+        "Daniel Litim",
+        "Fabio Maltoni",
+        "Michael J. Ramsey-Musolf",
+        "Simone Tentori",
+        "Guotao Xia"
+      ],
+      "abstract": "The real scalar singlet extension of the standard model provides a minimal framework in which the Higgs sector can realise a strong first-order electroweak phase transition and improve the stability of the electroweak vacuum. We combine the electroweak phase transition and high-scale vacuum stability with current and projected collider probes, including precision Higgs measurements, the Higgs trilinear coupling, EWPO and resonant searches for a heavy singlet-like scalar in $ZZ$ and di-Higgs final states. Focusing on a singlet heavier than the standard model Higgs, we find that there is parameter space compatible with a strong first-order electroweak phase transition for singlet-like scalar masses up to nearly 1 TeV. Deviations in the Higgs self-coupling can be larger than those in the Higgs--$Z$ coupling, making Higgs-potential measurements a key probe. We find that the HL-LHC will test a large fraction of the parameter space, while the FCC will provide ultimate discovery and model-discrimination capabilities.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2026-06-10T18:00:04+00:00",
+      "updated": "2026-06-10T18:00:04+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.12533v1",
+      "html_url": "https://arxiv.org/html/2606.12533v1",
+      "entry_url": "http://arxiv.org/abs/2606.12533v1",
+      "relevance": {
+        "relevant": true,
+        "score": 6,
+        "reason": "The paper connects to the user's interests in early-universe cosmology through its detailed study of the electroweak phase transition and gravitational-wave signatures, and to future Higgs factory phenomenology (FCC-ee EWPO) relevant to the user's electroweak precision calculation work, though it does not directly address the user's core technical areas of multi-loop QCD, neutrino physics, PBHs, or axion physics.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.12298v1",
+      "base_id": "2606.12298",
+      "title": "The KSVZ Atlas: A Unified SMEFT-ALP Framework",
+      "authors": [
+        "Ajdin Palavrić",
+        "Xavier Ponce Díaz",
+        "Hector Tiblom"
+      ],
+      "abstract": "We develop a general framework for matching KSVZ-like ultraviolet completions featuring vector-like fermions and a spontaneously broken $\\mathrm{U}(1)_{\\mathrm{PQ}}$ symmetry onto the Standard Model Effective Field Theory and the low-energy axion-like particle effective theory. The framework applies to arbitrary vector-like fermion representations and PQ-charge assignments, and systematically captures the effective interactions generated in both sectors. We then perform a comprehensive phenomenological analysis of the resulting SMEFT operators, based on global fits to electroweak precision, Higgs, and flavor observables, obtaining robust bounds on the corresponding Wilson coefficients that are largely independent of the details of the ultraviolet realization. These constraints can subsequently be translated into the QCD axion and ALP parameter space, providing indirect probes of ALP couplings. We further investigate several representative examples of the interplay between the SMEFT and ALP sectors, illustrating how direct ALP searches and indirect precision and flavor observables provide complementary information on the same underlying dynamics. We find that, over large regions of parameter space, indirect constraints derived from the SMEFT analysis dominate over direct ALP probes, except in scenarios where the PQ-charge assignment permits mass mixing with Standard Model fermions. Overall, our results establish a unified framework for connecting ultraviolet completions, SMEFT analyses, and ALP searches, enabling both the interpretation of existing constraints and the exploration of future signals within a common theoretical setting.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-06-10T16:34:39+00:00",
+      "updated": "2026-06-10T16:34:39+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.12298v1",
+      "html_url": "https://arxiv.org/html/2606.12298v1",
+      "entry_url": "http://arxiv.org/abs/2606.12298v1",
+      "relevance": {
+        "relevant": true,
+        "score": 5,
+        "reason": "The paper is relevant to the researcher's interest in axion physics and axion detection strategies through its comprehensive SMEFT-ALP framework for KSVZ models, but it focuses on UV matching, flavor constraints, and indirect precision probes rather than the astrophysical axion production, Primakoff flux calculations, or JUNO phenomenology that are central to the researcher's profile.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2512.11717v3",
+      "base_id": "2512.11717",
+      "title": "Renormalization of mixing angles and computation of the hadronic $W$ decay widths",
+      "authors": [
+        "Simonas Draukšas"
+      ],
+      "abstract": "We provide a practical prescription for a variant of the On-Shell scheme which does not require mixing matrix counterterms at all, i.e. $δV=0$. The scheme is based on the fact that one can always choose a basis in which there are no mixing matrices (angles) and, therefore, the corresponding counterterms are superfluous. Importantly, the prescription is model- and process-independent and is formulated entirely in terms of self-energies. As an example, we compute the 1-loop hadronic $W$-boson decay widths in the Standard Model with different renormalization schemes of the quark mixing matrix found in the literature and the one found in this paper. For full consistency, the principles of this scheme are employed both for the quark mixing matrix and for the Weinberg angle.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-12-12T16:54:23+00:00",
+      "updated": "2026-06-10T09:47:47+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.11717v3",
+      "html_url": "https://arxiv.org/html/2512.11717v3",
+      "entry_url": "http://arxiv.org/abs/2512.11717v3",
+      "relevance": {
+        "relevant": true,
+        "score": 5,
+        "reason": "The paper deals with electroweak precision calculations (renormalization of mixing angles, 1-loop W decay widths), which touches on one of the researcher's interests, but it focuses on 1-loop SM renormalization scheme methodology rather than the multi-loop calculations or Higgs factory phenomenology that the researcher specifically targets.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2512.04168v2",
+      "base_id": "2512.04168",
+      "title": "Electroweak phase transition in SMEFT: Gravitational wave and collider complementarity",
+      "authors": [
+        "Sahabub Jahedi",
+        "Indrajit Saha",
+        "Abhik Sarkar"
+      ],
+      "abstract": "We study the first-order electroweak phase transition (FO-EWPT) within the Standard Model Effective Field Theory (SMEFT) framework induced by dimension-6 operators. Such phenomena can be probed independently via \\textit{di}-Higgs production at the collider experiments as well as via the detection of gravitational waves (GW). There are three (one) dimension-6 SMEFT operators that simultaneously modify the Higgs potential at tree (1-loop) level and contribute to the \\textit{di}-Higgs production at the hadron colliders. With \\textit{di}-Higgs production being suppressed at current LHC runs, we aim to probe this production at high luminosity (HL) and high energy (HE) runs of the LHC to achieve better sensitivity of dimension-6 SMEFT operators. The correlations among these operators are analyzed in the context of probing FO-EWPT, emphasizing the complementarity between future GW observations and upgraded LHC searches.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "published": "2025-12-03T19:00:04+00:00",
+      "updated": "2026-06-10T06:49:57+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.04168v2",
+      "html_url": "https://arxiv.org/html/2512.04168v2",
+      "entry_url": "http://arxiv.org/abs/2512.04168v2",
+      "relevance": {
+        "relevant": true,
+        "score": 5,
+        "reason": "The paper connects to the researcher's interest in stochastic gravitational-wave backgrounds and early-universe cosmology through its study of GW spectra from first-order electroweak phase transitions, but the specific focus on SMEFT operators, di-Higgs collider phenomenology, and ANN-based analysis falls outside the researcher's core areas of reheating dynamics, PBHs, neutrino physics, and multi-loop QCD calculations.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2603.25589v2",
+      "base_id": "2603.25589",
+      "title": "Constraining the heavy leptophilic neutral gauge bosons through the $Z\\to\\ell^+\\ell^-$, $W^\\pm\\to\\ell^\\pmν_\\ell$, and $h\\to\\ell^+\\ell^-$ decays",
+      "authors": [
+        "Bibhabasu De",
+        "Amitabha Dey"
+      ],
+      "abstract": "We consider the hypothetical possibility of neutral gauge bosons ($Z^\\prime$) with flavor-specific leptophilic couplings. For such New Physics (NP) interactions, the current experimental constraints are much relaxed in the heavy mass regime, particularly for masses $\\geq \\mathcal{O}(1)$ TeV. However, in the presence of a leptophilic $Z^\\prime$, leptonic decay modes of the electroweak gauge bosons and Higgs can be corrected at the loop level. Using the existing upper bounds on the corresponding decay widths, we find that one can impose stronger exclusion limits on the interactions of a heavy $Z^\\prime$. Future updates on the aforesaid decay channels can be used in complementarity with the proposed lepton colliders to probe even weaker leptophilic NP interactions at the TeV scale and beyond.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2026-03-26T16:07:51+00:00",
+      "updated": "2026-06-10T04:13:30+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.25589v2",
+      "html_url": "https://arxiv.org/html/2603.25589v2",
+      "entry_url": "http://arxiv.org/abs/2603.25589v2",
+      "relevance": {
+        "relevant": true,
+        "score": 5,
+        "reason": "The paper involves one-loop electroweak precision calculations of W, Z, and Higgs leptonic decay widths with BSM contributions, which is tangentially related to the researcher's interest in electroweak precision calculations and future Higgs factory phenomenology, but it focuses on BSM Z' constraints rather than the multi-loop SM calculations or the specific cosmological/neutrino topics central to the researcher's profile.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.11564v1",
+      "base_id": "2606.11564",
+      "title": "Strong First-Order Electroweak Phase Transition and Gravitational Waves in a $\\mathbb{Z}_4$ Fermion-Scalar Dark Matter Model",
+      "authors": [
+        "J. P. Carvalho-Corrêa",
+        "J. P. Cunha-Melo",
+        "I. M. Pereira",
+        "B. L. Sánchez-Vega",
+        "A. C. D. Viglioni"
+      ],
+      "abstract": "We investigate whether a minimal $\\mathbb{Z}_4$-symmetric fermion-scalar extension of the Standard Model can simultaneously realise viable dark matter, a strong electroweak phase transition, and a stochastic gravitational-wave signal. The model contains a real scalar singlet and a Dirac fermion, allowing thermal two-component dark matter, mixed WIMP-FIMP histories, and an effectively fermionic relic abundance generated by scalar decays. We impose theoretical consistency, the correct electroweak vacuum, and dark-matter constraints from relic density, direct detection, and invisible Higgs decays before using the surviving points as input for the finite-temperature analysis. This reveals that the compatibility between dark matter and a strong first-order electroweak phase transition is highly selective. After current dark-matter constraints are imposed, the strong-transition criterion along the Higgs direction is satisfied only in two viable regimes: the thermal two-component case with $M_ψ<M_S<2M_ψ$ and the decay-driven WIMP-FIMP case with $M_S>2M_ψ$. By contrast, the thermal regime with $M_S<M_ψ$ and the stable mixed WIMP-FIMP scenario with $M_S<2M_ψ$ are largely concentrated at small portal couplings or near the Higgs-resonance region, and do not yield a strong transition in the parameter space considered. The successful transitions typically proceed through an intermediate singlet-like phase. For representative nucleating benchmark points in the viable strong-transition regions, we compute the gravitational-wave spectra from sound waves and turbulence. Some spectra enter the projected reach of future space-based interferometers, showing that detectable signals arise only in selected dark-matter-compatible regions where a sufficiently active Higgs portal appears in correlated combination with the scalar mass and the remaining dark sector parameters.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-06-10T01:43:30+00:00",
+      "updated": "2026-06-10T01:43:30+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.11564v1",
+      "html_url": "https://arxiv.org/html/2606.11564v1",
+      "entry_url": "http://arxiv.org/abs/2606.11564v1",
+      "relevance": {
+        "relevant": true,
+        "score": 5,
+        "reason": "The paper is partially relevant through its computation of stochastic gravitational-wave backgrounds from electroweak phase transitions, which connects to the user's interest in stochastic GW backgrounds and early-universe cosmology, but the specific focus on WIMP-FIMP dark matter phenomenology and first-order phase transitions does not closely align with the user's core interests in pre-thermalization GWs from inflation, PBHs, neutrino physics, axion physics, or multi-loop perturbative calculations.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.12513v1",
+      "base_id": "2606.12513",
+      "title": "Localization of Chiral Electromagnetic Waves on Thick Axion Domain Walls",
+      "authors": [
+        "Nemanja Kaloper"
+      ],
+      "abstract": "We analyze Maxwell theory coupled to an axion domain wall as a spectral boundary value problem. We find that a finite-width axion domain wall generically supports a localized normalizable chiral electromagnetic mode with linear, gapless dispersion. This mode arises from helicity-dependent coupling sourced by the axion gradient: one polarization experiences an effective attractive potential and forms a bound state, while the opposite polarization is repelled. The existence of this chiral surface photon is robust over a wide regime of wall structures and axion masses. Our result shows that axion domain walls generically support a localized chiral photon that has been missed in previous analyses.",
+      "categories": [
+        "hep-th",
+        "astro-ph.CO",
+        "cond-mat.mes-hall",
+        "hep-ph",
+        "physics.optics"
+      ],
+      "published": "2026-06-10T18:00:00+00:00",
+      "updated": "2026-06-10T18:00:00+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.12513v1",
+      "html_url": "https://arxiv.org/html/2606.12513v1",
+      "entry_url": "http://arxiv.org/abs/2606.12513v1",
+      "relevance": {
+        "relevant": true,
+        "score": 5,
+        "reason": "The paper deals with axion physics (specifically axion domain walls and their electromagnetic properties), which falls within the user's axion and dark matter physics interest, but it is a theoretical study of topological axion electrodynamics rather than directly related to the user's focus on Primakoff solar axion flux, axion production in astrophysical environments, or axion detection strategies relevant to experiments like JUNO.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.01178v3",
+      "base_id": "2606.01178",
+      "title": "Probing the imaginary parts and their $q^2$ dependences for the tau $g-2$ and EDM",
+      "authors": [
+        "Xin-Yu Du",
+        "Xiao-Gang He",
+        "Zhong-Lv Huang",
+        "Chia-Wei Liu",
+        "Zi-Yue Zou"
+      ],
+      "abstract": "The $τ$ anomalous magnetic dipole moment (MDM) $a_τ= (g-2)_τ/2$ and electric dipole moment (EDM) $d_τ$, are precision probes of electroweak dynamics and possible new physics sources, yet both remain weakly constrained experimentally. Treated as generalized form factors, these quantities exhibit a generic $q^2$ dependence for an off-shell interacting photon. For timelike momentum transfer above the $τ^+τ^-$ threshold, $q^2 = s > 4m_τ^2$, the form factors can acquire absorptive imaginary parts. We investigate how such a $q^2$ dependence and the associated imaginary parts are generated from two complementary perspectives: the model-independent Standard Model Effective Field Theory (SMEFT) and a UV-complete Two-Higgs-Doublet Model (2HDM). The effective framework reveals the intimate correlation between $a_τ$ and $d_τ$. New CP-violating interactions which generate a non-zero $d_τ$, can also generically have non-zero contributions to $a_τ$, thereby deeply linking their phenomenological studies. Within the 2HDM, we demonstrate that sizable imaginary parts and significant $q^2$ running can be generated at levels accessible by $e^+e^-$ colliders. Motivated by these features, we propose experimental methods to extract both the real and imaginary components of the dipole form factors. Utilizing these techniques, we show that Belle II and the Super Tau-Charm Facility (STCF) can improve current bounds on $a_τ$ by more than one order of magnitude. Finally, we highlight that combining measurements across the distinct center-of-mass energies of Belle II and STCF provides a unique, previously unexplored avenue to explicitly obtain information about the $q^2$ evolution of these dipole form factors.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-05-31T11:37:41+00:00",
+      "updated": "2026-06-10T10:53:14+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.01178v3",
+      "html_url": "https://arxiv.org/html/2606.01178v3",
+      "entry_url": "http://arxiv.org/abs/2606.01178v3",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "While the paper involves electroweak precision observables and loop-level calculations that are peripherally related to the user's electroweak precision interests, it focuses on one-loop tau dipole moments in SMEFT/2HDM rather than the multi-loop QCD corrections or Higgs factory phenomenology central to the user's research profile.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.11742v1",
+      "base_id": "2606.11742",
+      "title": "Matching of perturbative and exponentiated initial state radiation corrections to $e^+e^-$-annihilation",
+      "authors": [
+        "Andrej Arbuzov",
+        "Uliana Voznaya"
+      ],
+      "abstract": "The behavior of higher-order radiative corrections due to initial state radiation in processes of electron-positron annihilation is analyzed. Numerical results for energies of future colliders are presented. Uncertainties of the known results on these corrections are estimated. A modified scheme for simultaneous exponentiation of pure photonic and non-singlet pair corrections is presented. Matching of the exponentiated results with the existing analytic higher-order calculations is constructed. A new DIS-like subtraction scheme is discussed.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-06-10T07:20:27+00:00",
+      "updated": "2026-06-10T07:20:27+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.11742v1",
+      "html_url": "https://arxiv.org/html/2606.11742v1",
+      "entry_url": "http://arxiv.org/abs/2606.11742v1",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "The paper deals with higher-order QED radiative corrections and exponentiation techniques for e+e- annihilation at future colliders like FCC-ee and CEPC, which has methodological overlap with the researcher's interest in electroweak precision calculations for future Higgs factories, but focuses specifically on ISR QED corrections rather than the electroweak O(α²) corrections or multi-loop QCD calculations that are the researcher's primary focus.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2506.07395v2",
+      "base_id": "2506.07395",
+      "title": "Measurement of Downward-going Milli-charged particles beyond GZK cutoff at the Pierre Auger Observatory",
+      "authors": [
+        "Ye Xu"
+      ],
+      "abstract": "It is assumed that superheavy dark matter particles (SHDM, $φ$) with $\\mathcal{O}$(ZeV) mass may decay to relativistic milli-charged particles (MCPs, $χ$) via a channel $φ\\toχ\\barχ$. The downward-going MCPs passing through the atmosphere can be searched for at the Pierre Auger observatory (Auger). The massless hidden photon model is taken for MCPs to interact with nuclei, so that we evaluated the numbers and fluxes of expected MCPs at Auger assuming 14 years of Auger data. The hybrid data of Auger was fitted with the flux of UHE MCPs exceeding GZK-cutoff energy. Then the corresponding upper limits on $ε^2$ are calculated at 90\\% C. L.. These results indicate that MCPs can be searched for with $ε^2\\gtrsim 3.73\\times10^{-5}$ at Auger, when $m_φ=2\\times10^{21}$ eV and $τ_φ=10^{27}$ s. And a new region of 10$^{10}$ eV < $m_{MCP}$ < 10$^{11.6}$ eV and $ε$ > $2.02\\times10^{-2}$ is ruled out in the $m_{MCP}$-$ε$ plane with 14 years of Auger data. These results indicate potential existence of MCPs and SHDM in the Universe.",
+      "categories": [
+        "astro-ph.HE",
+        "hep-ph"
+      ],
+      "published": "2025-06-09T03:38:22+00:00",
+      "updated": "2026-06-10T04:11:18+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.07395v2",
+      "html_url": "https://arxiv.org/html/2506.07395v2",
+      "entry_url": "http://arxiv.org/abs/2506.07395v2",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "The paper touches on dark matter and dark sector physics (hidden photon model, SHDM decay channels) which marginally overlaps with the researcher's dark matter interests, but it is primarily an observational/phenomenological study of milli-charged particles at the Pierre Auger Observatory, which falls outside the researcher's core theoretical interests in early-universe cosmology, PBHs, neutrino physics, and multi-loop calculations.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.12636v1",
+      "base_id": "2606.12636",
+      "title": "Quantum Stochastic Inflation",
+      "authors": [
+        "Robson Christie",
+        "Jaewoo Joo",
+        "Greg Kaplanek",
+        "Vincent Vennin",
+        "David Wands"
+      ],
+      "abstract": "We formulate stochastic inflation in an open quantum system framework. The field coarse-grained in a patch of fixed physical size, and the total momentum of that patch, form a canonical pair and act on a one-mode Fock space which we identify as the \"bulk\". At each time step, new comoving modes join the coarse-grained patch and the bulk has to be redefined. This redefinition produces an entangled mode that is traced over, yielding a non-unitary evolution equation for the bulk's density matrix. For a free test field in de Sitter, one obtains GKLS dynamics, generated by an effective Hamiltonian and a single non-Hermitian Lindblad operator, hence diffusion and Hubble friction originate from the same quantum channel. The Wigner-Weyl transform of the GKLS equation leads to a Fokker-Planck equation for the Wigner function, which matches the one that applies to the classical phase-space distribution of stochastic inflation. We also provide several schemes under which one can unravel the GKLS dynamics into stochastic Schrodinger equations when continuous measurements of the decoupled mode are performed, making contact with Langevin formulations of stochastic inflation. In the light-field regime, an additional overdamped reduction can be performed by integrating out the momentum variable in the Wigner distribution, leading to Starobinsky's slow-roll Fokker-Planck equation. In that regime, the purity of the patch is strongly suppressed. In contrast, for heavy fields, field diffusion is suppressed and the coarse-grained patch remains close to a pure underdamped oscillator, which prevents a classical stochastic treatment.",
+      "categories": [
+        "hep-th",
+        "gr-qc",
+        "quant-ph"
+      ],
+      "published": "2026-06-10T19:57:45+00:00",
+      "updated": "2026-06-10T19:57:45+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.12636v1",
+      "html_url": "https://arxiv.org/html/2606.12636v1",
+      "entry_url": "http://arxiv.org/abs/2606.12636v1",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "This paper falls within early-universe cosmology, one of the researcher's core interests, but focuses on the quantum open-system foundations of stochastic inflation during the inflationary epoch, whereas the researcher's cosmology interests center on post-inflationary reheating dynamics, gravitational waves, and PBH phenomenology rather than the quantum-to-classical transition of inflaton fluctuations.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2604.16154v3",
+      "base_id": "2604.16154",
+      "title": "Probing Primordial Black Holes with upcoming Radio Telescopes: a case study for LOFAR2.0, FAST Core Array and BINGO",
+      "authors": [
+        "Joao R. L. Santos",
+        "Guillem Domènech",
+        "Amilcar R. Queiroz"
+      ],
+      "abstract": "Fast Radio Bursts (FRBs) are among the most intriguing phenomena observed in radio astronomy. So far, about 130 FRB signals have been confirmed and characterized by different surveys, and the CHIME telescope has recently reported a new catalog of 4539 bursts. Therefore, these numbers are expected to increase in the coming years. The detection, or lack thereof, of lensed FRB events can be used to probe Primordial Black Holes (PBHs) as a fraction of dark matter. We investigate the potential of three upcoming radio telescopes, LOFAR2.0, FAST Core Array, and BINGO, to test the PBH scenario. We forecast that LOFAR2.0 will constrain $f_{\\mathrm{PBH}} < 0.16$ for PBH masses $M_{\\rm PBH}>1\\,{M_{\\odot}}$, while FAST Core Array and BINGO will restrict $f_{\\mathrm{PBH}} < 0.39$ for $M_{\\rm PBH}>10\\,{M_{\\odot}}$ and $M_{\\rm PBH}>10^{-1}\\,{M_{\\odot}}$, respectively. Despite the existence of stricter constraints, FRB lensing offers an independent and complementary probe of PBHs in the Universe, which will improve in the future.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2026-04-17T15:24:35+00:00",
+      "updated": "2026-06-10T16:34:42+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.16154v3",
+      "html_url": "https://arxiv.org/html/2604.16154v3",
+      "entry_url": "http://arxiv.org/abs/2604.16154v3",
+      "relevance": {
+        "relevant": true,
+        "score": 3,
+        "reason": "While the paper discusses primordial black holes (PBHs), which is one of the researcher's core interests, it focuses on astrophysical FRB-lensing forecasts for constraining PBH abundance rather than the researcher's specific PBH topics like Hawking evaporation, BBN constraints, or high-energy neutrino/UHECR production, and falls into the category of astrophysical observations without direct particle-physics implications that the researcher finds less interesting.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.11713v1",
+      "base_id": "2606.11713",
+      "title": "Revisiting the Axial Anomaly and Chiral Magnetic Effect in Dense Matter, with Applications to Axion Dark Matter",
+      "authors": [
+        "Deog Ki Hong"
+      ],
+      "abstract": "We explicitly compute the axial anomaly in dense matter and show that its form remains unchanged from that in vacuum, even in the massless limit. This result follows from a subtle cancellation in the anomalous Ward identity between the medium-induced contributions to the divergence of the axial current and to the pseudoscalar density. We then revisit the chiral magnetic effect in a fermionic medium coupled to an axial chemical potential under an external magnetic field. We show that the medium supports a persistent, conserved anomalous current carried by fermions. The current is determined by the axial chemical potential and suppressed by the Fermi velocity, in agreement with anomalous axial-current correlation functions. We finally discuss applications to axion physics, where axion dark matter acts as an effective axial chemical potential.",
+      "categories": [
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2026-06-10T06:39:30+00:00",
+      "updated": "2026-06-10T06:39:30+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.11713v1",
+      "html_url": "https://arxiv.org/html/2606.11713v1",
+      "entry_url": "http://arxiv.org/abs/2606.11713v1",
+      "relevance": {
+        "relevant": true,
+        "score": 3,
+        "reason": "The paper's application to axion dark matter detection strategies tangentially touches on the user's axion physics interests, but its core focus on axial anomaly structure and chiral magnetic effect in Fermi liquids is primarily theoretical condensed-matter/QFT rather than the particle phenomenology and precision calculations central to the user's research.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2601.04962v2",
+      "base_id": "2601.04962",
+      "title": "ALP and $Z^\\prime$ boson at the Electron-Ion collider",
+      "authors": [
+        "Amit Adhikary",
+        "Dilip Kumar Ghosh",
+        "Sk Jeesun",
+        "Sourov Roy"
+      ],
+      "abstract": "We study the sensitivity of the upcoming electron-ion (EIC) collider to purely electrophilic new physics in the GeV mass range. Within an effective field theory framework, we consider two different scenarios: an axion-like particle (ALP) and a new heavy neutral vector gauge boson $Z^\\prime $, each couples to electrons only. We analyze electron-proton collisions at $\\sqrt{s}= 141$ GeV with an integrated luminosity of $100~{\\rm fb}^{-1}$, focusing primarily on the tri-electron final state. Additionally, loop-induced ALP-photon couplings driven photon final states are also explored. Incorporating realistic detector effects and systematic uncertainties, we obtain projected exclusion limits on the relevant cross-sections and couplings. We find that the results from EIC can significantly extend the sensitivity to electrophilic axion-like particles and $Z^\\prime $ bosons in regions of parameter space that remain weakly constrained by existing experiments.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2026-01-08T14:07:48+00:00",
+      "updated": "2026-06-10T06:01:14+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.04962v2",
+      "html_url": "https://arxiv.org/html/2601.04962v2",
+      "entry_url": "http://arxiv.org/abs/2601.04962v2",
+      "relevance": {
+        "relevant": true,
+        "score": 3,
+        "reason": "While the paper deals with axion-like particles (ALPs) which falls under the user's axion/dark matter interest, this is a collider phenomenology study focused on EIC sensitivity to electrophilic ALPs and Z' bosons, which is quite distinct from the user's core interests in solar/astrophysical axion flux calculations and JUNO-related neutrino phenomenology.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2602.21263v3",
+      "base_id": "2602.21263",
+      "title": "Inflationary branch decoherence and the cosmological arrow of time",
+      "authors": [
+        "Ali Nayeri"
+      ],
+      "abstract": "We analyze branch decoherence in inflationary quantum cosmology by computing reduced density matrices and branch-overlap factors for long-wavelength perturbations. The Hartle-Hawking no-boundary state is real in the semiclassical regime and contains both expanding and contracting WKB components, whereas the tunneling state is selected as an outgoing complex WKB branch; expanding-contracting decoherence is therefore central for the former and mainly diagnostic for the latter. Using the influence-functional formalism, we derive the noise kernel for a light spectator environment and evaluate decoherence under horizon-based and EFT-motivated coarse grainings. We then compute the single-mode branch overlap directly from the Bunch-Davies mode functions, obtaining $|\\mathcal{D}_k(z)|=[z^2/(z^2+1)]^{1/4}$ in the massless limit and $|\\mathcal{D}_k(z)|\\sim z^ν$ on superhorizon scales for massive fields, where $z=-kη$ is the dimensionless wavenumber with $η$ the conformal time. In the massless case, the accumulated geometric branch functional is evaluated in closed form, with a leading cutoff-sensitive phase-space term and a universal subleading contribution. The calculation provides an explicit quantitative bridge between quantum-cosmological boundary conditions, inflationary squeezing, and the emergence of effectively classical cosmological histories.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-th",
+        "quant-ph"
+      ],
+      "published": "2026-02-24T05:02:42+00:00",
+      "updated": "2026-06-10T19:18:57+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.21263v3",
+      "html_url": "https://arxiv.org/html/2602.21263v3",
+      "entry_url": "http://arxiv.org/abs/2602.21263v3",
+      "relevance": {
+        "relevant": true,
+        "score": 3,
+        "reason": "While the paper concerns inflationary cosmology, its focus on quantum decoherence, branch overlap factors, and foundational quantum-cosmological boundary conditions is tangential to the researcher's specific early-universe interests in reheating dynamics, gravitational-wave backgrounds, PBH phenomenology, and particle physics calculations.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    }
+  ]
+}

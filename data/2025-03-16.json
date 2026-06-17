@@ -1,0 +1,32 @@
+{
+  "date": "2025-03-16",
+  "papers": [
+    {
+      "arxiv_id": "2503.12699v2",
+      "base_id": "2503.12699",
+      "title": "Gapless Phases in (2+1)d with Non-Invertible Symmetries",
+      "authors": [
+        "Lakshya Bhardwaj",
+        "Yuhan Gai",
+        "Sheng-Jie Huang",
+        "Kansei Inamura",
+        "Sakura Schafer-Nameki",
+        "Apoorv Tiwari",
+        "Alison Warman"
+      ],
+      "abstract": "The study of gapless phases with categorical (or so-called non-invertible) symmetries is a formidable task, in particular in higher than two space-time dimensions. In this paper we build on previous works arXiv:2408.05266 and arXiv:2502.20440 on gapped phases in (2+1)d and provide a systematic framework to study phase transitions with categorical symmetries. The Symmetry Topological Field Theory (SymTFT) is, as often in these matters, the central tool. Applied to gapless theories, we need to consider the extension of the SymTFT to interfaces between topological orders, so-called ``club sandwiches\", which realize generalizations of so-called Kennedy-Tasaki (KT) transformations. This requires an input phase transition for a smaller symmetry, such as the Ising transition for $\\mathbb{Z}_2$, and the SymTFT constructs a transformation to a gapless phase with a larger categorical symmetry. We carry this out for categorical symmetries whose SymTFT is a (3+1)d Dijkgraaf-Witten (DW) theory for a finite group $G$ with twist -- so-called all bosonic fusion 2-categories. We classify such interfaces using a physically motivated picture of generalized gauging, as well as with a complementary analysis using (bi-)module 2-categories.This is exemplified in numerous abelian and non-abelian DW theories, giving rise to interesting gapless phases such as intrinsically gapless symmetry protected phases (igSPTs) and spontaneous symmetry breaking phases (igSSBs) from abelian, $S_3$, and $D_8$ DW theories.",
+      "categories": [
+        "cond-mat.str-el",
+        "hep-th",
+        "math-ph",
+        "math.CT"
+      ],
+      "published": "2025-03-16T23:56:11+00:00",
+      "updated": "2026-05-26T12:28:55+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2503.12699v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2503.12699v2"
+    }
+  ],
+  "total": 1
+}

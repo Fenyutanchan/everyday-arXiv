@@ -1,0 +1,131 @@
+{
+  "date": "2025-07-22",
+  "papers": [
+    {
+      "arxiv_id": "2507.16115v2",
+      "base_id": "2507.16115",
+      "title": "Simba Simulation: The Effect of Feedback Physics on Matter Distribution in the Cosmic Web",
+      "authors": [
+        "Chenze Dong",
+        "Florian Dedieu",
+        "Daniela Galárraga-Espinosa",
+        "Khee-Gan Lee",
+        "Daniele Sorini",
+        "Romeel Davé"
+      ],
+      "abstract": "The discrepancy between the early-time estimation and late-time observation on the cosmic baryon content - the 'missing baryon problem' - is a longstanding problem in cosmology. Although recent studies with fast radio bursts (FRBs) have largely addressed this discrepancy, the precise spatial distribution of these baryons remains uncertain due to the effect of galaxy feedback. Cosmological hydrodynamical simulations such as Simba have shown that the partitioning of baryons between the intergalactic medium (IGM) and haloes is sensitive to feedback models, motivating the connection of baryon distribution with feedback physics. With the Simba simulation suite, this study investigates how feedback affects the distribution of matter within large-scale cosmic structures, with implications for FRB foreground modeling. We apply the T-web method to classify the cosmic web into different structures: knots, filaments, sheets, and voids. We then analyze how the different feedback variants of Simba affect the distribution of matter within each structure. Our results show that in Simba, the fractions of IGM gas in different cosmic web structures vary only a few percent under different feedback models. However, jet feedback produces noticeable changes in the gas distribution within structures, enhancing the diffuse IGM on the outskirts of filaments and knots. This research provides a new perspective on the impact of feedback on the IGM and motivates a refined data model for the FRB foreground mapping.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2025-07-22T00:07:16+00:00",
+      "updated": "2026-04-29T15:22:30+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2507.16115v2",
+      "html_url": "https://arxiv.org/html/2507.16115v2",
+      "entry_url": "http://arxiv.org/abs/2507.16115v2"
+    },
+    {
+      "arxiv_id": "2507.16634v2",
+      "base_id": "2507.16634",
+      "title": "Thermal correction on the Casimir energy in a Horava-Lifshitz Lorentz-violating scenario",
+      "authors": [
+        "E. R. Bezerra de Mello",
+        "Herondy F. Mota"
+      ],
+      "abstract": "The Casimir effect is considered a great triumph of Quantum Field Theory. Originally the Casimir energy was investigated considering the vacuum fluctuation associated with electromagnetic field; however it has also been analyzed considering different type of quantum fields. More recently the Casimir energy was studied in the context of Lorentz symmetry violation. In this work we investigate the effect of finite temperature on the Casmir energy considering a Lorenttz violation symmetry in a Horava-Lifshitz scenario. In this sense we consider a massive scalar quantum field confined in a region between two large and parallel plates. So our main objective is to investigate how, in this Lorentz violation scenario (LV), the Casimir energy depends on the temperature. Another point to be analyzed, is influence of the parameter associated with the LV, $ξ$, in the thermal correction.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2025-07-22T14:33:38+00:00",
+      "updated": "2026-05-11T17:13:36+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2507.16634v2",
+      "html_url": "https://arxiv.org/html/2507.16634v2",
+      "entry_url": "http://arxiv.org/abs/2507.16634v2"
+    },
+    {
+      "arxiv_id": "2507.16590v2",
+      "base_id": "2507.16590",
+      "title": "Inference of matter power spectrum at z=0 using DESI DR1 Full-Shape data",
+      "authors": [
+        "R. Cereskaite",
+        "E. Mueller",
+        "C. Howlett",
+        "Tamara M. Davis",
+        "J. Aguilar",
+        "S. Ahlen",
+        "D. Bianchi",
+        "D. Brooks",
+        "F. J. Castander",
+        "T. Claybaugh",
+        "A. Cuceu",
+        "A. de la Macorra",
+        "S. Ferraro",
+        "A. Font-Ribera",
+        "J. E. Forero-Romero",
+        "E. Gaztanaga",
+        "G. Gutierrez",
+        "C. Hahn",
+        "K. Honscheid",
+        "D. Huterer",
+        "M. Ishak",
+        "R. Joyce",
+        "S. Juneau",
+        "D. Kirkby",
+        "A. Kremin",
+        "O. Lahav",
+        "A. Lambert",
+        "M. Landriau",
+        "L. Le Guillou",
+        "M. Manera",
+        "A. Meisner",
+        "R. Miquel",
+        "J. Moustakas",
+        "S. Nadathur",
+        "J. A. Newman",
+        "N. Palanque-Delabrouille",
+        "W. J. Percival",
+        "F. Prada",
+        "I. Perez-Rafols",
+        "G. Rossi",
+        "E. Sanchez",
+        "D. Schlegel",
+        "M. Schubnell",
+        "H. Seo",
+        "J. Silber",
+        "D. Sprayberry",
+        "G. Tarle",
+        "B. A. Weaver",
+        "P. Zarrouk",
+        "R. Zhou",
+        "H. Zou"
+      ],
+      "abstract": "Measurements of galaxy distributions at large cosmic distances capture clustering from the past. In this study, we use a cosmological model to translate these observations into the present-day galaxy distribution. Specifically, we reconstruct the 3D matter power spectrum at redshift $ z = 0 $ using Dark Energy Spectroscopic Instrument (DESI) Year 1 (DR1) galaxy clustering data and Cosmic Microwave Background (CMB) observations, assuming the $ Λ\\text{CDM} $ model, and compare it to the result assuming the $ w_0w_a \\text{CDM} $ model. Building on previous state-of-the-art methods, we apply Effective Field Theory (EFT) modelling of the galaxy power spectrum to account for small-scale effects in the 2-point statistics of galaxy data. The EFT approach offers a more robust methodology than traditional methods for modelling the galaxy power spectrum from galaxy clustering data, which can be used to test the consistency of the assumed cosmological model. By incorporating both CMB and galaxy clustering data across a range of redshifts, we can identify discrepancies between the datasets, which would indicate potential inaccuracies in the assumed expansion history. While previous studies have shown consistency with $ Λ\\text{CDM} $, this work extends the analysis with higher-quality data to further test the expansion histories of both $ Λ\\text{CDM} $ and $ w_0w_a \\text{CDM} $. Our findings show that both $ Λ\\text{CDM} $ and $ w_0w_a \\text{CDM} $ provide consistent fits to the matter power spectrum recovered from DESI DR1 data.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2025-07-22T13:45:57+00:00",
+      "updated": "2026-05-20T10:42:05+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2507.16590v2",
+      "html_url": "https://arxiv.org/html/2507.16590v2",
+      "entry_url": "http://arxiv.org/abs/2507.16590v2"
+    },
+    {
+      "arxiv_id": "2507.16512v2",
+      "base_id": "2507.16512",
+      "title": "Semi-Analytic Trajectory Analysis of Light in Generic Static Spacetimes",
+      "authors": [
+        "Ali Övgün",
+        "Reggie C. Pantig"
+      ],
+      "abstract": "We study a unified semi-analytical framework to study null geodesics and weak-field light deflection in generic static, spherically symmetric spacetimes of the form \\(ds^2 = -α(r,δ)\\,dt^2 + γ(r,δ)\\,dr^2 + β(r,δ)\\,dΩ_2^2,\\) where $α$, $β$, and $γ$ encode model-dependent deviations from Schwarzschild gravity inspired from [Phys.Rev.D 112 (2025) 12, 124072]. Starting from the exact first-order orbit equation, we derive a compact master equation for the impact-parameter-dependent trajectory $u(\\varphi)\\equiv 1/r(\\varphi)$ and obtain a model-independent expression for the bending angle $α(b)$ in terms of generic metric functions and their derivatives. This master equation is then solved semi-analytically by three complementary techniques: (i) the homotopy perturbation method (HPM), (ii) the variational iteration method (VIM), and (iii) a calibrated impulse (single-kick) approximation expressed directly in terms of the effective gravitational potential. As nontrivial test beds we consider a scalar-hairy Reissner-Nordström-like black hole where the scalar hair enters as $Q_s$ in an effective charge parameter. Then we derive closed-form expressions for the deflection angle, identify the leading scalar-hair, and compare the accuracy and convergence properties of HPM, VIM, and the impulse method against the standard Schwarzschild limits. Our results show that the generic formulation in $(α,β,γ)$ can efficiently accommodate a broad class of modified gravity black hole solutions. We further supplement the analytic treatment with a compact numerical results against the exact null-geodesic integral near the photon sphere in order to delineate the practical range of validity of the three approximation schemes.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-07-22T12:19:13+00:00",
+      "updated": "2026-06-02T07:39:23+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2507.16512v2",
+      "html_url": "https://arxiv.org/html/2507.16512v2",
+      "entry_url": "http://arxiv.org/abs/2507.16512v2"
+    }
+  ],
+  "total": 4
+}

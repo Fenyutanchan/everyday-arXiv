@@ -1,0 +1,45 @@
+{
+  "date": "2024-12-07",
+  "papers": [
+    {
+      "arxiv_id": "2412.05484v2",
+      "base_id": "2412.05484",
+      "title": "Topological entanglement entropy meets holographic entropy inequalities",
+      "authors": [
+        "Joydeep Naskar",
+        "Sai Satyam Samal"
+      ],
+      "abstract": "Topological entanglement entropy (TEE) is an efficient way to detect topological order in the ground state of gapped Hamiltonians. The seminal work of Kitaev and Preskill~\\cite{preskill-kitaev-tee} and simultaneously by Levin and Wen~\\cite{levin-wen-tee} proposed information quantities that can probe the TEE. In the present work, we explain why the subtraction schemes in the proposed information quantities~\\cite{levin-wen-tee,preskill-kitaev-tee} work for the computation of TEE and generalize them for arbitrary number of subregions by explicitly noting the necessary conditions for an information quantity to capture TEE. Our conditions differentiate the probes defined by Kitaev-Preskill and Levin-Wen into separate classes. While there are infinitely many possible probes of TEE, we focus particularly on the cyclic quantities $Q_{2n+1}$ and multi-information $I_n$. We also show that the holographic entropy inequalities are satisfied by the quantum entanglement entropy of the non-degenerate ground state of a topologically ordered two-dimensional medium with a mass gap.",
+      "categories": [
+        "quant-ph",
+        "cond-mat.str-el",
+        "hep-th"
+      ],
+      "published": "2024-12-07T01:06:51+00:00",
+      "updated": "2026-05-04T05:39:09+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2412.05484v2",
+      "html_url": "https://arxiv.org/html/2412.05484v2",
+      "entry_url": "http://arxiv.org/abs/2412.05484v2"
+    },
+    {
+      "arxiv_id": "2412.05581v3",
+      "base_id": "2412.05581",
+      "title": "Canonical formulation of the plasmon - hard particle scattering process in a quark-gluon plasma",
+      "authors": [
+        "Yu. A. Markov",
+        "M. A. Markova"
+      ],
+      "abstract": "It is shown that the Hamiltonian formalism proposed previously in [1] to describe the nonlinear dynamics of only {\\it soft} fermionic and bosonic excitations contains much more information than initially assumed. In this paper, we have demonstrated in detail that it also proved to be very appropriate and powerful in describing a wide range of other physical phenomena, including the scattering of colorless plasmons off {\\it hard} thermal (or external) color-charged particles moving in a hot quark-gluon plasma. A generalization of the Poisson superbracket including both anticommuting variables for hard modes and normal variables of the soft Bose field, is presented for the case of continuous medium. The corresponding Hamilton equations are defined, and the most general form of the third- and fourth-order interaction Hamiltonians is written out in terms of the normal boson field variables and hard momentum modes of the quark-gluon plasma. The canonical transformations involving both bosonic and hard mode degrees of freedom of the system under consideration, are discussed. The canonicity conditions for these transformations based on the Poisson superbracket, are derived. The most general structure of canonical transformations in the form of integro-power series up to sixth order in a new normal field variable and a new hard mode variable, is presented. For the hard momentum mode of quark-gluon plasma excitations, an ansatz separating the color and momentum degrees of freedom, is proposed. The question of approximation of the total effective scattering amplitude when the momenta of hard excitations are much larger than those of soft excitations of the plasma, is considered. The self-consistent system of Boltzmann-type kinetic equations taking into account the time evolution of the mean value of the color charge of the hard particle is obtained.",
+      "categories": [
+        "hep-th",
+        "hep-ph"
+      ],
+      "published": "2024-12-07T08:16:00+00:00",
+      "updated": "2026-05-26T06:16:57+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2412.05581v3",
+      "html_url": "https://arxiv.org/html/2412.05581v3",
+      "entry_url": "http://arxiv.org/abs/2412.05581v3"
+    }
+  ],
+  "total": 2
+}

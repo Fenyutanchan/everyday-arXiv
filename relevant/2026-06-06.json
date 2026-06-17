@@ -1,0 +1,250 @@
+{
+  "date": "2026-06-06",
+  "total": 9,
+  "papers": [
+    {
+      "arxiv_id": "2602.04055v3",
+      "base_id": "2602.04055",
+      "title": "A simple mechanism for the enhancement of the inflationary power spectrum",
+      "authors": [
+        "I. Dalianis",
+        "A. Katsis",
+        "N. Tetradis"
+      ],
+      "abstract": "The background evolution in two-field inflation can feature two distinct stages, corresponding to the evolution along two successive field directions. When the second stage occurs at a significantly lower energy scale, the inflationary trajectory includes a sharp transition, accompanied by a series of rapid turns in field space. Fluctuations crossing the Hubble horizon during this turning phase can experience amplification by several orders of magnitude. This mechanism is very intuitive and can be implemented even in simple two-field models. It produces a peak in the scalar power spectrum that can lead to significant abundances of primordial black holes and secondary gravitational waves.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2026-02-03T22:41:10+00:00",
+      "updated": "2026-06-06T18:30:11+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.04055v3",
+      "html_url": "https://arxiv.org/html/2602.04055v3",
+      "entry_url": "http://arxiv.org/abs/2602.04055v3",
+      "relevance": {
+        "relevant": true,
+        "score": 9,
+        "reason": "This paper is highly relevant to the researcher's interests in early-universe cosmology and primordial black holes, directly addressing PBH formation from enhanced inflationary curvature perturbations, scalar-induced stochastic gravitational-wave backgrounds testable by PTA and LISA, and the interplay between inflationary dynamics and small-scale power spectrum enhancement.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2604.20792v2",
+      "base_id": "2604.20792",
+      "title": "Irreducible Gravitational Wave Background as a Particle Detector",
+      "authors": [
+        "Anish Ghoshal",
+        "Angus Spalding",
+        "Graham White"
+      ],
+      "abstract": "We show that spectral features of primordial gravitational-wave backgrounds (GWB) can directly reconstruct \\textit{Lagrangian} parameters of beyond-the-Standard-Model (BSM) particles, for any transient gravitational-wave production mechanism, independent of the specific source of gravitational waves. Sufficiently long-lived particles generically induce a temporary period of early matter domination in the thermal history of the Universe, which imprints two characteristic frequencies in any primordial GWB corresponding to the onset and end of this epoch. These frequencies are determined by the initial abundance, mass, and decay rate of the species. Once the underlying model and initial abundance are specified, the observed spectral features directly determine the particle mass and decay rate. We find that gravitational-wave observations probe regions of parameter space both complementary to and far beyond the reach of upcoming laboratory searches for long-lived particles. Remarkably, frequencies in the nanohertz band, where a stochastic signal has recently been reported by pulsar timing arrays, map directly onto decay lengths accessible in upcoming long-lived-particle (LLP) searches.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "published": "2026-04-22T17:17:40+00:00",
+      "updated": "2026-06-06T11:42:01+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.20792v2",
+      "html_url": "https://arxiv.org/html/2604.20792v2",
+      "entry_url": "http://arxiv.org/abs/2604.20792v2",
+      "relevance": {
+        "relevant": true,
+        "score": 8,
+        "reason": "This paper is highly relevant to the researcher's interests in early-universe cosmology and stochastic gravitational-wave backgrounds, as it demonstrates how primordial GWB spectral features can reconstruct BSM particle parameters through imprints of early matter domination epochs, connecting directly to the researcher's work on pre-thermalization gravitational waves and thermal history of the Universe.",
+        "pass_number": 1,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.03316v2",
+      "base_id": "2606.03316",
+      "title": "Possible explanation of primordial $^7$Li deficit",
+      "authors": [
+        "E. V. Arbuzova",
+        "A. D. Dolgov"
+      ],
+      "abstract": "A reduction mechanism of the theoretically predicted excessive abundance of $^7$Li via baryons evaporated by primordial black holes is suggested. It is shown that the fraction of $^7$Li with respect to the number density of baryons can be diminished down to the observed value via the process of $^7$Li transformation by neutron capture. The created in this process $^8$Li or $^8$Be quickly decay into a pair of $^4$He nuclei.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2026-06-02T08:27:44+00:00",
+      "updated": "2026-06-06T07:40:00+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.03316v2",
+      "html_url": "https://arxiv.org/html/2606.03316v2",
+      "entry_url": "http://arxiv.org/abs/2606.03316v2",
+      "relevance": {
+        "relevant": true,
+        "score": 8,
+        "reason": "This paper directly addresses PBH Hawking evaporation and its impact on BBN predictions for $^7$Li abundance, which falls squarely within the researcher's core interest in 'Primordial black holes: Hawking evaporation, BBN constraints.'",
+        "pass_number": 1,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.08351v1",
+      "base_id": "2606.08351",
+      "title": "Hawking Emission from Black Holes Evaporating toward Wormholes and the Accuracy of the WKB Approximation",
+      "authors": [
+        "Bekir Can Lütfüoğlu"
+      ],
+      "abstract": "We revisit Hawking radiation from two black-hole families that can approach macroscopic wormhole configurations: the Simpson--Visser black-bounce geometry and the Casadio--Fabbri--Mazzacurati braneworld geometry. The earlier analysis of these backgrounds relied on WKB greybody factors. Here we replace that approximation by direct numerical scattering for the photon and massless Dirac channels and then recompute the emission spectra and integrated luminosities. The qualitative picture remains the same: as the wormhole endpoint is approached the black holes cool, the total flux is strongly suppressed, and the residual emission becomes increasingly fermion dominated. The quantitative picture, however, changes substantially. Close to the Schwarzschild limit the WKB estimates are reasonably accurate, but far from that limit the error can be large, and near the cold endpoint it can reach orders of magnitude. In particular, the WKB calculation can substantially overestimate the remaining luminosity precisely in the regime where the evaporation rate is most sensitive to the low-frequency tail of the greybody factors. In a fixed-parameter Simpson--Visser half-decay estimate, the direct-greybody luminosities increase the WKB lifetime coefficient by a factor of about 85. These results show that reliable evaporation rates for black holes evolving toward wormhole-like endpoints require direct numerical greybody factors rather than barrier-top WKB estimates alone.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2026-06-06T21:52:07+00:00",
+      "updated": "2026-06-06T21:52:07+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.08351v1",
+      "html_url": "https://arxiv.org/html/2606.08351v1",
+      "entry_url": "http://arxiv.org/abs/2606.08351v1",
+      "relevance": {
+        "relevant": true,
+        "score": 5,
+        "reason": "The paper deals with Hawking radiation and greybody factor calculations which connects to the user's interest in PBH Hawking evaporation, but focuses on exotic black-hole-to-wormhole geometries rather than standard PBH scenarios relevant to BBN constraints, UHECR production, or dark sector decay channels.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.08220v1",
+      "base_id": "2606.08220",
+      "title": "Stimulated Emission from Boson Clouds",
+      "authors": [
+        "Yu An",
+        "Xian-Hui Ge",
+        "Yun-Gui Gong",
+        "Yun-Long Zhang"
+      ],
+      "abstract": "Gravitational-waves from astrophysical sources are characterized by their extreme faintness, which remains a primary obstacle for both current and next generation detectors. While rotating black holes dressed in superradiant clouds of ultralight bosons are recognized as promising probes of physics beyond the Standard Model, their capacity to actively emit and modulate gravitational radiation remains largely unexamined. Here we demonstrate that these gravitational atoms can function as natural amplifiers of gravitational-waves via a stimulated emission mechanism analogous to astrophysical masers. By formalizing the interaction between the bosonic cloud and an ambient stochastic gravitational-wave background, we establish the rigorous selection rules and threshold conditions that govern this amplification. Our analysis reveals that the emission rate depends critically on the boson mass, potentially yielding an enhancement of several orders of magnitude over spontaneous processes. For representative mass ranges, these amplified signals bridge the sensitivity gap between ground-based interferometers and pulsar timing arrays. These findings suggest that superradiant clouds can effectively boost previously undetectable signals, offering a novel observational frontier for exploring ultralight fields and the Kerr spacetime environment.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-th"
+      ],
+      "published": "2026-06-06T15:16:09+00:00",
+      "updated": "2026-06-06T15:16:09+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.08220v1",
+      "html_url": "https://arxiv.org/html/2606.08220v1",
+      "entry_url": "http://arxiv.org/abs/2606.08220v1",
+      "relevance": {
+        "relevant": true,
+        "score": 5,
+        "reason": "The paper discusses ultralight bosons (including axion-like particles) in astrophysical environments and stochastic gravitational-wave backgrounds, which partially overlap with the user's interests in axion/dark matter physics and stochastic GW backgrounds, but the specific focus on black hole superradiance and gravitational-wave stimulated emission is peripheral to the user's core research in early-universe cosmology and particle physics phenomenology.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.08142v1",
+      "base_id": "2606.08142",
+      "title": "A New Route to the Annihilation of Multi-Wall String Topological Configurations",
+      "authors": [
+        "Utsav Atta",
+        "Tathagata Ghosh",
+        "Sudip Manna"
+      ],
+      "abstract": "Particle physics models beyond the Standard Model often contain global symmetries to address various unanswered questions. However, a common criticism of theories based on global symmetries is that such symmetries are generally expected to be explicitly violated by gravitational effects at the Planck scale. In the case of a global $U(1)$ symmetry, this explicit breaking can reduce the symmetry to a discrete subgroup of $U(1)$, leading to the formation of cosmic strings attached to multiple domain walls (DWs). These DWs are usually cosmologically problematic, since their slow scaling behavior can eventually dominate the energy density of the Universe, giving rise to the well-known cosmological DW problem, which is strongly constrained by Big Bang Nucleosynthesis. In this letter, we propose a new annihilation mechanism of such DWs in theories with the simplest continuous global symmetry, $U(1)$, in the presence of gravitational effects. The mechanism is as follows: if a fermion coupled to the symmetry-breaking scalar possesses a small bare mass term, radiative corrections can generate a temperature-dependent bias for triggering DW annihilation. As a representative example, we study a majoron framework containing right-handed neutrinos with small bare mass terms, in which a wall-string network can arise once gravitational effects are taken into account. Within this setup, we show that the small bare masses of the right-handed neutrinos provide the origin of the bias responsible for triggering the annihilation of the DW network.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2026-06-06T12:38:15+00:00",
+      "updated": "2026-06-06T12:38:15+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.08142v1",
+      "html_url": "https://arxiv.org/html/2606.08142v1",
+      "entry_url": "http://arxiv.org/abs/2606.08142v1",
+      "relevance": {
+        "relevant": true,
+        "score": 5,
+        "reason": "The paper overlaps with the user's interests in early-universe cosmology (topological defects), BBN constraints, and right-handed neutrino/majoron physics, but its specific focus on domain wall annihilation mechanisms via radiatively generated bias is tangential to the user's core work on reheating dynamics, gravitational waves, JUNO phenomenology, and multi-loop perturbative calculations.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.11747v2",
+      "base_id": "2605.11747",
+      "title": "SMEFT everywhere: a NLO study of $\\boldsymbol{pp \\to t\\bar{t}H}$ with decaying tops",
+      "authors": [
+        "Giuseppe Bevilacqua",
+        "Minos Reinartz",
+        "Malgorzata Worek"
+      ],
+      "abstract": "We present the computation of the next-to-leading order QCD corrections to the $pp\\to t\\bar{t} H+X$ process in the di-lepton channel at the LHC, including relevant dimension-6 operators $({\\cal O}_{tφ}, \\, {\\cal O}_{φG},\\, {\\cal O}_{tG}, \\, {\\cal O}_{tW})$ from the Standard Model Effective Field Theory. In our studies, higher-order corrections and effective operators are consistently included in the production part of the process as well as in the top-quark decays. We perform a detailed study of linear, cross, and quadratic contributions and their uncertainties, including renormalisation group effects. Our findings are presented at the integrated and differential cross-section level for the LHC Run III center-of-mass energy of $\\sqrt{s}=13.6$ TeV. Finally, we provide predictions for $pp\\to t\\bar{t} H+X$ with stable top quarks and compare them with the results in which top quarks are reconstructed from their decay products. We show that kinematic cuts, as well as higher-order effects and SMEFT operators in top-quark decays, are important and should be consistently considered together, because they have a significant impact on the shape of the standard observables measured for the $pp\\to t\\bar{t}H+X$ process at the LHC.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2026-05-12T08:25:47+00:00",
+      "updated": "2026-06-06T12:19:44+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.11747v2",
+      "html_url": "https://arxiv.org/html/2605.11747v2",
+      "entry_url": "http://arxiv.org/abs/2605.11747v2",
+      "relevance": {
+        "relevant": true,
+        "score": 5,
+        "reason": "Although the physics application (NLO SMEFT for LHC top quarks) is distant from your primary focus on cosmology and neutrino physics, the paper's description of a new computational framework for automated amplitude generation from UFO models aligns with your specific interest in computational tools for high-energy physics.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.08268v1",
+      "base_id": "2606.08268",
+      "title": "Electron-muon colliders at high energies to discover heavy sterile neutrinos",
+      "authors": [
+        "Gorazd Cvetič",
+        "Claudio Dib",
+        "C. S. Kim",
+        "K. N. Vishnudath"
+      ],
+      "abstract": "We study high-energy charged-lepton-flavor-violating (cLFV) channels in $e^- μ^+$ scattering to probe heavy sterile neutrinos, which arise naturally in minimal extensions of the Standard Model. For $\\sqrt{s} \\le 2M_W$, we consider the process $e^- μ^+ \\to e^+ μ^-$, which is dominated by one-loop box diagrams. We numerically evaluate these diagrams, involving a high-energy extension of the Inami-Lim functions, and find that the amplitudes are strongly suppressed because of their quartic dependence on light-heavy mixing. Using current bounds on active-sterile neutrino mixing, we determine the maximal rates allowed by existing constraints. For $\\sqrt{s} > 2M_W$, we analyze the process $e^- μ^+ \\to W^+ W^-$ and compute the corresponding cross sections in both single-sterile and minimal type-I seesaw scenarios. We find this latter process to be significantly more promising for revealing the presence of heavy sterile neutrinos at $e-μ$ colliders.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-06-06T17:27:48+00:00",
+      "updated": "2026-06-06T17:27:48+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.08268v1",
+      "html_url": "https://arxiv.org/html/2606.08268v1",
+      "entry_url": "http://arxiv.org/abs/2606.08268v1",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "The paper studies heavy neutral leptons (HNLs) and type-I seesaw phenomenology which overlaps with the researcher's neutrino physics interests, but focuses on collider discovery channels at e-μ colliders rather than the researcher's primary focus on cosmological bounds (BBN, ΔNeff), dark decays, or JUNO phenomenology.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.08273v1",
+      "base_id": "2606.08273",
+      "title": "Probing Signatures of Right-Handed Neutrinos via $b \\to s ν\\barν$ Decays",
+      "authors": [
+        "Prisha",
+        "Priyanka Boora",
+        "Dinesh Kumar",
+        "Jitendra Kumar"
+      ],
+      "abstract": "The recent Belle II measurement of $\\mathcal{B}(B^+\\to K^+ν\\barν)$, which deviates from the Standard Model prediction, provides a strong motivation to search for New Physics in $b\\to sν\\barν$ transitions. We perform a model-independent analysis within the low-energy effective theory, focusing on dimension-six vector operators involving right-handed neutrinos. Using the Belle II measurement of $\\mathcal{B}({B\\to Kν\\barν})$ together with the upper limit on $\\mathcal{B}({B\\to K^{*}ν\\barν})$, we constrain the new physics interactions. We study the correlation of $\\mathcal{B}({B\\to Kν\\barν})$ with $\\mathcal{B}({B\\to K^{*}ν\\barν})$, $\\mathcal{B}({B_s\\toφν\\barν})$, $\\mathcal{B}({Λ_b\\toΛν\\barν})$, and the longitudinal polarization fraction $F_L^{K^*}$. We find sizeable enhancements in all branching fractions studied, while $F_L^{K^*}$ offers complementary sensitivity to the underlying RHN interaction structure. These results provide testable signatures of right-handed neutrino interactions at Belle~II and LHCb, and at the future FCC-ee experiment.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-06-06T17:38:34+00:00",
+      "updated": "2026-06-06T17:38:34+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.08273v1",
+      "html_url": "https://arxiv.org/html/2606.08273v1",
+      "entry_url": "http://arxiv.org/abs/2606.08273v1",
+      "relevance": {
+        "relevant": true,
+        "score": 3,
+        "reason": "While the paper deals with right-handed neutrinos (related to the user's interest in heavy neutral leptons), its focus on B-meson flavor physics constraints via b→sνν̄ transitions is largely outside the user's core interests in cosmological bounds, JUNO phenomenology, and dark-sector decays of HNLs.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    }
+  ]
+}

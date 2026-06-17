@@ -1,0 +1,42 @@
+{
+  "date": "2025-11-23",
+  "papers": [
+    {
+      "arxiv_id": "2511.18522v4",
+      "base_id": "2511.18522",
+      "title": "Robust Non-Singular Bouncing Cosmology from Regularized Hyperbolic Field Space",
+      "authors": [
+        "Oleksandr Kravchenko"
+      ],
+      "abstract": "We present a framework for non-singular bouncing cosmology in a closed ($k=+1$) universe with a two-field sigma model whose regularized hyperbolic field-space metric $g^S_{χχ}(φ) = (1 + e^{-2αφ/M_{\\mathrm{Pl}}})^{-1}$ is derived from three physical boundary conditions: (i) kinetic suppression during contraction enabling the bounce, (ii) canonical normalization during inflation preserving perturbative unitarity, and (iii) positive-definiteness ensuring ghost-freedom. The bounce preserves the Null Energy Condition and is BKL-stable. The full two-field perturbation system $(δφ, δχ, Φ)$ is integrated in the Newtonian gauge through the bounce over 65 e-folds, circumventing the comoving-gauge $H=0$ singularity, with both Einstein constraints verified a posteriori. Scalar sound speeds numerically measured adjacent to $H=0$ satisfy $|c_φ^2-1|, |c_χ^2-1| \\leq 8 \\times 10^{-16}$, establishing strict hyperbolicity (no ghost or gradient instability); $\\mathcal{R}$ is conserved on super-Hubble scales to $|Δ\\mathcal{R}^2/\\mathcal{R}^2| = 4.43 \\times 10^{-3}$. An independent CMB-scale Mukhanov-Sasaki integration confirms $n_s = 0.9683$, matching exact Starobinsky slow-roll to $|Δn_s| = 5.47 \\times 10^{-4}$. $δN$ non-Gaussianity yields $f_{\\mathrm{NL}}^{\\mathrm{local}} = +0.0133$, consistent with Maldacena's relation to $|Δf_{\\mathrm{NL}}| = 1.54 \\times 10^{-4}$. A bounce-scale spectral feature is pushed by $\\sim 2630$ post-bounce e-folds to $k_{\\mathrm{CMB}}/k_H \\sim 10^{1116}$, far beyond the observable universe, so the model recovers Starobinsky predictions on all observable scales while resolving the initial singularity. Predictions ($n_s \\approx 0.967$, $r \\approx 0.003$, $f_{\\mathrm{NL}}^{\\mathrm{local}} \\approx +0.013$, independent of $α$) are consistent with Planck 2018 and testable by next-generation CMB experiments.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-11-23T16:27:41+00:00",
+      "updated": "2026-04-25T21:51:06+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.18522v4",
+      "html_url": "https://arxiv.org/html/2511.18522v4",
+      "entry_url": "http://arxiv.org/abs/2511.18522v4"
+    },
+    {
+      "arxiv_id": "2511.18510v2",
+      "base_id": "2511.18510",
+      "title": "Three faces of random walks in hyperbolic domain: BKT, Lifshitz tails, and KPZ",
+      "authors": [
+        "Daniil Fedotov",
+        "Sergei Nechaev"
+      ],
+      "abstract": "We show that continuous random walks (diffusion) in the Poincaré hyperbolic upper halfplane $\\mathbb{H}^2 = \\{(x,y)|y>0\\}$ provide a unifying description of three seemingly unrelated phenomena: (i) the non-analytic divergence of the correlation length at the Berezinskii--Kosterlitz--Thouless (BKT) transition; (ii) the appearance of the Kardar--Parisi--Zhang (KPZ) exponent in the fluctuational behavior of stretched random walks constrained above an impermeable disc; and (iii) the emergence of Lifshitz tails (LT) in 1D statistics of rare events. We adapt the renormalization-group equations originally developed for the Efimov effect in a 2D conformally invariant potential to the case of diffusion in $\\mathbb{H}^2$, thereby reproducing the BKT--type divergence of the correlation length. In frameworks of the same model we derive the KPZ--type behavior for the survival probability of stretched random walks near the boundary of $\\mathbb{H}^2$ using scaling arguments, WKB--type approach, and numerical analysis. We demonstrate that LT emerge naturally in a deterministic large-deviation random walks' statistics in $\\mathbb{H}^2$ via instanton approach, which rhymes with the rare-event behavior of 1D diffusion in the array of traps with the Poisson distribution. We conjecture that the dominant contribution to the statistics of paths responsible for BKT--like physics emerges from trajectories pushed to large-deviation stretched regime.",
+      "categories": [
+        "cond-mat.stat-mech",
+        "hep-th"
+      ],
+      "published": "2025-11-23T16:06:10+00:00",
+      "updated": "2026-05-22T16:14:35+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.18510v2",
+      "html_url": "https://arxiv.org/html/2511.18510v2",
+      "entry_url": "http://arxiv.org/abs/2511.18510v2"
+    }
+  ],
+  "total": 2
+}

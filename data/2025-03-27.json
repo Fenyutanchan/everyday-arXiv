@@ -1,0 +1,72 @@
+{
+  "date": "2025-03-27",
+  "papers": [
+    {
+      "arxiv_id": "2503.21432v2",
+      "base_id": "2503.21432",
+      "title": "Exploring the flavor structure of leptons via diffusion models",
+      "authors": [
+        "Satsuki Nishimura",
+        "Hajime Otsuka",
+        "Haruki Uchiyama"
+      ],
+      "abstract": "We propose a method to explore the flavor structure of leptons using diffusion models, which are known as one of generative artificial intelligence (generative AI). We consider a simple extension of the Standard Model with the type I seesaw mechanism and train a neural network to generate the neutrino mass matrix. By utilizing transfer learning, the diffusion model generates 104 solutions that are consistent with the neutrino mass squared differences and the leptonic mixing angles. The distributions of the CP phases and the sums of neutrino masses, which are not included in the conditional labels but are calculated from the solutions, exhibit non-trivial tendencies. In addition, the effective mass in neutrinoless double beta decay is concentrated near the boundaries of the existing confidence intervals, allowing us to verify the obtained solutions through future experiments. An inverse approach using the diffusion model is expected to facilitate the experimental verification of flavor models from a perspective distinct from conventional analytical methods.",
+      "categories": [
+        "hep-ph",
+        "cs.LG",
+        "hep-th"
+      ],
+      "published": "2025-03-27T12:17:00+00:00",
+      "updated": "2026-04-15T19:11:19+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2503.21432v2",
+      "html_url": "https://arxiv.org/html/2503.21432v2",
+      "entry_url": "http://arxiv.org/abs/2503.21432v2"
+    },
+    {
+      "arxiv_id": "2503.21875v2",
+      "base_id": "2503.21875",
+      "title": "Proposal for a shared transverse LLP detector for FCC-ee and FCC-hh and a forward LLP detector for FCC-hh",
+      "authors": [
+        "Biplob Bhattacherjee",
+        "Camellia Bose",
+        "Herbi K. Dreiner",
+        "Nivedita Ghosh",
+        "Shigeki Matsumoto",
+        "Swagata Mukherjee",
+        "Rhitaja Sengupta",
+        "Anand Sharma"
+      ],
+      "abstract": "As the particle physics community has explored most of the conventional avenues for new physics, the more elusive areas are becoming increasingly appealing. One such potential region, where new physics might be hiding, involves light and weakly interacting long-lived particles (LLPs). To probe deeper into this region, where the possibility of highly displaced scenarios weakens the role of general-purpose collider detectors, dedicated LLP detectors are our best option. However, their potential can only be fully realized if we optimize their position and dimensions to suit our physics goals. This is possible at the upcoming Future Circular Collider (FCC) facility, where the feasibility and design studies are still ongoing and can accommodate new proposals focused specifically on LLP searches. We propose optimized dedicated detectors in both the transverse and forward directions, DELIGHT and FOREHUNT, significantly enhancing the sensitivity to previously uncharted regions of the new physics parameter space. Our proposed DELIGHT detector can additionally serve as a shared transverse detector during both the FCC-ee and FCC-hh runs. The concept of a shared transverse detector is novel and sustainable, utilizing the same interaction points of the lepton and hadron colliders at the FCC. This minimizes costs and boosts the LLP physics case at the FCC.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2025-03-27T18:00:05+00:00",
+      "updated": "2026-06-03T16:41:36+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2503.21875v2",
+      "html_url": "https://arxiv.org/html/2503.21875v2",
+      "entry_url": "http://arxiv.org/abs/2503.21875v2"
+    },
+    {
+      "arxiv_id": "2503.21762v4",
+      "base_id": "2503.21762",
+      "title": "On the open TS/ST correspondence",
+      "authors": [
+        "Matijn François",
+        "Alba Grassi"
+      ],
+      "abstract": "The topological string/spectral theory correspondence establishes a precise, non-perturbative duality between topological strings on local Calabi-Yau threefolds and the spectral theory of quantized mirror curves. While this duality has been rigorously formulated for the closed topological string sector, the open string sector remains less understood. Building on the results of [1-3], we make further progress in this direction by constructing entire, off-shell eigenfunctions for the quantized mirror curve from open topological string partition functions. We focus on local $\\mathbb{F}_0$, whose mirror curve corresponds to the Baxter equation of the two-particle, relativistic Toda lattice. We then study the standard and dual four-dimensional limits, where the quantum mirror curve for local $\\mathbb{F}_0$ degenerates into the modified Mathieu and McCoy-Tracy-Wu operators, respectively. In these limits, our framework provides a way to construct entire, off-shell eigenfunctions for the difference equations associated with these operators. Furthermore, we find a simple relation between the on-shell eigenfunctions of the modified Mathieu and McCoy-Tracy-Wu operators, leading to a functional relation between the operators themselves.",
+      "categories": [
+        "hep-th",
+        "math-ph",
+        "math.SP"
+      ],
+      "published": "2025-03-27T17:57:37+00:00",
+      "updated": "2026-06-10T17:57:42+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2503.21762v4",
+      "html_url": "https://arxiv.org/html/2503.21762v4",
+      "entry_url": "http://arxiv.org/abs/2503.21762v4"
+    }
+  ],
+  "total": 3
+}

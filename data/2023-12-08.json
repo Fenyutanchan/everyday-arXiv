@@ -1,0 +1,31 @@
+{
+  "date": "2023-12-08",
+  "papers": [
+    {
+      "arxiv_id": "2312.05344v3",
+      "base_id": "2312.05344",
+      "title": "Quantum Algorithms for Simulating Nuclear Effective Field Theories",
+      "authors": [
+        "James D. Watson",
+        "Jacob Bringewatt",
+        "Alexander F. Shaw",
+        "Andrew M. Childs",
+        "Alexey V. Gorshkov",
+        "Zohreh Davoudi"
+      ],
+      "abstract": "Quantum computers offer the potential to simulate nuclear processes that are classically intractable. With the goal of understanding the necessary quantum resources to realize this potential, we employ state-of-the-art Hamiltonian-simulation methods, and conduct a thorough algorithmic analysis, to estimate the qubit and gate costs to simulate low-energy effective field theories (EFTs) of nuclear physics. Within the framework of nuclear lattice EFT, we obtain simulation costs for the leading-order pionless and pionful EFTs. For the latter, we consider both static pions represented by a one-pion-exchange potential between the nucleons, and dynamical pions represented by relativistic bosonic fields coupled to non-relativistic nucleons. Within these models, we examine the resource costs for the tasks of time evolution and energy estimation for physically relevant scales. We account for model errors associated with truncating either long-range interactions in the one-pion-exchange EFT or the pionic Hilbert space in the dynamical-pion EFT, and for algorithmic errors associated with product-formula approximations and quantum phase estimation. We find that the pionless EFT is the least costly to simulate, followed by the one-pion-exchange theory, then the dynamical-pion theory. We demonstrate how symmetries of the low-energy nuclear Hamiltonians can be utilized to obtain tighter error bounds. By retaining the locality of nucleonic interactions when mapped to qubits, we achieve reduced circuit depth and substantial parallelization. In the process, we develop new methods to bound the algorithmic error for classes of fermionic number-preserving Hamiltonians, and obtain tighter Trotter error bounds by explicitly computing nested commutators of Hamiltonian terms. Compared to previous estimates for the pionless EFT, our results represent an improvement by several orders of magnitude.",
+      "categories": [
+        "quant-ph",
+        "hep-lat",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "published": "2023-12-08T20:09:28+00:00",
+      "updated": "2026-05-18T16:12:00+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2312.05344v3",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2312.05344v3"
+    }
+  ],
+  "total": 1
+}

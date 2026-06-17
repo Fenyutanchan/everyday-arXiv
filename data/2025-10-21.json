@@ -1,0 +1,326 @@
+{
+  "date": "2025-10-21",
+  "papers": [
+    {
+      "arxiv_id": "2510.18946v2",
+      "base_id": "2510.18946",
+      "title": "The THESAN project: Lyman-alpha emitters as probes of ionized bubble sizes",
+      "authors": [
+        "Meredith Neyer",
+        "Aaron Smith",
+        "Mark Vogelsberger",
+        "Luz Ángela García",
+        "Rahul Kannan",
+        "Enrico Garaldi",
+        "Laura Keating"
+      ],
+      "abstract": "We use the THESAN radiation-hydrodynamics simulations to investigate how Lyman-$α$ emitters (LAEs) trace ionized bubble sizes during the Epoch of Reionization. We generate realistic LAE catalogs by combining accurate intrinsic Ly$α$ production and intergalactic transmission with an empirical model for dust absorption and gas outflows. By calibrating to observationally-constrained Ly$α$ luminosity functions, we reproduce the rapid decline in Ly$α$ visibility toward higher redshifts while revealing mild tensions in LAE fractions near the end of reionization. Before the midpoint of reionization, galaxies within larger line-of-sight bubbles ($\\gtrsim 10$ cMpc) have higher observed Ly$α$ luminosity and equivalent width (EW), demonstrating that the evolving LAE fraction provides a practical statistical tracer for bubble size. These correlations weaken as percolation progresses and the IGM becomes increasingly ionized. In LAE selected samples with $L_{\\text{Ly}α} > 10^{41.5}\\ \\text{erg s}^{-1}$, Ly$α$ properties correlate with bubble size more strongly than UV magnitude, especially at $z \\gtrsim 7$. This simulation-based framework maps LAE selections to bubble-size statistics, clarifies biases in more idealized models, and will supply public catalogs to interpret current and forthcoming JWST and narrow-band LAE surveys in terms of the evolving topology of reionization.",
+      "categories": [
+        "astro-ph.GA",
+        "astro-ph.CO"
+      ],
+      "published": "2025-10-21T18:00:00+00:00",
+      "updated": "2026-04-16T15:13:14+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.18946v2",
+      "html_url": "https://arxiv.org/html/2510.18946v2",
+      "entry_url": "http://arxiv.org/abs/2510.18946v2"
+    },
+    {
+      "arxiv_id": "2510.18492v3",
+      "base_id": "2510.18492",
+      "title": "Electromagnetic characteristics as probes into the inner structures of the predicted $Ξ_c^{(',*)}D^{(*)}_s$ molecular states",
+      "authors": [
+        "Sheng-He Zhu",
+        "Fu-Lai Wang",
+        "Xiang Liu"
+      ],
+      "abstract": "In this work, we conduct a systematic investigation of the electromagnetic properties, specifically the magnetic moments and the M1 radiative decay behavior, of the predicted $Ξ_c^{(',*)}D^{(*)}_s$-type double-charm hidden-strangeness molecular pentaquarks. The study is carried out within the framework of the constituent quark model to evaluate these electromagnetic observables, and our analysis incorporates three distinct scenarios: single-channel analysis, $S$-$D$ wave mixing analysis, and coupled-channel analysis. The calculated magnetic moments reveal characteristic patterns that reflect their underlying constituent configurations and provide sensitive probes for their quantum number assignments. Furthermore, we identify several M1 radiative decay channels with sizable widths that may offer promising signatures for future experimental detection. These M1 transitions also act as sensitive probes into their inner structures, displaying distinctive features that help differentiate between their constituent configurations and quantum number assignments. We anticipate that this study will stimulate experimental interest in exploring the electromagnetic properties of the $Ξ_c^{(',*)}D^{(*)}_s$ molecular states, thereby advancing our structural understanding of these exotic hadronic states.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2025-10-21T10:30:12+00:00",
+      "updated": "2026-04-16T11:15:02+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.18492v3",
+      "html_url": "https://arxiv.org/html/2510.18492v3",
+      "entry_url": "http://arxiv.org/abs/2510.18492v3"
+    },
+    {
+      "arxiv_id": "2510.18958v3",
+      "base_id": "2510.18958",
+      "title": "Sensitivity forecasts for gravitational-wave detectors to dark matter decaying into gravitons",
+      "authors": [
+        "Jose A. R. Cembranos",
+        "Álvaro Cendal"
+      ],
+      "abstract": "Dark matter may not be perfectly stable, and its decay could generate distinctive gravitational-wave signatures. In this work, we present model-independent predictions for the stochastic gravitational-wave background arising from the decay of ultralight dark matter into gravitons. Within this framework, we forecast the sensitivity reach of current and forthcoming gravitational-wave detectors to such signals.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "published": "2025-10-21T18:00:01+00:00",
+      "updated": "2026-04-22T10:03:54+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.18958v3",
+      "html_url": "https://arxiv.org/html/2510.18958v3",
+      "entry_url": "http://arxiv.org/abs/2510.18958v3"
+    },
+    {
+      "arxiv_id": "2510.18231v2",
+      "base_id": "2510.18231",
+      "title": "SKYSURF-11: A New Zodiacal Light Model Optimized for Optical Wavelengths",
+      "authors": [
+        "Rosalia O'Brien",
+        "Richard G. Arendt",
+        "Rogier A. Windhorst",
+        "Tejovrash Acharya",
+        "Annalisa Calamida",
+        "Timothy Carleton",
+        "Delondrae Carter",
+        "Seth H. Cohen",
+        "Eli Dwek",
+        "Brenda L. Frye",
+        "Rolf A. Jansen",
+        "Scott J. Kenyon",
+        "Anton M. Koekemoer",
+        "John MacKenty",
+        "Megan Miller",
+        "Rafael Ortiz",
+        "Peter C. B. Smith",
+        "Scott A. Tompkins"
+      ],
+      "abstract": "We present an improved zodiacal light model, optimized for optical wavelengths, using archival Hubble Space Telescope (HST) imaging from the SKYSURF program. The Kelsall et al. 1998 model used infrared imaging from the Diffuse Infrared Background Experiment (DIRBE) on board the Cosmic Background Explorer to create a 3D structure of the interplanetary dust cloud. However, this model cannot accurately represent zodiacal light emission outside of DIRBE's nominal wavelength bandpasses, the bluest of which is 1.25 micron. We present a revision to this model (called ZodiSURF) that incorporates analytical forms of both the scattering phase function and albedo as a function of wavelength, which are empirically determined across optical wavelengths (0.3-1.6 micron) from over 5,000 HST sky surface brightness (sky-SB) measurements. This refined model results in significantly improved predictions of zodiacal light emission at these wavelengths and for Sun angles greater than 80 deg. Fits to HST data show an uncertainty in the model of ~4.5%. Remarkably, the HST sky-SB measurements show an excess of residual diffuse light (HST Sky - ZodiSURF - Diffuse Galactic Light) of 0.013 +/- 0.006 MJy/sr. We suggest that a very dim spherical dust cloud may need to be included in the zodiacal light model, which we present here as a toy model.",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.EP",
+        "astro-ph.GA"
+      ],
+      "published": "2025-10-21T02:30:48+00:00",
+      "updated": "2026-04-28T15:50:46+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.18231v2",
+      "html_url": "https://arxiv.org/html/2510.18231v2",
+      "entry_url": "http://arxiv.org/abs/2510.18231v2"
+    },
+    {
+      "arxiv_id": "2510.18653v3",
+      "base_id": "2510.18653",
+      "title": "Globalization of perturbative Chern-Simons theory on the moduli space of flat connections in the BV formalism",
+      "authors": [
+        "Pavel Mnev",
+        "Konstantin Wernli"
+      ],
+      "abstract": "We study the perturbative path integral of Chern-Simons theory (the effective BV action on zero-modes) in Lorenz gauge, expanded around a (possibly non-acyclic) flat connection, as a family over the smooth irreducible stratum $\\mathcal{M}' \\subset \\mathcal{M}$ of the moduli space of flat connections. We prove that it is horizontal with respect to the Grothendieck connection up to a BV-exact term. From it, we construct a volume form on $\\mathcal{M'}$ - the \"global partition function\" - whose cohomology class is independent of the metric, and so is a 3-manifold invariant.   As an element of the construction, we construct an extension of the perturbative partition function to a nonhomogeneous form on the space of triples $(A,A',g)$ consisting of (1) a \"kinetic\" flat connection $A$ around which Chern-Simons action is expanded, (2) a \"gauge-fixing\" flat connection $A'$, (3) a metric $g$. This extension is horizontal with respect to an appropriate Gauss-Manin superconnection (which involves the BV operator as a degree zero component).",
+      "categories": [
+        "math-ph",
+        "hep-th"
+      ],
+      "published": "2025-10-21T14:02:49+00:00",
+      "updated": "2026-04-29T13:20:31+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.18653v3",
+      "html_url": "https://arxiv.org/html/2510.18653v3",
+      "entry_url": "http://arxiv.org/abs/2510.18653v3"
+    },
+    {
+      "arxiv_id": "2510.18805v3",
+      "base_id": "2510.18805",
+      "title": "Growth and collapse of subsystem complexity under random unitary circuits",
+      "authors": [
+        "Jeongwan Haah",
+        "Douglas Stanford"
+      ],
+      "abstract": "For chaotic quantum dynamics modeled by random unitary circuits, we study the complexity of reduced density matrices of subsystems as a function of evolution time where the initial global state is a product pure state. The state complexity is defined as the minimum number of local quantum channels to generate a given state from a product state to a good approximation. In $1+1$d, we prove that the complexity of subsystems of length $\\ell$ smaller than half grows linearly in time $T$ at least up to $T = \\ell / 4$ but becomes zero after time $T = \\ell /2$ in the limit of a large local dimension, while the complexity of the complementary subsystem of length larger than half grows linearly in time up to exponentially late times. Using holographic correspondence, we give some evidence that the state complexity of the smaller subsystem should actually grow linearly up to time $T = \\ell/2$ and then abruptly decay to zero.",
+      "categories": [
+        "quant-ph",
+        "hep-th"
+      ],
+      "published": "2025-10-21T16:59:34+00:00",
+      "updated": "2026-04-29T05:56:16+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.18805v3",
+      "html_url": "https://arxiv.org/html/2510.18805v3",
+      "entry_url": "http://arxiv.org/abs/2510.18805v3"
+    },
+    {
+      "arxiv_id": "2510.18953v2",
+      "base_id": "2510.18953",
+      "title": "The $B^+ \\to K^+ ν\\bar ν$ decay as a search for the QCD axion",
+      "authors": [
+        "Merna Abumusabh",
+        "Giulio Dujany",
+        "Diego Guadagnoli",
+        "Axel Iohner",
+        "Claudio Toni"
+      ],
+      "abstract": "We introduce a model-independent framework to reinterpret Belle II results using only public data, analytically reconstructing the mapping between true and reconstructed kinematic variables within the statistically dominant Inclusive Tagging Analysis. This enables rare-decay measurements to probe light invisible particles -- such as the QCD axion or axion-like particles, collectively denoted $a$ -- without relying on internal simulations. Applying the method to $B^+ \\! \\to \\! K^+ ν\\barν$ yields the strongest bound on the branching fraction for $B^+ \\! \\to \\! K^+ a$, improving existing limits by about a factor of nine and constraining the axion's fundamental flavour-changing coupling to $b$ and $s$ quarks. The approach establishes $B^+ \\! \\to \\! K^+ ν\\barν$ as a dual probe -- simultaneously testing short-distance new physics and light invisible states, the two probes working independently to an excellent approximation -- and provides a general strategy for model-independent reinterpretation of collider data.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2025-10-21T18:00:00+00:00",
+      "updated": "2026-05-07T14:51:48+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.18953v2",
+      "html_url": "https://arxiv.org/html/2510.18953v2",
+      "entry_url": "http://arxiv.org/abs/2510.18953v2"
+    },
+    {
+      "arxiv_id": "2510.18524v3",
+      "base_id": "2510.18524",
+      "title": "Superintegrability for some $(q,t)$-deformed matrix models",
+      "authors": [
+        "Fan Liu",
+        "Rui Wang",
+        "Jie Yang",
+        "Wei-Zhong Zhao"
+      ],
+      "abstract": "We analyze the Macdonald's $(q,t)$-deformed hypergeometric functions with one and two set variables and present their constraints. We prove the uniqueness to the solutions of these constraints. We propose a concise method to prove the superintegrability relations for $(q,t)$-deformed matrix models, where the constraints of hypergeometric functions play a crucial role. A conjectured superintegrability relation in the literature for the refined Chern-Simons model can be easily proved by our method. Moreover, we construct a general $(q,t)$-deformed matrix model. We give the constraint conditions for parameters in the integral. The superintegrability relations for the $(q,t)$-deformed integrals with allowed parameters are derived from the hypergeometric constraints.",
+      "categories": [
+        "hep-th",
+        "math-ph"
+      ],
+      "published": "2025-10-21T11:04:23+00:00",
+      "updated": "2026-05-18T02:02:43+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.18524v3",
+      "html_url": "https://arxiv.org/html/2510.18524v3",
+      "entry_url": "http://arxiv.org/abs/2510.18524v3"
+    },
+    {
+      "arxiv_id": "2510.18564v2",
+      "base_id": "2510.18564",
+      "title": "The Muonic Portal to Vector Dark Matter:connecting precision muon physics, cosmology, and colliders",
+      "authors": [
+        "Alexander Belyaev",
+        "Luca Panizzi",
+        "Nakorn Thongyoi",
+        "Franz Wilhelm"
+      ],
+      "abstract": "We present a comprehensive study of the Muonic Portal to Vector Dark Matter (MPVDM), a minimal extension of the Standard Model featuring a new $SU(2)_D$ gauge symmetry and vector-like muons that mediate interactions between the dark sector and the muon sector. We show that the MPVDM can simultaneously reproduce the observed dark matter relic abundance and accommodate scenarios consistent with the current experimental determination of the muon anomalous magnetic moment, $(g-2)_μ$, as well as scenarios allowing for a non-zero new physics contribution to $(g-2)_μ$. One of the key results of this work is the identification of a generic off-resonance velocity-suppression mechanism that allows light ($\\lesssim 1$ GeV) vector dark matter to evade stringent CMB constraints near $2m_{\\mathrm{DM}}\\simeq m_{H_D}$. A five-dimensional parameter scan combining cosmological, collider, and precision constraints shows that scenarios admitting a non-zero contribution to $(g-2)_μ$ favour sub-GeV dark matter realised near the scalar resonance with a dark gauge coupling $g_D\\!\\sim\\!10^{-3}$ and TeV-scale vector-like muons, while scenarios consistent with a Standard-Model-like $(g-2)_μ$ allow a broad viable dark matter mass range from sub-GeV to multi-TeV. By recasting ATLAS and CMS searches for $μ^+μ^-$ final states with missing transverse energy, we derive a lower bound of approximately 850~GeV on the vector-like muon masses. We further identify distinctive multi-lepton collider signatures, including six-, eight-, and ten-muon final states as well as mixed muon--electron topologies with displaced electron pairs, providing striking and well-motivated targets for searches at the LHC and future colliders.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "hep-ex",
+        "hep-th"
+      ],
+      "published": "2025-10-21T12:18:47+00:00",
+      "updated": "2026-05-18T22:59:57+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.18564v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2510.18564v2"
+    },
+    {
+      "arxiv_id": "2510.18647v2",
+      "base_id": "2510.18647",
+      "title": "Observational Tests of Regular Black Holes with Scalar Hair and their Stability",
+      "authors": [
+        "P. A. González",
+        "Marco Olivares",
+        "Eleftherios Papantonopoulos",
+        "Yerko Vásquez"
+      ],
+      "abstract": "We study the geodesic structure and observable properties of asymptotically flat regular black holes sourced by a phantom scalar field characterized by a scalar charge $A$. This parameter removes the central singularity and continuously deforms the Schwarzschild geometry. The equations of motion for test particles and photons are derived, and the resulting null geodesics are analyzed, including the deflection of light, gravitational time delay, and redshift, in order to constrain $A$ using classical Solar System tests. These observations impose stringent limits on the scalar charge, confirming that $A$ must remain extremely small in the weak-field regime to ensure full consistency with general relativity. In the strong-field regime, we compute the Lyapunov exponent $λ$ associated with the photon sphere and establish its exact relations with the critical impact parameter $\\mathcal{B}_u$ and the angular size of the shadow $α_{\\mathrm{sh}}$, given by $\\mathcal{B}_u = 1/|λ|$ and $α_{\\mathrm{sh}} = 1/(r_{0}|λ|)$. These correspondences reveal that the dynamical instability of null circular orbits governs the optical appearance of the black hole. Our results show that increasing $A$ reduces the instability of photon trajectories and enlarges the angular size of the shadow, indicating that the regularization scale leaves a distinct observational imprint on the geometry of regular black holes. In addition, constraints derived from Event Horizon Telescope observations of M87* and Sgr A* further restrict the allowed range of the scalar charge, reinforcing the consistency of the model with current astrophysical observations.",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2025-10-21T13:58:02+00:00",
+      "updated": "2026-05-19T22:49:50+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.18647v2",
+      "html_url": "https://arxiv.org/html/2510.18647v2",
+      "entry_url": "http://arxiv.org/abs/2510.18647v2"
+    },
+    {
+      "arxiv_id": "2510.19047v2",
+      "base_id": "2510.19047",
+      "title": "Global time-frequency search for stellar-mass binary black holes in LISA",
+      "authors": [
+        "Diganta Bandopadhyay",
+        "Christian E. A. Chapman-Bird",
+        "Alberto Vecchio"
+      ],
+      "abstract": "We present a complete pipeline for detecting and characterizing gravitational waves (GWs) produced by the inspiral of stellar-mass binary black holes in data from the Laser Interferometer Space Antenna (LISA). The analysis framework relies on an efficient time-frequency implementation of an adaptive semi-coherent detection statistic, which we show to be robust against non-stationary noise and the presence of gaps of varying duration and cadence. The search is able to detect signals with coherent signal-to-noise ratios as low as $\\approx 11-14$ over the full parameter space of binary black holes with spins aligned to the orbital angular momentum and orbital eccentricity $\\le 0.01$ when deployed on the 2-year-long LISA Data Challenge Yorsh. The search can be run within a day using $\\approx 40$ GPUs. The techniques presented here have wider applications in GW astronomy, in particular the search for extreme-mass-ratio inspirals in LISA data.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.IM"
+      ],
+      "published": "2025-10-21T20:04:46+00:00",
+      "updated": "2026-05-22T11:56:49+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.19047v2",
+      "html_url": "https://arxiv.org/html/2510.19047v2",
+      "entry_url": "http://arxiv.org/abs/2510.19047v2"
+    },
+    {
+      "arxiv_id": "2510.19857v2",
+      "base_id": "2510.19857",
+      "title": "Simple Analytic Estimate of Black Hole Shadow Size in an Expanding Universe",
+      "authors": [
+        "Debarshi Mukherjee"
+      ],
+      "abstract": "The apparent shadow of a black hole provides one of the most direct probes of strong-field general relativity. While the shadow size in asymptotically flat spacetimes is well understood, the influence of cosmic expansion on its apparent angular diameter remains less explored. In this work, we present a simple analytic framework to estimate the shadow size of a non-rotating black hole embedded in an expanding universe. By combining the local Schwarzschild geometry with large-scale cosmological dynamics through the McVittie and Kottler metrics, we derive a compact relation between the shadow angular size and the angular diameter distance $D_A(z)$. This approach captures the essential dependence on cosmological parameters such as the Hubble constant $H_0$ and the cosmological constant $Λ$, while remaining analytically tractable. We further perform numerical estimates to quantify the redshift dependence of the apparent shadow size, showing that the effect of cosmic expansion is negligible for nearby sources but becomes relevant for high-redshift black holes. Our results demonstrate a clear conceptual connection between strong-gravity optics and cosmological expansion, providing a pedagogically transparent and physically motivated extension of black hole shadow theory to a cosmological context.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-10-21T20:21:00+00:00",
+      "updated": "2026-05-25T14:16:01+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.19857v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2510.19857v2"
+    },
+    {
+      "arxiv_id": "2510.18960v2",
+      "base_id": "2510.18960",
+      "title": "A beginner's guide to functional methods in particle physics",
+      "authors": [
+        "Markus Q. Huber"
+      ],
+      "abstract": "Functional methods like Dyson-Schwinger equations, the $n$PI effective action formalism, bound state equations and the functional renormalization group are versatile tools to study quantum field theories. They are exact, nonperturbative equations but have to be truncated for practical calculations. After a general introduction, I focus on their use in particle physics and discuss common truncations and solution techniques. The complete process from choosing a truncation to calculating observable quantities is exemplified by means of the glueball spectrum.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-10-21T18:00:02+00:00",
+      "updated": "2026-05-30T16:47:05+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.18960v2",
+      "html_url": "https://arxiv.org/html/2510.18960v2",
+      "entry_url": "http://arxiv.org/abs/2510.18960v2"
+    },
+    {
+      "arxiv_id": "2510.18832v2",
+      "base_id": "2510.18832",
+      "title": "Sharp Transitions for Subsystem Complexity",
+      "authors": [
+        "Yale Fan",
+        "Nicholas Hunter-Jones",
+        "Andreas Karch",
+        "Shivan Mittal"
+      ],
+      "abstract": "The circuit complexity of time-evolved pure quantum states grows linearly in time for an exponentially long time. This behavior has been proven in certain models, is conjectured to hold for generic quantum many-body systems, and is believed to be dual to the long-time growth of black hole interiors in AdS/CFT. Achieving a similar understanding for mixed states remains an important problem. In this work, we study the circuit complexity of time-evolved subsystems of pure quantum states. We find that for greater-than-half subsystem sizes, the complexity grows linearly in time for an exponentially long time, similarly to that of the full state. However, for less-than-half subsystem sizes, the complexity rises and then falls, returning to low complexity as the subsystem equilibrates. Notably, the transition between these two regimes occurs sharply at half system size. We use holographic duality to map out this picture of subsystem complexity dynamics and rigorously prove the existence of the sharp transition in random quantum circuits. Furthermore, we use holography to predict features of complexity growth at finite temperature that lie beyond the reach of techniques based on random quantum circuits. In particular, at finite temperature, we argue for an additional sharp transition at a critical less-than-half subsystem size. Below this critical value, the subsystem complexity saturates nearly instantaneously rather than exhibiting a rise and fall. This novel phenomenon, as well as an analogous transition above half system size, provides a target for future studies based on rigorous methods.",
+      "categories": [
+        "hep-th",
+        "cond-mat.str-el",
+        "quant-ph"
+      ],
+      "published": "2025-10-21T17:28:00+00:00",
+      "updated": "2026-06-12T19:30:01+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.18832v2",
+      "html_url": "https://arxiv.org/html/2510.18832v2",
+      "entry_url": "http://arxiv.org/abs/2510.18832v2"
+    },
+    {
+      "arxiv_id": "2510.19134v3",
+      "base_id": "2510.19134",
+      "title": "Dynamical mass generation and critical behavior in pseudo-Proca quantum electrodynamics",
+      "authors": [
+        "Helio G. Barroso",
+        "Van Sérgio Alves",
+        "Leandro O. Nascimento"
+      ],
+      "abstract": "We investigate dynamical mass generation in pseudo-Proca quantum electrodynamics (PPQED) by means of Schwinger--Dyson equations in rainbow-quenched and unquenched truncations. The pseudo-Proca screening scale $m$, together with the fine-structure constant $α$, the flavor number $N$, and the ultraviolet cutoff $Λ$, control the critical thresholds for chiral symmetry breaking in the reduced $(2+1)$D theory. Within these truncation schemes, we obtain analytical estimates for both the critical coupling $α_c(m,Λ)$ and the critical number of fermion flavors $N_c(m,Λ,g)$, and show that increasing $m$ suppresses dynamical mass generation through Yukawa screening. We further assess the robustness of this physical picture by incorporating a Ball--Chiu vertex construction, which modifies the quantitative values of the critical parameters while preserving their qualitative dependence on the screening scale $m$. In addition, within the static approximation, the anisotropic extension indicates that the critical coupling decreases as the ratio $v_F/c$ increases. Taken together, our results suggest that the scale $m$ plays an important role in modulating criticality in PPQED. Furthermore, the Ball-Chiu vertex construction shows that vertex corrections modify the quantitative values of the critical parameters while preserving the screening-driven suppression of dynamical mass generation in $(2+1)$D.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2025-10-21T23:48:28+00:00",
+      "updated": "2026-06-15T20:05:51+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.19134v3",
+      "html_url": "https://arxiv.org/html/2510.19134v3",
+      "entry_url": "http://arxiv.org/abs/2510.19134v3"
+    }
+  ],
+  "total": 15
+}

@@ -1,0 +1,61 @@
+{
+  "date": "2025-05-28",
+  "papers": [
+    {
+      "arxiv_id": "2505.22163v2",
+      "base_id": "2505.22163",
+      "title": "Condensation of a spinor field at the event horizon",
+      "authors": [
+        "Vladimir Dzhunushaliev",
+        "Vladimir Folomeev"
+      ],
+      "abstract": "The physical effect of condensation of a classical spinor field at the event horizon is under consideration. The corresponding solution is sought for the set of the Einstein-Dirac equations. It is shown that in this case there arises a black hole with a $δ$-like classical spinor field concentrated at the event horizon.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-05-28T09:26:34+00:00",
+      "updated": "2026-04-15T05:19:44+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2505.22163v2",
+      "html_url": "https://arxiv.org/html/2505.22163v2",
+      "entry_url": "http://arxiv.org/abs/2505.22163v2"
+    },
+    {
+      "arxiv_id": "2505.22217v2",
+      "base_id": "2505.22217",
+      "title": "Benincasa-Dowker-Glaser causal set actions by quantum counting",
+      "authors": [
+        "Sean A. Adamson",
+        "Petros Wallden"
+      ],
+      "abstract": "Causal set theory is an approach to quantum gravity in which spacetime is fundamentally discrete while retaining local Lorentz invariance. The Benincasa-Dowker-Glaser action is the causal set equivalent to the Einstein-Hilbert action underpinning Einstein's general theory of relativity. We present a $\\tilde{O}(n^{2})$ running-time quantum algorithm to compute the Benincasa-Dowker-Glaser action in arbitrary spacetime dimensions for causal sets with $n$ elements which is asymptotically optimal and offers a polynomial speedup compared to all known classical or quantum algorithms. To do this, we prepare a uniform superposition over an $O(n^{2})$-size arbitrary subset of computational basis states encoding the classical description of a causal set of interest. We then construct depth $\\tilde{O}(n)$ oracle circuits testing for different discrete volumes between pairs of causal set elements. Repeatedly performing a two-stage variant of quantum counting using these oracles yields the desired algorithm.",
+      "categories": [
+        "quant-ph",
+        "gr-qc"
+      ],
+      "published": "2025-05-28T10:50:06+00:00",
+      "updated": "2026-05-21T19:42:32+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2505.22217v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2505.22217v2"
+    },
+    {
+      "arxiv_id": "2505.22751v2",
+      "base_id": "2505.22751",
+      "title": "A complex logistic equation for universal energy evolution in hadronic elastic scattering",
+      "authors": [
+        "Anderson Kendi Kohara"
+      ],
+      "abstract": "We introduce a universal evolution equation for elastic scattering of hadrons, derived from Regge Field Theory (RFT) and solved in closed analytical form. The equation has a complex logistic structure and evolves initial amplitude profiles from existing models at a fixed energy, reproducing both differential cross sections and integrated quantities over a broad energy range. It admits a unique solution for each initial condition and rigorously satisfies unitarity, the Froissart--Martin bound, and dispersion relations. The dynamics are governed by two physically meaningful parameters: the effective Pomeron mass $ε_{\\mathcal{P}}$ and the nonlinear coupling $λ$, both fitted at a single energy. By decoupling the nonperturbative input from the universal energy evolution, the framework enables model-independent extrapolations and provides a minimal predictive alternative to eikonal resummation. Moreover, the structure of the equation -- featuring rapidity evolution, saturation, and impact-parameter dependence -- shares qualitative features with nonlinear QCD equations at small-$x$, such as BK and JIMWLK, suggesting a possible bridge between Regge-based and QCD-based approaches to high-energy scattering.",
+      "categories": [
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2025-05-28T18:11:57+00:00",
+      "updated": "2026-06-06T22:27:01+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2505.22751v2",
+      "html_url": "https://arxiv.org/html/2505.22751v2",
+      "entry_url": "http://arxiv.org/abs/2505.22751v2"
+    }
+  ],
+  "total": 3
+}

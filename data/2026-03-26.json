@@ -1,0 +1,164 @@
+{
+  "date": "2026-03-26",
+  "papers": [
+    {
+      "arxiv_id": "2603.25590v4",
+      "base_id": "2603.25590",
+      "title": "Wilson loop in AdS$_3 \\times S^3 \\times T^4$ from quantum M2 brane",
+      "authors": [
+        "Arkady A. Tseytlin",
+        "Zihan Wang"
+      ],
+      "abstract": "Type IIB string theory on AdS$_3 \\times S^3\\times T^4$ with RR flux as the near-horizon limit of the D1-D5 solution is expected to be dual to a (4,4) supersymmetric 2d CFT parametrized by the integers $Q_1,Q_5$ and other moduli. It is related by T-duality to type IIA string theory in the near-horizon limit of the D2-D4 solution which admits an uplift to the 11d AdS$_3 \\times S^3\\times T^5$ background which is the near-horizon limit of the M2-M5 solution. We point out that this relation allows one to use the quantum M2-brane description to probe ``non-planar'' corrections in the dual 2d CFT, in close analogy with the ABJM theory case (described by M-theory on AdS$_4 \\times S^7/\\mathbb{Z}_k$). We consider an analog of a supersymmetric Wilson loop (line defect) expectation value represented by type IIA string partition function expanded around AdS$_2\\subset $AdS$_3$ minimal surface. Its M-theory analog is the M2 brane partition function expanded near AdS$_2\\times S^1$. We compute the 1-loop contribution $Z_1$ to the M2 brane partition function and find that in contrast to the ABJM case in arXiv:2303.15207 (where $Z_1= (2\\sin{\\frac{2π}{ k}})^{-1} = \\frac{k}{ 4 π} +\\fracπ{ 6k} +...$ contains an infinite series of higher genera string corrections, $k^{-1} \\sim \\frac{g_s}{ \\sqrt {\\rm T}}$), here it is given solely by the leading string-theory contribution $Z_1= \\fracκ{ \\sqrt{2π}}$ where $κ\\sim \\sqrt{Q_5}$ plays a role analogous to $k$. We also discuss a generalization to the mixed flux case which is straightforward from the 11d perspective.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2026-03-26T16:08:44+00:00",
+      "updated": "2026-06-11T11:45:03+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.25590v4",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2603.25590v4"
+    },
+    {
+      "arxiv_id": "2603.25084v3",
+      "base_id": "2603.25084",
+      "title": "Particle motions and gravitational waveforms in rotating black hole spacetimes of loop quantum gravity",
+      "authors": [
+        "Yang Yang",
+        "Yu-Xuan Bai",
+        "Yong-Zhuang Li",
+        "Yu Han"
+      ],
+      "abstract": "We study the influence of the loop quantum gravity (LQG) holonomy-correction parameter $ξ$ on black hole horizon structure, timelike geodesic motion, and gravitational wave emission in two rotating LQG-inspired black hole spacetimes, constructed via Newman-Janis algorithm from two distinct spherically symmetric seed metrics (type BH-I and BH-II). The physically admissible range of $ξ$ is determined by requiring the existence of event horizons, marginally bound orbits, and innermost stable circular orbits simultaneously, and is found to shrink monotonically with increasing spin parameter $a$. For equatorial periodic orbits, increasing $ξ$ at fixed angular momentum enlarges the bound energy range, while for off-equatorial orbits, it suppresses the allowed range of the Carter constant, effectively confining trajectories closer to the equatorial plane. The effects of $ξ$ and $a$ on orbital dynamics are systematically antagonistic. Gravitational waveforms computed within a leading-order post-Newtonian extreme-mass-ratio inspiral (EMRI) model show that larger $ξ$ produces enhanced deviations from the Kerr waveform, more prominently so for type BH-II than type BH-I. The resulting characteristic strains occupy the $(10^{-3}, 0.1)$ Hz frequency band but fall below the sensitivity curves of current and near-future space-based detectors for the EMRI parameters considered ($M=10^7 M_\\odot$, $m=10 M_\\odot$, $D_L = 200$ Mpc). Adiabatic inspiral calculations confirm that $ξ$ and $a$ drive orbital evolution in opposite directions, with their relative magnitude determining whether quantum corrections accelerate or retard the inspiral. These results establish systematic observational signatures of holonomy corrections in rotating LQG black holes and motivate higher-fidelity waveform modeling for future space-based gravitational wave detectors.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2026-03-26T06:38:36+00:00",
+      "updated": "2026-04-23T10:20:59+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.25084v3",
+      "html_url": "https://arxiv.org/html/2603.25084v3",
+      "entry_url": "http://arxiv.org/abs/2603.25084v3"
+    },
+    {
+      "arxiv_id": "2603.24932v2",
+      "base_id": "2603.24932",
+      "title": "The identification between the bulk and boundary conserved quantities",
+      "authors": [
+        "Gerui Chen",
+        "Zien Gao",
+        "Xin Lan",
+        "Jie-qiang Wu",
+        "Hongbao Zhang"
+      ],
+      "abstract": "By using Wald formalism, we show that the identification between the bulk and boundary conserved quantities induced by the perturbation of generic non-electromagnetic matter field holds not only on top of the asymptotically flat stationary spacetimes but also on top of the asymptotically AdS stationary ones. We further show that such an identification reduces to the familiar form for the test point particle by viewing it as the limiting case of general matter.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2026-03-26T01:49:11+00:00",
+      "updated": "2026-05-07T08:28:57+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.24932v2",
+      "html_url": "https://arxiv.org/html/2603.24932v2",
+      "entry_url": "http://arxiv.org/abs/2603.24932v2"
+    },
+    {
+      "arxiv_id": "2603.25016v3",
+      "base_id": "2603.25016",
+      "title": "Topological Quantization of Complex Velocity in Stochastic Spacetimes",
+      "authors": [
+        "Jorge Meza-Domínguez",
+        "Tonatiuh Matos"
+      ],
+      "abstract": "We establish a rigorous geometric framework for quantum fields on a stochastic gravitational background. Starting from a master partition function that averages over metric fluctuations, we define a matter amplitude $\\mathcal{K}$, whose logarithmic derivative yields a complex velocity field $η_μ = π_μ - i u_μ$. This object, originating in Nelson's stochastic mechanics, is a section of the pullback bundle $E = π_2^*(T^*M)$ over the product of configuration space $\\mathcal{C}$ and spacetime $M$. We prove that $η_μ$ defines a flat $U(1)$ connection with $\\mathcal{K}$ as its horizontal section, and via a bundle isomorphism it maps to the symmetric logarithmic derivative of quantum estimation theory. The coupled dynamics collapse into $\\mathcal{L}_ηη= d(|η|^2)$. We resolve the tension between flatness and multi-valuedness: although the connection is flat, the potential can be multi-valued from topological terms or branch cuts. The total phase satisfies $\\frac{m}{\\hbar}\\oint_γη_μ dx^μ = 2πn + Δφ_{\\text{top}}$. We demonstrate this in a toy model: a scalar field on a conical spacetime with deficit angle $α$, computing the matter amplitude in the Gaussian approximation, deriving the complex velocity, and calculating its holonomy. The resulting topological offset receives a quantized stochastic correction depending on the variance of metric fluctuations, providing an experimental signature for atom interferometry. This framework geometrizes quantum mechanics without hidden variables: stochasticity imprints spacetime fluctuations on matter, preserving the wave function's probabilistic nature while giving a geometric origin for the Born rule.",
+      "categories": [
+        "gr-qc",
+        "math-ph"
+      ],
+      "published": "2026-03-26T04:25:23+00:00",
+      "updated": "2026-05-05T21:54:23+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.25016v3",
+      "html_url": "https://arxiv.org/html/2603.25016v3",
+      "entry_url": "http://arxiv.org/abs/2603.25016v3"
+    },
+    {
+      "arxiv_id": "2603.25292v2",
+      "base_id": "2603.25292",
+      "title": "Non-Minimally Coupled Scalar Field, Area Quantization and Black Hole Entropy",
+      "authors": [
+        "Sahil Devdutt",
+        "Akriti Garg",
+        "Ayan Chatterjee"
+      ],
+      "abstract": "The enumeration of black hole entropy in candidate theories of quantum gravity utilises the quantum properties of microstates residing on the black hole horizon. For example, in Loop Quantum Gravity, the computation of entropy is based on the spectrum of area operator, and one determines the possible number of area mirocrostates corresponding to a given classical horizon area. In this paper, we derive the eigenspectrum of the horizon area operator for rotating/non-rotating black holes in a gravitational theory non-minimally coupled to scalar fields. Using the weak isolated horizon formalism, we show that the spectrum of area operator follows unambiguously from the algebra of horizon symmetry. More precisely, from the quantum mechanical point of view, the horizon geometry must be naturally discrete, a conclusion which is arrived at directly, without the need for any particular theory of quantum gravity. The area spectrum depends on the Barbero-Immirzi parameter as well as the value of scalar field on horizon. The area spectrum is equidistant, which is consistent with the Bekenstein-Mukhanov proposal and gives rise to black hole entropy and their quantum corrections.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2026-03-26T10:32:38+00:00",
+      "updated": "2026-06-03T11:12:35+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.25292v2",
+      "html_url": "https://arxiv.org/html/2603.25292v2",
+      "entry_url": "http://arxiv.org/abs/2603.25292v2"
+    },
+    {
+      "arxiv_id": "2603.25721v2",
+      "base_id": "2603.25721",
+      "title": "Bayesian analysis of $α$-Starobinsky model with Planck, ACT and DESI data",
+      "authors": [
+        "Karim Carrion",
+        "Francisco X. Linares Cedeño",
+        "Gabriel Germán",
+        "Juan Carlos Hidalgo"
+      ],
+      "abstract": "We present a joint Bayesian analysis to impose constraints on the generalized $α$-Starobinsky inflationary model using the high-precision cosmological datasets: Planck, CMB lensing from ACT DR6, and Baryon Acoustic Oscillations (BAO) from DESI DR2. For the parameter inference, we introduce an alternative sampling approach. Rather than imposing priors on the cosmological parameters of the inflationary potential $(V_0, \\, α, \\, N_*)$, we place priors directly on the primordial physical observables $(A_s,\\, n_s,\\, r)$ through analytical slow-roll consistency relations. Our pipeline internally maps these sampled observables to the corresponding $α$-Starobinsky parameters. These values are then passed to a modified version of $\\tt{CLASS}$, which solves the exact inflationary dynamics numerically. This pipeline ensures that the final reported posteriors for the observables are computed exactly, completely free from the slow-roll approximation. Applying this methodology, we explore the viability of the $α$-Starobinsky model. We show that, when the full combined dataset is considered, the pure Starobinsky model (i.e., the canonical limit $α= 1$) shows signs of breaking down, since it requires a large number of $e$-folds of inflation after horizon crossing ($N_* > 60$) due to the shift in the scalar spectral index, $n_s$. In contrast, allowing the deformation parameter $α$ as a free parameter yields a clear $1σ$ preference for $\\log_{10} α> 0$, present across all datasets. Notably, we also show that the addition of ACT DR6 lensing data introduces no significant impact on these primordial constraints, confirming that our robust posteriors are primarily driven by Planck and DESI measurements.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2026-03-26T17:58:04+00:00",
+      "updated": "2026-06-08T17:47:55+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.25721v2",
+      "html_url": "https://arxiv.org/html/2603.25721v2",
+      "entry_url": "http://arxiv.org/abs/2603.25721v2"
+    },
+    {
+      "arxiv_id": "2603.25589v2",
+      "base_id": "2603.25589",
+      "title": "Constraining the heavy leptophilic neutral gauge bosons through the $Z\\to\\ell^+\\ell^-$, $W^\\pm\\to\\ell^\\pmν_\\ell$, and $h\\to\\ell^+\\ell^-$ decays",
+      "authors": [
+        "Bibhabasu De",
+        "Amitabha Dey"
+      ],
+      "abstract": "We consider the hypothetical possibility of neutral gauge bosons ($Z^\\prime$) with flavor-specific leptophilic couplings. For such New Physics (NP) interactions, the current experimental constraints are much relaxed in the heavy mass regime, particularly for masses $\\geq \\mathcal{O}(1)$ TeV. However, in the presence of a leptophilic $Z^\\prime$, leptonic decay modes of the electroweak gauge bosons and Higgs can be corrected at the loop level. Using the existing upper bounds on the corresponding decay widths, we find that one can impose stronger exclusion limits on the interactions of a heavy $Z^\\prime$. Future updates on the aforesaid decay channels can be used in complementarity with the proposed lepton colliders to probe even weaker leptophilic NP interactions at the TeV scale and beyond.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2026-03-26T16:07:51+00:00",
+      "updated": "2026-06-10T04:13:30+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.25589v2",
+      "html_url": "https://arxiv.org/html/2603.25589v2",
+      "entry_url": "http://arxiv.org/abs/2603.25589v2"
+    },
+    {
+      "arxiv_id": "2603.25600v2",
+      "base_id": "2603.25600",
+      "title": "Inferring the mass of the circumgalactic medium using X-ray resonant scattering",
+      "authors": [
+        "Nhut Truong",
+        "Maxim Markevitch",
+        "Dylan Nelson",
+        "Chris Byrohl"
+      ],
+      "abstract": "The circumgalactic medium (CGM) regulates galaxy growth and retains the imprint of feedback from supernovae and supermassive black holes. However, the bulk of the hot CGM produces little X-ray emission and is challenging to study with X-ray telescopes. We propose a novel method for evaluating the CGM mass using resonant scattering of the helium-like oxygen (\\ovii) resonant line at $E=574$ eV. In a spherically symmetric and static CGM halo with a sharp central X-ray peak, the number of \\ovii\\ ions within an outer radial shell can be calculated from the ratio of the two directly observable quantities: the \\ovii\\ flux from the bright inner region and the scattered \\ovii\\ flux from the shell (where the scattered flux can be much higher than the intrinsic emission). To evaluate the accuracy of this geometric estimate for realistic galaxies -- with satellites, asymmetries, and gas velocities -- we use a sample of galaxies from the TNG50 cosmological simulation. We find that, when the most irregular systems are excluded based on their X-ray observables, we accurately predict the \\ovii\\ mass in the outer halo (e.g., in an $r=R_{\\rm 500c}-R_{\\rm 200c}$ shell) from the ratio of the fluxes in the corresponding annulus and the central peak region ($r<0.2R_{\\rm 500c}$), with only a 10\\% bias and an rms scatter of $\\sim 0.2$ dex. As \\ovii\\ mass strongly correlates with the total oxygen and gas mass, this direct \\ovii-counting method enables indirect estimates of those quantities by future X-ray microcalorimeter missions, such as {\\em NewAthena}\\/ and {\\em HUBS}.",
+      "categories": [
+        "astro-ph.GA",
+        "astro-ph.CO"
+      ],
+      "published": "2026-03-26T16:19:27+00:00",
+      "updated": "2026-06-16T16:09:08+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.25600v2",
+      "html_url": "https://arxiv.org/html/2603.25600v2",
+      "entry_url": "http://arxiv.org/abs/2603.25600v2"
+    }
+  ],
+  "total": 8
+}

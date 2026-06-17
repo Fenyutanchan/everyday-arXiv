@@ -1,0 +1,50 @@
+{
+  "date": "2024-09-23",
+  "papers": [
+    {
+      "arxiv_id": "2409.14946v7",
+      "base_id": "2409.14946",
+      "title": "Bootstrap to Gravity",
+      "authors": [
+        "Shu Luo"
+      ],
+      "abstract": "In this review, we aim to utilize the bootstrap method to study models that have received significant interest in high energy theory and holography recently. Matrix bootstrap is proposed to determine the range of the solution up to an impressively high precision merely through positive conditions rooted in fundamental quantum mechanical structures or reality of matrix integral saddle points, together with specific kinematical and dynamical constraints of the theory, whose precision increases exponentially with the number of variables taken into consideration in principle. It plays the role of an equivalently effective substitute for the numerical Monte Carlo method. Models that could potentially be explored with this approach include BFSS MQM (conjectured to be the first non-perturbative definition of M theory in 11d and dual to D0 brane black hole solutions in 10d supergravity), D-instanton/IKKT matrix integral (which has recently attracted particular attention for its relations with spacetime emergence) and mass deformed BMN theory. Apart from exploring the stationary state properties of the theory, we can extend the method to thermal or time-dependent cases to study the dynamical information of the properties and help to verify or predict the possibility of holographic realization in these models.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2024-09-23T12:02:27+00:00",
+      "updated": "2026-06-05T08:09:36+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2409.14946v7",
+      "html_url": "https://arxiv.org/html/2409.14946v7",
+      "entry_url": "http://arxiv.org/abs/2409.14946v7"
+    },
+    {
+      "arxiv_id": "2409.15413v4",
+      "base_id": "2409.15413",
+      "title": "Extracting Astrophysical Information of Highly-Eccentric Binaries in the Millihertz Gravitational Wave Band",
+      "authors": [
+        "Zeyuan Xuan",
+        "Smadar Naoz",
+        "Alvin K. Y. Li",
+        "Bence Kocsis",
+        "Erik Petigura",
+        "Alan M. Knee",
+        "Jess McIver",
+        "Kyle Kremer",
+        "Will M. Farr"
+      ],
+      "abstract": "Wide, highly eccentric ($e>0.9$) compact binaries can naturally arise as progenitors of gravitational wave (GW) mergers. These systems are expected to have a significant population in the mHz band (e.g., $\\sim 3-45$ detectable stellar-mass binary black holes with $e>0.9$ in the Milky Way), with their GW signals characterized by \"repeated bursts\" emitted upon each pericenter passage. In this study, we show that the detection of mHz GW signals from highly eccentric stellar mass binaries in the local universe can strongly constrain their orbital parameters. Specifically, it can achieve a relative measurement error of $\\sim 10^{-6}$ for orbital frequency and $\\sim 1\\%$ for eccentricity (as $1-e$) in most of the detectable cases. On the other hand, the binary's mass ratio, distance, and intrinsic orbital orientation may be less precisely determined due to degeneracies in the GW waveform. We also perform mock LISA data analysis to evaluate the realistic detectability of highly eccentric compact binaries. Our results show that highly eccentric systems could be efficiently identified when multiple GW sources and stationary Gaussian instrumental noise are present in the detector output. This work highlights the potential of extracting the signal of \"bursting'' LISA sources to provide valuable insights into their orbital evolution, surrounding environment, and formation channels.",
+      "categories": [
+        "astro-ph.HE",
+        "astro-ph.GA",
+        "gr-qc"
+      ],
+      "published": "2024-09-23T18:00:00+00:00",
+      "updated": "2026-05-27T05:41:40+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2409.15413v4",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2409.15413v4"
+    }
+  ],
+  "total": 2
+}

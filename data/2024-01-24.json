@@ -1,0 +1,32 @@
+{
+  "date": "2024-01-24",
+  "papers": [
+    {
+      "arxiv_id": "2401.13668v3",
+      "base_id": "2401.13668",
+      "title": "Artificial Precision Timing Array: bridging the decihertz gravitational-wave sensitivity gap with clock satellites",
+      "authors": [
+        "Lucas M. B. Alves",
+        "Andrew G. Sullivan",
+        "Xingyu Ji",
+        "Doğa Veske",
+        "Imre Bartos",
+        "Sebastian Will",
+        "Zsuzsa Márka",
+        "Szabolcs Márka"
+      ],
+      "abstract": "Gravitational-wave astronomy has developed enormously over the last decade, with the first detections and continuous development across broad frequency bands. However, the decihertz range has largely been left out of this development. Gravitational waves in this band are emitted by some of the most enigmatic sources, including intermediate-mass binary black hole mergers, early inspiraling compact binaries$\\unicode{x2014}$whose mergers are seen by Earth-based detectors$\\unicode{x2014}$, and possibly primordial gravitational waves. To tap this exciting band, we propose the construction of a detector based on pulsar timing principles, the Artificial Precision Timing Array (APTA). We envision APTA as a solar system array of artificial ``pulsars''$\\unicode{x2014}$precision-time-reference-carrying satellites that emit periodic electromagnetic signals towards Earth or another satellite constellation receiver location. In this fundamental study, we estimate the clock precision needed for gravitational-wave detection with APTA. Our results suggest that 6 satellites and a clock relative uncertainty of $10^{-18}$ at 1~s of averaging, which is currently attainable with ground-based atomic clocks, would be sufficient for APTA to reach pristine sensitivity in the decihertz band and observe $10^3\\unicode{x2013}10^4$ $\\mathrm{M}_\\odot$ black hole mergers and the early inspiral of heavy LIGO-Virgo-KAGRA sources. Future clock and oscillator technologies realistically expected in the next decade(s) would enable the detection of an increasingly diverse set of sources, allowing APTA to reach a better sensitivity than other detector concepts proposed for the decihertz band. This work opens up a new area of research into designing and constructing gravitational-wave detectors relying on principles used successfully in pulsar timing.",
+      "categories": [
+        "astro-ph.IM",
+        "astro-ph.HE",
+        "gr-qc"
+      ],
+      "published": "2024-01-24T18:59:06+00:00",
+      "updated": "2026-05-04T18:14:20+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2401.13668v3",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2401.13668v3"
+    }
+  ],
+  "total": 1
+}

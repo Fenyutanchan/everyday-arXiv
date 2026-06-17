@@ -1,0 +1,30 @@
+{
+  "date": "2024-03-16",
+  "papers": [
+    {
+      "arxiv_id": "2403.10895v4",
+      "base_id": "2403.10895",
+      "title": "A Search for Classical Subsystems in Quantum Worlds",
+      "authors": [
+        "Arsalan Adil",
+        "Manuel S. Rudolph",
+        "Andrew Arrasmith",
+        "Zoë Holmes",
+        "Andreas Albrecht",
+        "Andrew Sornborger"
+      ],
+      "abstract": "Decoherence and einselection have been effective in explaining several features of an emergent classical world from an underlying quantum theory. However, the theory assumes a particular factorization of the global Hilbert space into constituent system and environment subsystems, as well as specially constructed Hamiltonians. In this work, we take a systematic approach to discover, given a fixed Hamiltonian, (potentially) several factorizations (or tensor product structures) of a global Hilbert space that admit a quasi-classical description of subsystems in the sense that certain states (the \"pointer states\") are robust to entanglement. We show that every Hamiltonian admits a pointer basis in the factorization where the energy eigenvectors are separable. Furthermore, we implement an algorithm that allows us to discover a multitude of factorizations that admit pointer states and use it to explore these quasi-classical \"realms\" for both random and structured Hamiltonians. We also derive several analytical forms that the Hamiltonian may take in such factorizations, each with its unique set of features. Our approach has several implications: it enables us to derive the division into quasi-classical subsystems, demonstrates that decohering subsystems do not necessarily align with our classical notion of locality, and challenges ideas expressed by some authors that the propensity of a system to exhibit classical dynamics relies on minimizing the interaction between subsystems. From a quantum foundations perspective, these results lead to interesting ramifications for relative-state interpretations. From a quantum engineering perspective, these results may be useful in characterizing decoherence free subspaces and other passive error avoidance protocols.",
+      "categories": [
+        "quant-ph",
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2024-03-16T11:12:31+00:00",
+      "updated": "2026-05-27T15:16:12+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2403.10895v4",
+      "html_url": "https://arxiv.org/html/2403.10895v4",
+      "entry_url": "http://arxiv.org/abs/2403.10895v4"
+    }
+  ],
+  "total": 1
+}

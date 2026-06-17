@@ -1,0 +1,121 @@
+{
+  "date": "2025-05-22",
+  "papers": [
+    {
+      "arxiv_id": "2505.16642v2",
+      "base_id": "2505.16642",
+      "title": "On Geometric Spectral Functionals",
+      "authors": [
+        "Arkadiusz Bochniak",
+        "Ludwik Dąbrowski",
+        "Andrzej Sitarz",
+        "Paweł Zalecki"
+      ],
+      "abstract": "We investigate spectral functionals associated with Dirac and Laplace-type differential operators on manifolds, defined via the Wodzicki residue, extending classical results for Dirac operators derived from the Levi-Civita connection to geometries with torsion. The local densities of these functionals recover fundamental geometric tensors, including the volume form, Riemannian metric, scalar curvature, Einstein tensor, and torsion tensor. Additionally, we introduce chiral spectral functionals using a grading operator, which yields novel spectral invariants. These constructions offer a richer spectral-geometric characterization of manifolds.",
+      "categories": [
+        "math-ph",
+        "gr-qc",
+        "math.DG",
+        "math.SP"
+      ],
+      "published": "2025-05-22T13:13:04+00:00",
+      "updated": "2026-04-14T16:48:27+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2505.16642v2",
+      "html_url": "https://arxiv.org/html/2505.16642v2",
+      "entry_url": "http://arxiv.org/abs/2505.16642v2"
+    },
+    {
+      "arxiv_id": "2505.16545v4",
+      "base_id": "2505.16545",
+      "title": "$\\mathcal{PT-}$Symmetric Two-Level Open Quantum Systems: Information Theoretic Facets",
+      "authors": [
+        "Baibhab Bose",
+        "Devvrat Tiwari",
+        "Subhashish Banerjee"
+      ],
+      "abstract": "The theory of a two-level $η$-Hermitian Hamiltonian with $\\mathcal{PT}$ symmetry is reviewed and extended to include open system dynamics. A first-principles derivation of the generalized Gorini-Kossakowski-Sudarshan-Lindblad master equation appropriate for a $\\mathcal{PT}-$symmetric Hamiltonian is presented. Inspired by a simple light matter interaction open system model, information theoretic quantities like a non-Markovian witness and fidelity are calculated for the $\\mathcal{PT-}$symmetric Hamiltonian, and the results are compared with their corresponding two-level Hermitian counterparts. The nature of entanglement between two $\\mathcal{PT-}$symmetric and Hermitian open quantum systems is calculated, and the contrast observed.",
+      "categories": [
+        "quant-ph",
+        "hep-th"
+      ],
+      "published": "2025-05-22T11:36:48+00:00",
+      "updated": "2026-05-07T19:26:53+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2505.16545v4",
+      "html_url": "https://arxiv.org/html/2505.16545v4",
+      "entry_url": "http://arxiv.org/abs/2505.16545v4"
+    },
+    {
+      "arxiv_id": "2505.17014v2",
+      "base_id": "2505.17014",
+      "title": "Emergent Gravity from Topological Quantum Field Theory: Stochastic Gradient Flow Perspective away from the Quantum Gravity Problem",
+      "authors": [
+        "Andrea Addazi",
+        "Salvatore Capozziello",
+        "Jinglong Liu",
+        "Antonino Marciano",
+        "Giuseppe Meluccio",
+        "Xuan-Lin Su"
+      ],
+      "abstract": "We propose a scenario according to which the ultraviolet completion of General Relativity is realized through a stochastic gradient flow towards a topological BF theory. Specifically, we consider the stochastic gradient flow of a pre-geometric theory proposed by Wilczek. Its infrared limit exists, and corresponds to a fixed point where stochastic fluctuations vanish. Diffeomorphism symmetries are restored in this limit, where the theory is classical and expressed by the Einstein-Hilbert action. The infrared phase then corresponds to the classical theory of General Relativity, the quantization of which becomes meaningless. Away from the infrared limit, in the pre-geometric phase of the stochastic gradient flow, the relevant fields of the Wilczek theory undergo stochastic fluctuations. The theory can be quantized perturbatively, generating corrections to the classical Einstein-Hilbert action. The stochastic gradient flow also possesses an ultraviolet fixed point. The theory flows to a topological BF action, to which non-perturbative quantization methods can be applied. Two phase transitions occur along the thermal time dynamics, being marked by: i) the breakdown of the topological BF symmetries in the ultraviolet regime, which originates the pre-geometric phase described by the Wilczek theory; ii) the breakdown of the parental symmetries characterizing the Wilczek theory, from which General Relativity emerges. The problem of quantizing the Einstein-Hilbert action of gravity finally becomes redundant.",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2025-05-22T17:59:32+00:00",
+      "updated": "2026-05-27T13:04:21+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2505.17014v2",
+      "html_url": "https://arxiv.org/html/2505.17014v2",
+      "entry_url": "http://arxiv.org/abs/2505.17014v2"
+    },
+    {
+      "arxiv_id": "2505.16749v3",
+      "base_id": "2505.16749",
+      "title": "Rotation angles of a rotating disc -- A toy model exhibiting the geometric phase --",
+      "authors": [
+        "Takuya Matsumoto",
+        "Hiroki Takada",
+        "Osami Yasukura"
+      ],
+      "abstract": "In this paper, we consider a simple kinematic model, which is a rotating disc on the edge of another fixed disc without slipping, and study the rotation angle of the rotating disc. The rotation angle consists of two parts, the dynamical phase $Δ_d$ and the geometric phase $Δ_g$. The former is a dynamical rotation of the disc itself, and the geometric motion of the disc characterizes the latter. In fact, $Δ_g$ is regarded as the geometric phase appearing in several important contexts in physics. The clue to finding the explicit form of $Δ_g$ is the Baumkuchen lemma, which we called. Due to the Gauss-Bonnet theorem, in the case that the rotating disc comes back to the initial position, $Δ_g$ is interpreted as the signed area of a two-sphere enclosed by the trajectory of the Gauss vector, which is a unit normal vector on the moving disc. We also comment on typical models sharing the common underlying structure, which include Foucault's pendulum, Dirac's monopole potentials, and Berry phase. Hence, our model is a very simple but distinguished one in the sense that it embodies the essential concepts in differential geometry and theoretical physics such as the Gauss-Bonnet theorem, the geometric phase, and the fiber bundles.",
+      "categories": [
+        "math-ph",
+        "hep-th",
+        "math.DG",
+        "physics.app-ph",
+        "quant-ph"
+      ],
+      "published": "2025-05-22T14:58:05+00:00",
+      "updated": "2026-05-29T06:23:38+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2505.16749v3",
+      "html_url": "https://arxiv.org/html/2505.16749v3",
+      "entry_url": "http://arxiv.org/abs/2505.16749v3"
+    },
+    {
+      "arxiv_id": "2505.16795v2",
+      "base_id": "2505.16795",
+      "title": "Sequential simulation-based inference for extreme mass ratio inspirals",
+      "authors": [
+        "Philippa S. Cole",
+        "James Alvey",
+        "Lorenzo Speri",
+        "Christoph Weniger",
+        "Uddipta Bhardwaj",
+        "Davide Gerosa",
+        "Gianfranco Bertone"
+      ],
+      "abstract": "Extreme mass-ratio inspirals pose a difficult challenge in terms of both search and parameter estimation for upcoming space-based gravitational-wave detectors such as LISA. Their signals are long and of complex morphology, meaning they carry a large amount of information about their source, but their waveforms are expensive to compute and they occupy a vast and multi-modal parameter space. We explore how sequential simulation-based inference methods, specifically truncated marginal neural ratio estimation, could offer solutions to some of the challenges surrounding extreme-mass-ratio inspiral data analysis. We show that this method can efficiently narrow down the volume of the complex 11-dimensional search parameter space by a factor of $10^6-10^7$ and provide 1-dimensional marginal proposal distributions for non-spinning extreme-mass-ratio inspirals. We discuss the current limitations of this approach and place it in the broader context of a global strategy for future space-based gravitational-wave data analysis.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "astro-ph.HE",
+        "astro-ph.IM"
+      ],
+      "published": "2025-05-22T15:36:49+00:00",
+      "updated": "2026-06-16T15:56:02+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2505.16795v2",
+      "html_url": "https://arxiv.org/html/2505.16795v2",
+      "entry_url": "http://arxiv.org/abs/2505.16795v2"
+    }
+  ],
+  "total": 5
+}

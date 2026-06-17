@@ -1,0 +1,61 @@
+{
+  "date": "2026-03-15",
+  "papers": [
+    {
+      "arxiv_id": "2603.14459v2",
+      "base_id": "2603.14459",
+      "title": "Reduced One-Fluid GENERIC Closure from Relativistic Moment Kinetics",
+      "authors": [
+        "Madison J. Newell",
+        "Salman A. Nejad"
+      ],
+      "abstract": "In this work we derive a reduced one-fluid plasma model from the relativistic Vlasov--Boltzmann--Maxwell system using a moment hierarchy reduction combined with strong-guide-field anisotropic ordering. The unresolved higher-moment sector of the hierarchy is projected onto its dominant slow thermodynamic mode, producing a scalar regulator variable that represents a coarse-grained combination of charge imbalance, pressure anisotropy, and irreversible kinetic production channels. The resulting reduced state vector admits a GENERIC (General Equation for Non-Equilibrium Reversible--Irreversible Coupling) representation in which the reversible sector reproduces reduced electromagnetic field-line dynamics while the irreversible sector governs slow thermodynamic relaxation. Linearization yields a pair of electromagnetic eigenmodes together with an additional real thermodynamic eigenvalue. The fast modes recover the standard gyrotropic cold-plasma response, including familiar limits such as whistler dispersion, while the slow mode drives gradual drift of the effective electromagnetic spectrum and provides a reduced mechanism for variability in relativistic magnetized plasmas with slowly evolving macroscopic equilibrium. The previous 3-field model captured only the thermodynamic slow-mode sector, whereas the fully closed extended GENERIC model also contains the explicit reversible nonneutral charge degree of freedom, whose frozen-thermodynamic limit recovers the nonneutral whistler-Alfven equations as a strict subset. The model is formulated within the GENERIC framework, ensuring consistency with first-principles nonequilibrium thermodynamics.",
+      "categories": [
+        "physics.plasm-ph",
+        "hep-th"
+      ],
+      "published": "2026-03-15T16:09:35+00:00",
+      "updated": "2026-05-07T16:38:38+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.14459v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2603.14459v2"
+    },
+    {
+      "arxiv_id": "2603.14467v2",
+      "base_id": "2603.14467",
+      "title": "Quantum potential with no perturbative series, and nonperturbative vacuum dominated by complex classical paths",
+      "authors": [
+        "Edward Shuryak"
+      ],
+      "abstract": "Spectra of standard 1d potentials (double-well, sin-Gordon etc) are given by trans-series in coupling, including (badly divergent) perturbative series (PS), and nonperturbative terms. All of them are badly defined (e.g. PS are badly divergent) but in sum supposed to be good. In this paper we discuss an example of a potential with specially defined couplings making PS completely absent. We calculate its nonperturbative vacuum energy and show that they are reproduced by the action of certain complex solutions to holomorphic Newton equation.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2026-03-15T16:19:03+00:00",
+      "updated": "2026-05-12T14:46:04+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.14467v2",
+      "html_url": "https://arxiv.org/html/2603.14467v2",
+      "entry_url": "http://arxiv.org/abs/2603.14467v2"
+    },
+    {
+      "arxiv_id": "2603.14511v3",
+      "base_id": "2603.14511",
+      "title": "Cosmological peculiar velocities in general relativity",
+      "authors": [
+        "Chris Clarkson",
+        "Roy Maartens"
+      ],
+      "abstract": "We reconsider the late-time evolution of galaxy peculiar velocities in the 1+3 covariant approach to cosmological perturbation theory. It has recently been claimed that this approach predicts substantially stronger growth of peculiar velocities than standard metric-based perturbation theory -- on the grounds that the covariant treatment is fully relativistic whereas standard treatments are effectively Newtonian. We show that this is not the case. When the covariant equations are applied consistently, the $1+3$ approach reproduces exactly the standard perturbative result for peculiar-velocity growth. The stronger growth laws claimed in recent work arise from an inconsistent treatment of the coupled covariant system, in which terms constrained by the field equations are treated as if they were independent sources. Further claims are made that the stronger bulk flows can mimic accelerated expansion in a dust universe. We argue that these claims rest on a confusion between the kinematics of an arbitrarily chosen observer congruence and the physical expansion of the matter congruence traced by galaxies. We conclude that the standard treatment of peculiar velocities is correct and fully relativistic~-- and does not lead to anomalous bulk flows or to apparent accelerated expansion.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "published": "2026-03-15T17:45:57+00:00",
+      "updated": "2026-05-09T08:51:00+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.14511v3",
+      "html_url": "https://arxiv.org/html/2603.14511v3",
+      "entry_url": "http://arxiv.org/abs/2603.14511v3"
+    }
+  ],
+  "total": 3
+}

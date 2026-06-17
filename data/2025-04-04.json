@@ -1,0 +1,48 @@
+{
+  "date": "2025-04-04",
+  "papers": [
+    {
+      "arxiv_id": "2504.03824v3",
+      "base_id": "2504.03824",
+      "title": "Thin-shell gravastar model in a BTZ geometry with minimum length",
+      "authors": [
+        "M. A. Anacleto",
+        "A. T. N. Silva",
+        "L. Casarini"
+      ],
+      "abstract": "In this paper, we construct two spherically symmetric thin-shell gravastar models within a BTZ geometry with minimum length. Therefore, in the inner region of the gravastar, we consider an anti- de Sitter metric with minimum length. Thus, for the first model, we introduce the minimum length effect using the probability density of the ground state of the hydrogen atom in two dimensions. For the second gravastar model, we adopt a Lorentzian-type distribution. Also in the outer region, we consider the BTZ black hole metric. So, by examining the inner spacetime, the thin shell, and the outer spacetime, we find that there are different physical characteristics regarding their energy densities and pressures that make the gravastar stable. This effect persists even when the cosmological constant is zero. In addition, we determined the entropy of the gravastar thin shell. Besides, we explore the thermodynamic properties of the BTZ black hole with minimum length in Schwarzschild-type form and also check its stability.",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2025-04-04T17:54:32+00:00",
+      "updated": "2026-05-04T17:28:07+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2504.03824v3",
+      "html_url": "https://arxiv.org/html/2504.03824v3",
+      "entry_url": "http://arxiv.org/abs/2504.03824v3"
+    },
+    {
+      "arxiv_id": "2504.03844v2",
+      "base_id": "2504.03844",
+      "title": "Simple third order operator-splitting schemes for stochastic mechanics and field theory",
+      "authors": [
+        "Andrey Shkerin",
+        "Sergey Sibiryakov"
+      ],
+      "abstract": "We present a method for constructing numerical schemes with up to 3rd strong convergence order for solution of a class of stochastic differential equations, including equations of the Langevin type. The construction proceeds in two stages. In the first stage one approximates the stochastic equation by a differential equation with smooth coefficients randomly sampled at each time step. In the second stage the resulting regular equation is solved with the conventional operator-splitting techniques. This separation renders the approach flexible, allowing one to freely combine the numerical techniques most suitable to the problem at hand. The approach applies to ordinary and partial stochastic differential equations. In the latter case, it naturally gives rise to pseudo-spectral algorithms. We numerically test the strong convergence of several schemes obtained with this method in mechanical examples. Application to partial differential equations is illustrated by real-time simulations of a scalar field with quartic self-interaction coupled to a heat bath. The simulations accurately reproduce the thermodynamic properties of the field and are used to explore dynamics of thermal false vacuum decay in the case of negative quartic coupling.",
+      "categories": [
+        "hep-lat",
+        "astro-ph.CO",
+        "cond-mat.stat-mech",
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2025-04-04T18:00:27+00:00",
+      "updated": "2026-06-05T17:34:10+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2504.03844v2",
+      "html_url": "https://arxiv.org/html/2504.03844v2",
+      "entry_url": "http://arxiv.org/abs/2504.03844v2"
+    }
+  ],
+  "total": 2
+}

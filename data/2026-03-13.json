@@ -1,0 +1,121 @@
+{
+  "date": "2026-03-13",
+  "papers": [
+    {
+      "arxiv_id": "2603.13053v2",
+      "base_id": "2603.13053",
+      "title": "A unified harmonic framework for dark siren cosmology",
+      "authors": [
+        "April Qiu Cheng",
+        "Jonathan Gair"
+      ],
+      "abstract": "The galaxy catalog dark siren method aims to infer cosmological parameters from gravitational waves (GWs) without an electromagnetic counterpart by statistically marginalizing over possible host galaxies. The cross-correlation of GW sources and galaxies is a promising avenue for cosmological inference without requiring observed host galaxies, by leveraging 2-point statistics. We provide a detailed guide to the cross-correlation method, clarifying its relationship to standard dark siren techniques as well as the assumptions necessary to be able to use this formalism on GW data. We show that the cross-correlation method is an extension of the angular part of the galaxy catalog method in which we effectively marginalize over all possible realizations of the unknown galaxy field, jointly adding information from galaxy--galaxy clustering. Combined with the spectral sirens method, which encodes information from the GW rate evolution, mass distribution, and selection effects, one can perform an inference that leverages the joint constraining power of all dark siren methods. We also present a strategy to rigorously fold GW measurement errors into the likelihood. Using this method, we show that with a 2 Einstein Telescope + 1 Cosmic Explorer setup, the GW--galaxy cross-correlation part alone can jointly measure $H_0$ and $Ω_{m,0}$ to 1% and 5% precision with just 2 years of data, demonstrating its potential as a precise and scalable inference technique in the next generation of GW and galaxy surveys. This is in contrast with canonical population inference techniques, which are known to scale poorly with the precision and catalog size expected of next-generation GW experiments. Contrary to some previous projections, we remain pessimistic about the cross-correlation method until these next generation detectors are online, due to its implicit requirement of large-number statistics.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "published": "2026-03-13T15:03:05+00:00",
+      "updated": "2026-04-16T17:34:24+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.13053v2",
+      "html_url": "https://arxiv.org/html/2603.13053v2",
+      "entry_url": "http://arxiv.org/abs/2603.13053v2"
+    },
+    {
+      "arxiv_id": "2603.12670v2",
+      "base_id": "2603.12670",
+      "title": "Shaving off soft hairs and the black hole image memory effect",
+      "authors": [
+        "Shaoqi Hou",
+        "Zong-Hong Zhu"
+      ],
+      "abstract": "Soft hairs of black holes are the Noether charges associated with the generalized Bondi-Metzner-Sachs symmetries. In this work, the images of soft-haired Kerr black holes are studied. For an eternal black hole, the image is rotated, dilated, and drifting compared to that of the bald counterpart in the celestial plane. The rotation and the dilation are independent of time, while the drifting occurs at a constant speed and in a fixed direction. These effects all depend on angular directions. The soft hair of an astronomical black hole can change due to the emission of gravitational or electromagnetic waves from various physical processes occurring in the vicinity of the horizon. Then, the image roams in the observer's view, causing the image memory effect, the smoking gun for the existence of soft hair. The magnitude of the image memory effect of a huge, spinning black hole accompanied by a much smaller one is estimated. It turns out that this effect is proportional to the mass of the large black hole, increases with its spin, but decreases with the mass ratio. Due to the limited angular resolution of current and future detectors, this effect is hard to detect if the impact of cosmological expansion is ignored.",
+      "categories": [
+        "gr-qc",
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2026-03-13T05:31:16+00:00",
+      "updated": "2026-05-09T00:18:52+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.12670v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2603.12670v2"
+    },
+    {
+      "arxiv_id": "2603.13551v2",
+      "base_id": "2603.13551",
+      "title": "Totally geodesic null hypersurfaces and constancy of surface gravity in Finsler spacetimes",
+      "authors": [
+        "Ettore Minguzzi"
+      ],
+      "abstract": "We define and study totally geodesic null hypersurfaces in Finsler spacetimes. We prove that the null convergence condition and a certain mild gravitational equation $χ_α=0$, imply the vanishing of the restriction of the Ricci 1-form on the hypersurface. This makes it possible to extend to the Lorentz-Finsler setting essentially all notable results for compact totally geodesic null hypersurfaces that hold in the Lorentzian case. In fact, we introduce a trick that reduces the Lorentz-Finsler analysis to a purely Lorentzian study. As a result, it follows that, under the stated conditions, connected compact totally geodesic null hypersurfaces admit constant surface gravity. Further topological classification results are also obtained. The possibility of deriving these results from the dominant energy condition without using $χ_α=0$ is also explored, this strategy selecting some specific possibilities. Since surface gravity can be interpreted as temperature in some contexts, and its constancy expresses the zeroth law of thermodynamics, the present work provides a compelling physical argument in favour of some special Finslerian gravitational equations.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2026-03-13T19:41:38+00:00",
+      "updated": "2026-05-22T00:15:08+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.13551v2",
+      "html_url": "https://arxiv.org/html/2603.13551v2",
+      "entry_url": "http://arxiv.org/abs/2603.13551v2"
+    },
+    {
+      "arxiv_id": "2603.13011v2",
+      "base_id": "2603.13011",
+      "title": "Simulation-based inference from the Lyman-alpha forest 1D power spectrum with CAMELS",
+      "authors": [
+        "Francesco Sinigaglia",
+        "Patricia Iglesias-Navarro",
+        "Matteo Viel"
+      ],
+      "abstract": "We perform for the first time full simulation-based inference on the Lyman-$α$ forest 1D power spectrum. In particular, we consider the prediction of the Lyman-$α$ forest $P_{\\rm 1D}(k)$ at $2.0<z<3.5$ from the CAMELS cosmological hydrodynamic simulations run with the IllustrisTNG and SIMBA galaxy formation models. We train a normalizing flow to perform neural posterior estimation of two cosmological parameters ($Ω_m$ and $σ_8$) and four astrophysical parameters parametrizing supernova and AGN feedback. When training and testing the neural network on the same baryon physics model, the posterior distributions of the cosmological parameters are found to be in excellent agreement with the true parameters values (within $10\\%$ deviations in $\\gtrsim 75\\%$ and $\\gtrsim 90\\%$ of the cases for $Ω_m$ and $σ_8$, and a precision better than $10\\%$ in both), while the astrophysical parameters are generally unconstrained due to the limited probed volume. When training on one model and testing on the other (e.g., training on IllustrisTNG and testing on SIMBA, or viceversa), the performance is significantly worse, both in accuracy and in precision, resulting in a $\\sim 10\\%$ positive bias on the predicted values for $σ_8$. We show that a multi-domain training based on the combination of simulations from both models recovers unbiased constraints, offering an effective solution to cope with the complex problem of the lack of convergence in the predictions from different galaxy formation models. This study represents a promising way forward to constrain cosmology and fundamental physics with the Lyman-$α$ forest with artificial intelligence.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2026-03-13T14:17:40+00:00",
+      "updated": "2026-05-24T21:14:05+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.13011v2",
+      "html_url": "https://arxiv.org/html/2603.13011v2",
+      "entry_url": "http://arxiv.org/abs/2603.13011v2"
+    },
+    {
+      "arxiv_id": "2603.12929v2",
+      "base_id": "2603.12929",
+      "title": "Dispersive analysis of the $π^+ π^-$ production at the CMD3 experiment and the compatibility with muon pair production measurement by KLOE2 and the pion form factor by JLAB",
+      "authors": [
+        "Dimitrios Petrellis",
+        "Vladimir Sauli"
+      ],
+      "abstract": "The spectral function of the charged pion form factor was extracted from two data sets. The difference between the two sets is based on the presence or absence of the recent measurement of the $π^+ π^-$ production by CMD-3 . Although the CMD-3 data are largely incompatible with other recent measurements, no excess was found when the data were used for analytical continuation to the spacelike region and compared to JLaB-$π$ experiment. Instead, both data sets provide a spacelike form factor that differs from the expected behavior known from perturbative analyses of quantum chromodynamics (QCD). A precise fit of the spectral functions is provided, either based on he bare form factor and the full $e^+e^-\\rightarrow π^+π^-$ as well . Furthermore, the extracted pionic spectral functions were used to obtain the QED running charge. This was then compared with the KLOE-2 measurements.",
+      "categories": [
+        "hep-ex",
+        "hep-ph"
+      ],
+      "published": "2026-03-13T12:19:43+00:00",
+      "updated": "2026-06-10T13:37:14+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.12929v2",
+      "html_url": "https://arxiv.org/html/2603.12929v2",
+      "entry_url": "http://arxiv.org/abs/2603.12929v2"
+    },
+    {
+      "arxiv_id": "2603.13490v2",
+      "base_id": "2603.13490",
+      "title": "Ultra Fast Calorimeter Simulation with Generative Machine Learning on FPGAs",
+      "authors": [
+        "P. Alex May",
+        "Qibin Liu",
+        "Julia Gonski",
+        "Benjamin Nachman"
+      ],
+      "abstract": "Computationally expensive, high-accuracy detector simulations are a major bottleneck for many particle physics experiments such as those at the Large Hadron Collider (LHC) as well as those planned for future colliders. This challenge has motivated the development of fast generative machine learning based surrogates. We present a hardware-aware variational autoencoder model for fast calorimeter simulation that is designed specifically for field programmable gate array (FPGA) deployment, offering faster and lower power inference capability. Quantization aware training and other compression techniques are applied to respect the resource constraints of a single FPGA. The synthesized implementation of the VAE decoder achieves sub-millisecond latency, resulting in a substantial speed up compared to a traditional GPU implementation with only a small performance drop. This feasibility study demonstrates the potential of utilizing existing FPGA architecture at the LHC and other facilities for efficient offline computing using online resources.",
+      "categories": [
+        "physics.ins-det",
+        "hep-ph"
+      ],
+      "published": "2026-03-13T18:04:58+00:00",
+      "updated": "2026-06-12T19:15:58+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.13490v2",
+      "html_url": "https://arxiv.org/html/2603.13490v2",
+      "entry_url": "http://arxiv.org/abs/2603.13490v2"
+    }
+  ],
+  "total": 6
+}

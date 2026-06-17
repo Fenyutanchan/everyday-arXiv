@@ -1,0 +1,154 @@
+{
+  "date": "2025-11-10",
+  "papers": [
+    {
+      "arxiv_id": "2511.07226v2",
+      "base_id": "2511.07226",
+      "title": "Renormalization-Group Invariant Parity-Doublet Model for Nuclear and Neutron-Star Matter",
+      "authors": [
+        "Mattia Recchi",
+        "Lorenz von Smekal",
+        "Jochen Wambach"
+      ],
+      "abstract": "The Parity-Doublet Model (PDM) is a chirally invariant effective theory for strong-interaction matter involving nucleons and their opposite-parity partners in a parity-doubling framework. We introduce a multiplicatively renormalizable mean-field approach to include the baryonic vacuum contributions to the resulting grand-canonical potential in an explicitly renormalization-group invariant form. As an application, we evaluate the pertinent thermodynamics of two-flavor symmetric and asymmetric nuclear matter, focusing on the restoration of spontaneously broken chiral symmetry at baryon densities and temperatures relevant for the astrophysics of neutron stars. Special attention is paid to the effect of the baryonic vacuum fluctuations on the evolution of chiral condensate with baryon density and temperature for specific choices of the chirally invariant baryon mass $m_0$ to demonstrate the importance of consistently including these vacuum fluctuations in the PDM.",
+      "categories": [
+        "nucl-th",
+        "astro-ph.HE",
+        "hep-ph"
+      ],
+      "published": "2025-11-10T15:46:14+00:00",
+      "updated": "2026-04-23T12:34:40+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.07226v2",
+      "html_url": "https://arxiv.org/html/2511.07226v2",
+      "entry_url": "http://arxiv.org/abs/2511.07226v2"
+    },
+    {
+      "arxiv_id": "2511.07679v2",
+      "base_id": "2511.07679",
+      "title": "Alternative approach to time-delay interferometry with optical frequency comb",
+      "authors": [
+        "Kohei Yamamoto",
+        "Hannah Tomio",
+        "Charlotte Zehnder",
+        "Kenji Numata",
+        "Holly Leopardi"
+      ],
+      "abstract": "Spaceborne gravitational wave observatories, exemplified by the Laser Interferometer Space Antenna (LISA) mission, are designed to remove laser noise and clock noise from interferometric phase measurements in postprocessing. The planned observatories will utilize electro-optic modulators (EOMs) to encode the onboard clock timing onto the beam phase. Recent research has demonstrated the advantage of introducing an optical frequency comb (OFC) in the metrology system with the modified framework of time-delay interferometry (TDI): the removal of the EOM and the simultaneous suppression of the stochastic jitter of the laser and the clock in the observation band. In this paper, we explore an alternative approach with the OFC-based metrology system. We report that after proper treatment, it is possible to use the measured carrier-carrier heterodyne frequencies to monitor the time derivative of the pseudoranges, which represent the physical light travel time and the clock difference. This approach does not require changing the existing TDI framework, as previous OFC based efforts did. Furthermore, this approach naturally captures not only stochastic jitter but also clock offsets and slow drifts. We also present the experimental demonstration of our scheme using two separate systems to model two spacecraft. Using this novel approach, we synchronize the two independent phase measurement systems with an accuracy better than 0.47 ns, while the stochastic jitter in the observation band is suppressed down to the setup sensitivity around the LISA performance levels at 15 pm/sqrt(Hz).",
+      "categories": [
+        "astro-ph.IM",
+        "gr-qc"
+      ],
+      "published": "2025-11-10T22:57:08+00:00",
+      "updated": "2026-05-15T17:51:53+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.07679v2",
+      "html_url": "https://arxiv.org/html/2511.07679v2",
+      "entry_url": "http://arxiv.org/abs/2511.07679v2"
+    },
+    {
+      "arxiv_id": "2511.07521v3",
+      "base_id": "2511.07521",
+      "title": "Macdonald Index From Refined Kontsevich-Soibelman Operator",
+      "authors": [
+        "George Andrews",
+        "Anindya Banerjee",
+        "Ranveer Kumar Singh",
+        "Runkai Tao"
+      ],
+      "abstract": "We propose a refinement of the Kontsevich-Soibelman operator for a class of ``special'' 4d $\\mathcal{N}=2$ superconformal field theories characterized by the following conditions: (1) their Coulomb branch admits a source/sink chamber, i.e., a chamber in which the BPS quiver consists of only source and sink nodes, (2) The nodes with valency greater than 2 of the BPS quiver in a source/sink chamber are either all sources or all sinks. We present strong evidence that the trace of this refined operator is related to the Macdonald index of the theory. In particular, we conjecture closed form expressions for the Macdonald indices of the $(A_1,\\mathfrak{g})$ Argyres-Douglas theories for any simply-laced Lie algebra $\\mathfrak{g}$.",
+      "categories": [
+        "hep-th",
+        "math.QA"
+      ],
+      "published": "2025-11-10T19:00:01+00:00",
+      "updated": "2026-05-19T18:11:11+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.07521v3",
+      "html_url": "https://arxiv.org/html/2511.07521v3",
+      "entry_url": "http://arxiv.org/abs/2511.07521v3"
+    },
+    {
+      "arxiv_id": "2511.07015v3",
+      "base_id": "2511.07015",
+      "title": "The Geometric View of Theories",
+      "authors": [
+        "Sebastian De Haro"
+      ],
+      "abstract": "Recent critiques of the semantic conception of scientific theories suggest that a theory is not best formulated as a collection of models satisfying some set of kinematical or dynamical conditions. Thus it has been argued that additional structure on the set of models is required. Furthermore, there are calls for developing a `theory of theories', where what was formerly a `theory' is seen as a `model' within a larger theoretical structure. This paper makes a two-pronged proposal for the ``shape'' that physical theories should take, based on recent insights on dualities and quasi-dualities in physics. First, I develop a geometric view of theories, according to which a physical theory is a set of models equipped with topological and geometric structure. This general view is briefly illustrated in an example from quantum cosmology. Second, I make a more specific proposal for a natural structure that can encompass various `theories' as its models, with topological and algebraic-geometric structure on them. I call the latter more specific structure a `model bundle', where the models are in the fibres and there is a moduli space in the base. I illustrate my second proposal in an example from quantum field theory. This view highlights the important role of quasi-dualities as local transition functions between fibres; dualities are recovered as global transition functions when the bundle is trivial. I discuss some philosophical issues that this geometric view of physical theories opens up, such as its realist interpretation.",
+      "categories": [
+        "physics.hist-ph",
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2025-11-10T12:05:33+00:00",
+      "updated": "2026-05-24T14:59:46+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.07015v3",
+      "html_url": "https://arxiv.org/html/2511.07015v3",
+      "entry_url": "http://arxiv.org/abs/2511.07015v3"
+    },
+    {
+      "arxiv_id": "2511.07513v4",
+      "base_id": "2511.07513",
+      "title": "JWST lensed quasar dark matter survey IV: Stringent warm dark matter constraints from the joint reconstruction of extended lensed arcs and quasar flux ratios",
+      "authors": [
+        "D. Gilman",
+        "A. M. Nierenberg",
+        "T. Treu",
+        "C. Gannon",
+        "X. Du",
+        "H. Paugnat",
+        "S. Birrer",
+        "A. J. Benson",
+        "P. Mozumdar",
+        "K. C. Wong",
+        "D. Williams",
+        "R. E. Keeley",
+        "K. N. Abazajian",
+        "T. Anguita",
+        "V. N. Bennert",
+        "S. G. Djorgovski",
+        "S. H. Hoenig",
+        "A. Kusenko",
+        "M. Malkan",
+        "T. Morishita",
+        "V. Motta",
+        "L. A. Moustakas",
+        "W. Sheu",
+        "D. Sluse",
+        "D. Stern",
+        "M. Stiavelli"
+      ],
+      "abstract": "We present a measurement of the free-streaming length of dark matter (DM) and subhalo abundance around 28 quadruple image strong lenses using observations from JWST MIRI presented in Paper III of this series. We improve on previous inferences on DM properties from lensed quasars by simultaneously reconstructing extended lensed arcs with image positions and relative magnifications (flux ratios). Our forward modeling framework generates full populations of subhalos, line-of-sight halos, and globular clusters, uses an accurate model for subhalo tidal evolution, and accounts for free-streaming effects on halo abundance and concentration. Modeling lensed arcs leads to more-precise model-predicted flux ratios, breaking covariance between subhalo abundance and the free-streaming scale parameterized by the half-mode mass $m_{\\rm{hm}}$. Assuming subhalo abundance predicted by the semi-analytic model {\\tt{galacticus}} ($N$-body simulations), we infer (Bayes factor of 10:1) $m_{\\rm{hm}} < 10^{7.4} \\mathrm{M}_{\\odot}$ ($m_{\\rm{hm}} < 10^{7.2} \\mathrm{M}_{\\odot}$), a 0.4 dex improvement relative to omitting lensed arcs. These bounds correspond to lower limits on thermal relic DM particle masses of $6.5$ and $7.4$ keV, respectively. Conversely, assuming DM is cold, we infer a projected mass in subhalos ($10^6 < m/M_{\\odot}<10^{10.7}$) of $1.7_{-1.2}^{+2.6} \\times 10^7 \\ \\mathrm{M}_{\\odot} \\ \\rm{kpc^{-2}}$ at $95 \\%$ confidence. This is consistent with {\\tt{galacticus}} predictions ($0.9 \\times 10^7 \\mathrm{M}_{\\odot} \\ \\rm{kpc^{-2}}$), but in mild tension with recent $N$-body simulations ($0.6 \\times 10^7 \\mathrm{M}_{\\odot} \\ \\rm{kpc^{-2}}$). Our results are among the strongest bounds on WDM, and the most precise measurement of subhalo abundance around strong lenses. Further improvements will follow from the large sample of lenses to be discovered by Euclid, Rubin, and Roman.",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.GA"
+      ],
+      "published": "2025-11-10T19:00:00+00:00",
+      "updated": "2026-06-03T15:23:08+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.07513v4",
+      "html_url": "https://arxiv.org/html/2511.07513v4",
+      "entry_url": "http://arxiv.org/abs/2511.07513v4"
+    },
+    {
+      "arxiv_id": "2511.07519v2",
+      "base_id": "2511.07519",
+      "title": "Jet quenching in out-of-equilibrium QCD matter",
+      "authors": [
+        "João Barata",
+        "Kirill Boguslavski",
+        "Florian Lindenbauer",
+        "Andrey V. Sadofyev"
+      ],
+      "abstract": "We present the first study of jet substructure modifications during the bottom-up evolution that describes the early stages of heavy-ion collisions. To this end, we study the bremsstrahlung radiation rate of soft gluons from a hard parton propagating through out-of-equilibrium QCD matter. The gluon spectrum is computed within the Improved Opacity Expansion, which accounts for both multiple soft and single hard momentum exchanges between the hard probe and the medium. The background evolution is obtained from effective kinetic theory simulations that determine the jet quenching parameter, which in turn controls the radiation rate. We compute the radiation rate for initially under- and over-occupied systems, as well as for an expanding system undergoing hydrodynamization, which typically represents the initial stages of heavy-ion collisions. The results for these dynamical backgrounds are compared to static and thermally matched scenarios, allowing to gauge the importance of bulk expansion in the evolution of the jet cascade. Our findings show that the early stages of the bulk matter evolution in heavy-ion collisions leave a sizable imprint on the radiation pattern inside jets. These results establish a basis for incorporating pre-equilibrium dynamics into realistic descriptions of jet quenching and hard-probe evolution.",
+      "categories": [
+        "hep-ph",
+        "hep-ex",
+        "nucl-th"
+      ],
+      "published": "2025-11-10T19:00:01+00:00",
+      "updated": "2026-06-05T17:57:33+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.07519v2",
+      "html_url": "https://arxiv.org/html/2511.07519v2",
+      "entry_url": "http://arxiv.org/abs/2511.07519v2"
+    }
+  ],
+  "total": 6
+}

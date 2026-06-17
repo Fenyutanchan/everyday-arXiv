@@ -1,0 +1,44 @@
+{
+  "date": "2025-07-16",
+  "papers": [
+    {
+      "arxiv_id": "2507.12051v2",
+      "base_id": "2507.12051",
+      "title": "Integrable systems from Poisson reductions of generalized Hamiltonian torus actions",
+      "authors": [
+        "L. Feher",
+        "M. Fairon"
+      ],
+      "abstract": "We develop a set of sufficient conditions for guaranteeing that an integrable system with a symmetry group $K$ on a manifold $M$ descends to an integrable system on a dense open subset of the quotient Poisson space $M/K$. The higher dimensional phase space $M$ carries a bivector $P_M$ yielding a bracket on $C^\\infty(M)$ such that $C^\\infty(M)^K$ is a Poisson algebra. The unreduced system on $M$ is supposed to possess `action variables' that generate a proper, effective action of a group of the form $\\mathrm{U}(1)^{\\ell_1} \\times \\mathbb{R}^{\\ell_2}$ and descend to action variables of the reduced system. In view of the form of the group and since $P_M$ could be a quasi-Poisson bivector, we say that we work with a generalized Hamiltonian torus action. The reduced systems are in general superintegrable owing to the large set of invariants of the proper Hamiltonian action of $\\mathrm{U}(1)^{\\ell_1} \\times \\mathbb{R}^{\\ell_2}$. We present several examples and apply our construction for solving open problems regarding the integrability of systems obtained previously by reductions of master systems on doubles of compact Lie groups: the cotangent bundle, the Heisenberg double and the quasi-Poisson double. Furthermore, we offer numerous applications to integrable systems living on moduli spaces of flat connections, using the quasi-Poisson approach.",
+      "categories": [
+        "math-ph",
+        "hep-th",
+        "math.SG",
+        "nlin.SI"
+      ],
+      "published": "2025-07-16T09:11:05+00:00",
+      "updated": "2026-05-20T06:45:59+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2507.12051v2",
+      "html_url": "https://arxiv.org/html/2507.12051v2",
+      "entry_url": "http://arxiv.org/abs/2507.12051v2"
+    },
+    {
+      "arxiv_id": "2507.12467v2",
+      "base_id": "2507.12467",
+      "title": "The AdS/$\\mathsf{C}$-$\\mathsf{P}$-${\\mathsf T}$ Correspondence",
+      "authors": [
+        "Jaume Gomis"
+      ],
+      "abstract": "We study the realization of $\\mathsf{C}$, $\\mathsf{P}$, $\\mathsf{T}$ in ${\\cal N}=4$ SYM -- corresponding to charge conjugation, parity, and time-reversal -- and identify the $\\mathsf{C}$, $\\mathsf{P}$, $\\mathsf{T}$ global symmetries of ${\\cal N}=4$ SYM with bulk (gauge) symmetries of string theory on $AdS_5\\times S^5$. The dual bulk transformations are symmetries of Type IIB string theory on $AdS_5\\times S^5$ that combine string worldsheet symmetries, with geometric transformations acting on $AdS_5\\times S^5$. We show that $\\mathsf P$ and $\\mathsf T$ map to $\\mathsf{CP}$ and $\\mathsf{CT}$ under $S$-duality (combined with an $SU(4)$ R-symmetry outer automorphism),while $\\mathsf C$ and $ \\mathsf{CPT}$ are invariant. We define codimension-two charge conjugation monodromy defects defects in ${\\cal N}=4$ SYM, which have an unusual large $N$ expansion, and discuss their bulk dual description. We elucidate the relation between symmetries on the string worldsheet and symmetries of target space string field theory, global vs gauge symmetries in quantum gravity, among related topics. Defects in ${\\cal N}=4$ SYM and in quantum gravity play a central role in this work.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2025-07-16T17:59:56+00:00",
+      "updated": "2026-05-27T17:03:13+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2507.12467v2",
+      "html_url": "https://arxiv.org/html/2507.12467v2",
+      "entry_url": "http://arxiv.org/abs/2507.12467v2"
+    }
+  ],
+  "total": 2
+}

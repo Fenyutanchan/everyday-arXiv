@@ -1,0 +1,71 @@
+{
+  "date": "2025-06-22",
+  "papers": [
+    {
+      "arxiv_id": "2506.18015v3",
+      "base_id": "2506.18015",
+      "title": "Lepton flavor violating top quark FCNC processes at the $μ$TRISTAN",
+      "authors": [
+        "Abhik Sarkar"
+      ],
+      "abstract": "We investigate charged lepton flavor violating top quark flavor-changing neutral current interactions at the proposed asymmetric muon-electron collision stage of the $μ$TRISTAN collider, operating at a center-of-mass energy of 346 GeV. Specifically, we study the process $μ^{+} e^{-} \\rightarrow t q$ ($t \\overline{q} + \\overline{t}q$) with $q = u, c$, within the framework of three classes of four-fermion contact interactions: scalar, vector, and tensor operators. A cut-based analysis is performed using boost-invariant kinematic observables, followed by a likelihood-based statistical treatment to derive projected sensitivities for each operator. For an integrated luminosity of $100~\\text{fb}^{-1}$, the projected constraints improve upon current LHC bounds on the corresponding effective couplings by approximately an order of magnitude. Projections for $1~\\text{ab}^{-1}$ indicate even stronger sensitivity, indicating improved reach at higher luminosity. Additionally, we explore the impact of initial-state beam polarization on these projections, showing how it can further enhance sensitivity to specific operator structures.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2025-06-22T12:38:51+00:00",
+      "updated": "2026-05-05T13:18:46+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.18015v3",
+      "html_url": "https://arxiv.org/html/2506.18015v3",
+      "entry_url": "http://arxiv.org/abs/2506.18015v3"
+    },
+    {
+      "arxiv_id": "2506.17926v3",
+      "base_id": "2506.17926",
+      "title": "Testing Cosmic Distance Duality Relation and Transparency with DESI DR2",
+      "authors": [
+        "Xuwei Zhang",
+        "Xiaofeng Yang",
+        "Yunliang Ren",
+        "Shuangnan Chen",
+        "Yangjun Shi",
+        "Cheng Cheng",
+        "Ming Zhang",
+        "Xiaolong He"
+      ],
+      "abstract": "The Cosmic Distance Duality Relation (CDDR) is a fundamental principle of standard cosmology, linking luminosity (LD) and angular diameter distances (ADD). This work investigates the validity of the CDDR and cosmic transparency by combining the latest Baryon Acoustic Oscillations (BAO) data from DESI DR2, Type Ia Supernovae from Pantheon+, and cosmic chronometers. To address the redshift mismatch between datasets, two distinct reconstruction techniques are employed: Gaussian Process Regression (GPR) and the Free-Knots Method (FKM). The analysis performs null tests on the CDDR under different cosmological priors, finding that the null hypothesis holds and the CDDR is valid within statistical uncertainties. Although mild deviations are observed from the local distance ladder prior, internal consistency calibration indicates that these discrepancies and the Hubble tension may share a common origin, possibly related to systematic effects or new physics. Using multiple phenomenological parameterizations, the deviation parameter is also found to be statistically consistent with zero (e.g., $η_1 = 0.023 \\pm 0.027$ for the linear model under Planck priors). Furthermore, the study finds no statistically significant evidence for cosmic opacity. The average of the opacity derivative is compatible with zero ($\\langle dτ/dz \\rangle = 0.0409 \\pm 0.1024$ for GPR and $0.0730 \\pm 0.1607$ for FKM). Based on these null results, stringent constraints are placed on the parameter space of Axion-Like Particles (ALPs) and Mini-Charged Particles (MCPs).",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2025-06-22T07:39:05+00:00",
+      "updated": "2026-06-01T03:18:36+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.17926v3",
+      "html_url": "https://arxiv.org/html/2506.17926v3",
+      "entry_url": "http://arxiv.org/abs/2506.17926v3"
+    },
+    {
+      "arxiv_id": "2506.17933v3",
+      "base_id": "2506.17933",
+      "title": "Reconstructing Barrow Holographic Dark Energy in $f(Q,T)$ Gravity and Cosmic Constraint",
+      "authors": [
+        "Xuwei Zhang",
+        "Xiaofeng Yang",
+        "Yunliang Ren",
+        "Shuangnan Chen",
+        "Yangjun Shi",
+        "Cheng Cheng",
+        "Xiaolong He"
+      ],
+      "abstract": "In this work, we reconstruct the cosmological evolution of Barrow Holographic Dark Energy (BHDE) within the framework of modified gravity $f(Q,T)$. Working in the coincident gauge, we incorporate the holographic principle into non-metric gravity with non-minimal matter coupling. To address the dynamical complexity, we adopt a reconstruction approach, deriving the matter density evolution from the modified field equations rather than imposing a conserved fluid a priori. We perform parameter estimation using the latest observational data, including Type Ia supernovae, BAO, and direct Hubble parameter measurements. Our results show that the model provides a theoretical framework to describe late-time cosmic evolution and the universe's accelerated expansion. Despite the additional complexity introduced, the model offers an alternative approach for investigating dark energy within modified gravity theories.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2025-06-22T08:03:36+00:00",
+      "updated": "2026-05-30T11:00:57+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.17933v3",
+      "html_url": "https://arxiv.org/html/2506.17933v3",
+      "entry_url": "http://arxiv.org/abs/2506.17933v3"
+    }
+  ],
+  "total": 3
+}

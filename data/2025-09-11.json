@@ -1,0 +1,93 @@
+{
+  "date": "2025-09-11",
+  "papers": [
+    {
+      "arxiv_id": "2509.09573v2",
+      "base_id": "2509.09573",
+      "title": "Quantum signatures of proper time in optical ion clocks",
+      "authors": [
+        "Gabriel Sorci",
+        "Joshua Foo",
+        "Dietrich Leibfried",
+        "Christian Sanner",
+        "Igor Pikovski"
+      ],
+      "abstract": "Optical clocks based on atoms and ions probe relativistic effects with unprecedented sensitivity by resolving time dilation due to atom motion or different positions in the gravitational potential through frequency shifts. However, all measurements of time dilation so far can be explained effectively as the result of dynamics with respect to a classical proper time parameter. Here we show that atomic clocks can probe effects where a classical description of the proper time dynamics is insufficient. We apply a Hamiltonian formalism to derive time dilation effects in harmonically trapped clock atoms and show how second-order Doppler shifts (SODS) due to the vacuum energy (vSODS), squeezing (sqSODS) and quantum corrections to the dynamics (qSODS) arise. We also demonstrate that the entanglement between motion and clock evolution can become observable in state-of-the-art clocks when the motion of the atoms is strongly squeezed, realizing proper time interferometry. Our results show that experiments with trapped ion clocks are within reach to probe relativistic evolution of clocks for which a quantum description of proper time becomes necessary.",
+      "categories": [
+        "quant-ph",
+        "gr-qc",
+        "physics.atom-ph"
+      ],
+      "published": "2025-09-11T16:10:17+00:00",
+      "updated": "2026-04-20T22:19:56+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.09573v2",
+      "html_url": "https://arxiv.org/html/2509.09573v2",
+      "entry_url": "http://arxiv.org/abs/2509.09573v2"
+    },
+    {
+      "arxiv_id": "2509.09367v2",
+      "base_id": "2509.09367",
+      "title": "Toward precise $ξ$ gauge fixing for the lattice QCD",
+      "authors": [
+        "Li-Jun Zhou",
+        "Dian-Jun Zhao",
+        "Wei-jie Fu",
+        "Chun-Jiang Shi",
+        "Ji-Hao Wang",
+        "Yi-Bo Yang"
+      ],
+      "abstract": "Lattice QCD provides a first-principles framework for solving Quantum Chromodynamics (QCD). However, its application to off-shell partons has been largely restricted to the Landau gauge, as achieving high-precision $ξ$-gauge fixing on the lattice poses significant challenges. Motivated by a universal power-law dependence of off-shell parton matrix elements on gauge-fixing precision in the Landau gauge, we propose an empirical precision extrapolation method to approximate high-precision $ξ$-gauge fixing. By properly defining the bare gauge coupling and then the effective $ξ$, we validate our $ξ$-gauge fixing procedure by successfully reproducing the $ξ$-dependent RI/MOM renormalization constants for local quark bilinear operators at 0.3\\% level, up to $ξ\\sim 1$.",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "published": "2025-09-11T11:34:13+00:00",
+      "updated": "2026-05-27T07:07:32+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.09367v2",
+      "html_url": "https://arxiv.org/html/2509.09367v2",
+      "entry_url": "http://arxiv.org/abs/2509.09367v2"
+    },
+    {
+      "arxiv_id": "2509.12246v2",
+      "base_id": "2509.12246",
+      "title": "Systematic Effects of Chaotic Magnetic Fields on Neutron Star Tidal Deformability: Implications for Gravitational Wave Constraints on Dense Matter",
+      "authors": [
+        "Debarshi Mukherjee"
+      ],
+      "abstract": "We investigate the effects of strong magnetic fields on the equation of state (EoS) of neutron star matter and the resulting implications for tidal deformability measurements in binary neutron star (BNS) mergers. A critical issue with previous magnetized neutron star studies is the treatment of magnetic field anisotropy in the Tolman-Oppenheimer-Volkoff (TOV) equations. To address this fundamental problem, we employ the chaotic magnetic field approximation, which allows for a self-consistent treatment of magnetic pressure while maintaining isotropy. Using a relativistic mean field approach with properly implemented magnetic field corrections, we compute mass-radius relations and tidal deformability parameters for neutron stars with magnetic field strengths ranging from $10^{15}$ to $10^{16}$ G. Our systematic study reveals that magnetic fields induce increases in both stellar radii (0.8--2.3\\%) and tidal deformabilities (4.2--18.1\\%) compared to field-free cases, with effects scaling approximately as $B^{1/2}$. These modifications, while modest, are potentially detectable with current and next-generation gravitational wave detectors. For a canonical $1.4\\,M_\\odot$ neutron star, the tidal deformability increases from $Λ_{1.4} = 678 \\times 10^6$ in the absence of magnetic fields to $Λ_{1.4} = 803 \\times 10^6$ for $B = 10^{16}$ G. We demonstrate that magnetic field effects must be considered when constraining the neutron star equation of state using gravitational wave observations, particularly for populations including highly magnetized neutron stars. Our results suggest that the current GW170817 constraint on tidal deformability may require systematic corrections when accounting for magnetic field effects. We provide scaling relations for magnetic field corrections and discuss the implications for population studies of neutron star mergers with next-generation detectors.",
+      "categories": [
+        "astro-ph.HE",
+        "gr-qc"
+      ],
+      "published": "2025-09-11T18:26:09+00:00",
+      "updated": "2026-05-25T14:14:03+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.12246v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2509.12246v2"
+    },
+    {
+      "arxiv_id": "2509.09665v3",
+      "base_id": "2509.09665",
+      "title": "Two per cent measurement of $H_0$ from Cepheids alone",
+      "authors": [
+        "Richard Stiskalek",
+        "Harry Desmond",
+        "Eleni Tsaprazi",
+        "Alan Heavens",
+        "Guilhem Lavaux",
+        "Stuart McAlpine",
+        "Jens Jasche"
+      ],
+      "abstract": "One of the most pressing problems in current cosmology is the cause of the Hubble tension. We revisit a two-rung distance ladder, composed only of Cepheid periods and magnitudes, anchor distances in the Milky Way, Large Magellanic Cloud, NGC 4258, and host galaxy redshifts. We adopt the SH0ES data for the most up-to-date and carefully vetted measurements, where the Cepheid hosts were selected to harbour also Type Ia supernovae. We introduce two important improvements: a rigorous selection modelling and a state-of-the-art density and peculiar velocity model using Manticore-Local, based on the Bayesian Origin Reconstruction from Galaxies (BORG) algorithm. We infer $H_0 = 71.1 \\pm 1.4~\\mathrm{km}\\,\\mathrm{s}^{-1}\\,\\mathrm{Mpc}^{-1}$, assuming the Cepheid host sample was selected by supernova magnitudes. However, the actual selection criteria are not clear, and other assumptions can increase $H_0$ by up to one statistical standard deviation. The posterior has a lower central value and a 41 per cent smaller uncertainty than a previous study using the same distance-ladder data. This result is lower than the supernova-based SH0ES inferred value of $H_0 = 73.2 \\pm 0.9~\\mathrm{km}\\,\\mathrm{s}^{-1}\\,\\mathrm{Mpc}^{-1}$ at about $1.3σ$, and is in $2.8σ$ tension with the latest cosmic microwave background results in the standard cosmological model. These results demonstrate that a measurement of $H_0$ of sufficient precision to weigh in on the Hubble tension is achievable using second-rung data alone, underscoring the importance of robust and accurate statistical and velocity-field modelling.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2025-09-11T17:57:56+00:00",
+      "updated": "2026-06-10T11:44:39+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.09665v3",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2509.09665v3"
+    }
+  ],
+  "total": 4
+}

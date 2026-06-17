@@ -1,0 +1,59 @@
+{
+  "date": "2025-10-25",
+  "papers": [
+    {
+      "arxiv_id": "2510.22137v2",
+      "base_id": "2510.22137",
+      "title": "Inferring neutron-star Love-Q relations from gravitational waves in the hierarchical Bayesian framework",
+      "authors": [
+        "Zhihao Zheng",
+        "Ziming Wang",
+        "Jinwen Deng",
+        "Yiming Dong",
+        "Lijing Shao"
+      ],
+      "abstract": "Despite the large uncertainties in the equation of state for neutron stars (NSs), a tight universal ``Love-Q'' relation exists between their dimensionless tidal deformability, $Λ$, and the dimensionless quadrupole moment, $Q$. However, this relation has not yet been directly measured through observations. Gravitational waves (GWs) emitted from binary NS (BNS) coalescences provide an avenue for such a measurement. In this study, we adopt a hierarchical Bayesian framework and combine multiple simulated GW events to measure the Love-Q relation. We simulate 1000 GW sources and select 20 events with the highest signal-to-noise ratios and NS spins for the analysis. By inspecting four parameterization models of the Love-Q relation, we observe strong correlations between the model parameters. We verify that a linear relation between $\\lnΛ$ and $\\ln Q$ is practically sufficient to describe the Love-Q relation with the precision expected from next-generation GW detectors. Furthermore, we utilize the inferred Love-Q relation to test modified gravity. Taking the dynamical Chern-Simons gravity as an example, our results suggest that the characteristic length can be constrained to $10\\, \\mathrm{km}$ or less with future GW observations.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE"
+      ],
+      "published": "2025-10-25T03:18:25+00:00",
+      "updated": "2026-04-17T07:23:37+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.22137v2",
+      "html_url": "https://arxiv.org/html/2510.22137v2",
+      "entry_url": "http://arxiv.org/abs/2510.22137v2"
+    },
+    {
+      "arxiv_id": "2510.22190v2",
+      "base_id": "2510.22190",
+      "title": "RGC: a radio AGN classifier based on deep learning. I. A semi-supervised multiclass model for VLA images",
+      "authors": [
+        "M. S. Hossain",
+        "M. S. H. Shahal",
+        "K. M. B. Asad",
+        "P. Saikia",
+        "A. Khan",
+        "F. Akter",
+        "A. Ali",
+        "M. A. Amin",
+        "D. P. Guha",
+        "M. O. B. Jihad",
+        "A. Momen",
+        "S. Sen",
+        "A. K. M. M. Rahman"
+      ],
+      "abstract": "Bent radio active galactic nuclei (RAGNs) -- wide-angle tails (WATs) and narrow-angle tails (NATs) -- trace dense environments in galaxy groups and clusters, yet no multiclass classifier simultaneously separates them from straight Fanaroff--Riley types (sFRI, sFRII) using visually inspected labels and unlabelled data. We release FIRST-2060, a four-class labelled dataset of 2060 RAGNs (sFRI, sFRII, WAT, NAT) constructed from three publicly available catalogues through multi-tier visual inspection, together with the semi-supervised RGC 1.0 model that leverages 20,000 unlabelled sources. We benchmark RGC against five supervised baselines. FIRST-2060 is provided in two preprocessing variants: $\\mathbf{R}_{L1}$, which retains spurious sources, and $\\mathbf{R}_{L2}$, from which they are removed. The RGC model integrates the self-supervised framework BYOL (Bootstrap Your Own Latent) with an $E(2)$-equivariant steerable CNN (E2CNN) encoder, pre-trained on the unlabelled data and fine-tuned on the labelled sets. All six models are evaluated with 5-fold cross-validation, Grad-CAM attention analysis, and controlled class-imbalance experiments. ConvNeXT ($M_1$) and RGC ($M_2$) form a top tier at macro-$F_1$ $0.80\\pm0.02$ and $0.79\\pm0.02$ respectively, a difference within one standard deviation. $M_2$ is the only model whose Grad-CAM contours consistently trace the morphological structure of RAGNs -- lobes, jets, and bends -- rather than defaulting to compact blobs or diffuse patterns. The four-class scheme introduced here enables WAT/NAT-resolved catalogues that can serve as environment probes and progenitor classifications for diffuse cluster radio emission. The complementary strengths of $M_1$ and $M_2$ -- in cross-type and within-type discrimination respectively -- suggest that an ensemble approach may offer a practical framework for survey-scale morphological catalogues.",
+      "categories": [
+        "astro-ph.IM",
+        "astro-ph.CO",
+        "cs.LG"
+      ],
+      "published": "2025-10-25T06:55:29+00:00",
+      "updated": "2026-05-26T07:41:06+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.22190v2",
+      "html_url": "https://arxiv.org/html/2510.22190v2",
+      "entry_url": "http://arxiv.org/abs/2510.22190v2"
+    }
+  ],
+  "total": 2
+}

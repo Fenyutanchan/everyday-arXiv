@@ -1,0 +1,128 @@
+{
+  "date": "2026-01-05",
+  "papers": [
+    {
+      "arxiv_id": "2601.02458v3",
+      "base_id": "2601.02458",
+      "title": "Cosmic Collider Gravitational Waves sourced by Right-handed Neutrino production from Bubbles: Testing Seesaw, Leptogenesis and Dark Matter",
+      "authors": [
+        "Anish Ghoshal",
+        "Pratyay Pal"
+      ],
+      "abstract": "We study a minimal type-I seesaw framework in which a first-order phase transition (FOPT), driven by a singlet scalar, produces right-handed neutrinos (RHNs) through bubble collisions, realizing a cosmic-scale collider that probes ultra-high energy scales. The resulting RHN distribution sources novel low-frequency gravitational-waves (GWs) in addition to the standard bubble-collision contribution. A stable lightest RHN can account for the observed dark matter (DM) relic abundance for masses as low as $M_{1} \\equiv m_{\\rm DM} \\gtrsim 10^{6}\\,\\mathrm{GeV}$, with the associated novel GW signal accessible in LISA, ET and upcoming LVK detectors. If the RHNs are unstable, their CP-violating decays generate the observed baryon asymmetry via leptogenesis for $M_{1} \\gtrsim 10^{11}\\,\\mathrm{GeV}$ and phase transition temperatures $T_* \\gtrsim 10^{6}\\,\\mathrm{GeV}$, for which the novel GW spectrum is detectable in ET, BBO and upcoming LVK. If RHN decays also populate a dark-sector fermion with mass $m_χ \\in [10^{-4},10^{4}],\\mathrm{GeV}$, successful co-genesis of baryons and asymmetric dark matter occurs for $T_* \\gtrsim 10^{7}\\,\\mathrm{GeV}$ and $M_{1} \\gtrsim 10^{9}\\,\\mathrm{GeV}$, naturally explaining $Ω_{\\rm DM} \\simeq 5Ω_{\\rm B}$. The corresponding GW signals are testable with LISA, ET, and BBO. Finally, we analyze a UV-complete multi-Majoron model, based on a global $U(1)_N \\times U(1)_{\\rm B-L}$ extension, motivated from the hierarchy of lepton masses, which we dub as Mojaron collider. The corresponding FOPT in this model leaves a distinctive GW signature arising from RHN production during $U(1)_N$ symmetry breaking detectable by BBO, ET and upcoming LVK. Successful leptogenesis is realized for heaviest RHN mass $M_3 \\sim 10^{10}\\,\\mathrm{GeV}$ and a $U(1)_N$ breaking vev $v_2 \\sim \\mathcal{O}(\\mathrm{TeV})$, which sets the seesaw scale.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2026-01-05T18:57:49+00:00",
+      "updated": "2026-04-24T10:01:41+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.02458v3",
+      "html_url": "https://arxiv.org/html/2601.02458v3",
+      "entry_url": "http://arxiv.org/abs/2601.02458v3"
+    },
+    {
+      "arxiv_id": "2601.02487v2",
+      "base_id": "2601.02487",
+      "title": "Thick Disks, Thin Hopes: Suppressed Capture and Merger Rates in AGN",
+      "authors": [
+        "Yashvardhan Tomar",
+        "Philip F. Hopkins",
+        "Kyle Kremer"
+      ],
+      "abstract": "Multiple models have been suggested over the years to explain the structure and support of accretion disks around supermassive black holes, from the standard thin thermal-pressure-dominated $α$-disk model to more recent models that describe geometrically thicker radiation or magnetic or turbulence-dominated disks. In any case, objects embedded in the disk (e.g. compact objects, stars, gas, dust) can undergo gravitational and hydrodynamic interactions with each other leading to interesting processes such as binary interaction/capture, gravitational wave merger events, dynamical friction, accretion, gap opening, etc. It has long been argued that disks of active galactic nuclei (AGN) can enhance the rates for many of these events; however, almost all of that analysis has assumed specific thin-disk models (with aspect ratios $H/R \\lesssim 0.01$). We show here that the rates for processes such as these that are mediated by gravitational cross-sections has a very strong inverse dependence on the thickness $H/R$ (scaling as steeply as $(H/R)^{-8}$), and $H/R$ can vary in the outer disk (where these processes are often invoked) by factors $\\gtrsim 1000$ depending on the assumed source of pressure support in the disk. This predicts rates that can be lower by tens of orders-of-magnitude in some models, demonstrating that it is critical to account for disk parameters such as aspect ratio and different sources of disk pressure when computing any meaningful predictions for these rates. For instance, if magnetic pressure is important in the outer disk, as suggested in recent work, capture rates would be suppressed by factors $\\sim 10^{10}-10^{20}$ compared to previous studies where magnetic pressure was ignored.",
+      "categories": [
+        "astro-ph.HE",
+        "astro-ph.CO",
+        "astro-ph.GA",
+        "astro-ph.SR"
+      ],
+      "published": "2026-01-05T19:00:21+00:00",
+      "updated": "2026-04-26T12:54:48+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.02487v2",
+      "html_url": "https://arxiv.org/html/2601.02487v2",
+      "entry_url": "http://arxiv.org/abs/2601.02487v2"
+    },
+    {
+      "arxiv_id": "2601.02331v2",
+      "base_id": "2601.02331",
+      "title": "Quantum dynamics of cosmological particle production: interacting quantum field theories with matrix product states",
+      "authors": [
+        "Evan Budd",
+        "Adrien Florio",
+        "David Frenklakh",
+        "Swagato Mukherjee"
+      ],
+      "abstract": "Understanding real-time dynamics of interacting quantum fields in curved spacetime remains a major theoretical challenge. We employ tensor network methods to study such dynamics using interacting scalar and gauge theories in 1+1 spacetime dimensions, subject to a quench modeling a homogeneously expanding gravitational background. The models considered are the scalar $λφ^4$ theory and the Schwinger model, i.e. a Dirac fermion coupled to a $U(1)$ gauge field which is equivalent via bosonization to a scalar field with a cosine self-interaction. In the free scalar limit, both theories reproduce known analytical results, providing a nontrivial numerical validation of bosonization in curved spacetime for the Schwinger model. Our central finding is that self-interactions lead to a suppression of gravitational particle production compared to the free-field case, as evidenced by two-point functions and the spectra of produced particles. We further examine the behavior of entanglement generation and find that interactions suppress entanglement growth in the $λφ^4$ theory, while in the Schwinger model, the interplay between suppressed particle production and enhanced inter-particle correlations leads to more complex entanglement behavior. Our results pave the way for further explorations of nonperturbative quantum real-time dynamics of interacting scalar and gauge theories in arbitrary gravitational backgrounds.",
+      "categories": [
+        "hep-th",
+        "astro-ph.CO",
+        "hep-lat",
+        "hep-ph"
+      ],
+      "published": "2026-01-05T18:23:52+00:00",
+      "updated": "2026-04-27T20:34:30+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.02331v2",
+      "html_url": "https://arxiv.org/html/2601.02331v2",
+      "entry_url": "http://arxiv.org/abs/2601.02331v2"
+    },
+    {
+      "arxiv_id": "2601.02452v3",
+      "base_id": "2601.02452",
+      "title": "Fixed points of the renormalisation group running of quark and fermion mixing matrices in the Standard Model and beyond",
+      "authors": [
+        "Brian P. Dolan"
+      ],
+      "abstract": "The renormalisation group running of fermion mixing matrices in the Standard model and beyond is studied. For the massless 1-loop running with three generations six fixed points are found. Their associated anomalous dimension matrices are calculated and the nature of each fixed point, whether attractive, repulsive or mixed, is determined. An argument is given that the fixed points found at 1-loop must remain fixed points to all orders in perturbation theory and even non-perturbatively, as they are associated with certain differential geometric properties of vector fields on the space of mixing matrices. With $N_g$ dark or sterile neutrinos there are at least $N_g!$ fixed points of the fermion mixing matrix.",
+      "categories": [
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2026-01-05T17:49:53+00:00",
+      "updated": "2026-05-05T15:21:24+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.02452v3",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2601.02452v3"
+    },
+    {
+      "arxiv_id": "2601.02284v2",
+      "base_id": "2601.02284",
+      "title": "Quintom Dark Energy: Future Attractor and Phantom Crossing in Light of DESI DR2 Observation",
+      "authors": [
+        "Phusuda Thanankullaphong",
+        "Prasanta Sahoo",
+        "Prajwal Hassan Puttasiddappa",
+        "Nandan Roy"
+      ],
+      "abstract": "We study the late-time cosmological dynamics of a two-field dark energy model consisting of a canonical quintessence scalar field and a phantom scalar field in a spatially flat FLRW universe. The fields are minimally coupled to gravity and uncoupled at the level of the potential, with the quintessence sector governed by an exponential potential and the phantom sector by an inverse power-law potential. By reformulating the background equations as a five-dimensional autonomous dynamical system, we identify and analyze the fixed points and their stability properties, revealing stable late-time attractors corresponding to phantom-dominated accelerated expansion. We confront the model with observations through a Bayesian parameter estimation performed using the \\textsc{Cobaya} framework, employing several combinations of recent cosmological data sets, including Pantheon+ supernovae, compressed cosmic microwave background distance priors, DESI DR2 baryon acoustic oscillation measurements, and DES Year-5 supernova data. The observational constraints favor a dynamical dark energy sector moderately and are consistent with deviations from a cosmological constant at the present epoch. The regions of parameter space preferred by the data are compatible with the stable accelerating solutions identified in the dynamical analysis, establishing a direct connection between phase-space stability and observational viability. A notable feature of the model is that the effective dark energy equation of state undergoes phantom divide crossing in a gradual and asymptotic manner, rather than as a sharp transition.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "published": "2026-01-05T17:15:15+00:00",
+      "updated": "2026-06-08T11:49:36+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.02284v2",
+      "html_url": "https://arxiv.org/html/2601.02284v2",
+      "entry_url": "http://arxiv.org/abs/2601.02284v2"
+    },
+    {
+      "arxiv_id": "2601.02181v3",
+      "base_id": "2601.02181",
+      "title": "Towards the consistent perturbative expansion in discrete gravity",
+      "authors": [
+        "V. M. Khatsymovsky"
+      ],
+      "abstract": "We consider correctly defining the perturbative expansion in a discrete gravity (simplicial or Regge calculus) needed to study physical effects like graviton loop corrections to Newton's potential.   For the symmetric derivative $Δ^{(s)}_λ=i\\sin p_λ$ in the finite-difference action, the propagator has a graviton pole at $\\sin^2p_0=\\sum^3_{α=1}\\sin^2p_α$, or, at small $p_α$, at $p_0$ close to 0 or $\\pmπ$. This pole doubling means doubling the result of integration over d$p_0$ compared to the continuum.   The usual derivative $Δ_λ=\\exp(ip_λ)-1$ leads to a tricky analytical structure of the propagator, since $Δ_λ\\neq-\\barΔ_λ$, and again to a discrepancy with the continuum.   The way out is to use an action $\\check{S}_{\\rm g}$ with both $Δ^{(s)}_λ$ and $Δ_λ$ and the synchronous gauge $g_{0λ}=g_{0λ}^{(0)}$ (implemented by adding a term bilinear in $n^λ(g_{λμ}-g_{λμ}^{(0)})$, $n^λ=[1,-\\varepsilon(Δ^{(s)α}Δ^{(s)}_α)^{-1}Δ^{(s)β}]$, $\\varepsilon\\to0$, thus removing singularities at $p_0=0$).   Given the propagator $\\check{G}(n,\\bar{n})$, we form a principal value propagator $[\\check{G}(n,n)+\\check{G}(\\bar{n},\\bar{n})]/2$ by analytically continuing from real $n=\\bar{n}$. Singularities are resolved like $p_0^{-j}\\to[(p_0+i\\varepsilon)^{-j}+(p_0-i\\varepsilon)^{-j}]/2$ leading to separate diagram finiteness at $\\varepsilon\\to0$.   We analyze a 1-parameter family of actions differing in using $Δ_λ$ vs $Δ^{(s)}_λ$, find the only one reproducing convergent continuum diagrams for small external momenta (which is natural to demand from discretization), consider finiteness of the principal value gauge-fixing term and vanishing ghost contribution. The analysis is illustrated by the electromagnetic (Yang-Mills) case.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2026-01-05T15:00:36+00:00",
+      "updated": "2026-06-07T14:57:50+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.02181v3",
+      "html_url": "https://arxiv.org/html/2601.02181v3",
+      "entry_url": "http://arxiv.org/abs/2601.02181v3"
+    }
+  ],
+  "total": 6
+}

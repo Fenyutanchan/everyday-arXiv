@@ -1,0 +1,24 @@
+{
+  "date": "2024-12-28",
+  "papers": [
+    {
+      "arxiv_id": "2412.20169v3",
+      "base_id": "2412.20169",
+      "title": "Effective Field Theory Calculation of LIGO-like Compton Scattering",
+      "authors": [
+        "Noah M. MacKay"
+      ],
+      "abstract": "We use effective field theory (EFT) to calculate the scattering amplitude of a LIGO-like graviton-scalar Compton interaction. We gauge the center-of-momentum energy $\\sqrt{s}$ between one gravitational-wave (GW) graviton (one quantum of the coherent bulk of an astrophysical GW, with energy $E_g=\\hbarω_\\mathrm{GW}$) and a resting heavy target (a suspended mass with rest energy $E_M=m_Mc^2$ found in laser interferometer observatories) to be of order $\\sim10^{1.5}$ PeV -- at the energy scale within the extremes of astroparticle physical phenomena. This back-of-the-envelope calculation supports the calculation of a convergent cross section in our LIGO-like Compton analysis, which we indeed recover using standard EFT Feynman rules and relevant traceless-transverse gauges for the graviton polarizations. We obtain that the cross section $σ$ is largely dependent on the center-of-momentum energy, and from this we define the corresponding impact parameter via $σ=πb^2$. This impact parameter, after coherence-state population enhancement, scales with GW energetics along with the unique coupling (in natural units) $\\sqrt{ω_\\mathrm{GW}/m_M}\\sim10^{-21}$ -- the same order of magnitude as astrophysical GW strain. One finds furthermore that, after isolating the GW energetics sector from the GW-mirror impact parameter, the revised length scale $\\tilde{b}/(GM)\\approx1.76π$ quantifies the pre-merger stage of compact binary coalescence, which is compared with $b/(GM)>14$ calculated from the early-inspiral worldline quantum field theory framework. Conventional insight of GW-mirror response is recovered, such that the impact parameter $b$ scales exactly with the mirror recoil $ΔL\\sim10^{-18}\\,\\mathrm{m}$ after having made contact with the GW.",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2024-12-28T14:52:56+00:00",
+      "updated": "2026-05-06T21:13:34+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2412.20169v3",
+      "html_url": "https://arxiv.org/html/2412.20169v3",
+      "entry_url": "http://arxiv.org/abs/2412.20169v3"
+    }
+  ],
+  "total": 1
+}

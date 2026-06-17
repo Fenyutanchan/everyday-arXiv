@@ -1,0 +1,170 @@
+{
+  "date": "2025-11-14",
+  "papers": [
+    {
+      "arxiv_id": "2511.10986v2",
+      "base_id": "2511.10986",
+      "title": "Spin-averaged $B_c$ Spectrum in a Cornell-type Potential Using VMC Baseline and GFMC Evolution",
+      "authors": [
+        "Tarik Akan"
+      ],
+      "abstract": "In this work, the spin-averaged $B_c$ spectrum is computed in a naive Cornell framework, treating the meson as a nonrelativistic system in a spin-independent potential. The Cornell parameters are calibrated directly to the spin-averaged $B_c$ tower by anchoring the $1S$ centroid and scanning a grid in $(σ,κ)$, with the additive constant $V_0$ fixed at each point by the experimental ground state mass. The spectrum is obtained with a two stage Monte Carlo approach. Variational Monte Carlo (VMC) provides optimized radial trial states with the desired nodal pattern. Fixed node Green's function Monte Carlo (GFMC) then projects the corresponding ground state energies for each $(n,\\ell)$ channel. Controlled scans over the GFMC time step, projection time, walker population, and radial grid identify plateau regions where discretization and projection systematics are quantitatively under control. At a representative best point in the low-RMSE valley, the predicted spin-averaged masses agree with the experimental centroids at the level of a few tens of MeV, and the fitted Cornell parameters are consistent with canonical heavy quarkonium analyses.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-11-14T06:17:49+00:00",
+      "updated": "2026-04-15T07:24:10+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.10986v2",
+      "html_url": "https://arxiv.org/html/2511.10986v2",
+      "entry_url": "http://arxiv.org/abs/2511.10986v2"
+    },
+    {
+      "arxiv_id": "2511.11382v2",
+      "base_id": "2511.11382",
+      "title": "Self-gravitating baryonic tubes supported by $π$- and $ω$-mesons and its flat limit",
+      "authors": [
+        "Gonzalo Barriga",
+        "Carla Henríquez-Baez",
+        "Leonardo Sanhueza",
+        "Aldo Vera"
+      ],
+      "abstract": "In this paper, we construct self-gravitating topological solitons in the $SU(N)$ Einstein non-linear sigma model coupled to $ω$-vector mesons in four space-time dimensions. These solutions represent tube-like configurations free of curvature singularities, carrying a non-vanishing topological charge that is identified as the baryon number. We show that by employing the maximal embedding Ansatz of $SU(2)$ into $SU(N)$ in the exponential representation, these tubes can be constructed for an arbitrary number of flavors, $N$, with the topological charge scaling proportionally to this number. The flat-space limit of the solutions, corresponding to an array of baryonic tubes within a finite volume, is analyzed in detail. Remarkably, while the total energy of the solitons at a finite volume is an increasing function of $N$, the binding energy decreases as the number of flavors increases. This analysis reaffirms that the inclusion of more than two flavors to the model systematically improves the physical predictions.",
+      "categories": [
+        "hep-th",
+        "gr-qc",
+        "nucl-th"
+      ],
+      "published": "2025-11-14T15:04:36+00:00",
+      "updated": "2026-04-20T20:05:09+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.11382v2",
+      "html_url": "https://arxiv.org/html/2511.11382v2",
+      "entry_url": "http://arxiv.org/abs/2511.11382v2"
+    },
+    {
+      "arxiv_id": "2511.11537v2",
+      "base_id": "2511.11537",
+      "title": "Two-loop all-plus helicity amplitudes for self-dual Higgs boson with gluons via unitarity cut constraints",
+      "authors": [
+        "Simon Badger",
+        "Christian Biello",
+        "Colomba Brancaccio",
+        "Federico Ripani"
+      ],
+      "abstract": "We present the two-loop amplitudes for a self-dual Higgs boson with up to four positive helicity gluons in the heavy top-quark limit. Because the tree amplitudes in the all-plus sector vanish, we can construct simple representations of the polylogarithmic parts of the two-loop amplitudes using four-dimensional unitarity cuts into rational one-loop and tree amplitudes. The remaining rational function ambiguity is extracted from a tensor integral reduction over finite fields. The final expressions are presented using polylogarithms up to weight two and compact rational functions of spinor-helicity products.",
+      "categories": [
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2025-11-14T18:17:33+00:00",
+      "updated": "2026-05-14T14:29:48+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.11537v2",
+      "html_url": "https://arxiv.org/html/2511.11537v2",
+      "entry_url": "http://arxiv.org/abs/2511.11537v2"
+    },
+    {
+      "arxiv_id": "2511.11424v2",
+      "base_id": "2511.11424",
+      "title": "Double virtual QCD corrections to $t\\bar{t}+$jet production at the LHC",
+      "authors": [
+        "Simon Badger",
+        "Matteo Becchetti",
+        "Colomba Brancaccio",
+        "Michał Czakon",
+        "Heribertus Bayu Hartanto",
+        "Rene Poncelet",
+        "Simone Zoia"
+      ],
+      "abstract": "We present a leading colour computation of the double virtual contributions to top-quark pair production in association with a jet at a hadron collider at next-to-next-to-leading order in QCD. The finite remainders of the two-loop amplitudes, after subtraction of infrared and ultraviolet divergences, are extracted analytically from evaluations over finite fields by using a (potentially) overcomplete basis of special functions defined through their differential equations. We construct the colour- and spin-summed interference with the tree-level amplitudes and present a \\texttt{C++} library suitable for immediate use in phenomenological studies. We present new techniques for the evaluation of the special functions through direct numerical integration of differential equations which perform well across the full physical phase space.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-11-14T15:52:56+00:00",
+      "updated": "2026-05-14T13:51:26+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.11424v2",
+      "html_url": "https://arxiv.org/html/2511.11424v2",
+      "entry_url": "http://arxiv.org/abs/2511.11424v2"
+    },
+    {
+      "arxiv_id": "2511.11343v2",
+      "base_id": "2511.11343",
+      "title": "Global symmetries: locality, unitarity, and regularity",
+      "authors": [
+        "Ibrahima Bah",
+        "Shlomo S. Razamat",
+        "Michal Shemesh",
+        "Hannah Tillim"
+      ],
+      "abstract": "We study the apparent tension between locality and unitarity for symmetries in quantum field theory. This emerges in the context of categorical symmetries where symmetry operators are generically non-invertible. We argue that locality imposes particular regularities in the action of symmetries on the Hilbert space. This allows us to introduce an observable that can measure the properties of the non-locality for symmetry operators. We study it for a class of examples and demonstrate that this observable can encode data associated to the fusion algebra of symmetries.",
+      "categories": [
+        "hep-th",
+        "cond-mat.str-el"
+      ],
+      "published": "2025-11-14T14:31:18+00:00",
+      "updated": "2026-05-14T19:45:53+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.11343v2",
+      "html_url": "https://arxiv.org/html/2511.11343v2",
+      "entry_url": "http://arxiv.org/abs/2511.11343v2"
+    },
+    {
+      "arxiv_id": "2511.11457v2",
+      "base_id": "2511.11457",
+      "title": "Analytic structure of the high-energy gravitational amplitude: multi-H diagrams and classical 5PM logarithms",
+      "authors": [
+        "Francesco Alessio",
+        "Vittorio Del Duca",
+        "Riccardo Gonzo",
+        "Emanuele Rosi",
+        "Ira Z. Rothstein",
+        "Michael Saavedra"
+      ],
+      "abstract": "We investigate the high-energy, small-angle limit of two-body gravitational scattering. Using power counting arguments and dispersion relations in an effective field theory for the Regge regime, we derive the general loop expansion that determines how the leading Regge logarithms and their complex structure arise as a power series in $t/s$. Focusing on the tower of multi-H diagrams that govern the leading logarithmic behavior, we compute the leading double logarithm at four loops (5PM) using both effective field theory methods and the multi-Regge expansion, finding complete agreement. Finally, using the aforementioned dispersion relations, we extract the single logarithmic contribution to the imaginary part of the eikonal phase at 5PM in the Regge limit.",
+      "categories": [
+        "hep-th",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "published": "2025-11-14T16:28:10+00:00",
+      "updated": "2026-05-19T19:12:08+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.11457v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2511.11457v2"
+    },
+    {
+      "arxiv_id": "2511.11952v2",
+      "base_id": "2511.11952",
+      "title": "Source REconstruction of Arcs behind Cluster Halos (SourceREACH): A New Source Reconstruction Algorithm Optimized for Giant Arcs and Galaxy Cluster Lenses",
+      "authors": [
+        "Lana Eid",
+        "Charles Keeton"
+      ],
+      "abstract": "We introduce a new algorithm designed for use with extended lensed images, specifically giant arcs lensed by galaxy clusters. These highly magnified images contain important information about both the mass distribution of the cluster and the properties of the background source, but modeling them requires significant computational effort. Our new source reconstruction methodology is designed to be accurate and efficient for high-resolution observations in which point spread function effects are not significant. The overall process deconvolves the observed image by the point spread function, de-lenses the image pixels, and uses interpolation or regression with smoothing to determine the model source. By working with de-lensed points, the method accounts for varying resolution across the source plane. We evaluate the speed and accuracy of different interpolation and regression methods using both mock data and real data for the giant arc in Abell 370. We find that utilizing K Nearest Neighbor Regression results in the best balance of noise smoothing and preservation of compact detail in the source.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2025-11-14T23:56:19+00:00",
+      "updated": "2026-05-21T21:04:54+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.11952v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2511.11952v2"
+    },
+    {
+      "arxiv_id": "2511.11873v3",
+      "base_id": "2511.11873",
+      "title": "The fate of Schwarzschild--de Sitter black holes: nonequilibrium evaporation",
+      "authors": [
+        "Damien A. Easson"
+      ],
+      "abstract": "We present a fully analytic treatment of Schwarzschild--de~Sitter (SdS) black-hole evaporation in two-dimensional dilaton gravity with anomaly-induced backreaction. Starting from the spherical reduction of four-dimensional Einstein gravity with a cosmological constant, we construct an exactly solvable 2D model that captures the full causal and thermodynamic structure of the SdS static patch, including both black-hole and cosmological horizons. Incorporating the trace anomaly of $N$ conformal matter fields via the Polyakov action, we determine the evolution of the black-hole mass and geometry in the Unruh--de~Sitter state, track the steady nonequilibrium Hawking flux, and compute local thermodynamic observables for static observers. The conserved Killing energy flux drives an irreversible heat current from the black hole to the cosmological horizon whenever their surface gravities differ, ensuring monotonic entropy growth and satisfaction of the generalized second law. We prove that $κ_b>κ_c$ throughout the physical static patch, so the only zero-flux configuration is the Nariai limit where the horizons coincide. Extending the framework to the quantum-information regime, we construct a thermo-controlled estimate of the Page curve and show how quantum extremal surfaces and entanglement islands emerge naturally within the anomaly-induced steady state. These results constitute a fully analytic, backreacted solution for SdS evaporation that unifies semiclassical thermodynamics and information flow in a cosmological setting, thereby elucidating the ultimate fate of evaporating black holes in de~Sitter space.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2025-11-14T21:02:42+00:00",
+      "updated": "2026-05-29T15:59:23+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.11873v3",
+      "html_url": "https://arxiv.org/html/2511.11873v3",
+      "entry_url": "http://arxiv.org/abs/2511.11873v3"
+    }
+  ],
+  "total": 8
+}

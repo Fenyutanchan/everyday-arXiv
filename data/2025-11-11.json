@@ -1,0 +1,285 @@
+{
+  "date": "2025-11-11",
+  "papers": [
+    {
+      "arxiv_id": "2511.08685v4",
+      "base_id": "2511.08685",
+      "title": "Kinematic scaling relations of disc galaxies from ionised gas at $z\\sim1$ and their connection with dark matter haloes",
+      "authors": [
+        "Pavel E. Mancera Piña",
+        "Enrico M. Di Teodoro",
+        "S. Michael Fall",
+        "Antonino Marasco",
+        "Mariska Kriek",
+        "Marco Martorano"
+      ],
+      "abstract": "We derive the Tully-Fisher (TFR, $M_\\ast-V_{\\rm circ,f}$) and Fall (FR, $j_\\ast-M_\\ast$) relations at redshift $z = 0.9$ using a sample of 43 main-sequence disc galaxies with H$α$ IFU data and JWST/HST imaging. The strength of our analysis lies in the use of state-of-the-art 3D kinematic models to infer galaxy rotation curves, the inclusion and morphological modelling of NIR bands, and the use of SED modelling applied to our photometry measurements to estimate stellar masses. After correcting the inferred H$α$ velocities for asymmetric drift, we find a TFR of the form $\\log(M_\\ast / M_\\odot) = a \\log(V_{\\rm circ,f} / 150~\\mathrm{km\\,s^{-1}}) + b$, with $a=3.82^{+0.55}_{-0.40}$ and $b=10.27^{+0.06}_{-0.07}$, as well as a FR of the form $\\log(j_\\ast / \\mathrm{kpc\\,km\\,s^{-1}}) = a \\log(M_\\ast / 10^{10.5} M_\\odot) + b$, with $a=0.44^{+0.06}_{-0.06}$ and $b=2.86^{+0.02}_{-0.02}$. Compared with their $z=0$ counterparts, we find moderate evolution in the TFR and strong evolution in the FR over the past 8 Gyr. We interpret our findings in the context of the galaxy-to-halo scaling parameters $f_{\\rm M}=M_\\ast/M_{\\rm vir}$ and $f_{\\rm j}=j_\\ast/j_{\\rm vir}$. We infer that $f_{\\rm j}$ shows little redshift evolution and depends very weakly on $M_\\ast$, with typical values around $f_{\\rm j}\\sim0.8$. As for $f_{\\rm M}$, we find it to be higher and less dependent on $M_\\ast$ at $z=0.9$ than at $z=0$. Interpreting our observed $f_{\\rm M}-M_\\ast$ relations within the Cold Dark Matter framework implies necessarily that the galaxy populations at $z=0.9$ and $z=0$ are not the progenitor/descendant of one another. The alternative scenario is that the $z=0.9$ relations are incorrect due to strong selection effects, unidentified systematics, or the possibility that H$α$ kinematics may not be a reliable dynamical tracer. Such problems would also affect previous studies on the same subject.",
+      "categories": [
+        "astro-ph.GA",
+        "astro-ph.CO"
+      ],
+      "published": "2025-11-11T19:00:04+00:00",
+      "updated": "2026-04-17T14:05:29+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.08685v4",
+      "html_url": "https://arxiv.org/html/2511.08685v4",
+      "entry_url": "http://arxiv.org/abs/2511.08685v4"
+    },
+    {
+      "arxiv_id": "2511.08777v2",
+      "base_id": "2511.08777",
+      "title": "Infrared Universality: The $r^{-3}$ Spectral Threshold for Coupled Gravitational and Electromagnetic Fields",
+      "authors": [
+        "Michael Wilson"
+      ],
+      "abstract": "We identify the $r^{-3}$ curvature-decay rate as a universal geometric threshold separating compact from non-compact perturbations of Laplace-type operators on asymptotically flat manifolds. For the coupled Einstein--Maxwell system, we prove that the linearized operator $\\mathcal{L}$ is essentially self-adjoint and that curvature and field strengths decaying faster than $r^{-3}$ act as relatively compact perturbations, while decay exactly at $r^{-3}$ places $0\\inσ_{\\mathrm{ess}}(\\mathcal{L})$ through delocalized zero modes. This threshold mechanism unifies the infrared behavior of spin-1, spin-2, and mixed spin-$(1\\oplus2)$ fields, linking the onset of spectral delocalization with the appearance of gravitational and electromagnetic memory. Finite-difference simulations corroborate the analytic scaling and reproduce the characteristic quadrupolar and dipolar sky maps predicted for the coupled memory fields. These results demonstrate that curvature decay at $r^{-3}$ constitutes a fundamental geometric boundary underlying infrared universality in gauge and gravitational theories, providing a spectral counterpart to the asymptotic-symmetry and soft-theorem formulations of memory.",
+      "categories": [
+        "gr-qc",
+        "math-ph"
+      ],
+      "published": "2025-11-11T20:57:18+00:00",
+      "updated": "2026-04-29T15:47:13+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.08777v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2511.08777v2"
+    },
+    {
+      "arxiv_id": "2511.08692v2",
+      "base_id": "2511.08692",
+      "title": "Excitation factors for horizonless compact objects: long-lived modes, echoes, and greybody factors",
+      "authors": [
+        "Romeo Felice Rosato",
+        "Shauvik Biswas",
+        "Sumanta Chakraborty",
+        "Paolo Pani"
+      ],
+      "abstract": "We present an analytical and numerical investigation of the quasinormal excitation factors of ultracompact horizonless objects. These systems possess long lived quasinormal modes with extremely small imaginary parts, originating from the effective cavity between the photon sphere and the object's interior. We show that the excitation of such modes is strongly suppressed, scaling with the imaginary part of their frequency, and therefore they contribute to the waveform only at very late times. This hierarchy naturally explains the structure of echo signals: the prompt ringdown is dominated by standard light ring modes, the early echoes arise from moderately damped cavity modes, and only the latest echoes are governed by long lived modes. Based on this, we propose a practical ringdown waveform model based on a superposition of ordinary black hole quasinormal modes and cavity modes, which captures the complexity of the ringdown of horizonless ultracompact objects. We further demonstrate that the combination of small excitation factors and weak damping enhances the robustness of long lived modes against localized perturbations, in contrast to the spectral instabilities affecting standard black hole quasinormal modes. Finally, we extend the analysis of greybody factors to exotic compact objects and wormholes, showing that they remain stable under small deformations of the effective potential and thus represent robust observables. Our results provide a unified framework for understanding excitation, stability, and echoes in ultracompact horizonless objects, with direct implications for their spectral properties and gravitational wave signatures.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE",
+        "hep-ph"
+      ],
+      "published": "2025-11-11T19:00:08+00:00",
+      "updated": "2026-05-13T14:11:56+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.08692v2",
+      "html_url": "https://arxiv.org/html/2511.08692v2",
+      "entry_url": "http://arxiv.org/abs/2511.08692v2"
+    },
+    {
+      "arxiv_id": "2511.07905v2",
+      "base_id": "2511.07905",
+      "title": "Parametrisation and dictionary for CP violating Higgs boson interactions",
+      "authors": [
+        "Daniele Barducci",
+        "Matthew Forslund",
+        "Marta Fuentes Zamoro",
+        "Pier Paolo Giardino",
+        "Andrei V. Gritsan",
+        "Giacomo Ortona"
+      ],
+      "abstract": "Searches for charge-parity (CP) violating interactions of the Standard Model (SM) Higgs boson are a key priority of the LHC physics program. Experimental results from ATLAS and CMS are often reinterpreted within a variety of theoretical parametrisations, the most commonly used being the Higgs basis, $κ$'s and angles, CP fractions and effective field theories (EFT) such as the SMEFT and the Higgs EFT. However, differing conventions and assumptions across the literature make the translation between these parametrisations nontrivial and prone to inconsistencies. In this paper, we provide a unified framework and construct explicit dictionaries connecting these different approaches. This facilitates a transparent comparison between theoretical studies and experimental analyses, enabling more robust interpretations of CP violating effects in Higgs boson interactions.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2025-11-11T07:01:52+00:00",
+      "updated": "2026-05-13T07:23:28+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.07905v2",
+      "html_url": "https://arxiv.org/html/2511.07905v2",
+      "entry_url": "http://arxiv.org/abs/2511.07905v2"
+    },
+    {
+      "arxiv_id": "2511.08154v2",
+      "base_id": "2511.08154",
+      "title": "Good flavor search in SU(5): a machine learning approach",
+      "authors": [
+        "Fayez Abu-Ajamieh",
+        "Shinsuke Kawai",
+        "Nobuchika Okada"
+      ],
+      "abstract": "We revisit the fermion mass problem of the $SU(5)$ grand unified theory using machine learning techniques. The original $SU(5)$ model proposed by Georgi and Glashow is incompatible with the observed fermion mass spectrum. Two remedies are known to resolve this discrepancy, one is through introducing a new interaction via a 45-dimensional field, and the other via a 24-dimensional field. We investigate which modification is more beautiful, defining the beauty as proximity to the original Georgi-Glashow $SU(5)$ model. Our analysis shows that, in both supersymmetric and non-supersymmetric scenarios, the model incorporating the interaction with the 24-dimensional field is more beautiful under this criterion. We then generalise these models by introducing a continuous parameter $y$, which takes the value 3 for the 45-dimensional field and 1.5 for the 24-dimensional field. Numerical optimisation reveals that $y \\approx 0.8$ yields the closest match to the original $SU(5)$ model, indicating that this value corresponds to the most beautiful model according to our definition.",
+      "categories": [
+        "hep-ph",
+        "cs.LG",
+        "hep-th"
+      ],
+      "published": "2025-11-11T12:06:14+00:00",
+      "updated": "2026-05-16T08:41:42+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.08154v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2511.08154v2"
+    },
+    {
+      "arxiv_id": "2511.08213v3",
+      "base_id": "2511.08213",
+      "title": "Gibbons-Hawking Entropy and BMN Strings",
+      "authors": [
+        "Min-xin Huang"
+      ],
+      "abstract": "We provide some up-to-date discussions related to cosmological event horizon and entropy of our universe, then introduce an intriguing idea that there may be a universal finite upper bound for entropy accessible to an observer in consistent theories of quantum gravity. We argue that the Berenstein-Maldacena-Nastase (BMN) strings provide a test of the idea. More speculatively, in an optimistic scenario, this also provides a possible estimate of the cosmological constant.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2025-11-11T13:16:16+00:00",
+      "updated": "2026-05-26T14:56:20+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.08213v3",
+      "html_url": "https://arxiv.org/html/2511.08213v3",
+      "entry_url": "http://arxiv.org/abs/2511.08213v3"
+    },
+    {
+      "arxiv_id": "2511.08686v3",
+      "base_id": "2511.08686",
+      "title": "Variational Method in Quantum Field Theory",
+      "authors": [
+        "Arthur Hutsalyuk",
+        "Márton Lájer",
+        "Giuseppe Mussardo",
+        "Andrea Stampiggi"
+      ],
+      "abstract": "We develop a variational framework for addressing two-dimensional non-integrable quantum field theories through the exact structure of their integrable counterparts. Concentrating on the $\\varphi^4$ Landau-Ginzburg model, we use the analytical Vacuum Expectation Values and Form Factors of local operators in the sinh-Gordon theory as the foundation of a variational ansatz. In this way, we obtain controlled estimates of central physical quantities of the $\\varphi^4$ theory - such as the finite-volume ground-state energy and the physical mass as a function of the coupling constant. The strengths of the variational methods are leveraged in combination with the Hamiltonian truncation techniques and the LeClair-Mussardo formula, which also allow to probe the accuracy of the variational approximation varying the system size. Within the weak-coupling regime, a detailed numerical analysis reveals the behaviour of the finite-volume spectrum, the ground-state energy, and the elastic part of the scattering matrix, showing how the rigorous machinery of integrable models can serve as a guiding light into the complex landscape of non-integrable quantum field dynamics.",
+      "categories": [
+        "hep-th",
+        "cond-mat.stat-mech",
+        "quant-ph"
+      ],
+      "published": "2025-11-11T19:00:05+00:00",
+      "updated": "2026-06-01T16:21:07+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.08686v3",
+      "html_url": "https://arxiv.org/html/2511.08686v3",
+      "entry_url": "http://arxiv.org/abs/2511.08686v3"
+    },
+    {
+      "arxiv_id": "2511.08486v2",
+      "base_id": "2511.08486",
+      "title": "Accelerated inference of microlensed gravitational waves with machine learning",
+      "authors": [
+        "Marienza Caldarola",
+        "Srashti Goyal",
+        "Nihar Gupte",
+        "Stephen R. Green",
+        "Miguel Zumalacárregui"
+      ],
+      "abstract": "Gravitational waves (GWs) within the LIGO-Virgo-KAGRA sensitivity band can be microlensed by stellar and intermediate-mass black holes, producing a frequency-dependent modulation of the signal amplitude. Microlensing analyses, however, are costly due to the increased dimensionality of the parameter space and waveform computation time. As a proof of concept, we show that the deep-learning-based framework Deep Inference for Gravitational-Wave Observations (DINGO), which employs a simulation-based inference approach to estimate posterior distributions, can perform efficient parameter inference for GW microlensing by an isolated point-mass lens. Using simulated microlensed GW signals, we train a lensed-DINGO network and compare its performance with traditional Bayesian parameter estimation carried out with Bilby. Our framework can be used to rapidly identify microlensed events in large GW catalogs. When the lensed-DINGO network is combined with importance sampling, we find that although sample efficiencies are somewhat reduced compared to the unlensed-DINGO network, owing to the richer structure of microlensed signals, it still achieves $\\mathcal{O}(10\\times)$ speed-up relative to Bilby. We further show that this framework is useful to efficiently estimate the background Bayes-factor distribution, which is crucial for assessing the significance of candidate lensed events. However, for foreground (lensed) events, the sampling efficiency can sometimes drop when analysed with the unlensed-DINGO network, providing a diagnostic indicator of out-of-distribution data. Our approach can be straightforwardly generalised to more complex and realistic lens models, enabling detailed studies of microlensed GWs.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "published": "2025-11-11T17:26:43+00:00",
+      "updated": "2026-06-01T07:28:08+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.08486v2",
+      "html_url": "https://arxiv.org/html/2511.08486v2",
+      "entry_url": "http://arxiv.org/abs/2511.08486v2"
+    },
+    {
+      "arxiv_id": "2511.07858v2",
+      "base_id": "2511.07858",
+      "title": "Ringdown of a black hole sourced by a Burkert-density effective anisotropic source",
+      "authors": [
+        "Yi Yang",
+        "Gaetano Lambiase",
+        "Ali Ovgun",
+        "Dong Liu",
+        "Zheng-Wen Long"
+      ],
+      "abstract": "We construct a static, spherically symmetric black hole spacetime sourced by an effective anisotropic matter distribution whose energy density follows the cored Burkert profile. The source should be understood as a Burkert-density effective fluid, rather than as a microscopic model of pressureless collisionless dark matter. Solving the Einstein equations under this closure condition, we obtain an analytic Schwarzschild-like metric that reduces smoothly to the vacuum Schwarzschild solution when the halo contribution vanishes. We then study axial gravitational perturbations of this geometry and determine the associated quasinormal spectrum using complementary frequency-domain and time-domain methods. We find that increasing either the core radius \\(r_0\\) or the central density \\(ρ_0\\) shifts the ringdown toward lower frequency and weaker damping, with the effect of \\(r_0\\) being more pronounced. The close agreement among the numerical extractions supports the reliability of the results. Our analysis provides a useful benchmark for assessing how a cored Burkert-type effective environment can modify black hole ringdown.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-11-11T05:49:23+00:00",
+      "updated": "2026-06-03T13:53:31+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.07858v2",
+      "html_url": "https://arxiv.org/html/2511.07858v2",
+      "entry_url": "http://arxiv.org/abs/2511.07858v2"
+    },
+    {
+      "arxiv_id": "2511.08673v2",
+      "base_id": "2511.08673",
+      "title": "Gravitational radiation from Kerr black holes using the Sasaki-Nakamura formalism: Waveforms and fluxes at infinity",
+      "authors": [
+        "Yucheng Yin",
+        "Rico K. L. Lo",
+        "Xian Chen"
+      ],
+      "abstract": "In linear perturbation theory for Kerr black holes, there are two equivalent formalisms, namely the Teukolsky and the Sasaki-Nakamura (SN) formalism. Typically, one defaults to the Teukolsky formalism, especially when calculating extreme mass ratio inspiral waveforms, and uses the SN formalism when dealing with extended sources, as it offers superior convergence when employing the Green's function method for calculating the inhomogeneous solution. In this work, we present a new scheme for solving the inhomogeneous SN equation, based on integration by parts, that eliminates the extra radial integration step required in the standard formulation to construct the source term for convolution with the SN variable. We derive also a SN source term that is valid for point particles on arbitrary motions around Kerr black holes. Our approach enables efficient computations of gravitational waveforms within the SN formalism in all cases, from compact to extended sources. We validate our scheme and code implementation against the literature and find excellent agreement, achieving comparable performance without employing any special optimization techniques.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-11-11T19:00:01+00:00",
+      "updated": "2026-06-02T15:50:35+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.08673v2",
+      "html_url": "https://arxiv.org/html/2511.08673v2",
+      "entry_url": "http://arxiv.org/abs/2511.08673v2"
+    },
+    {
+      "arxiv_id": "2511.07902v2",
+      "base_id": "2511.07902",
+      "title": "The Influence of Stable Photon Sphere Advent on Orbital Precession in moving towards the Extremality: Periapsis Shift as a Gateway to the Weak Gravity Conjecture",
+      "authors": [
+        "Mohammad Ali S. Afshar",
+        "Jafar Sadeghi"
+      ],
+      "abstract": "While the effects of solar mass change can be neglected in studies of solar periapsis shifts, the influence of a black hole's dynamic mass variation on the periapsis shift of test particles demands careful investigation. Using a frame-by-frame adiabatic approximation, we investigate whether the periapsis shift in the extremal limit can serve as a consistency test for the Weak Gravity Conjecture (WGC). We analyze the periapsis shift under Aschenbach-like conditions, where a stable photon sphere generates non-monotonic orbital velocity profiles. Finally, we synthesize the combined effects of extremality and a stable photon sphere, revealing profound modifications including prograde-to-retrograde transitions and triple-regime orbital structures. Our results demonstrate that the periapsis shift-not merely its magnitude but its qualitative orbital behavior-provides a meaningful experimental probe for the WGC in strong-field regimes.",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2025-11-11T06:57:10+00:00",
+      "updated": "2026-06-02T15:24:49+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.07902v2",
+      "html_url": "https://arxiv.org/html/2511.07902v2",
+      "entry_url": "http://arxiv.org/abs/2511.07902v2"
+    },
+    {
+      "arxiv_id": "2511.08359v2",
+      "base_id": "2511.08359",
+      "title": "Future Collider Perspectives on Higgs CP Violation",
+      "authors": [
+        "Arun Atwal",
+        "Jessica Burridge",
+        "António Jacques Costa",
+        "Christoph Englert",
+        "Sinead Farrington",
+        "Jay Nesbitt",
+        "Leonor Santos Pereira Trigo",
+        "Andrew Pilkington",
+        "Aidan Robson",
+        "Júlia Cardoso Silva",
+        "Sarah Williams",
+        "Yuyang Zhang"
+      ],
+      "abstract": "The search for new sources of CP violation is a cornerstone of the beyond the Standard Model phenomenology programme at the LHC and beyond. We provide a comprehensive analysis of such searches at a range of future facilities with the aim of informing the currently unfolding future collider roadmap. Focussing on new sources of CP violation specifically in the gauge-Higgs sector, we demonstrate the outstanding potential held by future electron-positron and proton-proton colliders to reveal and identify BSM physics with direct relevance for the observed matter-antimatter asymmetry. In particular, the future colliders will provide an order of magnitude improvement in sensitivity to anomalous CP-violating interactions induced by dimension-six effective field theory operators when compared to the high-luminosity LHC programme.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2025-11-11T15:37:35+00:00",
+      "updated": "2026-06-11T13:26:29+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.08359v2",
+      "html_url": "https://arxiv.org/html/2511.08359v2",
+      "entry_url": "http://arxiv.org/abs/2511.08359v2"
+    },
+    {
+      "arxiv_id": "2511.08652v2",
+      "base_id": "2511.08652",
+      "title": "Analytical solution and Lie algebra of the relativistic Boltzmann equation",
+      "authors": [
+        "Yi Wang",
+        "Xuan Zhao",
+        "Zhe Xu",
+        "Jin Hu"
+      ],
+      "abstract": "In this work, we present a novel and more efficient approach to constructing the relativistic Bobylev, Krook, and Wu (BKW) solution [A. V. Bobylev, Sov. Phys. Dokl. 20, 820 (1976); M. Krook and T. T. Wu, Phys. Fluids 20, 1589 (1977)] of the relativistic Boltzmann equation. Introducing a new ansatz for the distribution function, we demonstrate that within this specific ansatz space, only the equilibrium and BKW-type forms yield exact solutions to the nonlinear Boltzmann equation. Furthermore, we also derive the Lie algebra of invariant transformations admitted by the relativistic Boltzmann equation and show that the corresponding symmetry group transformations can be systematically constructed from this algebra.",
+      "categories": [
+        "nucl-th",
+        "cond-mat.stat-mech",
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2025-11-11T08:02:31+00:00",
+      "updated": "2026-06-15T11:35:54+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.08652v2",
+      "html_url": "https://arxiv.org/html/2511.08652v2",
+      "entry_url": "http://arxiv.org/abs/2511.08652v2"
+    }
+  ],
+  "total": 13
+}

@@ -1,0 +1,130 @@
+{
+  "date": "2025-10-26",
+  "papers": [
+    {
+      "arxiv_id": "2510.22601v2",
+      "base_id": "2510.22601",
+      "title": "Quantum Bit Threads and the Entropohedron",
+      "authors": [
+        "Matthew Headrick",
+        "Sreeman Reddy Kasireddy",
+        "Andrew Rolph"
+      ],
+      "abstract": "We derive several new quantum bit thread prescriptions for holographic entanglement entropy, equivalent for static states to the quantum extremal surface formula. Our new prescriptions come in many varieties: vector field-based or based on measures over bulk curves, dependent or independent of the bulk UV regulator, loose and strict versions of constraints, and more. We also explore how bit threads behave in the presence of entanglement islands and baby universes. Finally, our prescriptions inspire new measures of entanglement that we call entanglement distribution functions, which can be packaged into a convex polytope that we call the entropohedron.",
+      "categories": [
+        "hep-th",
+        "quant-ph"
+      ],
+      "published": "2025-10-26T09:34:24+00:00",
+      "updated": "2026-04-15T15:28:10+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.22601v2",
+      "html_url": "https://arxiv.org/html/2510.22601v2",
+      "entry_url": "http://arxiv.org/abs/2510.22601v2"
+    },
+    {
+      "arxiv_id": "2510.22545v4",
+      "base_id": "2510.22545",
+      "title": "The Thermodynamics of the Gravity from Entropy Theory",
+      "authors": [
+        "Ginestra Bianconi"
+      ],
+      "abstract": "The Gravity from Entropy (GfE) action posits that gravity that is fundamentally given by the information encoded in the interplay between matter and geometry. The GfE Lagrangian is given by the Geometric Quantum Relative Entropy (GQRE) between the physical metric and the metric induced by matter and curvature, leading to modified gravitational field equations with an emergent dynamical effective dark energy term, which reduce to Einstein's equations in the low energy, small curvature limit. Adopting a thermodynamic viewpoint, we identify the GfE energy density with this emergent effective dark energy term. For homogeneous and isotropic FRW spacetimes, we show that GfE universes admit a thermal description: locally, they are characterized by $k$-temperatures and $k$-pressures satisfying a first law of GfE thermodynamics. In the low energy, small curvature regime with perfect-fluid matter and radiation, GfE solutions are well approximated by Friedmann cosmologies. While the total GQRE per unit volume does not increase, the total entropy of GfE universes is non-decreasing in time. We show that, while the total GQRE per unit volume does not increase, consistent with its nature as a relative entropy, the total entropy of GfE universes is non-decreasing in time. These results provide a thermodynamic interpretation of GfE cosmologies and of general relativity (GR) itself, recovered in the low energy, small curvature limit of the theory, offering a framework to reconcile local order and complexity with the global increase of entropy in the universe.",
+      "categories": [
+        "gr-qc",
+        "cond-mat.stat-mech",
+        "hep-th",
+        "quant-ph"
+      ],
+      "published": "2025-10-26T05:52:15+00:00",
+      "updated": "2026-05-11T17:53:15+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.22545v4",
+      "html_url": "https://arxiv.org/html/2510.22545v4",
+      "entry_url": "http://arxiv.org/abs/2510.22545v4"
+    },
+    {
+      "arxiv_id": "2510.22658v3",
+      "base_id": "2510.22658",
+      "title": "Toward Krylov-based holography in double-scaled SYK",
+      "authors": [
+        "Yichao Fu",
+        "Hyun-Sik Jeong",
+        "Keun-Young Kim",
+        "Juan F. Pedraza"
+      ],
+      "abstract": "Building on the duality between Krylov complexity and geodesic length in Jackiw-Teitelboim and sine-dilaton gravity, we develop a precise holographic dictionary for quantities in the Krylov subspace of the double-scaled Sachdev-Ye-Kitaev model (DSSYK). First, we demonstrate that the growth rate of Krylov state complexity corresponds to the wormhole velocity, and show that its expectation value in coherent states serves as a boundary diagnostic of firewall-like structures via bulk reconstruction. We also delineate an alternative bulk description in terms of the proper momentum of an infalling particle at early times, establishing a threefold duality between the Krylov complexity growth rate, wormhole velocity, and proper momentum, with clear regimes of validity. Beyond the first moments, we argue that higher-order Krylov complexities capture connected bulk contributions encoded by replica wormholes, while the logarithmic variant probes the replica saddle structure. Finally, within a third-quantized setting incorporating baby universes, we show that the Krylov entropy equals the von Neumann entropy of the parent-geometry density matrix obtained after tracing out baby universes, thereby quantifying information flow into the baby universe sector. Together, these results elevate Krylov-space observables to sharp probes of bulk dynamics and topology in ensemble-averaged 2D gravity.",
+      "categories": [
+        "hep-th",
+        "gr-qc",
+        "quant-ph"
+      ],
+      "published": "2025-10-26T12:40:14+00:00",
+      "updated": "2026-05-14T09:27:22+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.22658v3",
+      "html_url": "https://arxiv.org/html/2510.22658v3",
+      "entry_url": "http://arxiv.org/abs/2510.22658v3"
+    },
+    {
+      "arxiv_id": "2510.22592v2",
+      "base_id": "2510.22592",
+      "title": "Probing Axion-Photon conversion via circular polarization imprints in the CMB $V$-mode observations",
+      "authors": [
+        "Ashu Kushwaha",
+        "Rajeev Kumar Jain"
+      ],
+      "abstract": "In the presence of a background magnetic field, axions or axion-like particles (ALPs) can be resonantly converted to photons when their mass is nearly equal to the effective photon mass. In this paper, we propose a novel method to constrain the parameter space of ALPs by investigating the resulting imprints of axion-photon conversion in the cosmic microwave background (CMB) observations. We show that a helical magnetic field existing prior to the CMB epoch can generate an excess population of photons carrying net circular polarization due to the axion-photon conversion mechanism. Consequently, current measurements of the angular power spectrum of circular polarization ($V$-mode) in the CMB can be used to constrain the parameter space of ALP mass and its coupling to photons. In the optimistic scenario of a maximally helical magnetic field with strength $\\sim {\\rm nG}$, we find that CLASS observations at $40 \\, {\\rm GHz}$ can probe the previously unconstrained regions of axion-photon coupling corresponding to ALP masses in the range $10^{-10}-10^{-8} \\, {\\rm eV}$.",
+      "categories": [
+        "astro-ph.CO",
+        "hep-ph"
+      ],
+      "published": "2025-10-26T09:20:31+00:00",
+      "updated": "2026-05-20T09:49:54+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.22592v2",
+      "html_url": "https://arxiv.org/html/2510.22592v2",
+      "entry_url": "http://arxiv.org/abs/2510.22592v2"
+    },
+    {
+      "arxiv_id": "2510.22698v3",
+      "base_id": "2510.22698",
+      "title": "A new group of low-spin $50-70M_\\odot$ Black Holes and the high pair-instability mass cutoff",
+      "authors": [
+        "Yuan-Zhu Wang",
+        "Yin-Jie Li",
+        "Shi-Jie Gao",
+        "Shao-Peng Tang",
+        "Yi-Zhong Fan"
+      ],
+      "abstract": "Pair-instability supernovae (PISN) will not leave compact remnants and hence yield a mass gap of the black holes. Though a transition point at $\\approx 46M_\\odot$, separating low- and high-spin black hole populations and interpreted as evidence for the PISN mass gap, was first identified in gravitational wave data by Wang et al. (2022, ApJL 941, L39) and later confirmed in follow-up studies, here we report the emergence of a new group of low-spin but massive ($\\sim 50-70M_\\odot$) black holes, which are hard to produce via hierarchical mergers, in the latest GWTC-4.0 data. Correspondingly, the mass cutoff of the low-spin black holes shifts to $68.5^{+19.8}_{-18.5}M_\\odot$ (90\\% credibility), which is consistent with the PISN model for a $^{12}{\\rm C}(α,γ)^{16}{\\rm O}$ reaction rate of $S_{300} = 109^{+55}_{-27}~{\\rm keV~b}$. Despite that the massive single-star collapse/dynamical capture origin can not be reliably tested at this moment, a high pair-instability mass cutoff $M_{\\rm low}\\sim 70M_\\odot$ may be favored for its capability of accounting for the rather low observation rate of hydrogen-less super-luminous supernovae.",
+      "categories": [
+        "astro-ph.HE",
+        "astro-ph.SR",
+        "gr-qc"
+      ],
+      "published": "2025-10-26T14:48:06+00:00",
+      "updated": "2026-06-03T14:35:41+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.22698v3",
+      "html_url": "https://arxiv.org/html/2510.22698v3",
+      "entry_url": "http://arxiv.org/abs/2510.22698v3"
+    },
+    {
+      "arxiv_id": "2510.22542v4",
+      "base_id": "2510.22542",
+      "title": "Krylov Complexity and Mixed-State Phase Transition",
+      "authors": [
+        "Hung-Hsuan Teh",
+        "Takahiro Orito"
+      ],
+      "abstract": "We establish a unified framework connecting decoherence and quantum complexity. By vectorizing the density matrix into a pure state in a double Hilbert space, a decoherence process is mapped to an imaginary-time evolution. Expanding this evolution in the Krylov space, we find that the $n$-th Krylov basis corresponds to an $n$-error state generated by the decoherence, providing a natural bridge between error proliferation and complexity growth. Using two dephasing quantum channels as concrete examples, we show that the Krylov complexity remains nonsingular for strong-to-weak spontaneous symmetry-breaking (SWSSB) crossovers, while it exhibits a singular area-to-volume-law transition for genuine SWSSB phase transitions, intrinsic to mixed states.",
+      "categories": [
+        "quant-ph",
+        "cond-mat.stat-mech",
+        "hep-th"
+      ],
+      "published": "2025-10-26T05:46:34+00:00",
+      "updated": "2026-05-22T01:39:25+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.22542v4",
+      "html_url": "https://arxiv.org/html/2510.22542v4",
+      "entry_url": "http://arxiv.org/abs/2510.22542v4"
+    }
+  ],
+  "total": 6
+}

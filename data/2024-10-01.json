@@ -1,0 +1,25 @@
+{
+  "date": "2024-10-01",
+  "papers": [
+    {
+      "arxiv_id": "2410.00810v3",
+      "base_id": "2410.00810",
+      "title": "Bootstrapping Quantum Hamiltonians with Symmetry",
+      "authors": [
+        "Michael G. Scheer"
+      ],
+      "abstract": "We describe a semidefinite relaxation method which finds lower bounds to the ground state energy of a quantum Hamiltonian subject to Hermitian linear constraints along with approximations of ground state expectation values. We show that symmetry can be used to significantly reduce the computational requirements, and we include unitary, antiunitary, discrete, and continuous symmetries in our analysis. We demonstrate our method using the 1D Hubbard model and find quantitative agreement with both exact diagonalization and the Bethe ansatz.",
+      "categories": [
+        "cond-mat.str-el",
+        "hep-th",
+        "quant-ph"
+      ],
+      "published": "2024-10-01T15:55:35+00:00",
+      "updated": "2026-05-28T17:34:39+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2410.00810v3",
+      "html_url": "https://arxiv.org/html/2410.00810v3",
+      "entry_url": "http://arxiv.org/abs/2410.00810v3"
+    }
+  ],
+  "total": 1
+}

@@ -1,0 +1,217 @@
+{
+  "date": "2026-05-09",
+  "total": 8,
+  "papers": [
+    {
+      "arxiv_id": "2605.00945v2",
+      "base_id": "2605.00945",
+      "title": "Oscillon Formation in Palatini Modified Gravity Theories",
+      "authors": [
+        "Shreyas Upadhye",
+        "Sukanta Panda"
+      ],
+      "abstract": "We investigate the formation of spatially localized, oscillatory in time and non topological solitonic, quasi-stable energy configurations, Oscillons, which are formed at the end of Inflationary epoch, during the preheating phase and decay over long periods of time. Oscillons have been previously studied in literature in the regime of General Relativity using Metric Formalism. In this paper we look for formation of these energy lumps by modifying the gravity part of the Einstein Hilbert Action, considering a non minimal coupling of the scalar field with Ricci Scalar,$R$, and working in an alternative formulation of General Relativity known as Palatini Formalism. The potential we consider is of polynomial form. We demonstrate numerically, using CosmoLattice, that the equation governing the dynamics of the Inflaton scalar field give oscillatory and decaying solutions as it is expected in the case of Oscillons, with power spectrum governing the growth of perturbations of $k$ modes. The equation of state reveals an extended period of Oscillon domination in the early universe. Along with this, the Primordial Gravitational Wave spectrum due to asymmetric distribution of these energy configurations have also been studied. We observe that these generate Ultra-High Frequency regime Gravitational Waves, which lie in the range of the planned future detectors and experiments.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2026-05-01T09:42:52+00:00",
+      "updated": "2026-05-09T09:57:05+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.00945v2",
+      "html_url": "https://arxiv.org/html/2605.00945v2",
+      "entry_url": "http://arxiv.org/abs/2605.00945v2",
+      "relevance": {
+        "relevant": true,
+        "score": 8,
+        "reason": "The paper directly addresses the researcher's core interests in early-universe cosmology, specifically preheating dynamics after inflation and the generation of primordial gravitational waves from oscillons.",
+        "pass_number": 1,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2504.02030v2",
+      "base_id": "2504.02030",
+      "title": "Neutron Star Eclipses as Axion Laboratories",
+      "authors": [
+        "Vedran Brdar",
+        "Dibya S. Chattopadhyay"
+      ],
+      "abstract": "In light-shining-through-walls experiments, axions and axion-like particles (ALPs) are searched for by exposing an optically thick barrier to a laser beam. In a magnetic field, photons could convert into ALPs in front of the barrier and reconvert behind it, giving rise to a signal that can occur only in the presence of such hidden particles. In this work, we utilize the light-shining-through-walls concept and apply it to astrophysical scales. Namely, we consider eclipsing binary systems, consisting of a neutron star, which is a bright source of X-rays, and a companion star with a much larger radius. Space observatories such as XMM-Newton and NuSTAR have performed extensive measurements of such systems, obtaining data on both out-of-eclipse photon rates and those during eclipses. The latter are typically $\\mathscr{O}(10^2-10^3)$ times smaller, due to the fact that X-rays propagating along the line of sight from the neutron star to the X-ray observatory do not pass through the barrier that is the companion star. Using this attenuation, we derive a constraint on ALP-photon coupling of $g_{aγ} \\leq 1.44 \\times 10^{-10} \\,\\text{GeV}^{-1}$ (at $90\\%$ C.L.) for the LMC X-4 eclipsing binary system, surpassing current bounds from light-shining-through-walls experiments. We also present future prospects that could realistically improve this limit by an order of magnitude in $g_{aγ}$, making it competitive with some of the strongest limits derived to date.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.HE"
+      ],
+      "published": "2025-04-02T18:00:01+00:00",
+      "updated": "2026-05-09T04:00:38+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2504.02030v2",
+      "html_url": "https://arxiv.org/html/2504.02030v2",
+      "entry_url": "http://arxiv.org/abs/2504.02030v2",
+      "relevance": {
+        "relevant": true,
+        "score": 7,
+        "reason": "This paper is directly relevant to the user's interest in axion detection strategies and axion production in astrophysical environments, proposing a novel astrophysical light-shining-through-walls method using eclipsing binary systems to constrain the ALP-photon coupling.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2603.10189v2",
+      "base_id": "2603.10189",
+      "title": "Searching for axions with time resolved pulsar polarimetry",
+      "authors": [
+        "Francesca Chadha-Day",
+        "Tanmay Kumar Poddar"
+      ],
+      "abstract": "Pulsars possess strong dipole magnetic fields that can source axion fields through the axion-photon interaction. Pulsars may therefore be surrounded by axion field configurations oscillating with the pulsar's rotational period. These axions could be detected by observing their effect on the polarization of the pular's emission. In this paper, we use time resolved observations of the optical polarization of the Crab pulsar to place bounds on the axion-photon coupling, demonstrating the potential of time resolved pulsar birefringence in the search for axions.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "published": "2026-03-10T19:32:25+00:00",
+      "updated": "2026-05-09T09:17:34+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.10189v2",
+      "html_url": "https://arxiv.org/html/2603.10189v2",
+      "entry_url": "http://arxiv.org/abs/2603.10189v2",
+      "relevance": {
+        "relevant": true,
+        "score": 5,
+        "reason": "The paper is relevant to the user's interest in axion physics and axion detection strategies, specifically studying axion production in astrophysical environments (pulsars) and deriving constraints on the axion-photon coupling, though it is primarily an astrophysical observation study rather than directly connected to the user's solar axion or JUNO-focused work.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2405.17409v3",
+      "base_id": "2405.17409",
+      "title": "Ultraheavy Ultrahigh-Energy Cosmic Rays",
+      "authors": [
+        "B. Theodore Zhang",
+        "Kohta Murase",
+        "Nick Ekanger",
+        "Mukul Bhattacharya",
+        "Shunsaku Horiuchi"
+      ],
+      "abstract": "We investigate the propagation of ultraheavy (UH) nuclei as ultrahigh-energy cosmic rays (UHECRs). We show that their energy loss lengths at $\\lesssim300$ EeV are significantly longer than those of protons and intermediate-mass nuclei, and that the highest-energy cosmic rays with energies beyond $\\sim100$ EeV, including the Amaterasu particle, may be UH-UHECRs. For the first time, we derive constraints on the contribution of UH-UHECR sources, and find that the current data are consistent with energy generation rate densities of UHECRs from collapsars and neutron star mergers. Our model predicts that the mean value of the depth of shower maximum is lower than that for iron nuclei beyond 100 EeV, which can be tested with future composition measurements, e.g., AugerPrime and the Global Cosmic Ray Observatory. In addition, the spectral tension between the Telescope Array (TA) and the Pierre Auger Observatory can be alleviated by considering the enhanced contribution of UHECRs -- including UH nuclei -- from a nearby transient.",
+      "categories": [
+        "astro-ph.HE",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "published": "2024-05-27T17:56:51+00:00",
+      "updated": "2026-05-09T09:22:47+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2405.17409v3",
+      "html_url": "https://arxiv.org/html/2405.17409v3",
+      "entry_url": "http://arxiv.org/abs/2405.17409v3",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "The paper is tangentially related to the researcher's interest in UHECR production from PBHs, as understanding ultraheavy UHECR propagation and composition provides useful context, but the paper focuses on astrophysical sources (collapsars, neutron star mergers) rather than PBH production or the researcher's core particle physics topics.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2603.24732v2",
+      "base_id": "2603.24732",
+      "title": "Confinement in Holographic Theories at Finite Theta",
+      "authors": [
+        "Rashmish K. Mishra"
+      ],
+      "abstract": "A strongly coupled confining gauge theory with a non-zero vacuum angle undergoing a deconfinement to confinement phase transition is studied in the holographic gravitational description. A simplified five-dimensional setup is constructed where a bulk scalar models the effect of the vacuum angle, and the suitable boundary conditions on the ultra-violet (UV) and the infra-red (IR) boundaries are identified. The IR boundary condition is motivated by higher dimensional examples where the bulk scalar comes from a Wilson loop on a shrinking cycle. In this five-dimensional dual geometry, and in the limit of small backreaction in the infra-red, the critical temperature for the phase transition is shown to reduce quadratically with the vacuum angle, matching lattice results. The topological susceptibility has a sharp reduction across the critical temperature, also matching lattice results. The rate for the phase transition is estimated as a function of the vacuum angle, and is seen to be enhanced (reduced) when the field theory has a relevant (irrelevant) deformation at high energies. Crucially, for the irrelevant case, the confined phase can get destabilized for a range of parameters. In the context of early universe dynamics, if the vacuum angle is time-dependent, the transition history changes strongly: the deconfined phase can last till much lower temperatures than naively expected, and one can trigger a transition to the confined phase by a change in the vacuum angle, thus providing a controlled way to generate supercooling. As a phenomenological application, the peak frequency and the power of resulting gravitational wave signal from bubble collisions change, affecting their visibility in detectors. Possible generalizations of the scenario are discussed.",
+      "categories": [
+        "hep-th",
+        "hep-lat",
+        "hep-ph"
+      ],
+      "published": "2026-03-25T18:56:36+00:00",
+      "updated": "2026-05-09T23:30:11+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.24732v2",
+      "html_url": "https://arxiv.org/html/2603.24732v2",
+      "entry_url": "http://arxiv.org/abs/2603.24732v2",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "The paper touches on early universe cosmology (supercooling, confinement phase transitions) and gravitational wave signals from bubble collisions, which partially overlap with the user's interest in stochastic gravitational-wave backgrounds and early-universe dynamics, but the core methodology is holographic AdS/CFT gauge-gravity duality rather than the user's focus on particle phenomenology, neutrino physics, or perturbative QCD calculations.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.09140v1",
+      "base_id": "2605.09140",
+      "title": "Can a Nonstandard Invisible Pair Mimic the Michel Distribution?",
+      "authors": [
+        "Pablo Roig"
+      ],
+      "abstract": "We ask whether a measured Michel distribution, apparently in excellent agreement with the Standard Model interpretation of the $\\ell_i \\to \\ell_j ν\\barν$ decay, could instead arise from a different invisible sector. Within a general low-energy effective field theory, we analyze lepton decays $\\ell_i \\to \\ell_j + X\\bar X$ for electrically neutral, color-singlet, mutually conjugate invisible pairs $X\\bar X$ of spin up to $2$, allowing (pseudo)scalar, (axial)vector, and antisymmetric tensor interactions in the lepton current, focusing on the massless limit relevant for exact degeneracies. We formulate a criterion for indistinguishability based on the full set of measurable differential distributions. Under these assumptions, besides the obvious spin $1/2$ case, there is a unique nontrivial solution: a massless complex scalar pair coupled through a purely left-handed vector current exactly reproduces the standard Michel pattern, including its extensions to daughter-lepton polarization and radiative channels. All other cases studied here are distinguishable, in particular because higher-spin invisible pairs produce additional kinematic prefactors. These results isolate the only nonstandard and nontrivial invisible sector that can remain hidden in Michel-type lepton decay measurements.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2026-05-09T19:52:26+00:00",
+      "updated": "2026-05-09T19:52:26+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.09140v1",
+      "html_url": "https://arxiv.org/html/2605.09140v1",
+      "entry_url": "http://arxiv.org/abs/2605.09140v1",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "The paper touches on neutrino physics and dark sector effective field theory in lepton decays, which has tangential relevance to the user's interest in heavy neutral leptons with dark decays and JUNO phenomenology, but its primary focus on Michel parameter precision phenomenology and Lorentz structure of charged weak currents is outside the user's core research areas.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.08907v1",
+      "base_id": "2605.08907",
+      "title": "The Status of Gravitational Vector Perturbations with Recent CMB Data",
+      "authors": [
+        "Ali Rida Khalife",
+        "Cyril Pitrou"
+      ],
+      "abstract": "We present new constraints on gravitational vector perturbations ($\\mathcal{V}$-modes) using Cosmic Microwave Background (CMB) data, including temperature and $E$-mode polarization from SPT-3G D1, ACT-DR6, and $Planck$, as well as $B$-mode data from BICEP/Keck and SPTpol, which provide the strongest constraints on $\\mathcal{V}$-modes. We consider three initial conditions (ICs) that source $\\mathcal{V}$-modes: neutrino isocurvature (ISO), neutrino octupole (OCT), and a sourced mode (SMD) generated by an anisotropic stress before matter-radiation equality. We also consider including tensor modes along with $\\mathcal{V}$-modes for each of these ICs. Combining all datasets, we obtain 95\\% confidence level upper limits of $r_\\mathrm{v} < 1.3\\times10^{-4}$ (ISO), $r_\\mathrm{v} < 6.8$ (OCT), and $r_\\mathrm{v} < 4.2$ (SMD), with slightly tighter bounds when tensors are included, at a pivot scale $k_p\\ =\\ 0.05$ Mpc$^{-1}$. Interestingly, for SMD without tensors, using SPTpol $B$-modes alone yields $r_\\mathrm{v} = 4.7 \\pm 2.1$, consistent with zero at $2.2σ$. Similar result is found for SMD when including tensor perturbations. No statistically significant deviation from $Λ$CDM is found. However, $\\mathcal{V}$-modes are not fully excluded by current $B$-mode data and should be considered when interpreting primordial signals.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2026-05-09T12:05:35+00:00",
+      "updated": "2026-05-09T12:05:35+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.08907v1",
+      "html_url": "https://arxiv.org/html/2605.08907v1",
+      "entry_url": "http://arxiv.org/abs/2605.08907v1",
+      "relevance": {
+        "relevant": true,
+        "score": 3,
+        "reason": "While the paper touches on early-universe cosmology and neutrino-related initial conditions (isocurvature, octupole) that marginally connect to the researcher's interests in cosmological perturbations and neutrino physics, it is primarily a CMB data analysis paper constraining vector perturbations, which is outside the researcher's core focus on reheating dynamics, gravitational-wave backgrounds, JUNO phenomenology, and multi-loop perturbative calculations.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.08931v1",
+      "base_id": "2605.08931",
+      "title": "F-Term Hybrid Inflation with T-Model Kähler Geometry and Beyond",
+      "authors": [
+        "Waqas Ahmed",
+        "Constantinos Pallis",
+        "Mansoor Ur Rehman"
+      ],
+      "abstract": "We analyze F-term hybrid inflation (FHI) within various grand unified theories (GUTs) in the presence of a Kähler potential for the inflaton field which parameterizes the Kähler manifolds $SU(1,1)/U(1)$ or $SU(2)/U(1)$. We take into account supergravity, radiative, and soft supersymmetry-breaking corrections to the tree-level potential and find that viable FHI can be realized without extrema along the inflationary trajectory for a broad region of the parameter space. For selected superpotential parameters the models' predictions are largely influenced by the curvature of the internal space and the magnitude of the tadpole parameter which are constrained so as to achieve compatibility with the current ACT and SPT data. We also discuss the formation of cosmic strings and their associated gravitational wave signals, potentially detectable by current and upcoming experiments.",
+      "categories": [
+        "hep-ph",
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2026-05-09T13:05:58+00:00",
+      "updated": "2026-05-09T13:05:58+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.08931v1",
+      "html_url": "https://arxiv.org/html/2605.08931v1",
+      "entry_url": "http://arxiv.org/abs/2605.08931v1",
+      "relevance": {
+        "relevant": true,
+        "score": 3,
+        "reason": "The paper discusses early-universe inflation and stochastic gravitational-wave backgrounds from cosmic strings, which partially overlaps with the user's interest in early-universe cosmology and GW backgrounds, but its primary focus on SUGRA Kähler geometry model-building and CMB observable fitting is quite distant from the user's core interests in reheating dynamics, pre-thermalization GWs, PBHs, neutrino physics, and multi-loop QCD calculations.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    }
+  ]
+}

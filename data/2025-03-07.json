@@ -1,0 +1,75 @@
+{
+  "date": "2025-03-07",
+  "papers": [
+    {
+      "arxiv_id": "2503.05651v3",
+      "base_id": "2503.05651",
+      "title": "Inverting no-hair theorems: How requiring General Relativity solutions restricts scalar-tensor theories",
+      "authors": [
+        "Hajime Kobayashi",
+        "Shinji Mukohyama",
+        "Johannes Noller",
+        "Sergi Sirera",
+        "Kazufumi Takahashi",
+        "Vicharit Yingcharoenrat"
+      ],
+      "abstract": "Black hole solutions in general scalar-tensor theories are known to permit hair, i.e. non-trivial scalar profiles and/or metric solutions different from the ones of General Relativity (GR). Imposing that some such solutions$\\unicode{x2013}$e.g. Schwarzschild or de Sitter solutions motivated in the context of black hole physics or cosmology$\\unicode{x2013}$should exist, the space of scalar-tensor theories is strongly restricted. Here we investigate precisely what these restrictions are within general quadratic/cubic higher-order scalar-tensor theories for stealth solutions, whose metric is given by that in GR, supporting time-dependent scalar hair with a constant kinetic term. We derive, in a fully covariant approach, the conditions under which the Euler-Lagrange equations admit all (or a specific set of) exact GR solutions, as the first step toward our understanding of a wider class of theories that admit approximately stealth solutions. Focusing on static and spherically symmetric black hole spacetimes, we study the dynamics of linear odd-parity perturbations and discuss possible deviations from GR. Importantly, we find that requiring the existence of all stealth solutions prevents any deviations from GR in the odd-parity sector. In less restrictive scenarios, in particular for theories only requiring the existence of Schwarzschild(-de Sitter) black holes, we identify allowed deviations from GR, derive the stability conditions for the odd modes, and investigate the generic deviation of a non-trivial speed of gravitational waves. All calculations performed in this paper are reproducible via companion $\\texttt {Mathematica}$ notebooks.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "astro-ph.HE",
+        "hep-th"
+      ],
+      "published": "2025-03-07T18:15:05+00:00",
+      "updated": "2026-04-29T13:21:43+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2503.05651v3",
+      "html_url": "https://arxiv.org/html/2503.05651v3",
+      "entry_url": "http://arxiv.org/abs/2503.05651v3"
+    },
+    {
+      "arxiv_id": "2503.05570v2",
+      "base_id": "2503.05570",
+      "title": "Search for primordial black holes from gravitational wave populations using deep learning",
+      "authors": [
+        "Hai-Long Huang",
+        "Zhan-He Wang",
+        "Qing-Yu Lan",
+        "Jun-Qian Jiang",
+        "Jibin He",
+        "Yu-Tong Wang",
+        "Jun Zhang",
+        "Yun-Song Piao"
+      ],
+      "abstract": "Gravitational waves (GWs) signals detected by the LIGO/Virgo/KAGRA collaboration might be sourced (partly) by the merges of primordial black holes (PBHs). The conventional hierarchical Bayesian inference methods can allow us to study population properties of GW events to search for the hints for PBHs. However, hierarchical Bayesian analysis require an analytic population model, and becomes increasingly computationally expensive as the number of sources grows. In this paper, we present a novel population analysis method based on deep learning, which enables the direct and efficient estimation of PBH population hyperparameters, such as the PBH fraction in dark matter, $f_{\\rm PBH}$. Our approach leverages neural posterior estimation combined with conditional normalizing flows and two embedding networks. Our results demonstrate that inference can be performed within seconds, highlighting the promise of deep learning as a powerful tool for population inference with an increasing number of GW signals for next-generation detectors.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-ph"
+      ],
+      "published": "2025-03-07T16:53:10+00:00",
+      "updated": "2026-05-25T06:01:04+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2503.05570v2",
+      "html_url": "https://arxiv.org/html/2503.05570v2",
+      "entry_url": "http://arxiv.org/abs/2503.05570v2"
+    },
+    {
+      "arxiv_id": "2503.05148v2",
+      "base_id": "2503.05148",
+      "title": "Energy-Momentum tensor for Casimir effect of conducting plates in curved spacetime",
+      "authors": [
+        "Borzoo Nazari"
+      ],
+      "abstract": "Brown and Maclay \\cite{Brown} found the energy-momentum tensor for the Casimir effect of parallel plates in 1969. We find its curved spacetime version in a static background using the point splitting regularization method. Previous results in the literature are reinforced and some consequences discussed.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2025-03-07T05:12:50+00:00",
+      "updated": "2026-05-29T03:58:10+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2503.05148v2",
+      "html_url": "https://arxiv.org/html/2503.05148v2",
+      "entry_url": "http://arxiv.org/abs/2503.05148v2"
+    }
+  ],
+  "total": 3
+}

@@ -1,0 +1,283 @@
+{
+  "date": "2026-05-22",
+  "total": 10,
+  "papers": [
+    {
+      "arxiv_id": "2506.15496v2",
+      "base_id": "2506.15496",
+      "title": "Thermodynamical uncertainties for primordial black holes from cosmological phase transitions",
+      "authors": [
+        "Maciej Kierkla",
+        "Nicklas Ramberg",
+        "Philipp Schicho",
+        "Daniel Schmitt"
+      ],
+      "abstract": "Strongly supercooled first-order phase transitions have been proposed as a primordial black hole (PBH) production mechanism. While previous works rely on simplified models with limited thermodynamic precision, we stress that reliable theoretical PBH predictions require precise nucleation dynamics within realistic extensions of the Standard Model. By employing high-temperature dimensional reduction and computing the one-loop fluctuation determinants, we provide a state-of-the-art thermodynamic analysis and obtain an universal lower bound on the transition timescale, $β/H_* \\simeq 5$. Then, we estimate the corresponding PBH abundance for classically conformal gauge-Higgs theories. Accounting for constraints from successful percolation and QCD chiral symmetry breaking, the parameter space where PBHs are viable dark matter candidates is severely limited.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "published": "2025-06-18T14:34:48+00:00",
+      "updated": "2026-05-22T14:57:53+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.15496v2",
+      "html_url": "https://arxiv.org/html/2506.15496v2",
+      "entry_url": "http://arxiv.org/abs/2506.15496v2",
+      "relevance": {
+        "relevant": true,
+        "score": 8,
+        "reason": "This paper is directly relevant to the researcher's core interests in primordial black holes and early-universe cosmology, specifically addressing PBH production mechanisms from first-order phase transitions with state-of-the-art thermodynamic calculations and constraints on PBH dark matter viability.",
+        "pass_number": 1,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.23317v1",
+      "base_id": "2605.23317",
+      "title": "Enhanced Stellar Production of Weakly Interacting Slim Particles from Non-Thermal Nuclear Cascades",
+      "authors": [
+        "Víctor Fonoll",
+        "Maurizio Giannotti",
+        "Giuseppe Lucente"
+      ],
+      "abstract": "Weakly interacting slim particles (WISPs) can be produced in stars through the conversion of non-thermal photons generated in nuclear reactions. Previous studies have generally treated these sources only at the level of their primary injection lines. We show that this picture is incomplete: repeated Compton scatterings redistribute the injected photons into a broad low-energy spectrum, while associated positrons can thermalize and annihilate into a 511~keV line. Together, these effects define a generic non-thermal photon reservoir and thus a broadly applicable source term for any photon-coupled WISP. We develop a general framework for this mechanism and illustrate its impact with the example of dark-photon production in the solar pp chain. Our results show that non-thermal stellar WISP production can be substantially underestimated if Compton reprocessing and positron annihilation are neglected.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.HE",
+        "astro-ph.SR",
+        "nucl-th"
+      ],
+      "published": "2026-05-22T07:36:05+00:00",
+      "updated": "2026-05-22T07:36:05+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.23317v1",
+      "html_url": "https://arxiv.org/html/2605.23317v1",
+      "entry_url": "http://arxiv.org/abs/2605.23317v1",
+      "relevance": {
+        "relevant": true,
+        "score": 8,
+        "reason": "This paper directly addresses WISP (including dark photon and potentially axion-like particle) production in stellar environments through non-thermal nuclear cascades, which is highly relevant to the user's interest in axion production in astrophysical environments and Primakoff solar axion flux calculations.",
+        "pass_number": 1,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2508.10983v2",
+      "base_id": "2508.10983",
+      "title": "Shedding light on dark matter spikes through refractive neutrino masses",
+      "authors": [
+        "Federica Pompa",
+        "Manibrata Sen"
+      ],
+      "abstract": "The origin of neutrino mass remains an open question in particle physics. One intriguing possibility is that neutrinos are massless in vacuum but acquire an effective refractive mass through interactions with ultralight dark matter during propagation. We investigate the capability of the upcoming Deep Underground Neutrino Experiment (DUNE) to probe such refractive masses using the time-of-flight delays of neutrinos from a galactic core-collapse supernova. Our analysis shows that DUNE can set competitive bounds on the refractive neutrino mass, with sensitivity significantly enhanced if neutrinos traverse a dark matter density spike near the Galactic Center. In particular, we quantify how the presence of a spike modifies the projected limits, demonstrating that supernova neutrino observations at DUNE provide a powerful and novel avenue to test both the nature of neutrino masses and the distribution of dark matter in the innermost regions of the Milky Way.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "published": "2025-08-14T18:00:02+00:00",
+      "updated": "2026-05-22T15:05:13+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.10983v2",
+      "html_url": "https://arxiv.org/html/2508.10983v2",
+      "entry_url": "http://arxiv.org/abs/2508.10983v2",
+      "relevance": {
+        "relevant": true,
+        "score": 6,
+        "reason": "The paper sits at the intersection of neutrino physics and dark matter physics—both core interests of the researcher—but focuses on refractive neutrino masses from ultralight DM and DUNE supernova phenomenology, which are adjacent to rather than directly within the researcher's stated interests in HNLs/dark decays, JUNO phenomenology, and axion/Primakoff detection strategies.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.23375v1",
+      "base_id": "2605.23375",
+      "title": "Counting Degrees of Freedom in Open Effective Theories",
+      "authors": [
+        "Enrica Lausdei",
+        "Enrico Pajer"
+      ],
+      "abstract": "Open effective field theories provide a systematic framework for describing physical systems interacting with an environment whose microscopic details are unknown, unobservable, or uncalculable. A basic step in constructing any effective field theory is the identification of the relevant degrees of freedom. For open effective theories, however, this step is subtle: their dynamics is generically dissipative and non-Hamiltonian, so the standard Hamiltonian and Lagrangian algorithms are not directly applicable.   To overcome this limitation, we develop an algorithm to count degrees of freedom directly from the equations of motion. Restricting to classical, linearised dynamics on homogeneous and isotropic backgrounds, our method applies to non-Lagrangian systems with unequal numbers of fields and equations, including systems with constraints and gauge redundancies. As a by-product, our algorithm identifies constraints, gauge identities, gauge redundancies, and consistency conditions on stochastic sources. The central ingredient is the introduction of a dual set of ``advanced'' equations, or equivalently an auxiliary Martin-Siggia-Rose functional. We show that gauge redundancies of the original fields are associated with gauge identities of the dual advanced equations, and vice versa. We illustrate our procedure in examples ranging from coupled scalar systems to electromagnetism in a medium and gravitational effective theories relevant for cosmology. Our results will prove useful in the study of stochastic dynamics, non-equilibrium statistical systems and the semi-classical limit of open quantum systems on the Schwinger-Keldysh path integral.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2026-05-22T08:41:02+00:00",
+      "updated": "2026-05-22T08:41:02+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.23375v1",
+      "html_url": "https://arxiv.org/html/2605.23375v1",
+      "entry_url": "http://arxiv.org/abs/2605.23375v1",
+      "relevance": {
+        "relevant": true,
+        "score": 6,
+        "reason": "This paper on counting degrees of freedom in open effective theories is relevant to the researcher's early-universe cosmology interests through its applications to EFT of inflation, EFT of dark energy, and the stochastic/Schwinger-Keldysh formalism relevant for open quantum systems in cosmological settings, though it is primarily a formal methodology paper rather than directly addressing the researcher's specific topics like reheating, PBHs, or neutrinos.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2602.18392v2",
+      "base_id": "2602.18392",
+      "title": "RadioAxion results on the search for axion dark matter under Gran Sasso",
+      "authors": [
+        "Carlo Broggini",
+        "Giuseppe Di Carlo",
+        "Luca Di Luzio",
+        "Denise Piatti",
+        "Claudio Toni"
+      ],
+      "abstract": "We report first results from RadioAxion, an underground experiment searching for axion dark matter through periodic modulations of radioisotope decays. We monitor the $α$ decay of ${^{241}}$Am via its $59.5$ keV $γ$ line using a NaI detector installed at the Gran Sasso Laboratory, where cosmic-ray-induced systematics are strongly suppressed. We present the measured spectra and the corresponding time-series analysis. No evidence for a periodic modulation is observed. From these data we derive constraints on the axion decay constant in the axion mass range from $10^{-21}$ to $10^{-9}$ eV.",
+      "categories": [
+        "hep-ex",
+        "hep-ph",
+        "nucl-ex"
+      ],
+      "published": "2026-02-20T17:57:15+00:00",
+      "updated": "2026-05-22T12:43:26+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.18392v2",
+      "html_url": "https://arxiv.org/html/2602.18392v2",
+      "entry_url": "http://arxiv.org/abs/2602.18392v2",
+      "relevance": {
+        "relevant": true,
+        "score": 5,
+        "reason": "The paper is relevant to the researcher's interest in axion detection strategies and dark matter physics, but it is primarily an experimental result reporting constraints from a novel radioisotope-decay-based search rather than the researcher's more theoretical focus on Primakoff solar axion flux calculations and astrophysical axion production.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2511.02612v2",
+      "base_id": "2511.02612",
+      "title": "Model Parameter Reconstruction of Electroweak Phase Transition with TianQin and LISA: Insights from the Dimension-Six Model",
+      "authors": [
+        "Aidi Yang",
+        "Chikako Idegawa",
+        "Fa Peng Huang"
+      ],
+      "abstract": "We investigate the capability of TianQin and LISA to reconstruct the model parameters in the Lagrangian of new physics scenarios that can generate an electroweak SFOPT. Taking the dimension-six Higgs operator extension of the Standard Model as a representative scenario for a broad class of new physics models, we establish the mapping between the model parameter $Λ$ and the observable spectral features of the stochastic gravitational wave background. We begin by generating simulated data incorporating Time Delay Interferometry channel noise, astrophysical foregrounds, and signals from the dimension-six model. The data are then compressed and optimized, followed by geometric parameter inference using both Fisher matrix analysis and Bayesian nested sampling with PolyChord, which efficiently handles high-dimensional, multimodal posterior distributions. Finally, machine-learning techniques are employed to achieve precise reconstruction of the model parameter $Λ$. For benchmark points producing strong signals, parameter reconstruction with both TianQin and LISA yields relative uncertainties of approximately $20$-$30\\%$ in the signal amplitude and sub-percent precision in the model parameter $Λ$. The sub-percent precision reflects the statistical reconstruction capability of the detectors in an idealized setting: it incorporates the machine-learning inference uncertainty and is established at a fixed bubble wall velocity, while theoretical uncertainties in the effective potential calculation are not included.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-11-04T14:35:27+00:00",
+      "updated": "2026-05-22T09:59:24+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.02612v2",
+      "html_url": "https://arxiv.org/html/2511.02612v2",
+      "entry_url": "http://arxiv.org/abs/2511.02612v2",
+      "relevance": {
+        "relevant": true,
+        "score": 5,
+        "reason": "The paper is tangentially relevant through its study of stochastic gravitational-wave backgrounds from electroweak phase transitions in the early universe, which connects to the user's interest in pre-thermalization gravitational waves and SGWB, but its primary focus on detector phenomenology (TianQin/LISA data analysis pipelines, noise modeling, and machine-learning-based parameter reconstruction) is outside the user's core theoretical particle physics and cosmology interests.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2404.19197v3",
+      "base_id": "2404.19197",
+      "title": "Does the Electron EDM Preclude Electroweak Baryogenesis ?",
+      "authors": [
+        "Yuan-Zhen Li",
+        "Michael J. Ramsey-Musolf",
+        "Jiang-Hao Yu"
+      ],
+      "abstract": "Electroweak baryogenesis (EWBG) constitutes a theoretically compelling and experimentally testable mechanism for explaining the origin of the baryon asymmetry of the universe (BAU). New results for the electric dipole moment (EDM) of the electron place significant constraints on the beyond Standard Model CP-violation needed for successful EWBG. Using a specific model illustration, we show how new developments in EWBG quantum transport theory that include CP-violating sources first order in gradients imply more relaxed EDM constraints -- and thereby greater EWBG viability -- than implied by previous approximation formulations. We also illustrate how these developments enable a more realistic treatment of CP-conserving interactions that can also have a decisive impact on the predicted BAU.",
+      "categories": [
+        "hep-ph",
+        "hep-ex",
+        "nucl-ex",
+        "nucl-th"
+      ],
+      "published": "2024-04-30T01:49:02+00:00",
+      "updated": "2026-05-22T08:16:07+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2404.19197v3",
+      "html_url": "https://arxiv.org/html/2404.19197v3",
+      "entry_url": "http://arxiv.org/abs/2404.19197v3",
+      "relevance": {
+        "relevant": true,
+        "score": 5,
+        "reason": "The paper addresses early-universe cosmology through electroweak baryogenesis and mentions stochastic gravitational-wave backgrounds from first-order phase transitions as probes, which connects to the user's interest in pre-thermalization gravitational waves and stochastic GW backgrounds, but the core focus on EDM constraints and quantum transport theory for CP-violating sources is somewhat peripheral to the user's specific research topics.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2512.17193v2",
+      "base_id": "2512.17193",
+      "title": "Quantum Oscillons are Long-Lived",
+      "authors": [
+        "Jarah Evslin",
+        "Katarzyna Slawińska",
+        "Tomasz Romańczukiewicz",
+        "Andrzej Wereszczyński"
+      ],
+      "abstract": "As the longest lived transient, oscillons play a critical role in classical field theory simulations of many phenomena. However, beyond the classical approximation, it is well-known that quantum corrections open decay channels through which oscillons radiate rapidly. Therefore it is believed that in the real world, oscillons are too short-lived to be phenomenologically relevant. We observe that previous calculations of the radiated power assume that the oscillon is in a coherent state. We show that a squeezed coherent state, on the other hand, would emit no radiation at leading order in the coupling. This leads us to the conclusion that the instantaneous radiation calculated in the literature corresponds not to the oscillon's decay, but rather to its relaxation from a coherent state to a lower-energy, squeezed coherent state, which then radiates much more slowly. As a result, the lifetime of the quantum oscillon is enhanced by an inverse power of the coupling.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2025-12-19T03:19:25+00:00",
+      "updated": "2026-05-22T01:34:15+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.17193v2",
+      "html_url": "https://arxiv.org/html/2512.17193v2",
+      "entry_url": "http://arxiv.org/abs/2512.17193v2",
+      "relevance": {
+        "relevant": true,
+        "score": 5,
+        "reason": "The paper's conclusions about long-lived quantum oscillons have implications for cosmic reheating dynamics, PBH formation, and axion dark matter—all topics in the user's profile—but the paper itself is primarily an abstract quantum field theory study of squeezed coherent states in 1+1 dimensions rather than directly phenomenological work.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.23528v1",
+      "base_id": "2605.23528",
+      "title": "Vacuum-Triggered Instability in Paired Superradiance",
+      "authors": [
+        "Zhan Bai",
+        "Ningqiang Song",
+        "Min Chen",
+        "Xiangyan An",
+        "Baifei Shen",
+        "Liangliang Ji",
+        "Ruxin Li"
+      ],
+      "abstract": "Paired superradiance (PSR) is a macro-coherent two-photon process capable of very large gain, making it promising for detecting ultra-weak signals induced by neutrinos or dark matter. A major goal has been to increase the system volume $V$ and density $n$, since the signal intensity scales as $(nV)^2$. We recast finite PSR as a parametric amplifier driven by the electromagnetic vacuum. The usual zero-field semiclassical initial condition is replaced by vacuum inputs fixed by the quantum two-point function. Combining this formulation with Maxwell--Bloch evolution and finite-length stability analysis, we find that PSR produces an irreducible vacuum background that can develop into macroscopic bursts once the gain-length product exceeds \\(ΓL=π/2\\) for a sufficient coherence time. These results, together with a closed-form formula for estimating the vacuum-seeded photon yield, establish a previously overlooked constraint for high-gain PSR, with direct implications for proposed neutrino and dark-matter studies.",
+      "categories": [
+        "physics.optics",
+        "hep-ph"
+      ],
+      "published": "2026-05-22T11:46:58+00:00",
+      "updated": "2026-05-22T11:46:58+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.23528v1",
+      "html_url": "https://arxiv.org/html/2605.23528v1",
+      "entry_url": "http://arxiv.org/abs/2605.23528v1",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "The paper discusses fundamental constraints on paired superradiance (PSR) as a detection technique for radiative neutrino pair emission (RENP) and dark matter, which peripherally relates to the researcher's interests in neutrino physics and dark matter detection, but the core content is quantum optics (Maxwell-Bloch equations, vacuum fluctuations, parametric amplification) rather than particle physics phenomenology or theory.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2601.15856v2",
+      "base_id": "2601.15856",
+      "title": "WIMP Dark Matter from a Natural Discrete Gauge Symmetry in the Standard Model",
+      "authors": [
+        "Jie Sheng",
+        "Tsutomu T. Yanagida",
+        "Kairui Zhang"
+      ],
+      "abstract": "The internal structure of the Standard Model implies a natural $\\mathbb{Z}_4 \\times \\mathbb{Z}_3$ discrete gauge symmetry. Cancellation of the corresponding Dai--Freed anomalies requires the introduction of three right-handed neutrinos and three additional Majorana fermions $χ_i$. This gauge symmetry forbids the decay of the lightest fermion $χ_1$ into Standard Model particles, rendering it automatically stable and providing a dark matter candidate without introducing an ad hoc stabilizing symmetry and domain-wall problem. The mass of $χ_1$ is generated by the vacuum expectation value of a singlet scalar near the electroweak scale, naturally realizing a weakly interacting massive particle (WIMP) freeze-out scenario. Dark matter annihilation proceeds through scalar mediation, allowing the observed relic abundance to be reproduced while remaining consistent with current direct-detection constraints. It naturally realizes the secluded dark matter scenario and can be further tested in the next generation of experiments.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-01-22T11:02:36+00:00",
+      "updated": "2026-05-22T14:52:20+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.15856v2",
+      "html_url": "https://arxiv.org/html/2601.15856v2",
+      "entry_url": "http://arxiv.org/abs/2601.15856v2",
+      "relevance": {
+        "relevant": true,
+        "score": 3,
+        "reason": "While the paper involves dark matter and right-handed neutrinos which are tangentially related to the user's interests in dark matter physics and neutrino physics, its core focus on WIMP freeze-out phenomenology and direct-detection predictions from a discrete gauge symmetry model does not closely align with the user's specific interests in axion dark matter, low-energy HNL phenomenology, early-universe gravitational waves, or multi-loop perturbative calculations.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    }
+  ]
+}

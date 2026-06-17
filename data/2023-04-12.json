@@ -1,0 +1,28 @@
+{
+  "date": "2023-04-12",
+  "papers": [
+    {
+      "arxiv_id": "2304.05793v5",
+      "base_id": "2304.05793",
+      "title": "Confronting fuzzy dark matter with the rotation curves of nearby dwarf irregular galaxies",
+      "authors": [
+        "Andrés Bañares-Hernández",
+        "Andrés Castillo",
+        "Jorge Martin Camalich",
+        "Giuliano Iorio"
+      ],
+      "abstract": "We investigate phenomenologically the viability of fuzzy dark matter (FDM). We do this by confronting the predictions of the model, in particular, the formation of a solitonic core at the center of dark matter halos, with a homogeneous and robust sample of high-resolution rotation curves from the \"LITTLE THINGS in 3D\" catalog. This comprises a collection of isolated, dark matter dominated dwarf-irregular galaxies that provides an optimal benchmark for cosmological studies. We use a statistical framework based on Markov chain Monte Carlo techniques that allows us to extract relevant parameters such as the axion mass, the mass of the solitonic core, the mass of the dark matter halo and its concentration parameter with a rather loose set of priors except for the implementation of a core-halo relation that is predicted by simulations. The results of the fits are used to perform various diagnostics on the predictions of the model. FDM provides an excellent fit to the rotation curves of the \"LITTLE THINGS in 3D\" catalog, with axion masses determined from different galaxies clustering around $m_a\\approx2\\times10^{-23}$ eV. However, we find two major problems in our analysis. First, the data follow scaling relations of the properties of the core which are not consistent with the predictions of the soliton. This problem is particularly acute in the core radius - mass relation with a tension that, at face value, has a significance $\\gtrsim5σ$. The second problem is related to the strong suppression of the linear power spectrum that is predicted by FDM for the axion mass preferred by the data. This can be constrained very conservatively by the galaxy counts in our sample, which leads to a tension exceeding again $5σ$. We estimate the effects of baryons in our analysis and discuss whether they could alleviate the tensions of the model with observations.",
+      "categories": [
+        "astro-ph.GA",
+        "astro-ph.CO",
+        "hep-ph"
+      ],
+      "published": "2023-04-12T12:12:09+00:00",
+      "updated": "2026-06-05T11:02:15+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2304.05793v5",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2304.05793v5"
+    }
+  ],
+  "total": 1
+}

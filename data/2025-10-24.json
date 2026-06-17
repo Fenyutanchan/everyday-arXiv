@@ -1,0 +1,153 @@
+{
+  "date": "2025-10-24",
+  "papers": [
+    {
+      "arxiv_id": "2510.21976v2",
+      "base_id": "2510.21976",
+      "title": "Evidence of dynamical dark energy found via the DESI DR2 Lyman$α$ forest",
+      "authors": [
+        "Salvatore Capozziello",
+        "Himanshu Chaudhary",
+        "G. Mustafa",
+        "S. K. J. Pacif"
+      ],
+      "abstract": "We present a comprehensive analysis of the cosmological implications of the Dark Energy Spectroscopic Instrument (DESI) Data Release 2 (DR2) Lyman-$α$ forest baryon acoustic oscillation (BAO) measurements, combined with DESI DR2 galaxy BAO, Type Ia supernova samples (Pantheon$^+$, DES-Dovekie, and Union3), and the cosmic microwave background CamSpec likelihood. We consider several dark-energy parameterizations, including Chevallier-Polarski-Linder, logarithmic, exponential, Jassal-Bagla-Padmanabhan, Barboza-Alcaniz, and generalized emergent dark energy, as well as the $w$CDM model and non-flat extensions of $Λ$CDM and $w$CDM. Using the Metropolis-Hastings MCMC algorithm, we constrain cosmological parameters and compute Bayesian evidence with \\texttt{MCEvidence}. We find that non-flat extensions remain consistent with spatial flatness, with $Ω_k \\approx 0$. All parameterizations favor a dynamical dark-energy scenario with $w_0 > -1$, $w_a < 0$, and $w_0 + w_a < -1$, consistent with a Quintom-B behavior. A moderate preference for dynamical dark-energy models is found relative to $Λ$CDM, reaching up to $\\sim3.10σ$ for Ly$α$ + CMB + galaxy BAO. When combined with SNe~Ia datasets, the deviations decrease to $\\lesssim2σ$, corresponding to inconclusive preference. The Bayes factor ($\\ln B_{ij}$) shows that model preference depends strongly on the dataset combination: $w$CDM and o$w$CDM exhibit moderate evidence for Ly$α$ + CMB + galaxy BAO, while most other models show weak or inconclusive evidence. With Pantheon$^{+}$ or DES-Dovekie, o$w$CDM shows strong evidence, whereas other models remain moderately favored.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2025-10-24T19:00:58+00:00",
+      "updated": "2026-04-18T10:44:01+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.21976v2",
+      "html_url": "https://arxiv.org/html/2510.21976v2",
+      "entry_url": "http://arxiv.org/abs/2510.21976v2"
+    },
+    {
+      "arxiv_id": "2510.21154v3",
+      "base_id": "2510.21154",
+      "title": "Access to Klein Tunneling via Space-Time Modulation",
+      "authors": [
+        "Furkan Ok",
+        "Amir Bahrami",
+        "Christophe Caloz"
+      ],
+      "abstract": "We show that space-time modulation of electromagnetic potentials enables Klein tunneling far below the static threshold. The derived kinematics reveal oblique transitions that can connect opposite-energy continua without requiring their overlap, yielding a velocity-tunable Klein gap where transmission vanishes within a finite velocity window and reemerges beyond. The associated reduction in energy thresholds -- by up to four orders of magnitude -- suggests the potential for experimental realization using flying-focus fronts and relativistic electron beams.",
+      "categories": [
+        "quant-ph",
+        "hep-th"
+      ],
+      "published": "2025-10-24T04:50:13+00:00",
+      "updated": "2026-04-16T14:09:56+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.21154v3",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2510.21154v3"
+    },
+    {
+      "arxiv_id": "2510.21673v2",
+      "base_id": "2510.21673",
+      "title": "Imprint of the black hole singularity on thermal two-point functions",
+      "authors": [
+        "Nima Afkhami-Jeddi",
+        "Simon Caron-Huot",
+        "Joydeep Chakravarty",
+        "Alexander Maloney"
+      ],
+      "abstract": "We consider two-point functions of light fields at finite temperature and large real frequencies in holographic theories. The thermal system is dual to a single-sided AdS black hole. We show that the high-frequency expansion obtained from the Operator Product Expansion receives exponentially small nonperturbative corrections, which are controlled by null geodesics bouncing off the black hole singularity in the two-sided eternal black hole geometry. We develop a bulk WKB description of these bouncing geodesics and explain how to calculate reflection coefficients at the singularity.",
+      "categories": [
+        "hep-th",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "published": "2025-10-24T17:29:32+00:00",
+      "updated": "2026-04-28T21:30:18+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.21673v2",
+      "html_url": "https://arxiv.org/html/2510.21673v2",
+      "entry_url": "http://arxiv.org/abs/2510.21673v2"
+    },
+    {
+      "arxiv_id": "2510.21645v3",
+      "base_id": "2510.21645",
+      "title": "Coherent elastic scattering of low energy photons by neutrons",
+      "authors": [
+        "P. O. Kazinski",
+        "A. A. Sokolov"
+      ],
+      "abstract": "The Compton process with the initial states of photons and neutrons described by the density matrices of a general form is studied for low energies of photons. The coherent contribution to the inclusive probability to record a photon is investigated in detail. This contribution gives the hologram of the neutron one-particle density matrix. The evolution of the Stokes parameters of scattered photons is described. The susceptibility tensor of a neutron gas and a wave packet of a single neutron is obtained. The explicit expression for the photon polarization operator in the presence of free neutrons is derived. It turns out that this polarization operator possesses pole singularities in the short wavelength approximation. These singularities corresponding to the additional degrees of freedom are identified with plasmons and the respective plasmon-polaritons are described. There are eight independent plasmon-polariton modes in a neutron gas and on a single neutron wave packet. Some plasmon-polariton modes prove to be tachyonic and unstable manifesting a spontaneous generation of the magnetic field. The estimates of the parameters of the neutron gas when it becomes ferromagnetic are found. In the infrared limit, the neutron wave packet behaves in coherent Compton scattering as a point particle with dynamical magnetic moment, the additional degrees of freedom being reduced to the dynamical part of the magnetic moment.",
+      "categories": [
+        "hep-ph",
+        "nucl-th"
+      ],
+      "published": "2025-10-24T17:03:34+00:00",
+      "updated": "2026-05-09T09:13:19+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.21645v3",
+      "html_url": "https://arxiv.org/html/2510.21645v3",
+      "entry_url": "http://arxiv.org/abs/2510.21645v3"
+    },
+    {
+      "arxiv_id": "2510.21651v4",
+      "base_id": "2510.21651",
+      "title": "Foundations of Carrollian Geometry",
+      "authors": [
+        "Luca Ciambelli",
+        "Puttarak Jai-akson"
+      ],
+      "abstract": "Carrollian physics provides the natural framework for describing null hypersurfaces. This review explores the geometry of Carrollian manifolds -- spaces endowed with a degenerate metric. We begin with an algebraic overview of the Carroll group, its conformal extension, and its relation to the BMS group. Then, in the core of the review, we follow the standard pseudo-Riemannian narrative: metric $\\to$ connection $\\to$ curvature. We first introduce the modern, general definition of a Carrollian structure, the analogue of the metric on such manifolds, reviewing the historical developments, symmetries, and link with the algebraic groups. The second part concerns connections. We show the breakdown of the Levi-Civita theorem in the Carrollian setting and construct the most general intrinsic Carrollian connection. The standard connection is then identified intrinsically and later shown to coincide with the rigged connection induced by embedding a null hypersurface in an ambient spacetime. The third part develops the associated curvature tensors. We include novel results presented here for the first time.   Two advanced topics highlight the broader scope of this framework. The first treats null hypersurfaces via the rigging technique, deriving the induced geometry from the ambient space. This provides a unified language for spacelike, timelike, and null hypersurfaces, and shows that the induced rigged connection exactly reproduces the intrinsic Carrollian one. From this, the Gauss and Codazzi-Mainardi equations follow, and the Einstein equations emerge as conservation laws for the null Brown-York stress tensor. The second topic extends the Carrollian setup to generic, non-null hypersurfaces, enabling a smooth null limit and completing the unified geometric description of hypersurfaces of all causal characters.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2025-10-24T17:10:10+00:00",
+      "updated": "2026-06-08T15:52:54+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.21651v4",
+      "html_url": "https://arxiv.org/html/2510.21651v4",
+      "entry_url": "http://arxiv.org/abs/2510.21651v4"
+    },
+    {
+      "arxiv_id": "2510.21709v2",
+      "base_id": "2510.21709",
+      "title": "From nuclear star clusters to Little Red Dots: black hole growth, mergers, and tidal disruptions",
+      "authors": [
+        "Konstantinos Kritos",
+        "Joseph Silk"
+      ],
+      "abstract": "Little Red Dots, discovered by the James Webb Space Telescope, are hypothesized to be active galactic nuclei containing a supermassive black hole, possibly surrounded by a dense stellar cluster, large amounts of gas, and likely by a population of stellar-mass black holes. We develop a simple nuclear star cluster model to evolve the rapid mass growth of black hole seeds into the supermassive regime. The combined processes of tidal disruption events, black hole captures, and gas accretion are accounted for self-consistently in our model. Given the observed number density of Little Red Dots, and under reasonable assumptions, we predict at least a few tens of tidal disruption events and at least a few black hole captures at z=4-6, with a tidal disruption event rate an order of magnitude larger than the black hole capture rate. We also estimate the uncertainties in these estimates. Finally, we comment on the low x-ray luminosity of Little Red Dots.",
+      "categories": [
+        "astro-ph.HE",
+        "astro-ph.CO",
+        "astro-ph.GA",
+        "gr-qc"
+      ],
+      "published": "2025-10-24T17:59:58+00:00",
+      "updated": "2026-06-11T02:06:18+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.21709v2",
+      "html_url": "https://arxiv.org/html/2510.21709v2",
+      "entry_url": "http://arxiv.org/abs/2510.21709v2"
+    },
+    {
+      "arxiv_id": "2510.21914v2",
+      "base_id": "2510.21914",
+      "title": "How to Build an Empirical Speed Distribution for Dark Matter in the Solar Neighborhood",
+      "authors": [
+        "Tal Shpigel",
+        "Dylan Folsom",
+        "Mariangela Lisanti",
+        "Lina Necib",
+        "Mark Vogelsberger",
+        "Lars Hernquist"
+      ],
+      "abstract": "The dark matter flux in a direct detection experiment depends on its local speed distribution. This distribution has been inferred from simulations of Milky Way-like galaxies, but such models serve only as proxies, given that no simulation directly captures the detailed evolution of our own Galaxy. This motivates alternative approaches that obtain this distribution directly from observations. In this work, we utilize 98 Milky Way analogues from the TNG50 simulation to develop and validate a procedure for inferring the dark matter speed distribution using the kinematics of nearby stars. We find that the dark matter that originated from old mergers, plus that from recent nonluminous accretions, is well described by a Maxwell-Boltzmann speed distribution centered at the local standard-of-rest velocity. Meanwhile, recently accreted dark matter from massive mergers has speeds that can be traced from the associated stellar debris of these events. The stellar populations systematically underestimate the velocity dispersion of their dark matter counterparts, but a simple kinematic boost brings the two into good alignment. Using the TNG50 host galaxies, we demonstrate that combining these two contributions provides an accurate reconstruction of the local dark matter speeds. As an application of the procedure to our own Galaxy, we utilize stellar kinematic data from Gaia to quantify how the dark matter remnants from the Milky Way's last major merger impact its speed distribution in the solar neighborhood.",
+      "categories": [
+        "astro-ph.GA",
+        "astro-ph.CO",
+        "hep-ph"
+      ],
+      "published": "2025-10-24T18:00:01+00:00",
+      "updated": "2026-06-10T23:46:20+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.21914v2",
+      "html_url": "https://arxiv.org/html/2510.21914v2",
+      "entry_url": "http://arxiv.org/abs/2510.21914v2"
+    }
+  ],
+  "total": 7
+}

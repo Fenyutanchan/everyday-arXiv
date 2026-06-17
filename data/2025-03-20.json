@@ -1,0 +1,47 @@
+{
+  "date": "2025-03-20",
+  "papers": [
+    {
+      "arxiv_id": "2503.16355v2",
+      "base_id": "2503.16355",
+      "title": "DEMNUni: the Sunyaev-Zel'dovich effect in the presence of massive neutrinos and dynamical dark energy",
+      "authors": [
+        "Davide Luchina",
+        "Mauro Roncarelli",
+        "Matteo Calabrese",
+        "Giulio Fabbian",
+        "Carmelita Carbone"
+      ],
+      "abstract": "In recent years, the study of secondary anisotropies in the Cosmic Microwave Background has become a fundamental instrument to test our understanding of the Universe. Using a set of lightcones produced with the ``Dark Energy and Massive Neutrino Universe'' $N$-body simulations, we study how different dark energy equations of state and neutrino masses impact the properties of the thermal Sunyaev-Zel'dovich (tSZ) effect, focusing on the signal arising from galaxy clusters and groups. We analyse the distribution of values for the Compton-$y$ parameter and study its angular power spectrum. We find that the distribution of the logarithmic Compton parameter can be fitted with a skewed Gaussian, with a mean that, at fixed dark energy model, decreases linearly with an approximate slope of $10 f_ν$. Regarding the power spectrum of the thermal SZ effect, we find that an increase in $\\sum {m_ν}$ is observed as a power-law scaling with respect to $σ_8^{\\mathrm{cb}}$, with exponents ranging from 7.3 to 8.1. We also find that models with massless neutrinos typically overestimate Compton-$y$ data extracted from Planck measurements; a better agreement with the simulations is obtained for $\\sum m_ν= 0.16$ or $\\sum m_ν=0.32$ eV. For all the \\texttt{DEMNUni} models we forecast the cumulative signal-to-noise ratio for thermal SZ observations with the LAT instrument of the Simons Observatory; furthermore, we compute a tailored $χ_\\mathrm{SNR}^2$ estimator to infer if such models can be distinguished from the reference $Λ$CDM.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2025-03-20T17:13:57+00:00",
+      "updated": "2026-05-19T08:31:27+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2503.16355v2",
+      "html_url": "https://arxiv.org/html/2503.16355v2",
+      "entry_url": "http://arxiv.org/abs/2503.16355v2"
+    },
+    {
+      "arxiv_id": "2503.16680v2",
+      "base_id": "2503.16680",
+      "title": "Catalog-based detection of unrecognized blends in deep optical ground based imaging",
+      "authors": [
+        "Shuang Liang",
+        "Prakruth Adari",
+        "Anja von der Linden",
+        "The LSST Dark Energy Science Collaboration"
+      ],
+      "abstract": "In deep, ground-based imaging, about 15%-30% of object detections are expected to correspond to two or more true objects - these are called ``unrecognized blends''. We use Machine Learning algorithms to detect unrecognized blends in deep ground-based photometry using only catalog-level information: colors, magnitude, and size. We compare the performance of Self Organizing Map, Random Forest, k-Nearest Neighbors, and Anomaly Detection algorithms. We test all algorithms on 9-band ($uBVri^{+}z^{++}YJH$) and 1-size (flux_radius in $\\textit{i}$-band) measurements of the ground-based COSMOS catalog, and use COSMOS HST data as the truth for unrecognized blend. We find that 17% of objects in the ground-based COSMOS catalog are unrecognized blends. We show that some unrecognized blends can be identified as such using only catalog-level information; but not all blends can be easily identified. Nonetheless, our methods can be used to improve sample purity, and can identify approximately 30% to 80% of unrecognized blends while rejecting 10% to 50% of all detected galaxies (blended or unblended). The results are similar when only optical bands ($uBVri^{+}z^{++}$) and the size information is available. We also investigate the ability of these algorithms to remove photo-z outliers (identified with spectroscopic redshifts), and find that algorithms targeting color outliers perform better than algorithms targeting unrecognized blends. Our method can offer a cleaner galaxy sample with lower blending rates for future cosmological surveys such as the Legacy Survey of Space and Time (LSST), and can potentially improve the accuracy on cosmological parameter constraints at a moderate cost of precision.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2025-03-20T19:53:47+00:00",
+      "updated": "2026-05-21T19:07:51+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2503.16680v2",
+      "html_url": "https://arxiv.org/html/2503.16680v2",
+      "entry_url": "http://arxiv.org/abs/2503.16680v2"
+    }
+  ],
+  "total": 2
+}

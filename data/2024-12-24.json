@@ -1,0 +1,70 @@
+{
+  "date": "2024-12-24",
+  "papers": [
+    {
+      "arxiv_id": "2412.18540v3",
+      "base_id": "2412.18540",
+      "title": "Higgs Decays to $Zγ$ and $γγ$ in the Flavor-Gauged Two Higgs Doublet Model",
+      "authors": [
+        "Feng-Zhi Chen",
+        "Qiaoyi Wen",
+        "Fanrong Xu"
+      ],
+      "abstract": "This work examines the $h\\to Zγ$ and $h\\toγγ$ decays in the flavor-gauged two Higgs doublet model (FG2HDM), which augments the Standard Model (SM) with an additional scalar doublet, a singlet, and a $U(1)'$ flavor gauge symmetry. Beyond the SM spectrum, FG2HDM predicts five additional physical scalars and a new neutral gauge boson, $Z'$. We demonstrate that while both decay channels are sensitive to charged Higgs loops, $h \\to Zγ$ is uniquely modified by fermion-antifermion-$Z$ ($f\\bar{f}Z$) vertex corrections. These vertex corrections further impact top-quark observables and the flavor-changing neutral current (FCNC) process $b\\to s\\ell^+\\ell^-$. Our analysis identifies a viable parameter space ($m_{H^\\pm}>200$~GeV and $λ_{hH^+H^-}<0$) consistent with current $1σ$ experimental limits, where the signal strength $μ_{γγ}$ remains the primary constraint on scalar sector parameters. Regarding the $f\\bar{f}Z$ couplings, we delineate the allowed regions in the $\\mathcal{Q}_{tL}$-$\\mathcal{Q}_{tR}$ plane by evaluating the leading top-quark contributions, revealing that $b\\to s\\ell^+\\ell^-$ imposes the most stringent bounds. Finally, we highlight that the $14\\%$ projected precision for $μ_{Zγ}$ at the High-Luminosity LHC (HL-LHC) will significantly enhance sensitivity to the FG2HDM.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2024-12-24T16:42:56+00:00",
+      "updated": "2026-04-21T11:17:20+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2412.18540v3",
+      "html_url": "https://arxiv.org/html/2412.18540v3",
+      "entry_url": "http://arxiv.org/abs/2412.18540v3"
+    },
+    {
+      "arxiv_id": "2412.18610v4",
+      "base_id": "2412.18610",
+      "title": "Crosscap Quenches and Entanglement Evolution",
+      "authors": [
+        "Zixia Wei",
+        "Yasushi Yoneta"
+      ],
+      "abstract": "Understanding the mechanisms by which complex correlations emerge through the dynamics of quantum many-body systems remains a fundamental challenge in modern physics. To address this, quench dynamics starting from nonthermal states have been extensively studied, leading to significant progress. In this paper, we propose a novel quench protocol, termed the \"crosscap quench\", to investigate how highly structured thermal pure states relax into typical ones. We begin by analyzing conformal field theories (CFTs) and derive universal features in the time evolution of the entanglement entropy. Furthermore, leveraging the AdS/CFT correspondence, we study holographic CFTs, providing an analytically tractable example in chaotic CFTs. Finally, we validate these findings through numerical simulations in both nonintegrable and integrable quantum spin systems.",
+      "categories": [
+        "hep-th",
+        "cond-mat.stat-mech",
+        "quant-ph"
+      ],
+      "published": "2024-12-24T18:59:58+00:00",
+      "updated": "2026-05-21T17:08:32+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2412.18610v4",
+      "html_url": "https://arxiv.org/html/2412.18610v4",
+      "entry_url": "http://arxiv.org/abs/2412.18610v4"
+    },
+    {
+      "arxiv_id": "2412.18592v3",
+      "base_id": "2412.18592",
+      "title": "KP integrability of non-perturbative differentials",
+      "authors": [
+        "Alexander Alexandrov",
+        "Boris Bychkov",
+        "Petr Dunin-Barkowski",
+        "Maxim Kazarian",
+        "Sergey Shadrin"
+      ],
+      "abstract": "We prove the KP integrability of non-perturbative topological recursion, which can be considered as a formal $\\hbar$-deformation of the Krichever construction of algebro-geometric solutions of the KP hierarchy. This property goes back to a 2011 conjecture of Borot and Eynard.",
+      "categories": [
+        "math-ph",
+        "hep-th",
+        "math.AG",
+        "nlin.SI"
+      ],
+      "published": "2024-12-24T18:46:25+00:00",
+      "updated": "2026-06-13T20:05:26+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2412.18592v3",
+      "html_url": "https://arxiv.org/html/2412.18592v3",
+      "entry_url": "http://arxiv.org/abs/2412.18592v3"
+    }
+  ],
+  "total": 3
+}

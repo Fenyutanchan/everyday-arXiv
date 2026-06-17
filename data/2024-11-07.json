@@ -1,0 +1,56 @@
+{
+  "date": "2024-11-07",
+  "papers": [
+    {
+      "arxiv_id": "2411.04969v2",
+      "base_id": "2411.04969",
+      "title": "Systematic study of flow of protons and light clusters in intermediate-energy heavy-ion collisions with momentum-dependent potentials",
+      "authors": [
+        "Viktar Kireyeu",
+        "Vadim Voronyuk",
+        "Michael Winn",
+        "Susanne Gläßel",
+        "Jörg Aichelin",
+        "Christoph Blume",
+        "Elena Bratkovskaya",
+        "Gabriele Coci",
+        "Jiaxing Zhao"
+      ],
+      "abstract": "We study the influence of the nuclear equation-of-state (EoS) on collective observables -- the directed ($v_1$) and elliptic flow ($v_2$) of nucleons and light clusters -- in heavy-ion collisions at GeV energies using the Parton-Hadron-Quantum-Molecular Dynamics (PHQMD) approach. A novel development in this work is the inclusion of a momentum-dependent nucleon potential in the PHQMD in addition to the static, density-dependent Skyrme interaction. This enables three distinct EoS scenarios: two static (\"soft\" and \"hard\", differing in compressibility) and a soft, momentum-dependent EoS calibrated to $pA$ elastic scattering data. We find a strong EoS sensitivity in proton and cluster rapidity and $p_T$ distributions: soft and soft momentum-dependent EoS yield similar results, markedly different from the hard EoS. Softening the EoS reduces proton yields at midrapidity while enhancing light-cluster production. The EoS also affects flow observables differently for nucleons and clusters. For protons, a soft momentum-dependent potential increases slightly the magnitude of $v_1$ and $v_2$ relative to the hard EoS, whereas cluster flows are nearly similar. The soft momentum-dependent EoS provides an overall good agreement with experimental data from HADES and FOPI Collaborations while the soft EOS is not in line with the data. A scaling of $v_2$ with cluster mass number $A$ is observed at midrapidity for low $p_T$, which breaks at higher $p_T$. Finally, we examine the sensitivity of flow observables to deuteron production mechanisms. Deuterons formed via MST clustering exhibit different flow patterns from those produced by coalescence at freeze-out, indicating that flow harmonics may help discriminate between cluster formation scenarios.",
+      "categories": [
+        "nucl-th",
+        "hep-ex",
+        "hep-ph",
+        "nucl-ex"
+      ],
+      "published": "2024-11-07T18:45:25+00:00",
+      "updated": "2026-04-15T19:12:56+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2411.04969v2",
+      "html_url": "https://arxiv.org/html/2411.04969v2",
+      "entry_url": "http://arxiv.org/abs/2411.04969v2"
+    },
+    {
+      "arxiv_id": "2411.05004v2",
+      "base_id": "2411.05004",
+      "title": "Non-onsite symmetry breaking: topological phase coexistence and criticality",
+      "authors": [
+        "Zhehao Zhang",
+        "Yabo Li",
+        "Tsung-Cheng Lu"
+      ],
+      "abstract": "We explore the states of matter arising from the spontaneous symmetry breaking (SSB) of $\\mathbb{Z}_2$ non-onsite symmetries. In one spatial dimension, we construct a frustration-free lattice model exhibiting SSB of a non-onsite symmetry, which features the coexistence of two ground states with distinct symmetry-protected topological (SPT) orders. We analytically prove the two-fold ground-state degeneracy and the existence of a finite energy gap. Fixing the symmetry sector yields a long-range entangled ground state that features long-range correlations among non-invertible charged operators. We also present a constant-depth measurement-feedback protocol to prepare such a state with a constant success probability in the thermodynamic limit, which may be of independent interest. Under a symmetric deformation, the SSB persists up to a critical point, beyond which a gapless phase characterized by a conformal field theory emerges. In two spatial dimensions, the SSB of 1-form non-onsite symmetries leads to a long-range entangled state (SPT soup) - a condensate of 1d SPT along any closed loops. On a torus, there are four such locally indistinguishable states that exhibit algebraic correlations between local operators, which we derived via a mapping to the critical $O(2)$ loop model. This constitutes an intriguing example of `topological quantum criticality'.",
+      "categories": [
+        "cond-mat.str-el",
+        "cond-mat.stat-mech",
+        "hep-th",
+        "quant-ph"
+      ],
+      "published": "2024-11-07T18:59:51+00:00",
+      "updated": "2026-05-27T13:27:50+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2411.05004v2",
+      "html_url": "https://arxiv.org/html/2411.05004v2",
+      "entry_url": "http://arxiv.org/abs/2411.05004v2"
+    }
+  ],
+  "total": 2
+}

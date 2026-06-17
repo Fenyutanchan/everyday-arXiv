@@ -1,0 +1,46 @@
+{
+  "date": "2026-02-28",
+  "papers": [
+    {
+      "arxiv_id": "2603.00652v4",
+      "base_id": "2603.00652",
+      "title": "Synchronous Tunneling in a Multidimensional Quartic Potential: Competing Instanton Pathways and $D_4$ Symmetry Melting",
+      "authors": [
+        "Pervez Hoodbhoy",
+        "M. Haashir Ismail",
+        "M. Mufassir"
+      ],
+      "abstract": "Semi-classical analysis is used to investigate synchronous quantum tunneling in a multidimensional potential energy surface (PES) characterized by four degenerate minima, serving as a foundational model for coupled vibrational modes. The primary challenge in such systems is the non-linear ``locking\" of trajectories where degrees of freedom must traverse their respective barriers synchronously. Starting from the Feynman path integral in imaginary time, we analytically identify longitudinal, transverse, and diagonal instanton configurations that mediate competing tunneling pathways between minima. The translational zero mode for each trajectory is treated rigorously by transforming to a comoving rotating frame. By applying the Gelfand-Yaglom method to the functional determinant and utilizing graph theory to sum the multi-flavor dilute instanton gas , we derive coherent Rabi-type oscillations and exact ground-state tunneling splittings. Crucially, we identify a critical coupling regime where the discrete $D_4$ spatial symmetry of the minima undergoes a topological 'melting' transition into a continuous $O(2)$ rotational symmetry. These analytical results, validated against high-precision numerical diagonalization, provide a rigorous benchmark for multidimensional computational techniques, such as Ring Polymer Instanton (RPI) theory, particularly in the strongly coupled regime where standard discrete instanton approximations break down.",
+      "categories": [
+        "quant-ph",
+        "hep-th",
+        "math-ph",
+        "nlin.PS",
+        "physics.chem-ph"
+      ],
+      "published": "2026-02-28T13:44:21+00:00",
+      "updated": "2026-05-16T15:46:49+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.00652v4",
+      "html_url": "https://arxiv.org/html/2603.00652v4",
+      "entry_url": "http://arxiv.org/abs/2603.00652v4"
+    },
+    {
+      "arxiv_id": "2603.00810v2",
+      "base_id": "2603.00810",
+      "title": "Quark Mixing from a Lattice Flavon Model: A Four-Magnitude Parameterization",
+      "authors": [
+        "Vernon Barger"
+      ],
+      "abstract": "We present the quark weak-mixing component of a Froggatt--Nielsen program, with one flavon and three messengers, in which a single hierarchy parameter $B$ (with $ε\\equiv 1/B$) and a rational-exponent ``$B$-lattice'' organize fermion Yukawa textures. Building on companion mass-fit work, we translate the lattice into predictions for quark mixing. The four-magnitude parameterization serves as a practical interface between the flavon Yukawa textures and quark weak mixing observables. The lattice exponent structure, together with a four-phase multi-messenger coefficient model, simultaneously reproduces all four CKM magnitudes, the full $3\\times 3$ CKM matrix, and the CP-violating Jarlskog invariant, providing a stringent overdetermination test of the single-$B$ hypothesis. The same lattice parameter that organizes quark mixing also fixes the charged-lepton mass ratio $m_μ/m_τ=c_μ\\,ε^{5/3}$, yielding the striking integer-exponent identity $|V_{ub}|\\simeq(m_μ/m_τ)^{2}$, which connects the smallest CKM magnitude to the charged-lepton spectrum with no free parameters and agrees with the measured value at about the $6\\%$ level. An equivalent cross-sector form $|V_{ub}|\\simeq\\sin^3θ_{13}$ ties the smallest CKM magnitude directly to the smallest PMNS magnitude; the two routes agree at the few-percent level, providing complementary determinations of the same ninths-lattice quantity from the quark and lepton sectors.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-02-28T21:08:55+00:00",
+      "updated": "2026-06-01T21:28:41+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.00810v2",
+      "html_url": "https://arxiv.org/html/2603.00810v2",
+      "entry_url": "http://arxiv.org/abs/2603.00810v2"
+    }
+  ],
+  "total": 2
+}

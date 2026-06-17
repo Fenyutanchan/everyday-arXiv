@@ -1,0 +1,212 @@
+{
+  "date": "2025-10-30",
+  "papers": [
+    {
+      "arxiv_id": "2510.26946v3",
+      "base_id": "2510.26946",
+      "title": "Long-Lived HNLs via ALP Portal at the LHC",
+      "authors": [
+        "Rebeca Beltrán",
+        "Chandan Hati",
+        "Martin Hirsch",
+        "Ana Martín-Galán"
+      ],
+      "abstract": "Heavy neutral leptons (HNLs) and axion-like particles (ALPs) are both considered well-motivated candidates for beyond the standard model (BSM) physics. If ALPs with sizable couplings to gluons exist, they will be abundantly produced at the LHC. Therefore, HNLs produced via the ALP portal may provide unprecedented sensitivities to HNL parameters. Here, we study the prospects for the high-luminosity LHC to search for long-lived HNLs. We consider future far detectors as well as ATLAS in our simulations. In the limit where the ALP mass is above the TeV scale, HNLs are effectively produced by a dimension-8 operator connecting HNL pairs to gluons. For completeness, we therefore also calculate future LHC sensitivities for HNLs produced via $N_R$SMEFT operators with gluons.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-10-30T19:00:00+00:00",
+      "updated": "2026-04-20T08:00:44+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.26946v3",
+      "html_url": "https://arxiv.org/html/2510.26946v3",
+      "entry_url": "http://arxiv.org/abs/2510.26946v3"
+    },
+    {
+      "arxiv_id": "2510.26247v2",
+      "base_id": "2510.26247",
+      "title": "Curious QNEIs from QNEC: New Bounds on Null Energy in Quantum Field Theory",
+      "authors": [
+        "Jackson R. Fliss",
+        "Andrew Rolph"
+      ],
+      "abstract": "We derive new families of quantum null energy inequalities (QNEIs), i.e. bounds on integrated null energy, in quantum field theories in two and higher dimensions. These are universal, state-independent lower bounds on semi-local integrals of $\\langle T_{vv} \\rangle$, the energy-momentum flux in a null direction, and the first of this kind for interacting theories in higher dimensions. Our ingredients include the quantum null energy condition (QNEC), strong subadditivity of von Neumann entropies, defect operator expansions, and the vacuum modular Hamiltonians of null intervals and strips. These results are fundamental constraints on null energy in quantum field theories.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2025-10-30T08:31:26+00:00",
+      "updated": "2026-04-16T14:26:30+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.26247v2",
+      "html_url": "https://arxiv.org/html/2510.26247v2",
+      "entry_url": "http://arxiv.org/abs/2510.26247v2"
+    },
+    {
+      "arxiv_id": "2510.26589v2",
+      "base_id": "2510.26589",
+      "title": "Localization and anomalous reference frames in gravity",
+      "authors": [
+        "Laurent Freidel",
+        "Josh Kirklin"
+      ],
+      "abstract": "In this work, we study the classical phase space for the gravitational degrees of freedom along a null ray. We construct gauge-invariant observables localized on a null ray segment that commute with those localized on the complement; thus, the phase space describes a genuine gravitational subsystem compatible with both locality and diffeomorphism invariance. Our construction employs 'dressing time' (a null time coordinate built from spin 0 gravitational degrees of freedom) as a dynamical reference frame. The existence of such a frame depends on the use of edge mode variables, which we argue are generally required to upgrade a local gauge-fixing condition to a global 'frame-fixing'. To analyze the effects of quantum diffeomorphism anomalies on these structures, we then establish an 'effective' classical description in which the Raychaudhuri equation, symplectic form, and edge mode variables all acquire Virasoro-type deformations. Within this framework, we identify three distinct diffeomorphism actions: reparametrizations (gauge transformations), reorientations (physical symmetries of the reference frame), and dressed reparametrizations. Each acquires its own central extension and plays a different crucial role in the effective theory. The resulting structures provide a foundation for quantizing gravitational null ray segments, including promoting dressing time to a genuine quantum reference frame.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2025-10-30T15:14:23+00:00",
+      "updated": "2026-04-27T15:20:33+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.26589v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2510.26589v2"
+    },
+    {
+      "arxiv_id": "2510.26993v2",
+      "base_id": "2510.26993",
+      "title": "Lattice Calculation of Light Meson Radiative Leptonic Decays",
+      "authors": [
+        "Peter Boyle",
+        "Norman H. Christ",
+        "Xu Feng",
+        "Taku Izubuchi",
+        "Luchang Jin",
+        "Christopher T. Sachrajda",
+        "Xin-Yu Tuo"
+      ],
+      "abstract": "In this work, we perform a lattice QCD calculation of the branching ratios and the form factors of radiative leptonic decays $P \\to \\ell ν_\\ell γ$ ($P = π, K$) using $N_f=2+1$ domain wall fermion ensembles generated by the RBC and UKQCD collaborations at the physical pion mass. We adopt the infinite volume reconstruction (IVR) method, which extends lattice data to infinite volume and effectively controls the finite volume effects. This study represents a first step toward a complete calculation of radiative corrections to leptonic decays using the IVR method, including both real photon emissions and virtual photon loops. For decays involving a final state electron, collinear radiative corrections, enhanced by the large logarithmic factors such as $\\ln(m_π^2/m_e^2)$ and $\\ln(m_K^2/m_e^2)$, can reach the level of $O(10\\%)$ and are essential at the current level of theoretical and experimental precision. After including these corrections, our result for $π\\to eν_eγ$ agrees with the PIBETA measurement; for \\(K \\to eν_eγ\\), our results are consistent with the KLOE data and exhibit a $1.7σ$ tension with E36; and for $K \\to μν_μγ$, where radiative corrections are negligible, our results confirm the previously observed discrepancies between lattice results and the ISTRA/OKA measurements at large photon energies, and with the E787 results at large muon photon angles.",
+      "categories": [
+        "hep-lat",
+        "hep-ex",
+        "hep-ph"
+      ],
+      "published": "2025-10-30T20:47:48+00:00",
+      "updated": "2026-04-27T20:00:04+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.26993v2",
+      "html_url": "https://arxiv.org/html/2510.26993v2",
+      "entry_url": "http://arxiv.org/abs/2510.26993v2"
+    },
+    {
+      "arxiv_id": "2510.26126v2",
+      "base_id": "2510.26126",
+      "title": "KM3-230213A and IceCube Neutrino Events from Metastable Dark Matter of Primordial Black Hole Origin",
+      "authors": [
+        "Prabhav Singh",
+        "Mansi Dhuria",
+        "Nathanael Varghese Job"
+      ],
+      "abstract": "We investigate a scenario in which the recently observed ultra-high-energy neutrino event KM3-230213A, with a median energy of approximately 220 PeV, as well as the high-energy neutrinos detected by IceCube Observatory, originate from the decay of superheavy dark matter (DM) particles produced through primordial black hole (PBH) evaporation. To establish this connection, we derive constraints on the PBH abundance parameter $β$ as a function of the initial PBH mass $M_{\\mathrm{BH_0}}$ and DM mass $m_{\\mathrm{DM}}$, by considering the bound from the observed relic DM abundance. Using these constraints, we compute the resulting neutrino flux and show that DM masses in the PeV-EeV range can yield neutrinos of comparable energies, capable of accounting for both the KM3-230213A and IceCube events while remaining consistent with the relic abundance constraint. Interestingly, the scenario remains viable over a broad region of parameter space while satisfying existing cosmological and astrophysical bounds. Overall, our results demonstrate that PBH evaporation followed by DM decay provides a consistent and natural explanation for the observed ultra-high-energy neutrino events in the absence of accompanying multimessenger signatures.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "published": "2025-10-30T04:26:31+00:00",
+      "updated": "2026-05-13T10:39:43+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.26126v2",
+      "html_url": "https://arxiv.org/html/2510.26126v2",
+      "entry_url": "http://arxiv.org/abs/2510.26126v2"
+    },
+    {
+      "arxiv_id": "2510.26876v2",
+      "base_id": "2510.26876",
+      "title": "Trapping-potential dependence of the unitary Fermi gas at the BCS-BEC crossover",
+      "authors": [
+        "Silas R. Beane",
+        "Adèle Le Borgne",
+        "Domenico Orlando",
+        "Susanne Reffert"
+      ],
+      "abstract": "Cold-atom experiments which measure Fermi-gas properties near unitarity confine fermionic atoms to a region of space using trapping potentials of various shapes. The presence of a trapping potential introduces a new characteristic physical scale in the superfluid EFT which, inter alia, describes the acoustic branch of excitations in the far infrared well below the scale of the superfluid gap. In this EFT there is a clear hierarchy of scales, and corrections to the homogeneous system due to the trapping potential may be organized into three regions with distinct power counting that relies on both the EFT derivative expansion, and the WKB approximation, which is an expansion in gradients of the trapping potential. The energy spectrum of the superfluid system is obtained in each of the regions by explicit computation of the phonon-field fluctuations, and by the modifications to the dynamic structure factor due to the corresponding density fluctuations. The most significant deviations from linear dispersion due to the trapping potential are found in the far infrared region of the superfluid EFT.",
+      "categories": [
+        "cond-mat.quant-gas",
+        "hep-th",
+        "nucl-th"
+      ],
+      "published": "2025-10-30T18:00:00+00:00",
+      "updated": "2026-05-28T08:28:33+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.26876v2",
+      "html_url": "https://arxiv.org/html/2510.26876v2",
+      "entry_url": "http://arxiv.org/abs/2510.26876v2"
+    },
+    {
+      "arxiv_id": "2510.26764v3",
+      "base_id": "2510.26764",
+      "title": "The One-Loop QCD $β$-Function as an Index",
+      "authors": [
+        "Roland Bittleston",
+        "Kevin Costello"
+      ],
+      "abstract": "In this letter we show that the one-loop QCD $β$-function can be obtained from an index theorem on twistor space. This is achieved by recalling that the $θ$-angle of self-dual gauge theory flows according the one-loop $β$-function. Rewriting self-dual gauge theory as a holomorphic theory on twistor space this flow can be computed as the anomaly to scale invariance. The one-loop Weyl anomaly coefficient $a-c$ can be recovered similarly.",
+      "categories": [
+        "hep-th",
+        "gr-qc",
+        "math-ph"
+      ],
+      "published": "2025-10-30T17:50:45+00:00",
+      "updated": "2026-06-08T16:07:50+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.26764v3",
+      "html_url": "https://arxiv.org/html/2510.26764v3",
+      "entry_url": "http://arxiv.org/abs/2510.26764v3"
+    },
+    {
+      "arxiv_id": "2510.26780v4",
+      "base_id": "2510.26780",
+      "title": "Perfect Particle Transmission through Duality Defects",
+      "authors": [
+        "Atsushi Ueda",
+        "Vic Vander Linden",
+        "Laurens Lootens",
+        "Jutho Haegeman",
+        "Paul Fendley",
+        "Frank Verstraete"
+      ],
+      "abstract": "We study wavepackets that propagate across (a) topological interfaces in quantum spin systems exhibiting non-invertible symmetries and (b) duality defects coupling dual theories. We demonstrate that the transmission is always perfect, and that a particle traversing the interface is converted into a nonlocal string-like excitation. We give a systematic way of constructing such a defect by identifying its Hilbert space with the virtual bond dimension of the matrix product operator representing defect lines. Our work both gives an operational meaning to topological interfaces, and provides a lattice analogue of recent results solving the monopole paradox in quantum field theory.",
+      "categories": [
+        "hep-th",
+        "cond-mat.str-el",
+        "quant-ph"
+      ],
+      "published": "2025-10-30T17:56:16+00:00",
+      "updated": "2026-06-09T10:39:19+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.26780v4",
+      "html_url": "https://arxiv.org/html/2510.26780v4",
+      "entry_url": "http://arxiv.org/abs/2510.26780v4"
+    },
+    {
+      "arxiv_id": "2510.26048v2",
+      "base_id": "2510.26048",
+      "title": "Josephson's effect in the Schwarzschild background",
+      "authors": [
+        "Reggie C. Pantig",
+        "Ali Övgün"
+      ],
+      "abstract": "We develop a fully covariant, analytic framework for Josephson phenomena in static curved spacetimes and specialize it to the Schwarzschild exterior. The formulation rests on two invariant elements: the gauge-invariant condensate momentum that governs phase dynamics and the conserved current whose hypersurface flux encodes transport for an observer at infinity. Using the timelike Killing field to relate proper and asymptotic quantities, we derive a redshifted AC Josephson law in which the asymptotic phase-evolution rate is proportional to the difference of redshifted voltage drops, i.e. to $V_i^\\infty \\equiv α_i V_i^{\\rm proper}$; equivalently, it depends on $α_i V_i^{\\rm proper}$ for local control. Under RF drive specified at infinity, the Shapiro-step loci are invariant (expressed in asymptotic voltages) while propagation phases set any apparent lobe translation. For DC transport, a short-junction solution on a static slice yields the proper current-phase relation; mapping to asymptotic observables gives a single-power redshift scaling of critical currents, $I_{c,\\infty}\\propto αI_c^{\\rm proper}$, whereas power scales as $P_\\infty\\propto α^2 P_{\\rm proper}$. In a \"vertical\" dc-SQUID with junctions at different radii, gravity does not shift the DC interference pattern at linear order; it produces a small envelope deformation and an amplitude rescaling. Gravity does not alter the local Josephson microphysics; it reshapes the clocks and energy accounting that define measurements at infinity. The resulting predictions are gauge- and coordinate-invariant, operationally stated in terms of an experimenter who can control (proper vs. asymptotic bias), and remain analytic from the weak-field regime to the near-horizon limit.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2025-10-30T00:53:13+00:00",
+      "updated": "2026-06-09T06:09:27+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.26048v2",
+      "html_url": "https://arxiv.org/html/2510.26048v2",
+      "entry_url": "http://arxiv.org/abs/2510.26048v2"
+    },
+    {
+      "arxiv_id": "2510.26765v2",
+      "base_id": "2510.26765",
+      "title": "Vector dark matter with non-abelian kinetic mixing",
+      "authors": [
+        "Ana Luisa Foguel",
+        "Renata Zukanovich Funchal",
+        "Michele Frigerio"
+      ],
+      "abstract": "An appealing framework for dark matter is provided by light hidden sectors, below the electroweak scale, feebly coupled to the Standard Model via light mediators. We consider a minimal, predictive model where both the dark matter and the mediator are vector bosons, and have the same mass. The portal between the dark sector and the Standard Model is provided by a kinetic mixing between the dark gauge symmetry, $SU(2)_X$, and the hypercharge, $U(1)_Y$, induced by a dimension-six operator. The dark-matter candidates, $X^\\pm$, are charged under a custodial symmetry and therefore stable, while the mediator is a massive dark photon, $Z_D$, mixing with the photon and the $Z$. We show how the observed dark-matter abundance can be reproduced via freeze-out or freeze-in, through either the kinetic mixing or the dark gauge interaction. We also analyse dark 3-to-2 annihilations, that can become dominant in model variations with $Z_D$ heavier than $X^\\pm$. We confront our relic-density predictions with current and projected experimental, astrophysical and cosmological bounds on the model parameter space, highlighting the correlation between the dark-photon and dark-matter phenomenologies.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-10-30T17:51:11+00:00",
+      "updated": "2026-06-15T19:28:41+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.26765v2",
+      "html_url": "https://arxiv.org/html/2510.26765v2",
+      "entry_url": "http://arxiv.org/abs/2510.26765v2"
+    }
+  ],
+  "total": 10
+}

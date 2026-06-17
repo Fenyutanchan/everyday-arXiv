@@ -1,0 +1,147 @@
+{
+  "date": "2025-06-17",
+  "papers": [
+    {
+      "arxiv_id": "2506.14875v3",
+      "base_id": "2506.14875",
+      "title": "Regular Vaidya solutions of effective gravitational theories",
+      "authors": [
+        "Valentin Boyanov",
+        "Raúl Carballo-Rubio"
+      ],
+      "abstract": "We initiate the study of the dynamics of spherically symmetric spacetimes beyond general relativity through exact solutions of the field equations of second-order effective gravitational theories defined solely in terms of the symmetries of the problem in four or more dimensions. We prove the existence of regular Vaidya solutions that represent the formation or change in mass of regular black holes (or black hole mimickers) due to the gravitational collapse or accretion of radiation, with the time reverse of these processes being also included as solutions. Our treatment and results are remarkable in their simplicity and the breadth of possibilities they provide for novel theoretical applications and discoveries in the context of regular gravitational collapse. For instance, we illustrate how modifications of the gravitational dynamics can cure curvature singularities through what can be interpreted as an energy transfer between matter and gravitational degrees of freedom. As another application, we show how to incorporate spacetimes frequently used in the literature, designed geometrically to represent the formation and disappearance of regular black holes, as fully dynamical solutions within this formalism.",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2025-06-17T18:00:01+00:00",
+      "updated": "2026-04-23T15:47:21+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.14875v3",
+      "html_url": "https://arxiv.org/html/2506.14875v3",
+      "entry_url": "http://arxiv.org/abs/2506.14875v3"
+    },
+    {
+      "arxiv_id": "2506.14454v3",
+      "base_id": "2506.14454",
+      "title": "Covariant conservation laws, local invariance and Noether's second theorem",
+      "authors": [
+        "Nuno Barros e Sá",
+        "Miguel A. S. Pinto",
+        "Tomás Trindade"
+      ],
+      "abstract": "We lay down a set of requirements for a field theory to produce a covariant conservation law out of Noether's second theorem, and show that neither local invariance implies a covariant conservation law, nor the existence of a covariant conservation law necessarily stems from the local invariance of the theory. We illustrate our results with the examples of well-known theories.",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2025-06-17T12:16:14+00:00",
+      "updated": "2026-05-21T22:48:01+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.14454v3",
+      "html_url": "https://arxiv.org/html/2506.14454v3",
+      "entry_url": "http://arxiv.org/abs/2506.14454v3"
+    },
+    {
+      "arxiv_id": "2506.14486v2",
+      "base_id": "2506.14486",
+      "title": "MATRIX HAWAII: PineAPPL interpolation grids with MATRIX",
+      "authors": [
+        "S. Devoto",
+        "T. Jezo",
+        "S. Kallweit",
+        "C. Schwan"
+      ],
+      "abstract": "We present an interface between PineAPPL and Matrix, which allows fully differential cross sections to be calculated in the form of interpolation grids, accurate at next-to-next-to-leading order (NNLO) in QCD and next-to-leading order in electroweak (EW) theory. This interface is the first publicly available tool to calculate interpolation grids at NNLO QCD accuracy for a wide set of processes. Interpolation grids provide the functionality to compute predictions for arbitrary parton distribution functions (PDFs) as well as PDF uncertainties without the need to repeat the actual calculation. Another important application of the these grids is to perform global analyses of PDFs using exact NNLO calculations instead of $K$-factors, which have several drawbacks. This exact treatment of NNLO corrections is also an important prerequisite for fitting PDFs at next-to-next-to-next-to-leading order level with reliable uncertainties. The new version of the Matrix code interfaced to PineAPPL, as well as the grids produced for this publication, are available on the Matrix website and on PloughShare, respectively.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-06-17T13:08:32+00:00",
+      "updated": "2026-05-28T09:08:30+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.14486v2",
+      "html_url": "https://arxiv.org/html/2506.14486v2",
+      "entry_url": "http://arxiv.org/abs/2506.14486v2"
+    },
+    {
+      "arxiv_id": "2506.14552v4",
+      "base_id": "2506.14552",
+      "title": "Toponia at the HL-LHC and FCC-ee",
+      "authors": [
+        "Yang Bai",
+        "Ting-Kuo Chen",
+        "Yiming Yang"
+      ],
+      "abstract": "The hint of a pseudoscalar toponium state at the Large Hadron Collider (LHC) opens a new avenue for studying a novel class of QCD (quasi-)bound states with comparable formation and decay times. Compared with charmonium and bottomonium, toponium is a quasi-bound state, resembling a hydrogen atom of the strong interaction, although it appears as a broader resonance. We compute the masses and annihilation decay widths of the lowest $S$-wave ($η_t$, $ψ_t$) and $P$-wave ($χ_{t0}$, $χ_{t1}$) toponium states, and assess their discovery prospects at the High-Luminosity LHC (HL-LHC) and future lepton colliders, such as the $e^+e^-$ stage of the Future Circular Collider (FCC-ee). Detecting the vector $ψ_t$ state at the HL-LHC is hindered by the Landau-Yang theorem and the gluon-dominated production environment of the collider, whereas lepton colliders offer promising sensitivity through both constituent and two-body decays. A more precise measurement of the $η_t$ mass, approximately equal to that of $ψ_t$, at the LHC could help determine the optimal $t\\bar{t}$ threshold center-of-mass energy for FCC-ee. The $P$-wave states remain challenging to observe at both the HL-LHC and future lepton colliders. We also discuss how toponium measurements can be used to probe top-quark properties and to conduct indirect searches for new physics, including light scalars that couple to the top quark.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2025-06-17T14:08:44+00:00",
+      "updated": "2026-05-27T00:43:38+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.14552v4",
+      "html_url": "https://arxiv.org/html/2506.14552v4",
+      "entry_url": "http://arxiv.org/abs/2506.14552v4"
+    },
+    {
+      "arxiv_id": "2506.14443v2",
+      "base_id": "2506.14443",
+      "title": "Study of the beyond standard model interaction using Coherent Elastic Neutrino-Nucleus Scattering process",
+      "authors": [
+        "S. P. Behera",
+        "S. Panda",
+        "D. K. Mishra"
+      ],
+      "abstract": "We have conducted an extensive study that highlights the potential of the Indian Coherent Neutrino-nucleus Scattering Experiment (ICNSE) detector in constraining neutrino-quark interactions that go beyond the standard model. By utilizing reactors with varied core configurations and power outputs as sources for electron antineutrinos, and operating with a target mass of 10 kg over a year, our findings reveal that the ICNSE detector is remarkably effective in narrowing down the vast majority of the Non-standard Interaction (NSI) parameter space. Moreover, incorporating results from two distinct detectors, like sapphire and high-purity germanium, markedly enhances sensitivity by reducing the degeneracies between some pairs of NSI parameters to a smaller region.This research highlights its role in enabling future developments and investigations.",
+      "categories": [
+        "hep-ph",
+        "hep-ex",
+        "nucl-ex",
+        "nucl-th"
+      ],
+      "published": "2025-06-17T12:08:32+00:00",
+      "updated": "2026-05-25T08:21:38+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.14443v2",
+      "html_url": "https://arxiv.org/html/2506.14443v2",
+      "entry_url": "http://arxiv.org/abs/2506.14443v2"
+    },
+    {
+      "arxiv_id": "2506.14182v3",
+      "base_id": "2506.14182",
+      "title": "DESI results and Dark Energy from QCD topological sectors",
+      "authors": [
+        "Ludovic Van Waerbeke",
+        "Ariel Zhitnitsky"
+      ],
+      "abstract": "We present a physically motivated dark-energy (DE) model rooted in the topological structure of the Quantum ChromoDynamic (QCD) vacuum. In this framework, DE arises from the difference between the vacuum energy of an expanding FRW universe and Minkowski spacetime, induced by QCD topological sectors. The resulting DE term in the Friedmann equation scales with the Hubble rate, $ρ_{\\rm DE}(t)\\propto H(t)$, once DE dominates cosmic expansion, i.e. when the Universe is close to the de Sitter regime with $H\\approx$ constant. The QCD scale, $Λ_{\\rm QCD}\\sim100~{\\rm MeV}$, naturally fixes the DE density and explains why its influence becomes significant only recently. The construction relies solely on the Standard Model of particle physics, introducing no new fields or couplings. The most fundamental change is the possibility of modifying the evolution of the background cosmology in the Friedmann equation. Key predictions include: (a) A present-day equation of state parameter $w_{\\rm DE,0}>-1$ that asymptotically approaches the de Sitter limit $w_{\\rm DE}=-1$ in the future. (b) A present-day Hubble constant $H_0$ that asymptotically approaches a constant $\\overline{H}$ set by $Λ_{\\rm QCD}$. (b) For $z\\ge 0$, $w_{\\rm DE}(z)$ may lie above or below $-1$ and can cross this boundary multiple times at different $z$, behavior qualitatively consistent with the recent DESI findings. (c) In our framework, any deviation from $Λ$CDM leads to a corresponding deviation of $H(z)$, which can be tested with existing and future cosmological observations.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2025-06-17T04:49:10+00:00",
+      "updated": "2026-06-04T20:48:02+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.14182v3",
+      "html_url": "https://arxiv.org/html/2506.14182v3",
+      "entry_url": "http://arxiv.org/abs/2506.14182v3"
+    },
+    {
+      "arxiv_id": "2506.14659v2",
+      "base_id": "2506.14659",
+      "title": "Axion-like particle limits from multi-messenger sources",
+      "authors": [
+        "Ariane Dekker",
+        "Gonzalo Herrera",
+        "Dimitrios Kantzas"
+      ],
+      "abstract": "High-energy neutrino observation from the Seyfert galaxy NGC 1068 offers new insights into the non-thermal processes of active galactic nuclei. Simultaneous gamma-rays emitted by such sources can possibly oscillate into axion-like particles (ALPs) when propagating through astrophysical magnetic fields, potentially modifying the observed spectrum. To probe for ALP-induced signals, a robust understanding of the emission processes at the source is necessary. In this work, we perform a dedicated multi-messenger analysis by modeling a jet in the innermost vicinity of the central supermassive black hole of NGC 1068. We model in particular the neutrino and gamma-ray emission originating in lepto-hadronic collisions between jet accelerated particles and background particles from the corona, reproducing both the Fermi-LAT and IceCube data. These source models serve as a baseline for ALP searches, and we derive limits on the ALP-photon coupling by marginalizing over motivated ranges of astrophysical parameters. We find $g_{aγ} \\lesssim 7 \\times 10^{-11}$GeV$^{-1}$ for $m_a \\lesssim 10^{-9}$ eV. These limits may be weaker than existing constraints, but they demonstrate the potential of multi-messenger observations to probe new physics. We conclude by discussing how additional upcoming multi-messenger sources and improved observational precision can enhance ALP sensitivity.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.HE"
+      ],
+      "published": "2025-06-17T15:50:32+00:00",
+      "updated": "2026-06-16T16:02:27+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.14659v2",
+      "html_url": "https://arxiv.org/html/2506.14659v2",
+      "entry_url": "http://arxiv.org/abs/2506.14659v2"
+    }
+  ],
+  "total": 7
+}

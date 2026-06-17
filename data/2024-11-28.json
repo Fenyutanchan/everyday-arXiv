@@ -1,0 +1,27 @@
+{
+  "date": "2024-11-28",
+  "papers": [
+    {
+      "arxiv_id": "2411.19280v3",
+      "base_id": "2411.19280",
+      "title": "Quantum Cellular Automata on Symmetric Subalgebras",
+      "authors": [
+        "Ruochen Ma",
+        "Yabo Li",
+        "Meng Cheng"
+      ],
+      "abstract": "We investigate quantum cellular automata (QCA) on one-dimensional spin systems defined over a subalgebra of the full local operator algebra - the symmetric subalgebra under a finite Abelian group symmetry $G$. For systems where each site carries a regular representation of $G$, we establish a complete classification of such subalgebra QCAs based on two topological invariants: (1) a surjective homomorphism from the group of subalgebra QCAs to the group of anyon permutation symmetries in a $(2+1)d$ $G$ gauge theory; and (2) a generalization of the Gross-Nesme-Vogts-Werner (GNVW) index that characterizes the flow of the symmetric subalgebra. Specifically, two subalgebra QCAs correspond to the same anyon permutation and share the same index if and only if they differ by a finite-depth unitary circuit composed of $G$-symmetric local gates. We also identify a set of operations that generate all subalgebra QCAs through finite compositions. As an example, we examine the Kramers-Wannier duality on a $\\mathbb{Z}_2$ symmetric subalgebra, demonstrating that it maps to the $e$-$m$ permutation in the two-dimensional toric code and has an irrational index of $\\sqrt{2}$. Therefore, it cannot be extended to a QCA over the full local operator algebra and mixes nontrivially with lattice translations.",
+      "categories": [
+        "quant-ph",
+        "cond-mat.str-el",
+        "hep-th"
+      ],
+      "published": "2024-11-28T17:22:50+00:00",
+      "updated": "2026-05-27T05:01:22+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2411.19280v3",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2411.19280v3"
+    }
+  ],
+  "total": 1
+}

@@ -1,0 +1,91 @@
+{
+  "date": "2025-08-06",
+  "papers": [
+    {
+      "arxiv_id": "2508.04577v4",
+      "base_id": "2508.04577",
+      "title": "Particle dynamics around an electrically charged Kiselev black hole embedded in quintessence",
+      "authors": [
+        "Vitalie Lungu",
+        "Marina-Aura Dariescu",
+        "Cristian Stelea"
+      ],
+      "abstract": "We introduce and study a new solution describing a static, spherically symmetric and electrically charged black hole embedded in a charged quintessence fluid, which corresponds to an electric generalization of the Kiselev geometry. We derive the effective potential and analyze the various types of orbits followed by charged particles. A special attention is given to circular orbits and their stability. We found that for uncharged particles the periapsis shifts for bounded orbits is always prograde. However, for charged test particles the periapsis shifts can become retrograde in some cases.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-08-06T16:00:43+00:00",
+      "updated": "2026-04-17T17:12:01+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.04577v4",
+      "html_url": "https://arxiv.org/html/2508.04577v4",
+      "entry_url": "http://arxiv.org/abs/2508.04577v4"
+    },
+    {
+      "arxiv_id": "2508.04292v3",
+      "base_id": "2508.04292",
+      "title": "D-dimensional black holes in extended Gauss-Bonnet gravity",
+      "authors": [
+        "Jia-Zhou Liu",
+        "Si-Jiang Yang",
+        "Chun-Chun Zhu",
+        "Yu-Xiao Liu"
+      ],
+      "abstract": "In this work, we present charged spherically symmetric anti-de Sitter black hole solutions in $d$ dimensions ($d \\geq 5$) within the framework of extended Gauss--Bonnet gravity. Moreover, by employing dimensional regularization of the extended Gauss--Bonnet term, we further obtain charged anti-de Sitter black hole solutions in three- and four-dimensional spacetimes. Furthermore, we also obtain a three-dimensional rotating black hole solution in a special case. These solutions contain an independent vector-sector parameter and exhibit different horizon structures compared with the standard charged Gauss--Bonnet branch. For the charged solutions, we also give a concise Iyer-Wald thermodynamic analysis. Nonetheless, their asymptotic behavior at spatial infinity remains consistent with that of the corresponding black holes in general relativity.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-08-06T10:30:19+00:00",
+      "updated": "2026-05-24T10:47:44+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.04292v3",
+      "html_url": "https://arxiv.org/html/2508.04292v3",
+      "entry_url": "http://arxiv.org/abs/2508.04292v3"
+    },
+    {
+      "arxiv_id": "2508.04315v2",
+      "base_id": "2508.04315",
+      "title": "Almost local integrable models from supersymmetry algebras",
+      "authors": [
+        "Somnath Maity",
+        "Pramod Padmanabhan",
+        "Jarmo Hietarinta",
+        "Vladimir Korepin"
+      ],
+      "abstract": "Supersymmetry algebras can be used to obtain algebraic expressions for constant Yang-Baxter solutions, also known as braid group generators. This was done for non-invertible braid operators in \\cite{maity2025non}. In this work we extend this construction for the invertible ones. The resulting expressions are then shown to obey relations analogous to those satisfied by quotients of braid groups. Examples of the latter include the Iwahori-Hecke algebra and the Birman-Murakami-Wenzl (BMW) algebra. As a result, we can Baxterize the constant Yang-Baxter solutions to yield spectral parameter dependent $R$-matrices. The regularity of these $R$-matrices depends on the representation of SUSY generators. In some cases they are regular in the usual sense and in the remaining they are `almost' regular. In the latter case they are also non-invertible. Nevertheless, we show that they can still help us construct integrable models in all dimensions of the local Hilbert space. These models can be described by Hamiltonian densities that are either local or non-local, depending on the representation chosen for the SUSY generators. We demonstrate this for all constant $4\\times 4$ invertible Yang-Baxter solutions. Apart from finding new nearest-neighbor interaction spin $\\frac{1}{2}$ systems, we also find their higher spin analogs due to the algebraic [representation independent] approach.",
+      "categories": [
+        "hep-th",
+        "cond-mat.stat-mech",
+        "math-ph",
+        "nlin.SI"
+      ],
+      "published": "2025-08-06T11:01:58+00:00",
+      "updated": "2026-06-02T04:53:27+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.04315v2",
+      "html_url": "https://arxiv.org/html/2508.04315v2",
+      "entry_url": "http://arxiv.org/abs/2508.04315v2"
+    },
+    {
+      "arxiv_id": "2508.04019v2",
+      "base_id": "2508.04019",
+      "title": "Graph theory-based automated quantum algorithm for efficient querying of acyclic and multiloop causal configurations",
+      "authors": [
+        "Salvador A. Ochoa-Oregon",
+        "Juan P. Uribe-Ramírez",
+        "Roger J. Hernández-Pinto",
+        "Selomit Ramírez-Uribe",
+        "Germán Rodrigo"
+      ],
+      "abstract": "Quantum algorithms provide a promising framework in high-energy physics, in particular, for unraveling the causal configurations of multiloop Feynman diagrams by identifying Feynman propagators with qubits, a challenge analogous to querying directed acyclic graphs in graph theory. In this paper, we present the Minimum Clique-optimised quantum Algorithm (MCA), an automated quantum algorithm designed to efficiently query the causal structures within the Loop-Tree Duality. The MCA quantum algorithm is optimised by exploiting graph theory techniques, specifically, by analogy with the Minimum Clique Partition problem. The evaluation of the MCA quantum algorithm is exhibited by analysing the transpiled quantum circuit depth and quantum circuit area.",
+      "categories": [
+        "quant-ph",
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2025-08-06T02:18:08+00:00",
+      "updated": "2026-06-05T13:35:22+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.04019v2",
+      "html_url": "https://arxiv.org/html/2508.04019v2",
+      "entry_url": "http://arxiv.org/abs/2508.04019v2"
+    }
+  ],
+  "total": 4
+}

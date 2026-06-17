@@ -1,0 +1,62 @@
+{
+  "date": "2025-11-30",
+  "papers": [
+    {
+      "arxiv_id": "2512.00958v2",
+      "base_id": "2512.00958",
+      "title": "Realistic classical charge from an asymmetric wormhole",
+      "authors": [
+        "Vladimir Dzhunushaliev",
+        "Vladimir Folomeev"
+      ],
+      "abstract": "Within Einstein-Dirac-Maxwell theory, we consider a wormhole solution supported by a complex non-phantom spinor field with a bare mass of the order of the Planck mass (which provides a nontrivial spacetime topology and an intrinsic angular momentum), an electric field (which provides a charge of the system), and a magnetic field. This solution describes an asymmetric wormhole connecting two different asymptotically flat spacetimes (two universes) in which there are in general different observed masses and charges. It is shown that, by suitably adjusting the values of free system parameters, at one end of the wormhole, one can obtain the values of the observed mass and charge typical of the Standard Model particles, whereas at the other end of the wormhole these physical quantities acquire the Planck values. Such a configuration incarnates Wheeler's idea of ``mass without mass'' and ``charge without charge'', and can be thought of as a model of a classical charge possessing a spin.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-11-30T16:19:05+00:00",
+      "updated": "2026-04-19T08:49:00+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.00958v2",
+      "html_url": "https://arxiv.org/html/2512.00958v2",
+      "entry_url": "http://arxiv.org/abs/2512.00958v2"
+    },
+    {
+      "arxiv_id": "2512.00704v2",
+      "base_id": "2512.00704",
+      "title": "No boundary density matrix in elliptic de Sitter dS/$\\mathbb{Z}_2$",
+      "authors": [
+        "Raphaël Dulac",
+        "Zixia Wei"
+      ],
+      "abstract": "Elliptic de Sitter (dS) spacetime dS$/\\mathbb{Z}_2$ is a non-time-orientable spacetime obtained by imposing an antipodal identification to global dS. Unlike QFT on global dS, whose vacuum state can be prepared by a no-boundary Euclidean path integral, the Euclidean elliptic dS does not define a wavefunction in the usual sense. We propose instead that the path integral on the Euclidean elliptic dS defines a no-boundary density matrix. As an explicit example, we study the free Dirac fermion CFT in two-dimensional elliptic dS and analytically compute the von Neumann and the Rényi entropies of this density matrix. The calculation reduces to correlation functions of vertex operators on non-orientable surfaces. As a by-product, we compute the time evolution of entanglement entropy following a crosscap quench in free Dirac fermion CFT. We also comment on a striking feature of free QFT in elliptic dS: its global Hilbert space is one-dimensional, wheres the Hilbert space associated to each observer is a nontrivial Fock space.",
+      "categories": [
+        "hep-th",
+        "cond-mat.stat-mech",
+        "gr-qc"
+      ],
+      "published": "2025-11-30T02:51:17+00:00",
+      "updated": "2026-05-07T09:49:20+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.00704v2",
+      "html_url": "https://arxiv.org/html/2512.00704v2",
+      "entry_url": "http://arxiv.org/abs/2512.00704v2"
+    },
+    {
+      "arxiv_id": "2512.00890v3",
+      "base_id": "2512.00890",
+      "title": "Asymptotic charges of a quadrupolar naked singularity",
+      "authors": [
+        "Edgar Gasperin",
+        "Mariem Magdy"
+      ],
+      "abstract": "The purpose of this article is to compute the asymptotic charges of a vacuum solution to the Einstein field equations describing a naked singularity with a non-vanishing quadrupole moment, known in the literature as the Zipoy-Voorhees spacetime (q-metric). In addition to the well-known asymptotic quantities such as the Bondi-Sachs energy-momentum, the BMS charges and NP constants of this spacetime are computed. Explicit calculations of the latter are relatively scarce in the literature. Moreover, it has been proven that the NP constants of asymptotically flat, stationary, vacuum, and algebraically special spacetimes vanish (for instance, those of the Kerr spacetime). A by-product of the present analysis is to show that the algebraically special condition in the aforementioned result appears to be crucial, since the q-metric provides a counterexample to the conjecture that all asymptotically flat, stationary, vacuum, and asymptotically algebraically special spacetimes (a weaker version of the algebraically special condition) have vanishing NP constants.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-11-30T13:43:55+00:00",
+      "updated": "2026-05-14T14:26:13+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.00890v3",
+      "html_url": "https://arxiv.org/html/2512.00890v3",
+      "entry_url": "http://arxiv.org/abs/2512.00890v3"
+    }
+  ],
+  "total": 3
+}

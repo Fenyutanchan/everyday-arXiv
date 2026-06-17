@@ -1,0 +1,29 @@
+{
+  "date": "2024-12-09",
+  "papers": [
+    {
+      "arxiv_id": "2412.06377v4",
+      "base_id": "2412.06377",
+      "title": "The Ising dual-reflection interface: $\\mathbb{Z}_4$ symmetry and Majorana strong zero modes",
+      "authors": [
+        "Juliane Graf",
+        "Federica Maria Surace",
+        "Marcus Berg",
+        "Sergej Moroz"
+      ],
+      "abstract": "We investigate an interface in the transverse field quantum Ising chain connecting an ordered ferromagnetic phase and a disordered paramagnetic phase that are Kramers-Wannier duals of each other. Unlike prior studies focused on non-invertible defects, this interface exhibits a symmetry that combines Kramers-Wannier transformation with spatial reflection. We demonstrate that, under open boundary conditions, this setup gives rise to a discrete $\\mathbb{Z}_4$ symmetry, encompassing the conventional $\\mathbb{Z}_2$ Ising parity as a subgroup, while in a closed geometry a non-invertible symmetry emerges. Using the Jordan-Wigner transformation, we map the spin chain onto a solvable quadratic Majorana fermion system. In this formulation, the $\\mathbb{Z}_4$ symmetry is realized manifestly as a parity-dependent reflection with respect to a Majorana site, in contrast to the conventional reflection which mirrors with respect to the central link of the Majorana chain. Additionally, we construct Majorana strong zero modes that retain the $\\mathbb{Z}_4$ symmetry, ensure degeneracies of all energy eigenstates, and are robust under generic local symmetry-preserving perturbations of the fermion model, including interactions. Finally, we develop quantum circuit realizations of our model paving the way towards the creation of exact Majorana strong zero modes with digital quantum hardware.",
+      "categories": [
+        "cond-mat.str-el",
+        "cond-mat.quant-gas",
+        "cond-mat.supr-con",
+        "hep-th"
+      ],
+      "published": "2024-12-09T10:56:25+00:00",
+      "updated": "2026-05-29T10:12:12+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2412.06377v4",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2412.06377v4"
+    }
+  ],
+  "total": 1
+}

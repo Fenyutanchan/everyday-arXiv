@@ -1,0 +1,45 @@
+{
+  "date": "2025-08-16",
+  "papers": [
+    {
+      "arxiv_id": "2508.11875v2",
+      "base_id": "2508.11875",
+      "title": "Limitations in constraining neutron star radii and nuclear properties from inspiral gravitational wave detections",
+      "authors": [
+        "Zhenyu Zhu",
+        "Richard O'Shaughnessy"
+      ],
+      "abstract": "We investigate the constraints on the neutron star equation of state (EoS) and nuclear properties achievable with third-generation gravitational wave detectors using the Fisher information matrix approach within the relativistic mean field (RMF) theory. Assuming an optimistic binary neutron star (BNS) merger rate, we generate simulated inspiral gravitational wave (GW) signals corresponding to one year of observation. From these simulated data, we compute the covariance matrix and posterior distributions for nuclear properties and EoS. Our results show that the EoS can be tightly constrained, particularly in the density range between one and four times nuclear saturation density. However, due to the scarcity of low-mass neutron stars in the GW sample, the EoS at sub-saturation densities remains poorly constrained. Thus, in turn, leads to weaker constraints on neutron star radii, as the radii are sensitive to the low-density EoS. Additionally, we present the expected correlations among nuclear parameters in general and plots of the inferred symmetry energy in particular, which represent degeneracies in their influence on the EoS and make them difficult to be constrained through GW observations alone. These highlights inherent limitations of inspiral GW signals in probing dense matter properties. Therefore, precise radius measurements, post-merger GW observations, and supplementary constraints from terrestrial nuclear experiments remain essential for a comprehensive understanding of dense matter.",
+      "categories": [
+        "astro-ph.HE",
+        "gr-qc",
+        "nucl-th"
+      ],
+      "published": "2025-08-16T02:21:54+00:00",
+      "updated": "2026-05-27T20:40:46+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.11875v2",
+      "html_url": "https://arxiv.org/html/2508.11875v2",
+      "entry_url": "http://arxiv.org/abs/2508.11875v2"
+    },
+    {
+      "arxiv_id": "2509.00013v3",
+      "base_id": "2509.00013",
+      "title": "Singularity reversal of Schwarzschild black holes in Anti-de-Sitter",
+      "authors": [
+        "Rakshit Poudel",
+        "Daya Nidhi Chhatkuli",
+        "Madhav Kafle"
+      ],
+      "abstract": "We propose a non-metastable de-Sitter infinitesimal patch as a replacement for the theoretical singularity that occurs during the description of maximally extended Schwarzschild Anti-de Sitter spacetimes. This corresponds to a highly non-perturbative modification of the entangled sector or a dual thermofield double state. We speculate that the de-Sitter core may alter late-time correlators, regulate divergences, and appear as a deformation in the growth of holographic complexity. The description involves a copy of the conformal field theory associated with Israel Junction conditions and an entangled state. We also discuss a version of the possible solution of the Page Curve via. The evaporation of non-metastable space its range of impact in its solution.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2025-08-16T07:05:48+00:00",
+      "updated": "2026-06-03T14:57:01+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.00013v3",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2509.00013v3"
+    }
+  ],
+  "total": 2
+}

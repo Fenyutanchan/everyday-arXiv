@@ -1,0 +1,25 @@
+{
+  "date": "2025-01-14",
+  "papers": [
+    {
+      "arxiv_id": "2501.08217v2",
+      "base_id": "2501.08217",
+      "title": "Topological susceptibility and excess kurtosis in SU(3) Yang-Mills theory",
+      "authors": [
+        "Stephan Durr",
+        "Gianluca Fuwa"
+      ],
+      "abstract": "We present a high-precision study of the topological susceptibility in $SU(3)$ pure gauge theory in four space-time dimensions. The result is based on ensembles at seven lattice spacings and in seven physical volumes to facilitate a controlled continuum and infinite-volume extrapolation. We use a gluonic topological charge measurement, with gradient flow smoothing in the operator. Two complementary smoothing strategies are used (one keeps the flow time fixed in lattice units, one in physical units). Our data support the idea that both strategies yield a universal continuum limit; we find $χ_\\mathrm{top}^{1/4}r_0=0.4775(14)(11)$ or $χ_\\mathrm{top}^{1/4}=198.1(0.7)(2.7)\\,\\mathrm{MeV}$. Our appendix data suggest that the excess kurtosis $\\langle q^4 \\rangle / \\langle q^2 \\rangle^2-3$ decreases $\\propto L^{-2}$ for large box sizes $L$.",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "published": "2025-01-14T16:01:55+00:00",
+      "updated": "2026-04-16T14:24:13+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2501.08217v2",
+      "html_url": "https://arxiv.org/html/2501.08217v2",
+      "entry_url": "http://arxiv.org/abs/2501.08217v2"
+    }
+  ],
+  "total": 1
+}

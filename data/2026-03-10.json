@@ -1,0 +1,404 @@
+{
+  "date": "2026-03-10",
+  "papers": [
+    {
+      "arxiv_id": "2603.09334v2",
+      "base_id": "2603.09334",
+      "title": "Low-energy atmospheric neutrino flux calculation with accelerator-data-driven tuning",
+      "authors": [
+        "Kazufumi Sato",
+        "Hiroaki Menjo",
+        "Yoshitaka Itow",
+        "Morihiro Honda"
+      ],
+      "abstract": "We have incorporated a hadron interaction tuning based on accelerator data into our atmospheric neutrino flux calculation, which has been used to analyze atmospheric neutrino oscillations at Super-Kamiokande. This new approach enables a more direct evaluation of the flux uncertainty than a conventional tuning using atmospheric muons.   The neutrino flux calculated with this new tuning is 5\\%--10\\% smaller but still consistent with our previously published prediction within its uncertainty. The flavor ratio $(ν_μ+\\barν_μ)/(ν_e+\\barν_e)$ and $\\barν/ν$ ratios were consistent with the previous prediction. Based on the measurement errors of the accelerator data, we evaluated the flux uncertainty associated with the new tuning to be 7\\%--9\\% in the $E_ν <$ 1 GeV region, which was difficult to assess with the conventional tuning. The flux uncertainty in the $1<E_ν<10$ GeV region was evaluated to be 5\\%--7\\%, which is an improvement over the conventional tuning.",
+      "categories": [
+        "astro-ph.HE",
+        "hep-ph"
+      ],
+      "published": "2026-03-10T08:10:39+00:00",
+      "updated": "2026-04-20T01:38:24+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.09334v2",
+      "html_url": "https://arxiv.org/html/2603.09334v2",
+      "entry_url": "http://arxiv.org/abs/2603.09334v2"
+    },
+    {
+      "arxiv_id": "2603.09977v2",
+      "base_id": "2603.09977",
+      "title": "Does hot QCD have a conformal manifold in the chiral limit?",
+      "authors": [
+        "Shi Chen",
+        "Aleksey Cherman",
+        "Robert D. Pisarski"
+      ],
+      "abstract": "Recent lattice evidence suggests the chiral phase transition in QCD is second-order for $N_f \\ge 2$ massless flavors. We constrain CFT descriptions of a critical line in temperature $T$ and imaginary baryon chemical potential $θ_B = iμ_B/T$. An 't Hooft anomaly at general $θ_B$ constrains the transition even at $θ_B = 0$, leaving only three minimal scenarios. The best-motivated scenario for $N_f\\ge3$, and perhaps also $N_f = 2$, is beyond Ginzburg-Landau, featuring a conformal manifold of $θ_B$-dependent universality classes with an exactly marginal operator related to baryon density.",
+      "categories": [
+        "hep-th",
+        "hep-lat",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "published": "2026-03-10T17:59:59+00:00",
+      "updated": "2026-04-14T20:07:05+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.09977v2",
+      "html_url": "https://arxiv.org/html/2603.09977v2",
+      "entry_url": "http://arxiv.org/abs/2603.09977v2"
+    },
+    {
+      "arxiv_id": "2603.09973v2",
+      "base_id": "2603.09973",
+      "title": "Probing Physics Beyond the Standard Model through Combined Analyses of Next-Generation Type Ia Supernova, CMB, and BAO Surveys",
+      "authors": [
+        "Srinivasan Raghunathan",
+        "Ayan Mitra",
+        "Nikolina Šarčević",
+        "Fei Ge",
+        "Corentin Ravoux",
+        "Christos Georgiou",
+        "Renée Hložek",
+        "Richard Kessler",
+        "Gautham Narayan",
+        "Paul Rogozenski",
+        "Paul Shah",
+        "Georgios Valogiannis",
+        "Joaquin Vieira",
+        "the LSST Dark Energy Science Collaboration"
+      ],
+      "abstract": "Observations of Type Ia supernovae (\\sne), which probe the late Universe, together with baryon acoustic oscillations (BAO) and the cosmic microwave background (CMB), which probe the intermediate and early epochs, provide complementary constraints on the expansion history of the Universe. In this work, we forecast constraints on dark energy and other extensions to the standard cosmological model by combining the SNIa sample expected from the Vera C. Rubin Observatory's Legacy Survey of Space and Time (LSST), data from current and forthcoming CMB surveys, and BAO measurements from the Dark Energy Spectroscopic Instrument (DESI). For the CMB, we use temperature, polarization, and lensing power spectra ($TT/EE/TE/φφ$) from South Pole Telescope, the planned Advanced Simons Observatory, and a CMB-S4-like experiment. We derive constraints on $Λ{\\rm CDM}$ and its extensions involving the dark energy equation of state parameters $(w_{0}, w_{a})$ and the sum of neutrino masses $\\sum m_ν$, using a Markov Chain Monte Carlo (MCMC) sampling framework. We find that the LSST Year-3 SNIa sample can improve upon the DES Year-5 dark energy constraints by a factor of $\\times2-\\times2.5$, with the gains driven primarily by the significantly higher SNIa density in the LSST sample. Similarly, DESI-DR3 shows up to a $\\times1.8$ improvement on dark energy parameters over DR2, driven largely by the substantial increase in low-redshift sample. Combining CMB with LSST-Y3-SNIa and DESI-DR3-BAO yields $σ(w_{0}) = 0.028$ and $σ(w_{a}) = 0.11$ for $w_{0} w_{a} {\\rm CDM}$ cosmology with the results being largely independent of the CMB dataset. The constraints weaken by 10%-30% when freeing $\\sum m_ν$ and spatial curvature. Moreover, the joint analysis of the three datasets can enable a $2-3σ$ detection of $\\sum m_ν$.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2026-03-10T17:59:20+00:00",
+      "updated": "2026-04-24T02:00:44+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.09973v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2603.09973v2"
+    },
+    {
+      "arxiv_id": "2603.09327v2",
+      "base_id": "2603.09327",
+      "title": "Production of muonic kaon atoms at high-energy colliders",
+      "authors": [
+        "Xiaofeng Wang",
+        "Zebo Tang",
+        "Zhangbu Xu",
+        "Chi Yang",
+        "Wangmei Zha",
+        "Yifei Zhang"
+      ],
+      "abstract": "We develop a framework for the formation of exotic muonic kaon atoms ($Kμ$) in semileptonic $D^{0}$ decays, using the effective weak Hamiltonian, a helicity-based treatment of the leptonic current, and a nonrelativistic bound-state projection. The resulting branching ratio, $\\mathrm{BR}(D^{0} \\to (Kμ)ν_μ)=2.29\\times10^{-10}$, is implemented in a ROOT-based code to estimate yields at RHIC, LHC, and STCF. We show quantitatively that $Kμ$ atoms-also produced through coalescence in the quark-gluon plasma (QGP)-provide a sensitive probe of low-momentum primordial muons and early time electromagnetic radiation, offering complementary constraints in an otherwise unexplored phase space for thermal dilepton and photon emission. Newly estimated dissociation cross sections in detector material indicate that secondary-vertex reconstruction should be experimentally feasible, allowing clean experimental identification of the atoms. Projected yields from QGP coalescence in LHC and RHIC heavy-ion collisions, and from $D^{0}$ decays in LHC high luminosity $p+p$ collisions indicate that the first observation of $Kμ$ atoms is within reach.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-03-10T08:02:11+00:00",
+      "updated": "2026-04-30T08:08:46+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.09327v2",
+      "html_url": "https://arxiv.org/html/2603.09327v2",
+      "entry_url": "http://arxiv.org/abs/2603.09327v2"
+    },
+    {
+      "arxiv_id": "2603.10187v3",
+      "base_id": "2603.10187",
+      "title": "Cosmological simulation of a radio synchrotron bridge between pre-merging galaxy clusters",
+      "authors": [
+        "Kosuke Nishiwaki",
+        "Gianfranco Brunetti",
+        "Franco Vazza",
+        "Claudio Gheller"
+      ],
+      "abstract": "Radio bridges are diffuse synchrotron emission observed between merging galaxy clusters. Recent radio observations have reported both detections and non-detections of radio bridges between clusters. The detections imply the presence of cosmic rays (CRs) and magnetic fields permeating the cosmic web that produce synchrotron emission observable with current facilities, whereas the non-detections suggest that specific physical conditions are required for their formation. We study the CR reacceleration by solenoidal turbulence in the filament connecting two massive clusters at an early stage of the merger. Our aim is to test whether this mechanism can generate diffuse emission in the inter-cluster region. We perform a cosmological magneto-hydrodynamical (MHD) simulation using the Enzo code. We improved a run-time Lagrangian tracer method implemented in Enzo, and follow the trajectories of baryonic matter using $N=\\mathcal{O}(10^7)$ tracer particles. In post-processing, we conduct a parallel computation of the Fokker-Planck (FP) equation for all tracers, with cooling and reacceleration efficiencies evaluated from the local quantities recorded along each tracer trajectory. Our simulation generate a Mpc-sized radio bridge in the early stage of the cluster merger. Within a reasonable parameter range, the reacceleration model produces a broad variety of spectra. In our fiducial model, the simulated bridge matches several properties of the one found between Abell 399 and Abell 401, such as its spectral shape, intensity profile, and pixel-by-pixel correlation between radio and X-ray intensities. The inter-cluster region is filled with turbulence induced by infalling mass clumps and subsequently amplified by the approaching motion of the clusters. The CR reacceleration by the turbulence is a viable mechanism to power a Mpc-sized synchrotron emission observed as radio bridges.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2026-03-10T19:31:55+00:00",
+      "updated": "2026-05-05T17:18:16+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.10187v3",
+      "html_url": "https://arxiv.org/html/2603.10187v3",
+      "entry_url": "http://arxiv.org/abs/2603.10187v3"
+    },
+    {
+      "arxiv_id": "2603.10208v2",
+      "base_id": "2603.10208",
+      "title": "Unexpectedly Weak General Relativistic Effects in Strongly Relativistic Tidal Disruption Events",
+      "authors": [
+        "Ho-Sang Chan",
+        "Taeho Ryu",
+        "Julian Krolik",
+        "Tsvi Piran"
+      ],
+      "abstract": "Tidal disruption events (TDEs) occur when stars are destroyed by supermassive black holes and are among the brightest nuclear transients. It has been thought that strong relativistic effects rapidly dissipate orbital energy and produce prompt disk formation when the stellar pericenter is smaller than $\\sim 10$ gravitational radii. Using a general relativistic hydrodynamic simulation of a strongly relativistic TDE involving a Sun-like star and a $10^{6}\\,M_{\\odot}$ non-spinning black hole, we find instead that the overall evolution is similar to weakly relativistic TDEs: the debris remains highly eccentric, with most of the returned mass residing near the orbital apocenter ($\\sim 250\\times$ the initial pericenter distance), and shocks, rather than accretion, power the event. The simulation starts from the initial stellar approach and follows the debris evolution up to $35$\\,days after the peak mass-return time ($\\simeq$ $23$\\,days). Although early shocks driven by strong relativistic apsidal precession and pericenter nozzle compression dissipate orbital energy efficiently, they last only about a week ($\\sim 0.3$ of the peak mass-return time). Stream self-interactions increase the incoming stream's angular momentum, thereby expanding its pericenter distance, weakening precession and shocks, and reducing dissipation. These results suggest that circularization in TDEs may proceed slowly regardless of the strength of apsidal precession, with the flow remaining highly eccentric and extended during the peak optical/UV luminosity.",
+      "categories": [
+        "astro-ph.HE",
+        "gr-qc"
+      ],
+      "published": "2026-03-10T20:17:11+00:00",
+      "updated": "2026-05-02T02:44:34+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.10208v2",
+      "html_url": "https://arxiv.org/html/2603.10208v2",
+      "entry_url": "http://arxiv.org/abs/2603.10208v2"
+    },
+    {
+      "arxiv_id": "2603.10106v2",
+      "base_id": "2603.10106",
+      "title": "Complexity and Operator Growth in Holographic 6d SCFTs",
+      "authors": [
+        "Ali Fatemiabhari",
+        "Carlos Nunez",
+        "Ricardo T. Santamaria"
+      ],
+      "abstract": "We study Krylov (spread) complexity in strongly coupled six-dimensional ${\\cal N}=(1,0)$ superconformal field theories with holographic duals in massive type IIA supergravity. Extending recent holographic proposals relating Krylov complexity growth to the proper momentum of an infalling particle, we analyse the dynamics of massive geodesic probes in these geometries. In our setup, the bulk particle is allowed to move along three directions: the radial AdS coordinate, the internal $S^2$ associated with the $SU(2)_R$ symmetry, and the coordinate parametrising the quiver. In the dual field theory these motions encode, respectively, operator growth, the presence of R-symmetry charges, and spreading across different nodes of the quiver. We analyse the geodesic motion both analytically and numerically for representative quiver configurations. The motion along the quiver direction is typically damped and localised at early times, while the late-time behaviour is dominated by the radial AdS motion. As a consequence, the generalised proper momentum grows linearly at late times, consistent with expectations for Krylov complexity in conformal theories. The inclusion of angular momentum ($SU(2)_R$ charge) introduces additional constraints on the allowed motion and modifies the early-time dynamics while leaving the asymptotic behaviour unchanged. These results provide a first exploration of Krylov complexity in higher-dimensional holographic conformal theories and reveal how operator growth can probe both internal symmetries and quiver structure in strongly coupled conformal field theories.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2026-03-10T18:00:00+00:00",
+      "updated": "2026-05-07T16:33:14+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.10106v2",
+      "html_url": "https://arxiv.org/html/2603.10106v2",
+      "entry_url": "http://arxiv.org/abs/2603.10106v2"
+    },
+    {
+      "arxiv_id": "2603.10146v3",
+      "base_id": "2603.10146",
+      "title": "Polarized Target Nuclear Magnetic Resonance Measurements with Deep Neural Networks",
+      "authors": [
+        "Devin Seay",
+        "Ishara P. Fernando",
+        "Dustin Keller"
+      ],
+      "abstract": "Continuous-wave Nuclear Magnetic Resonance (CW-NMR) operated in constant-current mode has served as a foundational technique for polarization measurement in solid-state dynamically polarized targets within nuclear and high-energy physics experiments for several decades, and it remains an essential tool. Conventional Q-meter-based phase-sensitive detection is critical for precise real-time determination of target polarization during scattering runs. However, the accuracy and reliability of these measurements are frequently compromised by elevated noise levels, baseline drift, and systematic uncertainties arising from signal isolation and fitting, ultimately degrading the overall experimental figure of merit. In this work, we report the first successful application of neural network architectures to continuous-wave NMR polarization metrology. By leveraging advanced machine learning techniques for signal extraction and denoising, we achieve a substantial reduction of fitting uncertainties under a variety of realistic simulated and experimental conditions. These improvements translate directly into more robust real-time (online) polarization monitoring and higher precision in subsequent offline analysis. By reducing analysis-induced uncertainty, the resulting methodology can improve the effective figure of merit for scattering experiments employing dynamically polarized targets and provides a new toolset for NMR-based polarimetry in high-energy and nuclear physics.",
+      "categories": [
+        "physics.ins-det",
+        "hep-ph"
+      ],
+      "published": "2026-03-10T18:28:06+00:00",
+      "updated": "2026-05-10T18:07:53+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.10146v3",
+      "html_url": "https://arxiv.org/html/2603.10146v3",
+      "entry_url": "http://arxiv.org/abs/2603.10146v3"
+    },
+    {
+      "arxiv_id": "2603.10189v2",
+      "base_id": "2603.10189",
+      "title": "Searching for axions with time resolved pulsar polarimetry",
+      "authors": [
+        "Francesca Chadha-Day",
+        "Tanmay Kumar Poddar"
+      ],
+      "abstract": "Pulsars possess strong dipole magnetic fields that can source axion fields through the axion-photon interaction. Pulsars may therefore be surrounded by axion field configurations oscillating with the pulsar's rotational period. These axions could be detected by observing their effect on the polarization of the pular's emission. In this paper, we use time resolved observations of the optical polarization of the Crab pulsar to place bounds on the axion-photon coupling, demonstrating the potential of time resolved pulsar birefringence in the search for axions.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "published": "2026-03-10T19:32:25+00:00",
+      "updated": "2026-05-09T09:17:34+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.10189v2",
+      "html_url": "https://arxiv.org/html/2603.10189v2",
+      "entry_url": "http://arxiv.org/abs/2603.10189v2"
+    },
+    {
+      "arxiv_id": "2603.09686v2",
+      "base_id": "2603.09686",
+      "title": "Probing GPDs in exclusive electroproduction of dijets",
+      "authors": [
+        "Trambak Jyoti Chall",
+        "Marta Łuszczak",
+        "Wolfgang Schäfer",
+        "Antoni Szczurek"
+      ],
+      "abstract": "We summarize the formalism for calculating the exclusive dijet production in $e p \\to e^{\\prime} jj p$ in collinear QCD factorization, using generalized parton distributions as the soft hadronic input modeled in the double distribution approach. We include all leading-order contributions coming from light sea and valence quark exchanges, and gluon exchanges for both light quark-antiquark ($q\\bar{q}$) production and also the heavy $c\\bar{c}$ final state. We present results for several differential distributions for the cross section evaluated over a broad region of phase space, covering a wide range of inelasticity and photon virtuality. The gluon and sea contributions exhibit similar shapes, whereas the valence contribution, though relatively small, shows a markedly different behavior. The latter becomes particularly noticeable at large $x_{\\mathbb{P}}$, a kinematic region not explored at HERA, but potentially accessible in future measurements at the Electron Ion Collider. This requires further feasibility studies. We also present the azimuthal angle modulation between the leptonic and the outgoing dijet planes for the general case, as well as for the ZEUS kinematic region where we see reasonable agreement with the data for diffractive deep inelastic scattering parameter $β\\gtrsim 0.4$.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-03-10T13:55:43+00:00",
+      "updated": "2026-05-18T14:07:57+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.09686v2",
+      "html_url": "https://arxiv.org/html/2603.09686v2",
+      "entry_url": "http://arxiv.org/abs/2603.09686v2"
+    },
+    {
+      "arxiv_id": "2603.09413v2",
+      "base_id": "2603.09413",
+      "title": "Pure Natural Inflation Passes the ACT",
+      "authors": [
+        "Cristóbal Zenteno Gatica",
+        "Alexandros Papageorgiou",
+        "Matteo Fasiello"
+      ],
+      "abstract": "Pure natural inflation is a compelling effectively single-field model of inflation stemming from a top-down approach to the acceleration mechanism. In this short letter we show that such model is compatible with the latest CMB constraints obtained from the Atacama Cosmology Telescope combined with baryon acoustic oscillation data from the Dark Energy Spectroscopic Instrument. Under both the instantaneous reheating hypothesis and standard assumptions for reheating, we rule in a non-trivial fraction of the parameter space. We apply our analysis also to a phenomenological extension of the model and chart its viable parameter space.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2026-03-10T09:29:00+00:00",
+      "updated": "2026-05-18T08:50:39+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.09413v2",
+      "html_url": "https://arxiv.org/html/2603.09413v2",
+      "entry_url": "http://arxiv.org/abs/2603.09413v2"
+    },
+    {
+      "arxiv_id": "2603.09622v2",
+      "base_id": "2603.09622",
+      "title": "JLab and J-PARC for the J/{\\ensuremathψ} Production at the Threshold",
+      "authors": [
+        "Igor I. Strakovsky",
+        "Jung Keun Ahn",
+        "William J. Briscoe",
+        "Misha G. Ryskin",
+        "Axel Schmidt"
+      ],
+      "abstract": "New threshold measurements for $γ~p\\to p~J/ψ\\to p~(μ^+μ^-)$ by 007 and $γ^\\ast~p\\to p~J/ψ\\to p~(e^+e^-)$ by CLAS12 allow us to extend the previous phenomenological determination of the J/\\ensuremathψ-proton scattering length, $α_{J/ψp}$, using GlueX threshold data for $γ~p\\to p~J/ψ\\to p~(e^+e^-)$. The agreement between all three J/\\ensuremathψ data sets shows no indication of systematic differences between methodologies. Furthermore, perturbative QCD predictions support the phenomenological determination of heavy vector meson-nucleon scattering lengths. The role of the nucleon form factor, $F_N$, is discussed, and a possible correction to the phenomenological scattering length for heavy vector meson photoproduction is calculated using the pole form of $F_N$. Upcoming J-PARC threshold measurements of the reaction $π^-~p\\to n~J/ψ\\to n~(l^+l^-)$ will help to evaluate the possible role of heavy pentaquark, $P_c$, states in low-energy $J/ψ$ production and the effects caused by the nucleon form factors.",
+      "categories": [
+        "hep-ph",
+        "hep-ex",
+        "nucl-ex",
+        "nucl-th"
+      ],
+      "published": "2026-03-10T13:02:19+00:00",
+      "updated": "2026-05-19T14:35:44+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.09622v2",
+      "html_url": "https://arxiv.org/html/2603.09622v2",
+      "entry_url": "http://arxiv.org/abs/2603.09622v2"
+    },
+    {
+      "arxiv_id": "2603.09799v2",
+      "base_id": "2603.09799",
+      "title": "The scheme independent 3-sphere free energy is not a monotone F-function",
+      "authors": [
+        "Giacomo Santoni",
+        "Francesco Scardino"
+      ],
+      "abstract": "We study the natural scheme-independent quantity obtained from the three-sphere partition function of a $(2+1)$-dimensional quantum field theory by removing all local counterterm ambiguities. At conformal fixed points this quantity equals the standard $F$-theorem invariant. Conformal perturbation theory shows that it locally decreases at $O(g^2)$ under any relevant scalar deformation of a three-dimensional CFT. However, an exact analysis of the free massive scalar on $S^3$ shows that this sphere-free-energy interpolant is not monotone along the full renormalization-group flow: it dips below its infrared value and then returns to it. Thus the natural counterterm-subtracted quantity built from sphere thermodynamics is not, by itself, a monotone $F$-function. We trace the obstruction to the second-order differential operator required to eliminate the local ambiguities.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2026-03-10T15:27:01+00:00",
+      "updated": "2026-05-19T12:15:19+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.09799v2",
+      "html_url": "https://arxiv.org/html/2603.09799v2",
+      "entry_url": "http://arxiv.org/abs/2603.09799v2"
+    },
+    {
+      "arxiv_id": "2603.09278v2",
+      "base_id": "2603.09278",
+      "title": "Constraining Neutrino Mass with the Void Weak Lensing Effect",
+      "authors": [
+        "Wenshuo Xu",
+        "Cheng Zhao",
+        "Chen Su",
+        "Huanyuan Shan",
+        "Yu Liu"
+      ],
+      "abstract": "Cosmic voids, the underdense regions of the Large Scale Structure (LSS), provide cosmological information highly complementary to that obtained from overdense regions. In this work, we investigate the constraining power of the void-shear cross-correlation (void lensing effect) on the total neutrino mass. Based on cosmological $N$-body simulations with varying neutrino masses, we populate BOSS LOW-Z-like galaxies at $0.2<z<0.4$ using HOD fitting, identify voids with the DIVE void finder and obtain their density profiles from the underlying dark matter and neutrino distributions. We then generate mock shear catalogues through ray-tracing and measure the corresponding void lensing signals, assuming a source number density of $10/{\\rm arcmin}^{2}$ and sky area of around $8400\\,{\\rm deg}^2$. Under this setup, void lensing independently yields a constraint on total neutrino mass as $σ(M_ν)=0.096\\,{\\rm eV}$ ($M_ν<0.232\\,{\\rm eV}$, 95% C.L.) in the absence of shape noise, and $σ(M_ν)=0.340\\,{\\rm eV}$ ($M_ν<0.707\\,{\\rm eV}$, 95% C.L.) when adopting a Stage-III-like shape noise. Moreover, we find a clear linear relationship between the void lensing signal and neutrino mass. We further validate the forward modelling of the void lensing signal from the void density profiles across different cosmologies, demonstrating its accuracy and potential for future applications. These findings highlight void lensing as a promising probe of massive neutrinos and motivate its applications to galaxy survey data as well as the combination with other cosmological observables.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2026-03-10T07:03:48+00:00",
+      "updated": "2026-05-19T03:20:14+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.09278v2",
+      "html_url": "https://arxiv.org/html/2603.09278v2",
+      "entry_url": "http://arxiv.org/abs/2603.09278v2"
+    },
+    {
+      "arxiv_id": "2603.09126v2",
+      "base_id": "2603.09126",
+      "title": "Dark matter in classically conformal theories: WIMP and supercooling",
+      "authors": [
+        "Ke-Pan Xie",
+        "Cheng-Hao Zhan"
+      ],
+      "abstract": "Beyond solving the hierarchy problem, classically conformal (CC) theories naturally accommodate dark matter (DM). In this work, we explore the CC $SU(2)_X$ gauge theory with a triplet dark scalar, uncovering two distinct DM scenarios: weakly interacting massive particle (WIMP) and supercooled DM. The production mechanisms are strongly influenced by the CC model's unique first-order phase transition evolution history, which differs significantly from those in non-conformal models. We obtain the viable parameter space for each scenario and investigate the current constraints and future sensitivities at experiments, demonstrating that gravitational wave signals from the phase transition provide a common detection channel for both the WIMP and supercooled DM regimes.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "published": "2026-03-10T02:57:52+00:00",
+      "updated": "2026-05-20T05:39:28+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.09126v2",
+      "html_url": "https://arxiv.org/html/2603.09126v2",
+      "entry_url": "http://arxiv.org/abs/2603.09126v2"
+    },
+    {
+      "arxiv_id": "2603.09852v2",
+      "base_id": "2603.09852",
+      "title": "Scattering observables and correlation function for $p ~f_1(1285)$ revisited",
+      "authors": [
+        "Pablo Encarnación",
+        "Albert Feijoo",
+        "Eulogio Oset"
+      ],
+      "abstract": "In view of the recent theoretical developments in the fixed center approximation for the scattering of a particle with a a two-body cluster, implementing elastic unitarity on the standard fixed center formalism, and the imminent availability of ALICE data on the correlation function of the $p~f_1(1285)$ system, we update the results of a previous work for this correlation function and the low-energy scattering observables. The new results show appreciable changes in some observables and should provide valuable input for comparison with the forthcoming experimental data. Such a comparison is expected to yield relevant information on the nature of the axial-vector meson states.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-03-10T16:13:37+00:00",
+      "updated": "2026-05-28T16:35:07+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.09852v2",
+      "html_url": "https://arxiv.org/html/2603.09852v2",
+      "entry_url": "http://arxiv.org/abs/2603.09852v2"
+    },
+    {
+      "arxiv_id": "2603.09289v2",
+      "base_id": "2603.09289",
+      "title": "Mock Catalogs of Strongly Lensed Gravitational Waves via A Halo Model Approach with Ground-based Detectors",
+      "authors": [
+        "Youkai Li",
+        "Kai Liao",
+        "Mingqi Sun",
+        "Lilan Yang",
+        "Xuheng Ding",
+        "Marek Biesiada",
+        "Tonghua Liu"
+      ],
+      "abstract": "As plans for the construction of third-generation gravitational wave (GW) detectors advance, research into strongly lensed GWs has become increasingly critical. It is anticipated that hundreds of multi-image lensed GWs will be detected annually. We present a comprehensive suite of lensed GW mock catalog derived from a composite lens mass model incorporating dark matter halos, galaxies, and subhalos. We analyze three source populations with four detector network configurations considering the earth rotation. Our simulations encompass not only conventional doublets and quadruplets but also subhalo-lensed events, highly magnified systems, and complete three or five image systems with a detectable central image, a feature distinct from optical lensing. For the joint ET+CE network, we forecast an annual detection rate of approximately 400 doublets and 36 quadruplets. Notably, this population includes roughly 107 events lensed by subhalos and 20 complete systems with detectable central images. Furthermore, we analyze high-magnification events ($μ> 3$), predicting approximately 360 such cases. Under a more relaxed selection criterion that requires only at least one lensed signal to exceed the detection threshold, we estimate a total of approximately 617 lensed events. We also investigate the impact of variations in lens mass models and stellar evolution models on event rates, as well as the distributions of SNR pairs and time delays. These results establish a more physically grounded statistical prior for the future identification and authentication of lensed GW signals. The Gravitational Waves-Lensing Mock Catalog (GW-LMC) have been made publicly available.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2026-03-10T07:18:19+00:00",
+      "updated": "2026-06-02T01:08:27+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.09289v2",
+      "html_url": "https://arxiv.org/html/2603.09289v2",
+      "entry_url": "http://arxiv.org/abs/2603.09289v2"
+    },
+    {
+      "arxiv_id": "2603.09946v2",
+      "base_id": "2603.09946",
+      "title": "Strong deflection of massive particles via the geodesic deviation equation",
+      "authors": [
+        "Takahisa Igata",
+        "Yohsuke Takamori"
+      ],
+      "abstract": "We develop a formulation of the strong deflection limit for the scattering of particles following timelike geodesics in asymptotically flat, static, and spherically symmetric spacetimes. For fixed specific energy, as the angular momentum approaches its critical value from above, the particle passes arbitrarily close to the associated unstable circular orbit, undergoes many windings around it, and the deflection angle diverges logarithmically. Using the geodesic deviation equation, we show covariantly that the coefficient of this logarithmic divergence is determined by the radial instability exponent of the critical trajectory, defined per unit azimuthal angle. We express this instability exponent in terms of local curvature data on the unstable circular orbit, thereby providing both kinematic and geometric interpretations of the strong deflection limit. In general relativity, its matter dependence enters only through a single local scalar combination constructed from the static-frame energy density and the principal radial and tangential pressures.",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2026-03-10T17:40:47+00:00",
+      "updated": "2026-06-11T03:16:15+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.09946v2",
+      "html_url": "https://arxiv.org/html/2603.09946v2",
+      "entry_url": "http://arxiv.org/abs/2603.09946v2"
+    },
+    {
+      "arxiv_id": "2603.09732v3",
+      "base_id": "2603.09732",
+      "title": "Event-by-Event Multiplicity Cumulants as Probes of Partonic Energy Loss and Phase Structure in Au+Au Collisions within a Modified HIJING Model",
+      "authors": [
+        "Y. A. Rusak",
+        "L. F. Babichev"
+      ],
+      "abstract": "Event-by-event fluctuations of charged hadron multiplicity, net-baryon, and net-electric charge are investigated in central Au+Au collisions at $\\sqrt{s_{NN}} =$ 20-200 GeV using a modified HIJING Monte Carlo generator. The model incorporates QCD-based partonic energy loss formalisms in both hot (quark-gluon plasma) and cold media, eliminating free tuning parameters. At energies above 100 GeV/nucleon, multiplicity and net-charge fluctuations serve as sensitive probes for medium properties, showing strong agreement with STAR data when hot-medium finite-size effects are included. By introducing a probabilistic distribution for a first-order phase transition, we demonstrate that multiplicity cumulant ratios ($σ^2/M$ and $Sσ$) provide distinctive signatures of a binodal transition, whereas net-charge and net-baryon fluctuations remain relatively insensitive. Furthermore, expanding the kinematic acceptance significantly enhances the sensitivity of these multiplicity fluctuations to the phase transition boundary.",
+      "categories": [
+        "hep-ph",
+        "nucl-th"
+      ],
+      "published": "2026-03-10T14:36:00+00:00",
+      "updated": "2026-06-16T16:35:44+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.09732v3",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2603.09732v3"
+    }
+  ],
+  "total": 19
+}

@@ -1,0 +1,35 @@
+{
+  "date": "2024-04-22",
+  "papers": [
+    {
+      "arxiv_id": "2404.14286v3",
+      "base_id": "2404.14286",
+      "title": "Evidence for eccentricity in the population of binary black holes observed by LIGO-Virgo-KAGRA",
+      "authors": [
+        "Nihar Gupte",
+        "Antoni Ramos-Buades",
+        "Alessandra Buonanno",
+        "Jonathan Gair",
+        "M. Coleman Miller",
+        "Maximilian Dax",
+        "Stephen R. Green",
+        "Michael Pürrer",
+        "Jonas Wildberger",
+        "Jakob Macke",
+        "Isobel M. Romero-Shaw",
+        "Bernhard Schölkopf"
+      ],
+      "abstract": "Binary black holes (BBHs) in eccentric orbits produce distinct modulations in gravitational waves (GWs); measuring orbital eccentricity provides evidence for dynamical binary formation channels. We analyze 57 GW events from the LIGO-Virgo-KAGRA (LVK) O1-O3 observing runs using a multipolar aligned-spin inspiral-merger-ringdown waveform with two eccentric parameters: eccentricity and relativistic anomaly (assuming a quasi-circular merger-ringdown), made computationally feasible by the machine-learning code \\texttt{DINGO}, which accelerates inference by 2-3 orders of magnitude. First, with a uniform eccentricity prior, eccentric vs. quasi-circular aligned-spin $\\log_{10}$ Bayes factors are 1.84-4.75 (depending on glitch mitigation) for GW200129, 3.0 for GW190701 and 1.77 for GW200208_22. We infer $e_{\\text{gw, 10Hz}}$ $(e_{\\text{gw, 20Hz}})$ to be $0.27_{-0.12}^{+0.10}$ ($0.16_{-0.05}^{+0.04}$) to $0.17_{-0.13}^{+0.14}$ ($0.1_{-0.04}^{+0.05}$) for GW200129, $0.54_{-0.30}^{+0.12}$ ($0.31_{-0.13}^{+0.12}$) for GW190701 and $0.39_{-0.23}^{+0.23}$ ($0.21_{-0.08}^{+0.08}$) for GW200208_22. Second, eccentric aligned-spin vs. quasi-circular precessing-spin $\\log_{10}$ Bayes factors are 1.43-4.92 for GW200129, 2.61 for GW190701 and 1.23 for GW200208_22. Third, GW190521 shows no evidence for eccentricity ($\\log_{10}$ Bayes factor 0.04). Fourth, neglecting spin-precession with an astrophysically-motivated prior on the eccentric BBH rate, the probability of one of the 57 events being eccentric exceeds 99.5\\% or $(100-8.4\\times10^{-4})$\\% (depending on glitch mitigation). Fifth, we study parameter estimation impacts of neglecting eccentricity in quasi-circular models or higher modes in eccentric models. These results underscore the inclusion of eccentric parameters in BBH characterization for upcoming LVK runs and future ground- and space-based detectors probing more diverse BBH populations.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE"
+      ],
+      "published": "2024-04-22T15:37:08+00:00",
+      "updated": "2026-05-05T08:23:34+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2404.14286v3",
+      "html_url": "https://arxiv.org/html/2404.14286v3",
+      "entry_url": "http://arxiv.org/abs/2404.14286v3"
+    }
+  ],
+  "total": 1
+}

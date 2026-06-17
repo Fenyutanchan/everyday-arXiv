@@ -1,0 +1,45 @@
+{
+  "date": "2025-02-06",
+  "papers": [
+    {
+      "arxiv_id": "2502.03775v2",
+      "base_id": "2502.03775",
+      "title": "Exploring Born-Infeld f(T) teleparallel gravity through accretion disk dynamics",
+      "authors": [
+        "Ruijing Tang",
+        "Shokoufe Faraji",
+        "Niayesh Afshordi"
+      ],
+      "abstract": "Teleparallel Born-Infeld gravity (TBI) is a modified theory of gravity that aims to maintain second order field equations, leading to alternative scenarios for strong gravity and cosmological settings. In this study, we examine the impact of TBI gravity on the physical characteristics of thin (Novikov-Thorne) accretion disks, focusing on quantities such as flux, pressure, temperature, etc. We also examine the spectral luminosity, comparing it to disks around the Schwarzschild black holes. By comparing the theoretical predictions to observational data in the low frequency regime, we demonstrate the model's ability to match real astrophysical systems and distinguish subtle differences between TBI gravity and general relativity, with improved sensitivity. Furthermore, the results suggest that observations of X-ray spectra from the inner disk regions can provide valuable insights into the properties of TBI gravity, potentially offering constraints on this modified gravity theory through future astrophysical observations.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-02-06T04:26:33+00:00",
+      "updated": "2026-04-21T23:57:42+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2502.03775v2",
+      "html_url": "https://arxiv.org/html/2502.03775v2",
+      "entry_url": "http://arxiv.org/abs/2502.03775v2"
+    },
+    {
+      "arxiv_id": "2502.04437v3",
+      "base_id": "2502.04437",
+      "title": "Tripartite Haar random state has no bipartite entanglement",
+      "authors": [
+        "Zhi Li",
+        "Takato Mori",
+        "Beni Yoshida"
+      ],
+      "abstract": "We show that no EPR-like bipartite entanglement can be distilled from a tripartite Haar random state $|Ψ\\rangle_{ABC}$ by local unitaries or local operations when each subsystem $A$, $B$, or $C$ has fewer than half of the total qubits. Specifically, we derive an upper bound on the probability of sampling a state with EPR-like entanglement at a given EPR fidelity tolerance, showing a doubly-exponential suppression in the number of qubits. Our proof relies on a simple volume argument supplemented by an $ε$-net argument and concentration of measure. Viewing $|Ψ\\rangle_{ABC}$ as a bipartite quantum error-correcting code $C\\to AB$, this implies that neither output subsystem $A$ nor $B$ supports any non-trivial logical operator. We also establish general constraints on the structure of tripartite entanglement in Haar random states, showing that W- or GHZ-like entanglement cannot be distilled and that nontrivial global symmetries are absent. Finally, we discuss a physical interpretation in the AdS/CFT correspondence, indicating that a connected entanglement wedge does not necessarily imply bipartite entanglement, contrary to a previous belief.",
+      "categories": [
+        "quant-ph",
+        "hep-th"
+      ],
+      "published": "2025-02-06T19:00:01+00:00",
+      "updated": "2026-05-20T07:21:01+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2502.04437v3",
+      "html_url": "https://arxiv.org/html/2502.04437v3",
+      "entry_url": "http://arxiv.org/abs/2502.04437v3"
+    }
+  ],
+  "total": 2
+}

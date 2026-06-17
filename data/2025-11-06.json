@@ -1,0 +1,318 @@
+{
+  "date": "2025-11-06",
+  "papers": [
+    {
+      "arxiv_id": "2511.04605v2",
+      "base_id": "2511.04605",
+      "title": "The size of the quark-gluon plasma in ultracentral collisions: impact of initial density fluctuations on the average transverse momentum",
+      "authors": [
+        "Fabian Zhou",
+        "Giuliano Giacalone",
+        "Jean-Yves Ollitrault"
+      ],
+      "abstract": "Recent experiments have shown that the mean transverse momentum $\\langle p_T\\rangle$ of outgoing particles increases as a function of the particle multiplicity in ultracentral nucleus-nucleus collisions at collider energies. This increase was originally predicted on the basis of simulations where the multiplicity increase occurred at constant volume, so that it implied a larger density and temperature. However, recent state-of-the-art simulations have shown that, for some models of initial condition, the volume may vary with the multiplicity in ultracentral collisions. We elucidate this effect by analytically relating the variation of the volume to the radial distribution of the one- and two-point functions of the fluctuating density field. We show that the volume variation is small if the total entropy of the ultracentral collisions scales with the mass number of the colliding isotopes. We argue that probing detailed transverse distributions of initial-state fluctuations through the ultracentral $\\langle p_T\\rangle$ has nontrivial implications for models of nuclear structure and of the pre-equilibrium stages.",
+      "categories": [
+        "nucl-th",
+        "hep-ph",
+        "nucl-ex"
+      ],
+      "published": "2025-11-06T17:58:03+00:00",
+      "updated": "2026-04-20T07:45:17+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.04605v2",
+      "html_url": "https://arxiv.org/html/2511.04605v2",
+      "entry_url": "http://arxiv.org/abs/2511.04605v2"
+    },
+    {
+      "arxiv_id": "2511.04545v3",
+      "base_id": "2511.04545",
+      "title": "Continuous matrix product operators for quantum fields",
+      "authors": [
+        "Erickson Tjoa",
+        "J. Ignacio Cirac"
+      ],
+      "abstract": "In this work we introduce an ansatz for continuous matrix product operators for quantum field theory. We show that (i) they admit a closed-form expression in terms of finite number of matrix-valued functions without reference to any lattice parameter; (ii) they are obtained as a suitable continuum limit of matrix product operators; (iii) they preserve the entanglement area law directly in the continuum, and in particular they map continuous matrix product states (cMPS) to another cMPS. As an application, we use this ansatz to construct several families of continuous matrix product unitaries beyond quantum cellular automata.",
+      "categories": [
+        "quant-ph",
+        "cond-mat.str-el",
+        "hep-lat",
+        "hep-th"
+      ],
+      "published": "2025-11-06T16:57:59+00:00",
+      "updated": "2026-04-18T13:16:11+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.04545v3",
+      "html_url": "https://arxiv.org/html/2511.04545v3",
+      "entry_url": "http://arxiv.org/abs/2511.04545v3"
+    },
+    {
+      "arxiv_id": "2511.04547v2",
+      "base_id": "2511.04547",
+      "title": "Fermionic Casimir densities for a uniformly accelerating mirror in the Fulling-Rindler vacuum",
+      "authors": [
+        "A. A. Saharian",
+        "L. Sh. Grigoryan",
+        "V. Kh. Kotanjyan"
+      ],
+      "abstract": "We investigate the local characteristics of the Fulling-Rindler vacuum for a massive Dirac field induced by a planar boundary moving with constant proper acceleration in $(D+1)$-dimensional flat spacetime. On the boundary, the field operator obeys the bag boundary condition. The boundary divides the right Rindler wedge into two separate regions, called RL and RR regions. In both these regions, the fermion condensate and the vacuum expectation value (VEV) of the energy-momentum tensor are decomposed into two contributions. The first one presents the VEVs in the Fulling-Rindler vacuum when the boundary is absent and the second one is the boundary-induced contribution. For points away from the boundary, the renormalization is reduced to the one for the boundary-free geometry. The total VEVs are dominated by the boundary-free parts near the Rindler horizon and by the boundary-induced parts in the region near the boundary. For a massive field the boundary-free contributions in the fermion condensate and the vacuum energy density and effective pressures are negative everywhere. The boundary-induced contributions in the fermion condensate and the energy density are positive in the RL region and negative in the RR region. For a massless field the fermion condensate vanishes in spatial dimensions $D\\geq 2$, while the VEV of the energy-momentum tensor is different from zero. This behavior contrasts with that of the VEVs in the Minkowski vacuum for the geometry of a boundary at rest relative to an inertial observer. In the latter case, the fermion condensate for a massless field is nonzero, while the VEV of the energy-momentum tensor becomes zero. The obtained results are used to investigate the VEV of the fermionic energy-momentum tensor in weak gravitational fields and background geometries that are conformally related to Rindler spacetime.",
+      "categories": [
+        "hep-th",
+        "gr-qc",
+        "quant-ph"
+      ],
+      "published": "2025-11-06T17:01:05+00:00",
+      "updated": "2026-04-21T16:10:01+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.04547v2",
+      "html_url": "https://arxiv.org/html/2511.04547v2",
+      "entry_url": "http://arxiv.org/abs/2511.04547v2"
+    },
+    {
+      "arxiv_id": "2511.04400v3",
+      "base_id": "2511.04400",
+      "title": "Artificial Precision Polarization Array: Sensitivity for the axion-like dark matter with clock satellites",
+      "authors": [
+        "Hanyu Jiang",
+        "Baoyu Xu",
+        "Yun-Long Zhang"
+      ],
+      "abstract": "The approaches to searching for axion-like signals based on pulsars include observations with pulsar timing arrays (PTAs) and pulsar polarization arrays (PPAs). However, these methods are limited by observational uncertainties arising from multiple unknown and periodic physical effects, which substantially complicate subsequent data analysis. To mitigate these issues and improve data fidelity, we propose the Artificial Pulsar Polarization Arrays (APPA): a satellite network comprising multiple pulsed signal transmitters and a dedicated receiver satellite. To constrain the axion-photon coupling parameter $g_{aγ}$, we generate simulated observations using Monte Carlo methods and investigate the sensitivity of APPA using two complementary approaches: Likelihood analysis and frequentist analysis. Simulations indicate that for the axion mass range of $10^{-22}-10^{-18}$ eV, APPA yields a tighter upper limit on $g_{aγ}$ (at the 95\\% C.L.) than conventional ground-based observations, while also achieving superior detection sensitivity. Moreover, a larger spatial distribution scale of the satellite network corresponds to a greater advantage in detecting axions with lighter masses.",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.IM",
+        "gr-qc"
+      ],
+      "published": "2025-11-06T14:26:42+00:00",
+      "updated": "2026-04-23T12:22:49+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.04400v3",
+      "html_url": "https://arxiv.org/html/2511.04400v3",
+      "entry_url": "http://arxiv.org/abs/2511.04400v3"
+    },
+    {
+      "arxiv_id": "2511.04733v2",
+      "base_id": "2511.04733",
+      "title": "Combining CMB datasets with consistent foreground modelling",
+      "authors": [
+        "M. Tristram",
+        "M. Douspis",
+        "A. Gorce",
+        "S. Henrot-Versillé",
+        "L. T. Hergt",
+        "S. Ilic",
+        "L. McBride",
+        "M. Muñoz-Echeverría",
+        "E. Pointecouteau",
+        "L. Salvati"
+      ],
+      "abstract": "We present a joint cosmological analysis combining data from the Planck satellite, the Atacama Cosmology Telescope, and the South Pole Telescope. We construct a unified likelihood that reproduces the measured temperature and polarisation power spectra by jointly modelling the cosmic microwave background (CMB) signal, Galactic and extragalactic foregrounds, and instrumental systematics across all datasets. We reduce reliance by combining datasets and improve the robustness of parameter estimation by marginalising over the choice of foreground templates. Within this joint analysis, $Λ$CDM parameters exhibit remarkable stability with respect to variations in foreground modelling. Parameters for cosmological extensions are more sensitive to these assumptions, with uncertainties increasing by up to 35% in the neutrino sector after marginalising over foreground models. In contrast, the determination of foreground parameters depends more strongly on the assumptions made about the underlying foreground models. Overall, this work demonstrates the feasibility and reliability of a fully joint analysis of current CMB experiments and emphasizes the importance of consistent and accurate foreground modelling for the scientific goals of next-generation, high-sensitivity CMB surveys.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2025-11-06T19:00:00+00:00",
+      "updated": "2026-04-23T09:59:53+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.04733v2",
+      "html_url": "https://arxiv.org/html/2511.04733v2",
+      "entry_url": "http://arxiv.org/abs/2511.04733v2"
+    },
+    {
+      "arxiv_id": "2511.04005v3",
+      "base_id": "2511.04005",
+      "title": "Validating a Machine Learning Approach to Identify Quenched Jets in Heavy-Ion Collisions",
+      "authors": [
+        "Yilun Wu",
+        "Yi Chen",
+        "Julia Velkovska"
+      ],
+      "abstract": "Jet quenching is a phenomenon in heavy-ion collisions arising from jet interactions with the quark-gluon plasma (QGP). Its study is complicated by the interplay of multiple physics processes that affect jet observables. In addition, detector effects may influence the results and must be accounted for when identifying quenched jets. We employ a Long Short-Term Memory (LSTM) neural network trained on jet substructure, incorporating parton shower history, to predict jet-by-jet quenching levels. Using photon-jet samples from the \\textsc{Jewel} event generator, we show that the LSTM predictions strongly correlate with true jet energy loss. This validates that the model effectively learns the features of jet-QGP interaction. We simulate detector effects using \\textsc{Delphes} simulation framework and demonstrate that the method identifies quenching effects in a realistic environment. We test the approach with photon-jet momentum imbalance, jet fragmentation function, and jet shape, which were not included in the training, confirming its ability to distinguish true quenching features.",
+      "categories": [
+        "hep-ph",
+        "nucl-ex"
+      ],
+      "published": "2025-11-06T03:02:17+00:00",
+      "updated": "2026-04-30T04:31:26+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.04005v3",
+      "html_url": "https://arxiv.org/html/2511.04005v3",
+      "entry_url": "http://arxiv.org/abs/2511.04005v3"
+    },
+    {
+      "arxiv_id": "2511.04517v3",
+      "base_id": "2511.04517",
+      "title": "Constraining the four-light quark operators in the SMEFT with multijet and VBF processes at linear level",
+      "authors": [
+        "Céline Degrande",
+        "Matteo Maltoni"
+      ],
+      "abstract": "We investigate how the interference of the SM with ten four-light quark operators in the SMEFT can be constrained thanks to multijet and $Z$, $W$, $γ$ VBF production in association with jets. The differential distributions for each process are generated at LO for different jet multiplicities, that are then merged and showered. We check which observables provide better bounds on the Wilson coefficients, and what directions in the ten-dimensional coefficient space they are able to probe. We discuss the relevance of the quadratic contributions with respect to the linear terms and use them to assess the validity of the EFT approach.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-11-06T16:33:16+00:00",
+      "updated": "2026-05-15T08:57:49+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.04517v3",
+      "html_url": "https://arxiv.org/html/2511.04517v3",
+      "entry_url": "http://arxiv.org/abs/2511.04517v3"
+    },
+    {
+      "arxiv_id": "2511.04613v3",
+      "base_id": "2511.04613",
+      "title": "Effective matter sectors from modified entropies",
+      "authors": [
+        "Ankit Anand",
+        "Sahil Devdutt",
+        "Kimet Jusufi",
+        "Emmanuel N. Saridakis"
+      ],
+      "abstract": "We present a general formalism linking modified entropy functions directly to a modified spacetime metric and, subsequently, to an effective matter sector of entropic origin. In particular, within the framework of general relativity, starting from the first law of black-hole thermodynamics we establish an explicit correspondence between the entropy derivative and the metric function, which naturally leads to an emergent stress-energy tensor representing an anisotropic effective fluid. This backreaction effect of horizon entropy may resolve possible inconsistencies recently identified in black hole physics with modified entropies. As specific examples, we apply this procedure to a wide class of modified entropies, such as Barrow, Tsallis-Cirto, Renyi, Kaniadakis, logarithmic, power-law, loop-quantum-gravity, and exponential modifications, and we derive the associated effective matter sectors, analyzing their physical properties and energy conditions.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-th"
+      ],
+      "published": "2025-11-06T18:05:18+00:00",
+      "updated": "2026-05-28T12:22:43+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.04613v3",
+      "html_url": "https://arxiv.org/html/2511.04613v3",
+      "entry_url": "http://arxiv.org/abs/2511.04613v3"
+    },
+    {
+      "arxiv_id": "2511.04358v2",
+      "base_id": "2511.04358",
+      "title": "Gauge and diffeomorphism invariance from quantum information principles",
+      "authors": [
+        "Claudia Núñez",
+        "Miguel Pardina",
+        "Manuel Asorey",
+        "José Ignacio Latorre",
+        "Alba Cervera-Lierta"
+      ],
+      "abstract": "Entanglement is a hallmark of quantum theory, yet it alone does not capture the full extent of quantum complexity: some highly entangled states can still be classically simulated. Non-classical behavior also requires magic, the non-Clifford component that enables universal quantum computation. Here, we investigate whether the interplay between entanglement and magic-state resources constrains the structure of fundamental interactions. We study gluon-gluon and graviton-graviton scattering at tree level. We focus on the high-energy limit, where mass-dependent terms are negligible, and conformal symmetry is preserved. In this regime, all particles behave as massless degrees of freedom, allowing to isolate their transverse helicities as two-qubit states. We explicitly break gauge and general covariance by modifying the quartic vertices and analyzing the resulting generation of entanglement and magic. We find that imposing maximal entanglement (MaxEnt) alone does not uniquely recover gauge-invariant and diffeomorphism invariant interactions, but adding the condition of minimal, but nonzero, magic-state generation singles it out. Our results indicate that nature favors MaxEnt and low magic: maximal quantum correlations with limited non-Cliffordness, sufficient for universal quantum computing but close to classical simulability. This dual informational principle may underlie the emergence of gauge invariance in fundamental physics.",
+      "categories": [
+        "hep-th",
+        "hep-ph",
+        "quant-ph"
+      ],
+      "published": "2025-11-06T13:41:17+00:00",
+      "updated": "2026-05-28T10:36:36+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.04358v2",
+      "html_url": "https://arxiv.org/html/2511.04358v2",
+      "entry_url": "http://arxiv.org/abs/2511.04358v2"
+    },
+    {
+      "arxiv_id": "2511.04734v2",
+      "base_id": "2511.04734",
+      "title": "Large-Scale Structure Probes of the Post-Inflationary Axiverse",
+      "authors": [
+        "Marco Gorghetto",
+        "Sokratis Trifinopoulos",
+        "Georgios Valogiannis"
+      ],
+      "abstract": "We study the cosmology of axions in the post-inflationary scenario, where random initial conditions and the ensuing string-domain-wall network generate an isocurvature power spectrum. Axions radiated from strings behave as warm, wave-like dark matter: when they constitute the full dark matter abundance, free streaming sets the strongest bounds on their mass. For subdominant fractions, despite being warm, they still lead to an overall enhancement of structure growth in the dominant component, seeded by the axion white-noise fluctuations. We search for this effect using the ultraviolet luminosity function (UVLF) of galaxies at $z=4$-$10$, probing $k\\simeq0.5$-$10\\,\\mathrm{Mpc}^{-1}$. Combining the UVLF analysis with Lyman-$α$ and CMB data yields the leading cosmological limits on post-inflationary axion dark matter, sensitive to tiny fractions for $m_a\\lesssim10^{-21}\\,\\mathrm{eV}$. As a byproduct, we obtain new constraints on generic white-noise power spectra from the UVLF. These results apply broadly to scenarios that generate similar isocurvature perturbations, linking early-universe field dynamics to high-redshift structure formation.",
+      "categories": [
+        "astro-ph.CO",
+        "hep-ph"
+      ],
+      "published": "2025-11-06T19:00:00+00:00",
+      "updated": "2026-06-02T17:52:23+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.04734v2",
+      "html_url": "https://arxiv.org/html/2511.04734v2",
+      "entry_url": "http://arxiv.org/abs/2511.04734v2"
+    },
+    {
+      "arxiv_id": "2511.04743v2",
+      "base_id": "2511.04743",
+      "title": "Courant algebroid lifts and curved Courant algebroids",
+      "authors": [
+        "Filip Moučka",
+        "Roberto Rubio"
+      ],
+      "abstract": "We introduce the Courant algebroid lift, a new construction that takes a Courant algebroid together with a vector bundle connection and produces, when the connection is flat in the image of the anchor, a Courant algebroid. In general, this lift produces a Courant-like structure that we call a curved Courant algebroid. We start by establishing a hierarchy of Courant algebroid properties and their associated structures. In this setting, we introduce curved Courant algebroids, which we show to be related to connections with torsion and curved differential graded Lie algebras. We use this to provide a classification of exact curved Courant algebroids. We show that the Courant algebroid lift of an exact Courant algebroid yields a natural link between the Patterson-Walker metric and generalized geometry. By lifting non-exact Courant algebroids, we establish a relation of these lifts to Lie algebras, Poisson and special complex geometry. Finally, we show that Courant algebroid lifts provide a large class of examples of Courant algebroid actions.",
+      "categories": [
+        "math.DG",
+        "hep-th"
+      ],
+      "published": "2025-11-06T19:00:03+00:00",
+      "updated": "2026-06-09T10:19:50+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.04743v2",
+      "html_url": "https://arxiv.org/html/2511.04743v2",
+      "entry_url": "http://arxiv.org/abs/2511.04743v2"
+    },
+    {
+      "arxiv_id": "2511.04661v3",
+      "base_id": "2511.04661",
+      "title": "unimpeded: A Public Grid of Nested Sampling Chains for Cosmological Model Comparison and Tension Analysis",
+      "authors": [
+        "Dily Duan Yi Ong",
+        "Will Handley"
+      ],
+      "abstract": "Bayesian inference is central to modern cosmology, yet comprehensive model comparison and tension quantification remain computationally prohibitive for many researchers. To address this, we release $\\texttt{unimpeded}$, a publicly available Python library and data repository providing pre-computed nested sampling and MCMC chains. We apply this resource to conduct a systematic analysis across a grid of eight cosmological models, including $Λ$CDM and seven extensions, and 39 datasets, including individual probes and their pairwise combinations. Our model comparison reveals that whilst individual datasets show varied preferences for model extensions, the base $Λ$CDM model is most frequently preferred in combined analyses, with the general trend suggesting that evidence for new physics is diluted when probes are combined. Using five complementary statistics, we quantify tensions, finding the most significant to be between DES and Planck ($σ=3.57\\pm0.10$) and SH0ES and Planck ($σ=3.27\\pm0.10$) within $Ω_kΛ$CDM. We characterise the $S_8$ tension as high-dimensional ($d_G=4.87\\pm0.79$) and partially resolvable in certain extended models, whereas the Hubble tension is low-dimensional and persists across the model space. Caution should be exercised when combining datasets in tension. The $\\texttt{unimpeded}$ data products, hosted on Zenodo, provide a powerful resource for reproducible cosmological analysis and underscore the robustness of the $Λ$CDM model against this comprehensive benchmark compilation.",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.IM"
+      ],
+      "published": "2025-11-06T18:48:39+00:00",
+      "updated": "2026-06-10T16:49:52+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.04661v3",
+      "html_url": "https://arxiv.org/html/2511.04661v3",
+      "entry_url": "http://arxiv.org/abs/2511.04661v3"
+    },
+    {
+      "arxiv_id": "2511.04210v2",
+      "base_id": "2511.04210",
+      "title": "NANOGrav 15-year gravitational-wave signals from binary supermassive black-holes seeded by primordial black holes, and implications for the origins of Little Red Dots",
+      "authors": [
+        "Mikage U. Kobayashi",
+        "Kazunori Kohri"
+      ],
+      "abstract": "In this paper, we explain the recently reported a nHz-band gravitational-wave background from NANOGrav 15-year through the merger of binary super-massive black holes with masses of $10^9 M_{\\odot}$ formed by the growth of primordial black holes. When a primordial black hole accretes at a high accretion rate, it emits a large number of high-energy photons. These heat the plasma, causing high-redshift cosmological 21cm line emission. Since this has not been detected, there is a strict upper bound on the accretion rate. We have found that with the primordial black hole abundance $10^{-14} \\lesssim f_{\\rm PBH} \\lesssim 10^{-12}$ and the mass $1 M_{\\odot} \\lesssim m_{\\rm PBH} \\lesssim 10^3 M_{\\odot}$, we successfully fit the nHz band gravitational wave background from NANOGrav 15-year while avoiding the 21 cm line emission. In addition, we also discuss the implication for the origins of the Little Red Dots. We propose that future observations of the gravitational wave background and the cosmological 21cm line can test this scenario.",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.HE",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "published": "2025-11-06T09:15:20+00:00",
+      "updated": "2026-06-14T01:23:31+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.04210v2",
+      "html_url": "https://arxiv.org/html/2511.04210v2",
+      "entry_url": "http://arxiv.org/abs/2511.04210v2"
+    },
+    {
+      "arxiv_id": "2511.04610v3",
+      "base_id": "2511.04610",
+      "title": "Addressing the DESI DR2 Phantom-Crossing Anomaly and Enhanced $H_0$ Tension with Reconstructed Scalar-Tensor Gravity",
+      "authors": [
+        "Dimitrios Efstratiou",
+        "Evangelos Achilleas Paraskevas",
+        "Leandros Perivolaropoulos"
+      ],
+      "abstract": "Recent cosmological data, including DESI DR2, highlight significant tensions within the $Λ$CDM paradigm. When analyzed in the context of General Relativity (GR), the latest DESI data favor a dynamical dark energy (DDE) equation of state, $w(z)$, that crosses the phantom divide line $w=-1$. However, this framework prefers a lower Hubble constant, $H_0$, than Planck 2018, thereby worsening the tension with local measurements. This phantom crossing is a key feature that cannot be achieved by minimally coupled scalar fields (quintessence) within GR. This suggests the need for a new degree of freedom that can simultaneously: (A) increase the best-fit value of $H_0$ in the context of the DESI DR2 data, and (B) allow the crossing of the $w=-1$ line within a new theoretical approach. We argue that both of these goals may be achieved in the context of Modified Gravity (MG), and in particular, Scalar-Tensor (ST) theories, where phantom crossing is a natural and viable feature. We demonstrate these facts by analyzing a joint dataset including DESI DR2, Pantheon+, CMB, and growth-rate (RSD) data in the context of simple parametrizations for the effective gravitational constant, $μ_G(z) \\equiv G_{eff}/G_N$, and the DDE equation of state, $w(z)$. This MG framework significantly alleviates the tension, leading to a higher inferred value of $H_0 = 70.6 \\pm 1.4 \\, \\text{km s}^{-1} \\text{Mpc}^{-1}$. We also present a systematic, data-driven reconstruction of the required underlying ST Lagrangian and provide simple, generic analytical expressions for both the non-minimal coupling $F(Φ) = 1+ξΦ^{2}e^{nΦ}$ and the scalar potential $U(Φ) = U_{0}+ae^{bΦ^{2}}$, which well-describe the reconstructed functions.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2025-11-06T18:01:59+00:00",
+      "updated": "2026-06-13T11:24:47+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.04610v3",
+      "html_url": "https://arxiv.org/html/2511.04610v3",
+      "entry_url": "http://arxiv.org/abs/2511.04610v3"
+    },
+    {
+      "arxiv_id": "2511.04596v2",
+      "base_id": "2511.04596",
+      "title": "Universal holographic Wilson loops in 3d SCFTs",
+      "authors": [
+        "Fridrik Freyr Gautason",
+        "Alexia Nix"
+      ],
+      "abstract": "We study the vacuum expectation value of half-BPS Wilson loop operators in two families of superconformal $\\mathcal{N}=2$ Chern-Simons-matter theories. The first family is dual to AdS$_{4}$ solutions in M-theory, while the second one has a dual description in massive type IIA string theory. Utilizing the properties of the underlying geometry, we provide a universal description for the semiclassical quantization of a probe M2-brane and fundamental string in the respective holographic dual geometries. As a result, we find the one-loop partition function of both the M2-brane and the string which leads to a prediction for the large $N$ behaviour of the Wilson loops in the dual SCFTs. For theories with M-theory duals, we conjecture the full perturbative completion as a ratio of Airy functions.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2025-11-06T17:49:51+00:00",
+      "updated": "2026-06-16T17:45:09+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.04596v2",
+      "html_url": "https://arxiv.org/html/2511.04596v2",
+      "entry_url": "http://arxiv.org/abs/2511.04596v2"
+    }
+  ],
+  "total": 15
+}

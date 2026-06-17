@@ -1,0 +1,23 @@
+{
+  "date": "2024-04-04",
+  "papers": [
+    {
+      "arxiv_id": "2404.03739v3",
+      "base_id": "2404.03739",
+      "title": "RG flows in de Sitter: c-functions and sum rules",
+      "authors": [
+        "Manuel Loparco"
+      ],
+      "abstract": "We study the renormalization group flow of unitary Quantum Field Theories on two-dimensional de Sitter (dS) spacetime. We prove the existence of two functions of the radius of dS that interpolate between the central charges of the UV and IR fixed points of the flow when tuning the radius $R$ while keeping the mass scales fixed. The first is constructed from certain components of the two-point function of the stress tensor evaluated at antipodal separation. The second is the spectral weight of the stress tensor in the $Δ=2$ discrete series. This last fact implies that the stress tensor of any unitary QFT in dS$_2$ must interpolate between the vacuum and states in the $Δ=2$ discrete series irrep. We verify that the c-functions are monotonic for intermediate radii in the free massive boson and free massive fermion theories, but we lack a general proof of said monotonicity. We derive a variety of sum rules that relate the central charges and the c-functions to integrals of the two-point function of the trace of the stress tensor and to integrals of its spectral densities. The positivity of these formulas implies $c^{\\text{UV}}\\geq c^{\\text{IR}}$. In the infinite radius limit the sum rules reduce to the well known formulas in flat space. Throughout the paper, we prove some general properties of the spectral decomposition of the stress tensor in dS$_{d+1}$.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2024-04-04T18:22:37+00:00",
+      "updated": "2026-06-15T07:54:46+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2404.03739v3",
+      "html_url": "https://arxiv.org/html/2404.03739v3",
+      "entry_url": "http://arxiv.org/abs/2404.03739v3"
+    }
+  ],
+  "total": 1
+}

@@ -1,0 +1,29 @@
+{
+  "date": "2024-12-18",
+  "papers": [
+    {
+      "arxiv_id": "2412.14280v2",
+      "base_id": "2412.14280",
+      "title": "Many-body spectral transitions through the lens of the variable-range SYK2 model",
+      "authors": [
+        "Andrea Legramandi",
+        "Soumik Bandyopadhyay",
+        "Philipp Hauke"
+      ],
+      "abstract": "The Sachdev-Ye-Kitaev (SYK) model is a cornerstone in the study of quantum chaos and holographic quantum matter. Real-world implementations, however, deviate from the idealized all-to-all connectivity, raising questions about the robustness of its chaotic properties. In this work, we investigate a quadratic SYK model with distance-dependent interactions governed by a power-law decay. By analytically and numerically studying the spectral form factor (SFF), we uncover how transitions present in the single-particle limit carry over to the many-body system. Non-trivial cancellations in the one-loop contributions lead to a robustness of the SFF under a considerable reduction of the interaction range. Further suppression leads to a breakdown of perturbation theory around the infinite-range path-integral saddle and the appearance of new spectral regimes, marked by a higher dip and the emergence of a secondary plateau. Our results highlight the interplay between single-particle criticality and many-body dynamics, offering new insights into the quantum chaos-to-localization transition and its reflection in spectral statistics.",
+      "categories": [
+        "cond-mat.stat-mech",
+        "cond-mat.dis-nn",
+        "cond-mat.str-el",
+        "hep-th",
+        "quant-ph"
+      ],
+      "published": "2024-12-18T19:17:20+00:00",
+      "updated": "2026-06-16T09:24:20+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2412.14280v2",
+      "html_url": "https://arxiv.org/html/2412.14280v2",
+      "entry_url": "http://arxiv.org/abs/2412.14280v2"
+    }
+  ],
+  "total": 1
+}

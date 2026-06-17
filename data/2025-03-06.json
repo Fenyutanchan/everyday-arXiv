@@ -1,0 +1,25 @@
+{
+  "date": "2025-03-06",
+  "papers": [
+    {
+      "arxiv_id": "2503.04382v2",
+      "base_id": "2503.04382",
+      "title": "Global hyperbolicity and manifold topology from the Lorentzian distance",
+      "authors": [
+        "A. Bykov",
+        "E. Minguzzi"
+      ],
+      "abstract": "In this work, we seek characterizations of global hyperbolicity in smooth Lorentzian manifolds that do not rely on the manifold topology and that are inspired by metric geometry. In particular, strong causality is not assumed, so part of the problem is precisely that of recovering the manifold topology so as to make sense of it also in rough frameworks. After verifying that known standard characterizations do not meet this requirement, we propose two possible formulations. The first is based solely on chronological diamonds and is interesting due to its analogies with the Hopf-Rinow theorem. The second uses only properties of the Lorentzian distance function and it is suitable for extension to abstract `Lorentzian metric' frameworks. It turns out to be equivalent to the definition of `Lorentzian metric space' proposed in our previous joint work with S. Suhr, up to slightly strengthening weak $d$-distinction to `future or past $d$-distinction'. The role of a new property which we term {\\em $d$-reflectivity} is also discussed. We then investigate continuity properties of the Lorentzian distance and the property of $d$-reflectivity in non-smooth frameworks. Finally, we establish a result of broader interest: the exponential map of a smooth spray is $C^{1,1}$ (smooth outside the zero section). Additionally, we derive a Lorentz-Finsler version of the Busemann-Mayer formula and demonstrate that, in strongly causal smooth Finsler spacetimes, the Finsler fundamental function can be reconstructed from the distance. As a consequence, distance-preserving bijections are shown to be Lorentz-Finsler isometries in the conventional smooth sense.",
+      "categories": [
+        "math.DG",
+        "gr-qc"
+      ],
+      "published": "2025-03-06T12:35:05+00:00",
+      "updated": "2026-06-08T16:04:04+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2503.04382v2",
+      "html_url": "https://arxiv.org/html/2503.04382v2",
+      "entry_url": "http://arxiv.org/abs/2503.04382v2"
+    }
+  ],
+  "total": 1
+}

@@ -1,0 +1,47 @@
+{
+  "date": "2024-09-30",
+  "papers": [
+    {
+      "arxiv_id": "2409.20555v2",
+      "base_id": "2409.20555",
+      "title": "Solving bound-state equations in $\\text{QCD}_2$ with bosonic and fermionic quarks",
+      "authors": [
+        "Xiaolin Li",
+        "Yu Jia",
+        "Ying Li",
+        "Zhewen Mo"
+      ],
+      "abstract": "We investigate the bound-state equations (BSEs) in two-dimensional QCD in the $N_c\\to \\infty$ limit, viewed from both the infinite momentum frame (IMF) and the finite momentum frame (FMF). The BSE of a meson in the original 't Hooft model, viz., spinor $\\text{QCD}_2$ containing only fermionc quarks, has been extensively studied in literature. In this work, we focus on the BSEs pertaining to two types of \"exotic\" hadrons, a \"tetraquark\" which is composed of a bosonic quark and bosonic antiquark, and a \"baryon\" which is composed of a bosonic antiquark and a fermionic quark. Utilizing the Hamiltonian approach, we derive the corresponding BSEs for both types of \"exotic\" hadrons, from the perspectives of the light-front and equal-time quantization, and confirm the known results. The recently available BSEs for \"tetraquark\" in FMF has also been recovered with the aid of the diagrammatic approach. For the first time we also present the BSEs of a \"baryon\" in FMF in the extended 't Hooft model. By solving various BSEs numerically, we obtain the mass spectra pertaining to \"tetraquark\" and \"baryon\" and the corresponding bound-state wave functions of the lowest-lying states. It is numerically demonstrated that, when a \"tetraquark\" or \"baryon\" is continuously boosted, the forward-moving component of the bound-state wave function approaches the corresponding light-cone wave function, while the backward-moving component fades away.",
+      "categories": [
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2024-09-30T17:56:31+00:00",
+      "updated": "2026-04-15T11:14:49+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2409.20555v2",
+      "html_url": "https://arxiv.org/html/2409.20555v2",
+      "entry_url": "http://arxiv.org/abs/2409.20555v2"
+    },
+    {
+      "arxiv_id": "2409.20231v2",
+      "base_id": "2409.20231",
+      "title": "Prospects of measuring the atmospheric muon neutrino and anti-neutrino flux ratio with the ATLAS detector",
+      "authors": [
+        "Deep Ghosh",
+        "Satyanarayan Mukhopadhyay",
+        "Biswarup Mukhopadhyaya"
+      ],
+      "abstract": "There is a significant uncertainty in the prediction of atmospheric muon neutrino and anti-neutrino flux ratio using different flux models, especially at higher energies. We study the prospects of experimentally measuring this flux ratio as a function of energy with the ATLAS detector at the LHC. To this end, we compute the contained-vertex and external upward going charged current event rates induced by atmospheric muon (anti-)neutrinos through deep inelastic scattering at the 4 kiloton hadron calorimeter (HCAL) component of ATLAS. We illustrate the event selection criteria necessary to eliminate the cosmic ray muon background for the above event classes. While the contained vertex events have a striking topology with a muon being created inside the HCAL and then travelling to the muon chamber possibly through the tracker, for muons with energy larger than 3 GeV, nearly 10 times more events are obtained for the external upward going muons created in the rock column below the detector. Our estimates show that the energy dependence of the ratio of negative and positively charged muons induced by atmospheric muon neutrino and anti-neutrino fluxes can be measured by ATLAS upto a muon energy of 100 GeV, with 1000-live days of neutrino physics exposure over a period of several years, considering only the period with the LHC beams not in circulation, but the detector and magnetic fields of ATLAS in operation. With this exposure, we expect to obtain 60 $μ^-$ and 30 $μ^+$ contained vertex events, and $599~μ^-$ and $292~μ^+$ external upward-going events, after imposing the necessary selection criteria. For the latter class of events, this corresponds to an expected ratio of negative to positive charged muon events averaged over all energies, $R_{μ^-/ μ^+}=2.05^{+0.15}_{-0.14}$, at $68\\%$ C.L. (Abridged)",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2024-09-30T12:14:30+00:00",
+      "updated": "2026-05-22T06:54:12+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2409.20231v2",
+      "html_url": "https://arxiv.org/html/2409.20231v2",
+      "entry_url": "http://arxiv.org/abs/2409.20231v2"
+    }
+  ],
+  "total": 2
+}

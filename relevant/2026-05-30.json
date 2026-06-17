@@ -1,0 +1,142 @@
+{
+  "date": "2026-05-30",
+  "total": 5,
+  "papers": [
+    {
+      "arxiv_id": "2602.23424v2",
+      "base_id": "2602.23424",
+      "title": "Axiverse Lampposts",
+      "authors": [
+        "Masha Baryakhtar",
+        "David Cyncynates",
+        "Ella Henry"
+      ],
+      "abstract": "The string axiverse predicts a unique connection between the high scales approachable only through theory and the low energies within reach of experimental verification: a multitude of light, feebly interacting axions. In order to capture the collective effects of such an axion ensemble, we model the string axiverse by $N$ coupled axions with a simple assumption: hierarchical axion masses that arise from hierarchical instantons with statistically distributed axion couplings. In this limit, we find that axion field ranges, which determine late-time cosmological abundances, shrink as $1/\\sqrt{N}$ as the number of axions grows. Moreover, the heaviest modes tend to align with the smallest kinetic eigenvalues, further reducing their field ranges. Interactions with the Standard Model (SM) are largely set by the kinetic structure and do not grow with $N$, thus suppressing detection prospects relative to the individual-axion expectation. The main exception is the QCD axion, whose coupling is tied to its potential and is therefore unsuppressed. The heaviest and lightest axions can also avoid the typical suppression in certain limits. We further find that coupled axiverse dark matter has parametrically relaxed tuning on initial conditions when produced via long, low-scale inflation relative to independent axions and high-scale inflation. Taken together, these results sharpen the observational outlook: the most accessible signals typically come from the QCD axion and from heavy axions that make up small dark matter subcomponents. An anthropic plateau of comparable energy density states produces subdominant signals; meanwhile, if light axions have SM interactions independent of QCD, they can also be within reach of future direct-detection experiments.",
+      "categories": [
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2026-02-26T19:00:01+00:00",
+      "updated": "2026-05-30T18:22:37+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.23424v2",
+      "html_url": "https://arxiv.org/html/2602.23424v2",
+      "entry_url": "http://arxiv.org/abs/2602.23424v2",
+      "relevance": {
+        "relevant": true,
+        "score": 7,
+        "reason": "The paper is directly relevant to the researcher's core interest in axion physics and detection strategies, studying multi-axion cosmological abundances, field ranges, SM couplings (including photon and QCD), and direct detection prospects, though its string axiverse framework is somewhat broader than the researcher's specific focus on Primakoff solar axions and JUNO phenomenology.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.00830v1",
+      "base_id": "2606.00830",
+      "title": "$n \\to K\\ell$ and the baryon asymmetry of the universe",
+      "authors": [
+        "Carolina Arbeláez",
+        "Juan Carlos Helo",
+        "Martin Hirsch",
+        "Toshihiko Ota"
+      ],
+      "abstract": "The observed baryon asymmetry (BAU) of the universe puts strong constraints on any $(B-L)$-violating interaction. An observation of a $(B-L)$-violating nucleon decay channel would therefore have profound implications for our understanding of the BAU. Here we point out that the observation of the final state with a kaon and a charged lepton in a future nucleon decay experiment would hint at $(B-L)$ violation even if the charge of the lepton is not determined experimentally. In SMEFT, this follows from the fact that $n \\to K^+\\ell^-$ arises already at dimension seven, while the $(B-L)$-conserving decay $n \\to K^-\\ell^+$ requires dimension-ten operators that, in addition, would be accompanied by lower-dimensional $(B+L)$-violating decay modes. An observation of $n \\to K\\ell$ in the absence of other modes such as $p \\to π^0\\ell^+$, would then strongly suggest that $(B-L)$ is violated.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-05-30T18:03:43+00:00",
+      "updated": "2026-05-30T18:03:43+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.00830v1",
+      "html_url": "https://arxiv.org/html/2606.00830v1",
+      "entry_url": "http://arxiv.org/abs/2606.00830v1",
+      "relevance": {
+        "relevant": true,
+        "score": 5,
+        "reason": "The paper connects B-L-violating nucleon decays to baryogenesis constraints and explicitly mentions JUNO as a future experiment sensitive to kaon channels, which partially overlaps with the user's interests in early-universe cosmology and JUNO phenomenology, though the core topic of SMEFT operator analysis for nucleon decay is not central to the user's primary research focus on neutrino physics, PBHs, or multi-loop calculations.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2512.25019v2",
+      "base_id": "2512.25019",
+      "title": "Loop-Level Lepton Flavor Violation and Diphoton Signals in the Minimal Left-Right Symmetric Model",
+      "authors": [
+        "Shufang Qiang",
+        "Peiwen Wu",
+        "Yongchao Zhang"
+      ],
+      "abstract": "The left-right symmetric model (LRSM) could not only restore parity of the weak interaction, but also provide natural explanations of the tiny active neutrino masses via the seesaw mechanisms. The $SU(2)_R$-breaking scalar $H_3$ can induce lepton flavor violating (LFV) effects in the minimal version of LRSM at the 1-loop order, originating from the mixing of heavy right-handed neutrinos (RHNs). If $H_3$ is light, say below the GeV scale, it will lead to rich signals, e.g. the LFV muon and tauon decays $\\ell_β\\to \\ell_α+ X$ ($X$ being either visible or invisible final states) and the anomalous supernova signatures. Combined with the diphoton coupling of $H_3$, and recasting the existing constraints onto the light $H_3$ scenario, the right-handed scale $v_R$ is excluded up to $2\\times10^9$ GeV. In the future, the $v_R$ scale can be probed up to $5\\times10^9$ GeV in high-precision muon experiments, if the Yukwa couplings for RHN masses are of order one and the RHN mixing is maximal, and further up to $6\\times10^{11}$ GeV by supernova observations, reaching the non-resonant leptogenesis scale in the LRSM.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "astro-ph.HE",
+        "astro-ph.SR",
+        "hep-ex"
+      ],
+      "published": "2025-12-31T18:14:08+00:00",
+      "updated": "2026-05-30T13:56:40+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.25019v2",
+      "html_url": "https://arxiv.org/html/2512.25019v2",
+      "entry_url": "http://arxiv.org/abs/2512.25019v2",
+      "relevance": {
+        "relevant": true,
+        "score": 5,
+        "reason": "The paper involves heavy right-handed neutrinos (HNLs) in the LRSM and 1-loop calculations, which are tangentially related to the user's interests in HNL physics and perturbative loop calculations, but focuses on LFV and diphoton phenomenology rather than the user's core topics of HNL dark decays, JUNO phenomenology, BBN/ΔN_eff bounds, or multi-loop QCD/electroweak precision calculations.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.00529v1",
+      "base_id": "2606.00529",
+      "title": "Decaying Dark Matter as a Possible Solution for Cosmological Tensions",
+      "authors": [
+        "Yaman Acharya",
+        "Ryan E. Johnson"
+      ],
+      "abstract": "Large-scale structure measurements have revealed persistent tensions between early- and late-time cosmological probes, most notably the long-standing discrepancy in the structure-growth parameter $S_8$. In this work, we explore how a model including decaying dark matter (DDM) can alleviate this tension by suppressing the growth of matter fluctuations at late times. Specifically, we consider a neutrinophilic decay channel in which a heavy dark matter particle $χ$ slowly decays into a Standard Model neutrino and a light invisible fermion, $χ\\rightarrow ν+ φ$, modifying both the background evolution and the clustering of structure. Using the DES Year~1 redshift distributions, we construct a baseline matter power spectrum and compute the galaxy-galaxy, shear-shear, and galaxy-shear angular power spectra under both $Λ$CDM and DDM-inspired scenarios. We find that slow dark matter decay produces a scale-dependent suppression of clustering that remains consistent with DES measurements while naturally shifting the predicted structure amplitude toward the lower values favored by weak lensing surveys. Our results suggest that decaying dark matter is a compelling and physically motivated framework for addressing the $S_8$ tension.",
+      "categories": [
+        "astro-ph.CO",
+        "hep-ph"
+      ],
+      "published": "2026-05-30T04:48:40+00:00",
+      "updated": "2026-05-30T04:48:40+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.00529v1",
+      "html_url": "https://arxiv.org/html/2606.00529v1",
+      "entry_url": "http://arxiv.org/abs/2606.00529v1",
+      "relevance": {
+        "relevant": true,
+        "score": 5,
+        "reason": "The paper's neutrinophilic dark matter decay channel (χ→ν+φ) connects to the user's interests in dark sector decay channels and cosmological constraints on neutrino physics, but the primary focus on DES observational cosmology and angular power spectrum analysis falls outside the user's core theoretical particle physics and JUNO phenomenology focus.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.00498v1",
+      "base_id": "2606.00498",
+      "title": "Suppression of boosted relic neutrinos by photon backgrounds during ultra-high-energy cosmic ray propagation",
+      "authors": [
+        "Gabriel Azeredo",
+        "Vitor de Souza"
+      ],
+      "abstract": "Constraining the cosmic neutrino background (C$ν$B) represents a major experimental challenge in cosmology. Recent studies have suggested that relic neutrinos boosted by ultra-high-energy cosmic rays (UHECRs) may generate observable diffuse neutrino fluxes. Previous estimates have not effectively propagated the primary cosmic rays, often neglecting crucial energy losses and the unavoidable, competing interactions with diffuse photon backgrounds. Here we revisit these expectations using a realistic Monte Carlo propagation framework. This approach allows us to consistently incorporate cosmic ray energy losses, nuclear photodisintegration, and production of secondary neutrinos. We show that interactions with diffuse photon backgrounds strongly suppress the boosted relic neutrino flux predicted in simplified propagation scenarios. Furthermore, we demonstrate that to produce any observable suppression on the UHECR energy spectrum at Earth, or for the boosted C$ν$B component to become comparable to the cosmogenic neutrino flux, the C$ν$B density must be enhanced by a factor, the so-called overdensity, of extreme magnitude ($η\\gtrsim 10^{8}$).",
+      "categories": [
+        "astro-ph.HE",
+        "hep-ph"
+      ],
+      "published": "2026-05-30T03:05:25+00:00",
+      "updated": "2026-05-30T03:05:25+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.00498v1",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2606.00498v1",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "While the paper involves UHECRs and neutrinos which overlap with the researcher's PBH-UHECR and neutrino physics interests, the work focuses primarily on astrophysical propagation effects rather than new particle physics or cosmological mechanisms central to the researcher's profile.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    }
+  ]
+}

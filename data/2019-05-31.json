@@ -1,0 +1,27 @@
+{
+  "date": "2019-05-31",
+  "papers": [
+    {
+      "arxiv_id": "1905.13431v4",
+      "base_id": "1905.13431",
+      "title": "Probing the Hubble Tension with an Infinite-Future Condition on the Hubble Parameter",
+      "authors": [
+        "Yuan-Bo Xie",
+        "Cheqiu Lyu",
+        "Zhiyuan Mo",
+        "Wei Hong",
+        "Tong-Jie Zhang"
+      ],
+      "abstract": "We study the impact of imposing an infinite-future condition on Gaussian-process (GP) reconstructions of $H(z)$ from 37 cosmic-chronometer measurements. Implementing the asymptotic limit $H(-1)=0$ expected in constant-$w$CDM with $w>-1$ as a pseudo-point at $z=-1$ with tunable uncertainty $σ_{-1}$ lowers the GP-inferred Hubble constant from $H_0=68.71\\pm6.08$ to $H_0\\simeq(64.67$--$65.86)\\pm(4.45$--$4.85)~{\\rm km\\,s^{-1}\\,Mpc^{-1}}$. The resulting $H_0$ remains within $\\sim0.32$--$0.61\\,σ$ of the \\textit{Planck} $Λ$CDM value, while the separation from representative local distance-ladder measurements increases to $\\sim1.45$--$1.83\\,σ$. A scan over $σ_{-1}$ shows that the shift is governed by the effective pseudo-point weight, interpolating between the hard-condition and data-dominated limits. Finally, constant-$w$CDM Markov Chain Monte Carlo (MCMC) fits to the same $H(z)$ data with $H_0$ fixed to the GP-inferred values show that $Ω_m$ is only weakly affected, whereas lower $H_0$ shifts $w$ toward less negative values; allowing curvature broadens constraints and remains consistent with $Ω_k=0$.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2019-05-31T06:11:21+00:00",
+      "updated": "2026-06-11T02:07:29+00:00",
+      "pdf_url": "https://arxiv.org/pdf/1905.13431v4",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/1905.13431v4"
+    }
+  ],
+  "total": 1
+}

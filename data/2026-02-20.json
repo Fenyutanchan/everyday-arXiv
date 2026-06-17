@@ -1,0 +1,268 @@
+{
+  "date": "2026-02-20",
+  "papers": [
+    {
+      "arxiv_id": "2602.18061v2",
+      "base_id": "2602.18061",
+      "title": "Signs of universality in the behavior of elastic $\\textit{pp}$ scattering cross-sections at high energies",
+      "authors": [
+        "A. P. Samokhin"
+      ],
+      "abstract": "We give a phenomenological analysis of the behavior of inelastic, elastic and total cross-sections of the high energy $\\textit{pp}$ interaction. In particular, we argue that the universal picture of behavior of cross-sections and their ratios is a consequence of the rapid increase of inelastic cross-section with energy and its large value compared to $σ_{\\mathrm{el} }(s)$. We observed that the value of the fundamental ratio $(m_{π^{\\mathrm{0}}}/m_{p}) $, the minimum value of the ratio $ (σ_{\\mathrm{el}}/σ_{\\mathrm{tot}})$, and some other quantities are determined by the roots of the equation $ (9\\,x^{2}+4\\,\\sqrt{2}\\,x-1)=0 $.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-02-20T08:30:56+00:00",
+      "updated": "2026-04-15T09:14:30+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.18061v2",
+      "html_url": "https://arxiv.org/html/2602.18061v2",
+      "entry_url": "http://arxiv.org/abs/2602.18061v2"
+    },
+    {
+      "arxiv_id": "2602.18075v2",
+      "base_id": "2602.18075",
+      "title": "Hidden-charm $uds\\,c\\bar c$ pentaquarks as flavor eigenstates in a constituent quark model",
+      "authors": [
+        "M. C. Gordillo",
+        "J. M. Alcaraz-Pelegrina",
+        "J. Segovia"
+      ],
+      "abstract": "We use a diffusion Monte Carlo (DMC) algorithm to solve the Schrödinger equation that describes $udsc\\bar c$ pentaquarks within the framework of a non-relativistic constituent quark model. We considered only multiquark states with defined values of parity, color, spin and isospin, selected to be compatible with the experimentally favored assignment $J^P=1/2^-$ for one of the candidates, and assumed $I=0$. However, we found that, to explain the existence of the $P_{cs}(4338)$ and $P_{cs}(4459)$ pentaquarks, we need the total wavefunction to be also an eigenvector of the SU(3) {\\em flavor} operator. When we impose that condition, we obtain two structures compatible with the masses extracted from the $J/ψΛ$ spectrum. In addition, two states are predicted below the $J/ψΛ$ threshold but above the $η_cΛ$ one that would not appear in that channel. If we only impose the $I=0$ condition, we obtain a {\\em single} (not two) structure compatible with the experimental quantum numbers, with a mass below the $J/ψΛ$ threshold.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-02-20T08:59:11+00:00",
+      "updated": "2026-04-22T10:23:29+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.18075v2",
+      "html_url": "https://arxiv.org/html/2602.18075v2",
+      "entry_url": "http://arxiv.org/abs/2602.18075v2"
+    },
+    {
+      "arxiv_id": "2602.18023v4",
+      "base_id": "2602.18023",
+      "title": "Observer-robust energy condition verification for warp drive spacetimes",
+      "authors": [
+        "An T. Le"
+      ],
+      "abstract": "We present \\texttt{warpax}, a JAX-based toolkit that certifies the energy condition structure of warp drive spacetimes for all observers, in a frame-independent way, from the eigenstructure of the mixed stress-energy tensor $T^a{}_b$. At a Hawking--Ellis Type~I point, an eigenvalue inequality decides each energy condition exactly and for every observer. A Type~IV point has no rest frame and violates all of them unconditionally. Because the eigenvalues are boost invariants and no Eulerian normal is ever constructed, the test is well defined at all warp speeds, including $v_s \\ge 1$. Across the warp drive family, this yields a clean dichotomy through the luminal transition: the irrotational Rodal geometry is globally Type~I at every speed, while the Alcubierre, Natário, and Van~den~Broeck bubble walls are dominated by Type~IV regions. The split is controlled by the vorticity of the ADM shift, with the Type~IV imaginary eigenvalue growing linearly, $f=κω$, in a controlled limit. Single-frame analyses understate this structure. For the Rodal drive, the Eulerian frame misses about $72\\%$ of the wall weak-energy violations seen by boosted observers, a statement made analytic by a closed-form worst observer. A boost-invariant exoticity ranking places the irrotational drive roughly seventy times below the bubble-wall drives, and the wall null-energy deficit follows a universal $-C v_s^2$ law that makes the Santiago--Schuster--Visser no-go result quantitative. A geodesic-integrated averaged null energy condition and a Ford--Roman comparison preserve the ordering: every drive violates, and the Rodal geometry is the mildest.",
+      "categories": [
+        "gr-qc",
+        "cs.MS",
+        "physics.comp-ph"
+      ],
+      "published": "2026-02-20T06:37:44+00:00",
+      "updated": "2026-06-12T11:49:05+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.18023v4",
+      "html_url": "https://arxiv.org/html/2602.18023v4",
+      "entry_url": "http://arxiv.org/abs/2602.18023v4"
+    },
+    {
+      "arxiv_id": "2602.18615v2",
+      "base_id": "2602.18615",
+      "title": "Two Parameter Deformation of Embedding Class-I Compact Stars in Linear $f(Q)$ Gravity",
+      "authors": [
+        "Samstuti Chanda",
+        "Ranjan Sharma"
+      ],
+      "abstract": "Recent multi-messenger observations, including gravitational wave detections of compact objects in the neutron star-black hole mass-gap region and precise measurements of high-mass pulsars, motivate mechanisms capable of enlarging the stellar mass window without arbitrarily stiffening the equation of state (EOS) toward the causal limit. In linear $f(Q)$ gravity of the form $f(Q)=β_1 Q+β_2$, the theory is dynamically equivalent to General Relativity at the geometric level and modifies stellar structure solely through a uniform rescaling of the matter sector governed by $β_1$. Consequently, linear $f(Q)$ alone does not introduce new geometric families of stellar solutions or alter classical compactness bounds. To overcome this structural limitation, we incorporate gravitational decoupling within an embedding class-I (Karmarkar) Vaidya-Tikekar configuration in linear $f(Q)$ gravity. While similar VT-based decoupling constructions exist in GR, the present framework introduces a controlled two-parameter deformation characterized by $(ε,β_1)$: the decoupling parameter $ε$ governs geometric deformation and EOS stiffness, whereas $β_1$ independently rescales the matter sector without altering the metric structure. This separation permits a direct comparison between GR and linear $f(Q)$ gravity at fixed geometric deformation, thereby isolating pure coupling-driven mass enhancement. We determine the admissible parameter domain from regularity, matching, causality and compactness requirements and derive an analytic compactness bound for the decoupled embedding class-I configuration. The combined action of $ε$ and $β_1$ enlarges the accessible stellar mass window while preserving physical acceptability, allowing configurations compatible with recent high-mass pulsars and mass-gap candidates without exceeding causal limits.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2026-02-20T21:09:23+00:00",
+      "updated": "2026-04-26T06:38:49+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.18615v2",
+      "html_url": "https://arxiv.org/html/2602.18615v2",
+      "entry_url": "http://arxiv.org/abs/2602.18615v2"
+    },
+    {
+      "arxiv_id": "2602.18378v4",
+      "base_id": "2602.18378",
+      "title": "On the simulated kinematic distributions of heavy meson decays",
+      "authors": [
+        "Florian Herren",
+        "Raynette van Tonder"
+      ],
+      "abstract": "Modern measurements in flavour physics rely on accurate simulations of signal and background processes, provided by a wide range of general-purpose and specialised Monte-Carlo event generators. Due to the inclusion of a larger amount of specialised decays of heavy hadrons, EvtGen is often the tool of choice for many scenarios. We investigate the phase-space sampling algorithm of EvtGen and demonstrate that it generates unphysical features in kinematic distributions of semileptonic $B$ decays involving resonances, originating from neglected phase-space factors. We provide a short-term solution to correct the affected simulated samples through reweighting of the hadronic invariant mass distribution.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2026-02-20T17:34:57+00:00",
+      "updated": "2026-04-28T16:56:08+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.18378v4",
+      "html_url": "https://arxiv.org/html/2602.18378v4",
+      "entry_url": "http://arxiv.org/abs/2602.18378v4"
+    },
+    {
+      "arxiv_id": "2602.18225v2",
+      "base_id": "2602.18225",
+      "title": "Constraints on Anomalous Quartic Gauge Couplings via $γγ$ and $Zγ$ Vector Boson Scattering at Muon Colliders",
+      "authors": [
+        "M. Tekin",
+        "A. Senol",
+        "H. Denizli"
+      ],
+      "abstract": "In the Standard Model, the couplings between gauge bosons are tightly constrained by the principles of gauge symmetry and renormalizability. However, the presence of anomalous couplings suggests the possibility of new physics beyond the Standard Model (BSM). In this study, we focus on the sensitivities of anomalous quartic gauge couplings (aQGCs), specially the dimension-8 operators associated with field-strength tensor structures within the effective field theory (EFT) framework, at future Muon Colliders. Our analysis targets the neutral aQGC-sensitive processes $μ^{+}μ^{-} \\to μ^+ γγμ^-$ and $μ^{+} μ^{-} \\to μ^+ Z γμ^-$, simulated at center-of-mass energies of 3 TeV and 10 TeV. Signal and background events are generated using {\\sc MadGraph5\\_aMC@NLO}, interfaced with Pythia8 for parton showering and hadronization, and Delphes for fast detector simulation. A multivariate analysis based on Boosted Decision Trees (BDTs) is employed to enhance signal-to-background discrimination, utilizing a comprehensive set of kinematic and reconstructed observables from the final-state particles. Unitarity is preserved through the application of an energy-dependent clipping procedure within the EFT validity regime. Our findings indicate that future muon colliders offer significant sensitivity improvements over current experimental constraints on aQGCs. Furthermore, a comparison with other future collider scenarios shows that the 10 TeV Muon Collider, even with a 10\\% systematic uncertainty, provides substantially stronger projected limits at 95\\% confidence level than those currently reported by the ATLAS collaboration at the LHC as well as projected limits by future hadron colliders. These results underscore the enhanced potential of high-energy muon collider to probe new physics in the electroweak sector through precision measurements of aQGCs.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2026-02-20T14:04:57+00:00",
+      "updated": "2026-05-12T09:36:06+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.18225v2",
+      "html_url": "https://arxiv.org/html/2602.18225v2",
+      "entry_url": "http://arxiv.org/abs/2602.18225v2"
+    },
+    {
+      "arxiv_id": "2602.18560v2",
+      "base_id": "2602.18560",
+      "title": "Inferring the population properties of galactic binaries from LISA's stochastic foreground",
+      "authors": [
+        "Federico De Santi",
+        "Alessandro Santini",
+        "Alexandre Toubiana",
+        "Nikolaos Karnesis",
+        "Davide Gerosa"
+      ],
+      "abstract": "Galactic binaries are expected to be the most numerous LISA sources and to produce a stochastic gravitational-wave foreground whose spectral shape encodes information about the underlying population. Extracting this information with standard hierarchical methods is challenging due to the high dimensionality of the problem and the computational cost of global-fit analyses. We present a simulation-based inference framework to measure the population properties of galactic binaries directly from the reconstructed foreground. Adopting an astrophysically agnostic parametrization in the observable space -- defined by signal amplitude, frequency, and frequency derivative -- we generate synthetic catalogs and foreground spectra using a global-fit-inspired subtraction algorithm. We then train a neural posterior estimator to map spectra to population parameters. We validate our method on simulated data and recover population parameters with good accuracy, including the total number of binaries. As a by-product, we present a GPU-accelerated version of the subtraction algorithm, which delivers a ~100X speed-up compared to previous implementations in the literature. Our results demonstrate that LISA's stochastic foreground alone carries significant information about the Galactic binary population and provide a practical step toward joint inference from resolved and unresolved sources.",
+      "categories": [
+        "astro-ph.HE",
+        "astro-ph.IM",
+        "gr-qc"
+      ],
+      "published": "2026-02-20T19:00:07+00:00",
+      "updated": "2026-05-11T13:50:44+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.18560v2",
+      "html_url": "https://arxiv.org/html/2602.18560v2",
+      "entry_url": "http://arxiv.org/abs/2602.18560v2"
+    },
+    {
+      "arxiv_id": "2602.18115v2",
+      "base_id": "2602.18115",
+      "title": "The Emergence of Measured Geometry in Self-Gravitating Systems",
+      "authors": [
+        "Maria I. R. Lourenço",
+        "Julian Barbour",
+        "Francisco S. N. Lobo"
+      ],
+      "abstract": "This work investigates the geometrical properties of self-gravitating $N$-body systems from the perspective established by Henri Poincaré and Albert Einstein concerning the operational nature of measured geometry. Utilizing recent numerical analyses of central configurations--special equilibrium solutions to the Newtonian $N$-body problem--we uncover systematic spatial variations in nearest-neighbor particle separations correlated with the radial distance from the system's center of mass. We argue that these variations reflect a context-dependent, emergent effective geometry shaped by gravitational interactions, in accordance with Poincaré's assertion that measured geometry depends on the forces influencing measuring devices, and Einstein's view that rods and clocks define physical geometry through their local dynamics. By revisiting these foundational insights within a modern computational framework, we provide evidence that geometry in self-gravitating Newtonian systems is not a fixed background, but an emergent construct arising from internal physical interactions.",
+      "categories": [
+        "gr-qc",
+        "physics.hist-ph"
+      ],
+      "published": "2026-02-20T10:07:42+00:00",
+      "updated": "2026-05-13T20:20:16+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.18115v2",
+      "html_url": "https://arxiv.org/html/2602.18115v2",
+      "entry_url": "http://arxiv.org/abs/2602.18115v2"
+    },
+    {
+      "arxiv_id": "2602.18392v2",
+      "base_id": "2602.18392",
+      "title": "RadioAxion results on the search for axion dark matter under Gran Sasso",
+      "authors": [
+        "Carlo Broggini",
+        "Giuseppe Di Carlo",
+        "Luca Di Luzio",
+        "Denise Piatti",
+        "Claudio Toni"
+      ],
+      "abstract": "We report first results from RadioAxion, an underground experiment searching for axion dark matter through periodic modulations of radioisotope decays. We monitor the $α$ decay of ${^{241}}$Am via its $59.5$ keV $γ$ line using a NaI detector installed at the Gran Sasso Laboratory, where cosmic-ray-induced systematics are strongly suppressed. We present the measured spectra and the corresponding time-series analysis. No evidence for a periodic modulation is observed. From these data we derive constraints on the axion decay constant in the axion mass range from $10^{-21}$ to $10^{-9}$ eV.",
+      "categories": [
+        "hep-ex",
+        "hep-ph",
+        "nucl-ex"
+      ],
+      "published": "2026-02-20T17:57:15+00:00",
+      "updated": "2026-05-22T12:43:26+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.18392v2",
+      "html_url": "https://arxiv.org/html/2602.18392v2",
+      "entry_url": "http://arxiv.org/abs/2602.18392v2"
+    },
+    {
+      "arxiv_id": "2602.18070v2",
+      "base_id": "2602.18070",
+      "title": "Moduli-dependent one-loop entropy of hyperbolic BPS black hole in AdS$_4$",
+      "authors": [
+        "Imtak Jeon",
+        "Alokananda Kar",
+        "Binata Panda",
+        "Anowar Shaikh"
+      ],
+      "abstract": "We study one-loop logarithmic corrections to the entropy of static hyperbolic BPS black holes in asymptotically AdS$_4$ spacetime. Our analysis is carried out in a consistent real-scalar truncation of ${\\cal N}=2$ Fayet-Iliopoulos gauged supergravity specified by the prepotential $F=-i X^0 X^1$, which corresponds to an Einstein-Dilaton-Maxwell theory with a nontrivial scalar potential. In this model, the classical BPS attractor mechanism exhibits flat directions, leaving scalar moduli on the black hole horizon unfixed, while the Bekenstein-Hawking entropy depends only on the charges. We show that the resulting one-loop correction to the black hole entropy acquires a nontrivial dependence on the horizon moduli and induces an effective quantum potential that dynamically stabilizes them at a preferred value. Our results provide an explicit and concrete realization of quantum lifting of classical attractor flat directions in gauged supergravity.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2026-02-20T08:53:49+00:00",
+      "updated": "2026-05-28T14:15:58+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.18070v2",
+      "html_url": "https://arxiv.org/html/2602.18070v2",
+      "entry_url": "http://arxiv.org/abs/2602.18070v2"
+    },
+    {
+      "arxiv_id": "2602.18557v3",
+      "base_id": "2602.18557",
+      "title": "Strong coupling structure of $\\mathcal{N}=4$ SYM observables with matrix Bessel kernel",
+      "authors": [
+        "Bercel Boldis"
+      ],
+      "abstract": "In this paper I continue the program of studying the strong coupling expansion of certain observables in $\\mathcal{N}=4$ supersymmetric Yang-Mills theory, which are given by a determinant with a matrix Bessel kernel. I show that, by reorganizing the transseries of the determinant at large values of the 't Hooft coupling, a simple underlying structure emerges, in which each exponentially suppressed correction is related to the perturbative series in a simple way. This new approach provides an efficient method to generate the full transseries for $\\mathcal{N}=4$ SYM observables, such as the cusp anomalous dimension, multi-gluon scattering amplitudes, and the octagon form factor. Using high-precision numerical analysis, I verify the results and provide a complete description of the resurgence structure of the strong coupling expansion.",
+      "categories": [
+        "hep-th",
+        "math-ph"
+      ],
+      "published": "2026-02-20T19:00:01+00:00",
+      "updated": "2026-05-27T18:05:23+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.18557v3",
+      "html_url": "https://arxiv.org/html/2602.18557v3",
+      "entry_url": "http://arxiv.org/abs/2602.18557v3"
+    },
+    {
+      "arxiv_id": "2602.17989v2",
+      "base_id": "2602.17989",
+      "title": "Renormalized pseudoentropy in dS/CFT",
+      "authors": [
+        "Giorgos Anastasiou",
+        "Ignacio J. Araya",
+        "Avijit Das",
+        "Javier Moreno"
+      ],
+      "abstract": "We study holographic pseudoentropy for subregions in non-unitary Euclidean conformal field theories (CFTs) within the framework of the de Sitter/conformal field theory (dS/CFT) correspondence. Pseudoentropy, defined as the von Neumann entropy of a transition matrix, is computed holographically from codimension-two extremal surfaces in dS space and is divergent due to the asymptotic bulk volume at future infinity. We show that a finite and regulator-independent definition follows from the on-shell action of conformal gravity in four and six dimensions, implemented through the replica construction. We illustrate the formalism for spherical entangling surfaces and small shape deformations thereof. The renormalized pseudoentropy isolates the universal contribution, which for a spherical entangling surface is proportional to the complex-valued central charge $a^\\star$ of the non-unitary CFT. On an equal footing, for infinitesimal deformations away from the sphere, we recover, at quadratic order in the deformation parameter, an analytic continuation of the Mezei-like formula in its anti-de Sitter counterpart.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2026-02-20T04:52:04+00:00",
+      "updated": "2026-05-27T00:30:26+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.17989v2",
+      "html_url": "https://arxiv.org/html/2602.17989v2",
+      "entry_url": "http://arxiv.org/abs/2602.17989v2"
+    },
+    {
+      "arxiv_id": "2602.18080v3",
+      "base_id": "2602.18080",
+      "title": "Observation of Robust and Coherent Non-Abelian Hadron Dynamics on Noisy Quantum Processors",
+      "authors": [
+        "Fran Ilčić",
+        "Ritajit Majumdar",
+        "Emil Mathew",
+        "Md. Osama Ali",
+        "Nathan Earnest-Noble",
+        "Indrakshi Raychowdhury"
+      ],
+      "abstract": "The real-time evolution of strongly interacting matter remains a frontier of fundamental physics, as classical simulations are hampered by exponential Hilbert space growth and rapid, unmanageable growth of quantum entanglement. This study reports the quantum simulation of hadron dynamics within a $(1+1)$-dimensional SU(2) lattice gauge theory using a 156-qubit IBM superconducting processor. Leveraging a hardware-efficient Loop-String-Hadron (LSH) encoding, we simulate the dynamics of the physical degrees of freedom on a $60$-site lattice in the weak-coupling regime, as a crucial step toward the continuum limit. The hardware data reveal confined meson propagation and early-time oscillations of the mesonic profile, from which we extract a breathing-mode frequency as a spectroscopic observable. Benchmarking against tensor-network simulations of the full LSH Hamiltonian and Pauli-propagation simulations of the noiseless circuit supports the validity of the physical approximation, the quantum algorithm and the observed dynamics within the accessible time window. These results show that physics-native encodings can enable scalable access to coherent non-Abelian real-time dynamics on noisy quantum hardware.",
+      "categories": [
+        "hep-lat",
+        "cond-mat.str-el",
+        "hep-th",
+        "nucl-th",
+        "quant-ph"
+      ],
+      "published": "2026-02-20T09:09:55+00:00",
+      "updated": "2026-05-29T15:49:53+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.18080v3",
+      "html_url": "https://arxiv.org/html/2602.18080v3",
+      "entry_url": "http://arxiv.org/abs/2602.18080v3"
+    }
+  ],
+  "total": 13
+}

@@ -1,0 +1,51 @@
+{
+  "date": "2024-11-27",
+  "papers": [
+    {
+      "arxiv_id": "2412.03588v3",
+      "base_id": "2412.03588",
+      "title": "Spectral Networks: Bridging higher-rank Teichmüller theory and BPS states",
+      "authors": [
+        "Clarence Kineider",
+        "Georgios Kydonakis",
+        "Eugen Rogozinnikov",
+        "Valdo Tatitscheff",
+        "Alexander Thomas"
+      ],
+      "abstract": "This book offers a comprehensive introduction to spectral networks from a unified viewpoint that bridges geometry with the physics of supersymmetric gauge theories. It provides the foundational background needed to approach the frontiers of this rapidly evolving field, treating geometric and physical aspects in parallel. After surveying fundamental topics in algebra and geometry, a detailed introduction to higher-rank Teichmüller theory is developed, including Fock-Goncharov theory for Hitchin representations, maximal representations and the more recent notion of $Θ$-positivity. Spectral networks are subsequently introduced, emphasizing their utility in the study of character varieties via the abelianization and non-abelianization maps they define. In parallel, key aspects of four-dimensional gauge dynamics with eight supercharges are explored, including electric-magnetic duality, Seiberg-Witten theory, and class $\\mathcal S$ theories. The role of spectral networks as a framework for determining and analyzing BPS spectra in class $\\mathcal S$ theories is then examined. The final chapter outlines recent applications of spectral networks across a range of contemporary research areas. This volume is intended for researchers and advanced students in either mathematics or physics who wish to enter the field.",
+      "categories": [
+        "math-ph",
+        "hep-th",
+        "math.DG",
+        "math.GT"
+      ],
+      "published": "2024-11-27T10:11:29+00:00",
+      "updated": "2026-05-07T12:31:24+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2412.03588v3",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2412.03588v3"
+    },
+    {
+      "arxiv_id": "2411.18685v5",
+      "base_id": "2411.18685",
+      "title": "All 4 x 4 solutions of the quantum Yang-Baxter equation",
+      "authors": [
+        "Marius de Leeuw",
+        "Vera Posch"
+      ],
+      "abstract": "In this paper, we complete the classification of 4 x 4 solutions of the Yang-Baxter equation. Regular solutions were recently classified and in this paper we find the remaining non-regular solutions. We present several new solutions, then consider regular and non-regular Lax operators and study their relation to the quantum Yang-Baxter equation. We show that for regular solutions there is a correspondence, which is lost in the non-regular case. In particular, we find non-regular Lax operators whose R-matrix from the fundamental commutation relations is regular but does not satisfy the Yang-Baxter equation. These R-matrices satisfy a modified Yang-Baxter equation instead.",
+      "categories": [
+        "math-ph",
+        "cond-mat.stat-mech",
+        "hep-th",
+        "nlin.SI"
+      ],
+      "published": "2024-11-27T19:00:01+00:00",
+      "updated": "2026-05-06T13:47:41+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2411.18685v5",
+      "html_url": "https://arxiv.org/html/2411.18685v5",
+      "entry_url": "http://arxiv.org/abs/2411.18685v5"
+    }
+  ],
+  "total": 2
+}

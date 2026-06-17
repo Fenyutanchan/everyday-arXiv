@@ -1,0 +1,45 @@
+{
+  "date": "2024-11-22",
+  "papers": [
+    {
+      "arxiv_id": "2411.14748v2",
+      "base_id": "2411.14748",
+      "title": "Cosmological Analysis with Calibrated Neural Quantile Estimation and Approximate Simulators",
+      "authors": [
+        "He Jia"
+      ],
+      "abstract": "A major challenge in extracting information from current and upcoming surveys of cosmological Large-Scale Structure (LSS) is the limited availability of computationally expensive high-fidelity simulations. We introduce calibrated Neural Quantile Estimation (NQE), a new Simulation-Based Inference (SBI) method that leverages a large number of approximate simulations for training and a small number of high-fidelity simulations for calibration. This approach guarantees an unbiased posterior regardless of approximate simulation accuracy, while achieving near-optimal constraining power when the approximate simulations are reasonably accurate. As a proof of concept, we demonstrate that cosmological parameters can be inferred at field level from projected 2-dim dark matter density maps up to $k_{\\rm max}\\sim1.5\\,h$/Mpc at $z=0$ by training on $\\sim10^4$ Particle-Mesh (PM) simulations with transfer function correction and calibrating with $\\sim10^2$ Particle-Particle (PP) simulations. The calibrated posteriors closely match those obtained by directly training on $\\sim10^4$ expensive PP simulations, but at a fraction of the computational cost. Our method offers a practical and scalable framework for SBI of cosmological LSS, enabling precise inference across vast volumes and down to small scales.",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.IM",
+        "cs.LG"
+      ],
+      "published": "2024-11-22T05:53:46+00:00",
+      "updated": "2026-04-22T18:02:29+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2411.14748v2",
+      "html_url": "https://arxiv.org/html/2411.14748v2",
+      "entry_url": "http://arxiv.org/abs/2411.14748v2"
+    },
+    {
+      "arxiv_id": "2411.15112v3",
+      "base_id": "2411.15112",
+      "title": "On the effective spin-mass ratio relation of binary black hole mergers that evolved in isolation",
+      "authors": [
+        "Sambaran Banerjee",
+        "Aleksandra Olejak"
+      ],
+      "abstract": "The ground-based measurement of gravitational waves (GW) from merging binary black holes (BBH) allows independent determination of spins of stellar-remnant black holes (BH). The observed population of BBH mergers exhibits two intriguing peculiarities related to BH spins, namely, a positively biased distribution of the effective spin parameter, $χ_{\\rm eff}$, and an apparent anti-correlation between merger mass ratio, $q$, and $χ_{\\rm eff}$. Here we investigate the potential mechanisms for such observed properties, in BBH mergers via isolated binary evolution. We synthesise BBH mergers with the fast binary evolution code BSE. The role of various physical assumptions is explored, including tidal spin-up, compact remnant mass, and mass transfer physics. We compare the properties of BBHs that form through stable mass transfer (SMT) and common envelope evolution (CE). We find that both the asymmetry in the $χ_{\\rm eff}$ distribution and the $χ_{\\rm eff}$ anti-correlation can be natural outcomes of isolated-binary BBH formation. The anti-correlation is especially pronounced for SMT-channel BBH mergers that experience a mass-ratio reversal, i.e., those where the second-born BH is the more massive one. The anti-correlation arises from the dependence of orbital shrinking during mass transfer and the Roche lobe size on the system's mass ratio. This characteristic $χ_{\\rm eff}-q$ trend diminishes with increasing metallicity and when the isolated-binary BBH merger population is mixed with a significant contribution of dynamically formed BBH mergers or the newly formed BH's spin is misaligned relative to the parent star's spin. Our results demonstrate that isolated massive binary evolution via the SMT sub-channel can reproduce trends in the observable BBH merger population, with the characteristic signatures in mass, mass ratio, and spin distributions.",
+      "categories": [
+        "astro-ph.HE",
+        "astro-ph.SR",
+        "gr-qc"
+      ],
+      "published": "2024-11-22T18:25:35+00:00",
+      "updated": "2026-05-29T17:41:52+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2411.15112v3",
+      "html_url": "https://arxiv.org/html/2411.15112v3",
+      "entry_url": "http://arxiv.org/abs/2411.15112v3"
+    }
+  ],
+  "total": 2
+}

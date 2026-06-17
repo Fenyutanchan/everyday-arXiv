@@ -1,0 +1,25 @@
+{
+  "date": "2023-09-06",
+  "papers": [
+    {
+      "arxiv_id": "2309.02946v5",
+      "base_id": "2309.02946",
+      "title": "Numerical stability of the Hyperbolic Formulation of the Constraint equations for $\\mathbb{T}^3$ cosmological space-times",
+      "authors": [
+        "Alejandro Estrada-Llesta",
+        "Cristhian Martinez-Duarte",
+        "Leon Escobar-Diaz"
+      ],
+      "abstract": "In this work, we study of the algebraic-hyperbolic formulation of the Einstein constraint equations for numerically constructing initial data sets for inhomogeneous cosmological space-times with $\\mathbb{T}^3$ topology. We implement a pseudo-spectral method of lines based on the discrete Fourier transform and find that the scheme exhibits pathological instabilities. Through linear stability analysis, we prove that the instabilities are unavoidable for any space-time sufficiently close to FLRW while we find that this approach can be stable for Gowdy space-times depending on the initial time choice. Additionally, we present numerical evidence that certain subclasses of the algebraic-hyperbolic formulation, when combined with a Fourier-based method of lines, are numerically stable, thus offering a potential new path for computing initial data sets for inhomogeneous cosmological space-times.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2023-09-06T12:25:40+00:00",
+      "updated": "2026-04-15T10:37:40+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2309.02946v5",
+      "html_url": "https://arxiv.org/html/2309.02946v5",
+      "entry_url": "http://arxiv.org/abs/2309.02946v5"
+    }
+  ],
+  "total": 1
+}

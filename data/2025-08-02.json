@@ -1,0 +1,23 @@
+{
+  "date": "2025-08-02",
+  "papers": [
+    {
+      "arxiv_id": "2508.01123v5",
+      "base_id": "2508.01123",
+      "title": "Detection of Dark Matter Axions via the Quantum Hall Effect in a Resonant Cavity",
+      "authors": [
+        "Aiichi Iwazaki"
+      ],
+      "abstract": "We propose a new method for detecting dark matter axions using a resonant cavity coupled with a quantum Hall system. When a small sample exhibiting quantum Hall effect is placed inside the cavity and the cavity is tuned to resonance, two-dimensional electrons absorb the amplified radiation, leading to a rise in the sample's temperature. By monitoring this temperature increase, the mass $m_a$ of the axion can be inferred. As an example, consider a GaAs sample with surface area $S=0.01\\text{cm}^2$ and small thickness $d = 1\\,μ\\mathrm{m}$ and its heat capacity $C_s$ at temperature $T = 20\\,\\mathrm{mK}$. Because the energy flux of the incoming radiation is $P_{ra}\\sim 5.9\\times10^{-20}\\text{W}\\,(S/0.01\\text{cm}^2)\\,(g_{aγγ}/10^{-14}\\text{GeV}^{-1})^2\\,(σ/10^7\\text{eV})\\, (10^{-5}\\mbox{eV}/m_a)^3(B/15\\text{T})^2 (ρ_d/0.3\\rm GeV cm^{-3})$ at the resonance with electrical conductivity $σ$ of the cavity wall, the temperature increase is $P_{ra}t_{ob}/C_s \\simeq 4.8\\mbox{mK}(t_{ob}/1\\text{s})(g_{aγγ}/10^{-14}\\text{GeV}^{-1})^2(20\\mbox{mK}/T)^3 (10^{-5}\\mbox{eV}/m_a)^3(σ/10^7\\text{eV})(1μ\\text{m}/d) (B/15\\text{T})^2$ with $1\\text{T}=10^4$ Gauss where $t_{ob}=1$s is the observation time. It must be smaller than a time constant $τ>1$s associated with the heat dissipation into thermal bath. Such a large time constant can be realized using superconducting nanowire lead and thin film pedestal supporting the sample dilution refrigerator. The temperature increase $ΔT\\sim 5$mK is detectable using quantum point contact thermometer.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-08-02T00:25:51+00:00",
+      "updated": "2026-04-23T07:25:15+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.01123v5",
+      "html_url": "https://arxiv.org/html/2508.01123v5",
+      "entry_url": "http://arxiv.org/abs/2508.01123v5"
+    }
+  ],
+  "total": 1
+}

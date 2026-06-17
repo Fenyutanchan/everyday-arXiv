@@ -1,0 +1,64 @@
+{
+  "date": "2024-10-03",
+  "papers": [
+    {
+      "arxiv_id": "2410.02620v2",
+      "base_id": "2410.02620",
+      "title": "Comments on Celestial CFT and $AdS_{3}$ String Theory",
+      "authors": [
+        "Igor Mol"
+      ],
+      "abstract": "In a recent work, Ogawa et al. (2024) proposed a model for celestial conformal field theory (CFT) based on the $H_{3}^{+}$-Wess-Zumino-Novikov-Witten (WZNW) model. In this paper, we extend the model advanced by Ogawa et al. (2024), demonstrating how it can holographically generate tree-level MHV scattering amplitudes for both gluons and gravitons when analytically continued to the ultra-hyperbolic Klein space $\\mathbf{R}_{2}^{2}$, thereby offering an alternative to celestial Liouville theory. We construct a holographic dictionary in which vertex operators and conformal primaries in celestial CFT are derived from their worldsheet counterparts in Euclidean $AdS_{3}$ (bosonic) string theory. Within this dictionary, we derive the celestial stress-energy tensor, compute the two- and three-point functions, and determine the celestial operator product expansion (OPE). Additionally, we derive a system of partial differential equations that characterises the celestial amplitudes of our model, utilising the Knizhnik--Zamolodchikov (KZ) equations and worldsheet Ward identities. In the Appendix, we provide a concise introduction to the $H_{3}^{+}$-WZNW model, with emphasis on its connection to Euclidean $AdS_{3}$ string theory.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2024-10-03T15:59:26+00:00",
+      "updated": "2026-05-13T17:18:45+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2410.02620v2",
+      "html_url": "https://arxiv.org/html/2410.02620v2",
+      "entry_url": "http://arxiv.org/abs/2410.02620v2"
+    },
+    {
+      "arxiv_id": "2410.02648v2",
+      "base_id": "2410.02648",
+      "title": "Convergence and operadic compatibility of bulk and boundary OPEs in two-dimensional conformal field theory",
+      "authors": [
+        "Yuto Moriwaki"
+      ],
+      "abstract": "We prove convergence and compatibility of iterated bulk and boundary operator product expansions (OPEs) in two-dimensional conformal field theory with locally $C_1$-cofinite chiral symmetry. For each tree, we give an explicit domain of convergence for the corresponding iterated OPE. These local expansions glue to single-valued real analytic functions on the configuration spaces, which are the correlation functions of the theory. The proof uses an action of the parenthesized permutation-braid operad on $C_1$-cofinite module categories of a vertex operator algebra. This operad models the fundamental groupoid of the two-dimensional Swiss-cheese operad, and under this action the operadic generators correspond to the genus-zero bootstrap equations of boundary CFT.",
+      "categories": [
+        "math.QA",
+        "hep-th",
+        "math-ph"
+      ],
+      "published": "2024-10-03T16:33:41+00:00",
+      "updated": "2026-05-26T11:07:59+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2410.02648v2",
+      "html_url": "https://arxiv.org/html/2410.02648v2",
+      "entry_url": "http://arxiv.org/abs/2410.02648v2"
+    },
+    {
+      "arxiv_id": "2410.02663v4",
+      "base_id": "2410.02663",
+      "title": "The three phases of self-gravitating scalar field ground states",
+      "authors": [
+        "Anthony E. Mirasola",
+        "Nathan Musoke",
+        "Mark C. Neyrinck",
+        "Chanda Prescod-Weinstein",
+        "J. Luna Zagorac"
+      ],
+      "abstract": "It is generally assumed that scalar field dark matter halos would contain solitonic cores -- spherically symmetric ground state configurations -- at their centers. This is especially interesting in the case of ultralight dark matter (ULDM), where the solitons sizes are on the order of galaxies. In this work, we show that the paradigm of a spherically symmetric soliton embedded in the center of each halo is not universally valid in a scenario with multiple interacting scalar fields. In particular, sufficiently strong repulsive interspecies interactions make the fields immiscible. In such models, the ground state configuration can fall into a number of different phases that depend on the fields' relative densities, masses, and interaction strengths. This raises the possibility that the inner regions of ULDM halos are more complex and diverse than previously assumed.",
+      "categories": [
+        "astro-ph.CO",
+        "hep-ph"
+      ],
+      "published": "2024-10-03T16:49:33+00:00",
+      "updated": "2026-06-04T14:49:39+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2410.02663v4",
+      "html_url": "https://arxiv.org/html/2410.02663v4",
+      "entry_url": "http://arxiv.org/abs/2410.02663v4"
+    }
+  ],
+  "total": 3
+}

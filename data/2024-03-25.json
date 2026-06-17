@@ -1,0 +1,25 @@
+{
+  "date": "2024-03-25",
+  "papers": [
+    {
+      "arxiv_id": "2403.16661v2",
+      "base_id": "2403.16661",
+      "title": "Dynamics of Cayley Forms",
+      "authors": [
+        "Kirill Krasnov"
+      ],
+      "abstract": "The most natural first-order PDEs to be imposed on a Cayley 4-form in eight dimensions is the condition that it is closed. In this work, we investigate the natural second-order conditions. We start at the linearised level, and construct the most general diffeomorphism-invariant second order in derivatives Lagrangian that is quadratic in the perturbations of the Cayley form, finding a two-parameter family. We then describe a non-linear completion of the linear story. We parametrise the intrinsic torsion of a Spin(7)-structure by a 3-form, and show that this 3-form is completely determined by the exterior derivative of the Cayley form. The space of 3-forms splits into two Spin(7) irreducible components, and so there is a two-parameter family of diffeomorphism-invariant Lagrangians that are quadratic in the torsion, matching the linearised story. We then describe a first-order in derivatives version of the action functional, which depends on the Cayley 4-form and auxiliary 3-form as independent variables. Our construction yields two distinguished natural Lagrangians. One of them is selected by the condition that the Euler-Lagrange equation for the auxiliary 3-form requires it to coincide with the torsion 3-form, leading to a canonical torsion-squared functional whose field equations we analyse. In the second, a specific linear combination of the two torsion-squared invariants is shown to integrate to the scalar curvature, and the resulting Euler-Lagrange equations are precisely the Einstein equations for the associated metric. For all theories in the considered class, the field equations are expressed entirely in terms of the exterior derivative, without explicit reference to the Levi-Civita connection.",
+      "categories": [
+        "math.DG",
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2024-03-25T11:54:35+00:00",
+      "updated": "2026-05-13T08:43:40+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2403.16661v2",
+      "html_url": "https://arxiv.org/html/2403.16661v2",
+      "entry_url": "http://arxiv.org/abs/2403.16661v2"
+    }
+  ],
+  "total": 1
+}

@@ -1,0 +1,252 @@
+{
+  "date": "2025-11-24",
+  "papers": [
+    {
+      "arxiv_id": "2511.19600v2",
+      "base_id": "2511.19600",
+      "title": "Towards Reconciling Reionization with JWST: The Role of Bright Galaxies and Strong Feedback",
+      "authors": [
+        "Ankita Bera",
+        "Sultan Hassan",
+        "Robert Feldmann",
+        "Romeel Davé",
+        "Kristian Finlator"
+      ],
+      "abstract": "The elevated UV luminosity functions (UVLF) from recent James Webb Space Telescope (JWST) have challenged the viability of existing theoretical models. To address this, we use a semi-analytical framework -- which couples a physically motivated source model derived from radiative-transfer hydrodynamic simulations of reionization with a Markov Chain Monte Carlo sampler -- to perform a joint calibration to JWST galaxy surveys (UVLF, $φ_{\\rm UV}$ and UV luminosity density, $ρ_{\\rm UV}$) and reionization-era observables (ionizing emissivity, $\\dot{N}_{\\rm ion}$, neutral hydrogen fraction, $x_{\\rm HI}$, and Thomson optical depth, $τ$). We find that models with weak feedback and a higher contribution from faint galaxies reproduce the reionization observables but struggle to match the elevated JWST UVLF at $z > 9$. In contrast, models with stronger feedback (i.e., rapid redshift evolution) and a higher contribution from bright galaxies successfully reproduce JWST UVLF at $z \\geq 10$, but over-estimate the bright end at $z < 9$. The strong-feedback model constrained by JWST UVLF predicts a more gradual and extended reionization history, as opposed to the sudden reionization seen in the weak-feedback models. This extended nature of reionization ($z\\sim 16$ - $6$) yields an optical depth consistent (at 2-$σ$) with the Cosmic Microwave Background (CMB) constraint, thereby alleviating the photon-budget crisis. In both scenarios, reionization is complete by $z \\sim 6$, consistent with current data. Our analysis highlights the importance of accurately modeling feedback and ionizing emissivities from different source populations during the first billion years after the Big Bang.",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.GA"
+      ],
+      "published": "2025-11-24T19:00:01+00:00",
+      "updated": "2026-04-17T18:00:05+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.19600v2",
+      "html_url": "https://arxiv.org/html/2511.19600v2",
+      "entry_url": "http://arxiv.org/abs/2511.19600v2"
+    },
+    {
+      "arxiv_id": "2511.19079v2",
+      "base_id": "2511.19079",
+      "title": "Analytical studies on 3D hairy rotating black hole interiors",
+      "authors": [
+        "Ling-Long Gao",
+        "Yan Liu",
+        "Rui-Long Zhao"
+      ],
+      "abstract": "We present an analytical study of the interior structure of hairy rotating black holes in three-dimensional Einstein gravity, minimally coupled to a complex scalar field with a super-exponential potential. The interior dynamics of these black holes are characterized by an infinite sequence of Kasner epochs, separated by inversion and transitions, each of which admits an analytical description. We derive an explicit analytical expression for this infinite sequence of epochs. At late interior times, the geometry evolves into a curvature singularity, despite the local resemblance of each Kasner epoch to a regular Milne universe on a circle. These results reveal an interior structure richer and more complex than that of its 4D static black hole counterparts.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2025-11-24T13:18:24+00:00",
+      "updated": "2026-04-15T12:02:38+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.19079v2",
+      "html_url": "https://arxiv.org/html/2511.19079v2",
+      "entry_url": "http://arxiv.org/abs/2511.19079v2"
+    },
+    {
+      "arxiv_id": "2511.18681v2",
+      "base_id": "2511.18681",
+      "title": "Tracing the Trace Anomaly of Dense Matter inside Neutron Stars",
+      "authors": [
+        "Shiyue Ren",
+        "Lap-Ming Lin"
+      ],
+      "abstract": "The trace anomaly $Δ$ is an important quantity that measures the broken conformal symmetry in neutron star matter. In this work, we present quasi-universal relations that connect the stellar profile of $Δ$ to the compactness, moment of inertia, and tidal deformability of neutron stars. We apply the quasi-universal relations to determine the trace anomaly profiles for PSR J0030+0451 and PSR J0740+6620 based on their mass-radius measurements. We also analyze PSR J0737-3039A according to its moment of inertia inferred from Bayesian modeling of nuclear equation of state. A recent multimessenger constraint on the tidal deformability is also studied, resulting in an estimate value of the trace anomaly $Δ_c = 0.1770^{+0.0365}_{-0.0432}$ at the center of a $1.4M_\\odot$ canonical neutron star. It is expected that more precise observations from both electromagnetic and gravitational-wave channels in the future will provide tighter constraints on the behavior of $Δ$ inside neutron stars.",
+      "categories": [
+        "astro-ph.HE",
+        "gr-qc",
+        "nucl-th"
+      ],
+      "published": "2025-11-24T01:45:25+00:00",
+      "updated": "2026-05-11T07:01:28+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.18681v2",
+      "html_url": "https://arxiv.org/html/2511.18681v2",
+      "entry_url": "http://arxiv.org/abs/2511.18681v2"
+    },
+    {
+      "arxiv_id": "2511.19626v2",
+      "base_id": "2511.19626",
+      "title": "Universal Relations with Dynamical Tides",
+      "authors": [
+        "Jayana A. Saes",
+        "Abhishek Hegade K. R.",
+        "Nicolás Yunes"
+      ],
+      "abstract": "Observations of neutron stars and the precise measurement of their macroscopic properties have provided valuable insights into fundamental physics, both by constraining the behavior of nuclear matter under extreme conditions and by enabling tests of general relativity in the strong-field regime. In this context, equation-of-state-insensitive or ``quasi-universal'' relations between key observables, such as the compactness, dimensionless static tidal deformability, and moment of inertia, play a crucial role in connecting different measurable observables while minimizing uncertainties due to the yet unknown equation-of-state. In this work, we identify new quasi-universal relations between the static, dimensionless tidal deformability ($Λ^{(0)}$) and its leading-order dynamical correction ($Λ^{(2)}$), as well as between $Λ^{(0)}$ and a combination of these parameters ($\\sqrt{ Λ^{(0)}/Λ^{(2)}}\\equiv Mω_*$), obtained from the small-frequency expansion of the relativistic tidal response. We test these relations across a representative set of 59 equations of state, finding that the equation-of-state dependence does not exceed $\\sim$5\\% for the $Λ^{(0)}$--$Λ^{(2)}$ relation and $\\sim2.8\\%$ for the $Λ^{(0)}$--$Mω_*$ relation. This indicates a high degree of universality and offers a simplified framework for incorporating dynamical tidal effects into gravitational-wave modeling. Furthermore, we compare the dynamical tidal response against different recent strategies (a Taylor expansion and a one-mode approximation) to model the dynamical tide. We find that both models are capable of capturing the frequency-dependent behavior of the dynamical tidal deformability, with the one-mode approximation agreeing better with the dynamical response than the Taylor expansion in most of the parameter space.",
+      "categories": [
+        "gr-qc",
+        "nucl-th"
+      ],
+      "published": "2025-11-24T19:01:38+00:00",
+      "updated": "2026-05-12T21:40:23+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.19626v2",
+      "html_url": "https://arxiv.org/html/2511.19626v2",
+      "entry_url": "http://arxiv.org/abs/2511.19626v2"
+    },
+    {
+      "arxiv_id": "2511.19582v2",
+      "base_id": "2511.19582",
+      "title": "On Modelling the Surfaces of Celestial Bodies in Quantum Gravity",
+      "authors": [
+        "Xavier Calmet",
+        "Marco Sebastianutti"
+      ],
+      "abstract": "We discuss how to model the surface of celestial bodies (such as stars) in quantum gravity to ensure the regularity of quantum corrections to classical solutions of general relativity at the surface of such bodies. Specifically, we use the Vilkovisky--DeWitt unique effective action to calculate universal quantum corrections to the exterior metric for a class of stellar models. Previous descriptions, obtained via a Heaviside density profile, are ``pathological'' at the surface of the star due to the divergence of the metric functions and associated curvature invariants. Introducing a modified version of the Tolman VII density profile, we determine the minimal degree of differentiability required for this function to generate regular quantum corrections at the star's surface.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-11-24T18:52:33+00:00",
+      "updated": "2026-05-14T16:13:38+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.19582v2",
+      "html_url": "https://arxiv.org/html/2511.19582v2",
+      "entry_url": "http://arxiv.org/abs/2511.19582v2"
+    },
+    {
+      "arxiv_id": "2511.19633v3",
+      "base_id": "2511.19633",
+      "title": "An NLO-Matched Initial and Final State Parton Shower on a GPU",
+      "authors": [
+        "Michael H. Seymour",
+        "Siddharth Sule"
+      ],
+      "abstract": "Recent developments have demonstrated the potential for high simulation speeds and reduced energy consumption by porting Monte Carlo Event Generators to GPUs. We release version 2 of the CUDA C++ parton shower event generator GAPS, which can simulate initial and final state emissions on a GPU and is capable of hard-process matching. As before, we accompany the generator with a near-identical C++ generator to run simulations on single-core and multi-core CPUs. Using these programs, we simulate NLO Z production at the LHC and demonstrate that the speed and energy consumption of an NVIDIA V100 GPU are on par with a 96-core cluster composed of two Intel Xeon Gold 5220R Processors, providing a potential alternative to cluster computing.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-11-24T19:10:28+00:00",
+      "updated": "2026-05-18T10:41:29+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.19633v3",
+      "html_url": "https://arxiv.org/html/2511.19633v3",
+      "entry_url": "http://arxiv.org/abs/2511.19633v3"
+    },
+    {
+      "arxiv_id": "2511.19788v3",
+      "base_id": "2511.19788",
+      "title": "Yangian Symmetry Escapes from the Fishnet",
+      "authors": [
+        "Niklas Beisert",
+        "Benedikt König"
+      ],
+      "abstract": "We investigate Yangian symmetry for the equations of motion and the action of the classical bi-scalar and supersymmetric fishnet models in four spacetime dimensions, and we subsequently discuss its applicability to planar correlation functions. We argue that Yangian symmetry is classically realised in these models subject to specific evaluation parameter patterns. Curiously, Yangian invariance does not extend to generic quantum correlation functions in the bi-scalar model beyond the well-established classes of Yangian invariant correlators. We present several concrete counter-examples of bi-scalar correlators given by sums of Feynman graphs and of bi-scalar graphs with octagon-shaped loops. This finding underlines the notion that a non-zero dual Coxeter number represents an obstacle towards quantum Yangian symmetry and possibly also for complete integrability in planar QFT models.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2025-11-24T23:29:40+00:00",
+      "updated": "2026-05-16T11:08:52+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.19788v3",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2511.19788v3"
+    },
+    {
+      "arxiv_id": "2511.19615v2",
+      "base_id": "2511.19615",
+      "title": "Improving divergence cleaning in cosmological SPMHD simulations",
+      "authors": [
+        "Ulrich P. Steinwandel",
+        "Daniel J. Price"
+      ],
+      "abstract": "We implement the constrained hyperbolic/parabolic divergence cleaning algorithm into the cosmological smoothed particle magnetohydrodynamics (SPMHD) code {\\sc OpenGadget3}, modifying the governing equations so that the scheme can be applied consistently in an expanding cosmological framework. This ensures that divergence errors in the magnetic field are actively propagated away and damped, rather than advected with the flow and partially controlled by source terms as in the previously employed Powell eight-wave approach. We validate the implementation on a series of standard test problems -- the advection of an artificial divergence pulse, the Orszag--Tang vortex, the Brio--Wu shock tube, and a magnetised Zeldovich pancake -- which confirm that the scheme reduces divergence errors while preserving the correct physical evolution. We then apply the method to a fully cosmological simulation of a massive galaxy cluster with $M_\\mathrm{200c} \\approx 10^{15}~\\mathrm{M}_{\\odot}$, and compare directly to the Powell-only approach. The overall density structure of the cluster is largely unchanged by the choice of divergence cleaning, and the magnetic field geometry and strength in the cluster core remain similar. In the cluster outskirts ($r \\approx 1$--$3~h^{-1}$~Mpc), however, the magnetic field is amplified by a factor of 5--10 compared to the Powell-only run, while the divergence error is reduced by 2--3 orders of magnitude throughout the cluster volume. Our results suggest that accurate divergence control is essential for capturing magnetic field amplification in the low-density, poorly resolved outskirts of galaxy clusters.",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.GA",
+        "astro-ph.IM"
+      ],
+      "published": "2025-11-24T19:00:07+00:00",
+      "updated": "2026-06-09T21:23:14+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.19615v2",
+      "html_url": "https://arxiv.org/html/2511.19615v2",
+      "entry_url": "http://arxiv.org/abs/2511.19615v2"
+    },
+    {
+      "arxiv_id": "2511.19729v2",
+      "base_id": "2511.19729",
+      "title": "Geometric Rényi mutual information induced by localized particle excitations in quantum field theory",
+      "authors": [
+        "Willy A. Izquierdo",
+        "David R. Junior",
+        "Gastão Krein"
+      ],
+      "abstract": "Quantum field theory exhibits rich spatial correlation structures even in the vacuum, where entanglement entropy between regions scales with the area of their shared boundary. While this vacuum structure has been extensively studied, far less is understood about how localized wave packets influence correlations between field values in different spatial regions. In this work, we use the Schrödinger representation to study the Rényi mutual information between complementary spatial regions for a localized wave packet of a free massless scalar field in $(d+1)$ dimensions. We find that the mutual information in this excited state includes both a vacuum term and an excitation-induced contribution. To obtain quantitative results, we specialize to $1+1$ dimensions and evaluate the Rényi-2 mutual information between the negative and positive halves of the real line. We find that the excitation generates finite, positive correlations that are maximized when the wave packet sits at the boundary and decrease with its distance from it, at a rate determined by the wave packet's width.Our findings constitute a contribution toward a more comprehensive understanding of quantum correlations in multiparticle states with nontrivial spatial localization, analyzed within a quantum field-theoretical framework.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2025-11-24T21:46:26+00:00",
+      "updated": "2026-06-11T14:30:43+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.19729v2",
+      "html_url": "https://arxiv.org/html/2511.19729v2",
+      "entry_url": "http://arxiv.org/abs/2511.19729v2"
+    },
+    {
+      "arxiv_id": "2511.19590v2",
+      "base_id": "2511.19590",
+      "title": "Searching Stochastic Gravitational Wave Background Landscape Across Frequency Bands",
+      "authors": [
+        "Yunjia Bao",
+        "Tore Boybeyi",
+        "Vuk Mandic",
+        "Lian-Tao Wang"
+      ],
+      "abstract": "Gravitational wave (GW) astrophysics is entering a multi-band era with upcoming GW detectors, enabling detailed mapping of the stochastic GW background across vast frequencies. We highlight this potential via a new physics scenario: hybrid topological defects from a two-step phase transition separated by inflation. We develop a general pipeline to analyze experimental exclusions and apply it to this model. The model offers a possible explanation of the pulsar timing array signal at low frequencies, and future experiments (LISA/Cosmic Explorer/Einstein Telescope) will confirm or rule it out via the higher-frequency probes, showcasing the power of multi-band constraints.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "astro-ph.HE",
+        "hep-ph"
+      ],
+      "published": "2025-11-24T19:00:00+00:00",
+      "updated": "2026-06-13T18:12:53+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.19590v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2511.19590v2"
+    },
+    {
+      "arxiv_id": "2511.19610v3",
+      "base_id": "2511.19610",
+      "title": "Effect of Moduli Redefinitions on Fibre Inflation",
+      "authors": [
+        "Dibya Chakraborty",
+        "Mishaal Hai",
+        "Sayeda Tashnuba Jahan",
+        "Ahmed Rakin Kamal",
+        "Md Shaikot Jahan Shuvo"
+      ],
+      "abstract": "In this paper, we have discovered a new avenue of fibre inflation in perturbative large volume scenario (pLVS) due to the redefinition of the base modulus. pLVS offers a novel regime where large volume of the internal space is guaranteed without the need of non-perturbative effects. In this setup, we study the possibility where a base redefinition allows to assess different versions of fibre inflation whose spectral index aligns with Atacama Cosmology Telescope (ACT) data and produces tensor-to-scalar ratio in the range $0.008\\lesssim r\\lesssim 0.01$ in different setups we have considered. The leading order flat direction - which in our case is the fibre modulus - is lifted with the combinations of string loop corrections, leading order $α^{\\prime 3}$$R^4$-correction, higher derivative $F^{4}$ corrections as well as our new ingredient redefinition of the modulus. Since recent Dark Energy Spectroscopic Instrument (DESI) results appear to favour a dynamical explanation for late-time acceleration over a simple cosmological constant, exploring quintessence offers a more suitable approach. In this lore, we also examine the quintessence sector to complete our model and account for both early- and late-time cosmic acceleration. In this framework, the poly-instanton correction generates a potential along the axionic directions, and we find that the resulting quintessence behaviour and the subsequent cosmological predictions about dark matter closely resemble the predictions of the original fibre inflation scenario studied earlier.",
+      "categories": [
+        "hep-th",
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "published": "2025-11-24T19:00:04+00:00",
+      "updated": "2026-06-13T08:13:55+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.19610v3",
+      "html_url": "https://arxiv.org/html/2511.19610v3",
+      "entry_url": "http://arxiv.org/abs/2511.19610v3"
+    },
+    {
+      "arxiv_id": "2511.19386v2",
+      "base_id": "2511.19386",
+      "title": "Gravitational Wave Probe of Singlet-Doublet Dark Matter Induced Radiative Neutrino Mass",
+      "authors": [
+        "Ujjal Kumar Dey",
+        "Santu Kumar Manna",
+        "Partha Kumar Paul",
+        "Sujit Kumar Sahoo",
+        "Narendra Sahu"
+      ],
+      "abstract": "We investigate an one loop radiative neutrino mass model, where the loop particles, notably a singlet fermion ($χ$), a doublet fermion ($Ψ$) and three generations of singlet scalars ($φ_i, i=\\{1,2,3\\}$) are assumed to be odd under an additional $\\mathcal{Z}_2$-symmetry. In this setup, the singlet fermion mixes with the neutral component of the doublet to give rise singlet-doublet Majorana dark matter. The addition of $\\mathcal{Z}_2$ odd scalars in the model provides rich phenomenological implications. We find that the quartic interaction terms between the SM Higgs and $φ_i$s play a significant role in modifying the scalar potential to have a first-order phase transition (FOPT) leading to observable gravitational waves (GWs) spectra. We also examine the non-trivial role played by the singlet-doublet fermion DM and the scalars in loop-induced neutrino mass, $(g-2)_μ$, and lepton flavor violation. We find that the model is predictive due to the combined constraints and can be verified at different terrestrial experiments.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "hep-ex",
+        "hep-th"
+      ],
+      "published": "2025-11-24T18:24:00+00:00",
+      "updated": "2026-06-16T12:55:24+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.19386v2",
+      "html_url": "https://arxiv.org/html/2511.19386v2",
+      "entry_url": "http://arxiv.org/abs/2511.19386v2"
+    }
+  ],
+  "total": 12
+}

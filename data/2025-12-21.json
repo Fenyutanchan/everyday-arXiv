@@ -1,0 +1,162 @@
+{
+  "date": "2025-12-21",
+  "papers": [
+    {
+      "arxiv_id": "2512.18916v4",
+      "base_id": "2512.18916",
+      "title": "Sine-Liouville gravity as a Vertex Model on Planar Graphs",
+      "authors": [
+        "Ivan Kostov"
+      ],
+      "abstract": "We investigate the universal behaviour of a one-parameter generalisation of the six-vertex model on planar graphs, which we refer to as the seven-vertex model, or 7vM for quick reference. The 7vM is characterised by a temperature coupling and its continuum limit exhibits massive, dilute and dense phases similarly to the $O(n)$ loop model. However, there is an important distinction: the loop weights are no longer topological and the dynamics of the loops is now entangled with the local geometry of the lattice. From the dual matrix model we derive explicit expressions for the sphere and disk partition functions in the continuum limit. The disk partition function for fixed length is a deformation of the Bessel integral known as the Krätzel function. We argue that the 7v matrix model (7vMM) and Matrix Quantum Mechanics (MQM) provide two complementary non-perturbative realisations of sine-Liouville gravity. Specifically, we find that the continuum limits of 7vMM and MQM share the same classical spectral curve but describe two different types of branes in sine-Liouville gravity. The 7vMM precisely covers the range of parameters where the Minkowskian MQM lacks a simple interpretation in terms of multiple tachyon scattering. We investigate the flow relating the dilute and dense phases and argue that this flow is the gravitational analogue of the massless flow in the sine-Gordon model with imaginary mass coupling. The two endpoints of the flow are described by a free boson coupled to Liouville gravity and compactified on circles with two different radii.",
+      "categories": [
+        "hep-th",
+        "math-ph"
+      ],
+      "published": "2025-12-21T23:19:57+00:00",
+      "updated": "2026-04-17T17:46:29+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.18916v4",
+      "html_url": "https://arxiv.org/html/2512.18916v4",
+      "entry_url": "http://arxiv.org/abs/2512.18916v4"
+    },
+    {
+      "arxiv_id": "2512.18744v2",
+      "base_id": "2512.18744",
+      "title": "Higher-Rank Mathieu Opers, Toda Chain, and Analytic Langlands Correspondence",
+      "authors": [
+        "Jonah Baerman",
+        "Giovanni Ravazzini",
+        "Joerg Teschner"
+      ],
+      "abstract": "We study the Riemann-Hilbert problem associated to flat sections of oper connections of arbitrary rank on the twice-punctured Riemann sphere with irregular singularities of the mildest type. We construct the solutions in terms of the solutions to a single non-linear integral equation. It follows from this construction that the generating function of the submanifold of opers coincides with the Yang-Yang function of the quantum Toda chain, proving a conjecture by Nekrasov, Rosly and Shatashvili. In this way we may furthermore reformulate the quantization conditions of the Toda chain in terms of the connection problem, for which we also provide a solution. We finally interpret our results as a variant of the Analytic Langlands Correspondence for the real version of the Hitchin system corresponding to the Toda chain.",
+      "categories": [
+        "math-ph",
+        "hep-th",
+        "math.CA",
+        "math.SP",
+        "nlin.SI"
+      ],
+      "published": "2025-12-21T14:21:32+00:00",
+      "updated": "2026-05-19T17:07:35+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.18744v2",
+      "html_url": "https://arxiv.org/html/2512.18744v2",
+      "entry_url": "http://arxiv.org/abs/2512.18744v2"
+    },
+    {
+      "arxiv_id": "2512.18569v2",
+      "base_id": "2512.18569",
+      "title": "Investigating the internal structure of $X(6900)$ in the $2J/ψ$ decay channel",
+      "authors": [
+        "Duo-Duo Lu",
+        "Shao-Zhou Jiang"
+      ],
+      "abstract": "Assuming $X(6900)$ is a tetraquark state, the decay width of $X(6900)\\to 2J/ψ$ is calculated in a covariant quark model, with the diquark-antidiquark $[cc][\\bar{c}\\bar{c}]$ picture. Two possible structures, vector-vector and axial-vector--axial-vector coupling, are investigated. The result indicates that the axial-vector--axial-vector coupling is consistent with the experiments. Additionally, as another application of the covariant quark model, the decay width of $X(6900)\\to 2η_c$ is predicted to be $66\\sim88$ keV.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-12-21T02:27:20+00:00",
+      "updated": "2026-05-27T02:14:11+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.18569v2",
+      "html_url": "https://arxiv.org/html/2512.18569v2",
+      "entry_url": "http://arxiv.org/abs/2512.18569v2"
+    },
+    {
+      "arxiv_id": "2512.18702v2",
+      "base_id": "2512.18702",
+      "title": "On the construction of graph models realizing given entropy vectors",
+      "authors": [
+        "Veronika E. Hubeny",
+        "Massimiliano Rota"
+      ],
+      "abstract": "We present an efficient algorithm for the construction of a holographic simple tree graph model that realizes a given entropy vector, subject to a specific ``chordality'' condition first introduced in arXiv:2412.18018. We further develop the toolkit of the correlation hypergraph, particularly in relation to coarse-graining and fine-graining of subsystems. We then use these techniques to take the first steps towards the generalization of this new algorithm to arbitrary (not necessarily simple) holographic tree graph models, and the ``detection'' of unrealizability of an entropy vector independently from the knowledge of holographic entropy inequalities.",
+      "categories": [
+        "hep-th",
+        "quant-ph"
+      ],
+      "published": "2025-12-21T11:38:17+00:00",
+      "updated": "2026-06-03T14:39:22+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.18702v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2512.18702v2"
+    },
+    {
+      "arxiv_id": "2512.18631v2",
+      "base_id": "2512.18631",
+      "title": "Spectral instability of parametrized black hole quasinormal modes in the high-overtone limit via the exact WKB analysis",
+      "authors": [
+        "Taiga Miyachi",
+        "Ryo Namba",
+        "Hidetoshi Omiya",
+        "Naritaka Oshita"
+      ],
+      "abstract": "We study the asymptotic behavior of parametrized black hole quasinormal modes (QNMs) in the high-overtone limit. To gain insights into their analytical structure, we apply the exact WKB method, which was recently developed by the same authors. Our theoretical predictions are confirmed in good agreement with the numerical results based on Leaver's method. For specific values of parametrization parameters that characterize deviations from general relativity, we find that the real part of asymptotic QNM frequencies diverges in the high-overtone limit, in sharp contrast to the case of a Schwarzschild black hole. This demonstrates that the convergence of the real parts of high-overtone QNMs is a distinctive feature of general relativity, while parametrized corrections generically lead to divergent spectral behaviors.",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2025-12-21T08:01:08+00:00",
+      "updated": "2026-06-03T12:09:17+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.18631v2",
+      "html_url": "https://arxiv.org/html/2512.18631v2",
+      "entry_url": "http://arxiv.org/abs/2512.18631v2"
+    },
+    {
+      "arxiv_id": "2512.18568v3",
+      "base_id": "2512.18568",
+      "title": "Two-Component Dark Matter with an SU(2) Dark Sector",
+      "authors": [
+        "Shao-Long Chen",
+        "Wen-wen Jiang"
+      ],
+      "abstract": "We propose an extension to the standard model incorporating a dark sector with a non-Abelian SU(2) gauge symmetry. The model yields stable dark matter candidates, protected by a residual $Z_3$ symmetry arising after the spontaneous symmetry breaking. The dark sector interacts with the SM via a Higgs portal, facilitated from mixing between the SM Higgs doublet and a dark scalar singlet. The model features two distinct DM components. We analyze theoretical and experimental constraints, including perturbativity, unitarity, vacuum stability, dark matter relic density, direct detection, indirect detection, Higgs invisible decays, dark radiation, and ellipticity. Our findings identify viable parameter spaces that satisfy these constraints, as exemplified by two benchmark points.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-12-21T02:27:03+00:00",
+      "updated": "2026-06-03T04:01:51+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.18568v3",
+      "html_url": "https://arxiv.org/html/2512.18568v3",
+      "entry_url": "http://arxiv.org/abs/2512.18568v3"
+    },
+    {
+      "arxiv_id": "2512.18637v7",
+      "base_id": "2512.18637",
+      "title": "Post-Newtonian Dynamics of Radiating Charges: Canonical Formulation and Binary Inspiral Laws",
+      "authors": [
+        "Suhani Verma",
+        "Siddarth Mediratta",
+        "Nanditha Kilari",
+        "Prakhar Nigam",
+        "Ishaan Singh",
+        "Daksh Tamoli",
+        "Aakash Palakurthi",
+        "Valluru Ishaan",
+        "Tanmay Golchha",
+        "Sanjay Raghav R",
+        "Sugapriyan S",
+        "Yash Narayan",
+        "Pasupuleti Devi",
+        "Prathamesh Kapase",
+        "G Prudhvi Raj",
+        "Lakshya Sachdeva",
+        "Shreya Meher",
+        "K Nanda Kishore",
+        "G Keshav",
+        "Jetain Chetan",
+        "Rickmoy Samanta"
+      ],
+      "abstract": "We revisit an explicit electromagnetic analogue of the Post Newtonian Hamiltonian framework widely used in gravitational wave physics. Starting from the Lorentz Dirac equation, we implement the Landau-Lifshitz order reduction to cast the $1.5$PN radiation reaction force in terms of a double sum in canonical variables and incorporate this into the well known $1$PN Darwin Hamiltonian system. The resulting phase space is strictly conservative when dissipation is switched off, while in presence of dissipation, it exhibits monotonic energy loss during the inspiral, accompanied by orbit circularization and eccentric bursts in the evolution of the Darwin Hamiltonian. Using this phase space framework we compute the circular and eccentric inspiral laws, including $1$PN conservative corrections. Extending to charged compact binaries in Einstein-Maxwell theory, we combine the $2$PN ADM-type conservative Hamiltonian with leading $1.5$PN dipole dissipation and gravitational quadrupole flux, obtaining gauge-invariant energy-frequency relations, closed-form circular inspiral laws, and a dipole-quadrupole crossover scale that separates electromagnetic and gravitational flux dominated inspirals.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE",
+        "hep-th"
+      ],
+      "published": "2025-12-21T08:17:52+00:00",
+      "updated": "2026-06-08T18:09:35+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.18637v7",
+      "html_url": "https://arxiv.org/html/2512.18637v7",
+      "entry_url": "http://arxiv.org/abs/2512.18637v7"
+    }
+  ],
+  "total": 7
+}

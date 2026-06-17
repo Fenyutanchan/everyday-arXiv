@@ -1,0 +1,68 @@
+{
+  "date": "2025-10-04",
+  "papers": [
+    {
+      "arxiv_id": "2510.03739v2",
+      "base_id": "2510.03739",
+      "title": "Angular observables and branching ratio for $B_s\\to φ\\ell^+ \\ell^-$ decay",
+      "authors": [
+        "Aidos Issadykov"
+      ],
+      "abstract": "In this paper, an analysis of the $B_s\\to φ\\ell^+ \\ell^-$ rare decay is presented within the framework of the covariant confined quark model. The $B_s\\to φ$ transition form factors are calculated and then used to compute the branching fractions and angular observables in various $q^2$ bins, including the forward-backward asymmetry $A_{FB}$, the longitudinal polarization $F_L$, and the optimized observables $A_i$ and $S_i$. The results show agreement with the latest experimental data given by LHCb collaboration and compared with available theoretical predictions.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2025-10-04T08:52:41+00:00",
+      "updated": "2026-05-28T08:38:44+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.03739v2",
+      "html_url": "https://arxiv.org/html/2510.03739v2",
+      "entry_url": "http://arxiv.org/abs/2510.03739v2"
+    },
+    {
+      "arxiv_id": "2510.03907v3",
+      "base_id": "2510.03907",
+      "title": "Effects of the ekpyrotic mechanism on inflationary phase in loop quantum cosmologies",
+      "authors": [
+        "Christian Brown",
+        "Jared Fier",
+        "Brian Phillips",
+        "Gerald Cleaver",
+        "Anzhong Wang"
+      ],
+      "abstract": "In bouncing cosmological models, either classical or quantum, the big bang singularity is replaced by a regular bounce. A challenging question in such models is how to keep the shear under control in the contracting phase, as it is well-known that the shear grows as fast as $1/a^{6}$ toward the bounce, where $a$ is the average expansion factor of the universe. A common approach is to introduce a scalar field with an ekpyrotic-like potential which becomes negative near the bounce, so the effective equation of state of the scalar field will be greater than one, whereby it dominates the shear in the bounce region. As a result, a homogeneous and isotropic universe can be produced after the bounce. In this paper, we study how the ekpyrotic mechanism affects the inflationary phase in both loop quantum cosmology (LQC) and a modified loop quantum cosmological model (mLQC-I), because in these frameworks inflation is generic without such a mechanism. After numerically studying various cases in which the potential of the inflaton consists of two parts, an inflationary potential and an ekpyrotic-like one, we find that, despite the fact that the influence is significant, by properly choosing the free parameters involved in the models, the ekpyrotic-like potential dominates in the bounce region, during which the effective equation of state is larger than one, so the shear problem is resolved. As the time continuously increases after the bounce, the inflationary potential grows and ultimately becomes dominant, resulting in an inflationary phase. This phase can last long enough to solve the cosmological problems existing in the big bang model.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2025-10-04T19:09:40+00:00",
+      "updated": "2026-05-26T19:38:30+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.03907v3",
+      "html_url": "https://arxiv.org/html/2510.03907v3",
+      "entry_url": "http://arxiv.org/abs/2510.03907v3"
+    },
+    {
+      "arxiv_id": "2510.03877v4",
+      "base_id": "2510.03877",
+      "title": "Carrollian Lie Algebroids: Taming Singular Carrollian Geometries",
+      "authors": [
+        "Andrew James Bruce"
+      ],
+      "abstract": "Developments in Carrollian gravity and holography necessitate the use of singular Carroll vector fields, a feature that cannot be accommodated within standard Carrollian geometry. We introduce Carrollian Lie algebroids as a framework to study such singular Carrollian geometries. In this approach, we define the Carroll distribution as the image of the kernel of the degenerate metric under the anchor map. The Carroll distribution is, in general, a singular Stefan--Sussmann distribution that will fluctuate between rank-1 and rank-0, and so captures the notion of a singular Carroll vector field. As an example, we show that an invariant Carrollian structure on a principal bundle leads to a Carrollian structure on the associated Atiyah algebroid that will, in general, have a singular Carroll distribution. Mixed null-spacelike hypersurfaces, under some simplifying assumptions, also lead to examples of Carrollian Lie algebroids. Furthermore, we establish the existence of compatible connections on Carrollian Lie algebroids, and as a direct consequence, we conclude that Carrollian manifolds can always be equipped with compatible affine connections.",
+      "categories": [
+        "math.DG",
+        "gr-qc",
+        "hep-th",
+        "math-ph"
+      ],
+      "published": "2025-10-04T17:03:51+00:00",
+      "updated": "2026-06-10T08:38:02+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.03877v4",
+      "html_url": "https://arxiv.org/html/2510.03877v4",
+      "entry_url": "http://arxiv.org/abs/2510.03877v4"
+    }
+  ],
+  "total": 3
+}

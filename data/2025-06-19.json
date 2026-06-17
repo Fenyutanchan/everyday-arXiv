@@ -1,0 +1,70 @@
+{
+  "date": "2025-06-19",
+  "papers": [
+    {
+      "arxiv_id": "2506.16164v3",
+      "base_id": "2506.16164",
+      "title": "The Carrollian Kaleidoscope",
+      "authors": [
+        "Arjun Bagchi",
+        "Aritra Banerjee",
+        "Prateksh Dhivakar",
+        "Saikat Mondal",
+        "Ashish Shukla"
+      ],
+      "abstract": "The Carroll group arises in the vanishing speed of light limit of the Poincaré group and was initially discarded as just a mathematical curiosity. However, recent developments have proved otherwise. Carroll and conformal Carroll symmetries are now ubiquitous, appearing in diverse physical phenomena starting from condensed matter physics to quantum gravity. This review aims to provide the reader a gateway into this fast-developing field. After an introduction and setting the stage with basics of the symmetry in question, we detail the construction of Carrollian and Carrollian Conformal field theories (CCFT).   We then focus on applications. By far the most popular of these applications is in the context of the construction of holography in asymptotically flat spacetimes (AFS) in terms of a co-dimension one dual CCFT. We review the early work on AFS$_3$ /CCFT$_2$ before delving into an in-depth analysis for the construction of the dual to 4D AFS.   Two other important sets of applications are in hydrodynamics and in condensed matter physics, which we discuss in detail. Carroll hydrodynamics is introduced as the $c\\to 0$ limit of relativistic hydrodynamics first and then reconstructed from a symmetry based approach. Relations to ultrarelativistic flows and connections to the quark-gluon plasma are discussed with concrete examples of the Bjorken and Gubser flow models. In condensed matter applications, we cover connections to fractons, flat bands, and phase separation in Luttinger liquid models. To conclude, we give very brief outlines of other topics of interest including string theory and black hole horizons.",
+      "categories": [
+        "hep-th",
+        "cond-mat.str-el",
+        "gr-qc",
+        "math-ph",
+        "nucl-th"
+      ],
+      "published": "2025-06-19T09:33:44+00:00",
+      "updated": "2026-04-29T17:56:22+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.16164v3",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2506.16164v3"
+    },
+    {
+      "arxiv_id": "2506.16635v2",
+      "base_id": "2506.16635",
+      "title": "Weak null singularity for the Einstein-Euler system",
+      "authors": [
+        "Yuefeng Song"
+      ],
+      "abstract": "We study the behavior of a self-gravitating perfect relativistic fluid satisfying the Einstein-Euler system in the presence of a weak null terminal spacetime singularity. This type of singularities is expected in the interior of generic dynamical black holes. In the vacuum case, weak null singularities have been constructed locally by Luk, where the metrics extend continuously to the singularities while the Christoffel symbols fail to be square integrable in any neighborhood of any point on the singular boundaries. We prove that this type of singularities persists in the presence of a self-gravitating fluid. Moreover, using the fact that the speed of sound is strictly less than the speed of light, we prove that the fluid variables also extend continuously to the singularity.",
+      "categories": [
+        "gr-qc",
+        "math.AP"
+      ],
+      "published": "2025-06-19T22:22:40+00:00",
+      "updated": "2026-05-04T06:28:42+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.16635v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2506.16635v2"
+    },
+    {
+      "arxiv_id": "2506.16377v2",
+      "base_id": "2506.16377",
+      "title": "Frequency Differences between Clocks on the Earth and the Moon",
+      "authors": [
+        "Mingyue Zhang",
+        "Jürgen Müller",
+        "Sergei M. Kopeikin"
+      ],
+      "abstract": "Based on general relativity, clock frequency comparisons support various geodetic applications on Earth, such as determining the gravitational potential and realizing a global height system. Future lunar clocks could extend these capabilities to the Moon, connect to terrestrial clock-comparison networks, and, in principle, serve as reference clocks. Meanwhile, especially driven by future lunar navigation plans, an independent lunar time system is becoming an urgent requirement and such a system would necessarily remain linked to terrestrial time standards. To support these future applications, we establish a comprehensive model for Earth-Moon clock frequency comparisons. This paper simulates fractional frequency differences between clocks on the Earth (E) and Moon (L) through four time transformations:proper-to-coordinate time for E-clocks and for L-clocks (both linked to the local gravity potential), the conversion between the Earth and Moon coordinate times, and the time signal propagation between E- and L-clocks. Gravity potential differences between the E- and L-clocks impact the frequency difference at the 10^-10 level. The effect of the coordinate time ratio is at 10^-11 level. Contributions from static, tidal, and non-tidal potentials, body self-rotation, and different celestial bodies are evaluated. Furthermore, we quantify the Doppler, atmospheric and Shapiro delay effects in Earth-Moon time signal propagation. For a single link, the first-order Doppler term dominates at the 10^-6 level and masks the gravity-potential and coordinate-time terms. A Doppler-cancelling multi-link strategy is needed to suppress the signal-propagation effect and extract these terms.",
+      "categories": [
+        "physics.geo-ph",
+        "gr-qc",
+        "physics.space-ph"
+      ],
+      "published": "2025-06-19T14:57:35+00:00",
+      "updated": "2026-06-12T20:24:03+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.16377v2",
+      "html_url": "https://arxiv.org/html/2506.16377v2",
+      "entry_url": "http://arxiv.org/abs/2506.16377v2"
+    }
+  ],
+  "total": 3
+}

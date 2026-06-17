@@ -1,0 +1,46 @@
+{
+  "date": "2024-05-24",
+  "papers": [
+    {
+      "arxiv_id": "2405.15648v3",
+      "base_id": "2405.15648",
+      "title": "Self-$G$-ality in 1+1 dimensions",
+      "authors": [
+        "Takamasa Ando"
+      ],
+      "abstract": "We explore topological manipulations in one spatial dimension, which are defined for a system with a global symmetry and map the system to another one with a dual symmetry. In particular, we discuss fusion category symmetries enhanced by the invariance of the actions of topological manipulations, i.e., self-$G$-alities for topological manipulations. Based on the self-$G$-ality conditions, we provide LSM-type constraints on the ground states of many-body Hamiltonians. We clarify the relationship between different enhanced symmetries and how they are further enhanced when they meet. We explore concrete lattice models for such self-$G$-alities and identify how the self-$G$-ality structures match the IR critical theories.",
+      "categories": [
+        "cond-mat.str-el",
+        "hep-th",
+        "math-ph",
+        "math.QA"
+      ],
+      "published": "2024-05-24T15:40:01+00:00",
+      "updated": "2026-05-05T16:05:38+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2405.15648v3",
+      "html_url": "https://arxiv.org/html/2405.15648v3",
+      "entry_url": "http://arxiv.org/abs/2405.15648v3"
+    },
+    {
+      "arxiv_id": "2405.15408v2",
+      "base_id": "2405.15408",
+      "title": "Four-dimensional Riemannian geometry via 2-forms",
+      "authors": [
+        "Niren Bhoja",
+        "Kirill Krasnov"
+      ],
+      "abstract": "In differential geometry, geometric structures can often be encoded by differential forms satisfying algebraic and differential constraints. This is in particular the case for spinorial G-structures, where the defining tensors are differential forms arising as spinor bilinears and their exterior derivatives determine the intrinsic torsion. In this paper we show that, in certain situations, this can be extended beyond the setting of spinorial G-structures. Thus, when tilde(G)/G is a Lie group H, a tilde(G)-structure with tilde(G) supset G can be described in terms of a spinorial G-structure by allowing the defining forms to take values in an associated H-bundle, and converting the intrinsic torsion of the G-structure into an H-connection. We develop this idea in four dimensions, where the triple of 2-forms associated with a spinorial SU(2)-structure can be encoded as a 2-form with values in the associated H=SO(4)/SU(2)=SO(3) vector bundle. This gives a description of Riemannian geometry, i.e. SO(4)-structures, and leads to a unique SO(3)-invariant functional of SU(2)-structures whose critical points are Einstein. This perspective also provides a unified framework for Riemannian, Kahler and hyper-Kahler geometries in four dimensions.",
+      "categories": [
+        "math.DG",
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2024-05-24T10:21:22+00:00",
+      "updated": "2026-05-05T10:03:27+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2405.15408v2",
+      "html_url": "https://arxiv.org/html/2405.15408v2",
+      "entry_url": "http://arxiv.org/abs/2405.15408v2"
+    }
+  ],
+  "total": 2
+}

@@ -1,0 +1,278 @@
+{
+  "date": "2025-10-22",
+  "papers": [
+    {
+      "arxiv_id": "2510.19436v2",
+      "base_id": "2510.19436",
+      "title": "Krylov Complexity Under Hamiltonian Deformations and Toda Flows",
+      "authors": [
+        "Kazutaka Takahashi",
+        "Pratik Nandy",
+        "Adolfo del Campo"
+      ],
+      "abstract": "The quantum dynamics of a complex system can be efficiently described in Krylov space, the minimal subspace in which the dynamics unfolds. We apply the Krylov subspace method for Hamiltonian deformations, which provides a systematic way of constructing solvable models from known instances. In doing so, we relate the evolution of deformed and undeformed theories and investigate their complexity. For a certain class of deformations, the resulting Krylov subspace is unchanged, and we observe time evolutions with a reorganized basis. The tridiagonal form of the generator in the Krylov space is maintained, and we obtain generalized Toda equations as a function of the deformation parameters. The imaginary-time-like evolutions can be described by real-time unitary ones. As possible applications, we discuss coherent Gibbs states for thermodynamic systems, for which we analyze the survival probability, spread complexity, Krylov entropy, and associated time-averaged quantities. We further discuss the statistical properties of random matrices and supersymmetric systems for quadratic deformations.",
+      "categories": [
+        "quant-ph",
+        "cond-mat.stat-mech",
+        "hep-th"
+      ],
+      "published": "2025-10-22T10:02:03+00:00",
+      "updated": "2026-04-20T02:58:05+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.19436v2",
+      "html_url": "https://arxiv.org/html/2510.19436v2",
+      "entry_url": "http://arxiv.org/abs/2510.19436v2"
+    },
+    {
+      "arxiv_id": "2510.19149v2",
+      "base_id": "2510.19149",
+      "title": "$H_0$ Without the Sound Horizon (or Supernovae): A 2% Measurement in DESI DR1",
+      "authors": [
+        "E. A. Zaborowski",
+        "P. Taylor",
+        "K. Honscheid",
+        "A. Cuceu",
+        "A. de Mattia",
+        "A. Krolewski",
+        "M. Rashkovetskyi",
+        "A. J. Ross",
+        "C. To",
+        "J. Aguilar",
+        "S. Ahlen",
+        "A. Anand",
+        "S. BenZvi",
+        "D. Bianchi",
+        "D. Brooks",
+        "F. J. Castander",
+        "T. Claybaugh",
+        "A. de la Macorra",
+        "J. Della Costa",
+        "P. Doel",
+        "S. Ferraro",
+        "A. Font-Ribera",
+        "J. E. Forero-Romero",
+        "E. Gaztañaga",
+        "G. Gutierrez",
+        "H. K. Herrera-Alcantar",
+        "C. Howlett",
+        "D. Huterer",
+        "M. Ishak",
+        "R. Joyce",
+        "D. Kirkby",
+        "T. Kisner",
+        "A. Kremin",
+        "O. Lahav",
+        "C. Lamman",
+        "M. Landriau",
+        "L. Le Guillou",
+        "M. Manera",
+        "P. Martini",
+        "A. Meisner",
+        "R. Miquel",
+        "J. Moustakas",
+        "S. Nadathur",
+        "G. Niz",
+        "N. Palanque-Delabrouille",
+        "W. J. Percival",
+        "F. Prada",
+        "I. Pérez-Ràfols",
+        "G. Rossi",
+        "L. Samushia",
+        "E. Sanchez",
+        "D. Schlegel",
+        "M. Schubnell",
+        "H. Seo",
+        "J. Silber",
+        "D. Sprayberry",
+        "G. Tarlé",
+        "B. A. Weaver",
+        "P. Zarrouk",
+        "R. Zhou",
+        "H. Zou"
+      ],
+      "abstract": "The sound horizon scale $r_s$ is a key source of information for early-time $H_0$ measurements, and is therefore a common target of new physics proposed to solve the Hubble tension. We present a sub-2% measurement of the Hubble constant that is independent of this scale, using data from the first data release of the Dark Energy Spectroscopic Instrument (DESI DR1). Building on previous work, we remove dependency on the sound horizon size using a heuristic rescaling procedure at the power spectrum level. A key innovation is the inclusion of \\emph{uncalibrated} (agnostic to $r_s$) post-reconstruction BAO measurements from DESI DR1, as well as using the CMB acoustic scale $θ_*$ as a high-redshift anchor. Uncalibrated type-Ia supernovae are often included as an independent source of $Ω_m$ information; here we demonstrate the robustness of our results by additionally considering two supernova-independent alternative datasets. We find somewhat higher values of $H_0$ relative to our previous work: $69.2^{+1.3}_{-1.4}$, $70.3^{+1.4}_{-1.2}$, and $69.6^{+1.3}_{-1.8}\\,{\\rm km\\,s^{-1}\\,Mpc^{-1}}$ respectively when including measurements from i) Planck/ACT CMB lensing $\\times$ unWISE galaxies, ii) the DES Year 3 6$\\times$2pt analysis, and iii) Planck/ACT CMB lensing + the DES Year 5 supernova analysis. These remarkably consistent constraints achieve better than 2% precision; they are among the most stringent sound horizon-independent measurements from LSS to date, and provide a powerful avenue for probing the origin of the Hubble tension.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2025-10-22T00:46:39+00:00",
+      "updated": "2026-04-27T19:57:39+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.19149v2",
+      "html_url": "https://arxiv.org/html/2510.19149v2",
+      "entry_url": "http://arxiv.org/abs/2510.19149v2"
+    },
+    {
+      "arxiv_id": "2510.19549v2",
+      "base_id": "2510.19549",
+      "title": "Study of the scalar and pseudoscalar meson mass spectrum above the QCD chiral phase transition, using an effective Lagrangian approach",
+      "authors": [
+        "Giulio Cianti",
+        "Enrico Meggiolaro"
+      ],
+      "abstract": "In this work, expanding on previous analyses, we employ an effective Lagrangian approach to investigate the mass spectrum of scalar and pseudoscalar mesons at finite temperature, above the (pseudo-)critical temperature $T_c$, in a \"realistic\" $N_f = 2 + 1$ flavor scenario with degenerate $up$ and $down$ quarks and a heavier $strange$ quark: $0 < m_u = m_d \\ll m_s$. The model's predictions are then critically compared with available lattice QCD results (where meson screening masses are extracted from chiral susceptibilities, which correspond to two-point correlation functions of suitable interpolating operators), looking, in particular, for signatures of the breaking of the $U(1)$ axial symmetry above $T_c$.",
+      "categories": [
+        "hep-ph",
+        "hep-lat",
+        "hep-th"
+      ],
+      "published": "2025-10-22T13:00:11+00:00",
+      "updated": "2026-05-20T17:23:08+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.19549v2",
+      "html_url": "https://arxiv.org/html/2510.19549v2",
+      "entry_url": "http://arxiv.org/abs/2510.19549v2"
+    },
+    {
+      "arxiv_id": "2510.19922v2",
+      "base_id": "2510.19922",
+      "title": "Probing the Hierarchy of Genuine Multipartite Entanglement with Generalized Latent Entropy",
+      "authors": [
+        "Byoungjoon Ahn",
+        "Jaydeep Kumar Basak",
+        "Keun-Young Kim",
+        "Gwon Bin Koo",
+        "Vinay Malvimat",
+        "Junggi Yoon"
+      ],
+      "abstract": "We introduce generalization of the recently proposed \\textit{Latent Entropy} (L-entropy) \\cite{Basak:2024uwc} as a refined measure of genuine multipartite entanglement (GME) in pure states of $n$-party quantum systems. Generalized L-entropy provides a natural ordering among $k$-uniform states, maximising for absolutely maximally entangled states (AME), effectively capturing the hierarchical structure of multipartite entanglement. We analyze the behavior of this measure for $n$-party Haar-random states and demonstrate that, in the large local-dimension limit, the maximal L-entropy saturates its upper bound for odd $n$, while for even $n$ it approaches the bound asymptotically. Furthermore, we apply this framework to examine multipartite entanglement properties of quantum states in several variants of the Sachdev-Ye-Kitaev (SYK) model, including SYK$_4$, SYK$_2$, mass-deformed SYK, sparse SYK, and $\\mathcal{N}=2$ supersymmetric SYK model. The results demonstrate that the generalized L-entropy serves as a sensitive probe of multipartite entanglement, revealing how deformations influence quantum entanglement structure in such strongly interacting systems.",
+      "categories": [
+        "hep-th",
+        "quant-ph"
+      ],
+      "published": "2025-10-22T18:00:04+00:00",
+      "updated": "2026-05-28T08:37:00+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.19922v2",
+      "html_url": "https://arxiv.org/html/2510.19922v2",
+      "entry_url": "http://arxiv.org/abs/2510.19922v2"
+    },
+    {
+      "arxiv_id": "2510.19945v2",
+      "base_id": "2510.19945",
+      "title": "Confirming the uniformity of the Hubble flow with Pantheon+ Supernovae",
+      "authors": [
+        "Xiaoyun Shao",
+        "Carlos A. P. Bengaly"
+      ],
+      "abstract": "According to the perturbed Friedmann model, the difference between Hubble constant measurements in two rest frames, at leading order in velocity, is determined solely by the relative motion of the observers and remains unaffected by the peculiar velocities of the sources. This implies that, when averaging over a sufficiently large and distant set of sources where local nonlinear inhomogeneities are diminished, such a difference should vanish, so that the Hubble flow is statistically uniform, as predicted by the Cosmological Principle -- a core assumption of the standard cosmological paradigm. In previous works, distance measurement compilations, e.g. the CosmicFlows-3 catalogue, were used for this purpose, as it comprises a large number ($\\sim 10^4$) of sources of different types. Due to the increasing amount of precise luminosity distance measurements of Type Ia Supenovae (SNe) in the last few years, in this work we investigate whether we can confirm the uniformity of the Hubble flow with low-$z$ SN distances only. By means of the Pantheon+ and SH0ES compilation, we find that the results align well with previous works based on the CF3 catalogue, and are in good agreement with the expected Hubble variance in the standard model across cosmic scales of $20-150$ Mpc. Notably, the Hubble constant difference $ΔH_0 \\approx 0$ is observed at around $85$ Mpc. Despite the smaller sample size ($\\sim 10^2$ versus $\\sim 10^4$) relative to CF3 at those scales, our analysis show that the Pantheon+ and SH0ES dataset supports the standard model paradigm, which indicates that the Hubble flow becomes statistically uniform at around $70-100$ Mpc, which is compatible with independent determinations of the homogeneity scale based on galaxy number counts.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2025-10-22T18:18:01+00:00",
+      "updated": "2026-05-29T18:25:28+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.19945v2",
+      "html_url": "https://arxiv.org/html/2510.19945v2",
+      "entry_url": "http://arxiv.org/abs/2510.19945v2"
+    },
+    {
+      "arxiv_id": "2510.19904v2",
+      "base_id": "2510.19904",
+      "title": "The Synthetic Absorption Line Spectral Almanac (SALSA)",
+      "authors": [
+        "Dylan Nelson",
+        "Celine Peroux",
+        "Philipp Richter",
+        "Matthew M. Pieri",
+        "Sebastian Lopez",
+        "Rongmon Bordoloi",
+        "Siwei Zou",
+        "Joseph N. Burchett",
+        "Rebecca L. Davies",
+        "Rahul Ramesh",
+        "Matthew C. Smith",
+        "Sanchayeeta Borthakur",
+        "Christopher W. Churchill"
+      ],
+      "abstract": "We create the first large-scale mock spectroscopic survey of gas absorption sightlines traversing the interstellar medium (ISM), circumgalactic medium (CGM), and intergalactic medium (IGM) surrounding galaxies of virtual Universes. That is, we create mock, or synthetic, absorption spectra by drawing lines-of-sight through cosmological hydrodynamical simulations, using a new mesh-free Voronoi ray-tracing algorithm. The result is the Synthetic Absorption Line Spectral Almanac (SALSA), which is publicly released on a feature-rich online science platform (www.tng-project.org/spectra). It spans a range of ions, transitions, instruments, observational characteristics, assumptions, redshifts, and simulations. These include, but are not limited to: (ions) HI, OI, CI, MgI, MgII, FeII, SiII, CaII, ZnII, SiIII, SiIV, NV, CII, CIV, OVI; (instruments) SDSS-BOSS, KECK-HIRES, UVES, COS, DESI, 4MOST, WEAVE, XSHOOTER; (model choices) with/without dust depletion, noise, quasar continua, foregrounds; (redshift) from z=0 to z~6; (ancillary data) integrated equivalent widths, column densities, distances and properties of nearby galaxies; (simulations) IllustrisTNG including TNG50, TNG-Cluster, EAGLE, and SIMBA. This scope is not fixed, and will grow and evolve with community interest and requests over time -- suggestions are welcome. The resulting dataset is generic and broadly applicable, enabling diverse science goals such as: (i) studies of the underlying physical gas structures giving rise to particular absorption signatures, (ii) galaxy-absorber and halo-absorber correlations, (iii) virtual surveys and survey strategy optimization, (iv) stacking experiments and the identification of faint absorption features, (v) assessment of data reduction methods and completeness calculations, (vi) inference of physical properties from observables, and (vii) apples-to-apples comparisons between simulations and data.",
+      "categories": [
+        "astro-ph.GA",
+        "astro-ph.CO"
+      ],
+      "published": "2025-10-22T18:00:00+00:00",
+      "updated": "2026-06-04T13:24:35+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.19904v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2510.19904v2"
+    },
+    {
+      "arxiv_id": "2510.19647v2",
+      "base_id": "2510.19647",
+      "title": "The Impact of Population III.1 Flash Reionization for CMB Polarization and Thomson Scattering Optical Depth",
+      "authors": [
+        "Jonathan C. Tan",
+        "Eiichiro Komatsu"
+      ],
+      "abstract": "The Population III.1 theory for supermassive black hole (SMBH) formation predicts a very early ($z\\sim20-25$) transient phase, the ``Pop III.1 Flash'', of cosmic reionization powered by supermassive stars that are SMBH progenitors. The universe then quickly recombined to become mostly neutral, with this state persisting until galaxies begin to reionize intergalactic gas again at $z\\sim 10$. The overall Thomson scattering optical depth, $τ$, from the Pop III.1 Flash has been shown to be $τ_{\\rm PopIII.1}\\sim0.03$, leading to a total $τ\\sim0.08-0.09$. Such a value, while significantly larger than that previously inferred from {\\it Planck} observations of the low-$l$ $EE$ polarization power spectrum of the CMB, can help relieve several ``tensions'' faced by the standard $Λ$CDM cosmological model, especially the preference for negative neutrino masses and dynamic dark energy. Here we compute $EE$ power spectra of example models of the Pop III.1 Flash. We find that, because of its very high redshift, the contribution to $l\\lesssim\\:$6 modes is dramatically reduced compared to usual low-$z$ reionization models for the same value of $τ$, while the power at $l\\gtrsim\\:$6 is boosted. Thus the Pop III.1 reionization scenario provides a natural way to increase $τ$, while remaining closer to the latest CMB low-$l$ polarization observations.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2025-10-22T14:53:10+00:00",
+      "updated": "2026-06-01T19:20:15+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.19647v2",
+      "html_url": "https://arxiv.org/html/2510.19647v2",
+      "entry_url": "http://arxiv.org/abs/2510.19647v2"
+    },
+    {
+      "arxiv_id": "2510.19458v4",
+      "base_id": "2510.19458",
+      "title": "Foundations of Noncommutative Carrollian Geometry via Lie-Rinehart Pairs",
+      "authors": [
+        "Andrew James Bruce"
+      ],
+      "abstract": "Carrollian manifolds offer an intrinsic geometric framework for the physics in the ultra-relativistic limit. The recently introduced Carrollian Lie algebroids are generalised to the setting of $ρ$-commutative geometry, (also known as almost commutative geometry), where the underlying algebras commute up to a numerical factor. Via $ρ$-Lie-Rinehart pairs, it is shown that the foundational tenets of Carrollian geometry have analogous statements in the almost commutative world. We explicitly build two toy examples: we equip the extended quantum plane and the noncommutative $2$-torus with Carrollian structures. This opens up the rigorous study of noncommutative Carrollian geometry via almost commutative geometry.",
+      "categories": [
+        "math-ph",
+        "gr-qc",
+        "hep-th",
+        "math.DG",
+        "math.QA"
+      ],
+      "published": "2025-10-22T10:43:37+00:00",
+      "updated": "2026-06-10T08:46:03+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.19458v4",
+      "html_url": "https://arxiv.org/html/2510.19458v4",
+      "entry_url": "http://arxiv.org/abs/2510.19458v4"
+    },
+    {
+      "arxiv_id": "2510.19913v2",
+      "base_id": "2510.19913",
+      "title": "Detecting White Dwarf Binary Mergers with Gravitational Waves",
+      "authors": [
+        "Giona Sala",
+        "Chiara Brandenstein",
+        "Sebastian Baum",
+        "Peter W. Graham"
+      ],
+      "abstract": "Mergers of white dwarf binaries are a possible progenitor channel for Type Ia supernovae. While white dwarfs are abundant in the universe and relatively well understood, their gravitational wave signals have not yet been directly observed. In order to detect gravitational waves from merging white dwarf binaries, a detector in the mid-band between LVK and LISA appears necessary. In this paper, we compute and discuss the gravitational waves emitted by inspiraling and merging white dwarf binaries, and assess their detectability with proposed space-based atom-interferometer detectors such as MAGIS Space and AEDGE. Gravitational waves from massive white dwarf binaries can be observed for many years before merger, offering a unique early warning of their final explosion. Our projections suggest that MAGIS Space could detect signals from Type Ia supernova progenitors at least once every four years, while AEDGE could observe at least a few hundred such events annually. The prolonged gravitational wave emission captured by atom-interferometers provides precise sky localisation and can allow observation of the final explosion with electromagnetic telescopes. The combined observation with electromagnetic radiation from the white dwarf binary coalescence could open a new pathway for multi-messenger astronomy involving some of the brightest transient events in the universe.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "astro-ph.HE",
+        "hep-ph",
+        "physics.atom-ph"
+      ],
+      "published": "2025-10-22T18:00:02+00:00",
+      "updated": "2026-06-09T18:42:12+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.19913v2",
+      "html_url": "https://arxiv.org/html/2510.19913v2",
+      "entry_url": "http://arxiv.org/abs/2510.19913v2"
+    },
+    {
+      "arxiv_id": "2510.19822v2",
+      "base_id": "2510.19822",
+      "title": "Supermassive Black Hole Growth in Massive Galaxies at Cosmic Dawn",
+      "authors": [
+        "James Sunseri",
+        "Zachary L. Andalman",
+        "Romain Teyssier"
+      ],
+      "abstract": "Among the emerging excess of massive, bright galaxies at Cosmic Dawn $z \\gtrsim 9$ seen by the James Webb Space Telescope, several exhibit spectral features associated with active galactic nuclei (AGN). These AGN candidates suggest that supermassive black holes (SMBHs) grow rapidly in the early Universe. In a series of numerical experiments, we investigate how SMBHs grow within and influence the most massive galaxies at Cosmic Dawn using cosmological hydrodynamic zoom-in simulations run with the adaptive mesh refinement code \\textsc{ramses}. Our suite of simulations explore how super-Eddington accretion, seed mass, and the strength of feedback influence SMBH-galaxy co-evolution in the most massive galaxies ($M_\\star \\gtrsim 10^8 M_\\odot$) of the early Universe ($z \\sim 15 - 9$). The environment which our numerical experiments reside in is an overdensity that collapses into a $\\sim 10^{11} M_\\odot$ halo by $z \\sim 9$. Within this type of environment we find that SMBH growth is sensitive to stellar feedback which generates a turbulent-multiphase interstellar medium (ISM) that stochastically starves the SMBH. In the absence of AGN feedback, we find that the SMBH is starved $\\sim 50\\%$ of the time after the onset of star formation in the galaxy. SMBH growth can become self-regulated by AGN feedback if the SMBH becomes massive enough, either by accretion or seeding, for its feedback to dominate the surrounding nuclear region. We find no evidence of galaxy-scale, AGN-driven quenching in the star formation rate (SFR) across all simulations in our suite.",
+      "categories": [
+        "astro-ph.GA",
+        "astro-ph.CO"
+      ],
+      "published": "2025-10-22T17:59:30+00:00",
+      "updated": "2026-06-11T15:03:57+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.19822v2",
+      "html_url": "https://arxiv.org/html/2510.19822v2",
+      "entry_url": "http://arxiv.org/abs/2510.19822v2"
+    }
+  ],
+  "total": 10
+}

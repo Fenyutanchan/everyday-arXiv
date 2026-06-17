@@ -1,0 +1,560 @@
+{
+  "date": "2026-05-26",
+  "total": 20,
+  "papers": [
+    {
+      "arxiv_id": "2605.26824v1",
+      "base_id": "2605.26824",
+      "title": "Improved Big Bang Nucleosynthesis constraints on decaying massive relics",
+      "authors": [
+        "Sara Bianco",
+        "Jonas Frerick",
+        "Marco Hufnagel",
+        "Kai Schmidt-Hoberg"
+      ],
+      "abstract": "We present updated and improved Big Bang Nucleosynthesis (BBN) constraints on heavy, long-lived beyond the Standard Model (BSM) relics $φ$ decaying into pairs of Standard Model particles, covering a comprehensive set of two-body decay channels. We treat the leading effects of these injections in detail, discussing the modification of the neutron-to-proton ratio from hadronic interconversions, as well as hadro- and photodisintegration of the light elements. Our analysis incorporates several important refinements with respect to earlier work. We adopt up-to-date primordial abundance measurements, including the new $^4$He determination and the latest nuclear reaction rates. The hadronic and electromagnetic injection spectra are computed using PYTHIA 8, providing a proper treatment of final-state radiation and hadronisation. We further implement an improved treatment of $p\\leftrightarrow n$ interconversions, accounting for dynamical equilibrium, kaon-induced processes, and updated rates. Additionally, we make use of a refined hadrodisintegration formalism which allows us to also consider disintegration processes while BBN is still active. Together, these improvements yield updated exclusion contours on lifetime, mass, and abundance of the relic for each decay channel considered. Furthermore, we discuss the irreducible freeze-in contribution from inverse decays.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "published": "2026-05-26T10:41:51+00:00",
+      "updated": "2026-05-26T10:41:51+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.26824v1",
+      "html_url": "https://arxiv.org/html/2605.26824v1",
+      "entry_url": "http://arxiv.org/abs/2605.26824v1",
+      "relevance": {
+        "relevant": true,
+        "score": 9,
+        "reason": "This paper provides updated BBN constraints on decaying BSM relics, which directly connects to the researcher's stated interests in BBN constraints on primordial black holes (Hawking evaporation) and cosmological bounds from BBN for heavy neutral leptons and dark sector decay channels.",
+        "pass_number": 1,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2507.02821v2",
+      "base_id": "2507.02821",
+      "title": "Relativistic accretion and burdened primordial black holes",
+      "authors": [
+        "Suvashis Maity"
+      ],
+      "abstract": "We examine the joint effects of relativistic accretion and memory-burdened evaporation on the evolution of primordial black holes (PBHs). The memory burden effect, which delays the evaporation by inducing a backreaction and making the evaporation rate scale as an inverse power law of the PBH entropy, opens up a new window that allows PBHs with $M \\lesssim 10^{15}~\\mathrm{g}$ to survive until the present epoch. Meanwhile, accretion increases the mass of PBHs, thereby enhancing their chances of survival for a given initial mass. We consider two main scenarios: one where PBHs evaporate completely before big bang nucleosynthesis, and another where PBHs persist until today. In the case of evaporation, we analyze the emission of dark matter (DM) and dark radiation (DR) during the process of evaporation. Conversely, in the other case, the surviving PBHs themselves can contribute as DM. We further investigate how relativistic and nonrelativistic accretion, together with memory-burdened evaporation, impact the parameter space of the emitted DM, the abundance of stable PBHs as DM, and the contribution of DR to the effective number of relativistic degrees of freedom, $ΔN_{\\mathrm{eff}}$.",
+      "categories": [
+        "astro-ph.CO",
+        "hep-th"
+      ],
+      "published": "2025-07-03T17:33:54+00:00",
+      "updated": "2026-05-26T03:49:38+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2507.02821v2",
+      "html_url": "https://arxiv.org/html/2507.02821v2",
+      "entry_url": "http://arxiv.org/abs/2507.02821v2",
+      "relevance": {
+        "relevant": true,
+        "score": 9,
+        "reason": "This paper directly addresses PBH Hawking evaporation (including a novel memory-burdened mechanism), BBN-era constraints, dark sector emission channels, and ΔN_eff contributions—all of which are core topics in the researcher's profile on primordial black holes and early-universe cosmology.",
+        "pass_number": 1,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.27521v1",
+      "base_id": "2605.27521",
+      "title": "From WIMP to FIMP during reheating: collider vs non-collider probes for p-wave annihilation",
+      "authors": [
+        "Dipankar Pradhan",
+        "Niloy Mondal",
+        "Abhik Sarkar",
+        "Anupam Ghosh",
+        "Shashwat Sharma",
+        "Mathew Thomas Arun",
+        "Basabendu Barman"
+      ],
+      "abstract": "By examining the transition from freeze-out to freeze-in dark matter (DM) production within the framework of perturbative reheating, where DM interacts with the visible sector through effective operators of dimension six, we have investigated how a broad range of new physics probes can reveal the nature of the pre-BBN Universe. Incorporating constraints from direct and indirect DM searches, invisible decay measurements, collider experiments, and gravitational wave observations, our analysis demonstrates that both current and forthcoming experimental sensitivities can serve as powerful tools for probing as well as constraining the post-inflationary era, together with new physics beyond the SM. Our analysis demonstrates that collider experiments at both the intensity and energy frontiers can impose strong bounds on derivative operators whose interactions are typically {\\it p-wave suppressed}, and therefore only weakly constrained by astrophysical observations. In particular, these complementary searches can significantly restrict the allowed reheating temperature, DM mass and effective interaction scale required to reproduce the observed DM abundance for DM produced during the epoch of reheating.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "hep-ex",
+        "hep-th"
+      ],
+      "published": "2026-05-26T18:00:11+00:00",
+      "updated": "2026-05-26T18:00:11+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.27521v1",
+      "html_url": "https://arxiv.org/html/2605.27521v1",
+      "entry_url": "http://arxiv.org/abs/2605.27521v1",
+      "relevance": {
+        "relevant": true,
+        "score": 8,
+        "reason": "The paper directly addresses cosmic reheating dynamics—a core interest of the researcher—by studying dark matter production during perturbative reheating and connecting it to gravitational wave observations, collider probes, and dark matter searches, making it highly relevant to the researcher's work on early-universe cosmology and dark matter physics.",
+        "pass_number": 1,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.27519v1",
+      "base_id": "2605.27519",
+      "title": "Probing Dynamical Inverse Seesaw with Low-frequency Gravitational Waves",
+      "authors": [
+        "Debasish Borah",
+        "Sounak Dutta",
+        "Partha Kumar Paul",
+        "Indrajit Saha",
+        "Narendra Sahu"
+      ],
+      "abstract": "We study the possibility of probing the dynamical inverse seesaw mechanism for the origin of light neutrino masses via the detection of stochastic gravitational waves (GW) in the low-frequency regime currently being probed by pulsar timing arrays. As the lepton number-violating term in inverse seesaw typically remains in the sub-MeV ballpark, its dynamical origin naturally brings the possibility of a low-scale first-order phase transition, which can be probed at low-frequency GW experiments. We also find interesting complementarity with heavy neutral lepton searches, as GW experiments remain sensitive to parameter space with small active-sterile mixing, which is out of reach for most particle physics experiments.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "hep-ex",
+        "hep-th"
+      ],
+      "published": "2026-05-26T18:00:07+00:00",
+      "updated": "2026-05-26T18:00:07+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.27519v1",
+      "html_url": "https://arxiv.org/html/2605.27519v1",
+      "entry_url": "http://arxiv.org/abs/2605.27519v1",
+      "relevance": {
+        "relevant": true,
+        "score": 8,
+        "reason": "This paper directly connects two of the researcher's core interests—stochastic gravitational-wave backgrounds and heavy neutral leptons (HNLs)—by exploring how low-frequency GW detection can probe the dynamical inverse seesaw mechanism and its complementarity with HNL searches in regions of small active-sterile mixing.",
+        "pass_number": 1,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.27231v1",
+      "base_id": "2605.27231",
+      "title": "A Fast Method to Compute Scalar Induced Gravitational Waves on a Lattice with Primordial Non-Gaussianities",
+      "authors": [
+        "Giovanni Piccoli"
+      ],
+      "abstract": "Scalar Induced Gravitational Waves (SIGW) are generated at second order in perturbation theory and to achieve observational relevance, inflationary dynamics must evade the standard slow-roll scenario at small scales, generating large curvature perturbations following strongly non-Gaussian statistics. We propose a method to efficiently compute the SIGW spectrum including arbitrary non-Gaussianities. First, we solve the wave equation adopting semi-analytic methods; this results in an expression involving integrals in Fourier space which are impossible to solve directly on a lattice. We overcome this bottleneck by recasting these integrals as a sum of about 50 convolutions, each of which can be computed efficiently with FFT methods. Finally, the power spectrum is measured directly from the lattice realization. We implement this in FLAN-SIGW, a GPU-accelerated code capable of computing fully non-perturbative, non-Gaussian SIGW spectra in seconds with an error within 10% with modest computational resources. The code is made public at https://github.com/giovannipiccoli99/FLAN-SIGW. In this first implementation, in order to assess the performance of the method, we adopt a standard radiation-dominated background with $w = 1/3$.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "physics.comp-ph"
+      ],
+      "published": "2026-05-26T16:11:50+00:00",
+      "updated": "2026-05-26T16:11:50+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.27231v1",
+      "html_url": "https://arxiv.org/html/2605.27231v1",
+      "entry_url": "http://arxiv.org/abs/2605.27231v1",
+      "relevance": {
+        "relevant": true,
+        "score": 7,
+        "reason": "The paper directly addresses the researcher's interest in stochastic gravitational-wave backgrounds from the early universe (SIGW) and computational methods for cosmology, though it focuses on the cosmological gravitational-wave phenomenology side rather than the particle physics or multi-loop calculation aspects of their profile.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.27049v1",
+      "base_id": "2605.27049",
+      "title": "Family-separated seesaw relations of Majorana neutrinos",
+      "authors": [
+        "Zhi-zhong Xing"
+      ],
+      "abstract": "Given the canonical seesaw mechanism as a most natural extension of the standard model in its neutrino sector, we find out a special but brand new solution to the exact seesaw equation: $m^{}_i/M^{}_i = - R^2_{αi}/U^2_{αi}$ for the masses and flavor mixing matrix elements of light and heavy Majorana neutrinos of the $i$-th family (for $i = 1, 2, 3$ and $α= e, μ, τ$). This family-separated seesaw scenario allows us to establish simple relations between the original seesaw parameters and the active degrees of freedom, and thus offers some testable predictions such as a direct correlation between the CP-violating effects in light neutrino flavor oscillations and heavy Majorana neutrino decays.",
+      "categories": [
+        "hep-ph",
+        "hep-ex",
+        "hep-th"
+      ],
+      "published": "2026-05-26T14:02:04+00:00",
+      "updated": "2026-05-26T14:02:04+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.27049v1",
+      "html_url": "https://arxiv.org/html/2605.27049v1",
+      "entry_url": "http://arxiv.org/abs/2605.27049v1",
+      "relevance": {
+        "relevant": true,
+        "score": 7,
+        "reason": "This paper on family-separated seesaw relations for Majorana neutrinos is relevant to the user's interests in heavy neutral leptons and JUNO phenomenology—coming from the same IHEP institution—and explicitly mentions JUNO's role in determining the mass ordering, though it focuses on theoretical seesaw parametrization rather than the user's specific subtopics of HNL dark decays, BBN bounds, or solar antineutrinos.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2501.16412v2",
+      "base_id": "2501.16412",
+      "title": "Dynamic Neutrino Mass Ordering and Its Imprint on the Diffuse Supernova Neutrino Background",
+      "authors": [
+        "Yuber F. Perez-Gonzalez",
+        "Manibrata Sen"
+      ],
+      "abstract": "Neutrino masses may have evolved dynamically throughout the history of the Universe, potentially leading to a mass spectrum distinct from the normal or inverted ordering observed today. While cosmological measurements constrain the total energy density of neutrinos, they are not directly sensitive to a dynamically changing mass ordering unless future surveys achieve exceptional precision in detecting the distinct imprints of each mass eigenstate on large-scale structures. In this work, we investigate the impact of a dynamic neutrino mass spectrum on the diffuse supernova neutrino background (DSNB), which is composed of neutrinos from all supernova explosions throughout cosmic history and is on the verge of experimental detection. The dynamic evolution of neutrino masses with redshift changes the propagation of neutrinos inside the supernova. Since neutrino oscillations are highly sensitive to the mass spectrum, we show that the electron neutrino survival probability carries distinct signatures of the evolving neutrino mass spectrum. Our results show that a dynamic neutrino mass spectrum can modify the DSNB flux in an energy-dependent way. However, we find that the current level of spectral shape uncertainty in DSNB modeling makes a direct detection beyond the reach of present and near-future experiments. Nonetheless, our study highlights the DSNB as a probe of redshift-dependent neutrino properties once the astrophysical systematics are brought under control.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-01-27T19:00:00+00:00",
+      "updated": "2026-05-26T13:45:20+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2501.16412v2",
+      "html_url": "https://arxiv.org/html/2501.16412v2",
+      "entry_url": "http://arxiv.org/abs/2501.16412v2",
+      "relevance": {
+        "relevant": true,
+        "score": 7,
+        "reason": "This paper is directly relevant to the user's JUNO phenomenology and neutrino physics interests, as it studies dynamic neutrino mass ordering imprints on the DSNB and explicitly identifies JUNO as a key experiment for detection, while also connecting to cosmological constraints and dark-sector neutrino mass generation mechanisms.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2510.17027v3",
+      "base_id": "2510.17027",
+      "title": "Searching for generalized neutrino interactions in direct detection experiments with EνES",
+      "authors": [
+        "Jesús Miguel Celestino-Ramírez",
+        "F. J. Escrihuela",
+        "L. J. Flores",
+        "O. G. Miranda",
+        "R. Sánchez-Vélez"
+      ],
+      "abstract": "We investigate the sensitivity of present and future direct detection experiments to generalized neutrino interactions (GNI) through elastic neutrino electron scattering. Using data from LUX-ZEPLIN, PandaX-4T, and XENONnT, we derive constraints on vector, axial-vector, scalar, and tensor effective couplings, and compare them with existing limits. Our results show that current xenon-based detectors already provide competitive bounds, with XENONnT offering the most stringent constraints due to its larger exposure and reduced backgrounds. Among the GNI couplings, the scalar contributions remain more weakly constrained, while tensor interactions yield the strongest limits. We also present projected sensitivities for the DARWIN experiment, showing potential improvements. These results demonstrate the capability of direct detection experiments, originally designed for dark matter searches, to provide complementary and competitive constraints on generalized neutrino interactions.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-10-19T22:28:45+00:00",
+      "updated": "2026-05-26T10:13:20+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.17027v3",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2510.17027v3",
+      "relevance": {
+        "relevant": true,
+        "score": 7,
+        "reason": "The paper explores generalized neutrino interactions using direct detection experiments, which is highly complementary to your specific interest in neutrino physics and JUNO phenomenology.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2511.09622v3",
+      "base_id": "2511.09622",
+      "title": "Ultralight Dark Matter from the Edge of Field Space",
+      "authors": [
+        "Mathias Becker",
+        "Francesco D'Eramo",
+        "Ville Vaskonen"
+      ],
+      "abstract": "We introduce a novel class of bosonic dark matter candidates that we dub wallions, featuring boundaries in field space. The wallion mass is exponentially suppressed when the separation between boundaries far exceeds their intrinsic width and remains radiatively stable under self-interactions. We study the early-universe evolution of wallions and the associated cosmological signatures. Finally, we show that instanton effects can dynamically generate field-space boundaries and discuss possible experimental probes once the wallion couples to Standard Model fields.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "published": "2025-11-12T19:00:01+00:00",
+      "updated": "2026-05-26T08:35:25+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.09622v3",
+      "html_url": "https://arxiv.org/html/2511.09622v3",
+      "entry_url": "http://arxiv.org/abs/2511.09622v3",
+      "relevance": {
+        "relevant": true,
+        "score": 7,
+        "reason": "This paper is relevant to the user's core interests in early-universe cosmology (inflation scenarios, reheating dynamics, isocurvature constraints), axion and dark matter physics (ultralight bosonic DM with instanton-generated potentials, experimental detection strategies), and cosmological bounds from BBN and ΔN_eff, though it does not directly address neutrino physics, PBHs, or multi-loop calculations.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2601.21878v2",
+      "base_id": "2601.21878",
+      "title": "Numerical simulations of primordial black hole formation via delayed first-order phase transitions",
+      "authors": [
+        "Zhuan Ning",
+        "Xiang-Xi Zeng",
+        "Rong-Gen Cai",
+        "Shao-Jiang Wang"
+      ],
+      "abstract": "We perform fully nonlinear, spherically symmetric numerical simulations of superhorizon false-vacuum-domain (FVD) collapse in a coupled gravity-scalar-fluid system to study primordial black hole (PBH) formation during delayed first-order phase transitions (FOPTs). Using adaptive mesh refinement to resolve the bubble wall, we identify three dynamical outcomes: type B (supercritical) PBHs with an interior baby universe and a bifurcating trapping horizon, type A (subcritical) PBHs with an apparent horizon formed by direct wall collapse, and dispersal with no PBH formation. To separate these three cases, we evaluate two commonly used PBH-formation criteria: the time scale ratio $t_\\mathrm{H}/t_\\mathrm{V}$ (horizon crossing time versus vacuum-energy domination time) and the local density contrast $δ(t_\\mathrm{H})$ at horizon crossing. For the parameter space explored, we find that $t_\\mathrm{H}/t_\\mathrm{V}$ is a more robust predictor of outcome: type B PBHs form when $t_\\mathrm{H}/t_\\mathrm{V} \\gtrsim 1$ (critical range $\\sim 1.1 - 1.6$ in our survey), type A PBHs arise when $t_\\mathrm{H}/t_\\mathrm{V}$ is below this threshold but remains above a lower bound (typical range $\\sim 0.35 - 0.7$), and no-PBH dispersal occurs when $t_\\mathrm{H}/t_\\mathrm{V}$ falls below this lower bound. When a clear thin-wall FVD boundary exists, $δ(t_\\mathrm{H})$ can correspondingly distinguish different outcomes (roughly $δ_c(t_\\mathrm{H}) \\sim 1 - 1.7$ for type B and $δ_c(t_\\mathrm{H}) \\sim 0.35 - 0.5$ for type A), but is highly sensitive to wall structure and model details and thus less universal. These results offer new insights into the dynamics of FVD collapse, quantify practical PBH-formation thresholds, and pave the way for precise predictions of PBH abundance from delayed FOPTs.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-ph"
+      ],
+      "published": "2026-01-29T15:45:48+00:00",
+      "updated": "2026-05-26T13:59:19+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.21878v2",
+      "html_url": "https://arxiv.org/html/2601.21878v2",
+      "entry_url": "http://arxiv.org/abs/2601.21878v2",
+      "relevance": {
+        "relevant": true,
+        "score": 6,
+        "reason": "The paper concerns primordial black hole formation mechanisms via first-order phase transitions, which overlaps the user's interest in PBHs and early-universe cosmology, but focuses on numerical GR simulations of collapse dynamics rather than the user's primary PBH interests (Hawking evaporation, BBN constraints, neutrino/UHECR production, and dark sector decay channels).",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2512.10744v2",
+      "base_id": "2512.10744",
+      "title": "Exploring New Propagation Scales With Galactic Neutrinos",
+      "authors": [
+        "Miller MacDonald",
+        "Kiara Carloni",
+        "Carlos A. Argüelles",
+        "Ivan Martínez-Soler",
+        "Rafael Alves Batista"
+      ],
+      "abstract": "The recent observation of high-energy Galactic neutrinos by IceCube allows for searches of new physics affecting neutrino propagation on scales of $O(10^9-10^{15})\\,\\mathrm{km/GeV}$ in distance over energy. We assess the sensitivity of upcoming measurements of Galactic neutrinos by IceCube and KM3NeT to such new phenomena. We focus on two scenarios: quasi-Dirac neutrinos and neutrino decays. In the quasi-Dirac scenario, we find that joint measurements by IceCube and KM3NeT are sensitive to the mass-squared differences $δm^2 \\in \\left(10^{-13.6}~\\mathrm{eV^2}, 10^{-12.3}~\\mathrm{eV^2}\\right)$ at the $90\\%$ confidence level. For neutrino decays, the same measurements are sensitive to mass over lifetime ratios $m / τ> 10^{-12.8}~\\mathrm{eV^2}$ at the same significance. Our results demonstrate that measurements of Galactic neutrinos by a global network of neutrino telescopes can probe signatures of neutrino mass models.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.HE"
+      ],
+      "published": "2025-12-11T15:32:01+00:00",
+      "updated": "2026-05-26T23:48:16+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.10744v2",
+      "html_url": "https://arxiv.org/html/2512.10744v2",
+      "entry_url": "http://arxiv.org/abs/2512.10744v2",
+      "relevance": {
+        "relevant": true,
+        "score": 5,
+        "reason": "The paper deals with BSM neutrino physics (quasi-Dirac neutrinos and neutrino decay) which connects to the user's neutrino physics interests, but it focuses on high-energy astrophysical Galactic neutrinos and IceCube/KM3NeT sensitivity rather than JUNO phenomenology, HNLs with dark decays, or the user's specific topics like BBN constraints and solar antineutrinos.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2509.20170v3",
+      "base_id": "2509.20170",
+      "title": "Effect of Cosmic Neutrino Background on the Dark Matter Self-interaction via Neutrino force",
+      "authors": [
+        "Pawin Ittisamai",
+        "Chakrit Pongkitivanichkul",
+        "Muhammaddaniya Sutwilai",
+        "Nakorn Thongyoi",
+        "Patipan Uttayarat"
+      ],
+      "abstract": "Neutrino-pair exchange induces a neutrino force that can drive dark matter (DM) self-interactions and impact small-scale structure formation. In the presence of the cosmic neutrino background (C$ν$B), this force can be modified, with important consequences for DM phenomenology. We study the effect of the C$ν$B on neutrino forces, generated by the scalar and pseudoscalar interactions. We explore the significance of the background neutrino force on the scalar DM-neutrino portal model, including DM self-scattering and annihilation. Our results show that the interplay between attractive vacuum potential and repulsive background potential leads to a screening effect that varies across DM mass ($m_χ$) regimes, strongly affecting DM self-scattering in the DM mass $m_ν\\lesssim m_χ\\lesssim T_{C νB}$. Meanwhile, for DM annihilation, the screening completely vanishes the Sommerfeld Enhancement induced by the neutrino force. Overall, the C$ν$B substantially reshapes the viable coupling range for DM self-interactions while remaining compatible with current constraints, offering a pathway to small-scale structure problems.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-09-24T14:35:09+00:00",
+      "updated": "2026-05-26T14:59:17+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.20170v3",
+      "html_url": "https://arxiv.org/html/2509.20170v3",
+      "entry_url": "http://arxiv.org/abs/2509.20170v3",
+      "relevance": {
+        "relevant": true,
+        "score": 5,
+        "reason": "The paper intersects the user's interests in neutrino physics and dark matter phenomenology by studying neutrino-mediated DM self-interactions and CνB effects, but it focuses on SIDM/small-scale structure rather than the user's specific interests like HNLs, JUNO phenomenology, BBN constraints, PBHs, or multi-loop calculations.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2512.09027v2",
+      "base_id": "2512.09027",
+      "title": "Testing lepton non-unitarity with the next generation of Germanium-based CE$ν$NS reactor experiments",
+      "authors": [
+        "Salvador Centelles Chuliá",
+        "Manfred Lindner",
+        "Thomas Rink"
+      ],
+      "abstract": "Coherent elastic neutrino-nucleus scattering (CE$ν$NS) has been experimentally confirmed using neutrinos from pion decay at rest, solar neutrinos and reactor antineutrinos. Future CE$ν$NS experiments will foreseeable lead to precision measurements which will be a powerful tool to search for new physics beyond the Standard Model. In this work, we investigate possible deviations from unitarity in the $3\\times3$ leptonic mixing matrix that controls the propagation of active neutrinos. Such deviations may originate from the mixing with additional gauge singlet fermions and depending on their mass scale and mixing, the resulting phenomenology can differ substantially. We explore two well-motivated regimes: the \\textit{seesaw limit}, where the new fermions are heavy and kinematically inaccessible, leading to effective deviations from unitarity in the active sector; and the \\textit{light sterile limit}, where they are light enough to be produced and participate in neutrino propagation and scattering processes. We show how these scenarios modify both CE$ν$NS and elastic neutrino--electron scattering (E$νe$S), and we present the corresponding sensitivity projections for a future CE$ν$NS reactor experiment obtained by upscaling the CONUS+ experiment, which reported the first observation of reactor CE$ν$NS. We identify the leading experimental systematics relevant for such an upscaling and demonstrate the resulting capability to probe TeV-scale new physics. Our results highlight the strong potential of CE$ν$NS to test the structure of the lepton sector and to search for physics beyond the Standard Model.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2025-12-09T19:00:02+00:00",
+      "updated": "2026-05-26T08:04:52+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.09027v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2512.09027v2",
+      "relevance": {
+        "relevant": true,
+        "score": 5,
+        "reason": "The paper explores non-unitarity from mixing with heavy neutral leptons (HNLs) and light sterile neutrinos, which connects to the researcher's interest in HNLs and neutrino physics, but the focus on CEνNS reactor experiment projections is tangential to their core interests in cosmological bounds, JUNO phenomenology, and dark decays.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2604.24305v2",
+      "base_id": "2604.24305",
+      "title": "Role of heavy neutral lepton in lepton number violating $B$ meson decays",
+      "authors": [
+        "Dhiren Panda",
+        "Manas Kumar Mohapatra",
+        "Rukmani Mohanta"
+      ],
+      "abstract": "We study the phenomenology of heavy neutral leptons (HNLs) in $B$-meson decays as probes of physics beyond the Standard Model. Focusing on the leptonic channels $B \\to μN$ and $B \\to τN$, we constrain the allowed regions in the $M_N$--$|U_{\\ell N}|^2$ plane using current experimental data. Using these constraints, we investigate lepton-number violating ($ΔL=2$) processes mediated by on-shell HNLs, including $B_{(c)}^- \\to π^+ μ^- μ^-$ and $B_c^- \\to J/ψ\\, π^+ μ^- μ^-$. For benchmark values $|U_{μN}|^2 = 10^{-6}$ and $M_N = 2$-- $3\\,\\mathrm{GeV}$, the predicted branching ratios lie in the range $\\mathcal{O}(10^{-13})$--$\\mathcal{O}(10^{-8})$. Among the channels, $B_c^- \\to π^+ μ^- μ^-$ shows the largest enhancement, while $B_c^- \\to J/ψ\\, π^+ μ^- μ^-$ is strongly suppressed. These results indicate a clear channel dependence, with $B_c$ modes providing enhanced sensitivity to HNL effects and offering promising avenues for future searches of lepton number violation.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-04-27T10:51:20+00:00",
+      "updated": "2026-05-26T04:45:03+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.24305v2",
+      "html_url": "https://arxiv.org/html/2604.24305v2",
+      "entry_url": "http://arxiv.org/abs/2604.24305v2",
+      "relevance": {
+        "relevant": true,
+        "score": 5,
+        "reason": "The paper studies heavy neutral leptons (HNLs), which is one of the user's core neutrino physics interests, but focuses on GeV-scale HNL phenomenology in B-meson decays and lepton-number violation at colliders rather than the user's preferred topics of cosmological bounds (BBN, ΔN_eff), dark decays, or JUNO phenomenology.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.27513v1",
+      "base_id": "2605.27513",
+      "title": "Constraints on a Light Leptophilic Scalar from Dark-Sector Couplings",
+      "authors": [
+        "Marco Graziani",
+        "Giacomo Landini",
+        "Federico Mescia",
+        "Claudio Toni",
+        "Ludovico Vittorio"
+      ],
+      "abstract": "We study a minimal framework where a Majorana fermion dark matter particle interacts with a light scalar mediator coupled mainly to electrons. We examine both freeze-out and freeze-in production to determine the regions of parameter space that yield the correct relic abundance with particular emphasis on a detailed comparison with results in the recent literature. The analysis includes cosmological and astrophysical constraints as well as laboratory bounds from electron-recoil experiments, fixed target searches, and precision measurements. The combined results identify a narrow but viable parameter region, favoring sub-GeV dark matter, and define clear targets for future experimental tests. This highlights the strong complementarity between direct-detection experiments and collider searches. We additionally investigate the mediator-mass region around 17 MeV, motivated by the hints reported by the ATOMKI experiment and the PADME collaboration, including couplings between the mediator and light quarks. Direct searches already constrain a large region of the parameter space, even when dark matter is produced via freeze-in, pointing again to sub-GeV dark matter.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-05-26T18:00:04+00:00",
+      "updated": "2026-05-26T18:00:04+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.27513v1",
+      "html_url": "https://arxiv.org/html/2605.27513v1",
+      "entry_url": "http://arxiv.org/abs/2605.27513v1",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "The paper relates to dark matter physics and cosmological constraints (BBN, relic abundance) which are tangentially relevant to the user's interests in dark sector physics, but the specific focus on leptophilic scalar mediators and freeze-out/freeze-in mechanisms does not closely align with the user's core interests in neutrino physics, PBHs, axion detection, or multi-loop perturbative calculations.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2510.00686v2",
+      "base_id": "2510.00686",
+      "title": "Phenomenology of a Kinetic Higgs Portal",
+      "authors": [
+        "Anisha",
+        "Lisa Biermann",
+        "Christoph Englert",
+        "Margarete Mühlleitner"
+      ],
+      "abstract": "We explore the phenomenological consequences of non-minimal hidden sector interactions on observable correlations in the Higgs sector, mediated through the $\\mathbb{Z}_2$-symmetric Higgs portal. Particular attention is given to non-standard momentum dependencies of the hidden sector scalar, which arise naturally in an effective field theory (EFT) framework, e.g. in Composite Scalar Dark Matter theories. We discuss the implications of such hidden sector interactions for the thermal history of the universe. We show that aspects of such non-standard momentum dependencies can be probed at future lepton colliders such as a FCC-ee, potentially also through radiative corrections. This gives rise to precision probes for regions where direct detection constraints and relic abundance can be accounted for as predicted in, e.g., Composite Scalar Dark Matter theories.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-10-01T09:08:33+00:00",
+      "updated": "2026-05-26T10:36:09+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.00686v2",
+      "html_url": "https://arxiv.org/html/2510.00686v2",
+      "entry_url": "http://arxiv.org/abs/2510.00686v2",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "The paper touches on dark matter phenomenology (composite scalar DM, relic abundance) and electroweak precision calculations at future Higgs factories, but its core focus on kinetic Higgs portal EFT and electroweak phase transitions does not strongly align with the researcher's primary interests in early-universe cosmology (reheating/GWs), PBHs, neutrino physics, multi-loop QCD, or axion physics.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.26749v1",
+      "base_id": "2605.26749",
+      "title": "Constraining Early Dark Energy cosmological models with Big Bang Nucleosynthesis",
+      "authors": [
+        "Teodora M. Matei",
+        "Cristian Croitoru",
+        "Tiberiu Harko"
+      ],
+      "abstract": "The recent cosmological picture contains a significant tension indicating that our standard $Λ$CDM picture may be incomplete. Early Dark Energy models can alleviate the Hubble tension, by assuming an early acceleration that could explain the divergence between the early and late-time cosmological data. We investigate the implications of Early Dark Energy models on the Big Bang Nucleosynthesis processes by considering several cosmological models, including a model assuming a simple cosmological constant, alongside with varying equations of state dark energy models. We construct a simulator through a nested sampling algorithm, with the help of which we estimate the upper bounds for model parameters, and determine the maximum allowable dark energy density contribution during the radiation-dominated era. Our results are obtained through the \\href{https://github.com/croi900/eden}{eden} program. We show that for a linear or polytropic equation of state, the dark energy density is constrained to less than $10^{-13}$ MeV$^4$ and $10^{-5}$ MeV$^4$, respectively, at the 95\\% confidence level. Furthermore, we identify a temperature-dependent equation of state of dark energy as the most physically compelling framework, which remains consistent with primordial abundances for coupling parameters $\\lesssim 10^{-2}$. This model successfully allows for high-temperature deviations from the standard $Λ$CDM expansion history, while rapidly diluting to obtain standard general relativistic results in the weak freeze-out era.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2026-05-26T09:22:31+00:00",
+      "updated": "2026-05-26T09:22:31+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.26749v1",
+      "html_url": "https://arxiv.org/html/2605.26749v1",
+      "entry_url": "http://arxiv.org/abs/2605.26749v1",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "The paper touches on early-universe cosmology and BBN constraints which marginally overlap with the user's interests in cosmological bounds from BBN and early-universe dynamics, but its core focus on Early Dark Energy phenomenology and the Hubble tension is not aligned with the user's primary research in particle physics, neutrino phenomenology, or multi-loop calculations.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.26487v1",
+      "base_id": "2605.26487",
+      "title": "Testing lepton-flavor-violating decay of doubly charged Higgs bosons in type-II seesaw via photon fusion at the high-energy LHC",
+      "authors": [
+        "Hang Zhou",
+        "Ning Liu"
+      ],
+      "abstract": "Tiny neutrino masses can be explained by the type-II seesaw mechanism, where a triplet scalar under $SU(2)_{L}$ is predicted. Collider searches for this exotic scalar have been extensively conducted, especially for its doubly charged component $Δ^{\\pm\\pm}$. Utilizing the forward detectors at the Large Hadron Collider (LHC), we study the probing sensitivity for the elastic photon fusion production of the scalars $pp\\to p(γγ\\toΔ^{++}Δ^{--})p$ followed by the lepton-flavor-violating (LFV) decay channels $Δ^{\\pm\\pm}\\to e^{\\pm}μ^{\\pm}$. With a high center-of-mass energy of 100 TeV and several luminosity scenarios, we can extensively broaden the exclusion bounds in the parametric space of Br$(Δ^{\\pm\\pm}\\to e^{\\pm}μ^{\\pm})$ versus the triplet scalar mass $m_Δ$. Specifically, at the 100 TeV LHC with an integrated luminosity of 3 ab$^{-1}$, the mass exclusion limit at 95\\% C.L. can reach around 1150 GeV with the assumption of inverted neutrino mass hierarchy.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-05-26T02:56:07+00:00",
+      "updated": "2026-05-26T02:56:07+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.26487v1",
+      "html_url": "https://arxiv.org/html/2605.26487v1",
+      "entry_url": "http://arxiv.org/abs/2605.26487v1",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "While the paper connects to neutrino physics through the type-II seesaw mechanism and its link between neutrino oscillation parameters and collider signatures, it is primarily a collider phenomenology study at a future 100 TeV LHC rather than addressing the researcher's core neutrino interests (HNLs, cosmological bounds, JUNO phenomenology) or their other main research areas.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2602.12344v2",
+      "base_id": "2602.12344",
+      "title": "Precise QCD Predictions for Hadron-in-jet Production in $e^+e^-$ Collisions",
+      "authors": [
+        "Leonardo Bonino",
+        "Aude Gehrmann-De Ridder",
+        "Thomas Gehrmann",
+        "Alexander Huss",
+        "Francesco Merlotti",
+        "Giovanni Stagnitto"
+      ],
+      "abstract": "The production of identified hadrons inside jets in $e^+ e^-$ annihilation allows for detailed studies of parton-to-hadron fragmentation functions in a clean environment. We compute hadron-in-jets production cross sections for $e^+e^- \\to 2\\,\\mathrm{jets}$ and $e^+e^- \\to 3\\,\\mathrm{jets}$ to next-to-next-to-leading order (NNLO) in perturbative QCD. By comparing with data from the ALEPH experiment, we demonstrate the implications of the newly computed theory predictions for precision phenomenology.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-02-12T19:04:25+00:00",
+      "updated": "2026-05-26T15:22:09+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.12344v2",
+      "html_url": "https://arxiv.org/html/2602.12344v2",
+      "entry_url": "http://arxiv.org/abs/2602.12344v2",
+      "relevance": {
+        "relevant": true,
+        "score": 3,
+        "reason": "The paper involves NNLO perturbative QCD calculations, which tangentially relates to the researcher's multi-loop QCD interests, but the specific topic of hadron fragmentation functions in e+e- collisions is quite different from the researcher's focus on top-quark decay, semileptonic b→u decays, and electroweak precision observables.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2604.24292v2",
+      "base_id": "2604.24292",
+      "title": "Asymptotic regularization method. A constructive approach",
+      "authors": [
+        "Christian Durán Romero",
+        "Luis J. Garay",
+        "Mercedes Martín-Benito",
+        "Rita B. Neves"
+      ],
+      "abstract": "We introduce a new regularization scheme for divergent integrals in quantum field theory. The framework is based on the structural decomposition of the integrand asymptotic expansion, which distinguishes between contributions that drive UV singularities and those that remain finite. This asymptotic regularization method isolates the genuinely singular sector and enables a consistent subtraction of divergences while maintaining covariance and gauge symmetry. In single-scale theories, we show that the renormalized quantities exhibit a non-local logarithmic dependence uniquely determined by the UV asymptotics, offering a derivation of logarithmic terms that is independent of standard renormalization-group flows. Because it relies only on asymptotic structure rather than on standard relativistic power counting, the method is naturally applicable to theories with modified dispersion relations and non-standard UV scaling. Although formulated here for ultraviolet divergences, the underlying strategy extends straightforwardly to infrared singularities.",
+      "categories": [
+        "hep-th",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "published": "2026-04-27T10:26:03+00:00",
+      "updated": "2026-05-26T13:58:15+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.24292v2",
+      "html_url": "https://arxiv.org/html/2604.24292v2",
+      "entry_url": "http://arxiv.org/abs/2604.24292v2",
+      "relevance": {
+        "relevant": true,
+        "score": 3,
+        "reason": "The paper introduces a general regularization scheme for quantum field theory divergences, which is theoretically related to the user's multi-loop perturbative QCD interests, but it is an abstract methodological proposal rather than a direct application to the user's specific phenomenological work on N³LO QCD or JUNO.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "date": "2025-07-18",
+  "papers": [
+    {
+      "arxiv_id": "2507.14015v2",
+      "base_id": "2507.14015",
+      "title": "Anomalous-magnetic-moment-enhanced Casimir effect",
+      "authors": [
+        "Daisuke Fujii",
+        "Katsumasa Nakayama",
+        "Kei Suzuki"
+      ],
+      "abstract": "We theoretically investigate the impact of the anomalous magnetic moment (AMM) of Dirac fermions on the fermionic Casimir effect under magnetic fields. We formulate it as an extension of the well-known Lifshitz formula. From our formula, we find that the AMM increases the fermionic Casimir energy. In particular, when the AMM is large enough, the Casimir energy is significantly enhanced by the gapless behavior of the lowest Landau level. We also quantitatively estimate the Casimir energy from electron, muon, and constituent quark fields under magnetic fields and propose possible phenomena at finite temperature and fermion density.",
+      "categories": [
+        "hep-ph",
+        "hep-th",
+        "nucl-th",
+        "quant-ph"
+      ],
+      "published": "2025-07-18T15:28:09+00:00",
+      "updated": "2026-05-01T04:59:42+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2507.14015v2",
+      "html_url": "https://arxiv.org/html/2507.14015v2",
+      "entry_url": "http://arxiv.org/abs/2507.14015v2"
+    },
+    {
+      "arxiv_id": "2507.14280v4",
+      "base_id": "2507.14280",
+      "title": "Irrational CFTs from coupled anyon chains with non-invertible symmetries?",
+      "authors": [
+        "António Antunes",
+        "Junchen Rong"
+      ],
+      "abstract": "Irrational CFTs in 1+1d with a discrete spectrum and no conserved currents other than the stress-tensor are expected to be generic, unsolvable by standard methods, and hard to construct explicitly. We introduce a lattice model that realizes a candidate for such a CFT as a conformal phase of matter without fine-tuning. The model is constructed by coupling $N\\geq3$ golden anyon chains together, preserving $N$ copies of the Fibonacci non-invertible symmetry. We use the MPS/DMRG approach to study this model numerically, which allows us to calculate the corresponding conformal data, obtaining hints of its irrationality. Along the way, we characterize the phase diagram for $N=2$ coupled chains where we identify a weakly first-order phase transition as well as critical points that we are able to identify with known rational CFTs, except for one case. We also provide an extensive list of rational CFTs with $1<c<2.1$.",
+      "categories": [
+        "hep-th",
+        "cond-mat.str-el"
+      ],
+      "published": "2025-07-18T18:00:00+00:00",
+      "updated": "2026-06-13T16:08:37+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2507.14280v4",
+      "html_url": "https://arxiv.org/html/2507.14280v4",
+      "entry_url": "http://arxiv.org/abs/2507.14280v4"
+    }
+  ],
+  "total": 2
+}

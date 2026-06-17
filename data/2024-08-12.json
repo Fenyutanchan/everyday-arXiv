@@ -1,0 +1,30 @@
+{
+  "date": "2024-08-12",
+  "papers": [
+    {
+      "arxiv_id": "2408.11065v2",
+      "base_id": "2408.11065",
+      "title": "Statistical Patterns in the Equations of Physics and the Emergence of a Meta-Law of Nature",
+      "authors": [
+        "Andrei Constantin",
+        "Deaglan Bartlett",
+        "Harry Desmond",
+        "Pedro G. Ferreira"
+      ],
+      "abstract": "Physics seeks to uncover the laws of Nature and express them through mathematical equations. Despite the vast diversity of natural phenomena, physical equations exhibit structural regularities that set them apart from arbitrary mathematical expressions. While principles such as dimensional analysis have long guided the formulation of physical models, the exploration of more subtle statistical patterns within the equations of physics remains an open question. Here, by analysing four corpora of physics equations and applying advanced implicit-likelihood techniques, we find that the frequency of mathematical operators follows an exponential decay law, in contrast to Zipf's power law for word frequencies in natural languages. This reveals a statistical meta-law of physics, possibly reflecting a combination of communication efficiency and constraints imposed by Nature itself. The meta-law offers practical benefits for symbolic regression by drastically narrowing down the space of physically plausible expressions. More broadly, it may inform the development of language models that can generate coherent mathematical representations, advancing the automation of physical law discovery.",
+      "categories": [
+        "physics.soc-ph",
+        "cs.CL",
+        "hep-th",
+        "physics.data-an",
+        "physics.hist-ph"
+      ],
+      "published": "2024-08-12T18:34:57+00:00",
+      "updated": "2026-05-07T20:50:35+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2408.11065v2",
+      "html_url": "https://arxiv.org/html/2408.11065v2",
+      "entry_url": "http://arxiv.org/abs/2408.11065v2"
+    }
+  ],
+  "total": 1
+}

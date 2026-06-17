@@ -1,0 +1,384 @@
+{
+  "date": "2026-06-15",
+  "total": 14,
+  "papers": [
+    {
+      "arxiv_id": "2606.17155v1",
+      "base_id": "2606.17155",
+      "title": "Freeze-in and ultra-relativistic freeze-out during general reheating scenarios",
+      "authors": [
+        "Kuldeep Deka"
+      ],
+      "abstract": "The dark-matter relic abundance can depend sensitively on the thermal history before radiation domination. We derive a general analytic framework for dark-matter production from the Standard Model bath during a non-instantaneous reheating era, unifying freeze-in, ultra-relativistic freeze-out and the approach to ordinary non-relativistic freeze-out. The reheating background is described by an effective equation-of-state parameter $ω$ and a cooling index $α$, while the dark-matter interaction rate is parametrised by an effective scale $Λ$ and a leading temperature power $n$. We show that the production history is organised by two critical temperature exponents: one controls whether a thermalised relativistic species decouples during reheating or after radiation domination begins, and the other controls whether post-decoupling production is infrared dominated, ultraviolet dominated or logarithmic. We derive analytic relic yields in the main regimes, including both the entropy-diluted freeze-out contribution and the post-freeze-out production term. These results explain the scaling of relic-density contours and are checked against numerical Boltzmann solutions. For matter-like reheating our framework reproduces the known IR/UV ultra-relativistic freeze-out structure, while more general reheating histories can shift the same microscopic interaction between freeze-in, ultra-relativistic freeze-out and ordinary freeze-out regimes.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "published": "2026-06-15T18:00:08+00:00",
+      "updated": "2026-06-15T18:00:08+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.17155v1",
+      "html_url": "https://arxiv.org/html/2606.17155v1",
+      "entry_url": "http://arxiv.org/abs/2606.17155v1",
+      "relevance": {
+        "relevant": true,
+        "score": 9,
+        "reason": "This paper directly addresses cosmic reheating dynamics—a core research interest—by deriving an analytic framework for dark-matter production during non-instantaneous reheating, unifying freeze-in and ultra-relativistic freeze-out with general equation-of-state parametrizations.",
+        "pass_number": 1,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2602.12252v2",
+      "base_id": "2602.12252",
+      "title": "The Dark Side of the Moon: Listening to Scalar-Induced Gravitational Waves",
+      "authors": [
+        "D. Blas",
+        "J. W. Foster",
+        "Y. Gouttenoire",
+        "A. J. Iovino",
+        "I. Musco",
+        "S. Trifinopoulos",
+        "M. Vanvlasselaer"
+      ],
+      "abstract": "The collapse of large-amplitude primordial curvature perturbations into planetary-mass primordial black holes generates a scalar-induced gravitational wave background in the $μ$Hz frequency range that may be detectable by future Lunar Laser Ranging and Satellite Laser Ranging data. We derive projected constraints on the primordial black hole population from a null detection of stochastic gravitational wave background by these experiments, including the impact of the standard model electroweak phase transition on the abundance of planetary-mass primordial black holes. We also discuss the connection between the obtained projected constraints and the recent microlensing observations by the HSC collaboration of the Andromeda Galaxy.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "published": "2026-02-12T18:41:15+00:00",
+      "updated": "2026-06-15T08:05:51+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.12252v2",
+      "html_url": "https://arxiv.org/html/2602.12252v2",
+      "entry_url": "http://arxiv.org/abs/2602.12252v2",
+      "relevance": {
+        "relevant": true,
+        "score": 9,
+        "reason": "This paper directly intersects multiple core interests—primordial black holes, stochastic gravitational-wave backgrounds, and early-universe cosmology—while also touching on the electroweak phase transition's impact on PBH abundance, making it highly relevant to the researcher's profile.",
+        "pass_number": 1,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.17132v1",
+      "base_id": "2606.17132",
+      "title": "Are neutrinos Majorana? Fixed-target and high-energy astrophysical searches decide",
+      "authors": [
+        "Gabriela Barenboim",
+        "Mauricio Bustamante",
+        "Qinrui Liu"
+      ],
+      "abstract": "Determining whether the neutrino is a Dirac or Majorana fermion remains a fundamental open question. Conventional searches rely on neutrinoless double beta decay, but this electron-only channel suffers from blind spots. We propose a new, complementary probe to overcome this limitation. A heavy neutral lepton (HNL) triggers a high-energy shift in how the active neutrino flavors ($ν_e$, $ν_μ$, $ν_τ$) mix -- but only if the neutrinos are Majorana. For GeV-scale HNLs, the upcoming beam-dump experiment SHiP can discover the HNL and measure how it mixes with the active flavors. Separately, the scattering of TeV--PeV astrophysical neutrinos can resolve the HNL, revealing a shift in the proportions of each flavor arriving at Earth that could be detected by neutrino telescopes, regardless of the unknown flavor composition at the astrophysical neutrino sources. Because this flavor shift is most sensitive to the muon and tau sectors, it bypasses the blind spots of neutrinoless double beta decay. A correlated signal at SHiP and next-generation neutrino telescopes would prove that neutrinos are Majorana; its absence would point to them being Dirac.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.HE",
+        "hep-ex",
+        "hep-th",
+        "nucl-th"
+      ],
+      "published": "2026-06-15T18:00:00+00:00",
+      "updated": "2026-06-15T18:00:00+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.17132v1",
+      "html_url": "https://arxiv.org/html/2606.17132v1",
+      "entry_url": "http://arxiv.org/abs/2606.17132v1",
+      "relevance": {
+        "relevant": true,
+        "score": 8,
+        "reason": "This paper directly addresses heavy neutral leptons (HNLs) and their phenomenological signatures, a core interest of the user, connecting HNL flavor mixing effects to both fixed-target experiments (SHiP) and high-energy astrophysical neutrino detection.",
+        "pass_number": 1,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.16445v1",
+      "base_id": "2606.16445",
+      "title": "High-quality Axion Strings from Monopole Strings",
+      "authors": [
+        "Nathaniel Craig",
+        "Amalia Madden"
+      ],
+      "abstract": "Five-dimensional 't Hooft-Polyakov monopole strings whose cores restore a non-abelian gauge symmetry become axion strings for extra-dimensional axions. The parametric separation between the string tension and the scale of quantum gravity admits a viable post-inflationary cosmology for high-quality axion dark matter.",
+      "categories": [
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2026-06-15T09:18:05+00:00",
+      "updated": "2026-06-15T09:18:05+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.16445v1",
+      "html_url": "https://arxiv.org/html/2606.16445v1",
+      "entry_url": "http://arxiv.org/abs/2606.16445v1",
+      "relevance": {
+        "relevant": true,
+        "score": 8,
+        "reason": "This paper directly addresses axion dark matter and its post-inflationary cosmology, which are core interests in the researcher's profile on axion/dark matter physics and early-universe cosmology.",
+        "pass_number": 1,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2602.02829v2",
+      "base_id": "2602.02829",
+      "title": "Cosmological phase transitions: from particle physics to gravitational waves, semi-analytically",
+      "authors": [
+        "S. Pascoli",
+        "S. Rosauro-Alcaraz",
+        "M. Zandi"
+      ],
+      "abstract": "Motivated by the recent evidence of a stochastic gravitational wave background found by pulsar timing array experiments, we focus on one of the prime cosmological explanations, i.e. a supercooled first order phase transition. If confirmed, it would offer a unique opportunity to probe early Universe dynamics and the related physics beyond the Standard Model of particles and interactions. However, the prediction of the gravitational wave spectrum from a given particle physics scenario requires theoretically and computationally demanding methods. While several tools have been put forward to reduce uncertainties and automatize these computations, we study here the possibility to perform the full pipeline of computations semi-analytically in the $4D$ theory for a $U(1)^\\prime$ conformal extension of the Standard Model, thus avoiding computationally intensive simulations. Our approach yields accurate results that can be used in phenomenological studies and allow for an efficient exploration of the connection between the particle physics models and their cosmological predictions.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "published": "2026-02-02T21:29:11+00:00",
+      "updated": "2026-06-15T07:43:55+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.02829v2",
+      "html_url": "https://arxiv.org/html/2602.02829v2",
+      "entry_url": "http://arxiv.org/abs/2602.02829v2",
+      "relevance": {
+        "relevant": true,
+        "score": 8,
+        "reason": "This paper directly connects early-universe cosmology to stochastic gravitational-wave backgrounds from first-order phase transitions, which aligns strongly with the user's core interests in early-universe dynamics, gravitational waves, and BSM particle physics phenomenology.",
+        "pass_number": 1,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2602.14355v2",
+      "base_id": "2602.14355",
+      "title": "Search for Cosmic-Ray Produced Dark Meson via the $U(1)_\\text{D}$ Portal at JUNO",
+      "authors": [
+        "Zirong Chen",
+        "Dan Chi",
+        "Jinmian Li",
+        "Junle Pei"
+      ],
+      "abstract": "We investigate the atmospheric production and subsequent detection of sub-GeV dark mesons within the framework of a confining dark sector coupled to the Standard Model (SM) via a $U(1)_{\\text{D}}$ vector portal. High-energy cosmic ray interactions in the atmosphere produce dark quarks through proton bremsstrahlung, rare decays of Standard Model mesons, and Drell-Yan processes, which subsequently hadronize into dark mesons. We adopt a modified Quark Combination Model to describe the non-perturbative dark hadronization process, allowing for a detailed event-level characterization of the dark meson flux. We simulate the flux and the interactions of these relativistic dark mesons in the Jiangmen Underground Neutrino Observatory (JUNO) using the GENIE generator, considering both elastic scattering off nuclei and deep inelastic scattering channels. Adopting a LES-inspired conservative signal definition with $15~\\mathrm{MeV}<E_{\\rm vis}<100~\\mathrm{MeV}$ and vetoing events containing final-state neutrons, we derive projected $90\\%$ C.L. sensitivities to the coupling strength between the dark gauge boson and the SM sector for a $20~\\mathrm{kton}\\!\\cdot\\!\\mathrm{year}$ exposure. For the representative benchmark masses $m_{Z^\\prime}=0.001$, $0.01$, and $0.1~\\mathrm{GeV}$, the projected JUNO reach corresponds to $g_{\\rm SM}^{90}=6.48\\times10^{-5}$, $7.75\\times10^{-5}$, and $2.37\\times10^{-4}$, respectively. This reach is found to be only mildly sensitive to order-one variations of the hadronization parameter, as illustrated by the choices $κ_β=1/3,\\,1,$ and $3$.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-02-16T00:14:50+00:00",
+      "updated": "2026-06-15T07:41:43+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.14355v2",
+      "html_url": "https://arxiv.org/html/2602.14355v2",
+      "entry_url": "http://arxiv.org/abs/2602.14355v2",
+      "relevance": {
+        "relevant": true,
+        "score": 8,
+        "reason": "This paper is highly relevant as it combines JUNO phenomenology—a core research area—with dark sector physics involving dark meson production and detection, directly aligning with the user's interests in both JUNO detector projections and dark matter phenomenology.",
+        "pass_number": 1,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.16145v1",
+      "base_id": "2606.16145",
+      "title": "Neutrino Constraints on memory-burdened Primordial Black Holes from Dwarf Spheroidal Galaxies",
+      "authors": [
+        "Xiu-Hui Tan",
+        "Jun-qing Xia",
+        "Yu-Feng Zhou"
+      ],
+      "abstract": "Dwarf spheroidal galaxies (dSphs) represent prime targets for indirect dark matter (DM) searches due to their substantial DM content and low astrophysical backgrounds. In this work, we conduct a comprehensive search for neutrino signals originating from memory-burdened primordial black holes (PBHs) as DM candidates, utilizing 10 years of publicly available muon-track data from the IceCube Neutrino Observatory. We systematically compile $\\mathcal{D}$-factor measurements from four independent literature sources, resulting in a robust sample of 14 dSphs with well-characterized DM distributions. For each dSph, we perform an unbinned maximum-likelihood analysis to evaluate the significance of potential PBH neutrino emission, incorporating $\\mathcal{D}$-factor uncertainties through a profile likelihood framework. No significant excess over the background-only hypothesis is detected. Building upon these null results, we derive upper limits on the PBH abundance fraction, assuming a monochromatic mass distribution. Our analysis demonstrates that constraints obtained in the $k=1$ case exhibit significant improvement compared to previous studies, while the $k=2$ case yields less restrictive limits due to limited sensitivity of IceCube in the relevant energy range. Furthermore, our combined analysis of 14 dSphs achieves substantially enhanced sensitivity, as the independent error treatment effectively reduces statistical uncertainties.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2026-06-15T03:02:42+00:00",
+      "updated": "2026-06-15T03:02:42+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.16145v1",
+      "html_url": "https://arxiv.org/html/2606.16145v1",
+      "entry_url": "http://arxiv.org/abs/2606.16145v1",
+      "relevance": {
+        "relevant": true,
+        "score": 8,
+        "reason": "This paper directly addresses the user's core interest in PBHs as dark matter candidates and high-energy neutrino production from PBHs, using IceCube neutrino observations to constrain memory-burdened PBH abundance in a phenomenological analysis that complements their theoretical work on Hawking evaporation and PBH constraints.",
+        "pass_number": 1,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.17019v1",
+      "base_id": "2606.17019",
+      "title": "A scaling non-compact QCD axion",
+      "authors": [
+        "Georgios K. Karananas",
+        "Mikhail Shaposhnikov"
+      ],
+      "abstract": "We present a dynamical mechanism for the erasure of inflationary isocurvature perturbations of the non-compact QCD axion. The key ingredient is an early-time runaway exponential potential, which drives the axion onto the well-known scaling cosmological attractor after inflation. Once on the attractor, the axion tracks the dominant component of the Universe, radiation, and isocurvature modes are erased even if the field is effectively massless during inflation. When the QCD potential turns on, the axion carries nonzero velocity, and kinetic misalignment can become operative. The exponential potential induces residual CP violation, potentially accessible to future electric dipole moment searches. This mechanism requires that the axion be effectively non-compact over the field range relevant for its post-inflationary evolution.",
+      "categories": [
+        "hep-ph",
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2026-06-15T17:48:18+00:00",
+      "updated": "2026-06-15T17:48:18+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.17019v1",
+      "html_url": "https://arxiv.org/html/2606.17019v1",
+      "entry_url": "http://arxiv.org/abs/2606.17019v1",
+      "relevance": {
+        "relevant": true,
+        "score": 6,
+        "reason": "The paper directly addresses axion dark matter cosmology and isocurvature perturbation dynamics, which overlaps with the researcher's interest in axion and dark matter physics, though its focus on early-universe attractor solutions for a non-compact axion is more theoretical/cosmological than the researcher's primary focus on solar axion fluxes and detection strategies.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.08487v2",
+      "base_id": "2606.08487",
+      "title": "Probing Dark Photons from Nuclear De-excitation in Reactor Neutrino Experiment",
+      "authors": [
+        "Yuanchao Lou",
+        "Lei Wu"
+      ],
+      "abstract": "Reactor neutrino experiments serve as powerful probes of light new physics. We investigate MeV-scale visible dark photons ($A'$) produced in nuclear reactors through nuclear de-excitation following neutron capture $N^*\\to N A'$. Compared with the conventional Compton-like production process $γe^-\\to A'e^-$, the nuclear de-excitation yields on-shell dark photons with masses up to the nuclear transition energy. Using data from the TEXONO CsI(Tl) detector, we derive the new constraints on the kinetic mixing parameter $ε$ for dark photon masses in the range $0.1\\,\\mathrm{MeV} < m_{A'} < 6.9\\,\\mathrm{MeV}$. We find that nuclear de-excitation not only extends the mass reach of reactor searches to higher dark photon masses but also provides a stronger limit than the Compton-like production process.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-06-07T07:19:13+00:00",
+      "updated": "2026-06-15T14:48:47+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.08487v2",
+      "html_url": "https://arxiv.org/html/2606.08487v2",
+      "entry_url": "http://arxiv.org/abs/2606.08487v2",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "While this paper involves dark-sector physics and reactor neutrino experiments (with explicit mention of JUNO's TAO detector as a future application), its focus on dark photon production via nuclear de-excitation is tangential to the researcher's core interests in early-universe cosmology, PBHs, axion physics, and multi-loop QCD calculations.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.16204v1",
+      "base_id": "2606.16204",
+      "title": "Dark Matter Attenuation inside the Earth: A Boltzmann Equation Approach",
+      "authors": [
+        "Chuan-Yang Xing",
+        "Chen Xia"
+      ],
+      "abstract": "For strongly interacting or boosted dark matter, propagation through the Earth can involve sizable scattering and energy loss, reshaping the underground flux in energy, direction, and normalization. Scattered particles may still fall within the detector acceptance, so the detector-side signal depends on phase-space transport from the Earth's surface to the underground detector. In this work, we formulate this transport problem with the Boltzmann equation. Its integral solution organizes successive scattering effects as a deterministic expansion in scattering orders. We analyze the transport equation in flat-Earth and spherical-Earth geometries, and apply the method to Dirac dark matter with an isoscalar vector interaction. The iterative solution agrees well with the Monte Carlo spectrum.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-06-15T04:30:07+00:00",
+      "updated": "2026-06-15T04:30:07+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.16204v1",
+      "html_url": "https://arxiv.org/html/2606.16204v1",
+      "entry_url": "http://arxiv.org/abs/2606.16204v1",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "The paper falls under the broad umbrella of dark matter physics, which is one of the researcher's interest areas, but the specific topic of Earth-attenuation transport for direct-detection phenomenology is tangential to their core focus on axion detection strategies, PBH dark matter, and cosmological constraints, and lacks connection to their primary work on neutrino physics, multi-loop QCD, or early-universe cosmology.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.16099v1",
+      "base_id": "2606.16099",
+      "title": "LIGO, LISA and Ultralight Axion-like Dark Matter",
+      "authors": [
+        "Lawrence M. Krauss"
+      ],
+      "abstract": "A coherent cosmic background of axion-like particles (ALPs) coupled to photons can produce a small periodic differential phase or polarization modulation for photons traversing separate arms in gravitational wave interferometers, peaked at a frequency associated with the particle mass, and suppressed whenever the dark-matter coherence length $λ_{\\rm coh}$ exceeds the arm length~$L$. For the LIGO audio frequency band the sensitivity to cosmic ALPs is below current bounds. For LISA, however, the natural mass range $m_a \\sim 4\\times10^{-19}$--$4\\times10^{-16}$~eV -- corresponding to a sideband frequency in LISA's science band of $0.1$~mHz--$0.1$~Hz -- may be observable. A 1-year shot-noise-limited search projects a sensitivity $g_{aγγ} \\lesssim 5\\times 10^{-14}$~GeV$^{-1}$ across most of the band, reaching $\\sim 7\\times 10^{-15}$~GeV$^{-1}$ near $0.1$~Hz, which is $10^{3}$--$10^{4}$ below the CAST helioscope bound. An RF heterodyne photodetection upgrade -- to either detector -- might extend the search sensitivity to $g_{aγγ}\\sim 6.5\\times 10^{-14}$~GeV$^{-1}$ at $m_a\\sim 3\\times 10^{-7}$~eV for LIGO and $g_{aγγ}\\sim 3.3\\times 10^{-17}$~GeV$^{-1}$ at $m_a\\sim 5\\times 10^{-13}$~eV for LISA. Dark-matter substructure can affect the signal in a several interesting ways.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "published": "2026-06-15T01:29:21+00:00",
+      "updated": "2026-06-15T01:29:21+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.16099v1",
+      "html_url": "https://arxiv.org/html/2606.16099v1",
+      "entry_url": "http://arxiv.org/abs/2606.16099v1",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "The paper discusses axion-like dark matter detection strategies via gravitational wave interferometers, which partially overlaps with the user's interest in axion detection strategies, but it is primarily detector-sensitivity-focused rather than involving theoretical particle physics, cosmological calculations, or the specific axion topics (Primakoff flux, solar axions) the user works on.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.17042v1",
+      "base_id": "2606.17042",
+      "title": "First Experimental Limit on the Thermal Solar Neutrino Flux",
+      "authors": [
+        "Cecilia Ferrari",
+        "Gonzalo Herrera",
+        "Brooke Russell"
+      ],
+      "abstract": "The neutrino sky below 165\\,keV is yet to be explored. This region provides a unique probe of stellar cooling mechanisms through the detection of thermal solar neutrinos and the low-energy tail of the $pp$ solar cycle. Here, we investigate prospects for probing this regime via neutrino capture on tritium. Analyzing KATRIN public data, we set the first experimental bound on the thermal solar neutrino flux $Φ/Φ_{\\mathrm{SSM}} < 1.86 \\times 10^{18}$ at 95\\%~CL ($1.58\\times10^{18}$ at 90\\%~CL), and show that a $100\\;\\text{kg}\\cdot\\text{yr}$ exposure would constrain the thermal solar neutrino component to $Φ/Φ_{\\mathrm{SSM}} \\lesssim 10^4$ and detect the low-energy $pp$ flux at the Standard Solar Model (SSM) level. Neutrino--electron elastic scattering from $pp$ cycle neutrinos are identified as an irreducible background for neutrino capture searches.",
+      "categories": [
+        "hep-ph",
+        "hep-ex",
+        "nucl-ex"
+      ],
+      "published": "2026-06-15T17:56:47+00:00",
+      "updated": "2026-06-15T17:56:47+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.17042v1",
+      "html_url": "https://arxiv.org/html/2606.17042v1",
+      "entry_url": "http://arxiv.org/abs/2606.17042v1",
+      "relevance": {
+        "relevant": true,
+        "score": 3,
+        "reason": "The paper involves solar neutrino physics, which is tangentially related to the researcher's interest in neutrino physics and JUNO phenomenology, but it is primarily an experimental data-analysis paper using KATRIN data rather than theoretical particle physics or cosmology, and does not address the researcher's specific interests in HNLs, BBN bounds, or self-interactions.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.16711v1",
+      "base_id": "2606.16711",
+      "title": "Revisiting the Lyth bound constraints on inflation from ACT DR6 results",
+      "authors": [
+        "Rui Yang",
+        "Jun Tao",
+        "Peng Wang",
+        "Mian Zhu"
+      ],
+      "abstract": "The Lyth bound asserts that the field excursion of inflaton must be sub-Planckian, thereby imposing an upper bound on the amplitude of the tensor power spectrum in inflationary scenario. This bound is conventionally derived assuming a scale-invariant curvature power spectrum, i.e., $n_s = 1$. However, astrophysical observations confirm a red-tilted spectrum with $n_s < 1$. In light of recent results from the Atacama Cosmology Telescope (ACT) DR6, we revisit these constraints using the newly implied scalar spectral index of $n_s \\simeq 0.9743$. Incorporating the ACT data yields a different upper bound on the tensor-to-scalar ratio $r$, which can potentially exclude inflationary scenarios previously robust under the original Lyth bound with $n_s = 1$. Our result highlights the urgent need to combine theoretical Lyth bound considerations with the most up-to-date astrophysical data.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "published": "2026-06-15T13:40:20+00:00",
+      "updated": "2026-06-15T13:40:20+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.16711v1",
+      "html_url": "https://arxiv.org/html/2606.16711v1",
+      "entry_url": "http://arxiv.org/abs/2606.16711v1",
+      "relevance": {
+        "relevant": true,
+        "score": 3,
+        "reason": "The paper addresses inflationary model constraints and early-universe cosmology, which is broadly within the researcher's stated interest area, but it focuses specifically on the Lyth bound and CMB spectral index analysis rather than the researcher's core subtopics of reheating dynamics, gravitational waves, PBHs, neutrino physics, or multi-loop QCD calculations.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.16686v1",
+      "base_id": "2606.16686",
+      "title": "A Minimal Dark $U(1)_D$ Framework for Inverse Seesaw Neutrino Masses and Dark Matter",
+      "authors": [
+        "D. T. Huong",
+        "N. T. Duy",
+        "Phung Van Dong"
+      ],
+      "abstract": "We propose a minimal framework based on a dark $U(1)_D$ gauge symmetry that simultaneously accounts for neutrino masses and dark matter within an inverse seesaw realization. In this setup, the smallness of light neutrino masses is controlled, suppressed by a lepton-number violating parameter $μ$, which arises dynamically by dark field corrections rather than being introduced by hand. The limit $μ\\to 0$ restores lepton number symmetry, ensuring its, thus neutrino mass, smallness in the sense of 't Hooft naturalness. We analyze the neutrino mass matrix and active-sterile mixing, highlighting their impact on non-unitarity and charged lepton flavor violation. The model is consistent with current experimental constraints while allowing potentially observable signals, such as $μ\\to e γ$. The dark $U(1)_D$ symmetry stabilizes the dark matter candidate and links the neutrino and dark sectors. Viable parameter regions satisfying dark matter relic density, direct detection, and collider bounds are identified. This framework provides a minimal and predictive realization of neutrino mass generation and dark matter stability with a naturally small $μ$ parameter.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-06-15T13:21:08+00:00",
+      "updated": "2026-06-15T13:21:08+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.16686v1",
+      "html_url": "https://arxiv.org/html/2606.16686v1",
+      "entry_url": "http://arxiv.org/abs/2606.16686v1",
+      "relevance": {
+        "relevant": true,
+        "score": 3,
+        "reason": "While the paper involves neutrino mass generation and dark matter phenomenology which overlap tangentially with the researcher's neutrino and dark sector interests, its primary focus on BSM model-building via an inverse seesaw mechanism in a dark U(1)_D framework does not align with the researcher's core interests in cosmological constraints, HNL dark decays, PBHs, multi-loop QCD, or JUNO phenomenology.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    }
+  ]
+}

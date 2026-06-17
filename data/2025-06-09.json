@@ -1,0 +1,69 @@
+{
+  "date": "2025-06-09",
+  "papers": [
+    {
+      "arxiv_id": "2506.08080v2",
+      "base_id": "2506.08080",
+      "title": "Towards AI-assisted Neutrino Flavor Theory Design",
+      "authors": [
+        "Jason Benjamin Baretz",
+        "Max Fieg",
+        "Vijay Ganesh",
+        "Aishik Ghosh",
+        "V. Knapp-Perez",
+        "Jake Rudolph",
+        "Daniel Whiteson"
+      ],
+      "abstract": "Particle physics theories, such as those which explain neutrino flavor mixing, arise from a vast landscape of model-building possibilities. A model's construction typically relies on the intuition of theorists. It also requires considerable effort to identify appropriate symmetry groups, assign field representations, and extract predictions for comparison with experimental data. We develop an Autonomous Model Builder (AMBer), a framework in which a reinforcement learning agent interacts with a streamlined physics software pipeline to search these spaces efficiently. AMBer selects symmetry groups, particle content, and group representation assignments to construct viable models while minimizing the number of free parameters introduced. We validate our approach in well-studied regions of theory space and extend the exploration to a novel, previously unexamined symmetry group. While demonstrated in the context of neutrino flavor theories, this approach of reinforcement learning with physics software feedback may be extended to other theoretical model-building problems in the future.",
+      "categories": [
+        "hep-ph",
+        "cs.LG",
+        "physics.comp-ph",
+        "stat.ML"
+      ],
+      "published": "2025-06-09T18:00:01+00:00",
+      "updated": "2026-04-15T20:21:57+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.08080v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2506.08080v2"
+    },
+    {
+      "arxiv_id": "2506.08086v2",
+      "base_id": "2506.08086",
+      "title": "Large, fast and accurate HI intensity maps with latent overlap diffusion",
+      "authors": [
+        "Satvik Mishra",
+        "Roberto Trotta",
+        "Matteo Viel"
+      ],
+      "abstract": "The distribution of 21 cm emission from neutral hydrogen is a powerful cosmological and astrophysical probe, as it traces the underlying dark matter and cold gas distributions throughout cosmic times. However, the prediction of observable signals is hindered by the large computational costs of the required hydrodynamic simulations. We introduce a novel machine learning pipeline that, once trained on a hydrodynamical simulation, is able to generate both halo mass density maps and the three-dimensional 21 cm brightness temperature signal, starting from a dark matter-only simulation. We use an attention-based ResUNet (HALO) to predict dark matter halo maps, which are then processed through a trained conditional variational diffusion model (LODI) to produce 21 cm brightness temperature maps. LODI is trained on smaller sub-volumes that are then seamlessly combined in 512-times larger volume using a new method, called `latent overlap'. We demonstrate that, once trained on 25^3 (Mpc/h)^3 volume simulations, we are able to predict the 21 cm power spectrum on an unseen dark matter map (with the same cosmology) to within 10% for wavenumbers k <= 10 h Mpc^-1, deep inside the non-linear regime, with a computational effort of the order of two minutes. While demonstrated on this specific volume, our approach is designed to be scalable to arbitrarily large simulations.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2025-06-09T18:00:01+00:00",
+      "updated": "2026-05-21T13:52:52+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.08086v2",
+      "html_url": "https://arxiv.org/html/2506.08086v2",
+      "entry_url": "http://arxiv.org/abs/2506.08086v2"
+    },
+    {
+      "arxiv_id": "2506.07395v2",
+      "base_id": "2506.07395",
+      "title": "Measurement of Downward-going Milli-charged particles beyond GZK cutoff at the Pierre Auger Observatory",
+      "authors": [
+        "Ye Xu"
+      ],
+      "abstract": "It is assumed that superheavy dark matter particles (SHDM, $φ$) with $\\mathcal{O}$(ZeV) mass may decay to relativistic milli-charged particles (MCPs, $χ$) via a channel $φ\\toχ\\barχ$. The downward-going MCPs passing through the atmosphere can be searched for at the Pierre Auger observatory (Auger). The massless hidden photon model is taken for MCPs to interact with nuclei, so that we evaluated the numbers and fluxes of expected MCPs at Auger assuming 14 years of Auger data. The hybrid data of Auger was fitted with the flux of UHE MCPs exceeding GZK-cutoff energy. Then the corresponding upper limits on $ε^2$ are calculated at 90\\% C. L.. These results indicate that MCPs can be searched for with $ε^2\\gtrsim 3.73\\times10^{-5}$ at Auger, when $m_φ=2\\times10^{21}$ eV and $τ_φ=10^{27}$ s. And a new region of 10$^{10}$ eV < $m_{MCP}$ < 10$^{11.6}$ eV and $ε$ > $2.02\\times10^{-2}$ is ruled out in the $m_{MCP}$-$ε$ plane with 14 years of Auger data. These results indicate potential existence of MCPs and SHDM in the Universe.",
+      "categories": [
+        "astro-ph.HE",
+        "hep-ph"
+      ],
+      "published": "2025-06-09T03:38:22+00:00",
+      "updated": "2026-06-10T04:11:18+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.07395v2",
+      "html_url": "https://arxiv.org/html/2506.07395v2",
+      "entry_url": "http://arxiv.org/abs/2506.07395v2"
+    }
+  ],
+  "total": 3
+}

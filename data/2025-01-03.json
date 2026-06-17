@@ -1,0 +1,65 @@
+{
+  "date": "2025-01-03",
+  "papers": [
+    {
+      "arxiv_id": "2501.02046v2",
+      "base_id": "2501.02046",
+      "title": "Relational bundle geometric formulation of non-relativistic quantum mechanics",
+      "authors": [
+        "J. François",
+        "L. Ravera"
+      ],
+      "abstract": "We present a bundle geometric formulation of non-relativistic many-particles Quantum Mechanics. A wave function is seen to be a $\\mathbb{C}$-valued cocyclic tensorial 0-form on configuration space-time seen as a principal bundle, while the Schrödinger equation flows from its covariant derivative, with the action functional supplying a (flat) cocyclic connection 1-form on the configuration bundle. In line with the historical motivations of Dirac and Feynman, ours is thus a Lagrangian geometric formulation of QM, in which the Dirac-Feynman path integral arises in a geometrically natural way. Applying the dressing field method, we obtain a relational reformulation of this geometric non-relativistic QM: a relational wave function is realised as a basic cocyclic 0-form on the configuration bundle. In this relational QM, any particle position can be used as a dressing field, i.e. as a \"physical reference frame\". The dressing field method naturally accounts for the freedom in choosing the dressing field, which is readily understood as a covariance of the relational formulation under changes of physical reference frame.",
+      "categories": [
+        "quant-ph",
+        "hep-th",
+        "math-ph"
+      ],
+      "published": "2025-01-03T19:00:00+00:00",
+      "updated": "2026-04-14T15:39:45+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2501.02046v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2501.02046v2"
+    },
+    {
+      "arxiv_id": "2501.01755v3",
+      "base_id": "2501.01755",
+      "title": "Confining potential in holographic bottom-up QCD from WKB",
+      "authors": [
+        "Miguel Angel Martin Contreras",
+        "Mitsutoshi Fujita",
+        "Alfredo Vega"
+      ],
+      "abstract": "By using the \\emph{Rydberg--Klein--Rees} (RKR) formulas to solve the inverse Schrödinger problem, we found a confining bottom-up potential from a given eigenvalue spectrum. To illustrate this methodology, we consider the vector meson spectrum derived in the D3/D7 system as input data to derive the corresponding bottom-up confining potential that resembles the geometric structure of the so-called hardwall model. We compute some properties for this new bottom-up model, including the thermal deconfinement phase transition, the $ρ$ radial Regge trajectory, and the configurational entropy.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-01-03T10:57:13+00:00",
+      "updated": "2026-05-25T07:33:08+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2501.01755v3",
+      "html_url": "https://arxiv.org/html/2501.01755v3",
+      "entry_url": "http://arxiv.org/abs/2501.01755v3"
+    },
+    {
+      "arxiv_id": "2501.02119v3",
+      "base_id": "2501.02119",
+      "title": "The Massive Flat Space Limit of Cosmological Correlators",
+      "authors": [
+        "Sebastian Cespedes",
+        "Sadra Jazayeri"
+      ],
+      "abstract": "Identifying useful flat-space limits for cosmological correlators, where they can be expressed in terms of observables in Minkowski space is nontrivial due to their scale-invariant nature. In recent years, it has been shown that momentum-space correlators encode flat-space amplitudes at specific singularities that emerge in the complex plane of their kinematics after analytical continuation. This flat-space limit is massless in the sense that the amplitude corresponds to the ultraviolet regime of the associated flat-space process, where the masses of the internal propagators are effectively zero. In this paper, we introduce a novel massive flat-space (MFS) limit, in which the internal masses in the corresponding flat-space Feynman graph remain finite. Our proposal applies to arbitrary graphs with light external legs and heavy internal lines, using a double-scaling limit. In this limit, the external energies, treated as independent variables, approach zero in inverse proportion to the propagator masses, which are sent to infinity. We present a general reduction formula that expresses diagrams in this limit in terms of amputated Feynman graphs in flat space. Our findings underscore the deep connections between the rich structure of massive Feynman integrals and the properties of cosmological correlators involving the exchange of heavy fields. Using this reduction formula, we compute sample one-loop contributions from heavy particles to inflationary correlators in the small sound-speed regime, revealing novel bispectrum shapes. The non-Gaussian signals we uncover, which are especially pronounced around the equilateral configuration, cannot be reproduced by adding local terms to the effective field theory of single-field inflation. Instead, they are captured by incorporating prescribed spatially non-local operators into the EFT.",
+      "categories": [
+        "hep-th",
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "published": "2025-01-03T22:08:01+00:00",
+      "updated": "2026-06-14T15:35:11+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2501.02119v3",
+      "html_url": "https://arxiv.org/html/2501.02119v3",
+      "entry_url": "http://arxiv.org/abs/2501.02119v3"
+    }
+  ],
+  "total": 3
+}

@@ -1,0 +1,152 @@
+{
+  "date": "2026-01-30",
+  "papers": [
+    {
+      "arxiv_id": "2601.22910v3",
+      "base_id": "2601.22910",
+      "title": "The Bondi universe: Can negative mass drive the cosmological expansion?",
+      "authors": [
+        "Giovanni Manfredi",
+        "Jean-Louis Rouet",
+        "Bruce Miller"
+      ],
+      "abstract": "We identify a new cosmological coincidence that parallels the well-known matter/dark-energy coincidence: the present-epoch transition of the universe from a weakly coupled (collisionless) to a strongly coupled (collisional) gravitational regime. Within a cosmological model containing equal amounts of positive and negative Bondi masses -- consistent with the weak equivalence principle and momentum conservation -- we show that this coupling transition naturally coincides with the shift from a coasting to an accelerating expansion. A linear response analysis of the corresponding Vlasov-Poisson system reveals that mixed positive-negative mass configurations are always unstable, with growth rates that increase at shorter wavelengths, thereby driving the system toward strong coupling. Using long-time, exact one-dimensional N-body simulations, we demonstrate that the universe undergoes three successive expansion phases: an initial ballistic regime, an intermediate random-walk acceleration driven by sporadic Bondi encounters, and finally a uniformly accelerating phase triggered by the formation of stable positive/negative mass pairs. The onset of this last phase occurs precisely when the coupling parameter crosses unity, linking the two cosmological coincidences through a single dynamical mechanism. These results suggest that cosmic acceleration may arise from the nonlinear dynamics of a gravitationally neutral mixed-mass universe, without invoking dark energy or a cosmological constant.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "published": "2026-01-30T12:33:22+00:00",
+      "updated": "2026-04-20T15:45:28+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.22910v3",
+      "html_url": "https://arxiv.org/html/2601.22910v3",
+      "entry_url": "http://arxiv.org/abs/2601.22910v3"
+    },
+    {
+      "arxiv_id": "2601.22914v3",
+      "base_id": "2601.22914",
+      "title": "Exact black holes and black branes with bumpy horizons supported by superfluid pions",
+      "authors": [
+        "Fabrizio Canfora",
+        "Andrés Gomberoff",
+        "Carla Henríquez-Baez",
+        "Aldo Vera"
+      ],
+      "abstract": "We present exact solutions of the Einstein $SU(2)$ non-linear sigma model in $3+1$ spacetime dimensions, describing bumpy black holes and black branes. Using an Ansatz for superfluid pion multi-vortices, the matter sector reduces to a first-order BPS system, while the Einstein equations reduce to a Liouville equation with a smooth source governing the horizon deformation. These solutions describe horizons of different constant curvatures, with nontrivial bumpy geometries protected by an integer topological invariant, namely the vorticity, which also controls the number of bumps and the black hole thermodynamics. Remarkably, such horizons arise in a minimal and physically motivated matter model, without invoking exotic fields or modified gravity. The physical implications of these results in holography and astrophysics are briefly described.",
+      "categories": [
+        "hep-th",
+        "astro-ph.HE",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "published": "2026-01-30T12:34:35+00:00",
+      "updated": "2026-04-15T21:28:22+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.22914v3",
+      "html_url": "https://arxiv.org/html/2601.22914v3",
+      "entry_url": "http://arxiv.org/abs/2601.22914v3"
+    },
+    {
+      "arxiv_id": "2601.23019v2",
+      "base_id": "2601.23019",
+      "title": "Toward claiming a detection of gravitational memory",
+      "authors": [
+        "Jann Zosso",
+        "Lorena Magaña Zertuche",
+        "Silvia Gasparotto",
+        "Adrien Cogez",
+        "Henri Inchauspé",
+        "Milo Jacobs"
+      ],
+      "abstract": "Gravitational memory is a zero-frequency effect associated with a permanent change in the asymptotic spacetime metric induced by radiation. Although its universal manifestation is a net change in the proper distances between freely falling test masses, gravitational wave detectors are intrinsically insensitive to the final offset and can only probe the transition. A central challenge for any detection claim is therefore to define a physically meaningful and operationally robust model of the time-dependent signal that is uniquely attributable to gravitational memory and distinguishable from purely oscillatory radiation. We show that while the Bondi-van der Burg-Metzner-Sachs balance laws rigorously establish the total memory offset, a robust definition of the observable memory rise requires an additional physical input: a separation of scales between high-frequency gravitational waves and the lower-frequency buildup of memory. We formulate this separation using the Isaacson description of gravitational wave energy momentum. Motivated by this observation, we develop a theoretical framework for defining and modeling the time-dependent memory rise, building on a self-contained review of gravitational memory and focusing on compact binary coalescences. Specializing to space-based detectors, we analyze the LISA response to gravitational radiation including memory, with emphasis on mergers of supermassive black hole binaries, which offer the most promising prospects for a first single-event detection. The framework provides the theoretical foundation for statistically well-defined hypothesis testing between memory-free and memory-full radiation and enables quantitative assessments of detection prospects. These results establish a principled pathway toward a future observational claim of gravitational memory.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2026-01-30T14:27:25+00:00",
+      "updated": "2026-05-05T14:01:09+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.23019v2",
+      "html_url": "https://arxiv.org/html/2601.23019v2",
+      "entry_url": "http://arxiv.org/abs/2601.23019v2"
+    },
+    {
+      "arxiv_id": "2602.00301v2",
+      "base_id": "2602.00301",
+      "title": "Studying dark gaps in Ly-$α$ forest transmission with large reionization simulations",
+      "authors": [
+        "Barun Maity",
+        "Frederick B. Davies",
+        "Benedetta Spina",
+        "Sarah E. I. Bosman"
+      ],
+      "abstract": "The physical conditions of the intergalactic medium (IGM) during the final stages of cosmic reionization ($z\\sim5.0-6.0$) are not yet fully understood. Recent reports of unexpectedly large-scale ($\\ge 150 h^{-1}\\mathrm{cMpc}$) correlation in Ly-$α$ transmission flux using extended XQR-30 quasar spectra pose interesting challenges on the reionization end stages. In this work, we investigate the Ly-$α$ forest dark-gap distribution (defined as regions with transmitted flux below 0.05) as another sensitive tracer of the IGM, using an efficient, large-volume ($\\sim 1 ~\\mathrm{Gpc}$) simulation framework. By constructing a suite of physically motivated model variants (i.e, varying the reionization redshift, IGM temperature, and ionizing-photon mean free path), we generate synthetic sightlines and compare their predicted cumulative distribution of dark gaps with that of observed spectra (at redshift intervals of $Δz=0.2$). We find that most of the models achieve qualitatively consistent agreement with the data. The scenario involving a slightly later reionization completion ($z\\sim 5.4$) provides the closest match, while a short constant mean free path model is disfavored by the data at lower redshifts. These findings give qualitative support for the emerging scenario of reionization end extending to $z\\le5.7$, although they can not rule out a slightly early reionization with enhanced post-ionization ultraviolet (UV) background fluctuations. A similar conclusion arises from the redshift distribution of long dark gap ($L\\ge 30 ~h^{-1}\\mathrm{cMpc}$) fraction. However, the model variants are still not able to reproduce the observed strong flux correlations at unusually large scales, which remains open for further investigations.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2026-01-30T20:51:04+00:00",
+      "updated": "2026-05-09T17:59:53+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.00301v2",
+      "html_url": "https://arxiv.org/html/2602.00301v2",
+      "entry_url": "http://arxiv.org/abs/2602.00301v2"
+    },
+    {
+      "arxiv_id": "2601.23230v3",
+      "base_id": "2601.23230",
+      "title": "Detectability of Gravitational-Wave Memory with LISA: A Bayesian Approach",
+      "authors": [
+        "Adrien Cogez",
+        "Silvia Gasparotto",
+        "Jann Zosso",
+        "Henri Inchauspé",
+        "Chantal Pitte",
+        "Lorena Magaña Zertuche",
+        "Antoine Petiteau",
+        "Marc Besancon"
+      ],
+      "abstract": "Gravitational wave (GW) astronomy opens a new venue to explore the universe. Future observatories such as LISA, the Laser Interferometer Space Antenna, are expected to observe previously undetectable fundamental physics effects in signals predicted by General Relativity (GR).One particularly interesting such signal is associated to the displacement memory effect, which corresponds to a permanent deformation of spacetime due to the passage of gravitational radiation. In this work, we explore the ability of LISA to observe and characterize this effect. In order to do this, we use state-of-the-art simulations of the LISA instrument, and we perform a Bayesian analysis to assess the detectability and establish general conditions to claim detection of the displacement memory effect from individual massive black hole binary (MBHB) merger events in LISA. We perform parameter estimation both to explore the impact of the displacement memory effect and to reconstruct its amplitude. We discuss the precision at which such a reconstruction can be obtained thus opening the way to tests of GR and alternative theories. To provide astrophysical context, we apply our analysis to black hole binary populations models and estimate the rates at which the displacement memory effect could be observed within the LISA planned lifetime.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2026-01-30T17:58:47+00:00",
+      "updated": "2026-05-20T14:00:43+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.23230v3",
+      "html_url": "https://arxiv.org/html/2601.23230v3",
+      "entry_url": "http://arxiv.org/abs/2601.23230v3"
+    },
+    {
+      "arxiv_id": "2601.22826v2",
+      "base_id": "2601.22826",
+      "title": "Helicity Softer Dipole Pomeron Model for Vector Meson Photoproduction by Arbitrarily Polarized Photons",
+      "authors": [
+        "Dart-yin A. Soh"
+      ],
+      "abstract": "Understanding the spin dynamics of strong interactions from the nonperturbative to the perturbative regime remains a challenge. Regge pole theory offers a phenomenological framework, but existing models fail to simultaneously describe cross sections and polarization observables. Here we present a model with the Softer Dipole Pomeron--a dipole Pomeron with intercept $α(0)<1$--based on the Regge theory framework for vector meson photoproduction by arbitrarily polarized photons at energies ranging from high down to the production threshold. The accurate helicity amplitude is constructed with free trajectory parameters. This model compatibly describes the integrated and differential cross sections and the spin-density matrix elements of $ρ^{0}$ photoproduction, by fitting it synchronously to three categories of data . The agreement of our model with experimental data remarkably improves upon previous models. Predictions for circular SDMEs are also made. This model provides essential insight into the spin dynamics of nonperturbative QCD accessible at future experiments. It also underpins our proposed novel cosmic-photon polarimetry.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-01-30T10:53:00+00:00",
+      "updated": "2026-05-25T10:16:06+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.22826v2",
+      "html_url": "https://arxiv.org/html/2601.22826v2",
+      "entry_url": "http://arxiv.org/abs/2601.22826v2"
+    },
+    {
+      "arxiv_id": "2601.22502v2",
+      "base_id": "2601.22502",
+      "title": "Entanglement in Elastic and Inelastic Two-particle Scatterings at High Energy",
+      "authors": [
+        "Robi Peschanski",
+        "Shigenori Seki"
+      ],
+      "abstract": "We study the entanglement produced in transverse momentum by two-particle scattering at high energy. Employing the S-matrix framework for the derivation of reduced density matrices, we formulate the entanglement entropy for an inelastic scattering as well as an elastic one. We display the formulas of the entanglement entropy in terms of two-body cross sections. We also derive the entanglement density as a function of the transverse momentum. As an application, we then focus on both forward elastic ($pn \\to pn$) and inelastic ($pn \\to np$) channels scattering allowing for a fruitful comparison of the two reactions with the same proton-neutron content. We evaluate the elastic and inelastic entanglement entropy by using known parameterizations of experimental data for neutron-proton reactions. Comparing those entanglement entropies, we observe that the inelastic scattering produces more overall entanglement than the elastic one in the $pn$ sector.",
+      "categories": [
+        "hep-th",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "published": "2026-01-30T03:24:20+00:00",
+      "updated": "2026-06-04T10:26:02+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.22502v2",
+      "html_url": "https://arxiv.org/html/2601.22502v2",
+      "entry_url": "http://arxiv.org/abs/2601.22502v2"
+    }
+  ],
+  "total": 7
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2022-04-11",
+  "papers": [
+    {
+      "arxiv_id": "2204.05305v4",
+      "base_id": "2204.05305",
+      "title": "Galaxy and halo angular clustering in LCDM and Modified Gravity cosmologies",
+      "authors": [
+        "Paweł Drozda",
+        "Wojciech A. Hellwing",
+        "Maciej Bilicki"
+      ],
+      "abstract": "Using a suite of $N$-body simulations we study the angular clustering of galaxies, halos, and dark matter in $\\mathrm{Λ\\text{CDM}}$ and Modified Gravity (MG) scenarios. We consider two general categories of such MG models, one is the $f(R)$ gravity, and the other is the normal branch of the Dvali-Gabadadze-Porrati brane world (nDGP). To measure angular clustering we construct a set of observer-frame lightcones and resulting mock sky catalogs. We focus on the area-averaged angular correlation functions, $W_J$, and the associated reduced cumulants, $S_J\\equiv W_J/W_2^{(J-1)}$, and robustly measure them up to the 9th order using counts-in-cells (CIC). We find that $0.15 < z < 0.3$ is the optimal redshift range to maximize the MG signal in our lightcones. Analyzing various scales for the two types of statistics, we identify up to 20\\% relative departures in MG measurements from general relativity (GR), with varying signal significance. For the case of halos and galaxies, we find that $3$rd order statistics offer the most sensitive probe of the different structure formation scenarios, with both $W_3$ and the reduced skewness, $S_3$, reaching from $2σ$ to $4σ$ significance at angular scales $θ\\sim 0.13 ^\\circ$. The MG clustering of the smooth dark matter field is characterized by even stronger deviations ($\\stackrel{>}{{}_\\sim} 5σ$) from GR, albeit at a bit smaller scales of $θ\\sim0.08^\\circ$, where baryonic physics is already important. Finally, we stress out that our mock halo and galaxy catalogs are characterized by rather low surface number densities when compared to existing and forthcoming state-of-the-art photometric surveys. This opens up exciting potential for testing GR and MG using angular clustering in future applications, with even higher precision and significance than reported here.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2022-04-11T17:58:33+00:00",
+      "updated": "2026-05-21T07:14:26+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2204.05305v4",
+      "html_url": "https://arxiv.org/html/2204.05305v4",
+      "entry_url": "http://arxiv.org/abs/2204.05305v4"
+    }
+  ],
+  "total": 1
+}

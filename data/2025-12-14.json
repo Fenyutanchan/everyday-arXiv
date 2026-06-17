@@ -1,0 +1,49 @@
+{
+  "date": "2025-12-14",
+  "papers": [
+    {
+      "arxiv_id": "2512.12723v3",
+      "base_id": "2512.12723",
+      "title": "Universal Supercritical Behavior in Global Monopole-Charged AdS Black Holes",
+      "authors": [
+        "Ankit Anand",
+        "Shoucheng Wang"
+      ],
+      "abstract": "We analytically investigate the Widom line and universal supercritical crossover for charged AdS black holes threaded by a global monopole. We compute thermodynamic variables in both the extended and canonical ensembles. We derive the scaled variance $Ω$ using the Gibbs free energy and locate the Widom line as the extrema of this. Using mean-field expansion of the equation of state near criticality, we obtain closed-form expressions for the Widom line and the two branching crossover lines $L^\\pm$. We show that the monopole parameter shifts the critical parameters but does not change the mean-field universal scaling: the leading linear term and the nonanalytic correction remain universal in both ensembles. We also numerically verify this using the supercritical crossover lines $L^\\pm$ and show the universal scaling laws and the complete supercritical phase diagrams.",
+      "categories": [
+        "hep-th",
+        "cond-mat.stat-mech",
+        "gr-qc"
+      ],
+      "published": "2025-12-14T14:56:16+00:00",
+      "updated": "2026-05-12T14:01:07+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.12723v3",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2512.12723v3"
+    },
+    {
+      "arxiv_id": "2512.12580v2",
+      "base_id": "2512.12580",
+      "title": "Cryptographic transformations over polyadic rings",
+      "authors": [
+        "Steven Duplij",
+        "Qiang Guo",
+        "Na Fu"
+      ],
+      "abstract": "This article introduces a novel cryptographic paradigm based on nonderived polyadic algebraic structures. Traditional cryptosystems rely on binary operations within groups, rings, or fields, whose well-understood properties can be exploited in cryptanalysis. To overcome these vulnerabilities, we propose a shift to polyadic rings, which generalize classical rings by allowing operations of higher arity: an $m$-ary addition and an $n$-ary multiplication. The foundation of our approach is the construction of polyadic integers -- congruence classes of ordinary integers endowed with such $m$-ary and $n$-ary operations. A key innovation is the parameter-to-arity mapping $Φ(a,b)=(m,n)$, which links the parameters $(a,b)$ defining a congruence class to the specific arities required for algebraic closure. This mapping is mathematically intricate: it is non-injective, non-surjective, and multivalued. This complex, non-unique relationship forms the core of the proposed cryptosystem's security. We present two concrete encryption procedures that leverage this structure by encoding plaintext within the parameters of polyadic rings and transmitting information via polyadically quantized analog signals. In one method, plaintext is linked to the additive arity $m_{i}$ and secured using the summation of such signals; in the other, it is linked to a ring parameter $a_{i}$ and secured using their multiplication. In both cases, the \"quantized\" nature of polyadic operations generates systems of equations that are straightforward for a legitimate recipient with the correct key but exceptionally difficult for an attacker without it. The resulting framework promises a substantial increase in cryptographic security. This work establishes the theoretical foundation for this new class of encryption schemes and highlights their potential for constructing robust, next-generation cryptographic protocols.",
+      "categories": [
+        "cs.CR",
+        "eess.SP",
+        "hep-th",
+        "math-ph",
+        "math.RA"
+      ],
+      "published": "2025-12-14T07:15:55+00:00",
+      "updated": "2026-06-10T07:27:59+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.12580v2",
+      "html_url": "https://arxiv.org/html/2512.12580v2",
+      "entry_url": "http://arxiv.org/abs/2512.12580v2"
+    }
+  ],
+  "total": 2
+}

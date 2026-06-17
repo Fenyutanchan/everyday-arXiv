@@ -1,0 +1,30 @@
+{
+  "date": "2024-12-17",
+  "papers": [
+    {
+      "arxiv_id": "2412.13144v2",
+      "base_id": "2412.13144",
+      "title": "Semi-Analytic Modeling of Dark Matter Subhalo Encounters with Thin Stellar Streams: Statistical Predictions for GD-1-like Streams in CDM",
+      "authors": [
+        "Duncan K. Adams",
+        "Aditya Parikh",
+        "Oren Slone",
+        "Rouven Essig",
+        "Manoj Kaplinghat",
+        "Adrian M. Price-Whelan"
+      ],
+      "abstract": "Stellar streams from disrupted globular clusters are dynamically cold structures that are sensitive to perturbations from dark matter subhalos, allowing them in principle to trace the dark matter substructure in the Milky Way. We model, within the context of $Λ$CDM, the likelihood of dark matter subhalos to produce a significant feature in a GD-1-like stream and analyze the properties of such subhalos. We generate many realizations of the subhalo population within a Milky Way mass host halo using the semi-analytic code SatGen, accounting for effects such as tidal stripping and dynamical friction. The subhalo distributions are combined with a GD-1-like stream model, and the impact of subhalos that pass close to the stream are modeled with Gala. We find that subhalos with masses in the range $2\\times 10^6 M_{\\odot} - 10^8 M_{\\odot}$ at the time of the stream-subhalo encounter, corresponding to masses of about $2 \\times 10^7 M_{\\odot} - 10^9 M_{\\odot}$ at the time of infall, are the likeliest to produce gaps in a GD-1-like stream. We find that gaps occur on average $\\sim$3~times per realization of the host system. These gaps have typical widths of $\\sim(5 - 27)$~deg and fractional underdensities of $\\sim (10 - 30)\\%$, with larger gaps being caused by heavier subhalos. The stream-subhalo encounters responsible for these have impact parameters $(0.1 - 1.5)$~kpc and relative velocities $\\sim(200 - 410)$~km/s. We also investigate the effects of increasing the host-halo mass on the gap properties and formation rate.",
+      "categories": [
+        "astro-ph.GA",
+        "astro-ph.CO",
+        "hep-ph"
+      ],
+      "published": "2024-12-17T18:10:06+00:00",
+      "updated": "2026-05-11T18:37:46+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2412.13144v2",
+      "html_url": "https://arxiv.org/html/2412.13144v2",
+      "entry_url": "http://arxiv.org/abs/2412.13144v2"
+    }
+  ],
+  "total": 1
+}

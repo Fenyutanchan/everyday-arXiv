@@ -1,0 +1,88 @@
+{
+  "date": "2025-08-22",
+  "papers": [
+    {
+      "arxiv_id": "2508.16363v3",
+      "base_id": "2508.16363",
+      "title": "Infinite matrix product states for $(1+1)$-dimensional gauge theories",
+      "authors": [
+        "Ross Dempsey",
+        "Anna-Maria E. Glück",
+        "Silviu S. Pufu",
+        "Benjamin T. Søgaard"
+      ],
+      "abstract": "We present a matrix product operator construction that allows us to represent the lattice Hamiltonians of (abelian or non-abelian) gauge theories in a local and manifestly translation-invariant form. In particular, we use symmetric matrix product states and introduce link-enhanced matrix product operators (LEMPOs) that can act on both the physical and virtual spaces of the matrix product states. This construction allows us to study Hamiltonian lattice gauge theories on infinite lattices. As examples, we show how to implement this method to study the massless and massive one-flavor Schwinger model and adjoint QCD$_2$.",
+      "categories": [
+        "hep-th",
+        "cond-mat.str-el",
+        "hep-lat"
+      ],
+      "published": "2025-08-22T13:14:29+00:00",
+      "updated": "2026-04-14T15:40:23+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.16363v3",
+      "html_url": "https://arxiv.org/html/2508.16363v3",
+      "entry_url": "http://arxiv.org/abs/2508.16363v3"
+    },
+    {
+      "arxiv_id": "2508.16530v3",
+      "base_id": "2508.16530",
+      "title": "Reconciling the ACT Preference in $f(T)$ Gravity: Inflation and Reheating Constraints",
+      "authors": [
+        "Feng-Yi Zhang",
+        "Rongrong Zhai",
+        "Li-Yang Chen"
+      ],
+      "abstract": "Compared with the results of Planck-only analyses, recent measurements from the Atacama Cosmology Telescope (ACT) indicate a preference for a slightly bluer scalar spectral index, placing canonical inflationary models in General Relativity (GR) under mild pressure. We demonstrate that $f(T)$ gravity systematically accommodates these dataset-dependent preferences by suppressing the tensor-to-scalar ratio in monomial and hilltop potentials, and by shifting the spectral index of E-models toward the ACT-favored region. Incorporating Big Bang Nucleosynthesis bounds, we break the degeneracy between the inflationary $e$-folding number and the post-inflationary thermal history. A direct side-by-side comparison reveals that reconciling models such as the Starobinsky potential with ACT data in GR strictly necessitates a non-standard, stiff (kinetic-dominated) reheating phase. In contrast, torsional corrections in $f(T)$ gravity significantly enlarge the viable parameter space, relaxing these stringent phenomenological requirements and establishing a coherent framework that jointly constrains CMB observables and reheating dynamics.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-08-22T16:52:38+00:00",
+      "updated": "2026-06-09T07:05:21+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.16530v3",
+      "html_url": "https://arxiv.org/html/2508.16530v3",
+      "entry_url": "http://arxiv.org/abs/2508.16530v3"
+    },
+    {
+      "arxiv_id": "2508.16399v2",
+      "base_id": "2508.16399",
+      "title": "Constraints on the extreme mass-ratio inspiral population from LISA data",
+      "authors": [
+        "Shashwat Singh",
+        "Christian E. A. Chapman-Bird",
+        "Christopher P L Berry",
+        "John Veitch"
+      ],
+      "abstract": "Gravitational waves from extreme mass-ratio inspirals (EMRIs), the inspirals of stellar-mass compact objects into massive black holes, are predicted to be observed by the Laser Interferometer Space Antenna (LISA). A sufficiently large number of EMRI observations will provide unique insights into the massive black hole population. We have developed a hierarchical Bayesian inference framework capable of constraining the parameters of the EMRI population, accounting for selection biases. We leverage the capacity of a feed-forward neural network as an emulator, enabling detectability calculations of $\\sim10^5$ EMRIs in a fraction of a second, speeding up the likelihood evaluation by $\\gtrsim6$ orders of magnitude. We validate our framework on a phenomenological EMRI population model. This framework enables studies of how well we can constrain EMRI population parameters, such as the slope of both the massive and stellar-mass black hole mass spectra and the branching fractions of different formation channels, allowing further investigation into the evolution of massive black holes.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE"
+      ],
+      "published": "2025-08-22T14:00:58+00:00",
+      "updated": "2026-05-06T16:25:25+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.16399v2",
+      "html_url": "https://arxiv.org/html/2508.16399v2",
+      "entry_url": "http://arxiv.org/abs/2508.16399v2"
+    },
+    {
+      "arxiv_id": "2508.16538v2",
+      "base_id": "2508.16538",
+      "title": "Probing the Perturbative Reheating History of Decaying Oscillatory Inflation with ACT Constraints",
+      "authors": [
+        "Li-Yang Chen",
+        "Rongrong Zhai",
+        "Feng-Yi Zhang"
+      ],
+      "abstract": "Precision measurements of the Cosmic Microwave Background (CMB) now offer a powerful probe of the unknown reheating epoch. In this work, we scrutinize a decaying oscillatory inflation model inspired by supergravity, replacing standard ad hoc reheating assumptions with a fully dynamical calculation based on perturbative inflaton decay. By numerically tracking the energy transfer and the evolution of the equation of state, we eliminate the theoretical degeneracy associated with the reheating duration, directly linking the microphysical decay rate $Γ$ to the observable spectral index $n_s$. We confront these self-consistent predictions with the combined constraints from Planck 2018 and ACT DR6. Our analysis demonstrates that the viable parameter space is tightly bracketed: the thermalization requirement from Big Bang Nucleosynthesis imposes a strict lower bound on the coupling strength, while the latest ACT data strongly favor scenarios with efficient reheating ($T_{\\text{re}} \\gtrsim 10^{14}$ GeV), effectively pushing the model towards the instantaneous reheating limit. This study highlights the capability of modern CMB data to constrain the particle physics nature of the early universe.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "published": "2025-08-22T17:01:19+00:00",
+      "updated": "2026-06-09T06:32:30+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.16538v2",
+      "html_url": "https://arxiv.org/html/2508.16538v2",
+      "entry_url": "http://arxiv.org/abs/2508.16538v2"
+    }
+  ],
+  "total": 4
+}

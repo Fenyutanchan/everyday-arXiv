@@ -1,0 +1,65 @@
+{
+  "date": "2025-09-14",
+  "papers": [
+    {
+      "arxiv_id": "2509.11281v2",
+      "base_id": "2509.11281",
+      "title": "Existence of uniform Temple charts and applications to null distance",
+      "authors": [
+        "Benjamin Meco",
+        "Anna Sakovich",
+        "Christina Sormani"
+      ],
+      "abstract": "In this paper, we prove that Temple's cylindrical future null coordinate charts can be constructed uniformly and we estimate the gradients of their optical functions. We then apply these charts to study a spacetime $(N,g)$ that has been converted into a definite metric space $(N,\\hat{d}_τ)$, where $\\hat{d}_τ$ is the null distance of Sormani and Vega defined using a weak temporal function $τ$. In particular, we prove that $(N, \\hat{d}_τ)$ is a rectifiable metric space, where the causal structure is locally encoded by $τ$ and $\\hat{d}_τ$. As a consequence, applying a classical theorem of Hawking and following a technique developed by Sakovich and Sormani, we can prove a Lorentzian isometry theorem, generalizing our earlier result.",
+      "categories": [
+        "math.DG",
+        "gr-qc"
+      ],
+      "published": "2025-09-14T14:13:57+00:00",
+      "updated": "2026-05-27T04:36:51+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.11281v2",
+      "html_url": "https://arxiv.org/html/2509.11281v2",
+      "entry_url": "http://arxiv.org/abs/2509.11281v2"
+    },
+    {
+      "arxiv_id": "2509.11234v2",
+      "base_id": "2509.11234",
+      "title": "Investigating the two-pion exchange of the double charm $DD^*$ chiral interactions and $T_{cc}$",
+      "authors": [
+        "Hao Xu",
+        "Li-xiang Ren"
+      ],
+      "abstract": "Under chiral effective field theory, we study the $S$-wave $DD^*$ interactions up to second chiral order at one-loop level, which contain full contact, one-pion-exchange (OPE) and two-pion-exchange (TPE) contributions. Here, we adopt a new subtraction scheme of the two-particle-reducible contributions, and attempt different regularization schemes uniquely for the TPE contributions since they are highly divergent on the momentum transfer. Under these schemes we conclude that, in the $I=0$ channel, the TPE contribution is repulsive, then the competition between this powerful repulsing TPE and the other two (contact and OPE) results in a quite weak attraction. This explains why $T_{cc}$ has an extremely small binding energy if treated as the $I=0$ $DD^*$ bound state. This feature resembles that of hidden charm $D\\bar{D}^*$ as we investigated in previous work [Phys. Rev. D 105, 034013 (2022)], which also interpreted the extremely near-threshold phenomenon of $X(3872)$. In addition, we also solve the Bethe-Salpeter equation with the chiral interactions for a consistency check.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-09-14T12:22:09+00:00",
+      "updated": "2026-05-25T07:46:39+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.11234v2",
+      "html_url": "https://arxiv.org/html/2509.11234v2",
+      "entry_url": "http://arxiv.org/abs/2509.11234v2"
+    },
+    {
+      "arxiv_id": "2509.11143v2",
+      "base_id": "2509.11143",
+      "title": "Inflationary trispectrum of gauge fields from scalar and tensor exchanges",
+      "authors": [
+        "P. Jishnu Sai",
+        "S. R. Haridev",
+        "Rajeev Kumar Jain"
+      ],
+      "abstract": "In this paper, we compute the inflationary trispectrum of primordial gauge fields generated through the scalar and tensor exchanges in models with spectator $U(1)$ gauge fields which are kinetically coupled to the inflaton. Focusing on the connected four-point autocorrelation function of gauge fields, we derive exact analytical expressions for the full trispectrum of both electric and magnetic fields using the in-in formalism and cosmological diagrammatic rules, and explore their respective contributions in specific momentum configurations. For the scalar exchange, we find that the trispectrum signal in the equisided configuration grows with the exchange momentum and reaches its maximum in the flattened limit. However, in the counter collinear limit, we show that the non-linearity parameter associated with the trispectrum scales quadratically with the corresponding parameter of the cross-correlation bispectrum of magnetic fields and curvature perturbations, thereby establishing a hierarchical relation between the higher- and lower-order correlation functions. For the tensor exchange, the trispectrum displays a richer angular dependence, reflecting the sensitivity to the orientation of the momentum quadrilateral with respect to the tensor polarisation, producing characteristic angular modulations in the trispectrum. Detecting such angular signatures in future high-precision cosmological observations would provide a novel window into tensor-mediated interactions in the early universe.",
+      "categories": [
+        "hep-th",
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "published": "2025-09-14T07:25:13+00:00",
+      "updated": "2026-06-11T14:17:57+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.11143v2",
+      "html_url": "https://arxiv.org/html/2509.11143v2",
+      "entry_url": "http://arxiv.org/abs/2509.11143v2"
+    }
+  ],
+  "total": 3
+}

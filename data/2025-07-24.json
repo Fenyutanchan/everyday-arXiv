@@ -1,0 +1,132 @@
+{
+  "date": "2025-07-24",
+  "papers": [
+    {
+      "arxiv_id": "2507.18351v3",
+      "base_id": "2507.18351",
+      "title": "Probing metric fluctuations with the spin of a particle in a quantum simulation",
+      "authors": [
+        "Jiannis K. Pachos",
+        "Patricio Salgado-Rebolledo",
+        "Martine Schut"
+      ],
+      "abstract": "Exploring potential empirical manifestations of quantum gravity is a challenging pursuit. In this study, we utilise a lattice representation of a (2+1)D massive gravity toy model interacting with Dirac fermions that can support specific spacetime fluctuations. We focus on the evolution of the fermion's spin due to its coupling to spacetime fluctuations. To monitor these dynamics, a minimal model is required that comprises two bosonic modes describing spacetime geometry fluctuations coupled to the spin of the fermion. A possible emulation of this system involves encoding spin degrees of freedom in the electronic states of an atom coupled to a bimodal optical cavity that provides the two bosonic modes. Our proposal introduces a novel approach for modelling the effect of interactions between quantum gravity and matter that can be probed with current technology.",
+      "categories": [
+        "quant-ph",
+        "cond-mat.str-el",
+        "hep-th"
+      ],
+      "published": "2025-07-24T12:22:54+00:00",
+      "updated": "2026-04-23T08:10:32+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2507.18351v3",
+      "html_url": "https://arxiv.org/html/2507.18351v3",
+      "entry_url": "http://arxiv.org/abs/2507.18351v3"
+    },
+    {
+      "arxiv_id": "2507.18605v2",
+      "base_id": "2507.18605",
+      "title": "Graviton scattering on self-dual black holes",
+      "authors": [
+        "Tim Adamo",
+        "Giuseppe Bogna",
+        "Lionel Mason",
+        "Atul Sharma"
+      ],
+      "abstract": "The computation of gravitational wave scattering on black hole spacetimes is an extremely hard problem, typically requiring approximation schemes that either treat the black hole perturbatively or are only amenable to numerical techniques. In this paper, we consider linearised gravitational waves (or gravitons) scattering on the self-dual analogue of a black hole: namely, the self-dual Taub-NUT metric. Using the hidden integrability of the self-dual sector, we solve the linearised Einstein equations on these self-dual black hole backgrounds exactly in terms of simple, explicit quasi-momentum eigenstates. Using a description of the self-dual Taub-NUT metric and its gravitons in terms of twistor theory, we obtain an explicit formula, exact in the background, for the tree-level maximal helicity violating (MHV) graviton scattering amplitude at arbitrary multiplicity, with and without spin. This is obtained from the description of the MHV amplitudes in terms of the perturbation theory of a chiral sigma model whose target is the twistor space of the background. The incorporation of spin effects on these backgrounds is a straightforward application of the Newman-Janis shift. We also demonstrate that the holomorphic collinear splitting functions in the self-dual background are equal to those in flat space so that the celestial symmetry algebra is undeformed.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2025-07-24T17:38:25+00:00",
+      "updated": "2026-04-29T09:35:15+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2507.18605v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2507.18605v2"
+    },
+    {
+      "arxiv_id": "2507.18746v2",
+      "base_id": "2507.18746",
+      "title": "Random matrix theory signatures in free field theory",
+      "authors": [
+        "Dmitry S. Ageev",
+        "Vasilii V. Pushkarev"
+      ],
+      "abstract": "We show that, within a finite window of parameter space, random matrix theory (RMT) statistics emerge in observables of a finite-volume massive free scalar field theory after a local operator quench. The spacing-ratio distribution of two-point-function extremum locations is close to the Gaussian orthogonal ensemble statistics. An extrema-based form factor exhibits a dip--ramp--plateau structure characteristic of RMT. By contrast, the standard spectral form factor shows no ramp, consistent with the underlying free spectrum, while a global quench yields qualitatively different statistics.",
+      "categories": [
+        "hep-th",
+        "cond-mat.stat-mech",
+        "quant-ph"
+      ],
+      "published": "2025-07-24T18:51:59+00:00",
+      "updated": "2026-05-10T20:53:55+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2507.18746v2",
+      "html_url": "https://arxiv.org/html/2507.18746v2",
+      "entry_url": "http://arxiv.org/abs/2507.18746v2"
+    },
+    {
+      "arxiv_id": "2507.18336v2",
+      "base_id": "2507.18336",
+      "title": "κ-deformed spin-1/2 field",
+      "authors": [
+        "Tadeusz Adach",
+        "Andrea Bevilacqua",
+        "Jerzy Kowalski-Glikman",
+        "Giacomo Rosati",
+        "Wojciech Wiślicki"
+      ],
+      "abstract": "In this paper, we investigate the Poincaré and discrete symmetries of a $κ$-deformed spin-$\\tfrac12$ field, extending recent results obtained for scalar fields. We construct an action that is Poincaré invariant and analyze its consequences within the deformed framework. Our results confirm the findings of our recent analysis of the $κ$-deformed scalar field, where we established that there is no action invariant under both Poincaré symmetry and charge conjugation in the $κ$-deformed case, while $\\mathcal{CPT}$-symmetry can be restored through a natural deformation of time reversal. Furthermore, we present an explicit calculation of the Noether charges associated with Poincaré symmetry and show that their algebra closes, demonstrating the internal consistency of the theory.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2025-07-24T12:06:50+00:00",
+      "updated": "2026-05-27T18:55:18+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2507.18336v2",
+      "html_url": "https://arxiv.org/html/2507.18336v2",
+      "entry_url": "http://arxiv.org/abs/2507.18336v2"
+    },
+    {
+      "arxiv_id": "2507.18397v3",
+      "base_id": "2507.18397",
+      "title": "Correlation and Data-Analysis Distinctiveness of Time-Delay Interferometry Configurations",
+      "authors": [
+        "Gang Wang"
+      ],
+      "abstract": "Time-Delay Interferometry (TDI) is essential for space-based gravitational wave (GW) missions, as it suppresses laser frequency noise and achieve the required sensitivity. Beyond the standard Michelson configuration, a variety of second-generation TDI schemes have been proposed, each utilizing different combinations of inter-spacecraft laser links. In this work, we conduct a comparative study of several representative TDI configurations with different time spans, and show that while their (quasi-)orthogonal channels are highly correlated, their performance in data analysis can differ among these schemes. In the low-frequency regime, the performance of different TDI configurations are nearly identical. Their distinctions emerge primarily at high frequencies, where the GW wavelength becomes comparable to the arm length. In this regime, shorter TDI time spans with minimal null frequencies facilitate more accurate waveform modeling and parameter recovery in frequency domain. In contrast, configurations with longer time spans and more null frequencies, such as the Michelson, are more susceptible to frequency aliasing and waveform modulation effects, which degrade inference accuracy. However, if signal modeling and analysis are performed in the time domain, the optimal science channels of these TDI configurations exhibit consistent performance in parameter inference. Considering the usability in both frequency and time domain, the short-span PD4L scheme, which exhibits minimal nulls and superior performance in high frequencies, emerges as a promising candidate for future space-based GW mission designs.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.IM"
+      ],
+      "published": "2025-07-24T13:28:44+00:00",
+      "updated": "2026-06-05T05:49:36+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2507.18397v3",
+      "html_url": "https://arxiv.org/html/2507.18397v3",
+      "entry_url": "http://arxiv.org/abs/2507.18397v3"
+    },
+    {
+      "arxiv_id": "2507.18683v2",
+      "base_id": "2507.18683",
+      "title": "Bayesian Deep Gaussian Processes for Correlated Functional Data: A Case Study in Cosmological Matter Power Spectra",
+      "authors": [
+        "Stephen A. Walsh",
+        "Annie S. Booth",
+        "David Higdon",
+        "Jared Clark",
+        "Kelly R. Moran",
+        "Katrin Heitmann"
+      ],
+      "abstract": "Understanding the structure of our universe and the distribution of matter is an area of active research. As cosmological surveys grow in complexity, the development of emulators to efficiently and effectively predict matter power spectra is essential. We are particularly motivated by the Mira-Titan Universe simulation suite that, for a specified cosmological parameterization (termed a \"cosmology\"), provides multiple response curves of various fidelities, including correlated functional realizations. Our objective is two-fold. First, we estimate the underlying matter power spectra, with appropriate uncertainty quantification (UQ), from all of the provided curves. To this end, we propose a novel Bayesian deep Gaussian process (DGP) hierarchical model which synthesizes all the simulation information to estimate the underlying matter power spectra while providing effective UQ. Our model extends previous work on Bayesian DGPs from scalar responses to correlated functional outputs. Second, we leverage our predicted power spectra from various cosmologies in order to accurately predict the entire matter power spectra for an unobserved cosmology. For this task, we use basis function representations of the functional spectra to train a separate Gaussian process emulator. Our method performs well in synthetic exercises and against the benchmark cosmological emulator (Cosmic Emu).",
+      "categories": [
+        "stat.AP",
+        "astro-ph.CO",
+        "astro-ph.IM"
+      ],
+      "published": "2025-07-24T16:48:38+00:00",
+      "updated": "2026-06-08T13:08:43+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2507.18683v2",
+      "html_url": "https://arxiv.org/html/2507.18683v2",
+      "entry_url": "http://arxiv.org/abs/2507.18683v2"
+    }
+  ],
+  "total": 6
+}

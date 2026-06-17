@@ -1,0 +1,128 @@
+{
+  "date": "2025-10-03",
+  "papers": [
+    {
+      "arxiv_id": "2510.02638v2",
+      "base_id": "2510.02638",
+      "title": "Investigation of the $l^{-}l^{+}ν\\overlineν$ final state at multi-TeV muon colliders through the exclusive decay of ZZ/WW gauge bosons in the Randall-Sundrum model",
+      "authors": [
+        "Bui Thi Ha Giang",
+        "Dang Van Soa"
+      ],
+      "abstract": "An attempt is made to present the effect of the exclusive decay of ZZ/WW gauge bosons at high energy colliders in the Randall-Sundrum (RS) model. In this paper, we investigate the $l^{-}l^{+}ν\\overlineν$ final state at muon-TeV colliders through the exclusive decay of ZZ/WW gauge bosons in detail. The result shows that with fixed collision energies, cross-sections for $l^{-}l^{+}ν\\overlineν$ production in final state depend strongly on the parameters of the unparticle physics, muon polarization coefficients, parameters on anomalous couplings and also KK-graviton propagators. With the benchmark background $(Λ_{U}, d_{U})$ $= (1 $TeV$, 1.9)$, the total cross-sections achieve the maximum value when both of muon beams polarize left or right. In case of the different polarization, the cross section increases as the collision energy increases. The numerical evaluation shows that the cross-section for $l^{-}l^{+}ν\\overlineν$ final state through the exclusive decay of WW charged bosons is much larger than that of ZZ neutral bosons under the same conditions. With the contribution of new physics in the RS model, the effect is greatly enhanced and the cross-sections for the production of $l^{-}l^{+}ν\\overlineν$ final state can be measured in the future muon collisions.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-10-03T00:38:34+00:00",
+      "updated": "2026-04-28T05:11:12+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.02638v2",
+      "html_url": "https://arxiv.org/html/2510.02638v2",
+      "entry_url": "http://arxiv.org/abs/2510.02638v2"
+    },
+    {
+      "arxiv_id": "2510.03082v3",
+      "base_id": "2510.03082",
+      "title": "Using Gauge Covariant Lie Derivatives in Poincaré Gauge and Metric Teleparallel Theories of Gravity",
+      "authors": [
+        "R. J. van den Hoogen",
+        "H. Forance",
+        "L. Taylor",
+        "M. Lawton"
+      ],
+      "abstract": "A procedure to determine the initial ansatz for the co-frame and spin connection characterizing a Riemann-Cartan geometry respecting a given group of continuous symmetries is illustrated. Given a particular group of symmetries and assuming an orthonormal gauge we can determine the co-frame and corresponding spin connection having this symmetry group by employing an gauge covariant Lie derivative. This gauge covariant Lie derivative when applied to the metric and co-frame determines the values of an antisymmetric compensating matrix. The derivative of this matrix then yields the corresponding spin connection. The procedure is straightforward and can be employed for any Riemann-Cartan geometry having symmetries including those with a non-trivial isotropy subgroup. Here we illustrate the procedure with numerous examples, including, spherically symmetric, plane symmetric, locally rotationally symmetric Bianchi type III, Gödel, de Sitter and anti-de Sitter geometries. Further, we have also solved the zero curvature constraint to obtain the resulting spin connection for the corresponding metric teleparallel geometry having this same symmetry group. We complete this investigation by including the Lorentz transformation that yields the proper frame for some of these metric teleparallel geometries.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-10-03T15:12:14+00:00",
+      "updated": "2026-05-11T18:54:45+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.03082v3",
+      "html_url": "https://arxiv.org/html/2510.03082v3",
+      "entry_url": "http://arxiv.org/abs/2510.03082v3"
+    },
+    {
+      "arxiv_id": "2510.03403v2",
+      "base_id": "2510.03403",
+      "title": "Flavor hierarchies with nonminimal irreducible representations",
+      "authors": [
+        "Hannah Banks",
+        "Graeme Crawford",
+        "Matthew McCullough",
+        "Dave Sutherland"
+      ],
+      "abstract": "We propose a new class of flavour models in which the spurion which breaks Standard Model flavour symmetries transforms in a non-minimal representation. Hierarchies in fermion masses, which arise from multiple insertions of this spurion, may be generated in a technically natural, accidental manner, from a handful of untuned $\\mathcal{O}(1)$ elements in the UV. This relies explicitly on the non-Abelian nature of the symmetry, distinguishing it from standard Froggatt-Nielsen-like scenarios. The pattern of flavour violating operators at dimension-6 can radically differ from previously considered scenarios, and emphasises the need for a broad flavour programme across all generations.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-10-03T18:00:09+00:00",
+      "updated": "2026-05-19T09:15:30+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.03403v2",
+      "html_url": "https://arxiv.org/html/2510.03403v2",
+      "entry_url": "http://arxiv.org/abs/2510.03403v2"
+    },
+    {
+      "arxiv_id": "2510.03080v2",
+      "base_id": "2510.03080",
+      "title": "General Junction Condition and Casimir Effect for (1+1)-Dimensional Scalar Network CFT",
+      "authors": [
+        "Tian-Ming Zhao",
+        "Sinan Pang",
+        "Ling Li",
+        "Yu Guo",
+        "Rong-Xin Miao"
+      ],
+      "abstract": "Recently, BCFT and ICFT have been generalized to the CFT on networks (NCFT). A key aspect of NCFT is how we connect the CFTs across different edges at the network nodes. Previous research has primarily concentrated on a specific junction condition (JC) that requires the field to be continuous at the nodes. In this paper, we investigate the most general junction conditions for $(1+1)$-dimensional free scalars that are consistent with the variational principle and energy conservation. These general junction conditions are characterized by an $O(p)$ group, where $p$ represents the number of edges connected at a node. We provide exact realizations of two typical JCs in real physical systems. Additionally, we derive both the lower and upper bounds on the network Casimir energy for $(1+1)$-dimensional free scalar fields and extend the lower bound to encompass general NCFTs. Finally, we analyze the Casimir effect in networks composed of regular polyhedra and examine the binding energy required to construct such networks from individual components.",
+      "categories": [
+        "hep-th",
+        "cond-mat.other",
+        "quant-ph"
+      ],
+      "published": "2025-10-03T15:10:07+00:00",
+      "updated": "2026-05-28T11:21:59+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.03080v2",
+      "html_url": "https://arxiv.org/html/2510.03080v2",
+      "entry_url": "http://arxiv.org/abs/2510.03080v2"
+    },
+    {
+      "arxiv_id": "2510.02805v2",
+      "base_id": "2510.02805",
+      "title": "Gravitational lensing by a spiral galaxy I: the influence from bar's structure to the flux ratio anomaly",
+      "authors": [
+        "Xikai Shan",
+        "Yunpeng Jin",
+        "Shude Mao"
+      ],
+      "abstract": "Gravitational lens flux ratio anomalies are a powerful probe of small-scale mass structures, often attributed to dark matter subhalos. However, baryonic components can also play a significant role. This study investigates, for the first time, the impact of bars on flux ratio anomalies. We conduct a systematic analysis using barred galaxies from the Auriga simulations. First, we model the projected mass distribution with the Multi-Gaussian Expansion formalism. This method yields smooth lens potentials that preserve the primary bar structure while mitigating numerical noise. We then perform strong lensing simulations and quantify flux ratio anomalies by measuring their deviation from the theoretical cusp-caustic relation, denoted as $R_{\\text{cusp}}$. Our primary finding is a strong, statistically significant correlation between the flux ratio anomaly magnitude and the strength of higher-order even Fourier modes. Specifically, the strengths of the boxy/peanut and hexapole components show an exceptionally tight correlation with $R_{\\text{cusp}}$, with Spearman correlation coefficients of $r = 0.85$ and $0.89$, and p-values on the order of $10^{-6}$ and $10^{-8}$, respectively. This demonstrates that flux ratio anomalies are highly sensitive to complex, non-axisymmetric bar features. We conclude that flux ratio anomalies can be powerful indicators of bar morphology. Failing to account for such morphology can lead to misinterpreting lensing signatures and potentially overestimating the dark matter subhalo population.",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.GA"
+      ],
+      "published": "2025-10-03T08:21:55+00:00",
+      "updated": "2026-05-28T03:18:42+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.02805v2",
+      "html_url": "https://arxiv.org/html/2510.02805v2",
+      "entry_url": "http://arxiv.org/abs/2510.02805v2"
+    },
+    {
+      "arxiv_id": "2510.03007v3",
+      "base_id": "2510.03007",
+      "title": "Multi-dimensional chaos I: Classical and quantum mechanics",
+      "authors": [
+        "Massimo Bianchi",
+        "Maurizio Firrotta",
+        "Jacob Sonnenschein",
+        "Dorin Weissman"
+      ],
+      "abstract": "We introduce the notion of multi-dimensional chaos that applies to processes described by erratic functions of several dynamical variables. We employ this concept in the interpretation of classical and quantum scattering off a pinball system. In the former case it is illustrated by means of two-dimensional plots of the scattering angle and of the number of bounces. We draw similar patterns for the quantum differential cross-section for various geometries of the disks. We find that the eigenvalues of the S-matrix are distributed according to the Circular Orthogonal Ensemble (COE) in random matrix theory (RMT), provided the setup be asymmetric and the wave-number be large enough. We then consider the electric potential associated with charges randomly located on a plane as a toy model that generalizes the scattering from a leaky torus. We propose several methods to analyze the distribution of spacings between the extrema of such functions. We show that these follow a repulsive Gaussian β-ensemble distribution even for Poisson-distributed positions of the charges. A generalization of the spectral form factor is introduced and determined. We apply these methods to the cases of a chaotic S-matrix and of the quantum pinball scattering. The spacings between nearest neighbor extrema points and ratios between adjacent spacings follow a logistic and Beta distributions correspondingly. We conjecture about a potential relation with random tensor theory.",
+      "categories": [
+        "hep-th",
+        "nlin.CD"
+      ],
+      "published": "2025-10-03T13:51:38+00:00",
+      "updated": "2026-05-26T13:28:20+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.03007v3",
+      "html_url": "https://arxiv.org/html/2510.03007v3",
+      "entry_url": "http://arxiv.org/abs/2510.03007v3"
+    }
+  ],
+  "total": 6
+}

@@ -1,0 +1,45 @@
+{
+  "date": "2024-10-21",
+  "papers": [
+    {
+      "arxiv_id": "2410.15671v5",
+      "base_id": "2410.15671",
+      "title": "Probing the onset of hydrodynamization in peripheral p-Pb collisions at $\\sqrt{s_{NN}} =$ 5.02 TeV",
+      "authors": [
+        "Nikhil Hatwar",
+        "Sadhana Dash",
+        "Basanta Kumar Nandi"
+      ],
+      "abstract": "An attempt has been made to estimate the minimum size of the de-confined matter of Quark-Gluon Plasma (QGP) in small systems like p-Pb system that could be satisfactorily modeled with low-order hydrodynamics. The variation of second order transport coefficient of second order relativistic viscous hydrodynamics, the shear relaxation time has been utilized to study the sensitivity of experimental observables like elliptic flow coefficient. A representative system of p-Pb collisions at $\\sqrt{s_{NN}} =$ 5.02 TeV, simulated with the state-of-art framework of JETSCAPE event generator was used to study the variation of elliptic flow coefficient for peripheral collisions. The soft sector dynamics was simulated using an initial condition, a pre-equilibrium stage, hydrodynamics and a hadron afterburner. The transverse momentum spectra and rapidity distribution was obtained for light flavored hadrons and compared with the experimental data. The increase in elliptic flow fluctuations indicate breakdown of fluid behavior at $dN/dy \\approx 14$ for p-Pb collision at $\\sqrt{s_{NN}} =$ 5.02 TeV.",
+      "categories": [
+        "hep-ph",
+        "nucl-th"
+      ],
+      "published": "2024-10-21T06:24:41+00:00",
+      "updated": "2026-05-26T12:52:12+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2410.15671v5",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2410.15671v5"
+    },
+    {
+      "arxiv_id": "2410.16226v4",
+      "base_id": "2410.16226",
+      "title": "IR finite correlation functions in de Sitter space, a smooth massless limit, and an autonomous equation",
+      "authors": [
+        "Alexander Kamenshchik",
+        "Polina Petriakova"
+      ],
+      "abstract": "We explore two-point and four-point correlation functions of a massive scalar field on the flat de Sitter background in the long-wavelength approximation. By employing the Yang-Feldman-type equation, we compute the two-point correlation function up to $λ^3$ order and the four-point correlation function up to $λ^2$ order. In contrast to the standard theory of a massive scalar field based on the de Sitter-invariant vacuum, we develop a vacuum-independent reasoning that may not possess de Sitter invariance but results in a smooth massless limit of the correlation function's infrared part. Our elaboration allows us to calculate correlation functions of a free massive scalar field and to proceed with quantum corrections, relying only on the known infrared part of the two-point correlation function of a free massless one. Remarkably, the two-point correlation function of a free massive scalar field coincides with that of the Ornstein-Uhlenbeck stochastic process and has a clear physical interpretation. We compare our results with those obtained using the Schwinger-Keldysh diagrammatic technique, Starobinsky's stochastic approach, and the Hartree-Fock approximation. At last, we construct a renormalization group-inspired autonomous equation for the two-point correlation function. Integrating its approximate version, one obtains the non-analytic expression with respect to a self-interaction coupling constant $λ$. That solution reproduces the correct perturbative series up to the two-loop level. In the late-time limit, it almost coincides with the result of Starobinsky's stochastic approach over the whole interval of a new dimensionless parameter $0 \\leq \\tfrac{π^2 m^4}{3λH^4} < \\infty$.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2024-10-21T17:30:15+00:00",
+      "updated": "2026-06-15T16:53:30+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2410.16226v4",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2410.16226v4"
+    }
+  ],
+  "total": 2
+}

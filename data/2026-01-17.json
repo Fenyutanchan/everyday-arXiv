@@ -1,0 +1,44 @@
+{
+  "date": "2026-01-17",
+  "papers": [
+    {
+      "arxiv_id": "2601.11842v2",
+      "base_id": "2601.11842",
+      "title": "Template-free search for gravitational wave events using coincident anomaly detection",
+      "authors": [
+        "Daniel Ratner"
+      ],
+      "abstract": "Gravitational-wave (GW) observatories have used template-based search to detect hundreds of compact binary coalescences (CBCs). However, template-based search cannot detect astrophysical sources that lack accurate waveform models, including core-collapse supernovae, neutron star glitches, and cosmic strings. Here, we present a novel approach for template-free search using coincident anomaly detection (CoAD). CoAD requires neither labeled training examples nor background-only training sets, instead exploiting the coincidence of events across spatially separated detectors as the training loss itself: two neural networks independently analyze data from each detector and are trained to maximize coincident predictions. Additionally, we show that integrated gradient analysis can localize GW signals from the neural-network weights, providing a path toward data-driven template construction of unmodeled sources, and further improving precision by frequency matching. Using the CodaBench dataset of real LIGO backgrounds with injected simulated CBCs and sine-Gaussian low-frequency bursts, CoAD achieves recall up to 0.91 and 0.85 respectively at a false-alarm rate of one event per year, and achieves recall above 0.5 at signal-to-noise ratios below 10. The fully-unsupervised nature of CoAD makes it especially well-suited for next-generation detectors with greater sensitivity and associated increases in GW event rates.",
+      "categories": [
+        "astro-ph.IM",
+        "gr-qc"
+      ],
+      "published": "2026-01-17T00:19:09+00:00",
+      "updated": "2026-04-29T23:18:44+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.11842v2",
+      "html_url": "https://arxiv.org/html/2601.11842v2",
+      "entry_url": "http://arxiv.org/abs/2601.11842v2"
+    },
+    {
+      "arxiv_id": "2601.11986v2",
+      "base_id": "2601.11986",
+      "title": "Prospects for discovering strongly decaying doubly heavy $T_{bc}$ tetraquark states at LHCb",
+      "authors": [
+        "Mingjie Feng",
+        "Yiming Li",
+        "Hua-Sheng Shao"
+      ],
+      "abstract": "We investigate the discovery potential of the $T_{bc}$ state with $J^P = 0^+$ in proton-proton ($pp$) collisions at LHCb at a center-of-mass energy of $\\sqrt{s} = 13~\\mathrm{TeV}$. The study focuses on the decay channel $T_{bc} \\to B^- D^+$. A phenomenological approach is employed to construct the background model based on the associated production of $B$ and $D$ mesons, incorporating previously published LHCb results. Background processes are simulated using $\\texttt{MadGraph5\\_aMC@NLO}$ and $\\texttt{Pythia8.3}$. We explore the parameter space of the $T_{bc}$ mass, width, production cross section, and the effective double-parton scattering cross section ($σ_{\\mathrm{eff}}$) relevant for the $B D$ meson background. The integrated luminosity required for a $5σ$ discovery at LHCb is evaluated under various assumptions. In particular, we consider three representative $T_{bc}$ production cross section scenarios: an optimistic estimate of $103~\\mathrm{nb}$, an intermediate value of $18~\\mathrm{nb}$ obtained by scaling from the $T_{cc}^+$ production cross section, and a conservative lower bound of $0.3~\\mathrm{nb}$. We find that a $5σ$ observation is achievable for a production cross section of $103~\\mathrm{nb}$, which is expected to be within reach during Run~4. In contrast, the more realistic cross section estimate of $18~\\mathrm{nb}$ requires the full Run~5 dataset ($300~\\mathrm{fb}^{-1}$) under the most favorable parameter choices. For the conservative scenario, no significant signal would be observable even with $300~\\mathrm{fb}^{-1}$. In addition, we estimate the minimum observable $σ(T_{bc}) \\times BR(T_{bc} \\to B^- D^+)$ for a $5σ$ discovery under different luminosity scenarios, providing guidance for future experimental searches at LHCb.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2026-01-17T09:40:29+00:00",
+      "updated": "2026-05-19T17:02:14+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.11986v2",
+      "html_url": "https://arxiv.org/html/2601.11986v2",
+      "entry_url": "http://arxiv.org/abs/2601.11986v2"
+    }
+  ],
+  "total": 2
+}

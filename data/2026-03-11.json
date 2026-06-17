@@ -1,0 +1,315 @@
+{
+  "date": "2026-03-11",
+  "papers": [
+    {
+      "arxiv_id": "2603.10844v2",
+      "base_id": "2603.10844",
+      "title": "Long-lived quasinormal modes, shadows and particle motion in four-dimensional quasi-topological gravity",
+      "authors": [
+        "Bekir Can Lütfüoğlu"
+      ],
+      "abstract": "We investigate massive scalar perturbations and several characteristics of particle motion in the spacetime of regular black holes arising in four-dimensional quasi-topological gravity. Quasinormal modes are computed using high-order WKB approximations with Padé resummation and verified through time-domain integration. For moderate values of the scalar-field mass, the time-domain profiles confirm the WKB results with excellent accuracy. As the mass increases, the damping rate decreases substantially, indicating the approach to the quasi-resonant regime of long-lived modes. For sufficiently large masses, the late-time signal becomes dominated by oscillatory power-law tails, which mask the quasi-resonant mode in the time-domain profile. In addition, we analyze photon motion and circular geodesics, including the photon-sphere radius, shadow size, Lyapunov exponent, and ISCO characteristics. These quantities exhibit only moderate deviations from their Schwarzschild values, unlike the Hawking temperature of the black hole.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2026-03-11T14:52:37+00:00",
+      "updated": "2026-04-16T17:09:38+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.10844v2",
+      "html_url": "https://arxiv.org/html/2603.10844v2",
+      "entry_url": "http://arxiv.org/abs/2603.10844v2"
+    },
+    {
+      "arxiv_id": "2603.10627v2",
+      "base_id": "2603.10627",
+      "title": "Efficient Conformal Block Evaluation with GoBlocks",
+      "authors": [
+        "James Chryssanthacopoulos",
+        "Vasilis Niarchos",
+        "Constantinos Papageorgakis",
+        "Alexander G. Stapleton"
+      ],
+      "abstract": "Conformal blocks in odd spacetime dimensions are not known in closed analytic form. To facilitate efficient computations in the conformal bootstrap, we introduce $\\texttt{GoBlocks}$: a novel conformal-block generator implemented in the Go programming language, designed for rapid, on-the-fly, parallel evaluation using recursive relations. The package supports both multi-point and derivative-based bootstrap approaches and allows flexible control over accuracy and performance. We benchmark $\\texttt{GoBlocks}$ against the $\\texttt{scalar_blocks}$ package, finding significant speed improvements in applications where computational speed and moderate accuracy are critical, but ultra-high precision is not essential. As an illustration, we apply $\\texttt{GoBlocks}$ to the mixed-correlator bootstrap of the three-dimensional Ising model, formulated as a non-convex optimisation problem in a suitable truncation scheme. We simultaneously optimise over external scaling dimensions and OPE CFT data. In addition, we discuss how the approach scales as we increase the number of mixed correlators in more general $O(N)$ vector models.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2026-03-11T10:42:43+00:00",
+      "updated": "2026-04-16T15:38:38+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.10627v2",
+      "html_url": "https://arxiv.org/html/2603.10627v2",
+      "entry_url": "http://arxiv.org/abs/2603.10627v2"
+    },
+    {
+      "arxiv_id": "2603.10819v2",
+      "base_id": "2603.10819",
+      "title": "Generalised Complex and Spinor Relations",
+      "authors": [
+        "Thomas C. De Fraja",
+        "Vincenzo Emilio Marotta",
+        "Richard J. Szabo"
+      ],
+      "abstract": "Courant algebroid relations are used to define notions of relations between Dirac structures and spinors. It is shown under which circumstances a spinor relation gives a Courant algebroid relation and how it descends to a relation between Dirac structures. A converse to this result is proved: a T-duality relation induces a spinor relation that links the Dirac generating operators defining T-dual Courant algebroids, generalising the isomorphism of twisted cohomology associated with topological T-duality. We introduce the notion of relation between generalised complex structures and characterise their reduction. We also define relations between generalised Kähler structures, and rephrase them in terms of bi-Hermitian structures which induce T-duality relations between $\\mathcal{N}=(2,2)$ supersymmetric sigma-models. We prove existence results for T-dual structures, and demonstrate compatibility of T-duality relations with Type II supergravity equations.",
+      "categories": [
+        "hep-th",
+        "math-ph",
+        "math.DG",
+        "math.SG"
+      ],
+      "published": "2026-03-11T14:30:05+00:00",
+      "updated": "2026-04-16T11:08:44+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.10819v2",
+      "html_url": "https://arxiv.org/html/2603.10819v2",
+      "entry_url": "http://arxiv.org/abs/2603.10819v2"
+    },
+    {
+      "arxiv_id": "2603.10915v3",
+      "base_id": "2603.10915",
+      "title": "Naturally Light Distortion",
+      "authors": [
+        "Kazunori Nakayama"
+      ],
+      "abstract": "In the most general formulation of gravity, the metric and connection are independent degrees of freedom, and the connection may include torsion and non-metricity (or distortion, collectively) degrees of freedom, resulting in a huge number of possible dynamical fields. However, the most fields are either non-dynamical or extremely heavy and the general relativity is recovered at low energy. We find a unique naturally light vector- or scalar-like distortion field, which can be dynamical and have phenomenological implications. In particular, a light scalar particle that mixes with the Higgs boson naturally appears.",
+      "categories": [
+        "gr-qc",
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2026-03-11T15:59:43+00:00",
+      "updated": "2026-04-21T17:32:37+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.10915v3",
+      "html_url": "https://arxiv.org/html/2603.10915v3",
+      "entry_url": "http://arxiv.org/abs/2603.10915v3"
+    },
+    {
+      "arxiv_id": "2603.11163v2",
+      "base_id": "2603.11163",
+      "title": "Alice in Warpland: KK modes, Warped Compactifications and the Swampland",
+      "authors": [
+        "Salvatore Raucci",
+        "Ignacio Ruiz",
+        "Irene Valenzuela"
+      ],
+      "abstract": "We investigate the asymptotic behavior of Kaluza-Klein (KK) towers in warped compactifications to Minkowski space. Focusing on the overall decompactification limit, we derive the scaling of KK masses at large KK momentum for scalar fluctuations in lower-dimensional Planck units. In codimension-one warped backgrounds sourced by a higher-dimensional exponential potential, we solve explicitly for the internal profiles and obtain a closed expression for the exponential mass decay rate $λ_{\\rm KK}$ of the tower in terms of the moduli space distance. We find that warping reduces $λ_{\\rm KK}$ relative to the unwarped case, in such a way that sufficiently strong warping could in principle violate the Sharpened Distance Conjecture bound. Remarkably, this sharpened bound is still satisfied precisely when the higher-dimensional potential obeys the condition forbidding asymptotic accelerated expansion, establishing a direct link between the Sharpened Distance Conjecture and the Strong de Sitter condition in one higher dimension. We also argue that for higher-codimension warped backgrounds the asymptotic KK scaling remains unmodified.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2026-03-11T18:00:00+00:00",
+      "updated": "2026-05-04T15:51:39+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.11163v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2603.11163v2"
+    },
+    {
+      "arxiv_id": "2603.11097v3",
+      "base_id": "2603.11097",
+      "title": "Searching for New Particles Hidden under Known Resonances: A Heavy-Ion Diagnostic",
+      "authors": [
+        "Yi Yang"
+      ],
+      "abstract": "Searches for new physics typically rely on proton-proton collisions, where isolated mass bumps are the primary signatures. However, when a new particle is nearly degenerate in mass with a known Standard Model resonance, it can be partially or fully absorbed into the primary signal template. We investigate this generic loophole by proposing that heavy-ion collisions can provide complementary diagnostics for such hidden states. By utilizing observables sensitive to the quark-gluon plasma, such as the nuclear modification factor ($R_{AA}$) and elliptic flow ($v_2$), a hidden component can manifest as correlated biases in the extracted kinematics. We formulate a model-independent two-component framework, focusing on quarkonium peaks and using the $Υ(1S)$ mass region as a concrete stress-test example. The same template-level issue can in principle arise in other precision dimuon resonances, including electroweak channels such as $Z\\toμ^+μ^-$, although those cases involve different intrinsic widths, backgrounds, and systematic uncertainties. Treating the mass resolution as an experimental nuisance parameter, we present sensitivity maps identifying the measurements required to constrain or reveal such hidden components.",
+      "categories": [
+        "hep-ph",
+        "hep-ex",
+        "nucl-ex",
+        "nucl-th"
+      ],
+      "published": "2026-03-11T08:44:28+00:00",
+      "updated": "2026-05-13T01:29:31+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.11097v3",
+      "html_url": "https://arxiv.org/html/2603.11097v3",
+      "entry_url": "http://arxiv.org/abs/2603.11097v3"
+    },
+    {
+      "arxiv_id": "2603.10461v2",
+      "base_id": "2603.10461",
+      "title": "Gauss-Bonnet scalarization of charged qOS-black holes",
+      "authors": [
+        "Hong Guo",
+        "Wontae Kim",
+        "Yun Soo Myung"
+      ],
+      "abstract": "The Gauss-Bonnet (GB) scalarization for charged quantum Oppenheimer-Snyder (cqOS)-black holes is investigated in the Einstein-Gauss-Bonnet-scalar theory with the nonlinear electrodynamics (NED) term. Here, the scalar coupling function to GB term is given by $f(φ)=2λφ^2$ with a coupling constant $λ$. Three parameters of mass ($M$), action parameter ($α$), and magnetic charge ($P$) are necessary to describe the cqOS-black hole, and it may become the qOS-black hole when $P=M$. The GB scalarization of cqOS-black holes comes into two cases GB$^\\pm$, depending on the sign of GB term which triggers the different phenomena. For $α=0$ and $λ>0$, GB$^+$ scalarization is allowed, while for $α\\not=0$ and $λ<0$, GB$^-$ scalarization appears for a narrow band of $3.5653\\le α\\le 4.6875$. After discussing the onset GB$^-$ scalarization, we construct scalarized cqOS-black holes which belong to the single branch. The scalar field decays much more rapidly compared to the GB$^+$ case. Stability analysis shows these scalarized black holes are linearly stable under scalar perturbations.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2026-03-11T06:23:32+00:00",
+      "updated": "2026-05-20T00:39:00+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.10461v2",
+      "html_url": "https://arxiv.org/html/2603.10461v2",
+      "entry_url": "http://arxiv.org/abs/2603.10461v2"
+    },
+    {
+      "arxiv_id": "2603.11259v2",
+      "base_id": "2603.11259",
+      "title": "Comprehensive Mass Predictions: From Triply Heavy Baryons to Pentaquarks",
+      "authors": [
+        "S. Rostami",
+        "A. R. Olamaei",
+        "M. Malekhosseini",
+        "K. Azizi"
+      ],
+      "abstract": "In this article, we use two different methods for studying the mass spectra of fully-heavy baryons and pentaquarks. In the first section, we use state-of-the-art machine learning methods, such as deep neural networks and the Particle Transformer model architecture, to predict baryon masses directly from their quantum numbers, based on experimental information on hadrons from the Particle Data Group (PDG). We use this data-driven approach for the case of fully heavy baryons, and a large number of exotic pentaquark states, going much beyond the well-known $ P_c^+(4380) $ and $ P_c^+(4457) $ candidates. Subsequently,we extend the Gürsey-Radicati mass formula to incorporate the contributions of charm and bottom quarks, enabling analytical calculations for both ground and radially excited states of baryons and pentaquarks. The results obtained from both approaches demonstrate strong agreement with experimental data where available and make predictions for a number of unobserved states, including higher radial excitations. By addressing the question through both data-driven prediction and analytical modeling in different frameworks, this study offers complementary insights into the mass spectrum of conventional and exotic hadrons, guiding future experimental searches.",
+      "categories": [
+        "hep-ph",
+        "hep-ex",
+        "hep-lat"
+      ],
+      "published": "2026-03-11T19:38:54+00:00",
+      "updated": "2026-05-22T11:55:05+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.11259v2",
+      "html_url": "https://arxiv.org/html/2603.11259v2",
+      "entry_url": "http://arxiv.org/abs/2603.11259v2"
+    },
+    {
+      "arxiv_id": "2603.11291v2",
+      "base_id": "2603.11291",
+      "title": "The role of p_1-structures in 3-dimensional Chern-Simons theories",
+      "authors": [
+        "Daniel S. Freed",
+        "Constantin Teleman"
+      ],
+      "abstract": "Our recent paper~\\cite{FST} with Claudia Scheimbauer uses the cobordism hypothesis to construct fully local Chern-Simons theories. Here we expose some physics motivations: Yang-Mills plus Chern-Simons in the bosonic case and the free Majorana-Weyl spinor field in the fermionic case. We also give expositions of tangential structures and invertible field theories, in particular the 'gravitational Chern-Simons theory' used by Witten to obtain topological field theories from the physical theories.",
+      "categories": [
+        "hep-th",
+        "math-ph",
+        "math.AT"
+      ],
+      "published": "2026-03-11T20:39:30+00:00",
+      "updated": "2026-05-27T20:21:55+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.11291v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2603.11291v2"
+    },
+    {
+      "arxiv_id": "2603.11148v2",
+      "base_id": "2603.11148",
+      "title": "Intrinsic Nonlocality of Spin- and Polarization-Resolved Probabilities in Strong-Field Quantum Electrodynamics",
+      "authors": [
+        "Samuele Montefiori",
+        "Antonino Di Piazza",
+        "Tobias Podszus",
+        "Christoph H. Keitel",
+        "Matteo Tamburini"
+      ],
+      "abstract": "Spin and polarization are central to precision tests of fundamental physics and for interpreting radiation from astrophysical sources and ultraintense laser-matter experiments. Here, focusing on the fundamental process of nonlinear Compton scattering, we demonstrate that a key assumption underlying current strong-field quantum electrodynamics (SFQED) models, i.e., that emission can be treated as an instantaneous random event sampled from a local differential rate, is inconsistent once emission angles, electron spin, and/or photon polarization are resolved. Namely, \\emph{even in strictly constant and uniform fields}, the resulting fully differential distribution is sign-indefinite, yielding negative inferred probabilities. The physical reason is that the photon emission probability builds up over a finite length of the electron trajectory, the formation region, during which the electron direction changes by roughly the same small angle that defines the radiation cone. Therefore, we put forward a new method where we integrate over this formation region analytically to obtain a physically consistent electron spin and photon polarization model. Simulations of a GeV-class electron-laser collision accessible at current petawatt facilities and of emission in a pulsar-like magnetic field are shown to reveal spin and polarization patterns that differ even qualitatively from state-of-the-art local models. In particular, our new model predicts substantial angle-dependent circular photon polarization where the well-known collinear-emission approach yields none, and a pronounced helicity bias in the recoiling electrons absent from current predictions. These findings have direct implications for upcoming strong-field QED experiments and for interpreting polarized radiation from extreme astrophysical environments.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.HE",
+        "physics.plasm-ph"
+      ],
+      "published": "2026-03-11T17:36:23+00:00",
+      "updated": "2026-06-02T16:18:39+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.11148v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2603.11148v2"
+    },
+    {
+      "arxiv_id": "2603.11165v3",
+      "base_id": "2603.11165",
+      "title": "FlowSN: Neural Simulation-Based Inference under Realistic Selection Effects applied to Supernova Cosmology",
+      "authors": [
+        "Benjamin M. Boyd",
+        "Kaisey S. Mandel",
+        "Matthew Grayling",
+        "Ayan Mitra",
+        "Richard Kessler",
+        "Maximilian Autenrieth",
+        "Aaron Do",
+        "Madeleine Ginolin",
+        "Lisa Kelsey",
+        "Gautham Narayan",
+        "Matthew O'Callaghan",
+        "Nikhil Sarin",
+        "Stephen Thorp"
+      ],
+      "abstract": "We present FlowSN, a statistical framework using simulation-based inference (SBI) with normalising flows to account for selection effects in observational astronomy. Failure to account for selection effects can lead to biased inference on global parameters. An example is Malmquist bias, where detection limits result in a sample skewed towards brighter objects. In Type Ia supernova (SN Ia) cosmology, these selection effects can systematically shift the inferred posterior distributions of cosmological parameters, necessitating the development of robust statistical frameworks to account for the biases. SBI enables us to implicitly learn probability distributions that are analytically intractable to calculate. In this work, we introduce a novel approach that employs a normalising flow to learn the non-analytic selected SN likelihood for a given survey from forward simulations, independent of the assumed cosmological model. The resulting likelihood approximation is incorporated into a hierarchical Bayesian framework and posterior sampling is performed using Hamiltonian Monte Carlo to obtain constraints on cosmological parameters conditioned on the observed data. The modular learnt likelihood approximation can be reused without retraining to evaluate different cosmological models, providing a key advantage over other SBI approaches. We demonstrate the performance of this methodology by training and testing the SBI technique using realistic LSST-like SNANA simulations for the first time. Our FlowSN approach yields accurate posterior estimates on cosmological parameters, including the dark energy equation of state $w_0$, that are an order of magnitude less biased than those obtained with conventional techniques and also exhibit improved frequentist calibration.",
+      "categories": [
+        "astro-ph.CO",
+        "stat.AP"
+      ],
+      "published": "2026-03-11T18:00:01+00:00",
+      "updated": "2026-06-02T15:24:01+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.11165v3",
+      "html_url": "https://arxiv.org/html/2603.11165v3",
+      "entry_url": "http://arxiv.org/abs/2603.11165v3"
+    },
+    {
+      "arxiv_id": "2603.10774v2",
+      "base_id": "2603.10774",
+      "title": "Analysis of the hidden-charm pentaquark candidates in the $J/ψΣ$ mass spectrum via the QCD sum rules",
+      "authors": [
+        "Zhi-Gang Wang",
+        "Yang Liu"
+      ],
+      "abstract": "In this work, we adopt the diquark model, construct the diquark-diquark-antiquark type currents with the light quarks $uus$ in two octets, and study the $uusc\\bar{c}$ pentaquark states in the framework of the QCD sum rules systematically. We obtain the mass spectrum of the hidden-charm-singly-strange pentaquark states with the quantum numbers $IJ^{P}=1{\\frac{1}{2}}^-$, $1{\\frac{3}{2}}^-$ and $1{\\frac{5}{2}}^-$. And we can search for those $P_{cs}$ states in the processes $Σ_b^+\\to P_{cs}^+φ\\to J/ψΣ^+ \\,φ$ and $Ξ_b^0\\to P_{cs}^+ K^- \\to J/ψΣ^+\\, K^-$.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-03-11T13:50:05+00:00",
+      "updated": "2026-06-07T12:48:05+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.10774v2",
+      "html_url": "https://arxiv.org/html/2603.10774v2",
+      "entry_url": "http://arxiv.org/abs/2603.10774v2"
+    },
+    {
+      "arxiv_id": "2603.10429v4",
+      "base_id": "2603.10429",
+      "title": "Thermodynamically massless Simpson-Visser black holes",
+      "authors": [
+        "Thanasis Karakasis",
+        "Emmanuel N. Saridakis",
+        "Zi-Yu Tang"
+      ],
+      "abstract": "In this work we scrutinize the thermodynamic properties of the Simpson-Visser (SV) spacetime. Working within Einstein gravity coupled to nonlinear electrodynamics (NLED) and a scalar field with negative kinetic energy, we rederive the solution in a formulation where the integration constants do not explicitly appear in the action, allowing them to vary consistently in the thermodynamic analysis. Using the Euclidean method, we show that the regular spacetime structure modifies the boundary contributions to the conserved charge associated with time translations, allowing the NLED sector to cancel the mass term and yielding a black hole with vanishing thermodynamic mass. Nevertheless, the spacetime admits a conserved magnetic charge and describes a regular black hole with a single horizon, finite temperature, and entropy, while the first law of thermodynamics holds. We further compare this solution with the corresponding scalar-free singular black hole obtained when the regular parameter vanishes. Placing the two configurations in the same heat bath with identical temperature and magnetic chemical potential, we find that the SV regular black hole always has a larger free energy, indicating that the scalar-free singular configuration is thermodynamically preferred.",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2026-03-11T05:23:44+00:00",
+      "updated": "2026-06-13T04:51:57+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.10429v4",
+      "html_url": "https://arxiv.org/html/2603.10429v4",
+      "entry_url": "http://arxiv.org/abs/2603.10429v4"
+    },
+    {
+      "arxiv_id": "2603.11172v2",
+      "base_id": "2603.11172",
+      "title": "Integrable Massless and Massive Fermions",
+      "authors": [
+        "Zhao Zhang"
+      ],
+      "abstract": "One-dimensional integrable fermions can be classified into massless and massive regimes, and the $R$-operator for the latter can be constructed from that of the former. Here, I define integrable massless fermions by the simultaneous satisfaction of the Yang-Baxter equation (YBE) and Shastry's decorated YBE (DYBE) by the $R$-matrix. This notion is strictly more general than Maassarani's `free-fermion algebra', yet more restrictive than the notion of free fermions in exactly solvable quantum models or in integrable two-dimensional classical vertex models dual to quantum spin chains. Within this framework, there emerge two archetypal mechanisms for opening a spectral gap and generating massive fermions: (i) breaking time-reversal symmetry by coupling to external field, and (ii) introducing time-reversal symmetric interactions. These paradigms are realized, respectively, in the XY chain in a longitudinal field and in the Hubbard model, both of which possess non-relativistic, bivariate $R$-matrices. Integrability conditions on local Hamiltonians for both massless and massive fermions are identified, and schematic procedures for uniquely determining their $R$-matrices are proposed.",
+      "categories": [
+        "nlin.SI",
+        "cond-mat.stat-mech",
+        "hep-th",
+        "math-ph",
+        "quant-ph"
+      ],
+      "published": "2026-03-11T18:00:03+00:00",
+      "updated": "2026-06-10T15:58:03+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.11172v2",
+      "html_url": "https://arxiv.org/html/2603.11172v2",
+      "entry_url": "http://arxiv.org/abs/2603.11172v2"
+    },
+    {
+      "arxiv_id": "2603.10922v2",
+      "base_id": "2603.10922",
+      "title": "Systematic exploration of triply heavy tetraquarks: spectroscopic and decay characteristics",
+      "authors": [
+        "Hong-Tao An",
+        "Yu-Shuai Li",
+        "Si-Qiang Luo"
+      ],
+      "abstract": "While hidden, singly, doubly, and fully heavy tetraquark states have been experimentally observed, triply heavy tetraquark states remain experimentally unconfirmed. We systematically investigate the spectroscopic and decay properties of four triply heavy-flavor tetraquark systems ($cc\\bar{c}\\bar{n}$, $cc\\bar{c}\\bar{s}$, $bb\\bar{b}\\bar{n}$, $bb\\bar{b}\\bar{s}$; $n=u,d$) based on the nonrelativistic quark model. Using an effective Hamiltonian, we employ the Gaussian expansion method to solve the four-body Schrödinger equation and incorporate the effect of color-spin configuration mixing. Results show both $cc\\bar{c}\\bar{q}$ and $bb\\bar{b}\\bar{q}$ systems have two $J^{P}=0^{+}$, three $J^{P}=1^{+}$, and one $J^{P}=2^{+}$ states, with ground-state masses of 5.2-5.5 GeV and 15.0-15.3 GeV, respectively. Root-mean-square radius analysis supports compact tetraquark configurations. All states are unstable, with rearrangement strong decays dominant and negligible radiative decays. Narrow resonances (e.g., $T_{c^{2}\\bar{c}\\bar{s}}(5360,0^{+})$, $T_{b^{2}\\bar{b}\\bar{n}}(15148,2^{+})$) arise from Feynman amplitude cancellation. We propose experimental searches in $J/ψD^{*}_{s}$/ $η_{c}D_{s}$ (5.3-5.4 GeV) and $ΥB^{*}$ (15.1-15.2 GeV) channels, providing key guidance for triply heavy tetraquark identification.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-03-11T16:05:19+00:00",
+      "updated": "2026-06-11T14:07:54+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.10922v2",
+      "html_url": "https://arxiv.org/html/2603.10922v2",
+      "entry_url": "http://arxiv.org/abs/2603.10922v2"
+    }
+  ],
+  "total": 15
+}

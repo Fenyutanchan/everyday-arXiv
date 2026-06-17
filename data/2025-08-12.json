@@ -1,0 +1,68 @@
+{
+  "date": "2025-08-12",
+  "papers": [
+    {
+      "arxiv_id": "2508.08931v2",
+      "base_id": "2508.08931",
+      "title": "Superheavy Q-Balls and Cosmology",
+      "authors": [
+        "J. McDonald"
+      ],
+      "abstract": "We propose a model for the cosmological formation of superheavy Q-Balls in the mass range $10^{-7} \\, M_{\\odot}$ to $10^{6} \\, M_{\\odot}$. The model is based on a hidden sector scalar potential motivated by broken scale invariance, for which analytic Q-ball solutions and numerical simulations of condensate fragmentation exist. We show that this potential can produce superheavy Q-balls during the radiation-dominated era. As an example, we show that it is possible to produce Q-balls of mass $ \\sim \\,10^{6} \\, M_{\\odot}$ and diameter $\\sim$ 100 light years, with a number density $\\sim 1$ per galaxy. Such early-forming superheavy Q-balls could play a role in galaxy and supermassive black hole (SMBH) formation. We also show that it is possible to form smaller mass Q-balls with large numbers per galaxy volume, that could form SMBH by merging. Finally, we show that it is possible to produce asteroid mass Q-balls that could account for all of the dark matter whilst remaining consistent with observational limits on MACHOs.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-08-12T13:33:31+00:00",
+      "updated": "2026-04-27T13:09:55+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.08931v2",
+      "html_url": "https://arxiv.org/html/2508.08931v2",
+      "entry_url": "http://arxiv.org/abs/2508.08931v2"
+    },
+    {
+      "arxiv_id": "2508.08889v2",
+      "base_id": "2508.08889",
+      "title": "Optical Phenomena in a Non-Commutative Kalb-Ramond Black Hole Spacetime",
+      "authors": [
+        "A. A. Araújo Filho",
+        "N. Heidari",
+        "Iarley P. Lobo",
+        "Yuxuan Shi"
+      ],
+      "abstract": "This work investigates additional gravitational features of a newly proposed black hole spacetime within Kalb-Ramond gravity, incorporating non-commutative corrections arising from a gauge-theoretic approach recently introduced in the literature [arXiv:2507.17390]. Accordingly, null geodesics are solved numerically to trace photon paths; the photon sphere and shadow are determined. From Event Horizon Telescope (EHT) measurements of $Sgr A^{*}$, constraints on the parameters $Θ$ (which encapsulates the non-commutativity) and $\\ell$ (the Lorentz-violating parameter) are established. To examine the stability of critical orbits and the deflection angle (gravitational lensing) in the weak field scenario, we compute the Gaussian curvature in order to use the Gauss-Bonnet theorem. Moreover, the deflection angle has been calculated as well in the strong deflection limit. Furthermore, Lensing observables are estimated using EHT data for $Sgr A^{*}$ and $M87$. Topological features such as the topological photon sphere are also explored.",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2025-08-12T12:25:47+00:00",
+      "updated": "2026-05-28T16:42:42+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.08889v2",
+      "html_url": "https://arxiv.org/html/2508.08889v2",
+      "entry_url": "http://arxiv.org/abs/2508.08889v2"
+    },
+    {
+      "arxiv_id": "2508.09112v3",
+      "base_id": "2508.09112",
+      "title": "Tracing Large-Scale Structure Morphology with Multiwavelength Line Intensity Maps",
+      "authors": [
+        "Manas Mohit Dosibhatla",
+        "Suman Majumdar",
+        "Chandra Shekhar Murmu",
+        "Samit Kumar Pal",
+        "Saswata Dasgupta",
+        "Satadru Bag",
+        "Abhirup Datta"
+      ],
+      "abstract": "Line intensity mapping (LIM) is an emerging technique for probing the large-scale structure (LSS) in the post-reionisation era. This captures the integrated flux of a particular spectral line emission from multiple sources within a patch of the sky without resolving them. Mapping different galaxy line emissions, such as the HI $21$-cm and CO rotational lines via LIM, can reveal complementary information about the bias with which the line emitters trace the underlying matter distribution and how different astrophysical phenomena affect the clustering pattern of these signals. The stage at which the structures in the \"cosmic web\" merge to form a single connected structure is known as the percolation transition. Using mock HI $21$-cm and CO($1-0$) LIM signals in the post-reionisation universe, we explore the connectivity of structures through percolation analysis and compare it with the underlying galaxy distribution. We probe the relative contributions of voids, filaments, and sheets to the galaxy density and line intensity maps using a morphological measure known as the local dimension. The CO($1-0$) map exhibits an increased filamentary behaviour and larger contribution from sheets than the $21$-cm map. We attempt to explain such an emission of the CO($1-0$) line from biased environments. The upcoming SKA-Mid will produce tomographic intensity maps of the $21$-cm signal at $z \\lesssim 3$ in Band-1. CO maps can be produced at these redshifts in phase 2 of SKA-Mid, where the frequency coverage is expected to increase up to $\\sim 50$ GHz. We present forecasts for the recovery of the local dimensions of these line intensity maps contaminated by thermal noise and line interlopers in SKA-Mid surveys.",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.GA"
+      ],
+      "published": "2025-08-12T17:45:30+00:00",
+      "updated": "2026-06-05T10:21:09+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.09112v3",
+      "html_url": "https://arxiv.org/html/2508.09112v3",
+      "entry_url": "http://arxiv.org/abs/2508.09112v3"
+    }
+  ],
+  "total": 3
+}

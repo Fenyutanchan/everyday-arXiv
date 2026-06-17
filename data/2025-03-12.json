@@ -1,0 +1,64 @@
+{
+  "date": "2025-03-12",
+  "papers": [
+    {
+      "arxiv_id": "2503.09677v3",
+      "base_id": "2503.09677",
+      "title": "Scalar Thermal Field Theory for a Rotating Plasma",
+      "authors": [
+        "Alberto Salvio"
+      ],
+      "abstract": "This paper initiates the systematic study of thermal field theory for generic equilibrium density matrices, which feature arbitrary values not only of temperature and chemical potentials, but also of average angular momentum. The focus here is on scalar fields, although some results also apply to fields with arbitrary spins. A general technique to compute ensemble averages is provided. Moreover, path-integral methods are developed to study thermal Green's functions (with an arbitrary number of points) in generic theories, which cover both the real-time and imaginary-time formalism. It is shown that, while the average angular momentum, like the chemical potentials, does not contribute positively to the Euclidean action, its negative contributions can be compensated by some other contributions that are instead positive, at least in some cases, e.g. when the chemical potentials vanish. As an application of the developed general formalism, it is shown that the production of particles weakly coupled to a rotating plasma can be significantly enhanced compared to the non-rotating case. The Higgs boson production through a portal coupling to a dark sector in the early universe is studied in some detail. The findings of this paper can also be useful, for example, to investigate the physics of rotating stars, ordinary and primordial black holes and more exotic compact objects.",
+      "categories": [
+        "hep-th",
+        "astro-ph.CO",
+        "hep-lat",
+        "hep-ph"
+      ],
+      "published": "2025-03-12T18:00:00+00:00",
+      "updated": "2026-04-25T11:13:22+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2503.09677v3",
+      "html_url": "https://arxiv.org/html/2503.09677v3",
+      "entry_url": "http://arxiv.org/abs/2503.09677v3"
+    },
+    {
+      "arxiv_id": "2503.09691v2",
+      "base_id": "2503.09691",
+      "title": "New Supernova Constraints on Neutrinophilic Dark Sector - Vector Mediators",
+      "authors": [
+        "Christopher V. Cappiello",
+        "P. S. Bhupal Dev",
+        "Amol V. Patwardhan"
+      ],
+      "abstract": "Supernova cooling has long been used to constrain physics beyond the Standard Model, typically involving new mediators or dark matter (DM) particles that couple to nucleons or electrons. In this work, we show that the large density of neutrinos inside the neutrinosphere of supernovae also makes them powerful laboratories to study nonstandard neutrino interactions with a {\\it neutrinophilic} dark sector, i.e.~DM and mediator particles interacting primarily with neutrinos. In this case, we find that the existing constraints are rather weak, and for a wide range of currently unconstrained parameter space, neutrino annihilation within a supernova could copiously produce such neutrinophilic DM at a large enough rate to cause noticeable anomalous cooling. From the non-observation of such anomalous cooling in SN1987A, we thus set new constraints on neutrino-DM interactions, which provide up to five orders of magnitude improvement in the effective coupling over the existing constraints for DM masses below ${\\cal O}$(100 MeV).",
+      "categories": [
+        "hep-ph",
+        "astro-ph.HE"
+      ],
+      "published": "2025-03-12T18:00:01+00:00",
+      "updated": "2026-06-03T21:28:47+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2503.09691v2",
+      "html_url": "https://arxiv.org/html/2503.09691v2",
+      "entry_url": "http://arxiv.org/abs/2503.09691v2"
+    },
+    {
+      "arxiv_id": "2503.09104v2",
+      "base_id": "2503.09104",
+      "title": "Dark matter distributions around Schwarzschild-like black holes in bumblebee and Kalb-Ramond models",
+      "authors": [
+        "Minghong Yu",
+        "Towe Wang"
+      ],
+      "abstract": "A central black hole can attract a dark matter cluster and generate a spike in the density profile, as demonstrated by detailed analysis of Schwarzschild and Kerr black holes in the past. Do different black holes attract dark matter differently? To get a fair answer to this question, we customize a relativistic framework to grow general static spherical black holes in dark matter halos and investigate how deviations from the Schwarzschild geometry modify the dark matter spike for the first time. The framework is applied to a class of Schwarzschild-like black hole solutions in Lorentz-violated gravity models -- one in the bumblebee model and two in the Kalb-Ramond model. For these black holes, the answer is no if initially the dark matter has a constant distribution, but the answer is yes if it has a Hernquist profile initially.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-03-12T06:44:54+00:00",
+      "updated": "2026-06-15T04:00:50+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2503.09104v2",
+      "html_url": "https://arxiv.org/html/2503.09104v2",
+      "entry_url": "http://arxiv.org/abs/2503.09104v2"
+    }
+  ],
+  "total": 3
+}

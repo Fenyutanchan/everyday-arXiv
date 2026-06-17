@@ -1,0 +1,107 @@
+{
+  "date": "2025-08-19",
+  "papers": [
+    {
+      "arxiv_id": "2508.13923v2",
+      "base_id": "2508.13923",
+      "title": "Hunting for new glitches in LIGO data using community science",
+      "authors": [
+        "E Mackenzie",
+        "C P L Berry",
+        "G Niklasch",
+        "B Téglás",
+        "C Unsworth",
+        "K Crowston",
+        "D Davis",
+        "A K Katsaggelos"
+      ],
+      "abstract": "Data from ground-based gravitational-wave detectors like LIGO contain many types of noise. Glitches are short bursts of non-Gaussian noise that may hinder our ability to identify or analyse gravitational-wave signals. They may have instrumental or environmental origins, and new types of glitches may appear following detector changes. The Gravity Spy project studies glitches and their origins, combining insights from volunteers on the community-science Zooniverse platform with machine learning. Here, we study volunteer proposals for new glitch classes, discussing links between these glitches and the state of the detectors, and examining how new glitch classes pose a challenge for machine-learning classification. Our results demonstrate how Zooniverse empowers non-experts to make discoveries, and the importance of monitoring changes in data quality in the LIGO detectors.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.IM",
+        "physics.ed-ph"
+      ],
+      "published": "2025-08-19T15:18:02+00:00",
+      "updated": "2026-04-22T13:01:30+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.13923v2",
+      "html_url": "https://arxiv.org/html/2508.13923v2",
+      "entry_url": "http://arxiv.org/abs/2508.13923v2"
+    },
+    {
+      "arxiv_id": "2508.13847v2",
+      "base_id": "2508.13847",
+      "title": "Discriminating scalar ultralight dark matter from quasi-monochromatic gravitational waves in LISA",
+      "authors": [
+        "Jordan Gué",
+        "Peter Wolf",
+        "Aurélien Hees"
+      ],
+      "abstract": "A scalar ultralight dark matter (ULDM) candidate would induce oscillatory motion of freely falling test masses via its coupling to Standard Model fields. Such oscillations would create an observable Doppler shift of light exchanged between the test masses, and in particular would be visible in space-based gravitational waves (GW) detectors, such as LISA. While this kind of detection has been proposed multiple times in the recent years, we numerically investigate if it is possible to extract a scalar ULDM signal in a space-based GW detector, and in particular how to differentiate such a signal from a GW signal. Using one year of realistic orbits for the LISA spacecrafts and Bayesian methods, we find that LISA will indeed be able to discriminate between the two signals.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-08-19T14:10:13+00:00",
+      "updated": "2026-05-21T08:10:44+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.13847v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2508.13847v2"
+    },
+    {
+      "arxiv_id": "2508.13820v2",
+      "base_id": "2508.13820",
+      "title": "Scalar field perturbations in Non-commutative Schwarzschild spacetime: Comparative analysis and Upper bound on non-commutativity",
+      "authors": [
+        "Majid Karimabadi",
+        "Davood Mahdavian Yekta",
+        "S. A. Alavi"
+      ],
+      "abstract": "This work presents a comparative analysis of the quasi-normal modes and ringdowns of scalar field perturbations in the non-commutative Schwarzschild black hole spacetime, focusing on two distinct non-minimal curvature couplings: in the first, the scalar field is coupled directly to the Ricci scalar of the background geometry, while in the second, its derivatives are coupled to the Einstein tensor. We show that the spectra of frequencies in the two models are nearly identical at the low overtone numbers, in particular for the fundamental modes. Time-domain profiles further reveal that, as the value of the coupling constant increases, the tensor-coupled model exhibits greater stability at low multipolar numbers, whereas the scalar-coupled model becomes more stable at high multipolar numbers. Finally, using the critical values of the coupling constants from the stability condition of the ringdown profiles, we provide a comparable upper bound on the non-commutative parameter.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-08-19T13:32:09+00:00",
+      "updated": "2026-05-28T02:48:30+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.13820v2",
+      "html_url": "https://arxiv.org/html/2508.13820v2",
+      "entry_url": "http://arxiv.org/abs/2508.13820v2"
+    },
+    {
+      "arxiv_id": "2508.14165v3",
+      "base_id": "2508.14165",
+      "title": "Euclidean Wormholes and Gravitational States",
+      "authors": [
+        "Alexandre Belin"
+      ],
+      "abstract": "Euclidean wormholes are known to encode important non-perturbative effects in the physics of quantum black holes. In this paper, we discuss the slicing of Euclidean wormholes along a time-reflection symmetric slice which treats half of the Euclidean geometry as a gravitational machinery to produce a semi-classical state. This type of state preparation is different from Hartle-Hawking states prepared with the CFT path integral, such as the thermofield-double state. Nevertheless, the two different types of states have order one overlaps provided the gravitational data agrees on the initial data slice. This raises an interesting puzzle: one can easily construct an infinite family of semi-classical states that have order one overlap with the thermofield double state, while having a very different Euclidean preparation. We provide a microscopic description of wormhole states in the dual CFT and reformulate the factorization puzzle in the language of entanglement and the Hilbert space.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2025-08-19T18:00:03+00:00",
+      "updated": "2026-05-28T20:09:22+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.14165v3",
+      "html_url": "https://arxiv.org/html/2508.14165v3",
+      "entry_url": "http://arxiv.org/abs/2508.14165v3"
+    },
+    {
+      "arxiv_id": "2508.14240v4",
+      "base_id": "2508.14240",
+      "title": "On a Grassmann odd analogue of Carrollian Manifolds",
+      "authors": [
+        "Andrew James Bruce"
+      ],
+      "abstract": "We define a Grassmann odd analogue of a Carrollian manifold as a supermanifold of dimension $n|1$ with an even degenerate metric such that the kernel is generated by a non-singular odd vector field that is a supersymmetry generator. Alongside other results, we establish that the reduced manifold is a pseudo-Riemannian manifold, and show that compatible affine connections always exist, albeit they must carry torsion. As a physically relevant example, we examine an Inönü--Wigner contraction of the supertranslation algebra on standard superspace $\\mathbb{R}^{4|4}$.",
+      "categories": [
+        "math.DG",
+        "gr-qc",
+        "math-ph"
+      ],
+      "published": "2025-08-19T19:59:16+00:00",
+      "updated": "2026-06-09T17:36:17+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.14240v4",
+      "html_url": "https://arxiv.org/html/2508.14240v4",
+      "entry_url": "http://arxiv.org/abs/2508.14240v4"
+    }
+  ],
+  "total": 5
+}

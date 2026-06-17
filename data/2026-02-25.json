@@ -1,0 +1,278 @@
+{
+  "date": "2026-02-25",
+  "papers": [
+    {
+      "arxiv_id": "2602.22307v3",
+      "base_id": "2602.22307",
+      "title": "Global structure of the time delay likelihood",
+      "authors": [
+        "Namu Kroupa",
+        "Will Handley"
+      ],
+      "abstract": "We identify a fundamental pathology in the likelihood for time delay inference which challenges standard inference methods. By analysing the likelihood for time delay inference with Gaussian process light curve models, we show that it generically develops a boundary-driven \"W\"-shape with a global maximum at the true delay and gradual rises towards the edges of the observation window. This arises because time delay estimation is intrinsically extrapolative. In practice, global samplers such as nested sampling are steered towards spurious edge modes unless strict convergence criteria are adopted. We demonstrate this with simulations and show that the effect strengthens with higher data density over a fixed time span. To ensure convergence, we provide concrete guidance, notably increasing the number of live points. Further, we show that methods implicitly favouring small delays, for example optimisers and local MCMC, induce a bias towards larger $H_0$. Our results clarify failure modes and offer practical remedies for robust fully Bayesian time delay inference.",
+      "categories": [
+        "stat.ME",
+        "astro-ph.CO",
+        "astro-ph.GA",
+        "astro-ph.IM"
+      ],
+      "published": "2026-02-25T19:00:00+00:00",
+      "updated": "2026-04-28T14:44:29+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.22307v3",
+      "html_url": "https://arxiv.org/html/2602.22307v3",
+      "entry_url": "http://arxiv.org/abs/2602.22307v3"
+    },
+    {
+      "arxiv_id": "2602.22313v2",
+      "base_id": "2602.22313",
+      "title": "Quantum simulation of massive Thirring and Gross--Neveu models for arbitrary number of flavors",
+      "authors": [
+        "Bojko N. Bakalov",
+        "Joao C. Getelina",
+        "Raghav G. Jha",
+        "Alexander F. Kemper",
+        "Yuan Liu"
+      ],
+      "abstract": "The study of fermionic quantum field theories is an important problem for realizing the standard model of particle physics on a quantum computer. As a step towards this goal, we consider the massive Thirring and Gross--Neveu models with arbitrary number of fermion flavors, $N_f$, discretized on a spatial one-dimensional lattice of size $L$ in the Hamiltonian formulation. We compute the gate complexity using the higher-order product formula and using block-encoding/qubitization and quantum singular value transformations in the limit of large $N_f$ and $L$. We also prepare the ground states of both models with excellent fidelity for system sizes up to 20 qubits with $N_f = 1,2,3,4$ using the adaptive-variational quantum imaginary time algorithm. In addition, we also classify the dynamical Lie algebras of these relativistic fermionic models and show that they belong to the same isomorphism class. Our work is a concrete step towards the quantum simulation of real-time dynamics of large $N_f$ fermionic quantum field theories models relevant for chiral symmetry breaking, understanding dimensional transmutation, and exploring the conformal window of field theories on near-term and early fault-tolerant quantum computers.",
+      "categories": [
+        "quant-ph",
+        "hep-lat",
+        "hep-th"
+      ],
+      "published": "2026-02-25T19:00:01+00:00",
+      "updated": "2026-05-09T16:43:35+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.22313v2",
+      "html_url": "https://arxiv.org/html/2602.22313v2",
+      "entry_url": "http://arxiv.org/abs/2602.22313v2"
+    },
+    {
+      "arxiv_id": "2602.21642v2",
+      "base_id": "2602.21642",
+      "title": "Geodesic completion of big bangs from emergent geometry",
+      "authors": [
+        "Brooke Berrios",
+        "Cameron Corley",
+        "Sky O'Donnell",
+        "Benjamin Shlaer",
+        "Jada Young"
+      ],
+      "abstract": "Chaplygin gas and other k-essence models exhibit emergent geometry, with perturbations propagating on an acoustic metric disformally related to the Einstein-frame metric. For superluminal sound speed, we identify the disformal metric as the \"causal frame,\" since choosing a finite causal-frame lapse yields hyperbolic equations of motion for fields propagating in either frame. We show that with a phantom Chaplygin gas, the Einstein-frame lapse is forced to pass smoothly through zero and change sign while the causal-frame lapse remains positive. As a result, Einstein-frame degrees of freedom (including the scale factor) undergo spontaneous time-reversal while the Chaplygin gas evolves monotonically, enforcing a robust non-singular bounce even in the presence of additional matter canonically coupled to the Einstein frame.",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2026-02-25T07:13:45+00:00",
+      "updated": "2026-05-13T19:42:18+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.21642v2",
+      "html_url": "https://arxiv.org/html/2602.21642v2",
+      "entry_url": "http://arxiv.org/abs/2602.21642v2"
+    },
+    {
+      "arxiv_id": "2602.22485v2",
+      "base_id": "2602.22485",
+      "title": "Cosmic Environment as the Primary Driver of Dwarf Satellite Statistics",
+      "authors": [
+        "Saeed Tavasoli",
+        "Parsa Ghafour"
+      ],
+      "abstract": "Context: Satellite dwarf galaxies provide key constraints on galaxy formation and evolution, since their abundance and spatial distribution reflect both the host properties and the large-scale environment.   Aims: This study quantifies the dependence of satellite populations on the host stellar mass, morphology, and star formation activity across different environments, and traces their evolution with cosmic time within the $Λ$CDM framework.   Methods: The Millennium-II simulation combined with the G11 semi-analytic model is used to construct consistent samples of host galaxies brighter than $M_{r}<-16$ and their satellites ($M_{\\ast}\\geq 3\\times10^{5}\\,M_{\\odot}$, $M_{r}<-9$) within the virial radius. Satellite abundance and radial profiles are analysed in cluster, group, and void environments, and their evolution is traced from $z=2$ to $z=0$ across three host stellar mass bins.   Results: Satellite abundance is correlated strongly with host stellar and bulge mass, whereas host morphology has little independent effect once stellar mass is accounted for. Dense environments suppress satellite populations relative to voids. Correlations between satellite abundance, specific star formation rate, and disk scale length become evident only in groups and clusters. At $z=0$, radial profiles show strong central concentrations in voids, flattened distributions in clusters, and intermediate trends in groups. Their redshift evolution reveals progressive flattening for low- and intermediate-mass hosts in dense environments, stability for massive hosts, and increasing central concentration in voids. The cosmic evolution of satellite abundance further highlights distinct pathways: gradual accumulation in voids, mass-dependent trends in groups, and strong late-time suppression in clusters.",
+      "categories": [
+        "astro-ph.GA",
+        "astro-ph.CO"
+      ],
+      "published": "2026-02-25T23:50:35+00:00",
+      "updated": "2026-05-20T10:32:00+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.22485v2",
+      "html_url": "https://arxiv.org/html/2602.22485v2",
+      "entry_url": "http://arxiv.org/abs/2602.22485v2"
+    },
+    {
+      "arxiv_id": "2602.21580v2",
+      "base_id": "2602.21580",
+      "title": "Bulk and turbulent gas motions in the interacting galaxy cluster Abell 3395 South observed with XRISM",
+      "authors": [
+        "Naomi Ota",
+        "Angie Veronica",
+        "Jakob Dietl",
+        "Anri Yanagawa",
+        "Thomas H. Reiprich",
+        "Veronica Biffi",
+        "Klaus Dolag",
+        "Marcus Brüggen",
+        "Esra Bulbul",
+        "Florian Pacaud",
+        "Yoshiki Toba"
+      ],
+      "abstract": "We investigate the gas motions in the core region of the Abell~3395 South subcluster (A3395S) using high-resolution X-ray spectroscopy with XRISM/Resolve. By analyzing the Fe~XXV He$α$ emission line, we directly measure the line-of-sight bulk and turbulent velocities of the intracluster medium. We find that the one-dimensional turbulent velocity is low, at the level of $124\\pm21~{\\rm km\\,s^{-1}}$, while a significant line-of-sight bulk velocity of $263\\pm23~{\\rm km\\,s^{-1}}$ is detected. The coexistence of low turbulence and finite bulk motion suggests that A3395S has not yet reached a dynamically relaxed state. These results are consistent with the non-detection of a radio halo in A3395S, implying that turbulent particle reacceleration is currently inefficient in the cluster core. This study demonstrates that high-resolution X-ray spectroscopy with XRISM provides a powerful means to directly constrain intracluster medium dynamics in merging galaxy clusters, and it provides a reference for future comparative studies of A3395N and A3391 within the same large-scale structure.",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.GA"
+      ],
+      "published": "2026-02-25T05:04:43+00:00",
+      "updated": "2026-05-29T07:31:17+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.21580v2",
+      "html_url": "https://arxiv.org/html/2602.21580v2",
+      "entry_url": "http://arxiv.org/abs/2602.21580v2"
+    },
+    {
+      "arxiv_id": "2602.22060v2",
+      "base_id": "2602.22060",
+      "title": "Solving the tetrahedron equation by Teichmüller TQFT",
+      "authors": [
+        "Myungbo Shim",
+        "Xiaoyue Sun",
+        "Hao Ellery Wang",
+        "Junya Yagi"
+      ],
+      "abstract": "We propose an approach to construct three-dimensional lattice models using line defects in state integral models on shaped triangulations of 3-manifolds. The Boltzmann weights for these models satisfy a variant of the tetrahedron equation, which implies integrability under suitable assumptions on R-matrices and transfer matrices. As an explicit example, we present a solution produced by Teichmüller TQFT.",
+      "categories": [
+        "math-ph",
+        "hep-th",
+        "nlin.SI"
+      ],
+      "published": "2026-02-25T16:09:45+00:00",
+      "updated": "2026-06-02T14:28:29+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.22060v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2602.22060v2"
+    },
+    {
+      "arxiv_id": "2602.21890v2",
+      "base_id": "2602.21890",
+      "title": "The impact of cosmic filaments on starburst galaxies across cosmic times",
+      "authors": [
+        "Baptiste Jego",
+        "Matthieu Béthermin",
+        "Katarina Kraljic",
+        "Clotilde Laigle",
+        "Lingyu Wang",
+        "Antonio La Marca",
+        "Olivier Ilbert",
+        "Hollis B. Akins",
+        "Caitlin M. Casey",
+        "Gavin Leroy",
+        "Ali Hadi",
+        "Jeyhan S. Kartaltepe",
+        "Anton M. Koekemoer",
+        "Henry Joy McCracken",
+        "Louise Paquereau",
+        "Jason Rhodes",
+        "Brant E. Robertson",
+        "Marko Shuntov",
+        "Greta Toni",
+        "Can Xu"
+      ],
+      "abstract": "Cosmological simulations suggest that various galaxy properties depend on their location within the cosmic web. Yet direct observational evidence of the dependence of star formation activity on distance to filaments remains scarce and is missing at z>1. We investigate how starburst, main-sequence (MS), and quenched galaxies are distributed with respect to cosmic web filaments, and how this distribution evolves with redshift. We first use the SIMBA cosmological simulation to predict the redshift evolution of the mean distance to the closest filament from z=3 to z=0 for different galaxy populations after removing stellar-mass dependencies. We then measure the corresponding signal in the COSMOS field, using COSMOS2020 and COSMOS-Web data, where accurate photometric redshifts enable reconstruction of the projected cosmic web from z=2 to z=0.5, and starbursts are identified through far-infrared spectral energy distribution fitting. In agreement with the results from SIMBA, starburst galaxies are found closer to filaments at z>1 and at larger distances at z<1, MS galaxies occupy intermediate environments with little evolution, and quenched galaxies show progressively shorter distances to filaments toward low redshift, with a crossing between starburst and MS populations around z~1. In COSMOS-Web, the relative evolution in the average distance to filaments between starburst and MS galaxies is detected at a significance level of at least 5σ. We show that a minimal toy model in which the only environmental ingredient is the sSFR-filament distance modulation measured in simulations is sufficient to reproduce the observed differential evolution of the average filament distance between starburst and MS galaxies. These results show that the imprint of large-scale environmental effects on the star formation activity of galaxies, predicted by simulations, is detectable from z=2 down to z=0.5.",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.GA"
+      ],
+      "published": "2026-02-25T13:13:43+00:00",
+      "updated": "2026-06-02T14:02:38+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.21890v2",
+      "html_url": "https://arxiv.org/html/2602.21890v2",
+      "entry_url": "http://arxiv.org/abs/2602.21890v2"
+    },
+    {
+      "arxiv_id": "2602.21872v2",
+      "base_id": "2602.21872",
+      "title": "Study of the $Ω_{ccc}Ω_{ccc}$ and $Ω_{bbb}Ω_{bbb}$ dibaryons in QCD Sum Rules",
+      "authors": [
+        "Xu-Liang Chen",
+        "Jin-Peng Zhang",
+        "Zi-Xi Ou-Yang",
+        "Wei Chen",
+        "Jia-Jun Wu"
+      ],
+      "abstract": "The recent observation of a family of fully-charm tetraquark states by the LHCb, ATLAS and CMS Collaborations suggests the possible existence of fully-heavy dibaryons. In this work, we investigate the $Ω_{ccc}Ω_{ccc}$ and $Ω_{bbb}Ω_{bbb}$ dibaryons in both the $^1S_0$ and $^5S_2$ channels using the method of QCD sum rules. We employ the iterative dispersion relation (IDR) method to efficiently compute the massive five-loop banana diagrams that appear in these systems, and properly address the tricky small-circle divergence problem in the nonperturbative terms. Our analyses reveal that for both charm and bottom systems, the scalar dibaryon lies lower than its tensor counterpart. In $\\overline{\\text{MS}}$ scheme, the mass of the scalar $Ω_{ccc}Ω_{ccc}$ dibaryon is found to be slightly above the $2Ω_{ccc}$ mass threshold, while the $Ω_{bbb}Ω_{bbb}$ systems may form bound states. However, they are predicted to be much heavier in the on-shell scheme.",
+      "categories": [
+        "hep-ph",
+        "hep-ex",
+        "hep-lat"
+      ],
+      "published": "2026-02-25T12:57:17+00:00",
+      "updated": "2026-06-05T03:40:09+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.21872v2",
+      "html_url": "https://arxiv.org/html/2602.21872v2",
+      "entry_url": "http://arxiv.org/abs/2602.21872v2"
+    },
+    {
+      "arxiv_id": "2602.21523v2",
+      "base_id": "2602.21523",
+      "title": "Elastic neutrino-electron scattering perspectives at nuclear reactors",
+      "authors": [
+        "Luis A. Delgadillo",
+        "Qishan Liu",
+        "Randhir Singh"
+      ],
+      "abstract": "The determination of the weak mixing angle, $\\sin^2θ_W$, at low momentum transfers remains a powerful test of the Standard Model and its potential new physics extensions. In this paper, we explore some physics opportunities at present and future reactor neutrino experiments through elastic neutrino-electron scattering (E$ν$ES). We assess the expected sensitivity to the weak mixing angle considering the CLOUD, TAO, and DANSS experimental configurations. We find that both CLOUD and TAO may achieve a precision that surpasses the current global fit from reactor experiments, while DANSS alone is expected to surpass the benchmark precision set by TEXONO measurement of the weak mixing angle. Additionally, we derive projected upper limits for the non-standard neutrino interactions (NSI), effective neutrino magnetic moment ($μ_ν$) and translate these into constraints on the neutrino transition magnetic moments ($Λ_i$). Our results demonstrate the physics potential of the E$ν$ES channel at current and upcoming reactor-based neutrino experiments.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2026-02-25T03:25:07+00:00",
+      "updated": "2026-06-07T14:38:36+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.21523v2",
+      "html_url": "https://arxiv.org/html/2602.21523v2",
+      "entry_url": "http://arxiv.org/abs/2602.21523v2"
+    },
+    {
+      "arxiv_id": "2602.21836v2",
+      "base_id": "2602.21836",
+      "title": "Hotspot Images from Magnetic Reconnection Processes in the plunging Region of a Kerr Black Hole",
+      "authors": [
+        "Xiao-Xiong Zeng",
+        "Yun Hong",
+        "Ke Wang"
+      ],
+      "abstract": "Employing the hotspot imaging technique, this work investigates the plasma motion trajectories prior to and following the Comisso-Asenjo mechanism within the plunging region. After a concise overview of the magnetic reconnection process in the plunging region of a Kerr black hole, we present the hotspot model and the associated imaging methodology. Through numerical simulations, we separately examine the hotspot images in the plunging region under three conditions: no magnetic reconnection, with magnetic reconnection, and when the escape condition fails. These outcomes are also contrasted with hotspot images in the circular orbit zone. Our findings reveal that for hotspot images without magnetic reconnection, when the plasma follows plunging orbits, the flare strength gradually declines; conversely, for circular orbits, the flare strength remains approximately constant. Additionally, we observe that the signal indicative of energy extraction is less conspicuous in the plunging region compared to the circular orbit region.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2026-02-25T12:09:58+00:00",
+      "updated": "2026-06-06T03:14:46+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.21836v2",
+      "html_url": "https://arxiv.org/html/2602.21836v2",
+      "entry_url": "http://arxiv.org/abs/2602.21836v2"
+    },
+    {
+      "arxiv_id": "2602.21769v2",
+      "base_id": "2602.21769",
+      "title": "A Consistent Holographic Analysis of Anomaly-induced Charge Transport in the D3/D7 Model",
+      "authors": [
+        "Shin Nakamura",
+        "Kensei Tanaka"
+      ],
+      "abstract": "We propose a scheme to correctly incorporate the contribution of the chiral anomaly in the D3/D7 model to calculate chiral transport phenomena. To ensure the D7-brane wraps S^5 appropriately and the Wess-Zumino term is switched on, we allow the D7-brane to rotate in the compactified extra directions and perform the analysis accordingly. To demonstrate that this calculation procedure works well, we specifically compute the magnetoresistance in the D3/D7 model. We find that a finite axial chemical potential is realized and the negative magnetoresistance is enhanced by the anomaly contribution.",
+      "categories": [
+        "hep-th",
+        "nucl-th"
+      ],
+      "published": "2026-02-25T10:39:51+00:00",
+      "updated": "2026-06-10T07:45:22+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.21769v2",
+      "html_url": "https://arxiv.org/html/2602.21769v2",
+      "entry_url": "http://arxiv.org/abs/2602.21769v2"
+    },
+    {
+      "arxiv_id": "2602.22466v3",
+      "base_id": "2602.22466",
+      "title": "Effects of dispersion parity-violating interaction in electron scattering and atoms",
+      "authors": [
+        "V. V. Flambaum",
+        "I. B. Samsonov"
+      ],
+      "abstract": "Exchange of two neutrinos (as well as other fermions) generates a long-range parity-violating potential of the form $\\sim G^2/r^5$, with characteristic range $\\hbar/(2m_νc)$. In atomic systems the corresponding matrix elements converge at distances $r < 10/M_Z$, so that the interaction between electron and quarks effectively reduces to a contact term $\\sim G^2 M_Z^2 δ^{3}(\\vec{r}) \\sim G\\,α\\,δ^{3}(\\vec{r})$. This interaction produces a $-0.8\\%$ correction to the effective weak charge of cesium, resolving the $2σ$ discrepancy between the Standard Model prediction and the measured Cs parity-violation amplitude. The corresponding value of the weak mixing angle is $\\sin^2θ_W = 0.2375(19)$ at $q^2 \\approx 0$, in agreement with the Standard Model prediction $\\sin^2θ_W = 0.23873$. The relative correction to the proton weak charge is about $3\\%$. Using these results, we revisit the limits on an additional $Z'$ boson and obtain a constraint on isospin-conserving oblique radiative corrections characterized by the Peskin--Takeuchi parameter $S = -0.32(53)$ at $q^2 \\approx 0$.",
+      "categories": [
+        "hep-ph",
+        "physics.atom-ph"
+      ],
+      "published": "2026-02-25T22:57:20+00:00",
+      "updated": "2026-06-13T03:43:53+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.22466v3",
+      "html_url": "https://arxiv.org/html/2602.22466v3",
+      "entry_url": "http://arxiv.org/abs/2602.22466v3"
+    }
+  ],
+  "total": 12
+}

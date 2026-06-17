@@ -1,0 +1,46 @@
+{
+  "date": "2025-11-29",
+  "papers": [
+    {
+      "arxiv_id": "2512.00501v2",
+      "base_id": "2512.00501",
+      "title": "Dispersive analysis of the $J/ψ\\toπ^0 γ^\\ast$ transition form factor with $ρ$-$ω$ mixing effects",
+      "authors": [
+        "Xiong-Hui Cao",
+        "Feng-Kun Guo",
+        "Christoph Hanhart",
+        "Bastian Kubis"
+      ],
+      "abstract": "Motivated by the discrepancies noted recently between the theoretical predictions of the electromagnetic $J/ψ\\to π^0 γ^*$ transition form factor and the BESIII data, we reanalyze this transition form factor using the dispersive Khuri-Treiman equations, with final-state interactions in both the direct channel and the crossed channels properly considered. This improved framework incorporates $ρ$-$ω$ mixing effects. The effect of four-pion states is evaluated through a dispersively improved vector-meson-dominance model. From this information, we propose a two-parameter fit that provides an excellent description of the BESIII data over the broad energy range from 0 to 2.8GeV. We demonstrate that the $ρπ^0$ decay mode of the $J/ψ$ is dominated by strong interaction, while the $ωπ^0$ mode is dominated by one-photon exchange. From this, we extract the relative phase between the strong and the one-virtual-photon (electromagnetic) modes in hadronic decays of $J/ψ$ as $(62 \\pm 21)^{\\circ}$. This could provide useful information in understanding the long-standing $ρπ$ puzzle in $J/ψ$ decays.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2025-11-29T14:16:10+00:00",
+      "updated": "2026-04-27T14:32:53+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.00501v2",
+      "html_url": "https://arxiv.org/html/2512.00501v2",
+      "entry_url": "http://arxiv.org/abs/2512.00501v2"
+    },
+    {
+      "arxiv_id": "2512.00402v2",
+      "base_id": "2512.00402",
+      "title": "Wavelet-Scattering Signatures of Fuzzy Dark Matter in Simulated 21 cm Brightness-Temperature Maps",
+      "authors": [
+        "Hayato Shimabukuro",
+        "Shihang Liu",
+        "Bohua Li"
+      ],
+      "abstract": "We study how fuzzy dark matter (FDM) affects the multiscale morphology of the redshifted 21 cm brightness-temperature field during Cosmic Dawn and the Epoch of Reionization. Using FDM-modified \\texttt{21cmFAST} simulations, we apply the two-dimensional wavelet scattering transform (WST) to simulated 21 cm maps. The first-order coefficients $S_1(j)$ trace localized variance-like information, while the normalized second-order ratios $R(j_1,j_2)=S_2/S_1$ measure non-Gaussian cross-scale coupling. FDM shifts and reshapes both summaries, especially for scale pairs anchored on fine wavelet bands, reflecting delayed Ly$α$ coupling, X-ray heating, and reionization. We compare power-spectrum-only, WST-only, and combined power-spectrum+WST Fisher forecasts using the same SKA1-Low-like mock-observation assumptions, redshift bins, nuisance parameters, thermal-noise model, and $uv$ filtering. The combined power-spectrum+WST data vector gives the tightest marginalized constraints, showing that WST carries information complementary to the power spectrum in the adopted local Fisher setup. We also include an idealized foreground-wedge avoidance test on three-dimensional light-cone chunks, demonstrating how contaminated low-$k_\\parallel$ modes are removed before extracting WST summaries. A compact wedge-impact diagnostic shows that the normalized second-order ratio is less strongly reshaped by horizon-wedge filtering than the first-order amplitudes, while not constituting a foreground-aware detectability forecast. These calculations are not an end-to-end SKA foreground-subtraction pipeline, but they establish WST as an interpretable morphological summary that remains useful when compared directly with the power spectrum.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2025-11-29T09:10:39+00:00",
+      "updated": "2026-06-07T03:44:24+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.00402v2",
+      "html_url": "https://arxiv.org/html/2512.00402v2",
+      "entry_url": "http://arxiv.org/abs/2512.00402v2"
+    }
+  ],
+  "total": 2
+}

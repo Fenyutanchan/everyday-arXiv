@@ -1,0 +1,26 @@
+{
+  "date": "2024-07-01",
+  "papers": [
+    {
+      "arxiv_id": "2407.01713v5",
+      "base_id": "2407.01713",
+      "title": "Precision Inflationary Predictions: Impact of Accurate End-of-Inflation Dynamics",
+      "authors": [
+        "Debottam Nandi",
+        "Simran Yadav",
+        "Manjeet Kaur"
+      ],
+      "abstract": "The precision era of cosmology demands accurate theoretical predictions from inflationary models. In quantitative reheating analyses, inflationary observables depend sensitively on the number of e-folds between horizon exit and the end of inflation, $N_k$, whose determination relies on slow-roll approximations near the end of inflation. Since inflation ends when the first slow-roll parameter reaches unity, even modest inaccuracies in this approximation can shift the end of inflation and thereby alter $N_k$, leading to modifications in predicted observables -- including those evaluated at leading-order. While such effects are implicit in standard treatments, their quantitative impact on observable constraints has not been systematically assessed. In this work, we first re-evaluate leading-order slow-roll predictions using an improved determination of $N_k$ within a simple quantitative reheating framework, and then incorporate higher-order slow-roll corrections consistently with the revised background evolution. Applying this framework to the Starobinsky model, we find that improved end-of-inflation dynamics alone can induce shifts of order $Δn_s \\sim 10^{-3}$, while higher-order slow-roll corrections provide additional refinements at the $\\sim 4 \\times 10^{-4}$ level. The cumulative effect yields a maximum shift of $Δn_s \\sim 1.2 \\times 10^{-3}$ within the allowed reheating range. To our knowledge, this is the first systematic decomposition of end-of-inflation corrections and their individual contributions to $n_s$ in the Starobinsky model, with implications for model discrimination in next-generation CMB surveys. These results demonstrate that an accurate determination of the end of inflation is essential for precision tests of inflationary models.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "published": "2024-07-01T18:41:04+00:00",
+      "updated": "2026-05-21T09:01:26+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2407.01713v5",
+      "html_url": "https://arxiv.org/html/2407.01713v5",
+      "entry_url": "http://arxiv.org/abs/2407.01713v5"
+    }
+  ],
+  "total": 1
+}

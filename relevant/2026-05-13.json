@@ -1,0 +1,526 @@
+{
+  "date": "2026-05-13",
+  "total": 19,
+  "papers": [
+    {
+      "arxiv_id": "2510.26126v2",
+      "base_id": "2510.26126",
+      "title": "KM3-230213A and IceCube Neutrino Events from Metastable Dark Matter of Primordial Black Hole Origin",
+      "authors": [
+        "Prabhav Singh",
+        "Mansi Dhuria",
+        "Nathanael Varghese Job"
+      ],
+      "abstract": "We investigate a scenario in which the recently observed ultra-high-energy neutrino event KM3-230213A, with a median energy of approximately 220 PeV, as well as the high-energy neutrinos detected by IceCube Observatory, originate from the decay of superheavy dark matter (DM) particles produced through primordial black hole (PBH) evaporation. To establish this connection, we derive constraints on the PBH abundance parameter $β$ as a function of the initial PBH mass $M_{\\mathrm{BH_0}}$ and DM mass $m_{\\mathrm{DM}}$, by considering the bound from the observed relic DM abundance. Using these constraints, we compute the resulting neutrino flux and show that DM masses in the PeV-EeV range can yield neutrinos of comparable energies, capable of accounting for both the KM3-230213A and IceCube events while remaining consistent with the relic abundance constraint. Interestingly, the scenario remains viable over a broad region of parameter space while satisfying existing cosmological and astrophysical bounds. Overall, our results demonstrate that PBH evaporation followed by DM decay provides a consistent and natural explanation for the observed ultra-high-energy neutrino events in the absence of accompanying multimessenger signatures.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "published": "2025-10-30T04:26:31+00:00",
+      "updated": "2026-05-13T10:39:43+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.26126v2",
+      "html_url": "https://arxiv.org/html/2510.26126v2",
+      "entry_url": "http://arxiv.org/abs/2510.26126v2",
+      "relevance": {
+        "relevant": true,
+        "score": 9,
+        "reason": "This paper directly connects primordial black hole Hawking evaporation to high-energy neutrino and UHECR production through dark sector decay channels—core topics in the user's PBH and neutrino physics research interests.",
+        "pass_number": 1,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2507.13465v3",
+      "base_id": "2507.13465",
+      "title": "Equation of state during (p)reheating with trilinear interactions",
+      "authors": [
+        "Stefan Antusch",
+        "Kenneth Marschall",
+        "Francisco Torrenti"
+      ],
+      "abstract": "We characterize the post-inflationary evolution of the equation of state of the universe from the end of inflation until the onset of radiation domination, when the inflaton is coupled to a daughter field through a trilinear interaction. We consider an inflaton potential that is quadratic near the minimum and flattens in the inflationary regime. By simulating the dynamics in 2+1-dimensional lattices, we have tracked the long-term evolution of the equation of state for about ten e-folds of expansion, for various coupling strengths. The trilinear interaction initially excites daughter field modes through a process of tachyonic resonance immediately after inflation and triggers a temporary deviation of the equation of state from $\\bar{w} = 0$ to a maximum value $\\bar{w} = \\bar{w}_{\\rm max} < 1/3$. However, at much later times, the inflaton homogeneous mode once again dominates the energy density, pushing the equation of state towards $\\bar{w} = 0$ until the onset of perturbative reheating. By combining the lattice results with a Boltzmann approach, we characterize the entire post-inflationary expansion history, which allows to calculate precise predictions for the inflationary CMB observables. We also accurately compute the redshift of the stochastic gravitational wave background produced during preheating, and show that taking the temporary return of the equation of state towards $\\bar{w} = 0$ into account can reduce the amplitude by many orders of magnitude relative to previous estimates.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2025-07-17T18:16:46+00:00",
+      "updated": "2026-05-13T09:10:37+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2507.13465v3",
+      "html_url": "https://arxiv.org/html/2507.13465v3",
+      "entry_url": "http://arxiv.org/abs/2507.13465v3",
+      "relevance": {
+        "relevant": true,
+        "score": 9,
+        "reason": "This paper directly addresses two of the researcher's core interests—cosmic reheating dynamics and stochastic gravitational-wave backgrounds from preheating—by characterizing the equation of state evolution with trilinear inflaton interactions and computing the redshifted stochastic gravitational wave spectrum.",
+        "pass_number": 1,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.14044v1",
+      "base_id": "2605.14044",
+      "title": "The Magnetic Origin of Primordial Black Holes: Ultralight PBHs and Secondary GWs",
+      "authors": [
+        "Subhasis Maiti",
+        "Debaprasad Maity"
+      ],
+      "abstract": "Ultralight primordial black holes (PBHs) provide a compelling window into early-Universe cosmology. Following our earlier work, we explore a mechanism for the formation of ultralight PBHs sourced by primordial inflationary magnetic fields, without invoking an ultra-slow-roll phase of inflation. We propose a magnetogenesis model in which large curvature perturbations are induced at small scales, leading to the efficient production of ultralight PBHs across a broad mass spectrum. We analyze the phenomenological implications of these ultralight PBHs for early-Universe cosmology, particularly during reheating. We compute the resulting stochastic gravitational wave (GW) background generated by both the electromagnetic spectrum and evaporating PBHs, which exhibits distinctive features tied to the underlying magnetogenesis model parameters. Our results demonstrate that inflationary magnetic fields can serve as a viable and testable origin for ultralight PBHs, opening new avenues for probing the interplay between inflation, magnetogenesis, PBHs, and primordial gravitational waves.",
+      "categories": [
+        "astro-ph.CO",
+        "hep-ph"
+      ],
+      "published": "2026-05-13T19:06:49+00:00",
+      "updated": "2026-05-13T19:06:49+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.14044v1",
+      "html_url": "https://arxiv.org/html/2605.14044v1",
+      "entry_url": "http://arxiv.org/abs/2605.14044v1",
+      "relevance": {
+        "relevant": true,
+        "score": 9,
+        "reason": "This paper directly addresses multiple core research interests: primordial black hole formation and Hawking evaporation, cosmic reheating dynamics, and stochastic gravitational-wave backgrounds from PBHs.",
+        "pass_number": 1,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.13256v1",
+      "base_id": "2605.13256",
+      "title": "Factorization of denominators as a `fuel' for Feynman integral reduction",
+      "authors": [
+        "Alexander V. Smirnov",
+        "Vladislav. A. Fokin",
+        "Egor Yu. Chuvashov"
+      ],
+      "abstract": "Rational-function simplification is key bottlenecks in integration-by-parts (IBP) reduction of Feynman integrals. We study denominator factorization patterns appearing in IBP coefficients and develop practical algorithms for extracting and exploiting factorized denominator structure within the FUEL interface. The resulting workflow reduces reconstruction cost and improves robustness of large-scale reductions.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-05-13T09:39:49+00:00",
+      "updated": "2026-05-13T09:39:49+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.13256v1",
+      "html_url": "https://arxiv.org/html/2605.13256v1",
+      "entry_url": "http://arxiv.org/abs/2605.13256v1",
+      "relevance": {
+        "relevant": true,
+        "score": 8,
+        "reason": "This paper on denominator factorization in IBP reduction is directly relevant to your work on multi-loop perturbative QCD calculations, electroweak precision calculations, and computational tools for high-energy physics involving Feynman integral topology construction.",
+        "pass_number": 1,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.12948v1",
+      "base_id": "2605.12948",
+      "title": "Secondary Gravitational Wave Signatures from 5D Rotating Primordial Black Holes in the Dark Dimension",
+      "authors": [
+        "Waqas Ahmed",
+        "George K. Leontaris"
+      ],
+      "abstract": "We investigate five-dimensional rotating primordial black holes (PBHs) as dark matter candidates within the Dark Dimension (DD) scenario motivated by the Swampland Program. In this framework, a micron-scale extra dimension suppresses Hawking evaporation, allowing PBHs with initial masses \\(M \\gtrsim 10^{10}\\,\\mathrm{g}\\) to survive to the present epoch. Moreover, the memory burden effect, a quantum-gravitational suppression of the evaporation rate by \\(S^{-p}\\), significantly prolongs PBH lifetimes and enlarges the allowed parameter space. We compute the evaporation dynamics for rotating 5D PBHs, derive the enhanced lifetime for \\(p=2\\), and establish the dark matter window \\(10^{10}\\,\\mathrm{g} \\lesssim M \\lesssim 10^{21}\\,\\mathrm{g}\\). The curvature perturbations responsible for PBH formation also generate a stochastic gravitational wave background through second-order scalar-induced effects. Assuming a log-normal primordial power spectrum with \\(σ=1\\) and \\(f_{\\mathrm{PBH}}=1\\), we calculate the present-day energy density \\(Ω_{\\mathrm{GW}}h^2\\) across the Dark Dimension window. The predicted signals peak at frequencies from nHz to Hz, within the sensitivity ranges of LISA and DECIGO/BBO, while remaining consistent with current CMB spectral distortion bounds. Fisher forecasts show that future observatories can constrain the PBH mass, dark matter fraction, spectral width, and memory burden exponent with percent-level precision. A detection of the predicted gravitational wave background would provide simultaneous evidence for a micron-sized extra dimension, PBH dark matter, and the memory burden effect, offering a decisive test of quantum gravity and extra-dimensional physics.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2026-05-13T03:31:33+00:00",
+      "updated": "2026-05-13T03:31:33+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.12948v1",
+      "html_url": "https://arxiv.org/html/2605.12948v1",
+      "entry_url": "http://arxiv.org/abs/2605.12948v1",
+      "relevance": {
+        "relevant": true,
+        "score": 8,
+        "reason": "The paper directly addresses several core interests—PBH Hawking evaporation dynamics, stochastic gravitational-wave backgrounds from PBH formation, and PBH dark matter—though its specific focus on the 5D Dark Dimension scenario and memory burden effect extends beyond the researcher's primarily 4D-focused PBH work.",
+        "pass_number": 1,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.12946v1",
+      "base_id": "2605.12946",
+      "title": "Minimal Majoron Dark Matter",
+      "authors": [
+        "Kensuke Akita",
+        "Koichi Hamaguchi",
+        "Haruto Kitagawa",
+        "Tatsuya Yokoyama"
+      ],
+      "abstract": "We study Majoron dark matter (DM) in its minimal realization, based on the Type-I seesaw framework extended by a SM-singlet complex scalar. Remaining agnostic about the origin and value of the Majoron mass, we evaluate the DM abundance from both the freeze-in and misalignment mechanisms, and identify the viable parameter space consistent with observational constraints. Without fine-tuning of the initial misalignment angle, we find that the Majoron mass is bounded by $m_J \\lesssim \\mathcal{O}(10)~\\mathrm{MeV}$. We also discuss compatibility with thermal leptogenesis. Successful leptogenesis with two right-handed neutrinos favors misalignment-dominated production with the Majoron mass $m_J \\lesssim \\mathcal{O}(100)~\\mathrm{eV}$, while freeze-in dominated production is compatible with leptogenesis only with a mild fine-tuning of the initial misalignment angle, $θ_i \\lesssim \\mathcal{O}(0.01)$.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "published": "2026-05-13T03:28:57+00:00",
+      "updated": "2026-05-13T03:28:57+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.12946v1",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2605.12946v1",
+      "relevance": {
+        "relevant": true,
+        "score": 7,
+        "reason": "The paper connects to multiple core interests including dark matter physics (Majoron as a DM candidate via freeze-in and misalignment), early-universe cosmology (reheating-era production mechanisms, leptogenesis), and neutrino physics (Type-I seesaw framework, right-handed neutrinos), though it does not directly address JUNO phenomenology or the researcher's perturbative QCD and computational tool interests.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2602.16514v2",
+      "base_id": "2602.16514",
+      "title": "Atmospheric Neutrino Charged-Current Interactions at Large Liquid-Scintillator Detectors: I. Physics of Neutrino-Antineutrino Discrimination",
+      "authors": [
+        "Xinhai He",
+        "Gao-song Li",
+        "Yu-Feng Li",
+        "Wuming Luo",
+        "Liang-jian Wen"
+      ],
+      "abstract": "In this work, we present a systematic study of the event characteristics and physics of neutrino-antineutrino discrimination associated with atmospheric neutrino charged-current interactions in large liquid scintillator detectors. This study encompasses the primary neutrino interactions, the sequential second interactions of final-state particles, and the final neutron captures. We carefully investigate the properties of final-state charged leptons and hadrons, providing distinct distributions of inelasticity and captured neutron multiplicity for both neutrino and antineutrino interactions. These distributions are employed to assess the quantitative performance of neutrino-antineutrino discrimination. Our findings lay the groundwork for atmospheric neutrino oscillation studies in large liquid scintillator detectors, particularly in the determination of neutrino mass ordering.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2026-02-18T15:02:32+00:00",
+      "updated": "2026-05-13T03:27:56+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.16514v2",
+      "html_url": "https://arxiv.org/html/2602.16514v2",
+      "entry_url": "http://arxiv.org/abs/2602.16514v2",
+      "relevance": {
+        "relevant": true,
+        "score": 7,
+        "reason": "This paper directly addresses JUNO phenomenology and neutrino mass ordering determination using atmospheric neutrinos in a JUNO-like liquid scintillator detector, which is the user's home experiment, though it focuses on detector-level discrimination techniques rather than the user's primary theoretical interests like HNLs or cosmological bounds.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.13325v1",
+      "base_id": "2605.13325",
+      "title": "Fixing the Renormalization of Inflationary Loops via Ward Identities",
+      "authors": [
+        "Cheng-Jun Fang",
+        "Zong-Kuan Guo"
+      ],
+      "abstract": "Evaluating quantum loop corrections to curvature perturbations in non-attractor inflation presents theoretical ambiguities. A crucial aspect of this challenge lies in the unconstrained finite contributions in renormalization counterterms and regularization scheme dependence. In this work, we derive exact Ward identities via the path integral formalism based on the large gauge symmetry of the background-perturbation split. These identities are shown to impose strict, model-independent constraints on the renormalization procedure. Provided the ultraviolet completion respects this symmetry, the Ward identities non-perturbatively govern the infrared evolution of the power spectrum. This symmetry-based framework offers a systematic resolution to recent theoretical discrepancies concerning one-loop corrections in ultra-slow-roll inflation.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-th"
+      ],
+      "published": "2026-05-13T10:39:48+00:00",
+      "updated": "2026-05-13T10:39:48+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.13325v1",
+      "html_url": "https://arxiv.org/html/2605.13325v1",
+      "entry_url": "http://arxiv.org/abs/2605.13325v1",
+      "relevance": {
+        "relevant": true,
+        "score": 5,
+        "reason": "The paper touches on early-universe cosmology (inflation) and mentions PBHs and stochastic gravitational waves as motivation, but its core topic—inflationary loop renormalization via Ward identities in USR inflation—does not directly overlap with the user's specific cosmology interests (reheating dynamics, pre-thermalization GWs) or PBH interests (Hawking evaporation, BBN constraints), and differs in methodology from the user's multi-loop QCD/electroweak calculations.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.05312v2",
+      "base_id": "2605.05312",
+      "title": "Monochromatic neutrinos from scotogenic dark matter",
+      "authors": [
+        "Ricardo Cepedello",
+        "Pablo de la Torre",
+        "Manuel Masip"
+      ],
+      "abstract": "The scotogenic model defines a framework for radiative neutrino masses and provides a viable dark matter candidate. Since the scotogenic dark matter is leptophilic, indirect searches appear as an especially interesting possibility. Here we propose a simple variation of the model with a very distinct phenomenology. The scotogenic fermion singlets are naturally grouped into pseudo-Dirac pairs of mass of 0.1-1 TeV. We show that the lightest one constitutes a dark matter candidate that near threshold annihilates with a 90% branching ratio into neutrino pairs. The model gives the observed relic abundance consistently with the bounds from direct searches and with all neutrino and charged lepton data. We also show that, for a sub-MeV dark matter particle, the model suggests a scenario that could address the lithium problem.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.HE"
+      ],
+      "published": "2026-05-06T18:00:05+00:00",
+      "updated": "2026-05-13T10:39:46+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.05312v2",
+      "html_url": "https://arxiv.org/html/2605.05312v2",
+      "entry_url": "http://arxiv.org/abs/2605.05312v2",
+      "relevance": {
+        "relevant": true,
+        "score": 5,
+        "reason": "The paper overlaps with the user's interests in neutrino physics and dark matter, but focuses on WIMP model-building with monochromatic neutrino signatures from DM annihilation rather than the user's core topics of HNLs, solar antineutrinos, JUNO phenomenology, or axion physics.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.13042v1",
+      "base_id": "2605.13042",
+      "title": "The Gravitational Spectral Radio Forest: A Signature of Primordial Black Holes",
+      "authors": [
+        "P. George Christopher",
+        "K. Hari",
+        "S. Shankaranarayanan"
+      ],
+      "abstract": "We propose a novel gravitational signature to detect Primordial Black Hole (PBH) dark matter by treating interstellar hydrogen as a quantum sensor for spacetime curvature. Focusing on H II regions, we demonstrate that the Riemann tidal tensor of an \\emph{asteroid-mass} PBH induces a symmetric splitting of the $2P_{3/2}$ state in bound hydrogen atoms. This relativistic effect redistributes $9.9\\,\\mathrm{GHz}$ absorption line into a gravitational spectral radio forest with a bandwidth $\\sim 2\\,\\mathrm{GHz}$. By accounting for active accretion of Hydrogen atoms and the resulting density-squared emission measure within the Bondi radius, we find a relatively enhanced absorption spectrum. This feature presents a concrete, high-contrast target for upcoming radio-surveys to constrain PBH populations in the dark matter sector.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "astro-ph.GA",
+        "hep-th",
+        "physics.atm-clus"
+      ],
+      "published": "2026-05-13T05:54:23+00:00",
+      "updated": "2026-05-13T05:54:23+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.13042v1",
+      "html_url": "https://arxiv.org/html/2605.13042v1",
+      "entry_url": "http://arxiv.org/abs/2605.13042v1",
+      "relevance": {
+        "relevant": true,
+        "score": 5,
+        "reason": "While the paper discusses Primordial Black Hole dark matter, which is a core interest, the specific focus on radio spectral lines from gravitational tidal effects diverges from the user's primary interests in Hawking evaporation, high-energy particle production, and particle physics constraints.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2604.26191v2",
+      "base_id": "2604.26191",
+      "title": "Gravitational Properties of the Monopole Bag",
+      "authors": [
+        "Yu Komiya",
+        "Fumihiro Takayama"
+      ],
+      "abstract": "Axionic cosmologies constitute a class of models with phenomenologically rich symmetry breaking in the early universe. In the case where monopoles are present in such a background, the axion profile may be deformed; it is possible to construct a ``monopole bag\" state composed of a central monopole within a closed axion domain wall. We consider the gravitational properties of this hybrid defect, and find a both horizon-less and a black hole-like final state can result as remnants of the monopole-domain wall system after gravitational collapse for different input parameters. We demonstrate that the latter classifies as dyonic regular black hole, evading the usual singular gravitational collapse and retaining a non-trivial axionic profile through exotic electromagnetic properties of an axionic Chern-Simons term.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2026-04-29T00:34:14+00:00",
+      "updated": "2026-05-13T05:13:15+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.26191v2",
+      "html_url": "https://arxiv.org/html/2604.26191v2",
+      "entry_url": "http://arxiv.org/abs/2604.26191v2",
+      "relevance": {
+        "relevant": true,
+        "score": 5,
+        "reason": "The paper overlaps with the researcher's interests in axion cosmology, early-universe topological defects, and PBH/dark matter physics, but its primary focus on gravitational properties of monopole-domain wall hybrid objects and regular black hole solutions is more theoretical GR than the researcher's phenomenological and detection-oriented approach to axions and PBHs.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2602.19118v2",
+      "base_id": "2602.19118",
+      "title": "Exponential Quintessence Model: Analytical Quantification of the Fine-Tuning Problem in Dark Energy",
+      "authors": [
+        "Naoto Maki",
+        "Kazunori Kohri"
+      ],
+      "abstract": "In this paper, we investigate a quintessence field with an exponential potential motivated by the suggestion of time-varying dark energy from the DESI galaxy survey. Assuming a kination epoch in the early Universe, we analytically derive constraints on initial conditions that are consistent with Big Bang Nucleosynthesis and the current dark energy density. Compared to the severe 120-digit fine-tuning required for dark energy to be a cosmological constant, our result suggests that the degree of fine-tuning is naturally relaxed by dozens of orders of magnitude. Furthermore, we discuss the method for testing this model through future observations of the gravitational wave background.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2026-02-22T10:25:36+00:00",
+      "updated": "2026-05-13T02:13:18+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.19118v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2602.19118v2",
+      "relevance": {
+        "relevant": true,
+        "score": 5,
+        "reason": "The paper overlaps with the researcher's interests in early-universe cosmology (kination epoch, BBN constraints) and stochastic gravitational-wave backgrounds, but its primary focus on quintessence dark energy and the fine-tuning problem falls outside the researcher's core topics of reheating dynamics, PBHs, neutrino physics, and perturbative QCD calculations.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.13955v1",
+      "base_id": "2605.13955",
+      "title": "Exploring neutrino loss with diffuse astrophysical neutrino fluxes",
+      "authors": [
+        "Ivan Esteban",
+        "Alberto M. Gago",
+        "M. C. Gonzalez-Garcia",
+        "Gabriel D. Zapata"
+      ],
+      "abstract": "We study the sensitivity of the diffuse high-energy neutrino flux observed in IceCube to new-physics effects resulting in an exponential flux attenuation along the trajectory, such as invisible neutrino decay or new interactions with the background encountered during propagation. We argue that, even though the sources and production redshifts of these astrophysical neutrinos are unknown, conservative energy-conservation arguments allow to severely constrain neutrino loss in most scenarios beyond the strongest existing bounds. By performing a fit to the High-Energy Starting Events from IceCube, we quantify the bounds and study their variation with the energy dependence of the attenuation, the assumed redshift distribution of the neutrino sources, and whether the attenuation affects neutrinos exclusively or no. We also show that including an energy-dependent attenuation at the level allowed in the fit may impact the determination of the spectral index of the diffuse flux.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "astro-ph.HE"
+      ],
+      "published": "2026-05-13T18:00:01+00:00",
+      "updated": "2026-05-13T18:00:01+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.13955v1",
+      "html_url": "https://arxiv.org/html/2605.13955v1",
+      "entry_url": "http://arxiv.org/abs/2605.13955v1",
+      "relevance": {
+        "relevant": true,
+        "score": 5,
+        "reason": "The paper constrains new physics effects on neutrino propagation (invisible decay, dark matter interactions, quantum decoherence) using IceCube data, which connects to the researcher's interest in neutrino physics and dark sector interactions, but focuses on high-energy astrophysical neutrinos rather than the researcher's core topics of JUNO phenomenology, HNLs, or early-universe cosmology.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.13958v1",
+      "base_id": "2605.13958",
+      "title": "Baryoid Dark Matter from $\\mathbb{Z}_N$ Domain Walls: The $(N-1):1$ origin of the dark matter-baryon coincidence",
+      "authors": [
+        "Yang Bai",
+        "Ting-Kuo Chen"
+      ],
+      "abstract": "We propose an explanation for the dark matter-baryon coincidence based on collapsing $\\mathbb{Z}_N$ domain walls, which form a novel compact baryonic state: the baryoid. A baryoid has an asteroid-scale mass and up-to-nuclear-scale energy density, and can serve as a dark matter candidate. Starting from equal baryon numbers in the domains formed in the early universe, the collapse of the domain walls after the QCD phase transition leads to a baryon-number ratio of $(N-1):1$ between the false- and true-vacuum domains. Since baryons are slightly lighter in the false-vacuum domains than in the true-vacuum domain, the resulting dark matter-to-baryon energy-density ratio is naturally close to, but slightly smaller than, $(N-1):1$, or $6:1$ for $N=7$. We calculate the domain-wall dynamics and the efficiency of baryon-number trapping, derive the resulting baryoid properties, and discuss a broad set of phenomenological probes.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "published": "2026-05-13T18:00:01+00:00",
+      "updated": "2026-05-13T18:00:01+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.13958v1",
+      "html_url": "https://arxiv.org/html/2605.13958v1",
+      "entry_url": "http://arxiv.org/abs/2605.13958v1",
+      "relevance": {
+        "relevant": true,
+        "score": 5,
+        "reason": "The paper touches on several of the researcher's interests including early-universe cosmology (domain wall dynamics around the QCD phase transition), stochastic gravitational-wave backgrounds from collapsing domain walls, BBN constraints, and dark matter model building, but the core topic of baryoid dark matter from ℤ_N domain walls is tangential to the researcher's primary focus on PBHs, axion physics, neutrino phenomenology, and multi-loop perturbative calculations.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2510.17967v2",
+      "base_id": "2510.17967",
+      "title": "Scalar fields around black hole binaries in LIGO-Virgo-KAGRA",
+      "authors": [
+        "Soumen Roy",
+        "Rodrigo Vicente",
+        "Josu C. Aurrekoetxea",
+        "Katy Clough",
+        "Pedro G. Ferreira"
+      ],
+      "abstract": "Light scalar particles arise naturally in many extensions of the Standard Model and are compelling dark-matter candidates. Gravitational interactions near black holes can trigger the growth of dense scalar configurations that, if sustained during inspiral, alter binary dynamics and imprint signatures on gravitational-wave signals. Detecting such effects would provide a novel probe of fundamental physics and dark matter. Here we develop a semi-analytic waveform model for binaries in scalar environments, validate it against numerical relativity simulations, and apply it in a Bayesian analysis of the LIGO-Virgo-KAGRA catalog. We obtain physically meaningful upper limits on scalar densities around most compact binaries. For GW190728 and GW190814, vacuum lies outside the $95\\%$ credible region. When including superradiance priors, GW190728 shows tentative evidence for a scalar environment with a Bayes factor of $\\ln \\mathrm{B}^{\\rm env}_{\\rm vac} \\approx 3.5$, consistent with a light scalar of mass $\\sim10^{-12}\\,\\mathrm{eV}$.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "astro-ph.HE",
+        "hep-ph"
+      ],
+      "published": "2025-10-20T18:00:02+00:00",
+      "updated": "2026-05-13T17:25:00+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.17967v2",
+      "html_url": "https://arxiv.org/html/2510.17967v2",
+      "entry_url": "http://arxiv.org/abs/2510.17967v2",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "The paper discusses light scalar dark matter candidates in astrophysical environments and their detection, which tangentially overlaps with the researcher's interests in axion/dark matter physics and gravitational-wave backgrounds, but its primary focus on GW waveform modeling and Bayesian analysis of LVK data falls outside the researcher's core areas of particle physics phenomenology, early-universe cosmology, and multi-loop calculations.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2603.00885v2",
+      "base_id": "2603.00885",
+      "title": "Comments on \"Unified neutrino mixing and approximate $μ-τ$ reflection symmetry\" (Mod. Phys. Lett. A, 40 (2025) 26, 2550097 [arXiv:2502.18029 [hep-ph]])",
+      "authors": [
+        "Chao-Shang Huang",
+        "Wen-Jun Li"
+      ],
+      "abstract": "Resolving mass ordering is an important issue in the neutrino physics. In Ref.\\cite{yt} the authors investigate the phenomenology of a unified neutrino mixing framework and reveal that the predicted sum of neutrino masses derived from an approximate $μ-τ$ reflection symmetric flavor neutrino mass matrix based on the unified neutrino mixing with an inverted mass ordering, is excluded from DESI2024 and Supernova Ia luminosity distance data. We note that in Ref.\\cite{yt} an error is present in Eq.(20), {\\it i.e.}, the expression for $ M_{23}^{μ-τ} $, a similar error also appears in Eq.(26) for $M_{13}^{μ-τ}$. That is, the condition that $M_{ee}$ and $M_{μτ}$ are real is omitted. We impose this condition and analyze its consequences. Using the newest data\\cite{azz}, it is obtained that the predicted sm derived from the approximate $μ-τ$ reflection symmetric neutrino mass matrices $M_{23}$ for both NO and IO are allowed. We note also that their conclusion is invalid, as it is based on outdated data.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-03-01T03:11:11+00:00",
+      "updated": "2026-05-13T16:18:43+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.00885v2",
+      "html_url": "https://arxiv.org/html/2603.00885v2",
+      "entry_url": "http://arxiv.org/abs/2603.00885v2",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "The paper discusses neutrino mass ordering determination, which is JUNO's primary physics goal, but the specific content is a technical correction to a μ-τ reflection symmetry model rather than direct JUNO phenomenology.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.13180v1",
+      "base_id": "2605.13180",
+      "title": "Prospects for Measuring $H\\to \\rm{invisble}$ at the FCCee",
+      "authors": [
+        "Aman Desai",
+        "Paul Jackson"
+      ],
+      "abstract": "We present the prospects for measuring $H\\to \\rm{invisble}$ decays at the Future Circular Collider electron-positron at $\\sqrt{s} = 240 \\text{ GeV}$ with an integrated luminosity of 10.8 ab$^{-1}$. In this study, we consider the $ZH$ production mode with three decay modes of the $Z$ boson: $Z\\to e^+e^-$, $Z\\to μ^+μ^-$ and $Z\\to jj$ ($b\\bar{b}, c\\bar{c}, s\\bar{s}, q\\bar{q}$). We find that at 95\\% confidence limit, the combined upper limit on the $\\mathcal{B}(H\\to invisible)$ could reach 0.15\\%.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-05-13T08:41:02+00:00",
+      "updated": "2026-05-13T08:41:02+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.13180v1",
+      "html_url": "https://arxiv.org/html/2605.13180v1",
+      "entry_url": "http://arxiv.org/abs/2605.13180v1",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "The paper concerns Higgs physics at a future Higgs factory (FCC-ee) studying the ZH process, which tangentially relates to your interest in electroweak precision calculations at future Higgs factories, but it is primarily an experimental sensitivity study using standard BDT methods rather than a theoretical precision calculation or loop-level analysis.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2506.21423v2",
+      "base_id": "2506.21423",
+      "title": "Towards Stochastic Inflation in Higher-Curvature Gravity",
+      "authors": [
+        "Yermek Aldabergenov",
+        "Ding Ding",
+        "Wei Lin",
+        "Yidun Wan"
+      ],
+      "abstract": "We study stochastic inflation in the presence of higher-curvature terms non-minimally coupled to the inflaton. Focusing on quadratic curvature invariants, we single out the Gauss-Bonnet term which is known to avoid ghosts, while having non-trivial effects on the background and scalar mode evolution when coupled to the scalar field. Stochastic Klein-Gordon and Langevin equations are derived in the presence of the Gauss-Bonnet coupling, and their slow-roll and ultra-slow-roll limits are studied. By using first-passage time method, scalar power spectrum and PBH mass fraction are estimated in these limits. Stochastic evolution of a Gauss-Bonnet-coupled spectator field in de Sitter vacuum is also discussed.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-th"
+      ],
+      "published": "2025-06-26T16:07:18+00:00",
+      "updated": "2026-05-13T03:23:06+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.21423v2",
+      "html_url": "https://arxiv.org/html/2506.21423v2",
+      "entry_url": "http://arxiv.org/abs/2506.21423v2",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "The paper touches on early-universe cosmology and primordial black holes which overlap with the user's interests, but focuses on PBH formation mechanisms in Gauss-Bonnet modified gravity rather than the user's core focus on PBH Hawking evaporation, BBN constraints, and particle production from PBHs.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.13732v1",
+      "base_id": "2605.13732",
+      "title": "Cosmological perturbations in the theory of gravity with non-minimal derivative coupling. I. Modes of perturbations",
+      "authors": [
+        "R. I. Kamalitdinov",
+        "S. V. Sushkov"
+      ],
+      "abstract": "We consider perturbations in the isotropic and homogeneous cosmological model with the spatially flat Friedmann-Lemaitre-Robertson-Walker metric in the framework of the theory of gravity with non-minimal derivative coupling. The Lagrangian of the theory contains the coupling term $ηG^{μν}\\nabla_μφ\\nabla_νφ$ and represents the particular example of a general Horndeski Lagrangian, which results in second-order field equations. It is known that the non-minimal derivative coupling crucially changes scenarios of the Universe evolution on early times. In particular, the $η$-term is dominating on early times and leads to a primary quasi-de Sitter (inflationary) stage which needs no fine-tuned potential. On late times the influence of non-minimal derivative coupling on the Universe evolution completely disappears, and this naturally leads to the transition to the standard cosmological evolution (post-inflationary stage). We have derived a complete set of equations which describe an evolution of scalar, vector and tensor modes of perturbations. All modes are analyzed analytically in two asymptotic cases, and then we construct exact numerical solutions which describe an entire evolution of the modes. We show that all modes, including vector ones, are amplified in the quasi-de Sitter (inflationary) stage, and such the behavior is cardinally distinct from that in Friedmann cosmology.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2026-05-13T16:11:44+00:00",
+      "updated": "2026-05-13T16:11:44+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.13732v1",
+      "html_url": "https://arxiv.org/html/2605.13732v1",
+      "entry_url": "http://arxiv.org/abs/2605.13732v1",
+      "relevance": {
+        "relevant": true,
+        "score": 3,
+        "reason": "The paper studies cosmological perturbations and tensor mode amplification during inflation in modified Horndeski gravity, which has only tangential overlap with the researcher's interest in pre-thermalization gravitational waves and stochastic gravitational-wave backgrounds, but the framework (modified gravity vs. particle physics) and specific focus differ substantially from the researcher's core interests in reheating dynamics and particle-physics-driven early-universe phenomena.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    }
+  ]
+}

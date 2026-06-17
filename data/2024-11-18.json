@@ -1,0 +1,80 @@
+{
+  "date": "2024-11-18",
+  "papers": [
+    {
+      "arxiv_id": "2411.11328v3",
+      "base_id": "2411.11328",
+      "title": "Neutrino masses, anomalous magnetic moments and dark matter with vector-like fermions and an inert scalar doublet",
+      "authors": [
+        "Vandana Sahdev"
+      ],
+      "abstract": "The beyond-the-standard-model scenario in this work is motivated from the observations of neutrino masses, anomalous magnetic moments of electron and muon, and dark matter in the Universe. We explain these observations by extending the standard model with two generations of vector-like fermions and an inert scalar doublet, all odd under a $Z_2$ symmetry. The light neutrino masses and mixings are generated radiatively while maintaining consistency with bounds on lepton flavor violation. Loop diagrams with the very same fields also serve to explain the anomalous magnetic moments. Similarly, the correct dark matter relic abundance is reproduced without coming into conflict with direct detection constraints, or those from big bang nucleosynthesis or the cosmic microwave observations. Finally, prospective signatures at the LHC are discussed.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2024-11-18T06:46:51+00:00",
+      "updated": "2026-05-08T11:26:58+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2411.11328v3",
+      "html_url": "https://arxiv.org/html/2411.11328v3",
+      "entry_url": "http://arxiv.org/abs/2411.11328v3"
+    },
+    {
+      "arxiv_id": "2411.11463v2",
+      "base_id": "2411.11463",
+      "title": "New \"metric-affine-like\" generalization of Yang-Mills theory",
+      "authors": [
+        "Władysław Wachowski"
+      ],
+      "abstract": "We suggest a new generalization of the $\\mathrm{U}(n)$ Yang-Mills theory obtained by relaxing the condition of covariant constancy of the Hermitian form in the fibers, $\\nabla_a g_{αβ'} \\ne 0$. This theory is a simpler analogue of the metric-affine gravity with $\\nabla_a g_{bc} \\ne 0$. In our case, connection $\\nabla_a$ and Hermitian form $g_{αβ'}$ are two independent variables so total curvature and total potential are no longer anti-Hermitian matrices: thus, along with the standard YM potential $\\boldsymbol{A}_a$ and field strength tensor $\\boldsymbol{F}_{ab}$, it contains non-trivially interacting fields $\\boldsymbol{B}_a$, $\\boldsymbol{h}$, and $\\boldsymbol{G}_{ab}$, $\\boldsymbol{N}_a$, forming a non-Abelian generalization of Stückelberg theory. Due to the spontaneous symmetry breaking $\\mathrm{GL}(n,\\mathbb{C}) \\to \\mathrm{U}(n)$, these new fields can be made massive, and the limit $M\\to\\infty$ restores the standard YM theory.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2024-11-18T10:56:21+00:00",
+      "updated": "2026-05-19T12:43:13+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2411.11463v2",
+      "html_url": "https://arxiv.org/html/2411.11463v2",
+      "entry_url": "http://arxiv.org/abs/2411.11463v2"
+    },
+    {
+      "arxiv_id": "2411.12050v3",
+      "base_id": "2411.12050",
+      "title": "Long-time Freeness in the Kicked Top",
+      "authors": [
+        "Elisa Vallini",
+        "Silvia Pappalardi"
+      ],
+      "abstract": "Recent work highlighted the importance of higher-order correlations in quantum dynamics for a deeper understanding of quantum chaos and thermalization. The full Eigenstate Thermalization Hypothesis, the framework encompassing correlations, can be formalized using the language of Free Probability theory. In this context, chaotic dynamics at long times are proposed to lead to free independence or \"freeness\" of observables. In this work, we investigate these issues in a paradigmatic semiclassical model - the kicked top - which exhibits a transition from integrability to chaos. Despite its simplicity, we identify several non-trivial features. By numerically studying 2n-point out-of-time-order correlators, we show that in the fully chaotic regime, long-time freeness is reached exponentially fast. These considerations lead us to introduce a large deviation theory for freeness that enables us to define and analyze the associated time scale. The numerical results confirm the existence of a hierarchy of different time scales, indicating a multifractal approach to freeness in this model. Our findings provide novel insights into the long-time behavior of chaotic dynamics and may have broader implications for the study of many-body quantum dynamics.",
+      "categories": [
+        "cond-mat.stat-mech",
+        "hep-th",
+        "quant-ph"
+      ],
+      "published": "2024-11-18T20:43:11+00:00",
+      "updated": "2026-05-22T15:23:34+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2411.12050v3",
+      "html_url": "https://arxiv.org/html/2411.12050v3",
+      "entry_url": "http://arxiv.org/abs/2411.12050v3"
+    },
+    {
+      "arxiv_id": "2411.11961v3",
+      "base_id": "2411.11961",
+      "title": "A New Genuine Multipartite Entanglement Measure: from Qubits to Multiboundary Wormholes",
+      "authors": [
+        "Jaydeep Kumar Basak",
+        "Vinay Malvimat",
+        "Junggi Yoon"
+      ],
+      "abstract": "We introduce the \\textit{Latent Entropy} (L-entropy) as a novel measure to characterize the genuine multipartite entanglement in quantum systems. Our measure leverages the upper bound of reflected entropy and its maximal values attained by 2-uniform states for $n$-party ($n= 4,5$) and GHZ state for 3-party quantum systems. We demonstrate that the measure is a non-negative, local unitary invariant function which vanishes for separable states. We then analyze its interesting characteristics in spin chain models and the Sachdev-Ye-Kitaev (SYK) model. Subsequently, we explore its implications to holography by deriving a Page-like curve for the L-entropy in the CFT dual to a multi-boundary wormhole model. Furthermore, we examine the behavior of L-entropy in Haar random states, deriving analytical expressions and validating them against numerical results. In particular, we show that for $n =5$, random states approximate 2-uniform states with maximal multipartite entanglement. Furthermore, we propose a potential connection between random states and multi-boundary wormhole geometries. Extending to finite-temperature systems, we introduce the Multipartite Thermal Pure Quantum (MTPQ) state, a multipartite generalization of the thermal pure quantum state, and explore its entanglement properties. By incorporating state-dependent construction of the MTPQ state, we resolve the factorization issue in the random average of the MTPQ state, ensuring consistency with the correlation functions in the holographic dual multiboundary wormhole. Finally, we apply this construction to the multi-copy SYK model and examine its multipartite entanglement structure.",
+      "categories": [
+        "hep-th",
+        "quant-ph"
+      ],
+      "published": "2024-11-18T19:00:03+00:00",
+      "updated": "2026-05-28T09:26:27+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2411.11961v3",
+      "html_url": "https://arxiv.org/html/2411.11961v3",
+      "entry_url": "http://arxiv.org/abs/2411.11961v3"
+    }
+  ],
+  "total": 4
+}

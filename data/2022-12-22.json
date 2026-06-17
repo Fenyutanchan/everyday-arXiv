@@ -1,0 +1,24 @@
+{
+  "date": "2022-12-22",
+  "papers": [
+    {
+      "arxiv_id": "2212.11573v3",
+      "base_id": "2212.11573",
+      "title": "Modelling interface factorizations between Landau-Ginzburg models as module functors",
+      "authors": [
+        "Stefan Fredenhagen"
+      ],
+      "abstract": "We study the fusion of B-type interfaces between N=(2,2) supersymmetric Landau-Ginzburg models. Such interfaces can be described by matrix factorizations of the difference of the superpotentials, and their fusion is modelled by the tensor product of the factorizations. The effect of fusing a fixed interface gives rise to a functor on the category of matrix factorizations. For at least some interfaces, this can be lifted to a functor on the category of modules over polynomial rings. These fusion functors provide an alternative way of modelling a class of interfaces between Landau-Ginzburg models, which characterizes interfaces through their fusion properties. Interface fields correspond to morphisms between fusion functors that can be defined via a Hochschild-type cohomology. This leads to a strict monoidal supercategory of fusion functors, where horizontal composition is given by composition of functors. The category of fusion functors can be related to the category of matrix factorizations by a functor that maps a fusion functor to the corresponding interface factorization. It is not faithful, but we prove that it is full for polynomial rings in one variable. The description of interfaces in terms of fusion functors has the advantage that fusion of interfaces becomes simple. It provides a computational tool to evaluate tensor products of matrix factorizations, and could be applied for example in Kazama-Suzuki models to analyze fusion categories of rational defects, or in the context of Khovanov-Rozansky link homology.",
+      "categories": [
+        "hep-th",
+        "math-ph"
+      ],
+      "published": "2022-12-22T09:57:09+00:00",
+      "updated": "2026-05-24T14:52:10+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2212.11573v3",
+      "html_url": "https://arxiv.org/html/2212.11573v3",
+      "entry_url": "http://arxiv.org/abs/2212.11573v3"
+    }
+  ],
+  "total": 1
+}

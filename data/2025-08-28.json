@@ -1,0 +1,210 @@
+{
+  "date": "2025-08-28",
+  "papers": [
+    {
+      "arxiv_id": "2508.21216v2",
+      "base_id": "2508.21216",
+      "title": "Persistence of post-Newtonian amplitude structure in binary black hole mergers",
+      "authors": [
+        "Viviana A. Cáceres-Barbosa"
+      ],
+      "abstract": "We analyze the spherical harmonic mode amplitudes of quasicircular, nonprecessing binary black hole mergers using 275 numerical relativity simulations from the SXS, RIT, and MAYA catalogs. We construct fits using the leading-order post-Newtonian (PN) dependence on intrinsic parameters, replacing the PN velocity with fit coefficients. We compare these to polynomial fits in symmetric mass ratio and spin. We analyze $(\\ell, m)$ modes with $\\ell \\leq 4$ from late inspiral [$t = -500M$ relative to the $(2,2)$ peak] to postmerger ($t = 40M$). For nonspinning systems, the $(2,2)$, $(2,1)$, and $(3,3)$ modes retain the leading-order PN dependence on mass ratio throughout the merger. Higher-order modes deviate from the PN dependence only near and after the merger, where polynomial fits of degree $N \\leq 3$ can capture the amplitude behavior up to $40M$. For aligned-spin systems at fixed mass ratio, the $(2,1)$ mode retains its PN spin dependence, while the $(3,2)$ and $(4,3)$ modes exhibit a quadratic spin dependence near merger. The PN-inspired fits lose accuracy with increasing mass ratio, particularly near merger. Results broadly agree across catalogs, though discrepancies appear in the $(3,1)$, $(4,2)$, and $(4,1)$ modes, likely from resolution differences. Our results clarify the extent to which PN structure persists in mode amplitudes. Although the fits cannot be fully interpreted within the PN formalism near merger, low-degree polynomial corrections to the PN amplitude Ansätze can capture strong-field behavior, enabling closed-form and efficient modeling of waveform amplitudes in this regime.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-08-28T21:11:00+00:00",
+      "updated": "2026-04-14T18:55:26+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.21216v2",
+      "html_url": "https://arxiv.org/html/2508.21216v2",
+      "entry_url": "http://arxiv.org/abs/2508.21216v2"
+    },
+    {
+      "arxiv_id": "2508.20419v4",
+      "base_id": "2508.20419",
+      "title": "The shadows and photon rings of two minimal deformations of Schwarzschild black holes",
+      "authors": [
+        "Hong-Er Gong",
+        "Junlin Qin",
+        "Yusen Wang",
+        "Bofeng Wu",
+        "Zhan-Feng Mai",
+        "Sen Guo",
+        "Enwei Liang"
+      ],
+      "abstract": "This paper primarily investigates the optical characteristics of two minimal Schwarzschild black hole deformations, the Kazakov-Solodukhin and Ghosh-Kumar black holes, under different accretion models. The event horizon, photon sphere, and critical impact parameter of the former increase compared with the Schwarzschild black hole, but those of the latter decrease. The data from the Event Horizon Telescope Collaboration are used to constrain the parameter ranges of the two black holes. In the case of spherical accretion, the quantum correction of Kazakov-Solodukhin black hole leads to the increase of black hole shadow size and the decrease of integrated intensity, while the shadow size of magnetically charged Ghosh-Kumar black hole decreases and the integrated intensity increases. The shadow radius of the black hole is independent of the spherical accretion models. For an optically and geometrically thin accretion disk, the integrated intensity is mainly contributed by direct emission, and the contributions of photon rings and lensed rings are very small. In addition, the photon rings and lensed rings of Kazakov-Solodukhin black hole are narrower, while those of Ghosh-Kumar black hole are wider. Whereas the Kazakov-Solodukhin black hole exhibits higher brightness, the Ghosh-Kumar black hole shows lower brightness. Additionally, a disk closer to the black hole correlates with a smaller shadow radius. This paper proposes a method to distinguish different black holes in a specific thin disk model.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-08-28T04:40:03+00:00",
+      "updated": "2026-04-14T14:04:57+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.20419v4",
+      "html_url": "https://arxiv.org/html/2508.20419v4",
+      "entry_url": "http://arxiv.org/abs/2508.20419v4"
+    },
+    {
+      "arxiv_id": "2508.20910v2",
+      "base_id": "2508.20910",
+      "title": "Images of the accretion disk in Hybrid metric-Palatini gravity",
+      "authors": [
+        "P. I. Dyadina",
+        "N. A. Avdeev"
+      ],
+      "abstract": "In this paper we obtain and study images of accretion disks around static spherically symmetric black holes in hybrid metric-Palatini gravity. We use Novikov-Thorne thin-disk model. Semi-analytic ray-tracing methods in curved spacetime are employed to generate the images of the disk for different scalar field configurations, including both Higgs-type potentials and cases without a potential. The resulting images, including both redshift and intensity maps, are analyzed. The results show that the scalar field parameters play a significant role in shaping both the direct and secondary images of the disk, while the inclination angle primarily affects the asymmetry and brightness distribution. In particular, configurations with extreme scalar field values lead to cooler and dimmer disk compared to General Relativity. Furthermore, the structure and angular size of the secondary ring exhibit noticeable deviations from General Relativity, offering a potential observational signature. This work should be regarded as a first step toward modeling realistic accretion disks within the hybrid metric-Palatini gravity framework, and toward assessing their potential observational distinguishability from General Relativity predictions.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-08-28T15:39:25+00:00",
+      "updated": "2026-04-24T13:08:22+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.20910v2",
+      "html_url": "https://arxiv.org/html/2508.20910v2",
+      "entry_url": "http://arxiv.org/abs/2508.20910v2"
+    },
+    {
+      "arxiv_id": "2508.20520v2",
+      "base_id": "2508.20520",
+      "title": "Superradiant Interactions for Relic Detection with Entangled Nuclear Spins",
+      "authors": [
+        "Marios Galanis",
+        "Onur Hosten",
+        "Asimina Arvanitaki",
+        "Savas Dimopoulos"
+      ],
+      "abstract": "We recently showed that macroscopic nuclear spin ensembles prepared in coherent spin states can dramatically enhance the interaction rates of weakly interacting cosmic relics-such as dark matter and the cosmic neutrino background-through collective quantum effects analogous to Dicke superradiance, where the de-excitation and excitation rates scale as the square of the number of spins, $N^2$. We thus coined these processes superradiant interactions. In this paper, we propose a protocol to realize this enhancement and boost the discovery potential for such relics. We show how concepts from quantum optics can be adapted to nuclear spins coupled to superconducting circuits, enabling high-sensitivity systems. The spins are first initialized into a coherent spin state via a $π/2$ Rabi pulse from the ground state. When the circuit is sufficiently detuned from resonance, the spin-circuit interaction implements a squeezing Hamiltonian. Because squeezing must outpace spin relaxation and dephasing, the protocol favors macroscopic ensembles and high-quality superconducting circuits. During this squeezing phase, the standard quantum variance is reduced by up to 4.8 orders of magnitude-equivalent to 48 dB of squeezing-for circuits with quality factors $Q \\sim 10^8$-$10^9$. The signal imprinted on the spins during the squeezing protocol can be magnified by further utilizing the squeezing interactions, easing the requirement for shot-noise-limited readout. This protocol has the potential to significantly accelerate axion and dark photon dark matter searches and extend the reach of existing axion experiments to probe QCD axion-nuclear spin couplings. More broadly, it paves the way for detecting coherent inelastic interactions from other cosmic relics-most notably the cosmic neutrino background-and establishes nuclear-spin-based systems as a new class of quantum, ultra-low-threshold detectors.",
+      "categories": [
+        "hep-ph",
+        "quant-ph"
+      ],
+      "published": "2025-08-28T08:01:03+00:00",
+      "updated": "2026-04-30T17:51:23+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.20520v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2508.20520v2"
+    },
+    {
+      "arxiv_id": "2508.20932v2",
+      "base_id": "2508.20932",
+      "title": "Novel probes for electron-muon flavor violation from exotic Higgs decays",
+      "authors": [
+        "P. Uttayarat",
+        "J. Julio",
+        "R. Primulando"
+      ],
+      "abstract": "In this paper, we propose two novel signatures of Higgs decays to search for electron-muon flavor violation. These signatures arise from the presence of a light pseudoscalar into which the 125-GeV Higgs boson decays. The pseudoscalar subsequently decays into an electron-muon pair, leading to multilepton final states, which are relatively clean signatures to search for at the LHC. As a benchmark, we consider the type-III Two-Higgs-doublet-model. We analyze both low-energy and collider constraints on the model and identify regions of parameter space where the light pseudoscalar is viable. Our proposed signatures yield stronger constraints on the lepton flavor violating couplings than current low-energy precision measurements. Taken together, our findings suggest that collider-based probes of exotic Higgs decays provide a powerful complement to precision experiments in the quest to uncover new physics.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-08-28T15:57:35+00:00",
+      "updated": "2026-05-20T07:12:39+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.20932v2",
+      "html_url": "https://arxiv.org/html/2508.20932v2",
+      "entry_url": "http://arxiv.org/abs/2508.20932v2"
+    },
+    {
+      "arxiv_id": "2508.21262v3",
+      "base_id": "2508.21262",
+      "title": "Spin Precession Signatures as an Indicator of Microlensing in Strongly Lensed Gravitational Waves",
+      "authors": [
+        "Xikai Shan",
+        "Huan Yang",
+        "Shude Mao",
+        "Otto A. Hannuksela"
+      ],
+      "abstract": "Microlensing by the stellar field in a strong-lensing galaxy can introduce wave-optics distortions into the waveforms of strongly lensed gravitational waves (SLGWs). If these signals are analyzed with waveform templates that do not include microlensing, the lensing-induced modulation may be misinterpreted as intrinsic source physics. In particular, microlensing can mimic spin precession, since both effects can produce beat-pattern-like features in the waveform. In this work, we study the degeneracy between stellar-field microlensing and spin precession, and ask to what extent microlensed SLGWs may show false evidence of precession. We analyze simulated SLGW events for two detector sensitivities, O5 and a lower-noise configuration with a power spectral density reduced by a factor of 4 (named O5 Plus), assuming binary black holes with parallel spins. We find that microlensing can indeed produce apparent evidence for precession, and that this effect becomes more visible at higher signal-to-noise ratios. Under O5 sensitivity, 4.88% of microlensed events lie above the one-sided Gaussian-equivalent 3$σ$ background threshold, corresponding to the 99.9th percentile of the unlensed-background distribution, while under O5 Plus sensitivity this fraction increases to 14.91%. We also find that the evidence for precession is positively correlated with the strength of microlensing. This correlation is weak under O5 sensitivity, but becomes clear under O5 Plus sensitivity. In addition, Type II (saddle-point) images show a stronger correlation than Type I (minimum-point) images. These results show that evidence for precession in GW data should be interpreted with care, as it may also arise from microlensing wave effects in SLGWs.",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.HE",
+        "gr-qc"
+      ],
+      "published": "2025-08-28T23:29:03+00:00",
+      "updated": "2026-05-28T03:46:33+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.21262v3",
+      "html_url": "https://arxiv.org/html/2508.21262v3",
+      "entry_url": "http://arxiv.org/abs/2508.21262v3"
+    },
+    {
+      "arxiv_id": "2508.20854v3",
+      "base_id": "2508.20854",
+      "title": "Accurate boundary bootstrap for the three-dimensional O($N$) normal universality class",
+      "authors": [
+        "Runzhe Hu",
+        "Wenliang Li"
+      ],
+      "abstract": "The three-dimensional classical O($N$) model with a boundary has received renewed interest due to the discovery of the extraordinary-log boundary universality class for $2\\leq N< N_c$. The critical value $N_c$ and the exponent of the boundary correlation function are related to certain amplitudes in the normal universality class. To determine their precise values, we revisit the 3d O($N$) boundary conformal field theory for $N=1, 2, 3, 4, 5$. After substantially improving the accuracy of the boundary bootstrap, our determinations are in excellent agreement with the Monte Carlo results, resolving the previous discrepancies due to low truncation orders. We also use the recent bulk bootstrap results to deduce highly accurate Ising data. Many bulk and boundary predictions are obtained for the first time. Our results demonstrate the great potential of the $η$ minimization method for many unexplored bootstrap problems in which positivity constraints are absent.",
+      "categories": [
+        "hep-th",
+        "cond-mat.stat-mech"
+      ],
+      "published": "2025-08-28T14:51:22+00:00",
+      "updated": "2026-05-27T08:40:10+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.20854v3",
+      "html_url": "https://arxiv.org/html/2508.20854v3",
+      "entry_url": "http://arxiv.org/abs/2508.20854v3"
+    },
+    {
+      "arxiv_id": "2508.20984v2",
+      "base_id": "2508.20984",
+      "title": "Cosmic-ray boosted inelastic dark matter from neutrino-emitting active galactic nuclei",
+      "authors": [
+        "R. Andrew Gustafson",
+        "Gonzalo Herrera",
+        "Mainak Mukhopadhyay",
+        "Kohta Murase",
+        "Ian M. Shoemaker"
+      ],
+      "abstract": "Cosmic rays may scatter off dark matter particles in active galactic nuclei, where both the densities of cosmic rays and dark matter are expected to be very large. These scatterings could yield a flux of boosted dark matter particles directly detectable on Earth, which enhances the sensitivity of dark matter direct detection and neutrino experiments to light and inelastic dark matter models. Here we calculate the cosmic-ray boosted dark matter flux from the neutrino-emitting active galactic nuclei, NGC 1068 and TXS 0506+056, by considering realistic cosmic-ray distributions, deep inelastic scatterings, and mass splittings in the dark sector. From this we derive novel bounds from these sources on light and/or inelastic dark matter models with Super-K and XENONnT. We find that cosmic-ray boosted dark matter from neutrino-emitting active galactic nuclei can test regions of parameter space favored to reproduce the observed relic abundance of dark matter in the Universe, and that are otherwise experimentally inaccessible.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.HE"
+      ],
+      "published": "2025-08-28T16:39:06+00:00",
+      "updated": "2026-05-25T15:23:16+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.20984v2",
+      "html_url": "https://arxiv.org/html/2508.20984v2",
+      "entry_url": "http://arxiv.org/abs/2508.20984v2"
+    },
+    {
+      "arxiv_id": "2508.20421v3",
+      "base_id": "2508.20421",
+      "title": "Self-regularized entropy: What does black hole entropy predict for tests of Kerr no-hair theorem?",
+      "authors": [
+        "Shokoufe Faraji",
+        "Niayesh Afshordi"
+      ],
+      "abstract": "We compute the canonical, or brick-wall, entropy of a massless scalar field in a quantum black hole model whose strong field exterior is described phenomenologically by the static $q$-metric, also known as the Zipoy-Voorhees metric. This geometry is an exact vacuum deformation of Schwarzschild with a small quadrupolar distortion parameter, $q$. Using WKB counting of trapped near horizon cavity modes, we show that this deformation changes the near horizon density of states so that the usual Schwarzschild brick-wall ultraviolet divergence is self-regularized, eliminating the need for an ad hoc proper distance cutoff within the perturbative regime studied here. Treating the Hawking temperature and Bekenstein-Hawking entropy of a Schwarzschild black hole of the same mass as external thermodynamic benchmarks, we obtain an analytic entropy-motivated deformation scale, $|q|\\sim 0.2$, across the stellar-to-supermassive black hole mass range. Through a stationary extension, this scale maps phenomenologically onto percent-to-tens-of-percent violations of the Kerr multipole relations, providing observational targets for ngEHT imaging, LISA extreme mass ratio inspirals, and third generation ground based gravitational wave tests.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE",
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2025-08-28T04:42:29+00:00",
+      "updated": "2026-06-04T11:22:31+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.20421v3",
+      "html_url": "https://arxiv.org/html/2508.20421v3",
+      "entry_url": "http://arxiv.org/abs/2508.20421v3"
+    },
+    {
+      "arxiv_id": "2508.20971v2",
+      "base_id": "2508.20971",
+      "title": "Cosmo-Learn: code for learning cosmology using different methods and mock data",
+      "authors": [
+        "Reginald Christian Bernardo",
+        "Daniela Grandón",
+        "Jackson Levi Said",
+        "Víctor H. Cárdenas",
+        "Gene Carlo Belinario",
+        "Reinabelle Reyes"
+      ],
+      "abstract": "We present cosmo_learn, an open-source python-based software package designed to simulate cosmological data and perform data-driven inference using a range of modern statistical and machine learning techniques. Motivated by the growing complexity of cosmological models and the emergence of observational tensions, cosmo_learn provides a standardized and flexible framework for benchmarking cosmological inference methods. The package supports realistic noise modeling for key observables in the late Universe, including cosmic chronometers, supernovae Ia, baryon acoustic oscillations, redshift space distortions, and gravitational wave bright sirens. We demonstrate the internal consistency of the simulated data with the input cosmology via residuals and parameter recovery using a fiducial $w$CDM model. Built-in learning and inference modules include traditional Markov Chain Monte Carlo, as well as more recent approaches such as genetic algorithms, Gaussian processes, Bayesian ridge regression, and artificial neural networks. These methods are implemented in a modular and extensible architecture designed to facilitate comparisons across inference strategies in a common pipeline. By providing a flexible and transparent simulation and learning environment, cosmo_learn supports both educational and research efforts at the intersection of cosmology, statistics, and machine learning.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2025-08-28T16:25:22+00:00",
+      "updated": "2026-06-14T15:39:47+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.20971v2",
+      "html_url": "https://arxiv.org/html/2508.20971v2",
+      "entry_url": "http://arxiv.org/abs/2508.20971v2"
+    }
+  ],
+  "total": 10
+}

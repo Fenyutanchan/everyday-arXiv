@@ -1,0 +1,351 @@
+{
+  "date": "2025-12-10",
+  "papers": [
+    {
+      "arxiv_id": "2512.09884v2",
+      "base_id": "2512.09884",
+      "title": "A weakly non-abelian decay channel",
+      "authors": [
+        "Vincent Menet",
+        "Alessandro Tomasiello"
+      ],
+      "abstract": "We investigate non-abelian branes in curved space. We discuss solutions to the equations of motion of the transverse scalars when they are constant along the world-volume directions and obey an $\\mathfrak{su}(2)$ or an $\\mathfrak{su}(2)\\oplus\\mathfrak{su}(2)$ algebra. Motivated by the membrane version of the weak gravity conjecture, we specialise our results to non-abelian domain-wall D$(d-2)$ branes embedded in AdS$_d$ flux vacua. We find that they can be less self-attractive than their abelian counterpart, opening up a new decay-channel for vacua that resist all abelian domain-wall destabilisations. These branes come in two types, depending on whether their fuzziness involves the radial direction, or is purely internal. Only the latter can develop in vacua free from abelian decays. We illustrate our construction by embedding these branes in a variety of AdS vacua, destabilising some of them.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2025-12-10T18:13:31+00:00",
+      "updated": "2026-04-19T17:56:55+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.09884v2",
+      "html_url": "https://arxiv.org/html/2512.09884v2",
+      "entry_url": "http://arxiv.org/abs/2512.09884v2"
+    },
+    {
+      "arxiv_id": "2512.09973v2",
+      "base_id": "2512.09973",
+      "title": "Phase transitions at high and low densities for a rotating QCD matter from holography",
+      "authors": [
+        "Octavio C. Junqueira",
+        "Roldao da Rocha"
+      ],
+      "abstract": "We applied the exact Andreev soft-wall holographic model to investigate phase transitions in rotating strongly interacting matter at high and low densities. Using the dual description of hadronic matter and quark-gluon plasma via thermal and charged black holes in five-dimensional AdS space with cylindrical symmetry, we find that for relativistic rotations exceeding 16\\% of the speed of light, crossover transitions emerge in the low-density regime up to a critical baryon chemical potential $μ_{CPB}$. These smooth transitions, governed by the negative QCD $β$-function, describe a mixed phase of confined and deconfined matter with different angular momenta evolving into a pure plasma at very high temperatures. For $μ\\geq μ_{CPB}$, first-order transitions dominate, following the critical-temperature curve of non-rotating matter. The critical point separating the low-density crossovers from high-density first-order transitions is numerically estimated as $(μ_{CPB}, T_{CP}) = (363.554, 58.507)\\,\\text{MeV}$.",
+      "categories": [
+        "nucl-th",
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2025-12-10T16:17:25+00:00",
+      "updated": "2026-04-15T05:13:12+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.09973v2",
+      "html_url": "https://arxiv.org/html/2512.09973v2",
+      "entry_url": "http://arxiv.org/abs/2512.09973v2"
+    },
+    {
+      "arxiv_id": "2512.09512v2",
+      "base_id": "2512.09512",
+      "title": "SLICE -- Combining Strong Lensing and X-ray in AC 114. Further Insights into the Merger Scenario",
+      "authors": [
+        "Marceau Limousin",
+        "Benjamin Beauchesne",
+        "Keren Sharon",
+        "Dominique Eckert",
+        "Guillaume Mahler",
+        "Johan Richard",
+        "David Lagattuta",
+        "Gourav Khullar",
+        "Mathilde Jauzac",
+        "Mike Gladders",
+        "Marco Balboni",
+        "Fabio Gastaldello",
+        "Stefano Ettori",
+        "Catherine Cerny",
+        "Eric Jullo",
+        "Gavin Leroy",
+        "Nency Patel"
+      ],
+      "abstract": "AC114 is a historically significant galaxy cluster, being one of the first strong lensing clusters detected from the ground in the early 1990s, prior to the launch of the HST. Despite this early prominence, no detailed lensing analyses have been carried out for more than fifteen years. We here study this cluster using JWST imaging obtained as part of the SLICE program, complemented by archival HST and X-ray observations. JWST data reveal ten new multiply imaged systems and enable the identification of conjugate substructures in several of the sixteen systems, significantly increasing the number of strong lensing constraints. Using these data, we construct a parametric mass model with Lenstool and extend it by explicitly incorporating the Chandra data in a combined strong lensing+X-ray fit. Our best-fit model reproduces the multiple images with an RMS of 0.4\" while simultaneously matching the X-ray data. The dark matter distribution is unimodal and centered on the brightest cluster galaxy, with a large core radius of 83+-5kpc, consistent with values reported in other strong lensing clusters. The strong lensing constraints require the inclusion of an external shear component which position angle points unambiguously towards a nearby (~1Mpc), well defined mass concentration at the same redshift in the North-West, for which we propose the naming AC114b. The spatial coverage of the XMM-Newton data encompasses the whole structure, allowing us to probe the X-ray properties of the companion cluster and the thermodynamics of AC114, providing evidence for a major merger, in line with previous signatures seen in Chandra, radio and optical spectroscopic data. Our results shed new light on the merging scenario, revealing a major merger caught in a late post-collisional phase, where AC114 is the dominant system and Ac114b has likely been stripped of its hot gas.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2025-12-10T10:36:06+00:00",
+      "updated": "2026-04-22T11:15:19+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.09512v2",
+      "html_url": "https://arxiv.org/html/2512.09512v2",
+      "entry_url": "http://arxiv.org/abs/2512.09512v2"
+    },
+    {
+      "arxiv_id": "2512.10101v2",
+      "base_id": "2512.10101",
+      "title": "The von Neumann algebraic quantum group $\\mathrm{SU}_q(1,1)\\rtimes \\mathbb{Z}_2$ and the DSSYK model",
+      "authors": [
+        "Koen Schouten",
+        "Mikhail Isachenkov"
+      ],
+      "abstract": "The double-scaling limit of the SYK (DSSYK) model is known to possess an underlying $\\mathcal{U}_q(\\mathfrak{su}(1,1))$ quantum group symmetry. In this paper, we provide, for the first time, a von Neumann algebraic quantum group-theoretical description of the degrees of freedom and the dynamics of the DSSYK model. In particular, we construct the operator-algebraic quantum Gauss decomposition for the von Neumann algebraic quantum group $\\mathrm{SU}_q(1,1)\\rtimes \\mathbb{Z}_2$, i.e. the $q$-deformation of the normaliser of $\\mathrm{SU}(1,1)$ in $\\mathrm{SL}(2,\\mathbb{C})$, and derive the Casimir action on its quantum homogeneous spaces. We then show that the dynamics on quantum AdS$_{2,q}$ space reduces to that of the DSSYK model. Furthermore, we argue that the extension of the global symmetry group to its normaliser is not only necessary for a consistent definition of the locally compact quantum group, but that, moreover, the reduction to the DSSYK model works exclusively at the level of the normaliser. The von Neumann algebraic description is shown to give a natural restriction on the allowed quantised coordinates, elegantly ensuring length positivity and non-negative integer chord numbers. Lastly, we make remarks on the correlation function related to the strange series representation, which is argued to interpolate between the AdS and dS regions of our $q$-homogeneous space.",
+      "categories": [
+        "math-ph",
+        "cond-mat.stat-mech",
+        "hep-th",
+        "math.OA",
+        "math.QA"
+      ],
+      "published": "2025-12-10T21:46:07+00:00",
+      "updated": "2026-04-27T17:04:49+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.10101v2",
+      "html_url": "https://arxiv.org/html/2512.10101v2",
+      "entry_url": "http://arxiv.org/abs/2512.10101v2"
+    },
+    {
+      "arxiv_id": "2512.09744v3",
+      "base_id": "2512.09744",
+      "title": "Tachyonic dark energy- Constraints from current observations",
+      "authors": [
+        "Ramanpreet Singh",
+        "Athul CN",
+        "H. K. Jassal"
+      ],
+      "abstract": "Recent observations from the DESI survey have reignited the debate on the true nature of dark energy, challenging the standard model of cosmology. The results suggest a preference for dynamical dark energy rather than a constant. Several recent analyses of DESI data indicate that the universe's expansion may not be accelerating in the way suggested by supernova based cosmology. Motivated by these studies, we investigated a tachyon type scalar field $φ$ as a model for dark energy, assuming an exponential potential for the field and performed parameter estimation using MCMC techniques. Such a model offers solutions that have $w\\sim-1$ and are decelerating without requiring a phantom like equation of state (EoS). The present day value of EoS parameter is treated as a free parameter. However, for the reference model, we fix its present value to $-1$. The analysis is carried out using Pantheon+ and BAO measurements from DESI. The results show that both types of datasets consistently predict a turnaround in the EoS, regardless of whether $w_{\\phi0}$ is treated as a free parameter or fixed to $-1$. The corresponding deceleration parameter also exhibits a future turnaround for both datasets when $w_{\\phi0}$ is free. However, in the reference model with $w_{\\phi0}=-1$, the deceleration parameter instead approaches $-1$ asymptotically. A model comparison shows that the Pantheon+ dataset favors free $w_{\\phi0}$, while BAO observations prefer $w_{\\phi0} = -1$. This indicates a disagreement in the future evolution predicted by the two datasets within the tachyon dark energy model.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2025-12-10T15:23:01+00:00",
+      "updated": "2026-04-26T15:10:49+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.09744v3",
+      "html_url": "https://arxiv.org/html/2512.09744v3",
+      "entry_url": "http://arxiv.org/abs/2512.09744v3"
+    },
+    {
+      "arxiv_id": "2512.09342v2",
+      "base_id": "2512.09342",
+      "title": "The stellar and dark matter distributions in early-type galaxies measured by stacked weak gravitational lensing",
+      "authors": [
+        "Momoka Fujikawa",
+        "Masamune Oguri"
+      ],
+      "abstract": "We investigate stellar mass and central dark matter density profiles of photometric luminous red galaxies with stellar masses of $\\sim10^{10}-10^{12}M_\\odot$ using weak gravitational lensing measurements from the Hyper Suprime-Cam Subaru Strategic Program data obtained with the Subaru Telescope. By stacking weak lensing signals from a large number of galaxies, we obtain average tangential shear profiles down to $\\sim 10\\,\\mathrm{kpc}/h$, which are fitted assuming a two-component model consisting of stellar and dark matter components to constrain their central dark matter distribution. We find a preference for non-zero core radii of dark matter distributions in galaxies with stellar masses of $\\sim 10^{11}M_\\odot$. Our results imply a stronger feedback effect than that typically predicted by current hydrodynamical simulations. In addition, we provide a new constraint on the stellar-to-halo mass relation, where both stellar and halo masses are, for the first time, directly constrained by weak gravitational lensing. Our results prefer the stellar initial mass function (IMF) that is more bottom-heavy than the Salpeter IMF.",
+      "categories": [
+        "astro-ph.GA",
+        "astro-ph.CO"
+      ],
+      "published": "2025-12-10T05:59:11+00:00",
+      "updated": "2026-04-30T08:55:30+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.09342v2",
+      "html_url": "https://arxiv.org/html/2512.09342v2",
+      "entry_url": "http://arxiv.org/abs/2512.09342v2"
+    },
+    {
+      "arxiv_id": "2512.09404v2",
+      "base_id": "2512.09404",
+      "title": "Dark Matter and Dark Energy in Three-Higgs Doublet Model",
+      "authors": [
+        "Mohid Farhan",
+        "Ibtehaj Hassan",
+        "Muhammad Usman",
+        "Noraiz Tahir"
+      ],
+      "abstract": "This article discusses the incorporation of dark matter and dark energy into a new physics model called the Three-Higgs Doublet Model. Dark matter and dark energy are accommodated as CP-even and $Z_2$-odd scalars in their respective inert doublets. By leveraging a $Z_2$ symmetry to suppress certain interactions, we model the behavior of dark matter. Similarly, by imposing a shift symmetry, dark energy can be mimicked within the same framework for the current cosmic epoch. The dark matter relic density is calculated for our model using \\texttt{micrOMEGAs}. It is shown that despite the inclusion of dark energy, dark matter relic density can be brought within observational bounds and match existing literature. Furthermore, the one-loop and two-loop Renormalization Group Equations (RGEs) were computed using \\texttt{SARAH} to ensure radiative stability over a large range of energies. This study lays the groundwork for a future study of dark matter-dark energy interactions in the early universe and the exploration of different early universe dynamics.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-12-10T07:58:03+00:00",
+      "updated": "2026-04-30T18:09:41+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.09404v2",
+      "html_url": "https://arxiv.org/html/2512.09404v2",
+      "entry_url": "http://arxiv.org/abs/2512.09404v2"
+    },
+    {
+      "arxiv_id": "2512.09978v2",
+      "base_id": "2512.09978",
+      "title": "Gravitational-wave parameter estimation to the Moon and back: massive binaries and the case of GW231123",
+      "authors": [
+        "Francesco Iacovelli",
+        "Jacopo Tissino",
+        "Jan Harms",
+        "Emanuele Berti"
+      ],
+      "abstract": "We study the prospects of the Lunar Gravitational-Wave Antenna (LGWA), a proposed deci-Hz GW detector, to observe binary black holes (BBHs) and enable multiband science with ground-based detectors. We assess the detectability of the events observed by current instruments up to the GWTC-4.0 data release, and of simulated populations consistent with the latest reconstruction by the LIGO-Virgo-KAGRA Collaboration. We find that LGWA alone would have been able to observe more than one third of the events detected so far, and that it could detect $\\sim\\!90$ events merging in the ground-based band per year out to redshifts $z\\sim3-5$. Current detectors at design sensitivity and 100% duty cycle could detect thousands of BBHs per year, with one to a few hundred multiband counterparts in LGWA. Third-generation (3G) detectors can observe most of the BBHs detected by LGWA merging in their frequency band in the simulated mass range $7\\,{\\rm M}_\\odot\\lesssim M_{\\rm tot}\\lesssim 600\\,{\\rm M}_\\odot$, enabling systematic joint analyses of hundreds of events. The short time to merger from the deci-Hz band to the Hz-kHz band (typically months to a year) allows for early warning, targeted follow-up, and archival searches. Multiband observations of intermediate-mass BBHs in the deci-Hz band are particularly promising. We perform an injection study for a GW231123-like system (the most massive BBH detection to date, which accumulates $\\sim 10^5$ inspiral cycles in LGWA) and show that deci-Hz observations can measure the chirp mass even better than 3G instruments and yield good sky localization and inclination measurement, even with a single observatory. Opening the deci-Hz band would substantially improve the prospects of GW astronomy for intermediate-mass BBHs.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "astro-ph.HE"
+      ],
+      "published": "2025-12-10T19:00:00+00:00",
+      "updated": "2026-05-06T16:09:11+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.09978v2",
+      "html_url": "https://arxiv.org/html/2512.09978v2",
+      "entry_url": "http://arxiv.org/abs/2512.09978v2"
+    },
+    {
+      "arxiv_id": "2512.10086v2",
+      "base_id": "2512.10086",
+      "title": "Unpolarized GPDs at small $x$ and non-zero skewness",
+      "authors": [
+        "Yuri V. Kovchegov",
+        "M. Gabriel Santiago",
+        "Huachen Sun"
+      ],
+      "abstract": "We study the small-$x$ asymptotics of unpolarized generalized parton distributions (GPDs) and generalized transverse momentum distributions (GTMDs). Unlike the previous works in the literature, we consider the case of non-zero (but small) skewness while allowing for non-linear contributions to the evolution equations. We show that unpolarized GPDs and GTMDs at small $x$ are related to the eikonal dipole amplitude $N$, whose small-$x$ evolution is given by the BK/JIMWLK evolution equations, and to the odderon amplitude $\\cal O$, whose evolution is also known in the literature. We show that the effect of non-zero skewness $ξ\\neq 0$ is to modify the value of the evolution parameter (rapidity) in the arguments for the dipole amplitudes $N$ and $\\cal O$ from $Y = \\ln (1/x)$ to $Y = \\ln \\min \\left\\{ 1/|x| , 1/|ξ| \\right\\}$.",
+      "categories": [
+        "hep-ph",
+        "nucl-th"
+      ],
+      "published": "2025-12-10T21:16:58+00:00",
+      "updated": "2026-05-06T03:10:35+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.10086v2",
+      "html_url": "https://arxiv.org/html/2512.10086v2",
+      "entry_url": "http://arxiv.org/abs/2512.10086v2"
+    },
+    {
+      "arxiv_id": "2512.09878v2",
+      "base_id": "2512.09878",
+      "title": "GFH-v2 Pipeline for Searches of Long-Transient Gravitational Waves from Newborn Magnetars",
+      "authors": [
+        "Sandhya Sajith Menon",
+        "Lorenzo Pierini",
+        "Pia Astone",
+        "Cristiano Palomba",
+        "Lorenzo Silvestri",
+        "Sabrina D'Antonio",
+        "Simone Dall'Osso",
+        "Francesco Safai Tehrani",
+        "Stefano Dal Pra",
+        "Gaetano Dinatale",
+        "Sergio Frasca",
+        "Dafne Guetta",
+        "Paola Leaci",
+        "Alessio Orlandi"
+      ],
+      "abstract": "This paper presents an enhanced methodology for searching long transient gravitational waves associated with a newborn magnetar, with particular focus on the regime in which the early spin-down is dominated by gravitational-wave emission. The analysis is performed using a strongly improved version of the generalized Frequency Hough Transform algorithm, called GFH-v2. We describe the main developments introduced relative to the original implementation and outline the optimized parameter-space selection used in the search. We then compute the theoretical sensitivity of the method and compare it with an empirical sensitivity estimate obtained by injecting simulated signals into LIGO-Virgo-KAGRA O4a data. The updated framework achieves improved sensitivity and computational performance. These results provide a robust basis for future directed searches for long-transient gravitational-wave signals from core-collapse supernovae and other transient events in current and upcoming observing runs.",
+      "categories": [
+        "astro-ph.IM",
+        "gr-qc"
+      ],
+      "published": "2025-12-10T18:03:52+00:00",
+      "updated": "2026-05-14T11:52:19+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.09878v2",
+      "html_url": "https://arxiv.org/html/2512.09878v2",
+      "entry_url": "http://arxiv.org/abs/2512.09878v2"
+    },
+    {
+      "arxiv_id": "2512.10028v2",
+      "base_id": "2512.10028",
+      "title": "Constraining non-commutative geometry with W/Z+jet production at the LHC",
+      "authors": [
+        "Achwaq Ghezal",
+        "Yazid Delenda",
+        "Mekki Aouachria"
+      ],
+      "abstract": "We present a comprehensive calculation of the squared matrix elements for all partonic channels contributing to $W^\\pm/Z$+jet production at hadron colliders within the framework of the non-commutative Standard Model (NCSM), including leptonic decays $W\\to eν$ and $Z\\to {μ^+μ^-}$. Our computation incorporates both $\\mathcal{O}(Θ)$ corrections to the Standard Model vertices and additional interaction terms inherent to the NCSM. A key finding is that the production amplitudes receive first-order corrections at $\\mathcal{O}(Θ)$, a distinctive feature compared to many other processes where non-commutative effects enter only at $\\mathcal{O}(Θ^2)$. The leptonic decay widths, in contrast, are modified solely at $\\mathcal{O}(Θ^2)$. This $\\mathcal{O}(Θ)$ enhancement provides improved sensitivity to non-commutative geometry, allowing us to probe for and constrain the non-commutative energy scale in the multi-TeV range. We provide numerical predictions for angular (azimuthal and rapidity) distributions and the forward--backward asymmetry, and compare them to state-of-the-art Standard Model predictions at leading and next-to-leading order from the \\texttt{MCFM} Monte Carlo program. Finally, we test the NCSM with experimental data by analyzing an unbinned, particle-level $Z$+jet dataset from the ATLAS experiment. From this data, we calculate the azimuthal spectrum and forward-backward asymmetry, which are then used to derive stringent lower bounds on the non-commutative scale $Λ$. Our analysis accounts for Earth rotation effects by treating the non-commutative tensor as fixed in a celestial frame and deriving time-averaged observables in the rotating detector frame.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-12-10T19:32:24+00:00",
+      "updated": "2026-05-28T16:47:01+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.10028v2",
+      "html_url": "https://arxiv.org/html/2512.10028v2",
+      "entry_url": "http://arxiv.org/abs/2512.10028v2"
+    },
+    {
+      "arxiv_id": "2512.10084v3",
+      "base_id": "2512.10084",
+      "title": "Potential for the discovery of the protophobic boson at the STCF",
+      "authors": [
+        "Althaf M.",
+        "Triparno Bandyopadhyay"
+      ],
+      "abstract": "We study the morphology of the main drift chamber (MDC) to be built around the collision point of the proposed Super tau-charm facility (STCF), to check its suitability for discovering the 17 MeV protophobic boson (X17 boson), hypothesised as a solution to the persistent ATOMKI nuclear-transition anomalies. Using the TrackEff framework, we perform detector-level simulations of the STCF MDC, and evaluate displaced-vertex sensitivities towards the protophobic boson, across the relevant mass-coupling parameter space. We study benchmark scenarios with visible and dark decay channels to perform likelihood-based significance estimates in order to determine the 5~$σ$ discovery reach for the protophobic boson. We find that STCF can potentially discover the protophobic boson while tolerating $\\sim 10^4$ background events for specific regions of the parameter space. Our analysis establishes the first feasibility study of displaced light-boson searches at the STCF, motivating a full Geant-4 simulation.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2025-12-10T21:13:52+00:00",
+      "updated": "2026-05-27T18:39:40+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.10084v3",
+      "html_url": "https://arxiv.org/html/2512.10084v3",
+      "entry_url": "http://arxiv.org/abs/2512.10084v3"
+    },
+    {
+      "arxiv_id": "2512.10015v2",
+      "base_id": "2512.10015",
+      "title": "The Four Polarizations of the $W$ at High Energies",
+      "authors": [
+        "Trina Basu",
+        "Richard Ruiz"
+      ],
+      "abstract": "We investigate polarization-induced interference, off-shell effects, and gauge cancellations in predictions for high-energy, multi-leg processes with (near) resonant weak bosons. Building on the ``polarized propagator'' paradigm, we carry out our analysis at the level of helicity amplitudes and squared amplitudes, computing polarization interference directly. We introduce analytical decompositions of polarized propagators, valid for covariant and axial gauges, that simplify the organization and evaluation of polarized amplitudes, and make power counting of mass-over-energy factors manifest. We show: (i) For the fully massive case, polarization interference can exceed $\\mathcal{O}(Γ_V^2/M_V^2)$ width-over-mass corrections, limiting the applicability of the narrow width and pole approximation at low energies. (ii) At the fully differential level, interference can naturally be larger than squared longitudinal amplitudes but can also vanish when bosons are emitted by unpolarized sources. (iii) When weak bosons decay to massless fermions, the non-interference of polarization after angular integration extends to the off-shell regime but remains approximate due to $V-A$ couplings. Guided by BRST invariance, we propose a simple scheme for grouping together polarizations that reduces gauge ambiguities in predictions for polarized scattering rates and is applicable to the fully massive case. As case studies, we examine polarization interference in $W$(+jets), top quark decay, and neutrino deep-inelastic scattering. For decays of unpolarized top quarks, interference exactly cancels at the totally unintegrated level.",
+      "categories": [
+        "hep-ph",
+        "hep-ex",
+        "hep-th"
+      ],
+      "published": "2025-12-10T19:07:01+00:00",
+      "updated": "2026-06-01T15:42:32+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.10015v2",
+      "html_url": "https://arxiv.org/html/2512.10015v2",
+      "entry_url": "http://arxiv.org/abs/2512.10015v2"
+    },
+    {
+      "arxiv_id": "2512.09991v2",
+      "base_id": "2512.09991",
+      "title": "Observational constraints on 3-forms dark energy",
+      "authors": [
+        "Mariam Bouhmadi-López",
+        "Hsu-Wen Chiang",
+        "Carlos G. Boiza",
+        "Pisin Chen"
+      ],
+      "abstract": "3-forms are natural candidates for describing the late-time accelerated expansion of the Universe, as they can inherently reproduce a positive cosmological constant when lacking an evolving potential. When such a potential is present, a 3-form field may exhibit either quintessence-like or phantom-like behaviour. In this paper, we consider a late-time effective dark energy model described by a 3-form with a Gaussian potential, stable during the dark-energy-dominated era. We constrain this model observationally by performing a Markov Chain Monte Carlo (MCMC) analysis employing a comprehensive cosmological dataset, including Planck PR4 cosmic microwave background (CMB) data, DESI DR1 baryon acoustic oscillation (BAO) measurements, Pantheon+ Type Ia supernovae data, low-$z$ Cepheid calibrators, and DES Y1 large-scale structure observations. We demonstrate that the 3-form model successfully increases the predicted Hubble parameter of CMB and BAO data from $67.89\\pm0.36{\\rm km/s/Mpc}$ of $Λ$CDM model to $68.29^{+0.56}_{-0.61}{\\rm km/s/Mpc}$ by approaching the potential peak at the right time, thus mildly reducing the tension with the late-time observation. Overall, the 3-form field serves as a promising candidate of phantom-like dark energy from both theoretical and observational points of view.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2025-12-10T19:00:02+00:00",
+      "updated": "2026-06-01T10:52:35+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.09991v2",
+      "html_url": "https://arxiv.org/html/2512.09991v2",
+      "entry_url": "http://arxiv.org/abs/2512.09991v2"
+    },
+    {
+      "arxiv_id": "2512.09971v10",
+      "base_id": "2512.09971",
+      "title": "Do SN 1987A data yield the three neutrino masses?",
+      "authors": [
+        "Robert Ehrlich"
+      ],
+      "abstract": "Currently only upper limits are known for the neutrino masses based on cosmological constraints and direct neutrino mass experiments. This review explores the possibility that SN 1987A might provide actual values for the three neutrino masses and not just upper limits, a possibility first suggested by Ramanath Cowsik in 1988. Cowsik's result depends on the neutrino emissions from SN 1987A being near-simultaneous, i.e., within a time interval $Δt<1 s.$ Having such a brief burst, however, is contradicted by virtually all supernova neutrino emission models that include a $Δt>10 s$ cooling phase. Here it is explained why those neutrino emission models may be mistaken, and why the three neutrino masses suggested by the SN 1987A data might be correct even though they are larger than the upper limits implied from cosmology and direct mass experiments.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.HE"
+      ],
+      "published": "2025-12-10T14:12:03+00:00",
+      "updated": "2026-06-11T17:50:30+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.09971v10",
+      "html_url": "https://arxiv.org/html/2512.09971v10",
+      "entry_url": "http://arxiv.org/abs/2512.09971v10"
+    },
+    {
+      "arxiv_id": "2512.09641v2",
+      "base_id": "2512.09641",
+      "title": "Extreme-Lensing Signatures Revealed by Correlations of Simulated Black-Hole Movies",
+      "authors": [
+        "Barbora Bezděková",
+        "Shahar Hadar",
+        "George Wong",
+        "Maciek Wielgus"
+      ],
+      "abstract": "A black hole's gravitational pull can deflect light rays to an arbitrary degree. As a result, any source fluctuation near the black hole creates multiple lagged images on an observer's screen. For optically thin stochastic emission, these light echoes give rise to correlations of brightness fluctuations across time-dependent images (movies). The correlation pattern disentangles source-specific characteristics from universal features dictated by general relativity. This picture has motivated a proposal to use the two-point image correlation function as a probe of extreme gravitational lensing in upcoming black-hole imaging campaigns. In this work, we test the feasibility of this method by computing the two-point correlation function of brightness fluctuations in a black-hole movie of state-of-the-art realism. The movie is generated by ray tracing a general relativistic magnetohydrodynamic simulation, which can then be blurred to any angular resolution. At an effective resolution expected to be achieved by next-generation terrestrial very-long-baseline interferometric arrays, these lensing signatures appear in neither time-averaged images nor light-curve autocorrelations. However, we demonstrate that they are clearly visible in the more fine-grained two-point image correlation function. Our positive findings motivate a more comprehensive investigation into the instrument specifications and inference techniques needed to resolve extreme lensing effects through correlations.",
+      "categories": [
+        "astro-ph.HE",
+        "astro-ph.IM",
+        "gr-qc"
+      ],
+      "published": "2025-12-10T13:32:54+00:00",
+      "updated": "2026-06-14T16:57:29+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.09641v2",
+      "html_url": "https://arxiv.org/html/2512.09641v2",
+      "entry_url": "http://arxiv.org/abs/2512.09641v2"
+    }
+  ],
+  "total": 16
+}

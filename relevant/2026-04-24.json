@@ -1,0 +1,439 @@
+{
+  "date": "2026-04-24",
+  "total": 16,
+  "papers": [
+    {
+      "arxiv_id": "2601.02458v3",
+      "base_id": "2601.02458",
+      "title": "Cosmic Collider Gravitational Waves sourced by Right-handed Neutrino production from Bubbles: Testing Seesaw, Leptogenesis and Dark Matter",
+      "authors": [
+        "Anish Ghoshal",
+        "Pratyay Pal"
+      ],
+      "abstract": "We study a minimal type-I seesaw framework in which a first-order phase transition (FOPT), driven by a singlet scalar, produces right-handed neutrinos (RHNs) through bubble collisions, realizing a cosmic-scale collider that probes ultra-high energy scales. The resulting RHN distribution sources novel low-frequency gravitational-waves (GWs) in addition to the standard bubble-collision contribution. A stable lightest RHN can account for the observed dark matter (DM) relic abundance for masses as low as $M_{1} \\equiv m_{\\rm DM} \\gtrsim 10^{6}\\,\\mathrm{GeV}$, with the associated novel GW signal accessible in LISA, ET and upcoming LVK detectors. If the RHNs are unstable, their CP-violating decays generate the observed baryon asymmetry via leptogenesis for $M_{1} \\gtrsim 10^{11}\\,\\mathrm{GeV}$ and phase transition temperatures $T_* \\gtrsim 10^{6}\\,\\mathrm{GeV}$, for which the novel GW spectrum is detectable in ET, BBO and upcoming LVK. If RHN decays also populate a dark-sector fermion with mass $m_χ \\in [10^{-4},10^{4}],\\mathrm{GeV}$, successful co-genesis of baryons and asymmetric dark matter occurs for $T_* \\gtrsim 10^{7}\\,\\mathrm{GeV}$ and $M_{1} \\gtrsim 10^{9}\\,\\mathrm{GeV}$, naturally explaining $Ω_{\\rm DM} \\simeq 5Ω_{\\rm B}$. The corresponding GW signals are testable with LISA, ET, and BBO. Finally, we analyze a UV-complete multi-Majoron model, based on a global $U(1)_N \\times U(1)_{\\rm B-L}$ extension, motivated from the hierarchy of lepton masses, which we dub as Mojaron collider. The corresponding FOPT in this model leaves a distinctive GW signature arising from RHN production during $U(1)_N$ symmetry breaking detectable by BBO, ET and upcoming LVK. Successful leptogenesis is realized for heaviest RHN mass $M_3 \\sim 10^{10}\\,\\mathrm{GeV}$ and a $U(1)_N$ breaking vev $v_2 \\sim \\mathcal{O}(\\mathrm{TeV})$, which sets the seesaw scale.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2026-01-05T18:57:49+00:00",
+      "updated": "2026-04-24T10:01:41+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.02458v3",
+      "html_url": "https://arxiv.org/html/2601.02458v3",
+      "entry_url": "http://arxiv.org/abs/2601.02458v3",
+      "relevance": {
+        "relevant": true,
+        "score": 9,
+        "reason": "This paper is highly relevant as it directly connects several of the user's core interests: gravitational waves from first-order phase transitions, heavy neutral leptons (RHNs) with dark sector decays, dark matter production mechanisms, and early-universe cosmology including leptogenesis and BBN-related energy injection.",
+        "pass_number": 1,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2604.22634v1",
+      "base_id": "2604.22634",
+      "title": "Constraints on the Primordial Black Hole Abundance using Pulsar Parameter Drifts",
+      "authors": [
+        "Yan-Chen Bi",
+        "Yu-Mei Wu",
+        "Qing-Guo Huang"
+      ],
+      "abstract": "Primordial black holes (PBHs) provide a compelling interpretation for the binary black holes (BBHs) observed by ground-based gravitational-wave (GW) detectors, especially for those BBHs in the theoretical mass gap. In the early Universe, the scalar perturbations required to produce such PBHs inevitably generate scalar-induced GWs (SIGWs). These SIGWs peak in the sub-nanohertz band, and manifest secularly as measurable jerk-like drifts in the second derivative of pulsar spin periods. In this Letter, we perform the first search for SIGWs using pulsar parameter drifts, and place a 95\\% confidence-level upper limit on the PBH abundance of $f_{\\mathrm{PBH}} < 10^{-10}$ over the mass range $[3 \\times 10^{-1}, 4 \\times 10^{4}] M_{\\odot}$. Our results strongly disfavor a PBH origin for the BBHs currently detected by the LIGO-Virgo-KAGRA (LVK) Collaborations.",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.HE",
+        "gr-qc"
+      ],
+      "published": "2026-04-24T15:07:45+00:00",
+      "updated": "2026-04-24T15:07:45+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.22634v1",
+      "html_url": "https://arxiv.org/html/2604.22634v1",
+      "entry_url": "http://arxiv.org/abs/2604.22634v1",
+      "relevance": {
+        "relevant": true,
+        "score": 8,
+        "reason": "The paper is highly relevant as it constrains primordial black hole abundance and scalar-induced gravitational waves, falling directly within the user's core research interests in PBHs and stochastic gravitational-wave backgrounds from the early universe.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2507.23354v2",
+      "base_id": "2507.23354",
+      "title": "Consistent $N_{\\rm eff}$ fitting in big bang nucleosynthesis analysis",
+      "authors": [
+        "Sougata Ganguly",
+        "Tae Hyun Jung",
+        "Seokhoon Yun"
+      ],
+      "abstract": "The effective number of neutrino species, $N_{\\rm eff}$, serves as a key fitting parameter extensively employed in cosmological studies. In this work, we point out a fundamental inconsistency in the conventional treatment of $N_{\\rm eff}$ in big bang nucleosynthesis (BBN), particularly regarding its applicability to new physics scenarios where $ΔN_{\\rm eff}$, the deviation of $N_{\\rm eff}$ from the standard BBN prediction, is negative. To ensure consistent interpretation, it is imperative to either restrict the allowed range of $N_{\\rm eff}$ or systematically adjust neutrino-induced reaction rates based on physically motivated assumptions. As a concrete example, we consider a simple scenario in which a negative $ΔN_{\\rm eff}$ arises from entropy injection into the electromagnetic sector due to the decay of long-lived particles after neutrino decoupling. This process dilutes the neutrino density and suppresses the rate of neutrino-driven neutron-proton conversion. Under this assumption, we demonstrate that the resulting BBN constraints on $N_{\\rm eff}$ deviate significantly from those obtained by the conventional, but unphysical, extrapolation of dark radiation scenarios into the $ΔN_{\\rm eff} < 0$ regime.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "published": "2025-07-31T09:04:21+00:00",
+      "updated": "2026-04-24T03:16:14+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2507.23354v2",
+      "html_url": "https://arxiv.org/html/2507.23354v2",
+      "entry_url": "http://arxiv.org/abs/2507.23354v2",
+      "relevance": {
+        "relevant": true,
+        "score": 8,
+        "reason": "This paper directly addresses BBN constraints and ΔN_eff, which the researcher explicitly lists as core interests in neutrino physics (cosmological bounds from BBN and ΔN_eff) and primordial black hole physics (BBN constraints), and the scenario of entropy injection from long-lived particle decay connects to early-universe cosmology and dark sector decay channels.",
+        "pass_number": 1,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2604.09534v2",
+      "base_id": "2604.09534",
+      "title": "The four-loop non-singlet splitting functions in QCD",
+      "authors": [
+        "Thomas Gehrmann",
+        "Andreas von Manteuffel",
+        "Vasily Sotnikov",
+        "Tong-Zhi Yang"
+      ],
+      "abstract": "The scale evolution of parton distributions is governed by splitting functions. We compute the four-loop splitting functions in perturbative QCD that control the evolution of quark non-singlet distributions. We confirm previous partial results and obtain, for the first time, fully analytic expressions for all non-singlet contributions at this order. These allow us to extract the analytic form of the four-loop virtual and rapidity anomalous dimensions entering logarithmic resummation. We provide precise numerical representations of the splitting functions suitable for parton evolution.",
+      "categories": [
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2026-04-10T17:52:46+00:00",
+      "updated": "2026-04-24T16:06:53+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.09534v2",
+      "html_url": "https://arxiv.org/html/2604.09534v2",
+      "entry_url": "http://arxiv.org/abs/2604.09534v2",
+      "relevance": {
+        "relevant": true,
+        "score": 7,
+        "reason": "This paper is highly relevant to the user's interest in multi-loop perturbative QCD and computational techniques, as it involves four-loop (N³LO) calculations using harmonic polylogarithms, differential equation methods, and Feynman integral topology construction—all methodologies the user explicitly works with—even though the specific application to DGLAP splitting functions is not among the user's primary physics topics.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2503.20016v2",
+      "base_id": "2503.20016",
+      "title": "The High-Temperature Limit of the SM(EFT)",
+      "authors": [
+        "Mikael Chala",
+        "Guilherme Guedes"
+      ],
+      "abstract": "We derive the one-loop effective 3-dimensional Lagrangian that describes the high-temperature limit of the electroweak theory, to order $\\mathcal{O}(g^6)$ in coupling constants $g$, including corrections due to Matsubara modes of both fermionic and bosonic degrees of freedom. We clarify certain aspects of the gauge-independence of physical parameters. We also extend the calculation to the Standard Model effective field theory, paving the way, in particular, for a precise study of the electroweak phase transition within this framework.",
+      "categories": [
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2025-03-25T19:00:00+00:00",
+      "updated": "2026-04-24T12:03:33+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2503.20016v2",
+      "html_url": "https://arxiv.org/html/2503.20016v2",
+      "entry_url": "http://arxiv.org/abs/2503.20016v2",
+      "relevance": {
+        "relevant": true,
+        "score": 7,
+        "reason": "The paper is relevant to your interest in stochastic gravitational-wave backgrounds through its calculation of the high-temperature electroweak phase transition, and aligns with your expertise in multi-loop perturbative calculations and computational tools.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2604.22731v1",
+      "base_id": "2604.22731",
+      "title": "Precision Analysis for $\\boldsymbol{H_0}$ Using Upcoming Multi-band Gravitational Wave Observations",
+      "authors": [
+        "Setabuddin",
+        "Md Riajul Haque",
+        "Ratna Koley",
+        "Supratik Pal"
+      ],
+      "abstract": "We investigate how multi-band gravitational wave (GW) observations can constrain the uncertainties in the Hubble parameter ($H_0$) using primordial black holes (PBHs) as possible sources. Our framework combines scalar-induced and merger-induced GWs from PBHs, and forecasts on a combination of two future detectors Square Kilometre Array (SKA) and the Einstein Telescope (ET), enabling a multi-band analysis. We perform a statistical forecast of the PBH parameters, $M_{\\rm PBH}$ and $f_{\\rm PBH}$, using signal-to-noise ratio (SNR) estimates and Fisher matrix analysis. Imposing $\\mathrm{SNR} \\geq 1$, we identify the accessible PBH parameter space and propagate these uncertainties to estimate the corresponding uncertainties in $H_0$. For $δθ_i/θ_i \\leq 0.1$, with $θ_i \\equiv M_{\\rm PBH}(f_{\\rm PBH})$, we find $δH_0 \\lesssim 2~{\\rm km\\,s^{-1}\\,Mpc^{-1}}$ in a conservative approach, improving to $δH_0 \\lesssim \\mathcal{O}(0.1)~{\\rm km\\,s^{-1}\\,Mpc^{-1}}$ for $δθ_i/θ_i \\leq 0.01$ for an optimistic approach of precision measurement. The results are further found to be largely insensitive to the fiducial choice of the $H_0$, with only moderate dependence on the PBH collapse efficiency. These findings demonstrate that multi-band GW observations provide an independent and complementary approach to constraining the uncertainties in $H_0$, with the potential to provide a novel, cosmic distance ladder-independent measure of the Hubble parameter.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "published": "2026-04-24T17:28:02+00:00",
+      "updated": "2026-04-24T17:28:02+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.22731v1",
+      "html_url": "https://arxiv.org/html/2604.22731v1",
+      "entry_url": "http://arxiv.org/abs/2604.22731v1",
+      "relevance": {
+        "relevant": true,
+        "score": 6,
+        "reason": "The paper is relevant through its focus on primordial black holes and stochastic gravitational-wave backgrounds—both core interests—but its specific aim of constraining H₀ via multi-band GW observations diverges from the researcher's primary PBH focus on Hawking evaporation, BBN constraints, and high-energy particle production.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2604.21080v2",
+      "base_id": "2604.21080",
+      "title": "Cosmological Gravitational Waves from Ultralight Vector Dark Matter",
+      "authors": [
+        "Tomás Ferreira Chase",
+        "Diana López Nacir"
+      ],
+      "abstract": "We compute the abundance of cosmological gravitational waves produced during the evolution of an ultralight vector (spin-1) dark matter field. A homogeneous background vector field breaks spatial isotropy, requiring a Bianchi I geometry and inducing a mixing between the scalar, vector, and tensor perturbation sectors. We derive the perturbation equations in this background and show that, as a consequence of this mixing, scalar perturbations act as a source of tensor modes, generating a stochastic GW background. The production and cosmological evolution of these gravitational waves are implemented in a modified version of CLASS, from which we obtain the present-day spectrum.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "published": "2026-04-22T20:46:20+00:00",
+      "updated": "2026-04-24T18:06:10+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.21080v2",
+      "html_url": "https://arxiv.org/html/2604.21080v2",
+      "entry_url": "http://arxiv.org/abs/2604.21080v2",
+      "relevance": {
+        "relevant": true,
+        "score": 6,
+        "reason": "The paper connects stochastic gravitational-wave backgrounds with ultralight dark matter physics, touching two of the researcher's core interests (early-universe cosmology/GW backgrounds and dark matter models), though it focuses on vector DM rather than axion DM and on post-inflationary perturbation mixing rather than pre-thermalization mechanisms.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2601.22220v2",
+      "base_id": "2601.22220",
+      "title": "Subsolar mass black holes from stellar collapse induced by primordial black holes",
+      "authors": [
+        "Thomas W. Baumgarte",
+        "Stuart L. Shapiro"
+      ],
+      "abstract": "While no gravitational-wave detection of subsolar mass black holes has been confirmed to date, a number of candidate detections invite us to speculate on the origin of such black holes should a detection be confirmed. It is generally assumed that the observation of a black hole with subsolar mass $M_{\\rm obs}$ would provide strong evidence for primordial black holes (PBHs). The mass $M_{\\rm PBH}$ of the PBH, however, does not necessarily have to be equal to $M_{\\rm obs}$, as it would in what we term a ``direct PBH scenario\". Instead, a black hole of mass $M_{\\rm obs}$ may form in a capture of a much smaller primordial black hole, $M_{\\rm PBH} \\ll M_{\\rm obs}$, by a dwarf star of mass $M_* \\simeq M_{\\rm obs}$, followed by the total consumption of the star by the PBH. We provide some rough estimates and demonstrate that such an ``indirect PBH scenario\" may also lead to significant populations of black holes with mass $M_{\\rm obs}$, especially in dwarf galaxies, and may be able to explain rare subsolar mass events.",
+      "categories": [
+        "astro-ph.HE",
+        "gr-qc"
+      ],
+      "published": "2026-01-29T19:00:01+00:00",
+      "updated": "2026-04-24T00:31:33+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.22220v2",
+      "html_url": "https://arxiv.org/html/2601.22220v2",
+      "entry_url": "http://arxiv.org/abs/2601.22220v2",
+      "relevance": {
+        "relevant": true,
+        "score": 5,
+        "reason": "The paper discusses primordial black holes (a core interest), but focuses on astrophysical stellar capture scenarios and gravitational-wave signatures rather than the particle-physics aspects you study such as Hawking evaporation, BBN constraints, or high-energy particle production.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2604.22735v1",
+      "base_id": "2604.22735",
+      "title": "Non-linear geometry of multiple zeta values",
+      "authors": [
+        "Francis Brown"
+      ],
+      "abstract": "Since their rediscovery in the 1990s, multiple zeta values have become ubiquitous in many areas of mathematics and physics. Their standard integral and sum representations can usually be traced back to a single source, namely the iterated integrals on the Riemann sphere with three punctures. We refer to such representations as the \\emph{linear} geometry of multiple zeta values, since the denominators of the corresponding integrands factor completely into linear terms.   However, there also exist equally important and entirely distinct integral representations for multiple zeta values arising in mathematics and physics, in which matrix determinants appear in the denominator of the integrand. We call this the \\emph{non-linear} geometry of multiple zeta values. These lectures trace the origins of this non-linear geometry and provide an introductory journey through a range of topics including tropical geometry, the moduli spaces of tropical curves, Feynman integrals in quantum field theory, the general linear group of integer matrices, and the reduction theory of quadratic forms. In doing so, we propose a geometric framework for multiple zeta values based on such non-linear, determinantal representations and set out a number of open questions for future research.",
+      "categories": [
+        "math.NT",
+        "hep-th",
+        "math-ph",
+        "math.AG"
+      ],
+      "published": "2026-04-24T17:29:40+00:00",
+      "updated": "2026-04-24T17:29:40+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.22735v1",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2604.22735v1",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "Multiple zeta values appear in multi-loop Feynman integral calculations and are closely related to harmonic polylogarithms used in the researcher's perturbative QCD work, though this paper is primarily mathematical in nature.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2604.22725v1",
+      "base_id": "2604.22725",
+      "title": "Gauge-independent approach to inflation in quadratic gravity",
+      "authors": [
+        "Adrian Palomares",
+        "Ying-li Zhang",
+        "Jinsu Kim"
+      ],
+      "abstract": "We investigate the scalar sector of linear cosmological perturbations in quadratic gravity. Working in the Einstein frame, we derive the equations of motion in a gauge-independent manner and express them in terms of three sets of gauge-invariant variables. This approach allows us to distinguish genuine physical effects from gauge artefacts, which is particularly relevant for assessing the stability of perturbations in this theory. In the superhorizon limit, we obtain the leading-order behaviour of the relevant gauge-invariant variables and analyse the perturbations in several commonly used gauges. We find that the Newtonian gauge exhibits an apparent instability, characterised by the exponential growth of the metric perturbations. However, this growth is non-generic and gauge-dependent; in the other gauges analysed in this work, the perturbations remain well behaved within the perturbative regime. Physical observables can thus be consistently computed, and the apparent instability is identified as a gauge artefact rather than a pathology of the theory. Our analysis also demonstrates how the evolution behaviour of a gauge-invariant variable changes under the frame transformation and clarifies the relation between results obtained in the Jordan and Einstein frames.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2026-04-24T17:23:52+00:00",
+      "updated": "2026-04-24T17:23:52+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.22725v1",
+      "html_url": "https://arxiv.org/html/2604.22725v1",
+      "entry_url": "http://arxiv.org/abs/2604.22725v1",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "The paper falls within early-universe cosmology and inflation, which is one of the researcher's core interests, but its focus on gauge-theoretic aspects of perturbations in quadratic gravity is more formal/mathematical than the researcher's phenomenological interests in reheating dynamics, gravitational-wave backgrounds, and PBH-related topics.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2504.12855v2",
+      "base_id": "2504.12855",
+      "title": "Amplitudes and partial wave unitarity bounds",
+      "authors": [
+        "Luigi C. Bresciani",
+        "Gabriele Levati",
+        "Paride Paradisi"
+      ],
+      "abstract": "We develop a formalism, based on spinor-helicity techniques, to generalize the formulation of partial wave unitarity bounds. We discuss unitarity bounds for $N \\to M$ (with $N,M \\geq 2$) scattering processes -- relevant for high-energy future colliders -- and spin-2 or higher-spin theories -- relevant for effective field theories of gravity -- that are not approachable by standard methods. Moreover, we emphasize the power and complementarity of positivity and partial wave unitarity bounds to constrain the parameter space of effective field theories.",
+      "categories": [
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2025-04-17T11:22:34+00:00",
+      "updated": "2026-04-24T22:12:29+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2504.12855v2",
+      "html_url": "https://arxiv.org/html/2504.12855v2",
+      "entry_url": "http://arxiv.org/abs/2504.12855v2",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "While the paper deals with EFT constraints on electroweak operators relevant to future colliders and uses on-shell amplitude methods that loosely connect to the researcher's interest in computational HEP tools, its focus on formal partial wave unitarity bounds via spinor-helicity techniques is tangential to the researcher's core interests in neutrino physics, cosmology, axion/dark matter, and multi-loop perturbative QCD calculations.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2604.22918v1",
+      "base_id": "2604.22918",
+      "title": "Kinematic Flow for Banana Loops and Unparticles",
+      "authors": [
+        "Tom Westerdijk",
+        "Chen Yang"
+      ],
+      "abstract": "We extend kinematic flow to momentum-integrated loop-level cosmological correlators, focusing on banana loops of conformally coupled scalars in power-law cosmologies and, in de Sitter, on arbitrary mixtures of massless and conformally coupled scalars. Exploiting their dual description as tree-level exchanges of unparticles, we show that the associated correlators are described by a finite set of master integrals obeying a first-order system of differential equations. The corresponding basis is constructed from tubings of marked graphs and is distinguished by the appearance of nested tubes and an arborescence ordering of the vertices. We derive the connection matrices from four combinatorial rules -- activation, merger, swap, and copy. The last two are unique to unparticle exchanges: they induce richer mixing among basis functions and introduce new kinematic letters. Our framework extends systematically to arbitrarily complicated configurations, including necklace diagrams, and establishes unparticle exchange as a distinct class of kinematic flow.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2026-04-24T18:00:01+00:00",
+      "updated": "2026-04-24T18:00:01+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.22918v1",
+      "html_url": "https://arxiv.org/html/2604.22918v1",
+      "entry_url": "http://arxiv.org/abs/2604.22918v1",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "The paper develops differential equation methods for cosmological loop integrals, which has methodological overlap with the user's interest in differential equation methods for multi-loop perturbative calculations, but the application domain (cosmological correlators/inflationary bootstrap) is peripheral to the user's core focus on QCD corrections, neutrino physics, and reheating-era cosmology.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2604.22681v1",
+      "base_id": "2604.22681",
+      "title": "The potential of directional neutrino detection to observe neutrino spin oscillations",
+      "authors": [
+        "Konstantin A. Kouzakov",
+        "Fedor M. Lazarev",
+        "Alexander I. Studenikin"
+      ],
+      "abstract": "A nonzero neutrino magnetic moment arises already in the minimally extended Standard Model with right-handed massive Dirac neutrinos. The well-known consequence of the neutrino magnetic moment is the phenomenon of neutrino spin oscillations in a magnetic field. It can manifest itself not only as a lack in the flux of active cosmic neutrinos arriving on Earth but also as characteristic features in low-energy neutrino elastic scattering processes. Following our approach developed earlier, in this work we study the influence of arbitrary spin-flavor state of incoming neutrino on low-energy neutrino scattering off different particles in a detector. We demonstrate that superposition of left- and right-handed helicity neutrino states gives rise to an azimuthal asymmetry in the angular distribution of the recoil momenta. We present numerical calculations for elastic neutrino scattering on electrons, protons and 40Ar and 132Xe nuclei, demonstrating the azimuthal-asymmetry effect. Our results indicate the unique potential of directional neutrino detection to observe the neutrino spin oscillations.",
+      "categories": [
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2026-04-24T16:03:23+00:00",
+      "updated": "2026-04-24T16:03:23+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.22681v1",
+      "html_url": "https://arxiv.org/html/2604.22681v1",
+      "entry_url": "http://arxiv.org/abs/2604.22681v1",
+      "relevance": {
+        "relevant": true,
+        "score": 3,
+        "reason": "While the paper concerns neutrino physics and mentions JUNO, its focus on neutrino electromagnetic properties (magnetic moments, spin oscillations) and directional detection of azimuthal asymmetries is peripheral to the user's core interests in HNLs, solar antineutrinos from self-interactions, and JUNO flavor-oscillation phenomenology.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2604.22665v1",
+      "base_id": "2604.22665",
+      "title": "The Sound of the Universe: A Resonant Gravitational Instability Driven by Baryon-Dark Matter Relative Drift",
+      "authors": [
+        "Mohamad Shalaby",
+        "Avery Broderick"
+      ],
+      "abstract": "Dark matter and baryons acquire a relative velocity after decoupling in the early Universe. Baryons are gravitationally unstable only above their Jeans scale, while cold dark matter (CDM) is unstable on all scales. We show for the first time that their relative drift triggers a resonant gravitational instability that drives sound waves in baryons. When the projected DM drift is subsonic, the stable oscillatory branch of baryons resonates with the Doppler-shifted DM mode, producing exponentially growing perturbations whose growth rates exceed the intrinsic CDM growth rate. The instability peaks below the baryon Jeans scale and, in baryon-dominated environments, opens a window of complete stability between the Jeans scale and the resonance. Supersonic drift suppresses growth, as previously noted. The resonant coupling also transfers momentum between the species, creating a non-viscous, collisionless drag. We derive an accurate analytical approximation for the growth rate at resonance and show that the associated timescales range from years to tens of millions of years across diverse environments -- planets, protoplanetary disks, stars, molecular clouds, galaxies, and galaxy clusters -- typically much shorter than their ages. In an expanding FLRW universe, the instability enhances baryon density perturbations at different redshifts for appropriately oriented modes while suppressing the growth of those aligned with the DM stream. The universe thus sings across all scales, and this resonant mechanism provides the means to listen: it offers a novel probe of dark matter through its seismic imprint on astrophysical objects and may explain long-standing puzzles such as the persistence of spiral arms and the heating of the intracluster medium in galaxy clusters.",
+      "categories": [
+        "astro-ph.GA",
+        "astro-ph.CO",
+        "astro-ph.EP",
+        "astro-ph.IM",
+        "astro-ph.SR"
+      ],
+      "published": "2026-04-24T15:42:32+00:00",
+      "updated": "2026-04-24T15:42:32+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.22665v1",
+      "html_url": "https://arxiv.org/html/2604.22665v1",
+      "entry_url": "http://arxiv.org/abs/2604.22665v1",
+      "relevance": {
+        "relevant": true,
+        "score": 3,
+        "reason": "While the paper touches on dark matter physics and early-universe cosmology (two of the researcher's interests), it is primarily an astrophysical fluid dynamics study of gravitational instability between baryons and dark matter streams, with no connection to the researcher's core focus on particle-physics aspects like axion detection, neutrino phenomenology, primordial black holes, or perturbative QCD calculations.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2604.22608v1",
+      "base_id": "2604.22608",
+      "title": "Recent Developments in SMEFT: Theory, Tools, and Phenomenology",
+      "authors": [
+        "Michał Ryczkowski"
+      ],
+      "abstract": "Despite the remarkable success of the Standard Model in describing fundamental interactions, unresolved phenomena such as dark matter, dark energy, and matter-antimatter asymmetry strongly suggest the existence of physics beyond the Standard Model. The absence of new particle discoveries at the LHC indicates that such New Physics may be significantly heavier than the electroweak scale. In this context, Effective Field Theories offer a powerful framework for studying the indirect effects of heavy New Physics. This contribution reviews some of the recent advancements, computational tools, and phenomenology of Effective Field Theories, with a particular focus on the Standard Model Effective Field Theory.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-04-24T14:34:33+00:00",
+      "updated": "2026-04-24T14:34:33+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.22608v1",
+      "html_url": "https://arxiv.org/html/2604.22608v1",
+      "entry_url": "http://arxiv.org/abs/2604.22608v1",
+      "relevance": {
+        "relevant": true,
+        "score": 3,
+        "reason": "This review paper on SMEFT tools and phenomenology has marginal relevance: it touches on computational tools for HEP (SmeftFR, automated matching) and electroweak precision calculations, which overlap with the user's interest in HEP computational tools and EW precision calculations, but the core topics (SMEFT/HEFT frameworks, on-shell amplitude methods) are not among the user's primary research areas.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2604.22961v1",
+      "base_id": "2604.22961",
+      "title": "The Oort Cloud as a Gravitational Detector for Primordial Black Holes",
+      "authors": [
+        "Sohrab Rahvar"
+      ],
+      "abstract": "Planetary systems can act as sensitive gravitational detectors for dark matter. We investigate the gravitational scattering of Oort cloud objects by primordial black holes (PBHs) as a potential component of the Galactic dark matter halo. Calculating the rates at which PBH encounters eject objects from the Oort cloud or inject them into Earth crossing orbits, we find a linear scaling $Γ\\propto m_{\\mathrm{PBH}}$ for $m_{\\mathrm{PBH}} \\gtrsim 10^{-10} M_\\odot$. For $m_{\\mathrm{PBH}} \\sim 10^3 M_\\odot$, PBHs constituting all local dark matter would eject $\\sim1.3\\times10^{12}$ objects over the Solar System's lifetime, comparable to the total Oort cloud population and inject $\\sim2.6\\times10^{10}$ objects into Earth-crossing orbits. Comparing these rates with observational constraints from long period comet fluxes and terrestrial impact records, we derive upper limits on the PBH dark matter fraction $f_{\\mathrm{PBH}}$. Our most stringent constraints exclude $f_{\\mathrm{PBH}}=1$ for $10^2 M_\\odot \\lesssim m_{\\mathrm{PBH}} \\lesssim 10^5 M_\\odot$, with $f_{\\mathrm{PBH}} \\lesssim 0.002$ at $m_{\\mathrm{PBH}} = 10^3 M_\\odot$. For the asteroid mass window ($10^{17}$-$10^{23}$ g), scattering rates are far too low to produce observable effects. These Solar System-based constraints complement existing astrophysical probes and demonstrate that planetary systems can serve as sensitive gravitational detectors for compact dark matter.",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.EP",
+        "astro-ph.SR"
+      ],
+      "published": "2026-04-24T19:07:48+00:00",
+      "updated": "2026-04-24T19:07:48+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.22961v1",
+      "html_url": "https://arxiv.org/html/2604.22961v1",
+      "entry_url": "http://arxiv.org/abs/2604.22961v1",
+      "relevance": {
+        "relevant": true,
+        "score": 3,
+        "reason": "While the paper concerns primordial black holes—a core interest—the focus is on gravitational scattering constraints from Solar System dynamics rather than the user's specific PBH interests (Hawking evaporation, BBN constraints, high-energy neutrino/UHECR production, or dark sector decay channels), making it only tangentially related.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    }
+  ]
+}

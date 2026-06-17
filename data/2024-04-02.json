@@ -1,0 +1,31 @@
+{
+  "date": "2024-04-02",
+  "papers": [
+    {
+      "arxiv_id": "2404.02131v2",
+      "base_id": "2404.02131",
+      "title": "Detecting Gravitational Wave Memory in the Next Galactic Core-Collapse Supernova",
+      "authors": [
+        "Colter J. Richardson",
+        "Haakon Andresen",
+        "Anthony Mezzacappa",
+        "Michele Zanolin",
+        "Michael G. Benjamin",
+        "Pedro Marronetti",
+        "Eric J. Lentz",
+        "Marek J. Szczepanczyk"
+      ],
+      "abstract": "We present an approach to detecting (linear) gravitational wave memory in a Galactic core-collapse supernova using current interferometers. Gravitational wave memory is an important prediction of general relativity that has yet to be confirmed. Our approach uses a combination of Linear Prediction Filtering and Matched-Filtering. We present the results of our approach on data from core-collapse supernova simulations that span a range of progenitor mass and metallicity. We are able to detect gravitational wave memory out to 10 kpc. We also present the False Alarm Probabilities assuming an On-Source Window compatible with the presence of a neutrino detection.   Errata: The neutrino-induced gravitational waveforms, a component of the total waveforms used to demonstrate the efficacy of the proposed detection method for gravitational wave memory, were computed incorrectly. They were underestimated by a factor of $4π$. As a result, the detection results improve and, most important, our primary conclusions are reinforced. In particular, with the corrected waveforms, see Fig. 1 and Fig. 3, the signal for D9.6-3D is in fact detectable at 1 kiloparsec, see Fig. 6 and Fig. 4. The corrected fit parameters are presented in Table 1. The false alarm probability for all three signals is impacted, as shown in Fig. 5. Fig. 5 demonstrates that our proposed method can reliably detect the D9.6-3D signal at 1 kpc for all cutoff values, but our conclusions regarding the inability to detect this signal at 10 and 100 kpc remain the same. We see a boost in the detectability of the D15-3D and D25-3D signals. We now obtain a lower false alarm probability at 10 and 100 kpc. The authors would like to acknowledge Lella et al. [87] for pointing out the discrepancy between our computed neutrino-induced waveforms and theirs, which prompted us to investigate the discrepancy and which led to the discovery of our error.",
+      "categories": [
+        "astro-ph.HE",
+        "gr-qc"
+      ],
+      "published": "2024-04-02T17:39:31+00:00",
+      "updated": "2026-06-12T17:27:53+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2404.02131v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2404.02131v2"
+    }
+  ],
+  "total": 1
+}

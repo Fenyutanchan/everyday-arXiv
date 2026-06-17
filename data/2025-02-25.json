@@ -1,0 +1,30 @@
+{
+  "date": "2025-02-25",
+  "papers": [
+    {
+      "arxiv_id": "2502.19445v3",
+      "base_id": "2502.19445",
+      "title": "Nilpotent cohomological Hall algebras of surfaces",
+      "authors": [
+        "Duiliu-Emanuel Diaconescu",
+        "Mauro Porta",
+        "Francesco Sala",
+        "Olivier Schiffmann",
+        "Eric Vasserot"
+      ],
+      "abstract": "This paper develops a framework for systematically studying cohomological \"Hecke operators\" associated with modifications of coherent sheaves on a smooth surface $X$ along a fixed proper curve $Z \\subset X$ (possibly singular and reducible), using the theory of cohomological Hall algebras.   More precisely, we construct a moduli stack of coherent sheaves $\\mathbf{Coh}(\\widehat{X}_Z)$ on $X$ with set-theoretic support $Z$ and we prove that its reduced is an Artin stack locally of finite type. This provides a vast generalization of the global nilpotent cone. Subsequently, we develop the needed background to define the (motivic, $T$-equivariant) cohomological Hall algebra $\\mathbf{HA}^{T}_{X,Z}$ of the moduli stack of coherent sheaves on $X$ with set-theoretic support on $Z$, in the setting of a general motivic formalism $\\mathbf{D}$ in the sense of Khan. The algebra $\\mathbf{HA}^{\\mathbf{D}, A}_{X,Z}$ is functorial with respect to closed immersions $Z' \\subset Z$ and transformations of the motivic formalism $\\mathbf{D}$, and only depends on the formal neighborhood $\\widehat{X}_Z$ of $Z$ in $X$.   In the companion paper arXiv:2603.03386, we use the nilpotent COHA $\\mathbf{HA}^{T}_{X,Z}$ to answer a question previously raised in arXiv:2004.13685 about the precise relationship between the COHA of a minimal resolution of a Kleinian singularity and the corresponding preprojective COHA.",
+      "categories": [
+        "math.AG",
+        "hep-th",
+        "math.QA",
+        "math.RT"
+      ],
+      "published": "2025-02-25T09:39:43+00:00",
+      "updated": "2026-06-08T09:34:39+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2502.19445v3",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2502.19445v3"
+    }
+  ],
+  "total": 1
+}

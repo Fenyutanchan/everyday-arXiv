@@ -1,0 +1,101 @@
+{
+  "date": "2025-06-01",
+  "papers": [
+    {
+      "arxiv_id": "2506.00758v2",
+      "base_id": "2506.00758",
+      "title": "Dimensional reduction for sampled priors and application to photometric redshift distributions",
+      "authors": [
+        "Gary Bernstein",
+        "William Assignies Doumerg",
+        "Michael A. Troxel",
+        "Alex Alarcon",
+        "Alexandra Amon",
+        "Giulia Giannini",
+        "Boyan Yin",
+        "Sahar Allam",
+        "Felipe Andrade-Oliveira",
+        "David Brooks",
+        "Aurelio Carnero Rosell",
+        "Jorge Carretero",
+        "Luiz da Costa",
+        "Maria Elidaiana da Silva Pereira",
+        "Juan De Vicente",
+        "Spencer Everett",
+        "Josh Frieman",
+        "Juan Garcia-Bellido",
+        "Daniel Gruen",
+        "Samuel Hinton",
+        "Devon L. Hollowood",
+        "Klaus Honscheid",
+        "David James",
+        "Sujeong Lee",
+        "Jennifer Marshall",
+        "Juan Mena-Fernández",
+        "Ramon Miquel",
+        "Andrés Plazas Malagón",
+        "Eusebio Sanchez",
+        "David Sanchez Cid",
+        "Ignacio Sevilla",
+        "Tae-hyeon Shin",
+        "Mathew Smith",
+        "Eric Suchyta",
+        "Molly Swanson",
+        "Noah Weaverdyck",
+        "Jochen Weller",
+        "Philip Wiseman"
+      ],
+      "abstract": "A typical Bayesian inference on the values of some parameters of interest $\\bf q$ from some data $D$ involves running a Markov Chain (MC) to sample from the posterior $p({\\bf q},{\\bf n} | D) \\propto \\mathcal{L}(D | {\\bf q},{\\bf n}) p({\\bf q}) p({\\bf n}),$ where $\\bf n$ are some nuisance parameters with separable prior. In some cases, the nuisance parameters are high-dimensional, and their prior $p({\\bf n})$ is itself defined only by a set of samples that have been drawn from some other MC. The MC for the posterior will typically require evaluation of $p({\\bf n})$ at arbitrary values of ${\\bf n},$ i.e.\\ one needs to provide a density estimator over the full $\\bf n$ space from the provided samples. But the high dimensionality of $\\bf n$ hinders both the density estimation and the efficiency of the MC for the posterior. We describe a solution to this problem: a linear compression of the $\\bf n$ space into a much lower-dimensional space $\\bf u$ which projects away directions in $\\bf n$ space that cannot appreciably alter $\\mathcal{L}.$ The algorithm for doing so is a slight modification to principal components analysis, and is less restrictive on $p(\\bf n)$ than other proposed solutions to this issue. We demonstrate this ``mode projection'' technique using the analysis of 2-point correlation functions of weak lensing fields and galaxy density in the \\textit{Dark Energy Survey}, where $\\bf n$ is a binned representation of the redshift distribution $n(z)$ of the galaxies.",
+      "categories": [
+        "astro-ph.IM",
+        "astro-ph.CO"
+      ],
+      "published": "2025-06-01T00:09:30+00:00",
+      "updated": "2026-04-28T14:04:07+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.00758v2",
+      "html_url": "https://arxiv.org/html/2506.00758v2",
+      "entry_url": "http://arxiv.org/abs/2506.00758v2"
+    },
+    {
+      "arxiv_id": "2506.01035v2",
+      "base_id": "2506.01035",
+      "title": "Finite Curvature Construction of Regular Black Holes and Quasinormal Mode Analysis",
+      "authors": [
+        "Chen Lan",
+        "Zhen-Xiao Zhang",
+        "Hao Yang"
+      ],
+      "abstract": "We develop a class of regular black holes by prescribing finite curvature invariants and reconstructing the corresponding spacetime geometry. Two distinct approaches are employed: one based on the Ricci scalar and the other on the Weyl scalar. In each case, we explore a variety of analytic profiles for the curvature functions, including Gaussian, hyperbolic secant, and rational forms, ensuring regularity, asymptotic flatness, and compatibility with dominant energy conditions. The resulting mass functions yield spacetime geometries free from curvature singularities and exhibit horizons depending on model parameters. To assess the stability of these solutions, we perform a detailed analysis of quasinormal modes (QNMs) under axial gravitational perturbations. We show that the shape of the effective potential, particularly its width and the presence of potential valleys, plays a critical role in determining the QNMs. Models with a large peak-to-valley ratio in the potential barrier exhibit stable, exponentially decaying waveforms, while a small ratio may induce late-time instabilities. Our results highlight the significance of potential design in constructing physically viable and dynamically stable regular black holes, offering potential observational implications in modified gravity and quantum gravity scenarios.",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2025-06-01T14:33:43+00:00",
+      "updated": "2026-05-20T00:27:25+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.01035v2",
+      "html_url": "https://arxiv.org/html/2506.01035v2",
+      "entry_url": "http://arxiv.org/abs/2506.01035v2"
+    },
+    {
+      "arxiv_id": "2506.01152v2",
+      "base_id": "2506.01152",
+      "title": "New insights on low-mass dark matter subhalo tidal tracks via numerical simulations",
+      "authors": [
+        "Alejandra Aguirre-Santaella",
+        "Miguel A. Sánchez-Conde",
+        "Go Ogiya"
+      ],
+      "abstract": "Many studies assert that dark matter (DM) subhaloes without a baryonic counterpart and with an inner cusp always survive no matter the strength of the tidal force they undergo. In this work, we perform a suite of numerical simulations specifically designed to analyse the evolution of $V_\\mathrm{max}$, $r_\\mathrm{max}$ and concentration of low-mass DM subhaloes due to tidal stripping. We employ the improved version of the DASH code, introduced in our previous work arXiv:2207.08652 to investigate subhalo survival. We follow the tidal evolution of a single DM subhalo orbiting a Milky Way (MW)-size halo modeled with a baryonic disc and a bulge replicating the actual mass distribution of the MW. We consider the effect of the time-evolving gravitational potential of the MW itself. We simulate subhaloes with unprecedented accuracy, varying their initial concentration, orbital parameters, and inner slope (both NFW and prompt cusps are considered). Unlike the previous literature, we examine the evolution of subhalo structural parameters -- tidal tracks -- not only at orbit apocentres but also at pericentres, finding in the former case both similarities and differences -- particularly pronounced in the case of prompt cusps. Overall, $r_\\mathrm{max}$ shrinks more than $V_\\mathrm{max}$, leading to a continuous rise of subhalo concentration with time. The velocity concentration at present is found to be around two orders of magnitude higher than the one at infall, being comparatively larger for pericentre tidal tracks versus apocentres. These findings highlight the dominant role of tidal effects in reshaping low-mass DM subhaloes, providing valuable insights for future research via simulations and observations, such as correctly interpreting data from galaxy satellite populations, subhalo searches with gravitational lensing or stellar stream analyses, and indirect DM searches.",
+      "categories": [
+        "astro-ph.GA",
+        "astro-ph.CO"
+      ],
+      "published": "2025-06-01T20:13:28+00:00",
+      "updated": "2026-06-02T13:48:52+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.01152v2",
+      "html_url": "https://arxiv.org/html/2506.01152v2",
+      "entry_url": "http://arxiv.org/abs/2506.01152v2"
+    }
+  ],
+  "total": 3
+}

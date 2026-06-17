@@ -1,0 +1,669 @@
+{
+  "date": "2026-06-01",
+  "total": 24,
+  "papers": [
+    {
+      "arxiv_id": "2606.02039v1",
+      "base_id": "2606.02039",
+      "title": "Tachyonic particle production: quantum 2PI formalism with momentum exchanging collisions",
+      "authors": [
+        "Kimmo Kainulainen",
+        "Sami Nurmi",
+        "Olli Väisänen"
+      ],
+      "abstract": "Oscillating spacetime curvature can drive particle production during reheating, whose accurate modeling requires the use of non-perturbative out-of-equilibrium methods. Tachyonic instabilities have previously been studied using 2-Particle Irreducible (2PI) formalism in the Hartree approximation, which however misses important momentum exchanging interactions. We present a self-consistent approximation scheme for reducing the non-local next-to-leading order 2PI equations of motion to local quantum kinetic equations, which can be solved with standard methods. We pay special attention to interactions involving unstable modes during tachyonic instabilities.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "hep-th"
+      ],
+      "published": "2026-06-01T10:29:45+00:00",
+      "updated": "2026-06-01T10:29:45+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.02039v1",
+      "html_url": "https://arxiv.org/html/2606.02039v1",
+      "entry_url": "http://arxiv.org/abs/2606.02039v1",
+      "relevance": {
+        "relevant": true,
+        "score": 9,
+        "reason": "The paper directly investigates non-perturbative out-of-equilibrium dynamics during cosmic reheating, which strongly aligns with the researcher's core interest in early-universe cosmology and reheating dynamics.",
+        "pass_number": 1,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.02704v1",
+      "base_id": "2606.02704",
+      "title": "Precision Electroweak Constraints on Neutrinophilic Scalars",
+      "authors": [
+        "Saeid Foroughi-Abari",
+        "Camilla Mupo",
+        "Drona Vatsyayan",
+        "Yue Zhang"
+      ],
+      "abstract": "Strong self-interaction among the active neutrinos mediated by a neutrinophilic scalar is a well-motivated target of particle physics and cosmological probes. In this article, we present precision electroweak constraints on models for neutrino self-interaction. We first work in the simplified model where the finite radiative corrections are obtained with the guidance of gauge invariance. These corrections are logarithmically enhanced for small mediator masses. We point out the importance of neutrino charged-current coupling correction and its impact on the $Δr$ parameter and Fermi constant measurements. This effect was overlooked previously and allows us to derive the leading constraint on the neutrinophilic couplings for mediator mass above a few hundred MeV. We investigate the robustness of the result in a concrete UV completion which further includes a TeV-scale $SU(2)_L$ triplet scalar and find the simplified model constraints continue to hold for a wide range of parameter space. We pin down moving parts in the UV complete model and conditions when the contributions from heavy particle loops are no longer negligible. Our results serve as a useful road map for future explorations of the self-interacting neutrino paradigm.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-06-01T18:00:01+00:00",
+      "updated": "2026-06-01T18:00:01+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.02704v1",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2606.02704v1",
+      "relevance": {
+        "relevant": true,
+        "score": 9,
+        "reason": "This paper directly connects two of your core research interests—neutrino self-interactions (which you study in the context of solar antineutrinos) and precision electroweak calculations involving radiative corrections and the Δr parameter—with implications for JUNO phenomenology and cosmological probes of neutrino properties.",
+        "pass_number": 1,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.02485v1",
+      "base_id": "2606.02485",
+      "title": "On the spanning cuts consistency problem in the IBP reductions of Feynman integrals",
+      "authors": [
+        "Zihao Wu",
+        "Yingxuan Xu"
+      ],
+      "abstract": "The spanning cuts method is a powerful approach to reduce the cost of IBP reduction while computing Feynman integrals. However, its usage is limited due to the so-called consistency problem. It was unclear why the IBP reduction coefficients can be inconsistent with each other between different cuts. In this paper, we report a mechanism behind this inconsistency. We found that the IBP relations can be violated under the cuts, if we blindly erase the hidden terms that are proportional to the ``vanishing'' Feynman prescription parameters in the relations. In some cases, the cut introduces pinch singularities, which cancel the vanishing Feynman prescription parameters, making the hidden terms finite. In various cases, the error comes from omitting such finite hidden terms. We also claimed that the pinch singularity under the cuts are related to some hidden relations between the propagators. In this paper, we provide an algorithm and its implementation to find the linear hidden relations.",
+      "categories": [
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2026-06-01T16:54:46+00:00",
+      "updated": "2026-06-01T16:54:46+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.02485v1",
+      "html_url": "https://arxiv.org/html/2606.02485v1",
+      "entry_url": "http://arxiv.org/abs/2606.02485v1",
+      "relevance": {
+        "relevant": true,
+        "score": 8,
+        "reason": "The paper addresses a technical problem in IBP reduction of Feynman integrals, which is directly relevant to the user's work on multi-loop perturbative calculations and computational tools for high-energy physics, including Feynman integral topology construction.",
+        "pass_number": 1,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.24715v2",
+      "base_id": "2605.24715",
+      "title": "Gravitational Waves from Post-Inflationary Magnetism: Direct and Scalar-Induced Contributions",
+      "authors": [
+        "Subhasis Maiti"
+      ],
+      "abstract": "We study stochastic gravitational waves generated in a post-inflationary magnetogenesis scenario with time-dependent gauge couplings during inflation and reheating. In this setup, magnetic anisotropic stress directly sources gravitational waves, while the induced curvature perturbations generate an additional scalar-induced GW component. We compare the spectral behavior of the two contributions and find that the magnetic component dominates the peak amplitude, whereas the scalar-induced contribution becomes important on larger scales. For blue magnetic spectra with $n_{\\rm b}\\geq3/2$, both spectra follow the universal infrared scaling $Ω_{\\rm GW}(f\\ll f_{\\rm peak})\\propto f^3$. However, their ultraviolet behaviors differ significantly for $f>f_{\\rm peak}$, leading to distinct spectral features. For suitable reheating and magnetogenesis parameters, the resulting GW signal naturally extends into the nano-Hz range relevant for pulsar timing array observations, while remaining consistent with current bounds. The distinct spectral features of the two components may provide a useful probe of reheating dynamics and primordial magnetogenesis.",
+      "categories": [
+        "astro-ph.CO",
+        "hep-ph"
+      ],
+      "published": "2026-05-23T20:01:09+00:00",
+      "updated": "2026-06-01T16:00:02+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.24715v2",
+      "html_url": "https://arxiv.org/html/2605.24715v2",
+      "entry_url": "http://arxiv.org/abs/2605.24715v2",
+      "relevance": {
+        "relevant": true,
+        "score": 8,
+        "reason": "This paper directly addresses stochastic gravitational-wave backgrounds and cosmic reheating dynamics—two of the researcher's core early-universe cosmology interests—with additional relevance through its scalar-induced GW contributions and connections to PTA observations.",
+        "pass_number": 1,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2504.13724v2",
+      "base_id": "2504.13724",
+      "title": "Bubble wall velocity from Kadanoff-Baym equations: fluid dynamics and microscopic interactions",
+      "authors": [
+        "Michael J. Ramsey-Musolf",
+        "Jiang Zhu"
+      ],
+      "abstract": "We establish a first principles, systematic framework for determining the bubble wall velocity during a first order cosmological phase transition. This framework, based on non-local Kadanoff-Baym equations, incorporates both macroscopic fluid dynamics and microscopic interactions between the bubble wall and particles in the plasma. Previous studies have generally focused on one of these two sources of friction pressure that govern the wall velocity. As a precursor, we utilize background field quantum field theory to obtain the relevant local Boltzmann equations, from which we derive the forces associated with variation of particle masses across the bubble wall and the microscopic wall-particle interactions. We subsequently show how these equations emerge from the Kadanoff-Baym framework under various approximations. We apply this framework in the ballistic regime to compute the new friction force arising from the $2\\rightarrow 2$ scattering processes in scalar field theory. We obtain a linear relationship between this force and the Lorentz factor $γ_w$ that would preclude runaway bubbles with such effects.",
+      "categories": [
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2025-04-18T14:50:01+00:00",
+      "updated": "2026-06-01T05:43:16+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2504.13724v2",
+      "html_url": "https://arxiv.org/html/2504.13724v2",
+      "entry_url": "http://arxiv.org/abs/2504.13724v2",
+      "relevance": {
+        "relevant": true,
+        "score": 8,
+        "reason": "This paper is highly relevant to your early-universe cosmology interests, specifically your work on stochastic gravitational-wave backgrounds and phase transition dynamics, as it develops a first-principles framework for computing bubble wall velocities during first-order cosmological phase transitions—which directly impacts gravitational wave spectral predictions and electroweak baryogenesis scenarios.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.02744v1",
+      "base_id": "2606.02744",
+      "title": "IterInt: Evaluating iterated integrals via differential equations",
+      "authors": [
+        "Gideon Baur",
+        "Claude Duhr"
+      ],
+      "abstract": "We introduce IterInt, a novel package implemented in both Mathematica and C++ for the numerical evaluation of iterated integrals involving arbitrary integration kernels. After the user has defined the integration kernels, IterInt transforms the iterated integrals into a system of first-order linear differential equations which can be solved efficiently and with high precision using well established libraries. IterInt is also able to automatically perform shuffle-regularisation. This makes it possible to evaluate also integrals where the integrand has a pole at the starting point of the integration path. As an illustration of our code, and also to validate it and gauge its performance, we compare the output of IterInt to the results obtained by GiNaC for ordinary and elliptic multiple polylogarithms, and also to existing results for the first few orders for banana integrals with up to four loops.",
+      "categories": [
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2026-06-01T18:08:40+00:00",
+      "updated": "2026-06-01T18:08:40+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.02744v1",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2606.02744v1",
+      "relevance": {
+        "relevant": true,
+        "score": 8,
+        "reason": "IterInt is directly relevant to the user's work on multi-loop perturbative calculations and computational tools for HEP, as it provides a new method for evaluating iterated integrals via differential equations—a technique the user explicitly lists as a core interest—and handles polylogarithmic structures ubiquitous in higher-order calculations.",
+        "pass_number": 1,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.02706v1",
+      "base_id": "2606.02706",
+      "title": "Majoron Dark Matter, High-Scale Seesaw, and Leptogenesis",
+      "authors": [
+        "Brian Batell",
+        "Arnab Dasgupta",
+        "Swapnil Dutta",
+        "Akshay Ghalsasi"
+      ],
+      "abstract": "We study the cosmology and observational probes of majoron dark matter in a high-scale seesaw framework with spontaneously broken lepton number. Right-handed neutrinos naturally generate light neutrino masses and can realize thermal leptogenesis, while the associated majoron is a light pseudo-Nambu-Goldstone boson that can be cosmologically stable and serve as a viable dark matter candidate for sub-MeV masses. We analyze both pre-inflationary and post-inflationary histories of lepton number breaking. In the pre-inflationary scenario, majoron dark matter is produced by misalignment and constrained by CMB isocurvature. In the post-inflationary scenario, the majoron abundance receives nonthermal contributions from spatially averaged misalignment, majoron radiation from global cosmic strings, and the collapse of the string-domain wall network, as well as a thermally produced component. This scenario can also be probed by future searches for the stochastic gravitational wave background produced by cosmic strings. We map the viable majoron dark matter parameter space and examine complementary probes from X-ray and soft gamma ray searches for majoron decays to photons, black hole superradiance, and Lyman-$α$ forest observations. These results demonstrate that majoron dark matter offers a distinctive cosmological probe of high-scale lepton number breaking and thermal leptogenesis.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-06-01T18:00:02+00:00",
+      "updated": "2026-06-01T18:00:02+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.02706v1",
+      "html_url": "https://arxiv.org/html/2606.02706v1",
+      "entry_url": "http://arxiv.org/abs/2606.02706v1",
+      "relevance": {
+        "relevant": true,
+        "score": 8,
+        "reason": "The paper connects to multiple core interests including stochastic gravitational-wave backgrounds from cosmic strings, neutrino physics (seesaw mechanism and right-handed neutrinos), early-universe cosmology (leptogenesis and post-inflationary scenarios), and dark matter with the majoron as an axion-like pseudo-Nambu-Goldstone boson produced via misalignment.",
+        "pass_number": 1,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2512.19668v2",
+      "base_id": "2512.19668",
+      "title": "Are Primordial Black Holes Truly Fine-Tuned?",
+      "authors": [
+        "A. J. Iovino",
+        "A. Riotto"
+      ],
+      "abstract": "Single-field inflationary models which generate primordial black holes through the enhancement of the curvature primordial power at small scales are commonly criticized and frequently dismissed because they require a large amount of fine-tuning in the parameters setting the ultra slow-roll phase. However, the standardly adopted definition of fine-tuning has a clear drawback: the more the primordial black hole abundance is small and cosmologically harmless, the larger the parameter space is fine-tuned. A well-defined indicator of fine-tuning should assign large values to scenarios requiring significant parameter adjustment to reproduce the desired primordial black hole abundance, while yielding values of order unity in cases governed by standard sensitivity. Motivated by such arguments, we use the (modified version of) Wilson's naturalness criterion for quantifying the fine-tuning and naturalness and we show that the primordial black hole models are not technically unnatural.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "published": "2025-12-22T18:48:00+00:00",
+      "updated": "2026-06-01T10:28:28+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.19668v2",
+      "html_url": "https://arxiv.org/html/2512.19668v2",
+      "entry_url": "http://arxiv.org/abs/2512.19668v2",
+      "relevance": {
+        "relevant": true,
+        "score": 7,
+        "reason": "The paper broadly addresses primordial black holes and early-universe cosmology, which are core interests, but focuses on the inflationary fine-tuning of their formation rather than the specific phenomenological aspects like Hawking evaporation or BBN constraints mentioned in the profile.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.01580v1",
+      "base_id": "2606.01580",
+      "title": "Primordial black holes spin from cosmological first-order phase transitions",
+      "authors": [
+        "Yu-Shi Hao"
+      ],
+      "abstract": "The stochastic bubble nucleation during cosmological first-order phase transitions leads to variations in the phase transition initiation times across different Hubble volumes, thereby generating non-Gaussian density perturbations in regions with delayed transitions. Based on the accumulation mechanism and the false vacuum island model . This paper investigates the spin angular momentum of primordial black holes formed from nonspherical collapse. By introducing the nucleation history integration method, without assuming a Gaussian distribution, we calculate the expectation values and variances of the semi-axis lengths of overdense ellipsoidal regions, combined with the statistical properties of the velocity shear tensor, we derive the quantitative relationship between the Kerr parameter $a_*$ describing black hole spin and the phase transition parameters , latent heat strength $α$ and phase transition rate $β$. The study finds that the Kerr parameter increases with $α$ and decreases with $β$; estimate the typical the magnitude of $a_*$ can reach $10^{-3}$, which is significantly higher than that of primordial black holes formed in the radiation-dominated era under peak theory, but still lower than that in a matter-dominated era.",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.GA"
+      ],
+      "published": "2026-06-01T02:26:19+00:00",
+      "updated": "2026-06-01T02:26:19+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.01580v1",
+      "html_url": "https://arxiv.org/html/2606.01580v1",
+      "entry_url": "http://arxiv.org/abs/2606.01580v1",
+      "relevance": {
+        "relevant": true,
+        "score": 7,
+        "reason": "This paper is directly relevant to the researcher's core interests in primordial black holes and early-universe cosmology, specifically addressing PBH formation from first-order phase transitions and deriving the Kerr spin parameter as a function of phase transition parameters, which connects to Hawking evaporation spectroscopy and gravitational-wave observability of FOPTs mentioned in the researcher's profile.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.02751v1",
+      "base_id": "2606.02751",
+      "title": "Boosted dark matter via semi-annihilation in a radiative neutrino mass model",
+      "authors": [
+        "Motoko Fujiwara",
+        "Takashi Toma"
+      ],
+      "abstract": "Dark matter particles can be accelerated by annihilation processes such as semi-annihilations and $n \\to m$ ($n > m$) processes when the dark sector is non-minimally extended. Such boosted dark matter can provide a distinctive signature of a non-minimal dark sector, and its experimental detectability has been explored in a model-independent manner in previous work. In this work, we construct an explicit model of boosted dark matter originating from semi-annihilations. A Dirac fermion is identified as the dark matter candidate, which semi-annihilates into a pair of an anti-dark matter particle and a neutrino. The small neutrino masses are also radiatively generated at the two-loop level. Taking into account the relevant experimental and theoretical constraints, we find that the mass of the mediator needs to be $\\mathcal{O}(1)~\\mathrm{MeV}$ for the elastic scattering with protons, so that the cross section is enhanced to $\\mathcal{O}(10^{-36})~\\mathrm{cm}^2$, allowing detection in future experiments such as DUNE and DARWIN.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2026-06-01T18:18:18+00:00",
+      "updated": "2026-06-01T18:18:18+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.02751v1",
+      "html_url": "https://arxiv.org/html/2606.02751v1",
+      "entry_url": "http://arxiv.org/abs/2606.02751v1",
+      "relevance": {
+        "relevant": true,
+        "score": 7,
+        "reason": "The paper connects neutrino physics and dark matter phenomenology in a radiative neutrino mass model, explicitly mentions JUNO as a relevant detector for monochromatic neutrinos from dark matter semi-annihilation, and involves dark sector decay channels—all of which align with the researcher's core interests in neutrino physics, JUNO phenomenology, and dark matter physics.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.02182v1",
+      "base_id": "2606.02182",
+      "title": "Semi-analytical two-loop QCD corrections to $e^+e^-\\to J/ψ+χ_{cJ}$ at B factories",
+      "authors": [
+        "Hao-Yang Liu",
+        "Cong Li",
+        "Wen-Long Sang"
+      ],
+      "abstract": "In this work, we compute the next-to-next-to-leading-order (NNLO) QCD corrections to the process $e^+e^-\\to J/ψ+χ_{cJ}$ at B factories within the NRQCD factorization framework. The helicity amplitudes are obtained via asymptotic expansions around $r=0$ and $r=1$, with $r=16m_c^2/s$. Our asymptotic expressions reproduce the exact numerical results with high accuracy across the entire range $0\\le r \\le 1$, achieving a relative error below $10^{-5}$, which is sufficient for phenomenological applications. Notably, the large logarithmic terms are obtained analytically. We compute the unpolarized cross sections. The $\\mathcal{O}(α_s)$ correction is found to be large, while the $\\mathcal{O}(α_s^2)$ correction for $χ_{c0}$ production amounts to $33\\%$ of the leading-order (LO) cross section, significantly reducing the scale uncertainties. For $χ_{c1}$, the $\\mathcal{O}(α_s)$ and $\\mathcal{O}(α_s^2)$ corrections correspond to $35\\%$ and $-15\\%$, respectively. For $χ_{c2}$, the corresponding corrections are $25\\%$ and $-38\\%$. The large cancellation between the corrections for $χ_{c2}$ brings the NNLO cross section close to the LO prediction. Our prediction for $χ_{c0}$ is consistent with the {\\tt Belle} measurement and agrees with the {\\tt BaBar} data within $2σ$. We also predict the angular distribution parameters $α^J_θ$, which are independent of nonperturbative inputs. A sharp discrepancy between the theory and the {\\tt Belle} measurement is observed for $α^0_θ$, calling for further experimental and theoretical investigations. Moreover, future measurements of the angular distribution parameters for $χ_{c1}$ and $χ_{c2}$ will provide important tests of the theoretical framework.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2026-06-01T12:37:56+00:00",
+      "updated": "2026-06-01T12:37:56+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.02182v1",
+      "html_url": "https://arxiv.org/html/2606.02182v1",
+      "entry_url": "http://arxiv.org/abs/2606.02182v1",
+      "relevance": {
+        "relevant": true,
+        "score": 6,
+        "reason": "The paper is relevant due to its methodological overlap with your interest in multi-loop perturbative QCD, specifically utilizing differential equation methods, asymptotic expansions, and IBP reduction for two-loop calculations.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.02689v1",
+      "base_id": "2606.02689",
+      "title": "Thermal Metastable Strings in One-Scale Models and Gravitational Waves",
+      "authors": [
+        "Arturo de Giorgi",
+        "James Ingoldby",
+        "Valentin V. Khoze",
+        "Jessica Turner"
+      ],
+      "abstract": "Metastable cosmic strings provide a cosmological interpretation of the nanohertz stochastic gravitational wave background reported by Pulsar Timing Array (PTA) experiments. We revisit this scenario in a minimal dark-sector gauge theory, in which a complex Higgs doublet breaks $\\mathrm{SU}(2)\\times\\mathrm{U}(1)\\to\\mathrm{U}(1)$ at a single symmetry-breaking scale. This one-scale setup predicts metastable $Z$-strings whose endpoints are monopole-like defects, and whose zero-temperature decay rate is controlled by the gauge couplings and mass ratios. We show that, once the string-forming transition occurs in a thermal plasma, the dominant decay channel is not the zero-temperature monopole nucleation but thermally induced nucleation on the string worldsheet. We determine the nucleation temperature, $T_{\\rm nuc}$, from the one-loop finite-temperature effective potential with daisy resummation, and use it to compute the string formation temperature throughout the model parameter space. Requiring both a viable first-order transition and a PTA-compatible gravitational wave signal selects a narrow region in the model parameter space, in the $(\\sin^2θ_w,\\sqrtβ)$ plane, where $θ_w$ is the dark-sector weak mixing angle and $β\\equiv M_Φ^2/M_{Z}^2$ is the squared Higgs-to-$Z$ mass ratio. Thermal effects modify the zero-temperature picture significantly, shifting the PTA-compatible region towards lower values of the dark fine-structure constant $α'$ and larger values of the monopole-to-string-tension ratio $κ$.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "hep-th"
+      ],
+      "published": "2026-06-01T18:00:00+00:00",
+      "updated": "2026-06-01T18:00:00+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.02689v1",
+      "html_url": "https://arxiv.org/html/2606.02689v1",
+      "entry_url": "http://arxiv.org/abs/2606.02689v1",
+      "relevance": {
+        "relevant": true,
+        "score": 6,
+        "reason": "The paper directly addresses stochastic gravitational-wave backgrounds from early-universe cosmology—a core interest—but focuses specifically on cosmic strings from dark-sector phase transitions rather than the researcher's primary emphases on pre-thermalization gravitational waves, reheating dynamics, PBHs, neutrino physics, or multi-loop QCD calculations.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.22161v2",
+      "base_id": "2605.22161",
+      "title": "Blue-tilted Runnings and the JWST Early Galaxy Tension",
+      "authors": [
+        "Mikage U. Kobayashi",
+        "Gen Chiaki",
+        "Kazutaka Kimura",
+        "Kazuyuki Akitsu",
+        "Kazunori Kohri",
+        "Tomo Takahashi",
+        "Kazuyuki Omukai"
+      ],
+      "abstract": "The recent James Webb Space Telescope (JWST) observations reported the unexpectedly large abundance of massive galaxies with stellar masses of $\\sim 10^{10}~M_{\\odot}$ at high redshifts $z \\simeq 6.5 - 9$ compared with the prediction of the standard $Λ$CDM model. As a possible solution to the tension, we consider a blue-tilted spectrum of density perturbations with a positive running. We find that, for $α_s \\simeq 0.02$ and $β_s \\simeq 0.02$, a joint analysis with CMB observations shows that the tension can be resolved at the 1$σ$ confidence level. Such a blue-tilted spectrum is also plausible from the perspective of primordial black hole formation on much smaller scales in the early Universe.",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.GA",
+        "hep-ph"
+      ],
+      "published": "2026-05-21T08:30:11+00:00",
+      "updated": "2026-06-01T08:46:45+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.22161v2",
+      "html_url": "https://arxiv.org/html/2605.22161v2",
+      "entry_url": "http://arxiv.org/abs/2605.22161v2",
+      "relevance": {
+        "relevant": true,
+        "score": 5,
+        "reason": "The paper touches on primordial black holes (PBHs) and early-universe cosmology through its discussion of blue-tilted primordial power spectra enabling PBH formation, but its primary focus is on astrophysical structure formation and fitting JWST galaxy observations rather than the theoretical particle physics, PBH evaporation, or cosmological bounds that are central to the user's research profile.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.01791v1",
+      "base_id": "2606.01791",
+      "title": "Probing the dark axion portal via $J/ψ$ decays at BESIII and STCF",
+      "authors": [
+        "Zeren Simon Wang",
+        "Dazhuang He",
+        "Yu Zhang"
+      ],
+      "abstract": "Large numbers of $J/ψ$ mesons can be resonantly produced at BESIII and STCF at the center-of-mass energy $\\sqrt{s}=3.097$ GeV. Such $J/ψ$ mesons may undergo rare decays into an axionlike particle (ALP) $a$ and a dark photon $γ'$ in the theoretical framework of the dark axion portal. In this work, we investigate the exclusion reach of the existing BESIII dataset together with the projected sensitivity of STCF, focusing on the mono-photon signature. We perform Monte Carlo simulations and estimate the exclusion reach in the portal coupling $G_{aγγ'}$ as a function of the ALP and dark-photon masses, taking background events into account. Our results indicate that the existing BESIII dataset already has exclusion sensitivity to previously unexplored regions of the dark axion portal parameter space, while the future STCF can further improve the sensitivity by roughly an order of magnitude.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2026-06-01T07:10:54+00:00",
+      "updated": "2026-06-01T07:10:54+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.01791v1",
+      "html_url": "https://arxiv.org/html/2606.01791v1",
+      "entry_url": "http://arxiv.org/abs/2606.01791v1",
+      "relevance": {
+        "relevant": true,
+        "score": 5,
+        "reason": "The paper deals with axionlike particle (ALP) detection strategies through the dark axion portal, which falls within the researcher's listed interest in 'axion detection strategies,' but the specific focus on collider-based BSM phenomenology at BESIII/STCF is tangential to the researcher's primary emphasis on solar axions, astrophysical axion production, early-universe cosmology, and multi-loop perturbative calculations.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.02700v1",
+      "base_id": "2606.02700",
+      "title": "The Life and Death of Stars That Capture Primordial Black Holes",
+      "authors": [
+        "Ore Gottlieb",
+        "Matteo Cantiello",
+        "Cameron Norton",
+        "Ken Van Tilburg",
+        "Matthew Kleban"
+      ],
+      "abstract": "Primordial black holes (PBHs) in the asteroid mass window ($10^{17}-10^{23}\\,{\\rm g}$) remain viable dark matter candidates and can be captured by stars. We develop the first global framework for the evolution of stars that capture PBHs, combining analytic calculations, stellar evolution models, 3D general-relativistic magnetohydrodynamic simulations, and Monte Carlo population synthesis. We find that the fate of these systems bifurcates: PBHs that form an accretion disk before consuming the host drive explosive disruption, whereas PBHs captured too late or growing too slowly consume the star quietly. Capture is dominated by three-body interactions with planetary or stellar companions. For a solar-type host with a Jupiter analog, inspiral within a main-sequence lifetime requires $M_{\\rm BH}^{\\rm crit}\\gtrsim 10^{22}\\,{\\rm g}$, while lighter PBHs generally require tighter companions. Once deposited at the center, the PBH grows through inefficient quasi-spherical Bondi accretion; if it reaches the angular-momentum threshold before consuming the host, the inflow circularizes into a disk. Our Monte Carlo calculations yield sizable quiet-consumption and explosive-disruption populations, with final PBH masses $M_{\\rm BH}\\sim0.01-1\\,M_\\odot$ and disk-forming PBH spins $a_\\ast\\approx0.8$. Disk formation is the point of no return: disk winds and relativistic jets of $\\sim10^{45}-10^{50}\\,{\\rm erg\\,s^{-1}}$ disrupt the star within minutes. The resulting transients may include a $\\sim$day-long UV/blue signal, radio afterglow, and, if the jet escapes, an X-ray-flash/low-luminosity gamma-ray-burst (XRF/llGRB) signal. For an $O(1)$ PBH dark matter fraction and optimistic capture assumptions, the event rate can reach that of llGRBs. The low-mass, high-spin remnants offer a complementary PBH probe and possible source for subsolar BH mergers.",
+      "categories": [
+        "astro-ph.HE",
+        "astro-ph.CO",
+        "astro-ph.SR",
+        "gr-qc"
+      ],
+      "published": "2026-06-01T18:00:00+00:00",
+      "updated": "2026-06-01T18:00:00+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.02700v1",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2606.02700v1",
+      "relevance": {
+        "relevant": true,
+        "score": 5,
+        "reason": "While the paper involves primordial black holes—a topic of interest—the focus is on astrophysical stellar-capture dynamics, Bondi accretion, and observational transients rather than the particle-physics aspects like Hawking evaporation, BBN constraints, or high-energy neutrino production that align with the researcher's PBH interests.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.05916v2",
+      "base_id": "2605.05916",
+      "title": "Squeezed Gravitons and One-Loop Self-Energy under Light-Cone Smearing",
+      "authors": [
+        "Hiroki Matsui"
+      ],
+      "abstract": "We investigate light-cone smearing induced by quantum fluctuations of gravitons and its implications for the ultraviolet structure of quantum field theory. By treating the first-order correction to Synge's world function as an operator, we show that the retarded Green's function is smeared by the variance of graviton fluctuations. The smearing width depends on the quantum state of gravitons: vacuum fluctuations generate a Gaussian smearing of the light cone, coherent states shift the light-cone position, and squeezed states modify the smearing width itself. We then apply the smeared Feynman propagator to one-loop self-energies in interacting scalar field theories. In both the $φ^3$ bubble diagram and the $φ^4$ tadpole diagram, the short-distance singularities responsible for the usual ultraviolet divergences are regularized by a nonzero smearing width. We also estimate the contribution from primordial gravitons generated during inflation and show that it induces a finite correction of order $10^{-10}$ to the one-loop self-energy. Our results suggest that the quantum state of gravitons can leave a finite imprint on the causal and short-distance structure of quantum field theory.",
+      "categories": [
+        "hep-th",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "published": "2026-05-07T09:28:05+00:00",
+      "updated": "2026-06-01T12:02:02+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.05916v2",
+      "html_url": "https://arxiv.org/html/2605.05916v2",
+      "entry_url": "http://arxiv.org/abs/2605.05916v2",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "The paper has some tangential relevance through its discussion of squeezed primordial gravitons from inflation (connecting to the researcher's early-universe cosmology interests) and loop-level perturbative calculations, but its core focus on formal quantum gravity effects on light-cone structure and UV regularization is quite removed from the researcher's phenomenological work on JUNO, neutrino physics, PBHs, and precision multi-loop QCD calculations.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2510.24873v2",
+      "base_id": "2510.24873",
+      "title": "A global analysis of ALP-mediated multiboson production at the LHC",
+      "authors": [
+        "Fabian Esser",
+        "Alexandre Salas-Bernardez",
+        "Maria Ubiali",
+        "Veronica Sanz"
+      ],
+      "abstract": "Axion-like particles (ALPs) provide a well-motivated framework for physics beyond the Standard Model, coupling to gauge bosons through dimension-five operators protected by an approximate shift symmetry. At the LHC, such interactions lead to distinctive signatures in multiboson production, where the ALP appears as an off-shell mediator rather than a narrow resonance. In this work, we present the first global analysis of ALP-mediated multiboson processes, combining measurements of diphoton, ZZ, $W^+ W^-$, dijet, and vector-boson-fusion final states. On the theory side, motivated from a UV perspective, we assume that the ALP couples only to the gauge sector of the SM, and classify the ALP-multiboson vertices that directly govern collider observables. Our results show that the dijet channel dominates the sensitivity to ALP couplings and determines the limits on $c_{\\tilde{G}}$, while diboson and VBF processes provide complementary constraints on the electroweak couplings. We further assess the validity of the EFT expansion given the multi-TeV scales probed in the data. This global study provides the most comprehensive picture to date of ALP-gauge interactions from multiboson production at the LHC, and highlights the opportunities for significant improvements with future high-luminosity datasets.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-10-28T18:22:49+00:00",
+      "updated": "2026-06-01T11:28:44+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.24873v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2510.24873v2",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "While the paper deals with axion-like particles which falls within the researcher's axion physics interests, its focus on LHC collider phenomenology and multiboson production is tangential to the researcher's primary axion interests in solar flux calculations, astrophysical production, and detection strategies.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.02034v1",
+      "base_id": "2606.02034",
+      "title": "The $μ-τ$ Counter Reflection Symmetry",
+      "authors": [
+        "Pralay Chakraborty",
+        "Manash Dey"
+      ],
+      "abstract": "A novel symmetry for the neutrino mass matrix is proposed that naturally accommodates an inverted mass hierarchy while offering additional phenomenological advantages. The corresponding texture can be realized within a minimal framework based on $Δ(27)$ symmetry.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-06-01T10:22:18+00:00",
+      "updated": "2026-06-01T10:22:18+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.02034v1",
+      "html_url": "https://arxiv.org/html/2606.02034v1",
+      "entry_url": "http://arxiv.org/abs/2606.02034v1",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "While the paper discusses neutrino physics and references JUNO (the user's experiment), its primary focus on flavor symmetry model building for the neutrino mass matrix with Δ(27) discrete symmetry diverges from the user's specific interests in HNLs with dark decays, cosmological bounds, and JUNO phenomenology related to BSM scenarios.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.02714v1",
+      "base_id": "2606.02714",
+      "title": "Projected Energy Correlators: Two-Loop Jet Functions and NNLL Resummation",
+      "authors": [
+        "Kyle Lee",
+        "Yibei Li",
+        "Zhen Xu",
+        "Xiaoyuan Zhang"
+      ],
+      "abstract": "We present the next-to-next-to-leading logarithmic (NNLL) collinear resummation of projected $N$-point energy correlators (ENCs) up to $N=6$, matched to fixed-order predictions at NLO, in both electron-positron annihilation and Higgs decay to gluons. The key new ingredient is the two-loop jet function for $N=4,5,6$, which we compute semi-analytically using Integration-by-Parts and differential equations. We further include the leading non-perturbative corrections for ENCs, described by two universal soft matrix elements $\\overlineΩ_{1q},\\overlineΩ_{1g}$ of order $Λ_{\\rm QCD}$, whose evolution is governed by anomalous dimensions for $(N-1)$-point correlators. The matched distributions are compared with parton-shower simulations from Pythia8 and Herwig7, and we study the sensitivity of both the absolute spectra and their ratios to the two-point energy correlator under variations of $α_s$ and $\\overlineΩ_{1q,1g}$. Our results show that higher-point projected energy correlators are now under quantitative control at NNLL accuracy, opening the door to future $α_s$ extractions with complementary systematics.",
+      "categories": [
+        "hep-ph",
+        "hep-ex",
+        "nucl-th"
+      ],
+      "published": "2026-06-01T18:00:04+00:00",
+      "updated": "2026-06-01T18:00:04+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.02714v1",
+      "html_url": "https://arxiv.org/html/2606.02714v1",
+      "entry_url": "http://arxiv.org/abs/2606.02714v1",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "While the paper uses Integration-by-Parts and differential equation methods for two-loop calculations which overlap with the researcher's interest in multi-loop computational techniques, the specific physics application (energy correlators and jet substructure resummation) falls outside the researcher's core focus on top-quark/b-decay N³LO corrections and electroweak precision observables at Higgs factories.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.02686v1",
+      "base_id": "2606.02686",
+      "title": "On-Shell Bootstrap of Loop Inflation Correlators with Spectral Dispersion",
+      "authors": [
+        "Haoyuan Liu",
+        "Zhehan Qin",
+        "Jiayi Wu",
+        "Zhong-Zhi Xianyu",
+        "Hongyu Zhang"
+      ],
+      "abstract": "We develop a new bootstrap strategy for cosmological correlators at loop level, which we call spectral dispersion. It is based on two conceptual observations that a correlator can be recovered from its on-shell data, also known as nonlocal signals, by analyticity up to local counterterms, and that the on-shell data for a loop process take the form of a discrete sum over quasinormal modes. Technically, our method combines the dS spectral decomposition with dispersion relations. Using this technique, we bootstrap new results in a simple and intuitive form for 3-point and 4-point correlators with 1-loop massive exchanges of scalar and vector bosons, either directly or derivatively coupled. Applications of this bootstrap technique to higher spins and higher-loop banana graphs with dS covariant dispersions but noncovariant couplings are also straightforward.",
+      "categories": [
+        "hep-th",
+        "astro-ph.CO",
+        "hep-ph"
+      ],
+      "published": "2026-06-01T18:00:00+00:00",
+      "updated": "2026-06-01T18:00:00+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.02686v1",
+      "html_url": "https://arxiv.org/html/2606.02686v1",
+      "entry_url": "http://arxiv.org/abs/2606.02686v1",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "The paper concerns loop-level computations of inflation correlators in de Sitter spacetime, which broadly falls under early-universe cosmology, but the specific focus on formal on-shell bootstrap techniques for cosmological collider signals differs significantly from the user's interests in reheating dynamics, gravitational waves, PBHs, neutrino physics, and perturbative QCD calculations.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.02728v1",
+      "base_id": "2606.02728",
+      "title": "Deconstructing the Extra-Dimensional Axion",
+      "authors": [
+        "Shihwen Hor",
+        "Yuichiro Nakai",
+        "Motoo Suzuki",
+        "Junxuan Xu"
+      ],
+      "abstract": "We present a four-dimensional deconstruction of the extra-dimensional axion arising from a $U(1)$ gauge theory in a five-dimensional orbifold, where the axion is identified with the Wilson line of the $U(1)$ gauge field and its coupling to QCD is generated by a 5D Chern-Simons (CS) term. We construct the corresponding 4D moose (quiver) gauge theory with link scalar fields, in which the axion emerges as a collective pseudo-Nambu-Goldstone boson. The axion-gluon coupling is described by a gauged Wess-Zumino-Witten term, providing the 4D counterpart of the 5D CS term. We further analyze non-perturbative effects from zero-mode and ``fractional'' instanton configurations. While the latter is exponentially suppressed in the regime corresponding to the 5D description, ensuring consistency with the higher-dimensional picture, we point out that this suppression can break down for smaller instantons whose inverse size exceeds the 5D cutoff scale, leading to a potentially significant effect. We also study axion potentials induced by bulk matter fields and boundary-localized symmetry-breaking operators, reproducing the characteristic nonlocal suppression associated with propagation in the extra dimension. Our construction provides a renormalizable 4D framework with a transparent understanding of the axion shift symmetry and its quality.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "hep-th"
+      ],
+      "published": "2026-06-01T18:00:15+00:00",
+      "updated": "2026-06-01T18:00:15+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.02728v1",
+      "html_url": "https://arxiv.org/html/2606.02728v1",
+      "entry_url": "http://arxiv.org/abs/2606.02728v1",
+      "relevance": {
+        "relevant": true,
+        "score": 3,
+        "reason": "While the paper concerns axion physics, it focuses on UV model-building through extra-dimensional deconstruction and the axion quality problem, whereas the researcher's axion interests are in Primakoff solar axion flux, astrophysical axion production, and detection strategies—more phenomenological/observational directions that this theoretical construction paper does not address.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2512.10015v2",
+      "base_id": "2512.10015",
+      "title": "The Four Polarizations of the $W$ at High Energies",
+      "authors": [
+        "Trina Basu",
+        "Richard Ruiz"
+      ],
+      "abstract": "We investigate polarization-induced interference, off-shell effects, and gauge cancellations in predictions for high-energy, multi-leg processes with (near) resonant weak bosons. Building on the ``polarized propagator'' paradigm, we carry out our analysis at the level of helicity amplitudes and squared amplitudes, computing polarization interference directly. We introduce analytical decompositions of polarized propagators, valid for covariant and axial gauges, that simplify the organization and evaluation of polarized amplitudes, and make power counting of mass-over-energy factors manifest. We show: (i) For the fully massive case, polarization interference can exceed $\\mathcal{O}(Γ_V^2/M_V^2)$ width-over-mass corrections, limiting the applicability of the narrow width and pole approximation at low energies. (ii) At the fully differential level, interference can naturally be larger than squared longitudinal amplitudes but can also vanish when bosons are emitted by unpolarized sources. (iii) When weak bosons decay to massless fermions, the non-interference of polarization after angular integration extends to the off-shell regime but remains approximate due to $V-A$ couplings. Guided by BRST invariance, we propose a simple scheme for grouping together polarizations that reduces gauge ambiguities in predictions for polarized scattering rates and is applicable to the fully massive case. As case studies, we examine polarization interference in $W$(+jets), top quark decay, and neutrino deep-inelastic scattering. For decays of unpolarized top quarks, interference exactly cancels at the totally unintegrated level.",
+      "categories": [
+        "hep-ph",
+        "hep-ex",
+        "hep-th"
+      ],
+      "published": "2025-12-10T19:07:01+00:00",
+      "updated": "2026-06-01T15:42:32+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.10015v2",
+      "html_url": "https://arxiv.org/html/2512.10015v2",
+      "entry_url": "http://arxiv.org/abs/2512.10015v2",
+      "relevance": {
+        "relevant": true,
+        "score": 3,
+        "reason": "The paper shares some methodological overlap with the researcher's interests in electroweak calculations and top-quark decay (one case study), but its focus on tree-level W polarization interference at colliders is largely tangential to the researcher's core work on multi-loop perturbative QCD, early-universe cosmology, and JUNO neutrino phenomenology.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.02053v1",
+      "base_id": "2606.02053",
+      "title": "COSMOS: A numerical relativity code specialized for PBH formation",
+      "authors": [
+        "Chul-Moon Yoo",
+        "Hirotada Okawa",
+        "Albert Escrivà",
+        "Tomohiro Harada",
+        "Hayami Iizuka",
+        "Taishi Ikeda",
+        "Yasutaka Koga",
+        "Daiki Saito",
+        "Masaaki Shimada",
+        "Koichiro Uehara"
+      ],
+      "abstract": "Primordial black holes (PBHs) are black holes generated in the early universe without having gone through stellar evolution. In the standard formation process, PBHs are formed from super-horizon primordial fluctuations with non-linearly large initial amplitude. In order to simulate the non-linear gravitational dynamics of PBH formation, one has to rely on numerical relativity solvers to approximate the solution of the Einstein equations. COSMOS is a C++ package for solving the Einstein equations in 3+1 dimensions, providing simple tools for the simulation of PBH formation. In order to resolve the collapsing region, non-Cartesian scale-up coordinates and a fixed mesh-refinement procedure are implemented. In COSMOS, a massless scalar field and a perfect fluid with a linear equation of state are implemented as matter fields. To achieve a practically acceptable computational speed, OpenMP is used for the parallelization. COSMOS has no other dependencies, which makes for an easier installation.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2026-06-01T10:40:31+00:00",
+      "updated": "2026-06-01T10:40:31+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.02053v1",
+      "html_url": "https://arxiv.org/html/2606.02053v1",
+      "entry_url": "http://arxiv.org/abs/2606.02053v1",
+      "relevance": {
+        "relevant": true,
+        "score": 3,
+        "reason": "While the paper concerns primordial black holes—a topic in the researcher's profile—COSMOS focuses on numerical relativity simulations of PBH formation dynamics from gravitational collapse, which is distinct from the researcher's PBH interests in Hawking evaporation, BBN constraints, neutrino/UHECR production, and dark sector decay channels.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.02702v1",
+      "base_id": "2606.02702",
+      "title": "Perturbative construction of amplitudes from on-shell trees with vacuum pairs: the all-plus four-gluon amplitude through order $\\boldsymbol{g}^{\\boldsymbol{6}}$",
+      "authors": [
+        "M. Maniatis"
+      ],
+      "abstract": "We formulate a fixed-order perturbative on-shell construction of amplitudes. The basic input is the particle spectrum together with the allowed on-shell three-point amplitudes. The construction is formulated in terms of tree amplitudes generated by BCFW recursion, supplemented by additional unobservable state-conjugate on-shell pairs, called vacuum pairs, and integrated over the Lorentz-invariant phase space of these pairs. The relative signs are assigned as inclusion-exclusion signs for repeated phase-space ranges in the on-shell construction.   As a test case, we study the color-ordered four-gluon all-plus amplitude through orders $g^4$ and $g^6$, and compare the resulting signed phase-space sums with the standard one- and two-loop contributions. The fixed-order bookkeeping of the tree amplitudes is organized in terms of polygons. At order $g^4$ the construction reproduces the finite rational one-loop result. At order $g^6$ the non-vanishing polygon sectors are the octagon, hexagon-quadrilateral, two-pentagon, and three-quadrilateral sectors. Taken together, they reproduce the known planar, non-planar, and bow-tie expressions.",
+      "categories": [
+        "hep-th",
+        "hep-ph"
+      ],
+      "published": "2026-06-01T18:00:01+00:00",
+      "updated": "2026-06-01T18:00:01+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.02702v1",
+      "html_url": "https://arxiv.org/html/2606.02702v1",
+      "entry_url": "http://arxiv.org/abs/2606.02702v1",
+      "relevance": {
+        "relevant": true,
+        "score": 3,
+        "reason": "While the paper addresses loop-level amplitude construction, which is a broad interest of the user, it focuses on a formal on-shell method in pure Yang-Mills theory rather than the phenomenological QCD observables (e.g., top decay) or Feynman-diagram-based computational tools explicitly prioritized in the profile.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    }
+  ]
+}

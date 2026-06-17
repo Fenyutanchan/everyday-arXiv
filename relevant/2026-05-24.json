@@ -1,0 +1,34 @@
+{
+  "date": "2026-05-24",
+  "total": 1,
+  "papers": [
+    {
+      "arxiv_id": "2509.21148v4",
+      "base_id": "2509.21148",
+      "title": "Scalaron dark matter dynamics: effects of Higgs non-minimal coupling to gravity",
+      "authors": [
+        "Shibendu Gupta Choudhury",
+        "Koushik Dutta",
+        "Deep Ghosh"
+      ],
+      "abstract": "One of the key features of the $R^2$-gravity is the embedding of a scalar field, scalaron, into the gravity sector. The scalaron interacts with the Standard Model (SM) matter fields through Planck-suppressed couplings. If the scalaron serves as a viable dark matter (DM) candidate, it can account for the lack of evidence of DM interactions beyond gravity in experimental and observational probes to date. The realization of the scalaron, as a cold DM candidate, depends on an induced trilinear interaction with the SM Higgs via its quartic self coupling. Here, we introduce a Higgs non-minimal coupling to gravity that additionally contributes to the induced trilinear interaction with its existing competing part, originated from the $R^2$-gravity. We study the interplay between these two contributions in the early universe, which determines both the initial conditions and evolution of the scalaron, leading to cold DM behavior at a later epoch. The trilinear interaction vanishes at the leading order for certain combinations of the Higgs non-minimal coupling ($ξ$) and the scalaron mass ($m$), thereby setting the scalaron density through misalignment mechanism, as in axions. In this case, the scalaron DM mass is obtained as, $2.7 ~{\\rm meV} \\lesssim m \\lesssim 0.7 ~\\rm{MeV}$. The lower limit on the mass is set by the fifth force constraints, whereas the upper bound arises from INTEGRAL/SPI limits on the excess gamma-ray flux due to scalaron decaying into two photons. On the other hand, when the trilinear interaction is non-zero and dominated by the Higgs quartic self coupling, the DM relic density is satisfied with $m \\simeq 3.6$ meV. When the Higgs non-minimal coupling dominates, the mass lies within 10-770 meV. We also obtain, for the first time within the scalaron-Higgs mixed model, an upper bound on $|ξm|$ of $1.5\\times 10^{17}$ GeV, from Higgs mass measurement at the LHC.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "published": "2025-09-25T13:37:46+00:00",
+      "updated": "2026-05-24T18:44:59+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.21148v4",
+      "html_url": "https://arxiv.org/html/2509.21148v4",
+      "entry_url": "http://arxiv.org/abs/2509.21148v4",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "The paper overlaps with the researcher's interests in dark matter physics and early-universe cosmology through its discussion of scalaron misalignment dynamics and axion-like DM production, but it focuses on a modified-gravity scalaron model rather than the researcher's core topics of PBHs, neutrino physics, axion detection strategies, or gravitational-wave backgrounds.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "date": "2026-04-08",
+  "papers": [
+    {
+      "arxiv_id": "2604.07326v2",
+      "base_id": "2604.07326",
+      "title": "Analytic Approximations for Fermionic Preheating",
+      "authors": [
+        "Heather E. Logan",
+        "Daniel Stolarski",
+        "Fazlul Yasin"
+      ],
+      "abstract": "Non-thermal fermions can be produced non-perturbatively in the early universe during coherent oscillations of a scalar field. We explore fermion production in $λφ^{4}$ inflation through this mechanism and analyze the momentum spectrum of the fermions produced, which depends on a coupling parameter $q$. For $q \\gtrsim 0.01$, the main contribution to the total number density comes from an approximately half-filled Fermi sphere as a result of non-adiabaticity. For $q\\lesssim 0.01$, we find that the major contributions instead come from resonance peaks at higher momentum values. We find a simple relation to predict the momentum values corresponding to resonance peaks for any $q$. We also obtain analytic power-law approximations for the total number density of fermions and find that it is proportional to $q^{1/2}$ for $q\\lesssim 0.01$ and proportional to $q^{3/4}$ for $q\\gtrsim 10$. If fermions produced by this mechanism make up the entirety of dark matter, we estimate lower bounds on their mass.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "published": "2026-04-08T17:42:38+00:00",
+      "updated": "2026-04-17T17:31:37+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.07326v2",
+      "html_url": "https://arxiv.org/html/2604.07326v2",
+      "entry_url": "http://arxiv.org/abs/2604.07326v2"
+    },
+    {
+      "arxiv_id": "2604.07291v2",
+      "base_id": "2604.07291",
+      "title": "Groenewold-Moyal twists, integrable spin-chains and AdS/CFT",
+      "authors": [
+        "Riccardo Borsato",
+        "Miguel García Fernández"
+      ],
+      "abstract": "We take the first steps to address via integrability the spectral problem of AdS/CFT dual pairs deformed by Groenewold-Moyal twists. In particular, we start by considering a twisted spin-chain that couples, through a Groenewold-Moyal twist deformation, two $\\mathfrak{sl}(2)$-invariant spin-chains. We interpret this deformed spin-chain as a deformation of a subsector of the $AdS_3/CFT_2$ spin-chain, but the construction shares qualitative features also with the corresponding deformation of the $AdS_5/CFT_4$ spin-chain, for example. As in similar types of deformations, we show that there exists a certain basis in which the spin-chain Hamiltonian takes a Jordan-block form. At the same time, by working in the basis of eigenstates of the generators used to construct the Groenewold-Moyal twist, the Hamiltonian appears to be diagonalisable and with a deformed spectrum. Employing the method of the Baxter equation, we write down the energy of the ground state and of excited states in a perturbation of the deformation parameter. We then consider the string-theory side of the duality, where the twist is realised as a deformation of AdS of the type of Maldacena-Russo-Hashimoto-Itzhaki. We construct a deformation of the usual BMN classical solution, and in the large-$J$ limit we match the leading $\\mathcal O(J^{-3})$ term of the energy of the spin-chain groundstate with a conserved charge of the string classical solution. Differently from the undeformed setup as well as similar kinds of deformations, we find that the general expression of this charge of the string sigma-model is non-local, and that it does not correspond to a standard isometry. Nevertheless, it can be computed from the monodromy matrix and it is part of the tower of conserved charges provided by integrability.",
+      "categories": [
+        "hep-th",
+        "cond-mat.stat-mech",
+        "cond-mat.str-el",
+        "quant-ph"
+      ],
+      "published": "2026-04-08T16:57:38+00:00",
+      "updated": "2026-04-17T12:51:20+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.07291v2",
+      "html_url": "https://arxiv.org/html/2604.07291v2",
+      "entry_url": "http://arxiv.org/abs/2604.07291v2"
+    },
+    {
+      "arxiv_id": "2604.06929v2",
+      "base_id": "2604.06929",
+      "title": "Direct-detection constraints on inelastic dark matter with a scalar mediator",
+      "authors": [
+        "I. V. Voronchikhin",
+        "D. V. Kirpichnikov"
+      ],
+      "abstract": "We calculate direct detection constraints on inelastic dark matter (DM) for a scalar portal scenario with leptophilic couplings. The p-wave velocity suppression of the annihilation cross section of scalar-mediated inelastic Dirac DM implies the opening of viable regions of DM parameter space in the MeV-GeV mass range. Xenon-based experiments can provide a constraints on scalar-mediated inelastic fermion dark matter for sub-MeV mass splitting, via endothermic and exothermic spin-independent DM-electron scattering. To estimate the relevant constraints, we use public data from the XENON1T, PandaX-4T, and LZ liquid-xenon experiments that measure ionization electron signals.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-04-08T10:41:40+00:00",
+      "updated": "2026-04-16T08:22:39+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.06929v2",
+      "html_url": "https://arxiv.org/html/2604.06929v2",
+      "entry_url": "http://arxiv.org/abs/2604.06929v2"
+    },
+    {
+      "arxiv_id": "2604.07449v2",
+      "base_id": "2604.07449",
+      "title": "Quantum Fluctuations and Newton-Cartan Geometry for Non-Relativistic de Sitter space",
+      "authors": [
+        "Matthias Harksen",
+        "Diego Hidalgo",
+        "Watse Sybesma"
+      ],
+      "abstract": "We study a non-relativistic realisation of two-dimensional de Sitter gravity both from its boundary and bulk description with the goal of learning about de Sitter space and paving the way for extending the holographic duality into a non-relativistic direction. On the boundary side, we analyse the Schwarzian-type boundary action associated with non-relativistic de Sitter gravity and evaluate its one-loop partition function in order to compute its quantum fluctuations. Rather than relying on the coadjoint-orbit construction, we derive the path integral measure directly from the action using the Ostrogradsky formalism. We find a temperature-dependent prefactor scaling as $T^2$, of which the power agrees with the counting of the four global symmetry generators present. On the bulk side, we construct the corresponding torsionless Newton-Cartan geometry and show that it satisfies the equations of motion of a non-relativistic JT-like action and uplift the geometry to a three-dimensional Lorentzian geometry.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2026-04-08T18:00:05+00:00",
+      "updated": "2026-04-14T17:54:10+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.07449v2",
+      "html_url": "https://arxiv.org/html/2604.07449v2",
+      "entry_url": "http://arxiv.org/abs/2604.07449v2"
+    },
+    {
+      "arxiv_id": "2604.06937v3",
+      "base_id": "2604.06937",
+      "title": "LHC signatures of a light pseudoscalar in a flipped two-Higgs scenario: the usefulness of boosted $b{\\bar b}$ pairs",
+      "authors": [
+        "Dilip Kumar Ghosh",
+        "Biswarup Mukhopadhyaya",
+        "Sirshendu Samanta",
+        "Ritesh K. Singh"
+      ],
+      "abstract": "Similar to some other two-Higgs doublet models (2HDM), the flipped 2HDM admits of a light pseudoscalar physical state whose mass can be well below 50 GeV. The fact that the pseudoscalar decays dominantly into a $b{\\bar b}$ pair makes its identification at the Large Hadron Collider (LHC) difficult. Moreover, the regions of the parameter space corresponding to a light pseudoscalar tend to jeopardize perturbativity at a rather low scale. One possibility that ameliorates this problem is to postulate that the light physical state has the admixture of an SU(2) singlet field. In such a situation, however, the production mode of the pseudoscalar along with a $Z$ (which provides a useful tag) gets suppressed. We have here chosen to fall back on the QCD-driven final state, namely, one or two jets, together with an energetic squeezed $b{\\bar b}$-pair. We utilize boosted di-b-jet tagging techniques and a strategy based on boosted decision trees (BDT) to analyze the signals, considering all backgrounds and likely fakes (mostly from charmed quarks). We find that, including 10\\% systematics, one can expect signal significance of 5-10$σ$ with an integrated luminosity of 3 $ab^{-1}$.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-04-08T11:00:02+00:00",
+      "updated": "2026-05-05T09:44:19+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.06937v3",
+      "html_url": "https://arxiv.org/html/2604.06937v3",
+      "entry_url": "http://arxiv.org/abs/2604.06937v3"
+    },
+    {
+      "arxiv_id": "2604.06781v3",
+      "base_id": "2604.06781",
+      "title": "Higgs Bosons at 95 and 125 GeV in the $U(1)_X$VLFM",
+      "authors": [
+        "Rong-Zhi Sun",
+        "Shu-Min Zhao",
+        "Meng-Zi Cao",
+        "Song Gao",
+        "Xing-Xing Dong"
+      ],
+      "abstract": "We present a systematic analysis of the Higgs signal strengths at 125 GeV and 95 GeV in a non-supersymmetric $U(1)_X$ model with vector-like fermions ($U(1)_X$VLFM). This model extends the SM by introducing an additional $U(1)_X$ gauge symmetry, three right-handed neutrinos, two singlet Higgs fields ($φ$ and $S$), and one generation of vector-like quarks and leptons. The scalar fields mix with each other in the neutral CP-even sector, leading to two Higgs-like states around 95 GeV and 125 GeV. A $χ^2$ analysis is performed by combining the Higgs signal strength measurements at 125 GeV from ATLAS and CMS, including the $γγ$, $WW^*$, $ZZ^*$, $b\\bar{b}$, and $τ\\barτ$ channels, with the 95 GeV excesses observed in the diphoton and $b\\bar{b}$ final states reported by CMS and LEP. Our results indicate that the $U(1)_X$VLFM can successfully reproduce the observed signal strengths of the 125 GeV Higgs while simultaneously explaining the 95 GeV excess. The parameters $g_X$, $g_{YX}$, $v_S$, $v_P$, and the new Yukawa couplings play a crucial role in achieving this consistency.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-04-08T07:51:34+00:00",
+      "updated": "2026-04-28T07:38:16+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.06781v3",
+      "html_url": "https://arxiv.org/html/2604.06781v3",
+      "entry_url": "http://arxiv.org/abs/2604.06781v3"
+    },
+    {
+      "arxiv_id": "2604.07293v2",
+      "base_id": "2604.07293",
+      "title": "Exotic theta terms in 2+1d fractonic field theory",
+      "authors": [
+        "Yuki Furukawa"
+      ],
+      "abstract": "In this work, we study exotic theta terms in the 2+1d $φ$-theory, which provides a continuum description of the XY-plaquette model. The $φ$-theory can be viewed as a fractonic analogue of the 1+1d compact boson and exhibits momentum and winding subsystem symmetries. In this theory, discontinuous field configurations play a crucial role. Although such configurations spoil the naive topology of the field, they induce nontrivial backreactions that give rise to new topological terms. We study two types of theta terms, which we call the bulk theta term and the foliated theta term. The foliated theta term is constructed by coupling winding currents on neighboring leaves of a foliation. Remarkably, the corresponding theta angle can vary spatially without affecting the classical equations of motion. Both theta terms lead to generalized Witten effects, in which vortex operators carrying winding subsystem charge acquire momentum subsystem charge. In the case of the foliated theta angle, the Witten effect exhibits a more intricate structure: vortex operators acquire a quadrupolar momentum charge. We demonstrate these features using lattice realizations based on the modified Villain formulation.",
+      "categories": [
+        "hep-th",
+        "cond-mat.str-el",
+        "hep-lat"
+      ],
+      "published": "2026-04-08T17:00:30+00:00",
+      "updated": "2026-04-27T06:03:09+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.07293v2",
+      "html_url": "https://arxiv.org/html/2604.07293v2",
+      "entry_url": "http://arxiv.org/abs/2604.07293v2"
+    },
+    {
+      "arxiv_id": "2604.07458v2",
+      "base_id": "2604.07458",
+      "title": "GOOFy fermions",
+      "authors": [
+        "P. M. Ferreira"
+      ],
+      "abstract": "A new class of symmetries of two Higgs doublet models was recently discovered, the result of an unorthodox transformation on scalar and gauge fields and spacetime coordinates. It was explicitly shown that it is possible to choose Yukawa matrix textures which respect those symmetries up to two-loops. In this work we will establish the fermion field transformations for the two Higgs doublet models to be considered in the context of the new symmetries established. New regions of parameter space, invariant under renormalization to all orders of perturbation theory, are discovered, including scalar-fermion interactions.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-04-08T18:00:51+00:00",
+      "updated": "2026-05-07T15:17:54+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.07458v2",
+      "html_url": "https://arxiv.org/html/2604.07458v2",
+      "entry_url": "http://arxiv.org/abs/2604.07458v2"
+    },
+    {
+      "arxiv_id": "2604.07256v2",
+      "base_id": "2604.07256",
+      "title": "Revisiting the sphaleron and axion production rates in QCD at high temperatures",
+      "authors": [
+        "Sayak Guin",
+        "Sayantan Sharma"
+      ],
+      "abstract": "We report our new lattice results for the sphaleron rate calculated within a thermal effective field theory of soft SU(N) gluons whose momenta are below the magnetic scale, where $N=2,3$, for a wide range of temperatures spanning from $0.6$-$10^{15}$ GeV at sufficiently large volumes. Comparing these results with sphaleron rates in a non-thermal SU(N) plasma where the infrared gluons are over-occupied, we estimate the typical thermalization time for these ultra-soft soft gluons during the early stages of reheating after inflation. We also calculate the thermal production rate of relativistic axions due to these non-perturbatively interacting soft gluons which shows a significant deviation from its perturbative estimate even at the electroweak scale.",
+      "categories": [
+        "hep-lat",
+        "astro-ph.CO",
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2026-04-08T16:17:14+00:00",
+      "updated": "2026-05-08T07:24:35+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.07256v2",
+      "html_url": "https://arxiv.org/html/2604.07256v2",
+      "entry_url": "http://arxiv.org/abs/2604.07256v2"
+    },
+    {
+      "arxiv_id": "2604.06632v2",
+      "base_id": "2604.06632",
+      "title": "Charged Black Holes in Quasi-Topological Gravity Coupled to Born-Infeld Nonlinear Electrodynamics",
+      "authors": [
+        "Jose Pinedo Soto",
+        "Valeri P. Frolov"
+      ],
+      "abstract": "We construct static, spherically symmetric black hole solutions in quasi-topological gravity (QTG) coupled to Born-Infeld nonlinear electrodynamics. Starting from the spherically reduced action, we derive closed-form expressions for the electric field, the nonlinear Lagrangian, and the metric function, the latter involving hypergeometric functions. We consider specific versions of QTG in which vacuum black holes are regular, and show that, for some of these models, charged black holes develop a curvature singularity at a finite radius in their interior. In contrast, in models such as a Born-Infeld-type QTG, charged black holes remain regular. In this case, however, the de Sitter core of the neutral solution is replaced by an anti-de Sitter core. We also discuss several limiting regimes of these solutions.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2026-04-08T03:13:50+00:00",
+      "updated": "2026-05-18T19:06:32+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.06632v2",
+      "html_url": "https://arxiv.org/html/2604.06632v2",
+      "entry_url": "http://arxiv.org/abs/2604.06632v2"
+    },
+    {
+      "arxiv_id": "2604.07332v2",
+      "base_id": "2604.07332",
+      "title": "Theoretical and Observational Bounds on Dynamical Chern-Simons Gravity as an Effective Field Theory",
+      "authors": [
+        "Alexander Cassem",
+        "Mark P. Hertzberg"
+      ],
+      "abstract": "Gravitational effective theories are essential for characterizing the space of deviations from General Relativity (GR). Testing these theories against fundamental principles, such as causality and unitarity, can yield constraints on the corresponding parameters. In this paper, we perform such an analysis on the very interesting dynamical Chern-Simons (dCS) gravity. This is a parity violating correction to GR wherein a new scalar field couples to the Pontryagin density $^*R\\,R$. It has generated significant interest, including possible new gravitational wave shapes for LIGO/Virgo and new phenomena from cosmic inflation. In this work, we begin by deriving the dispersion relation and wave packet speed on top of a gravitational wave background in dCS gravity. This alters the corresponding Shapiro time delay (which we compute to second order), potentially giving superluminality. Causality then demands a bound on the dCS coupling constant, which we find to be moderately sharper than, but compatible with, standard estimates. We then examine a UV completion in the form of a set of $N$ fermions with a (pseudo) Yukawa coupling. By imposing perturbativity and a gravitational species bound, we find that the dCS coupling constant is constrained significantly more, depending on the choice of scale of the species bound. We also identify higher order operators generated from the UV completion. Overall, we find that any dCS corrections to gravitational dynamics should likely be very small on macroscopic systems of observational interest, such as in late-time merging black holes.",
+      "categories": [
+        "hep-th",
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "published": "2026-04-08T17:49:22+00:00",
+      "updated": "2026-06-02T15:00:56+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.07332v2",
+      "html_url": "https://arxiv.org/html/2604.07332v2",
+      "entry_url": "http://arxiv.org/abs/2604.07332v2"
+    },
+    {
+      "arxiv_id": "2604.07500v2",
+      "base_id": "2604.07500",
+      "title": "From Matrix Models to Gaussian Molecules and the Einstein-Hilbert Action",
+      "authors": [
+        "Manfred Herbst"
+      ],
+      "abstract": "A matrix model on a D-dimensional Euclidean space is introduced as a generalization of random matrix models and as a non-perturbative definition of discretized closed string theory. The free energy of the matrix model is formally derived to all orders in string perturbation expansion and shown to be given in terms of invariant graph polynomials, whose coefficients enumerate ribbon graphs and are a refinement of the generalized Catalan numbers. The vacuum diagrams contributing to the free energy are found to be related to Gaussian molecules, known from the study of polymer structures.   Coupling the matrix field to a curved background with Riemannian metric yields a non-perturbative definition of discretized string theory on this background. No on-shell condition for the metric is required to arrive at the free energy. Rather, it is shown that the free energy of the matrix model is the Einstein-Hilbert action with cosmological constant term. The gravitational and the cosmological constants are both formally determined to all orders in the string perturbation expansion. In fact, they are explicitly given by the expectation value of a particular graph invariant.   Introducing a vector field, minimally coupled to a background gauge field, provides a discretized open-closed string theory, leading to the Yang-Mills action as well as intrinsic and extrinsic curvature terms.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2026-04-08T18:37:26+00:00",
+      "updated": "2026-06-05T19:51:19+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.07500v2",
+      "html_url": "https://arxiv.org/html/2604.07500v2",
+      "entry_url": "http://arxiv.org/abs/2604.07500v2"
+    },
+    {
+      "arxiv_id": "2604.07618v2",
+      "base_id": "2604.07618",
+      "title": "Multi Component Dark Matter in a Minimal Model",
+      "authors": [
+        "Karim Ghorbani"
+      ],
+      "abstract": "We study a minimal $\\mathbb{Z}_2$-symmetric extension of the Standard Model containing two singlet fermions and a singlet scalar that interact with the SM particles through the Higgs-portal. We identify regions of parameter space in which all three new particles are kinematically stable, giving rise to a multi component dark matter (DM) scenario. The parameter space consistent with the observed dark matter relic abundance are determined, and the contribution of each component to the total relic density is evaluated. While the DM-nucleon elastic scattering cross sections of the two fermionic dark matter components are loop-suppressed, the corresponding cross section of the scalar dark matter particle arises at tree level and is therefore expected to dominate. We find a viable region of the parameter space in which the scalar dark matter candidate with mass range of approximately $125-400$ GeV, evades current direct detection (DD) bounds while contributing only a small fraction of the observed relic density. In contrast, the fermionic dark matter possesses a loop-suppressed DD cross section that lies below the neutrino floor and can constitute a substantial fraction of the total relic density.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-04-08T21:39:30+00:00",
+      "updated": "2026-06-11T14:32:53+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.07618v2",
+      "html_url": "https://arxiv.org/html/2604.07618v2",
+      "entry_url": "http://arxiv.org/abs/2604.07618v2"
+    },
+    {
+      "arxiv_id": "2604.07336v2",
+      "base_id": "2604.07336",
+      "title": "The Non-Gaussian Weak-Lensing Likelihood: A Multivariate Copula Construction and Impact on Cosmological Constraints",
+      "authors": [
+        "Veronika Oehl",
+        "Tilman Tröster"
+      ],
+      "abstract": "We present a framework to compute non-Gaussian likelihoods for two-point correlation functions. The non-Gaussianity is most pronounced on large scales that will be well-measured by stage-IV weak-lensing surveys. We show how such a multivariate likelihood can be constructed and efficiently evaluated using a copula approach by incorporating exact one-dimensional marginals and a dependence structure derived from the exact multivariate likelihood. The copula likelihood is found to be in better agreement with simulated sampling distributions of correlation functions than Gaussian likelihoods, particularly on large scales. We furthermore investigate the effect of the non-Gaussian copula likelihood on posterior inference, including sampling the full parameter space of contemporary weak-lensing analyses. We find potential parameter shifts in $S_8$ on the order of one standard deviation for $1 \\ 000 \\ \\mathrm{deg}^2$ surveys but negligible shifts for areas of $10 \\ 000 \\ \\mathrm{deg}^2$, suggesting Gaussian likelihoods are sufficient for stage-IV surveys, though results depend on the detailed mask geometry and data-vector structure.",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.IM",
+        "physics.data-an",
+        "stat.AP"
+      ],
+      "published": "2026-04-08T17:52:00+00:00",
+      "updated": "2026-06-16T13:17:44+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.07336v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2604.07336v2"
+    }
+  ],
+  "total": 14
+}

@@ -1,0 +1,64 @@
+{
+  "date": "2026-05-23",
+  "papers": [
+    {
+      "arxiv_id": "2605.24715v2",
+      "base_id": "2605.24715",
+      "title": "Gravitational Waves from Post-Inflationary Magnetism: Direct and Scalar-Induced Contributions",
+      "authors": [
+        "Subhasis Maiti"
+      ],
+      "abstract": "We study stochastic gravitational waves generated in a post-inflationary magnetogenesis scenario with time-dependent gauge couplings during inflation and reheating. In this setup, magnetic anisotropic stress directly sources gravitational waves, while the induced curvature perturbations generate an additional scalar-induced GW component. We compare the spectral behavior of the two contributions and find that the magnetic component dominates the peak amplitude, whereas the scalar-induced contribution becomes important on larger scales. For blue magnetic spectra with $n_{\\rm b}\\geq3/2$, both spectra follow the universal infrared scaling $Ω_{\\rm GW}(f\\ll f_{\\rm peak})\\propto f^3$. However, their ultraviolet behaviors differ significantly for $f>f_{\\rm peak}$, leading to distinct spectral features. For suitable reheating and magnetogenesis parameters, the resulting GW signal naturally extends into the nano-Hz range relevant for pulsar timing array observations, while remaining consistent with current bounds. The distinct spectral features of the two components may provide a useful probe of reheating dynamics and primordial magnetogenesis.",
+      "categories": [
+        "astro-ph.CO",
+        "hep-ph"
+      ],
+      "published": "2026-05-23T20:01:09+00:00",
+      "updated": "2026-06-01T16:00:02+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.24715v2",
+      "html_url": "https://arxiv.org/html/2605.24715v2",
+      "entry_url": "http://arxiv.org/abs/2605.24715v2"
+    },
+    {
+      "arxiv_id": "2605.24373v2",
+      "base_id": "2605.24373",
+      "title": "Semiclassical Propagation and the Dynamics of Configuration Space",
+      "authors": [
+        "V. S. Morales-Salgado"
+      ],
+      "abstract": "This work explores the quantum propagator $K(x,t)$ as a solution of the system's dynamical equation. We develop a generalized propagator framework in which the propagator is written in the form $K=\\exp\\!\\left(R+\\frac{i}{\\hbar}S\\right)$, where $S$ governs the semiclassical phase structure and $R$ governs the amplitude transport and weighting of configurations. Starting from nonrelativistic quantum mechanics, the classical Hamilton--Jacobi equation emerges in the semiclassical limit, while $R$ reduces to the logarithm of the Van Vleck determinant. The formalism is then extended to relativistic field theory and minisuperspace quantum cosmology using functional methods and generalized Hamiltonian constraints. Then the resulting semiclassical equations recover the corresponding classical dynamics along characteristic flows. In minisuperspace models, the formalism yields coupled equations for geometric and matter sectors analogous to semiclassical Wheeler--DeWitt systems. In semiclassical gravitational settings, the gravitational contribution may admit an entropy-like interpretation, consistent with thermodynamic weighting factors appearing in Euclidean gravitational path integrals. The resulting framework suggests a unified semiclassical description in which propagator phases encode dynamical evolution while amplitude functionals encode transport and configuration weighting. This perspective motivates viewing mechanics as a relation between the differential structure of spacetime and the differential structure of the space of dynamical configurations.",
+      "categories": [
+        "quant-ph",
+        "gr-qc",
+        "hep-th",
+        "math-ph"
+      ],
+      "published": "2026-05-23T03:29:37+00:00",
+      "updated": "2026-06-03T02:17:52+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.24373v2",
+      "html_url": "https://arxiv.org/html/2605.24373v2",
+      "entry_url": "http://arxiv.org/abs/2605.24373v2"
+    },
+    {
+      "arxiv_id": "2605.24563v2",
+      "base_id": "2605.24563",
+      "title": "ODE/IM Correspondence at the Free-Fermion Point. Laguerre Wronskians, Shifted Symmetric Functions, and Quantum KdV",
+      "authors": [
+        "Davide Masoero",
+        "Giulio Ruzza"
+      ],
+      "abstract": "We consider the ODE/IM correspondence for the value $c=-2$ of the Virasoro central charge (free-fermion point) and the associated quantum KdV model $-$ the quantization of the second hamiltonian structure of the classical periodic KdV model. We prove that the ODE/IM correspondence is complete (in the sense of V. Bazhanov, S. Lukyanov, and A. Zamolodchikov), namely that any solution of the Bethe equations coincides with the spectrum of a rational extension of the (quantum) harmonic oscillator. To this end, on the ODE side we consider Crum$-$Darboux transformations of the harmonic oscillator and the associated Laguerre Wronskians, which are remarkable special functions parametrized by pairs of partitions which we study in depth. As a further result, on the IM side, we diagonalize explicitly the first three hamiltonian operators of quantum KdV (in the free field representation): the eigenstates are Schur functions and the eigenvalues are shifted symmetric functions on partitions. We give two applications of this result: i) we prove that the eigenvalues are given by the evaluation of the Newton symmetric polynomials at the poles of the associated monster potentials, as further conjectured by V. Bazhanov, S. Lukyanov, and A. Zamolodchikov; ii) we show that these hamiltonian operators also belong to the algebra of hamiltonian operators obtained by quantizing the first hamiltonian structure of the classical periodic dispersionless KdV model.",
+      "categories": [
+        "math-ph",
+        "hep-th",
+        "math.CA"
+      ],
+      "published": "2026-05-23T12:57:10+00:00",
+      "updated": "2026-06-02T12:51:28+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.24563v2",
+      "html_url": "https://arxiv.org/html/2605.24563v2",
+      "entry_url": "http://arxiv.org/abs/2605.24563v2"
+    }
+  ],
+  "total": 3
+}

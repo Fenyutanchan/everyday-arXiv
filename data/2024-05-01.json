@@ -1,0 +1,26 @@
+{
+  "date": "2024-05-01",
+  "papers": [
+    {
+      "arxiv_id": "2405.00809v2",
+      "base_id": "2405.00809",
+      "title": "Kinetic Sunyaev Zel'dovich velocity reconstruction from Planck and unWISE",
+      "authors": [
+        "Richard Bloch",
+        "Matthew C. Johnson"
+      ],
+      "abstract": "The kinetic Sunyaev Zel'dovich (kSZ) effect is a blackbody cosmic microwave background (CMB) temperature anisotropy induced by Thomson scattering off free electrons in bulk motion with respect to the CMB rest frame. The statistically anisotropic cross-correlation between the CMB and galaxy surveys induced by the kSZ effect encodes the radial bulk velocity (more generally, the remote dipole field), which can be efficiently reconstructed using a quadratic estimator. Here, we develop a quadratic estimator for the remote dipole field for use with data from the Planck satellite and the unWISE galaxy redshift catalog. With this data combination, we forecast a signal-to-noise of order unity within $Λ$CDM assuming a simple model for the distribution of free electrons. Using reconstructions based on individual frequency temperature maps and a variety of component separated CMB maps, we characterize the impact of foregrounds and systematics. The dominant contaminant is a coupling between the cosmic infrared background and large-scale galaxy survey systematics. We develop a method to minimize this effect, and demonstrate that after doing so the reconstructions are consistent with the expected level and properties of reconstruction noise. We use this reconstruction to constrain the multiplicative optical depth bias characterizing the amplitude of the remote dipole field to $b_v < 1.04$ at $68 \\%$ confidence. Our fiducial signal model with $b_v =1$ is consistent with this measurement. Our results support an optimistic future for kSZ velocity reconstruction with near-term datasets.",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.GA",
+        "gr-qc"
+      ],
+      "published": "2024-05-01T18:47:04+00:00",
+      "updated": "2026-05-08T03:41:52+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2405.00809v2",
+      "html_url": "https://arxiv.org/html/2405.00809v2",
+      "entry_url": "http://arxiv.org/abs/2405.00809v2"
+    }
+  ],
+  "total": 1
+}

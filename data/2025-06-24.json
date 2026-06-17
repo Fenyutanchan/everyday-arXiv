@@ -1,0 +1,100 @@
+{
+  "date": "2025-06-24",
+  "papers": [
+    {
+      "arxiv_id": "2506.19710v4",
+      "base_id": "2506.19710",
+      "title": "Anomaly of 4d Weyl fermions with discrete symmetries",
+      "authors": [
+        "Zheyan Wan"
+      ],
+      "abstract": "We derive explicit anomaly-index formulas for four-dimensional Weyl fermions charged under the finite symmetries $\\mathrm{Spin}\\times\\mathbb Z_n$ and $\\mathrm{Spin}\\times_{\\mathbb Z_2^{\\mathrm F}}\\mathbb Z_{2m}^{\\mathrm F}$. The strategy is to start from the standard perturbative anomaly indices for $\\mathrm{Spin}\\times\\mathrm U(1)$ and $\\mathrm{Spin}\\times_{\\mathbb Z_2^{\\mathrm F}}\\mathrm U(1)=\\mathrm{Spin}^c$, and then restrict the continuous $\\mathrm U(1)$ symmetry to a finite cyclic subgroup. On the level of invertible field theories this gives natural homomorphisms $$ \\mathrm{TP}_5(\\mathrm{Spin}\\times\\mathrm U(1)) \\longrightarrow \\mathrm{TP}_5(\\mathrm{Spin}\\times\\mathbb Z_n),\\quad \\mathrm{TP}_5(\\mathrm{Spin}^c) \\longrightarrow \\mathrm{TP}_5(\\mathrm{Spin}\\times_{\\mathbb Z_2^{\\mathrm F}}\\mathbb Z_{2m}^{\\mathrm F}). $$ We compute these maps explicitly by evaluating reduced $η$-invariants on geometric representatives of the finite anomaly groups. For $\\mathrm{Spin}\\times\\mathbb Z_n$, the relevant backgrounds are the five-dimensional lens-space bundle $X(n;1,1)$ and the product $L(n;1)\\times\\mathrm{K3}$. For $\\mathrm{Spin}\\times_{\\mathbb Z_2^{\\mathrm F}}\\mathbb Z_{2m}^{\\mathrm F}$, the relevant backgrounds are $L(m;1,1,1)$ and, depending on the parity of $m$, either $L(m;1)\\times\\mathrm{Enriques}$ or $L(m;1)\\times\\mathrm{K3}$.   The output is a pair of integer-valued anomaly indices for each finite symmetry. These indices are normalized in the cyclic factors of the finite anomaly group, so they can be used directly in anomaly-cancellation checks for fermions with discrete gauge or global symmetries.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2025-06-24T15:17:44+00:00",
+      "updated": "2026-05-27T18:46:24+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.19710v4",
+      "html_url": "https://arxiv.org/html/2506.19710v4",
+      "entry_url": "http://arxiv.org/abs/2506.19710v4"
+    },
+    {
+      "arxiv_id": "2506.20681v4",
+      "base_id": "2506.20681",
+      "title": "On the local thermodynamic relations in relativistic spin hydrodynamics",
+      "authors": [
+        "Francesco Becattini",
+        "Rajeev Singh"
+      ],
+      "abstract": "We demonstrate, by providing two specific examples, that the local differential thermodynamic relations used as educated guesses in relativistic hydrodynamics with spin, do not hold even at global thermodynamic equilibrium. We show, by using a rigorous quantum statistical method, that for massless free fermions and massive free fermions with rotation and acceleration at global thermodynamic equilibrium, the derivative of the pressure function with respect to the spin potential differs from the spin density and acquires a correction of the same order. Such correction cannot be eliminated by any redefinition of the entropy current, a so-called entropy-gauge transformation. Therefore, for an accurate determination of the constitutive relations in relativistic spin hydrodynamics, the traditional method of assuming differential thermodynamic relations is not appropriate.",
+      "categories": [
+        "nucl-th",
+        "hep-th"
+      ],
+      "published": "2025-06-24T15:18:37+00:00",
+      "updated": "2026-05-25T15:41:58+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.20681v4",
+      "html_url": "https://arxiv.org/html/2506.20681v4",
+      "entry_url": "http://arxiv.org/abs/2506.20681v4"
+    },
+    {
+      "arxiv_id": "2506.19965v3",
+      "base_id": "2506.19965",
+      "title": "Unlocking Multidimensional Integration with Quantum Adaptive Importance Sampling",
+      "authors": [
+        "Konstantinos Pyretzidis",
+        "Jorge J. Martínez de Lejarza",
+        "Germán Rodrigo"
+      ],
+      "abstract": "Multidimensional numerical integration is a central ingredient of theoretical predictions in high-energy physics, where multiloop Feynman diagrams and phase-space integrals are computationally demanding due to divergences and complex mathematical structures. Established Adaptive Importance Sampling methods for numerical integration, such as VEGAS, iteratively refine a grid in a separable way, dimension by dimension. This keeps the algorithm scalable but reduces performance when strong inter-variable correlations are present. In this work, we introduce a hybrid quantum-classical algorithm that performs Quantum Adaptive Importance Sampling (QAIS) for multidimensional Monte Carlo integration. Our approach uses a Parametrized Quantum Circuit to encode a non-separable Probability Density Function on a multidimensional grid and allocate samples efficiently in the integration domain. We apply the method to a sharply peaked loop Feynman integral and to multi-modal benchmark integrals. Our results show that QAIS provides an efficient route for high-precision evaluation of multidimensional integrals.",
+      "categories": [
+        "quant-ph",
+        "hep-ph"
+      ],
+      "published": "2025-06-24T19:19:06+00:00",
+      "updated": "2026-05-25T14:37:44+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.19965v3",
+      "html_url": "https://arxiv.org/html/2506.19965v3",
+      "entry_url": "http://arxiv.org/abs/2506.19965v3"
+    },
+    {
+      "arxiv_id": "2506.19720v3",
+      "base_id": "2506.19720",
+      "title": "Carroll Geometry Meets De Sitter Space via Holography",
+      "authors": [
+        "Chris D. A. Blair",
+        "Niels A. Obers",
+        "Ziqi Yan"
+      ],
+      "abstract": "We explain how to relate the ideas of Carroll geometry, matrix theory on instantonic objects, and infinite boost limits of M-theory. Based on these new insights, we explore the implications for possible holographic constructions involving a de Sitter or flat space bulk. We show that Carroll-like (including particle Carroll) geometry in a hypothetical de Sitter holography mirrors the recently realized important role played by Galilei-like geometry in matrix theory and the AdS/CFT correspondence. This also allows us to generate examples of holography with a Carroll-like bulk.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2025-06-24T15:30:13+00:00",
+      "updated": "2026-06-05T09:56:37+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.19720v3",
+      "html_url": "https://arxiv.org/html/2506.19720v3",
+      "entry_url": "http://arxiv.org/abs/2506.19720v3"
+    },
+    {
+      "arxiv_id": "2506.20004v3",
+      "base_id": "2506.20004",
+      "title": "Compact Cauchy horizons admit constant surface gravity",
+      "authors": [
+        "Raymond A. Hounnonkpe",
+        "Ettore Minguzzi"
+      ],
+      "abstract": "We prove that in any spacetime dimension and under the null energy condition, every totally geodesic connected smooth compact null hypersurface (hence every compact Cauchy horizon) admits a smooth lightlike tangent vector field of constant surface gravity. That is, we solve the open degenerate case by showing that, if there is a complete generator, then there exists a smooth future-directed geodesic lightlike tangent field. The result can be stated as an existence result for a particular cohomological equation. The proof uses elements of ergodic theory, Hodge theory and Riemannian flow theory. We emphasize that, remarkably, these results really require only the null energy condition, whereas previous works assumed, already in the Killing or the non-degenerate cases, the stronger dominant energy condition.",
+      "categories": [
+        "gr-qc",
+        "math.DG"
+      ],
+      "published": "2025-06-24T20:49:51+00:00",
+      "updated": "2026-06-08T15:18:08+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.20004v3",
+      "html_url": "https://arxiv.org/html/2506.20004v3",
+      "entry_url": "http://arxiv.org/abs/2506.20004v3"
+    }
+  ],
+  "total": 5
+}

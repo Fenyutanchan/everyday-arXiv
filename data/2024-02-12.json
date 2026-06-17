@@ -1,0 +1,33 @@
+{
+  "date": "2024-02-12",
+  "papers": [
+    {
+      "arxiv_id": "2402.07716v3",
+      "base_id": "2402.07716",
+      "title": "$Λ_{\\rm s}$CDM cosmology from a type-II minimally modified gravity",
+      "authors": [
+        "Özgür Akarsu",
+        "Antonio De Felice",
+        "Eleonora Di Valentino",
+        "Suresh Kumar",
+        "Rafael C. Nunes",
+        "Emre Özülker",
+        "J. Alberto Vazquez",
+        "Anita Yadav"
+      ],
+      "abstract": "We integrate $Λ_{\\rm s}$CDM, a promising scenario for alleviating cosmological tensions, into VCDM, a type-II minimally modified gravity. This promotes the scenario to a fully predictive model (dubbed $Λ_{\\rm s}$VCDM) that specifies the cosmological evolution self-consistently, including through the late-time AdS-to-dS transition epoch. In this theory, an auxiliary scalar field generates an effective cosmological constant with either a constant or a linear potential. This allows an abrupt mirror AdS-to-dS transition via a piecewise-linear potential with a sudden slope change. To remove the associated sudden singularity and ensure stable evolution, we smooth the junction using a blended sigmoid interpolant, obtaining rapid but continuous transitions. We identify two qualitatively distinct smooth mirror AdS-to-dS realisations of $Λ_{\\rm s}$: (i) an agitated transition, in which the potential interpolates between equal-magnitude AdS and dS plateaus and $Λ_{\\rm s}$ develops a central bump; and (ii) a quiescent transition, in which the potential remains continuous but changes slope across the transition layer, so that $Λ_{\\rm s}(a)$ can remain monotone, with possible shallow shoulders, and a central bump is not automatic. Depending on type and sharpness, a finite-width transition can induce a transient accelerated-expansion interval ($\\ddot a>0$) around $z\\sim 1.5-2$, in addition to present-day acceleration, and, if the background enters a region where $V_{,φφ}>2/3$, a nested super-acceleration episode. These distinct transient histories can imprint signatures on background and perturbation evolution. Our construction enables a self-consistent observational assessment of smooth $Λ_{\\rm s}$CDM realisations and motivates multi-probe analyses to test transition dynamics and reassess cosmological tensions.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2024-02-12T15:29:10+00:00",
+      "updated": "2026-04-28T16:55:09+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2402.07716v3",
+      "html_url": "https://arxiv.org/html/2402.07716v3",
+      "entry_url": "http://arxiv.org/abs/2402.07716v3"
+    }
+  ],
+  "total": 1
+}

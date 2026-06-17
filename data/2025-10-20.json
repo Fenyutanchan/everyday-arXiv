@@ -1,0 +1,312 @@
+{
+  "date": "2025-10-20",
+  "papers": [
+    {
+      "arxiv_id": "2510.17597v4",
+      "base_id": "2510.17597",
+      "title": "Photon radiation induced by rescattering in strong-interacting medium with a magnetic field",
+      "authors": [
+        "Yue Zhang",
+        "Han-Zhong Zhang"
+      ],
+      "abstract": "The photon radiation induced by rescattering in a magnetized medium is investigated in relativistic heavy-ion collisions. Within the high-energy limit, the photon emission rate and the associated electromagnetic energy loss are derived using the Gyulassy-Levai-Vitev formalism at first order in opacity, for a quark jet propagating a quark-gluon plasma under a background magnetic field. Quantitative analysis shows a slight suppression of the overall photon radiation over a broad range of jet energies in this process. This reduction in photon yield consequently leads to a moderate decrease in the electromagnetic energy loss of the jet. Our results contribute to a better understanding of the electromagnetic properties of strongly interacting matter in high-energy nucleus-nucleus collisions and motivate experimental comparison of photon yields from quark-gluon plasma with similar properties but distinct magnetic field strengths.",
+      "categories": [
+        "nucl-th",
+        "hep-th"
+      ],
+      "published": "2025-10-20T14:47:42+00:00",
+      "updated": "2026-04-20T06:21:24+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.17597v4",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2510.17597v4"
+    },
+    {
+      "arxiv_id": "2510.17387v3",
+      "base_id": "2510.17387",
+      "title": "One-loop QED and Weak Corrections to $γγ\\to H^\\pm H^\\mp$ in the Inert Doublet Model",
+      "authors": [
+        "Hamza Abouabid",
+        "Abdesslam Arhrib",
+        "Jaouad El Falaki",
+        "Bin Gong",
+        "Qi-Shu Yan"
+      ],
+      "abstract": "We present a complete one-loop analysis of charged scalar boson pair production in photon-photon collisions, $γγ\\to H^\\pm H^\\mp$, within the framework of the Inert Doublet Model (IDM). The calculation is carried out in the on-shell renormalization scheme and incorporates both weak corrections and QED effects, including soft and hard photon radiation. Virtual loop contributions and real emission processes are computed using the Feynman diagrammatic method, ensuring the cancellation of ultraviolet and infrared divergences. To properly account for the Coulomb singularity that arises in the QED sector near threshold, we introduce the resummed cross section based on the Sommerfeld factor. The IDM parameter space is explored under theoretical consistency conditions, collider limits, and dark matter constraints, and three representative scenarios are studied in detail. We find that the magnitude of the quantum corrections is strongly controlled by the absolute value of the trilinear scalar coupling $λ_{h^0 H^+ H^-}$, which correlates with the charged scalar mass. When all constraints are applied, the weak corrections are typically in the range of $-12\\%$ to $-7\\%$ at $\\sqrt{s}=250$~GeV, and between $-15\\%$ and $6\\%$ at $\\sqrt{s}=500$~GeV. At higher energies, such as $\\sqrt{s}=1$~TeV, the corrections can become very large, ranging from about $-20\\%$ up to $+60\\%$. Our findings highlight the significant role of higher-order effects in photon-photon collisions and establish $γγ\\to H^\\pm H^\\mp$ as a promising process to investigate the charged scalar sector of the IDM at future high-energy photon colliders. Several benchmark points are proposed to facilitate future experimental searches.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-10-20T10:25:39+00:00",
+      "updated": "2026-04-16T12:44:10+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.17387v3",
+      "html_url": "https://arxiv.org/html/2510.17387v3",
+      "entry_url": "http://arxiv.org/abs/2510.17387v3"
+    },
+    {
+      "arxiv_id": "2510.17730v2",
+      "base_id": "2510.17730",
+      "title": "Automated computation of spin-density matrices and quantum observables for collider physics",
+      "authors": [
+        "Valentin Durupt",
+        "Fabio Maltoni",
+        "Olivier Mattelaer"
+      ],
+      "abstract": "We present a fully automated framework to compute production spin-density matrices for generic collider processes at tree level within \\textsc{MadGraph5\\_aMC@NLO}. The method assembles helicity amplitudes into event-by-event production matrices. These are written to the LHE file in a compact form, together with run metadata, enabling direct post-processing of quantum observables. The implementation supports bi- and multipartite qubit and qutrit final states, configurable reference frames, and both polarised and unpolarised initial states. A companion, easy-to-extend library provides analysis routines to determine key quantum-information measures and witnesses. These include purity, concurrence, and entanglement of formation for qubits; Peres--Horodecki tests and negativity; spin-polarisation vectors and correlation matrices; $D$-coefficients; and stabiliser-based ``magic'' measures. As a result, multi-particle quantum correlations can be quantified systematically. We validate the implementation against known results for $t\\bar t$ and $VV$ ($V=W^\\pm,Z$) production in $pp$ and $e^+e^-$ collisions and in heavy-resonance decays. We then consider new applications and study quantum correlations in several LHC final states: $t\\bar t W^\\pm$, $tW^-$ vs.\\ $t(\\bar t\\to W^- \\bar b)$, and $t\\bar t t$ vs. $t\\bar t t\\bar t$.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-10-20T16:44:34+00:00",
+      "updated": "2026-04-25T13:32:03+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.17730v2",
+      "html_url": "https://arxiv.org/html/2510.17730v2",
+      "entry_url": "http://arxiv.org/abs/2510.17730v2"
+    },
+    {
+      "arxiv_id": "2510.17549v4",
+      "base_id": "2510.17549",
+      "title": "Electromagnetic form factors and structure of the $T_{bb}$ tetraquark from lattice QCD",
+      "authors": [
+        "Ivan Vujmilovic",
+        "Sara Collins",
+        "Luka Leskovec",
+        "Sasa Prelovsek"
+      ],
+      "abstract": "We present the first lattice QCD determination of the electromagnetic form factors of the exotic tetraquark $T_{bb} \\ (bb \\bar u \\bar d)$ with quantum numbers $I( J^P ) = 0( 1^+ )$. The extracted form factors encode information about its internal structure, including the charge distribution and the magnetic dipole moments, determined separately for the light and heavy quarks. Our results provide evidence in favor of it being a bound state consisting of a compact heavy diquark $[bb]$ in a color-antitriplet with spin one, and a light antidiquark $[\\bar u \\bar d]$ in a color-triplet with spin zero. The charge radius of $T_{bb}$ is found to be significantly smaller than the combined charge radii of $B$ and $B^*$ mesons. These two comprise the lowest-lying threshold $BB^*$ in the channel we are considering, and their electric charge form factors are also determined. The computations were performed on a single CLS ensemble with $N_f = 2+1$ dynamical quarks and a lattice spacing of approximately $a \\approx0.064 \\ \\mathrm{fm}$ at the pion mass $m_π\\approx 290 \\ \\mathrm{MeV}$.",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "published": "2025-10-20T13:58:04+00:00",
+      "updated": "2026-04-29T14:32:34+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.17549v4",
+      "html_url": "https://arxiv.org/html/2510.17549v4",
+      "entry_url": "http://arxiv.org/abs/2510.17549v4"
+    },
+    {
+      "arxiv_id": "2510.17243v2",
+      "base_id": "2510.17243",
+      "title": "Deep Neural Network extraction of Unpolarized Transverse Momentum Distributions",
+      "authors": [
+        "I. P. Fernando",
+        "D. Keller"
+      ],
+      "abstract": "Building on the first-ever application of neural networks in TMD phenomenology: \"Extraction of the Sivers function with deep neural networks\", we now present a momentum space, physics-informed deep learning framework for the direct extraction of unpolarized transverse momentum dependent parton distributions (TMDs) from fixed target Drell-Yan data (E288, E605). Rather than transforming to impact-parameter space, we remain in k and embed a normalized integrand s(x, k; Q) whose auto-convolution produces the observed qT spectra. The extraction proceeds in two steps. Stage I learns the structure kernel S(qT , x1, x2; QM ) by regressing the cross-section with known kinematic prefactors and charge-weighted PDF combinations factored out; experimental and PDF uncertainties are propagated with Monte Carlo replicas. Stage II reconstructs s(x, k; Q) with an end-to-end differentiable k quadrature layer. Applied to Fermilab cross-section data from experiments E288 and E605, the method reproduces the measured qT spectra across Q and yields x and Q dependent TMDs that broaden with Q, with uncertainty bands that consistently propagate experimental, PDF, algorithmic and methodological components. The approach is minimally biased (no factorized Ansatze and no bT transform) and provides a transferable template for polarized TMDs and related QCD inverse problems.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-10-20T07:31:01+00:00",
+      "updated": "2026-05-02T19:56:29+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.17243v2",
+      "html_url": "https://arxiv.org/html/2510.17243v2",
+      "entry_url": "http://arxiv.org/abs/2510.17243v2"
+    },
+    {
+      "arxiv_id": "2510.17954v2",
+      "base_id": "2510.17954",
+      "title": "Green function of the Pöschl-Teller potential",
+      "authors": [
+        "Adrien Kuntz"
+      ],
+      "abstract": "We use an approximation of the Regge-Wheeler-Zerilli potential, known as Pöschl-Teller, to exactly compute the time-domain Green function of black hole perturbations in this simplified model, taking into account all causality conditions. We find the existence of an additional early times piece in the Green function, contributing to new exponentially growing modes just before the signal interacts with the maximum of the potential. The waveform itself is decomposed as an instantaneous piece traveling exactly on the light-cones of the Green function and a historical piece depending on the past trajectory of the system inside the light-cone. We also study redshift modes and show that the Regge-Wheeler-Zerilli Green function is regular at their frequency, with no zero nor pole.",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2025-10-20T18:00:00+00:00",
+      "updated": "2026-05-05T18:22:42+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.17954v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2510.17954v2"
+    },
+    {
+      "arxiv_id": "2510.17066v2",
+      "base_id": "2510.17066",
+      "title": "Compact Stars in Symmetric Teleparallel Scalar-Tensor Gravity",
+      "authors": [
+        "Grigorios Panotopoulos",
+        "Andrés Lueiza-Colipí",
+        "Nikolaos Dimakis",
+        "Andronikos Paliathanasis"
+      ],
+      "abstract": "We investigate the existence of static, spherically symmetric compact objects within the framework of symmetric teleparallel scalar-tensor gravity. This theory extends the Brans-Dicke and scalar-tensor models within the symmetric teleparallel formalism. We consider a nontrivial connection that allows for genuinely nontrivial solutions in the limit of General Relativity. The field equations admit a minisuperspace description and by applying the method of variational symmetries we construct the corresponding conservation laws in vacuum. The application of these conservation laws enables the reconstruction of analytic black-hole solutions. Finally, we study the interior structure of compact objects matched to an extremal Reissner-Nordström exterior and show that the symmetric teleparallel scalar-tensor theory supports the existence of viable astrophysical objects.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-10-20T00:45:01+00:00",
+      "updated": "2026-05-09T13:48:50+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.17066v2",
+      "html_url": "https://arxiv.org/html/2510.17066v2",
+      "entry_url": "http://arxiv.org/abs/2510.17066v2"
+    },
+    {
+      "arxiv_id": "2510.17967v2",
+      "base_id": "2510.17967",
+      "title": "Scalar fields around black hole binaries in LIGO-Virgo-KAGRA",
+      "authors": [
+        "Soumen Roy",
+        "Rodrigo Vicente",
+        "Josu C. Aurrekoetxea",
+        "Katy Clough",
+        "Pedro G. Ferreira"
+      ],
+      "abstract": "Light scalar particles arise naturally in many extensions of the Standard Model and are compelling dark-matter candidates. Gravitational interactions near black holes can trigger the growth of dense scalar configurations that, if sustained during inspiral, alter binary dynamics and imprint signatures on gravitational-wave signals. Detecting such effects would provide a novel probe of fundamental physics and dark matter. Here we develop a semi-analytic waveform model for binaries in scalar environments, validate it against numerical relativity simulations, and apply it in a Bayesian analysis of the LIGO-Virgo-KAGRA catalog. We obtain physically meaningful upper limits on scalar densities around most compact binaries. For GW190728 and GW190814, vacuum lies outside the $95\\%$ credible region. When including superradiance priors, GW190728 shows tentative evidence for a scalar environment with a Bayes factor of $\\ln \\mathrm{B}^{\\rm env}_{\\rm vac} \\approx 3.5$, consistent with a light scalar of mass $\\sim10^{-12}\\,\\mathrm{eV}$.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "astro-ph.HE",
+        "hep-ph"
+      ],
+      "published": "2025-10-20T18:00:02+00:00",
+      "updated": "2026-05-13T17:25:00+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.17967v2",
+      "html_url": "https://arxiv.org/html/2510.17967v2",
+      "entry_url": "http://arxiv.org/abs/2510.17967v2"
+    },
+    {
+      "arxiv_id": "2510.17980v2",
+      "base_id": "2510.17980",
+      "title": "FLAMINGO: Tracing the co-evolution of hot gas and black holes in galaxy groups and clusters",
+      "authors": [
+        "Emily E. Costello",
+        "Ian G. McCarthy",
+        "Jaime Salcido",
+        "John C. Helly",
+        "Robert J. McGibbon",
+        "Matthieu Schaller",
+        "Joop Schaye"
+      ],
+      "abstract": "The gas mass fraction of galaxy groups and clusters is a key physical quantity for constraining the impact of feedback processes on large-scale structure. While several modern cosmological simulations use the gas fraction-halo mass relation to calibrate their feedback implementations, we note that this relation exhibits substantial intrinsic scatter whose origin has not been fully elucidated. Using the large-volume FLAMINGO hydrodynamical simulations, we examine the role of both central and satellite supermassive black holes (BHs) in shaping this scatter, probing higher halo masses than previously possible. For haloes with M500 < 10^13 Msun, we find that central BH mass correlates strongly and negatively with gas fraction, such that higher BH masses give rise to lower gas fractions at fixed halo mass, consistent with previous studies. Interestingly, however, for 10^13 Msun < M500 < 10^14.5 Msun the correlation reverses and becomes positive, with overmassive BHs residing in haloes with above-average gas fractions. By tracing progenitor BHs and haloes through cosmic time, we show that this behaviour is driven by the expulsion and subsequent re-accretion of halo gas, regulated by the timing of BH growth and feedback. Specifically, haloes that collapse earlier form BHs earlier, leading to earlier gas expulsion and re-accretion and a high gas fraction compared to haloes of the same present-day mass that formed later. Our results demonstrate that present-day scatter in the gas fraction-halo mass relation is strongly shaped by the early growth history of BHs and their haloes, a prediction that can be tested with future observational measurements.",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.GA"
+      ],
+      "published": "2025-10-20T18:01:12+00:00",
+      "updated": "2026-05-18T15:35:11+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.17980v2",
+      "html_url": "https://arxiv.org/html/2510.17980v2",
+      "entry_url": "http://arxiv.org/abs/2510.17980v2"
+    },
+    {
+      "arxiv_id": "2510.17977v2",
+      "base_id": "2510.17977",
+      "title": "Growth of Structure in Multi-species Wave Dark Matter",
+      "authors": [
+        "Mustafa A. Amin",
+        "M. Sten Delos"
+      ],
+      "abstract": "We explore the growth of structure in multi-species wave (and particle) dark matter. We derive the evolution of the power spectrum of total density contrasts for an arbitrary number of component species, density fractions, and initial field power spectra. We also derive cross-spectra for density correlations across or within individual species. Our framework includes cold and warm wave dark matter, which can give rise to significant intrinsic Poisson-like density fluctuations along with scale-dependent evolution connected to the free-streaming and Jeans scales. Such dark matter components could be globally or locally misaligned scalar fields as well as multi-component fields with spin $>0$. The framework also includes cold and warm particle dark matter in the appropriate limits.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2025-10-20T18:00:10+00:00",
+      "updated": "2026-05-19T19:21:08+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.17977v2",
+      "html_url": "https://arxiv.org/html/2510.17977v2",
+      "entry_url": "http://arxiv.org/abs/2510.17977v2"
+    },
+    {
+      "arxiv_id": "2510.18011v2",
+      "base_id": "2510.18011",
+      "title": "Cosmic shear with one component and its application to future radio surveys",
+      "authors": [
+        "Yu-Hsiu Huang",
+        "Elisabeth Krause",
+        "Tim Eifler",
+        "Gary Bernstein",
+        "Jiachuan Xu",
+        "Eric Huff",
+        "Pranjal R. S"
+      ],
+      "abstract": "We present a new approach to measuring cosmic shear: the one-component kinematic lensing (KL) method. This technique provides a simplified implementation of KL that reduces shape noise in weak lensing (WL) by combining kinematic information with imaging data, while requiring less observational effort than the full two-component KL. We perform simulated likelihood analyses to assess the performance of the one-component KL and demonstrate its applicability to future radio surveys. Our forecasts indicate that, for radio surveys, the one-component KL is not yet competitive with traditional WL due to the shallow redshift distribution of Hi-selected galaxies. However, when applying this method to deeper spectroscopic surveys with stronger emission lines, the one-component KL approach could surpass WL in constraining power, offering a promising and efficient pathway for future shear analyses.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2025-10-20T18:43:28+00:00",
+      "updated": "2026-05-22T15:39:44+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.18011v2",
+      "html_url": "https://arxiv.org/html/2510.18011v2",
+      "entry_url": "http://arxiv.org/abs/2510.18011v2"
+    },
+    {
+      "arxiv_id": "2510.17675v2",
+      "base_id": "2510.17675",
+      "title": "Probing the Higgs Portal to a Strongly-Interacting Dark Sector at the FCC-ee",
+      "authors": [
+        "Cesare Cazzaniga",
+        "Annapaola de Cosa",
+        "Felix Kahlhoefer",
+        "Andrea S. Maria",
+        "Roberto Seidita",
+        "Emre Sitti"
+      ],
+      "abstract": "This work explores exotic signatures from confining dark sectors that may arise in the $e^+e^-$ collision mode at the Future Circular Collider. Assuming the Higgs boson mediates the interaction between the Standard Model and the dark sector, dark quarks can be produced in $e^+e^-$  collisions. The ensuing strong dynamics may lead to semi-visible jet final states, containing both visible and invisible particles. We investigate semi-visible jets with different fractions of invisible states, and enriched in leptons and photons. When the invisible component is large, selections based on kinematic features, such as the missing energy in the event, already provide good signal-to-background discrimination. For smaller invisible fractions, the reduced missing energy makes these signals more similar to Standard Model events, and we therefore employ a graph neural network jet tagger exploiting differences in jet substructure. This machine learning strategy improves sensitivity and enhances the discovery prospects of Higgs boson-induced semi-visible jets at the Future Circular Collider. Our results show that the proposed strategy can effectively probe a wide parameter space for the models considered, and a variety of signatures, constraining the Higgs boson exotic branching ratios into dark quarks at the permille-level.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-10-20T15:48:07+00:00",
+      "updated": "2026-05-22T08:10:43+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.17675v2",
+      "html_url": "https://arxiv.org/html/2510.17675v2",
+      "entry_url": "http://arxiv.org/abs/2510.17675v2"
+    },
+    {
+      "arxiv_id": "2510.17953v2",
+      "base_id": "2510.17953",
+      "title": "Junctions, strings, clocks and gravitational memory in three dimensional dS space",
+      "authors": [
+        "Avik Chakraborty",
+        "Jewel Kumar Ghosh",
+        "Martín Molina",
+        "Ayan Mukhopadhyay"
+      ],
+      "abstract": "We show that non-trivial stringy excitations in Lorentzian three dimensional de Sitter spacetime can be created self-consistently from gravitational memory in the infinite past. In addition to demonstrating that the Nambu-Goto equations for the string emerge from the two-way gravitational junction conditions, we establish the existence of well-behaved solutions corresponding to transient fluctuations of a closed string about the equator which are both borne out of and dissolve to distinct gravitational memory in the infinite past and future, respectively. The memory at infinite past, which uniquely characterizes such a solution, is a single function giving the relative angular shift at the junction gluing two two-dimensional hemispheres. This reveals that a clock dynamically emerges in the presence of a gravitational junction without the need of any external observer.   We also show that our results generalize to the $n$-way gravitational junctions with $n\\geq 3$, which are captured by Nambu-Goto-Monge-Ampère equations for coupled $n-1$ strings -- these degrees of freedom exist even in the tensionless limit. Furthermore, for $n\\geq 3$, $n-1$ correlated clocks dynamically emerge without the need of external observers in the tensionless limit, revealing a novel feature of pure three-dimensional gravity.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2025-10-20T18:00:00+00:00",
+      "updated": "2026-06-01T22:42:45+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.17953v2",
+      "html_url": "https://arxiv.org/html/2510.17953v2",
+      "entry_url": "http://arxiv.org/abs/2510.17953v2"
+    },
+    {
+      "arxiv_id": "2510.18901v2",
+      "base_id": "2510.18901",
+      "title": "Flow-geometry microstates",
+      "authors": [
+        "Ricardo Espíndola",
+        "Shoichiro Miyashita"
+      ],
+      "abstract": "We construct geometric microstates for a class of two-dimensional flow geometries$-$spacetimes that interpolate from an asymptotic AdS$_2$ boundary to a dS$_2$ static patch in the interior$-$by inserting particles behind the horizon. We show that this mechanism produces dS microstates with an Einstein-Rosen bridge of infinite length behind the horizon. The state-counting of these microstates, including wormhole contributions, reproduces the Gibbons-Hawking entropy, $S_{\\rm dS}=A^{\\rm dS}_{\\rm horizon}/4G$. Furthermore, we extend the microstate-counting method to the case of a finite-length Einstein-Rosen bridge. As a result, the Hilbert space of the dS horizon in the flow geometry can be spanned by states with a purely dS Einstein-Rosen bridge, containing no AdS portion on the time-symmetric slice. This provides a concrete realization of dS microstates within a controlled holographic framework.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2025-10-20T18:00:03+00:00",
+      "updated": "2026-06-07T08:54:35+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.18901v2",
+      "html_url": "https://arxiv.org/html/2510.18901v2",
+      "entry_url": "http://arxiv.org/abs/2510.18901v2"
+    },
+    {
+      "arxiv_id": "2510.17975v3",
+      "base_id": "2510.17975",
+      "title": "Holography of K-complexity: Switchbacks and Shockwaves",
+      "authors": [
+        "Marco Ambrosini",
+        "Eliezer Rabinovici",
+        "Julian Sonner"
+      ],
+      "abstract": "In this paper we study Krylov complexity in the presence of single and multiple operators in the DSSYK model, where we can use the analytical techniques coming from chord diagrammatics. One of the results we obtain is that it showcases the switchback effect, when the appropriate ``triple-scaling limit'' is taken, under which the model becomes dual to semiclassical JT gravity. We build on previous work, where it was shown that, in the continuum limit, Krylov complexity is defined as the sum of expectations value of right and left chord number operators. Here we argue that this property signals the emergence of the geometric nature of this notion of K-complexity. We show that in the regime where DSSYK is dual to semi-classical gravity, the light matter chord corresponds to a shockwave insertion in JT gravity. We identify the geodesic-length dual of the operator complexity and extend the relevant holographic dictionary to describe the details of the matter insertions. Additionally, we define a class of two-sided perturbations of the Lanczos algorithm that allows to analyze the switchback effect. In the appropriate semi-classical limit, this perturbed operator complexity is dual to an ERB length in JT gravity with corresponding shockwave insertions. We thus establish that K-complexity exhibits the expected switchback effect and universal late-time linear growth, consistent with previous findings regarding its geometric nature in the holographic bulk-boundary map.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2025-10-20T18:00:07+00:00",
+      "updated": "2026-06-05T21:03:51+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.17975v3",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2510.17975v3"
+    }
+  ],
+  "total": 15
+}

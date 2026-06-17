@@ -1,0 +1,255 @@
+{
+  "date": "2026-04-19",
+  "total": 9,
+  "papers": [
+    {
+      "arxiv_id": "2604.17478v1",
+      "base_id": "2604.17478",
+      "title": "A Unified Bogoliubov Approach to Primordial Gravitational Waves: From Inflation to Reheating",
+      "authors": [
+        "Yubing Wang",
+        "Quan-feng Wu",
+        "Xun-Jie Xu"
+      ],
+      "abstract": "We present an effective numerical method that can be used to straightforwardly calculate the full spectrum of primordial gravitational waves produced during inflation and reheating. Our method is based on the Bogoliubov approach with several key improvements to overcome its shortcomings such as numerical instabilities at high frequencies and issues with tachyonic modes. We also present a few useful analytical examples from which one can gain crucial insights into the numerical instabilities. The improved method allows us to demonstrate that anharmonicity of inflaton oscillations can leave interesting fingerprints on the high-frequency part of the GW spectrum. Our numerical code is publicly available on GitHub https://github.com/xunjiexu/Unified-Bogoliubov.git.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "published": "2026-04-19T15:09:08+00:00",
+      "updated": "2026-04-19T15:09:08+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.17478v1",
+      "html_url": "https://arxiv.org/html/2604.17478v1",
+      "entry_url": "http://arxiv.org/abs/2604.17478v1",
+      "relevance": {
+        "relevant": true,
+        "score": 10,
+        "reason": "This paper is extremely relevant as it directly addresses two of the researcher's core interests—cosmic reheating dynamics and pre-thermalization gravitational waves—by presenting a unified numerical method for computing the full primordial GW spectrum from inflation through reheating, including the effects of anharmonic inflaton oscillations, with a publicly available computational tool.",
+        "pass_number": 1,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2604.17430v1",
+      "base_id": "2604.17430",
+      "title": "Testing $α$-attractor P-model of inflation by Cosmic Microwave Background radiation",
+      "authors": [
+        "Michał Marciniak",
+        "Marek Olechowski",
+        "Stefan Pokorski"
+      ],
+      "abstract": "In a recently proposed approach to testing models of inflation by Cosmic Microwave Background (CMB) radiation the reheating temperature is directly expressed in terms of the CMB observables. Its model independent bounds translate in a given model into narrow ranges of those observables. In that approach we analyse the polynomial class of the $α$-attractor inflaton potential models (P-models), in a broad range of polynomials and with the inflaton decays and fragmentation in the reheating period taken into account. The predictions for the CMB observables, the scalar spectral index $n_s$ and tensor-to-scalar ratio $r$, are compared with the Planck and Planck combined with ACT data. Both can be accommodated by that class of the $α$ attractor models. The sensitivity of the results of that comparison to the reheating temperature and to the upper bound on the ratio $r$ is clearly demonstrated.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "published": "2026-04-19T13:21:41+00:00",
+      "updated": "2026-04-19T13:21:41+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.17430v1",
+      "html_url": "https://arxiv.org/html/2604.17430v1",
+      "entry_url": "http://arxiv.org/abs/2604.17430v1",
+      "relevance": {
+        "relevant": true,
+        "score": 7,
+        "reason": "This paper is directly relevant to the researcher's interest in early-universe cosmology and cosmic reheating dynamics, as it systematically analyzes reheating temperature constraints on α-attractor inflation models using CMB observables, including detailed treatment of inflaton fragmentation and non-perturbative reheating effects via lattice simulations.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2604.17383v1",
+      "base_id": "2604.17383",
+      "title": "Hydrodynamics of Filtered Dark Matter: A Two-Component Approach",
+      "authors": [
+        "Juntaro Wada"
+      ],
+      "abstract": "We study the hydrodynamics of the Filtered Dark Matter (Filtered DM) scenario during a first-order phase transition (FOPT). In this scenario, the bubble wall is highly reflective of the dark matter (DM) fluid but transparent to radiation, making the hydrodynamic problem fundamentally different from that of the electroweak FOPT. Motivated by this property, we formulate the hydrodynamics of this system as a two-component fluid composed of DM and radiation, and find that the solutions can be classified into detonation-like and deflagration-like branches in the ballistic regime and in the local thermal equilibrium (LTE) regime. In the ballistic regime, the energy--momentum of DM that cannot enter the wall appears as a reflected mode, while in the LTE regime, it relaxes into the energy--momentum of radiation. We find that this difference in the fate of the DM fluid that cannot enter the interior of the wall leads to different hydrodynamic behaviors in the DM and radiation fluids independently and, in particular, results in different existence conditions for solutions in the deflagration-like branch. Based on these results, we further revisit the impact of hydrodynamic effects on the relic abundance of Filtered DM and demonstrate the change in the abundance induced by hydrodynamic effects. In addition, we also discuss the non-conservation of the entropy current from the viewpoint of the two-fluid system, and briefly comment on the similarity between the Filtered DM system and information-thermodynamic systems.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "hep-th"
+      ],
+      "published": "2026-04-19T11:17:31+00:00",
+      "updated": "2026-04-19T11:17:31+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.17383v1",
+      "html_url": "https://arxiv.org/html/2604.17383v1",
+      "entry_url": "http://arxiv.org/abs/2604.17383v1",
+      "relevance": {
+        "relevant": true,
+        "score": 7,
+        "reason": "The paper on filtered dark matter hydrodynamics during first-order phase transitions directly connects to the researcher's core interests in early-universe cosmology (FOPT dynamics, stochastic gravitational-wave backgrounds mentioned as motivation) and dark matter physics (DM production mechanisms, relic abundance calculations, dark sector dynamics), though it does not overlap with their more specific interests in neutrino physics, PBHs, axion detection, or multi-loop calculations.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2604.14549v2",
+      "base_id": "2604.14549",
+      "title": "Loop integrals in de Sitter spacetime: The parity-split IBP system and $\\mathrm{d}\\log$-form differential equations",
+      "authors": [
+        "Jiaqi Chen",
+        "Bo Feng",
+        "Zhehan Qin",
+        "Yi-Xiao Tao"
+      ],
+      "abstract": "We develop integration-by-parts (IBP) reduction and differential equations for massive loop integrals of cosmological correlators in de Sitter (dS) spacetime, demonstrating the feasibility of this approach. We identify a structural property of the dS IBP system: for an $n$-propagator family, it splits into $2^n$ closed subsystems classified by the parity of the propagator indices. We further formulate a Baikov representation for loop integrals in dS space and derive the corresponding dimensional recurrence relations. In flat spacetime, intersection theory shows that $\\mathrm{d}\\log$-form master integrands lead to $\\mathrm{d}\\log$-form differential equations. Motivated by fibration intersection theory, we conjecture that this construction extends to dS integrands involving Hankel functions. We verify this conjecture in the one-loop bubble family and determine the associated alphabet.",
+      "categories": [
+        "hep-th",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "published": "2026-04-16T02:30:24+00:00",
+      "updated": "2026-04-19T03:10:35+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.14549v2",
+      "html_url": "https://arxiv.org/html/2604.14549v2",
+      "entry_url": "http://arxiv.org/abs/2604.14549v2",
+      "relevance": {
+        "relevant": true,
+        "score": 7,
+        "reason": "The paper develops IBP reduction and dlog-form differential equation methods for loop integrals—core techniques in the user's multi-loop perturbative calculations and computational tools interests—and applies them to de Sitter cosmological correlators, connecting to the user's early-universe cosmology work, though the specific application to dS correlators rather than flat-space QCD is adjacent rather than central to their primary research.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2604.17666v1",
+      "base_id": "2604.17666",
+      "title": "New physics in the $ZZh$ vertex: One-loop contributions from a radiative seesaw model",
+      "authors": [
+        "Héctor Novales-Sánchez",
+        "Humberto Vázquez-Castro",
+        "Mónica Salinas"
+      ],
+      "abstract": "Precision Higgs physics offers a sensitive window into physics beyond the Standard Model. In parallel, neutrino-oscillation experiments have established the existence of nonzero neutrino masses, thus implying the presence of new physics. Motivated by these facts, we investigate the one-loop contributions of light and heavy Majorana neutrinos to the $ZZh$ vertex within a variant of the type-I seesaw mechanism in which light-neutrino masses vanish at tree level and are then generated radiatively. We analyze the $CP$-conserving and $CP$-violating anomalous couplings which characterize the $ZZh$ vertex and study their phenomenological implications in two relevant kinematic scenarios at future lepton colliders: Higgsstrahlung production and Higgs production via neutral-current vector-boson fusion. We find that $CP$-conserving effects can reach magnitudes of order $10^{-3}$, potentially within projected future experimental sensitivities, whereas $CP$-violating contributions are strongly suppressed, lying well beyond such projections.",
+      "categories": [
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2026-04-19T23:35:11+00:00",
+      "updated": "2026-04-19T23:35:11+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.17666v1",
+      "html_url": "https://arxiv.org/html/2604.17666v1",
+      "entry_url": "http://arxiv.org/abs/2604.17666v1",
+      "relevance": {
+        "relevant": true,
+        "score": 6,
+        "reason": "The paper overlaps with the researcher's interests in neutrino physics (heavy Majorana neutrinos in a radiative seesaw model) and electroweak precision calculations for future Higgs factories (one-loop ZZh vertex corrections relevant to Higgsstrahlung e⁺e⁻ → ZH), though it operates at one-loop rather than the multi-loop level the researcher focuses on.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2407.20615v2",
+      "base_id": "2407.20615",
+      "title": "Prospects of five-dimensional $L_μ-L_τ$ gauge interactions in the light of elastic neutrino-electron scatterings: The scope of the DUNE near detector",
+      "authors": [
+        "Dibyendu Chakraborty",
+        "Arindam Chatterjee",
+        "Ayushi Kaushik",
+        "Kenji Nishiwaki"
+      ],
+      "abstract": "We discuss the future prospects of a minimally five-dimensional version of the well-motivated scenario for addressing the discrepancy in the muon anomalous magnetic moment, the $U(1)_{L_μ- L_τ}$ extension of the standard model (SM) gauge symmetry. Here, multiple associated massive gauge bosons appear thanks to the five-dimensional $U(1)_{L_μ- L_τ}$ gauge symmetry, and they contribute to the muon $(g-2)$ and also other processes. We focus on the powerful probe of elastic neutrino-electron scatterings since the upcoming DUNE experiment will explore MeV-scale uncharted regions by previous experiments (e.g., CHARM-II and Borexino) in the near future. We found that even with small kinetic mixing parameters, much of the parameter space, including those satisfying muon $(g-2)$, can be probed using several years of data from the DUNE experiment, focusing on the near detector. In our scenario, interference effects between intermediate-state gauge bosons play an important role. Our results include comparisons between flat and warped extra dimensions.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2024-07-30T07:45:22+00:00",
+      "updated": "2026-04-19T17:00:02+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2407.20615v2",
+      "html_url": "https://arxiv.org/html/2407.20615v2",
+      "entry_url": "http://arxiv.org/abs/2407.20615v2",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "While the paper involves neutrino phenomenology and gauge boson physics, its focus on 5D $L_\\mu-L_\\tau$ models probed at DUNE is tangential to the researcher's core neutrino interests (JUNO phenomenology, HNLs with dark decays, cosmological bounds) and does not align with their primary focus on multi-loop QCD, early-universe cosmology, or electroweak precision calculations.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2604.17467v1",
+      "base_id": "2604.17467",
+      "title": "Comparison of Effective Dissipation Channels in Warm Higgs Inflation from Warm Background Evolution",
+      "authors": [
+        "Wei Cheng",
+        "Xin Peng",
+        "Jia-wei Zhang",
+        "Ruiyu Zhou",
+        "Yu Pan"
+      ],
+      "abstract": "Within the framework of warm Higgs inflation, a systematic comparison is carried out among seven effective dissipation channels (EDC) constructed from combinations of the three basic dissipation channels, namely the low temperature (LT), high temperature (HT), and threshold (Th) channels. Adopting a unified treatment of warm background evolution, complexity penalization, and boundary consistency checks, the comparison is performed in terms of their distributions of the best fit points in ($n_s$, $r$) plane, relative BIC hierarchy, channel dominance patterns, and warmness indicators. The results show that, except for the pure HT EDC $Υ_{\\mathrm{010}}$, the best fit points of the other six EDC are clustered within a small region of the ($n_s$, $r$) plane, around $n_s \\approx 0.965$ and $r \\approx (3.68 \\to 3.74)\\times10^{-3}$. In contrast, $Υ_{\\mathrm{010}}$ is displaced from this main cluster, with a representative best fit point near $n_s = 0.9552$ and $r = 6.0\\times10^{-3}$. Under both the unified scan and the 1200-point refined rescoring, the pure LT EDC $Υ_{\\mathrm{100}}$ remains top-ranked, while $Υ_{\\mathrm{011}}$ and $Υ_{\\mathrm{111}}$ remain disfavored, indicating that the overall hierarchy is stable under the present boundary check criterion. Warmness diagnostics further show that $Υ_{\\mathrm{100}}$ corresponds to $Q_* \\approx 35.7$ and $T_*/H_* \\approx 1.90\\times10^{3}$, placing it in the strong warm regime, whereas $Υ_{\\mathrm{011}}$ gives $T_*/H_* \\approx 0.31$, already below the warmness threshold. The channel fractions, boundary checks, and constrained internal-mixing probes consistently indicate that the best fit points of the multi-channel EDC do not form a stable internally mixed region, but instead lie closer to a single channel dominated regime.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2026-04-19T14:35:11+00:00",
+      "updated": "2026-04-19T14:35:11+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.17467v1",
+      "html_url": "https://arxiv.org/html/2604.17467v1",
+      "entry_url": "http://arxiv.org/abs/2604.17467v1",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "The paper falls within early-universe cosmology and inflation, which is one of the researcher's core interests, but focuses on warm Higgs inflation phenomenology and dissipation channel comparison rather than the researcher's specific sub-topics of reheating dynamics, pre-thermalization gravitational waves, or Bose-enhanced inflaton decay.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2604.17230v1",
+      "base_id": "2604.17230",
+      "title": "Suppressed Magnetogenesis from Ultralight Dark Matter due to Finite Conductivity",
+      "authors": [
+        "Ramkishor Sharma",
+        "Samarth Majumdar",
+        "Divya Sachdeva"
+      ],
+      "abstract": "Recently, a mechanism for generating astrophysically relevant magnetic fields via ultralight pseudoscalar dark matter, through the coupling term $g_{φγ} φF_{μν}\\tilde{F}^{μν}$ in the Lagrangian density, was proposed in Brandenberger et al (2026) (see Ref. 1). In this scenario, the electromagnetic fields are amplified through the phenomena of parametric resonance due to the oscillatory behaviour of the pseudoscalar field. However, the analysis presented in that work does not account for the effects of a conducting medium. In this paper, we incorporate the finite conductivity of the plasma into the dynamics of the pseudoscalar and electromagnetic fields. We show that, due to the large conductivity relative to the Hubble parameter, the amplification of the electromagnetic fields due to parametric resonance is significantly suppressed. Consequently, we find that, for observationally viable values of the coupling between the electromagnetic field and the ultralight pseudoscalar field, it is not possible to generate magnetic fields of sufficient strength to explain their presence in cosmic voids.",
+      "categories": [
+        "astro-ph.CO",
+        "hep-ph"
+      ],
+      "published": "2026-04-19T03:27:24+00:00",
+      "updated": "2026-04-19T03:27:24+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.17230v1",
+      "html_url": "https://arxiv.org/html/2604.17230v1",
+      "entry_url": "http://arxiv.org/abs/2604.17230v1",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "The paper studies ultralight pseudoscalar (axion-like) dark matter coupled to photons via $g_{\\phi\\gamma}\\phi F\\tilde{F}$, which overlaps with the researcher's interest in axion-dark matter physics, but the main focus on cosmological magnetogenesis and plasma conductivity effects is peripheral to the researcher's core interests in axion detection, solar axions, and particle physics phenomenology.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2604.18641v1",
+      "base_id": "2604.18641",
+      "title": "Inflation from a Weyl-flat null origin",
+      "authors": [
+        "Malaika Arshad",
+        "Jehanzad Zafar",
+        "Ahdab Althukair",
+        "Bilal Ahmad"
+      ],
+      "abstract": "We show that a Weyl-flat null origin of inflation need not be in tension with present observations. For canonical single-field inflation, any background with $ε(N)\\to ε_\\infty\\in(0,1)$ as $N\\to\\infty$ is asymptotically power-law, inherits the same Weyl-flat null past boundary, and reconstructs an exponential tail in field space. This identifies the origin as an asymptotic universality class rather than a rigid exact solution. We study a minimal deformation, $ε(N)=ε_\\infty+(1-ε_\\infty)\\left(\\frac{N_0}{N+N_0}\\right)^p$ with $p>1$, which preserves the asymptotic geometry, yields a smooth exit, and produces realistic finite-$N$ phenomenology. Solving the scalar and tensor mode equations directly in e-fold time, we find a viable corridor with $n_s$ in the Planck-preferred range and $r\\sim10^{-3}-10^{-2}$, including reheating-compatible benchmarks. The result is a calculable single-field framework in which a Penrose-compatible Weyl-flat inflationary origin survives as a realistic and testable possibility.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "published": "2026-04-19T14:50:11+00:00",
+      "updated": "2026-04-19T14:50:11+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.18641v1",
+      "html_url": "https://arxiv.org/html/2604.18641v1",
+      "entry_url": "http://arxiv.org/abs/2604.18641v1",
+      "relevance": {
+        "relevant": true,
+        "score": 3,
+        "reason": "The paper touches on early-universe cosmology and reheating phenomenology, which broadly overlaps with the researcher's interest in cosmic reheating dynamics, but its primary focus on Penrose's Weyl-curvature hypothesis and asymptotic geometric constraints on inflationary backgrounds is far from the researcher's specific interests in pre-thermalization gravitational waves, Bose-enhanced inflaton decay, and particle-physics-oriented early-universe topics.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    }
+  ]
+}

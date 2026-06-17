@@ -1,0 +1,190 @@
+{
+  "date": "2026-06-07",
+  "total": 7,
+  "papers": [
+    {
+      "arxiv_id": "2601.03346v2",
+      "base_id": "2601.03346",
+      "title": "Sterile Neutrino Dark Matter as a Probe of Inflationary Reheating",
+      "authors": [
+        "James M. Cline",
+        "Yong Xu"
+      ],
+      "abstract": "Sterile neutrinos offer a minimal and testable explanation for dark matter (DM), with their radiative decay actively searched for in X-ray observations. We show that cold sterile neutrino DM can be efficiently produced during reheating from inflaton decays with a small branching ratio, ${\\rm BR}\\lesssim 10^{-4}$. This production mechanism opens regions of parameter space where the active-sterile mixing is small enough to evade current X-ray constraints while reproducing the observed DM abundance. We systematically map the viable parameter space in terms of the sterile neutrino mass, mixing angle, inflaton mass, reheating temperature, and branching ratio. We further demonstrate that sterile neutrino DM can serve as a probe of inflationary reheating, with future X-ray observations capable of yielding information on the inflaton mass and the reheating-temperature ratio $m_φ/T_{\\rm rh}$. For a given inflationary model in which the inflaton mass is known, this leads to a lower bound on the reheating temperature that is several orders of magnitude stronger than the existing bound from Big Bang Nucleosynthesis.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "published": "2026-01-06T19:00:02+00:00",
+      "updated": "2026-06-07T20:04:28+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.03346v2",
+      "html_url": "https://arxiv.org/html/2601.03346v2",
+      "entry_url": "http://arxiv.org/abs/2601.03346v2",
+      "relevance": {
+        "relevant": true,
+        "score": 9,
+        "reason": "This paper directly connects two of the researcher's core interests—early-universe reheating dynamics and heavy neutral leptons/sterile neutrinos as dark matter—by showing how sterile neutrino DM production during inflaton decay can probe reheating parameters and evade X-ray constraints.",
+        "pass_number": 1,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2602.21523v2",
+      "base_id": "2602.21523",
+      "title": "Elastic neutrino-electron scattering perspectives at nuclear reactors",
+      "authors": [
+        "Luis A. Delgadillo",
+        "Qishan Liu",
+        "Randhir Singh"
+      ],
+      "abstract": "The determination of the weak mixing angle, $\\sin^2θ_W$, at low momentum transfers remains a powerful test of the Standard Model and its potential new physics extensions. In this paper, we explore some physics opportunities at present and future reactor neutrino experiments through elastic neutrino-electron scattering (E$ν$ES). We assess the expected sensitivity to the weak mixing angle considering the CLOUD, TAO, and DANSS experimental configurations. We find that both CLOUD and TAO may achieve a precision that surpasses the current global fit from reactor experiments, while DANSS alone is expected to surpass the benchmark precision set by TEXONO measurement of the weak mixing angle. Additionally, we derive projected upper limits for the non-standard neutrino interactions (NSI), effective neutrino magnetic moment ($μ_ν$) and translate these into constraints on the neutrino transition magnetic moments ($Λ_i$). Our results demonstrate the physics potential of the E$ν$ES channel at current and upcoming reactor-based neutrino experiments.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2026-02-25T03:25:07+00:00",
+      "updated": "2026-06-07T14:38:36+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.21523v2",
+      "html_url": "https://arxiv.org/html/2602.21523v2",
+      "entry_url": "http://arxiv.org/abs/2602.21523v2",
+      "relevance": {
+        "relevant": true,
+        "score": 8,
+        "reason": "This paper is directly relevant to the user's JUNO phenomenology research, as it analyzes TAO (JUNO-TAO) and probes neutrino physics topics including NSI and neutrino magnetic moments at reactor experiments, authored by researchers at the user's own institution (IHEP).",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.08631v1",
+      "base_id": "2606.08631",
+      "title": "Hawking Radiation from the Dymnikova Regular Black Hole",
+      "authors": [
+        "Milena Skvortsova"
+      ],
+      "abstract": "We study Hawking radiation of the Dymnikova regular black hole. This model replaces the central singularity by a smooth de Sitter core while remaining Schwarzschild-like far from the hole, and its black-hole branch ends in a cold extremal remnant. We compute the greybody factors of the Standard Model test fields and gravitons, compare the precise numerical scattering results with WKB estimates, and use the resulting spectra to estimate an adiabatic evaporation history. The main effect is not a dramatic change in the transmission probabilities: the greybody thresholds move only slightly as the geometry approaches the remnant. Instead, the rapid decrease of the Hawking temperature strongly suppresses the total luminosity. The photon, light-fermion and graviton channels all fade near the endpoint, with the gravitational contribution remaining subdominant. The residual massless flux becomes increasingly fermion dominated because the photon channel is suppressed more efficiently. The black hole approaches the cold remnant only asymptotically, so the quoted lifetime estimates should be interpreted as cutoff times to near-extremal configurations rather than as complete evaporation times.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2026-06-07T13:50:43+00:00",
+      "updated": "2026-06-07T13:50:43+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.08631v1",
+      "html_url": "https://arxiv.org/html/2606.08631v1",
+      "entry_url": "http://arxiv.org/abs/2606.08631v1",
+      "relevance": {
+        "relevant": true,
+        "score": 5,
+        "reason": "The paper studies Hawking radiation and greybody factors for a regular black hole model, which connects to the researcher's interest in PBH Hawking evaporation, but focuses on a specific classical GR metric (Dymnikova) rather than PBH phenomenology, BBN constraints, or high-energy particle production that are central to the researcher's PBH work.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.00176v2",
+      "base_id": "2606.00176",
+      "title": "Eigenvalue formulation of Stochastic Inflation and application to large perturbation generating inflationary features",
+      "authors": [
+        "Swagat S. Mishra",
+        "Edmund J. Copeland",
+        "Anne M. Green"
+      ],
+      "abstract": "Stochastic inflation is a powerful technique for calculating the probability distribution function (PDF) of large inflationary perturbations, which may collapse to form Primordial Black Holes. The PDF, $P({\\cal N})$, of the stochastic number of e-folds, ${\\cal N}$, satisfies an adjoint Fokker-Planck Equation. We develop a new self-contained eigenvalue technique which can be used to determine $P({\\cal N})$. First we apply this method to the simple case of quantum diffusion along a flat potential without any classical drift. We recover the expression for the PDF that has previously been found using characteristic functions, with an exponential tail, and a power-law behaviour, $P({\\cal N}) \\propto {\\cal N}^{-3/2}$, in the intermediate regime between the peak and the tail of the PDF. Finally we apply the method to constant drift inflation, in the narrow- and broad-well limits. In the narrow-well limit, there is an analytic solution and the PDF is similar to the drift-free case, with a mildly suppressed tail. In the broad-well limit, determining the full set of eigenvalues and eigenfunctions requires a piecewise construction of the spectrum, and the broad-well PDF is qualitatively different, with an enhanced peak and a strongly suppressed tail.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph",
+        "hep-th",
+        "math-ph"
+      ],
+      "published": "2026-05-29T13:57:18+00:00",
+      "updated": "2026-06-07T12:24:01+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.00176v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2606.00176v2",
+      "relevance": {
+        "relevant": true,
+        "score": 5,
+        "reason": "The paper addresses PBH formation from large inflationary perturbations via stochastic inflation, which connects to the researcher's interest in primordial black holes and early-universe cosmology, but the specific eigenvalue/Fokker-Planck technique and focus on inflationary dynamics rather than PBH evaporation, BBN constraints, or gravitational-wave backgrounds makes it only moderately aligned with their core research profile.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.08767v1",
+      "base_id": "2606.08767",
+      "title": "Fire at the Tip of the Throat: Hagedorn Phase after brane-antibrane inflation?",
+      "authors": [
+        "Dibya Chakraborty",
+        "Ahmed Rakin Kamal"
+      ],
+      "abstract": "We study the post-inflationary open-string Hagedorn phase in perturbatively moduli stabilized brane-antibrane inflation. In this class of models, the volume modulus is stabilized by perturbative corrections rather than by non-perturbative effects to the superpotential, thereby avoiding the standard brane-antibrane $η$-problem. Since inflation ends through tachyon condensation and brane-antibrane annihilation, the endpoint is intrinsically stringy and need not be described immediately by an ordinary radiation bath. We analyze whether the energy released at annihilation can drive the visible sector into an open-string Hagedorn phase, and study the consequences for dark radiation. If the Standard Model (SM) branes lie in the same throat as where the annihilation occurs, we find that a modest fraction of the released energy deposited into surviving visible open strings is sufficient to enter the Hagedorn regime and can suppress the effective number of relativistic species $ΔN_{\\rm eff}$ below current observational bounds. If the SM lies in a different throat, the result depends on inter-throat energy transfer: prompt or delayed transfer can still yield a visible Hagedorn phase. However, the mechanism is most efficient when the local string scale in the SM throat is lower than or comparable to that in the annihilation throat.",
+      "categories": [
+        "hep-th",
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "published": "2026-06-07T18:11:06+00:00",
+      "updated": "2026-06-07T18:11:06+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.08767v1",
+      "html_url": "https://arxiv.org/html/2606.08767v1",
+      "entry_url": "http://arxiv.org/abs/2606.08767v1",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "The paper touches on cosmic reheating dynamics and ΔN_eff constraints which align with the researcher's early-universe cosmology interests, but the core framework is string-theoretic (brane-antibrane inflation, Hagedorn phase, warped throats) rather than particle-physics-based, making it only tangentially relevant to the researcher's primarily phenomenological and perturbative work.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.08487v1",
+      "base_id": "2606.08487",
+      "title": "Probing Dark Photons from Nuclear De-excitation in Reactor Neutrino Experiment",
+      "authors": [
+        "Yuanchao Lou",
+        "Lei Wu"
+      ],
+      "abstract": "Reactor neutrino experiments serve as powerful probes of light new physics. We investigate MeV-scale visible dark photons ($A'$) produced in nuclear reactors through nuclear de-excitation following neutron capture $N^*\\to N A'$. Compared with the conventional Compton-like production process $γe^-\\to A'e^-$, the nuclear de-excitation yields on-shell dark photons with masses up to the nuclear transition energy. Using data from the TEXONO CsI(Tl) detector, we derive the new constraints on the kinetic mixing parameter $ε$ for dark photon masses in the range $0.1\\,\\mathrm{MeV} < m_{A'} < 6.9\\,\\mathrm{MeV}$. We find that nuclear de-excitation not only extends the mass reach of reactor searches to higher dark photon masses but also provides a stronger limit than the Compton-like production process.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-06-07T07:19:13+00:00",
+      "updated": "2026-06-07T07:19:13+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.08487v1",
+      "html_url": "https://arxiv.org/html/2606.08487v1",
+      "entry_url": "http://arxiv.org/abs/2606.08487v1",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "The paper deals with dark photon searches at reactor neutrino experiments, which has tangential relevance to the researcher's interests in dark matter physics and JUNO phenomenology (the paper mentions TAO, a JUNO-related detector, as a future application), but the specific focus on dark photon phenomenology via nuclear de-excitation is outside the researcher's core areas of axion physics, neutrino physics, and perturbative calculations.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2603.08430v2",
+      "base_id": "2603.08430",
+      "title": "The Dark Photon: a 2026 Perspective",
+      "authors": [
+        "Andrea Caputo",
+        "Rouven Essig"
+      ],
+      "abstract": "We give a pedagogical overview of dark photons. We describe the theory and their importance in particle physics research, and discuss searches using laboratory, astrophysical, and cosmological probes.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-03-09T14:25:57+00:00",
+      "updated": "2026-06-07T10:37:22+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.08430v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2603.08430v2",
+      "relevance": {
+        "relevant": true,
+        "score": 3,
+        "reason": "While dark photons are related to dark sector physics that the researcher encounters through HNL dark decays and PBH dark decay channels, this pedagogical review is only tangentially relevant to their specific research on neutrinos, axions, PBHs, and multi-loop calculations.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    }
+  ]
+}

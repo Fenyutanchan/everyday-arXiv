@@ -1,0 +1,289 @@
+{
+  "date": "2026-01-27",
+  "papers": [
+    {
+      "arxiv_id": "2601.19626v2",
+      "base_id": "2601.19626",
+      "title": "A self-consistent calculation of non-spherical Bose-Einstein correlation functions with Coulomb final-state interaction",
+      "authors": [
+        "Márton I. Nagy",
+        "Máté Csanád",
+        "Dániel Kincses"
+      ],
+      "abstract": "Particle correlations and femtoscopy are a rich subfield of high-energy physics. As the experimental data become more precise, there is an increasing need for the theoretical calculations to provide better and more general descriptions of the measurements. One of the important new directions is the investigation of the precise shape of the Bose-Einstein correlation functions utilizing Lévy-stable distributions. This work is a direct follow-up to our previous study, in which we developed a novel method for calculating Bose-Einstein correlation functions including the Coulomb final-state interaction. In this paper, we present a self-consistent generalization of the previous approach to non-spherical source functions and investigate the validity of the previously applied approximations assuming spherical symmetry. We present a software package that includes the calculation of a fully three-dimensional correlation function including the Coulomb interaction.",
+      "categories": [
+        "nucl-th",
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2026-01-27T14:04:18+00:00",
+      "updated": "2026-04-22T13:54:35+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.19626v2",
+      "html_url": "https://arxiv.org/html/2601.19626v2",
+      "entry_url": "http://arxiv.org/abs/2601.19626v2"
+    },
+    {
+      "arxiv_id": "2601.19878v2",
+      "base_id": "2601.19878",
+      "title": "Symmetric polynomials: DIM integrable systems versus twisted Cherednik systems",
+      "authors": [
+        "A. Mironov",
+        "A. Morozov",
+        "A. Popolitov"
+      ],
+      "abstract": "We discuss interrelations between eigenfunctions of the Hamiltonians associated with the commutative (integer ray) subalgebras of the Ding-Iohara-Miki algebra and those of the twisted Cherednik system. In the case of $t=q^{-m}$ with natural $m$, eigenfunctions of the first system of Hamiltonians are the twisted Baker-Akhiezer functions (BAFs) introduced by O. Chalykh, while eigenfunctions of the twisted Cherednik Hamiltonians are twisted non-symmetric Macdonald polynomials. Actually, the twisted Cherednik ground state is symmetric and coincides with a peculiar symmetric BAF. We lift this correspondence to excited states, and claim that both Cherednik eigenfunctions and BAF's can be combined to produce symmetric functions, which coincide with each other and are eigenfunctions of the both DIM Hamiltonians and power sums of the twisted Cherednik Hamiltonians at once. This reflects the correspondence between the DIM algebra and the spherical DAHA explicitly.",
+      "categories": [
+        "hep-th",
+        "math-ph",
+        "math.CO",
+        "math.QA"
+      ],
+      "published": "2026-01-27T18:42:33+00:00",
+      "updated": "2026-04-29T06:02:31+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.19878v2",
+      "html_url": "https://arxiv.org/html/2601.19878v2",
+      "entry_url": "http://arxiv.org/abs/2601.19878v2"
+    },
+    {
+      "arxiv_id": "2601.19386v2",
+      "base_id": "2601.19386",
+      "title": "Constraints on Primordial Black Holes from Galactic Diffuse Synchrotron Emissions",
+      "authors": [
+        "Chen-Wei Du",
+        "Yu-Feng Zhou"
+      ],
+      "abstract": "We investigate the possibility of constraining primordial black holes (PBHs) with masses $M_\\mathrm{PBH}\\gtrsim 10^{15}\\,\\mathrm{g}$ through Galactic diffuse synchrotron emissions. Due to Hawking radiation, these types of PBHs are expected to be stable sources of cosmic-ray (CR) electrons and positrons with energies below $\\mathcal{O}(10\\,\\mathrm{MeV})$. In many CR propagation models with diffusive re-acceleration characterized by a significant Alfvén velocity $V_a\\sim \\mathcal{O}(10)\\,\\mathrm{km/s}$, the energies of the evaporated electrons/positrons can be further enhanced to $\\mathcal{O}(100)\\,\\mathrm{MeV}$ through their scattering with the Galactic random magnetic fields. Consequently, the observation of Galactic synchrotron emissions at frequencies above $\\sim 20\\,\\mathrm{MHz}$ can provide useful constraints on the abundance of PBHs. Using the AMS-02 and Voyager-1 data on the boron-to-carbon nuclei flux ratio, we confirm that a significant Alfvén velocity $V_a \\sim 20\\,\\mathrm{km/s}$ is favored in several benchmark diffusive re-acceleration models. We show that, in this scenario, the observed low-frequency synchrotron emissions (from 22 MHz to 1.4 GHz) can provide stringent constraints on PBH abundance. The obtained conservative constraints are stronger than those derived from the Voyager-1 all-electron (electron plus positron) data by more than one order of magnitude for $M_\\mathrm{PBH}\\gtrsim 1\\times 10^{16}\\,\\mathrm{g}$, and also stronger than our previous constraints derived from the AMS-02 positron data for $M_\\mathrm{PBH}\\gtrsim 2\\times 10^{16}\\,\\mathrm{g}$.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.HE"
+      ],
+      "published": "2026-01-27T09:17:54+00:00",
+      "updated": "2026-04-30T10:35:19+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.19386v2",
+      "html_url": "https://arxiv.org/html/2601.19386v2",
+      "entry_url": "http://arxiv.org/abs/2601.19386v2"
+    },
+    {
+      "arxiv_id": "2601.19812v2",
+      "base_id": "2601.19812",
+      "title": "An essential building block for cosmological zoom-in perturbation theory",
+      "authors": [
+        "Obinna Umeh"
+      ],
+      "abstract": "The evolution of large-scale structure within the standard model of cosmology is well posed only up to the onset of shell crossing, where particle trajectories appear to intersect. Beyond this point, the evolution equations become non-predictive and perturbative approaches break down. We show that in General Relativity, a matter horizon forms before caustics develop for a well-defined initial over-density on an expanding FLRW spacetime. The matter horizon was first identified by Ellis and Stoeger in 2010 as a dynamical causal boundary that encloses a sub-region of spacetime where structure formation actually takes place. We construct a multi-scale hierarchical framework for the propagation of geodesic congruences that avoids the shell-crossing singularity by cutting the spacetime at the matter horizon and glueing to another spacetime with opposite orientation. We identify a relationship between the multi-scale hierarchical framework and the cosmological zoom-in N-body simulation approach, and relate the local sub-region that decouples from the Hubble flow to the region of interest in cosmological zoom-in N-body simulations. Most importantly, the multi-scale hierarchical framework provides a more robust way of implementing boundary conditions, which could benefit cosmological zoom-in N-body simulation approaches.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "published": "2026-01-27T17:14:15+00:00",
+      "updated": "2026-05-01T10:52:16+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.19812v2",
+      "html_url": "https://arxiv.org/html/2601.19812v2",
+      "entry_url": "http://arxiv.org/abs/2601.19812v2"
+    },
+    {
+      "arxiv_id": "2601.19616v3",
+      "base_id": "2601.19616",
+      "title": "Rarity of rocket-driven Penrose extraction in Kerr spacetime",
+      "authors": [
+        "An T. Le"
+      ],
+      "abstract": "We study rocket-driven Penrose extraction in the test-particle limit on a fixed Kerr background for equatorial prograde flybys under explicit steering prescriptions. A spacecraft ejects exhaust inside the ergosphere; when the exhaust attains negative Killing energy, the remaining spacecraft gains energy by 4-momentum conservation. Across 320{,}000 simulated trajectories spanning black-hole spin, exhaust velocity, and orbital parameters, extraction with escape is rare in broad parameter scans (at most ${\\sim}1\\%$) and requires high spin ($a/M\\gtrsim 0.89$), highly relativistic exhaust ($v_e\\gtrsim 0.91c$), and finely tuned initial conditions. Under optimal tuning the success rate reaches ${\\sim}70\\%$ at $a/M = 0.95$. For representative escape trajectories, a single periapsis impulse is more propellant-efficient than the continuous-thrust controllers studied here. All quoted thresholds are empirical and specific to the orbit family, prior, and steering protocol studied.",
+      "categories": [
+        "astro-ph.HE",
+        "eess.SY",
+        "gr-qc",
+        "physics.comp-ph"
+      ],
+      "published": "2026-01-27T13:47:01+00:00",
+      "updated": "2026-05-11T14:17:59+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.19616v3",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2601.19616v3"
+    },
+    {
+      "arxiv_id": "2601.19979v2",
+      "base_id": "2601.19979",
+      "title": "Exploring the holographic entropy cone via reinforcement learning",
+      "authors": [
+        "Temple He",
+        "Jaeha Lee",
+        "Hirosi Ooguri"
+      ],
+      "abstract": "We develop a reinforcement learning algorithm to study the holographic entropy cone. Given a target entropy vector, our algorithm searches for a graph realization whose min-cut entropies match the target vector. If the target vector does not admit such a graph realization, it must lie outside the cone, in which case the algorithm finds a graph whose corresponding entropy vector most nearly approximates the target and allows us to probe the location of the facets. For the $\\sf N=3$ cone, we confirm that our algorithm successfully rediscovers monogamy of mutual information beginning with a target vector outside the holographic entropy cone. We then apply the algorithm to the $\\sf N=6$ cone, analyzing the 6 \"mystery\" extreme rays of the subadditivity cone from arXiv:2412.15364 that satisfy all known holographic entropy inequalities yet lacked graph realizations. We found realizations for 3 of them, proving they are genuine extreme rays of the holographic entropy cone, while providing evidence that the remaining 3 are not realizable, implying unknown holographic inequalities exist for $\\sf N=6$.",
+      "categories": [
+        "hep-th",
+        "cs.LG",
+        "quant-ph"
+      ],
+      "published": "2026-01-27T19:00:01+00:00",
+      "updated": "2026-05-13T04:09:47+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.19979v2",
+      "html_url": "https://arxiv.org/html/2601.19979v2",
+      "entry_url": "http://arxiv.org/abs/2601.19979v2"
+    },
+    {
+      "arxiv_id": "2601.19339v4",
+      "base_id": "2601.19339",
+      "title": "Heat kernel approach to the one-loop effective action for nonlinear electrodynamics",
+      "authors": [
+        "Evgeny I. Buchbinder",
+        "Darren T. Grasso",
+        "Joshua R. Pinelli"
+      ],
+      "abstract": "We develop a heat kernel method to compute the one-loop effective action for a general class of nonlinear electrodynamic (NLED) theories in four dimensional Minkowski spacetime. Working in the background field formalism, we extract the logarithmically divergent part of the effective action, the so-called induced action, corresponding to the DeWitt $a_2$ coefficient of the heat kernel. In NLED, quantisation yields non-minimal differential operators, for which standard heat kernel techniques are not immediately applicable. Considering the weak-field regime, we calculate the $a_0$, $a_1$ and $a_2$ contributions to leading order in the background electromagnetic field strength. Finally, we consider conformal NLED theories and compute the $a_0$ contribution to all orders. For this class, we comment on the role of causality being necessary and sufficient for the convergence of the exact $a_1$ and $a_2$ contributions.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2026-01-27T08:22:37+00:00",
+      "updated": "2026-05-21T07:33:50+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.19339v4",
+      "html_url": "https://arxiv.org/html/2601.19339v4",
+      "entry_url": "http://arxiv.org/abs/2601.19339v4"
+    },
+    {
+      "arxiv_id": "2601.19520v2",
+      "base_id": "2601.19520",
+      "title": "Intrinsic Width of the Flux Tube as a tool to explore confining mechanisms in Lattice Gauge Theories",
+      "authors": [
+        "Michele Caselle",
+        "Elia Cellini",
+        "Alessandro Nada",
+        "Dario Panfalone",
+        "Lorenzo Verzichelli"
+      ],
+      "abstract": "We study the profile of the flux tube in the SU(2) gauge model in 2+1 dimensions, with a particular attention to the so called \"intrinsic width\" which drives the exponential decay of the flux density at large transverse distances. This quantity is directly related to the confining mechanism which generates the flux tube: to test the properties of the latter we study a wide range of different values of lattice spacing, temperature and flux tube lengths and show that our data are precise enough to distinguish between different confining models. In particular we show that at high temperatures (just below the deconfinement transition) the data are perfectly described by an Ising-like effective model based on the Svetitsky-Yaffe mapping. At lower temperatures this approximation does not hold anymore. In this regime (which is the most interesting one from a physical point of view) we test several alternative proposals and show that the dual superconductor model is the one which better fits the data. However, this proposal is not fully satisfactory, because the values of the Ginzburg-Landau parameter extracted from the fits increase with the length of the flux tube, which is not a feature predicted by the model. This suggests that a more sophisticated model is needed to explain confinement in non-abelian gauge theories and, at the same time, that our data on the intrinsic width may be a powerful tool to benchmark these candidates.",
+      "categories": [
+        "hep-lat",
+        "hep-th"
+      ],
+      "published": "2026-01-27T11:58:38+00:00",
+      "updated": "2026-05-22T15:41:51+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.19520v2",
+      "html_url": "https://arxiv.org/html/2601.19520v2",
+      "entry_url": "http://arxiv.org/abs/2601.19520v2"
+    },
+    {
+      "arxiv_id": "2601.19977v3",
+      "base_id": "2601.19977",
+      "title": "On the Wilson-Fisher fixed point in the limit of integer spacetime dimensions",
+      "authors": [
+        "Bernardo Zan"
+      ],
+      "abstract": "The Wilson-Fisher fixed point defines a continuous family of interacting conformal field theories in non-integer dimensions. In integer dimensions, it is widely believed to lie in the same universality class as the critical Ising model. In this work, we revisit the identification between the Wilson-Fisher fixed point at integer dimensions and the Ising CFT. We argue that a literal equality between the two theories is incompatible with the emergence of Virasoro symmetry in two dimensions. Instead, we propose that the Ising model emerges only as a subsector of the Wilson-Fisher fixed point. We support this scenario through a detailed study of the two-dimensional $O(n)$ model and by examining operators transforming in irreducible representations of the orthogonal group whose multiplicities become negative for integer values of the spacetime dimension. Finally, we comment on the implications of these results for attempts to construct a $d=2+ε$ expansion starting from exact two-dimensional data.",
+      "categories": [
+        "hep-th",
+        "cond-mat.stat-mech"
+      ],
+      "published": "2026-01-27T19:00:00+00:00",
+      "updated": "2026-05-27T09:31:29+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.19977v3",
+      "html_url": "https://arxiv.org/html/2601.19977v3",
+      "entry_url": "http://arxiv.org/abs/2601.19977v3"
+    },
+    {
+      "arxiv_id": "2601.19218v2",
+      "base_id": "2601.19218",
+      "title": "Singular field redefinition between Witten's string field theory and Witten's theory deformed by Ellwood invariant",
+      "authors": [
+        "Yuji Ando"
+      ],
+      "abstract": "We construct a field redefinition between Witten's string field theory and its deformation by the Ellwood invariant. This field redefinition is singular and does not imply physical equivalence between them. However, it allows us to formally transfer classical solutions of Witten's theory to solutions of the deformed theory. Although the resulting solutions are also generically singular and require careful examination of their physical interpretation, we show that the tachyon vacuum solution can be consistently transferred from Witten's theory to the deformed theory.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2026-01-27T05:41:07+00:00",
+      "updated": "2026-05-25T09:16:37+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.19218v2",
+      "html_url": "https://arxiv.org/html/2601.19218v2",
+      "entry_url": "http://arxiv.org/abs/2601.19218v2"
+    },
+    {
+      "arxiv_id": "2601.19990v2",
+      "base_id": "2601.19990",
+      "title": "Fully differential Higgs boson pair production at N$^3$LO with top quark mass effects",
+      "authors": [
+        "Xuan Chen",
+        "Yuesheng Dai",
+        "Hai Tao Li",
+        "Shi-Yuan Li",
+        "Hua-Sheng Shao",
+        "Jian Wang"
+      ],
+      "abstract": "Higgs-boson pair production is of fundamental importance for probing the Higgs potential. At hadron colliders, the dominant production channel proceeds via gluon-gluon fusion (ggF) mediated by a top-quark loop. We report the first fully differential predictions for Higgs-boson pair production through ggF at next-to-next-to-next-to-leading order (N$^3$LO) in the strong coupling $α_s$ in the heavy-top-quark limit (HTL). Fiducial cross section and selected differential distributions are presented at a center-of-mass energy of $\\sqrt{s}$ = 14 TeV, under realistic experimental selection cuts. The N$^3$LO QCD corrections reduce the scale uncertainties of the next-to-next-to-leading order fiducial and differential predictions by approximately a factor of three, bringing the theoretical uncertainty to the percent level in the HTL. After incorporating top-quark-mass effects at next-to-leading order in $α_s$, we provide one of the most precise parton-level differential predictions to date for ongoing experimental searches for Higgs-boson pair production at the LHC.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2026-01-27T19:00:21+00:00",
+      "updated": "2026-06-03T14:31:23+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.19990v2",
+      "html_url": "https://arxiv.org/html/2601.19990v2",
+      "entry_url": "http://arxiv.org/abs/2601.19990v2"
+    },
+    {
+      "arxiv_id": "2601.19734v3",
+      "base_id": "2601.19734",
+      "title": "Geometric Action Principle for Unification Yang-Mills, Gravity and matter fermions",
+      "authors": [
+        "Pedro D. Alvarez",
+        "Fernando Izaurieta",
+        "Cristian Quinzacara"
+      ],
+      "abstract": "A single geometric invariant fixes the relative normalization and structure of gravity, Yang--Mills theory, and fermion kinetic terms. The restricted invariant basis contains known linearized ghost-free quadratic gravitational sectors with propagating torsion. Our results establish a minimal geometric route to unification that does not rely on extra dimensions or symmetry breaking by hand. Unlike previous gauge--gravity constructions, the relative normalizations and ghost freedom emerge from a single Clifford--algebraic invariant.",
+      "categories": [
+        "hep-th",
+        "gr-qc",
+        "math-ph"
+      ],
+      "published": "2026-01-27T15:55:35+00:00",
+      "updated": "2026-06-01T19:12:27+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.19734v3",
+      "html_url": "https://arxiv.org/html/2601.19734v3",
+      "entry_url": "http://arxiv.org/abs/2601.19734v3"
+    },
+    {
+      "arxiv_id": "2601.19858v2",
+      "base_id": "2601.19858",
+      "title": "Melvin--Bonnor and Bertotti--Robinson spacetimes with Baryonic charge",
+      "authors": [
+        "José Barrientos",
+        "Fabrizio Canfora",
+        "Adolfo Cisterna",
+        "Keanu Müller",
+        "Anibal Neira"
+      ],
+      "abstract": "In this work, we exploit a dictionary that maps solutions of the Einstein--Scalar--Maxwell theory to those of gauged Skyrme--Maxwell--Einstein models in $(3+1)$ dimensions, allowing gravitating scalar-field configurations in external electromagnetic backgrounds to be interpreted in terms of baryonic quantities. Using the definition of Baryonic charge as the integral of a topological density, we derive novel mass formulas that relate the spacetime mass parameter to the Baryonic charge, the external magnetic field, and other solution parameters. As a result, the mass and Baryonic charge are not independent. These closed analytic expressions encode physical information that would otherwise be difficult to extract. In particular, for the class of solutions considered here, the relation between mass and Baryonic charge is linear at large mass, while significant nonlinear deviations appear at intermediate values. This framework provides a useful tool for both extracting new physical insights from known solutions and constructing new baryonic configurations using the solution-generating techniques available for Einstein--Scalar--Maxwell theory.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2026-01-27T18:13:57+00:00",
+      "updated": "2026-06-05T13:33:31+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.19858v2",
+      "html_url": "https://arxiv.org/html/2601.19858v2",
+      "entry_url": "http://arxiv.org/abs/2601.19858v2"
+    },
+    {
+      "arxiv_id": "2601.19679v2",
+      "base_id": "2601.19679",
+      "title": "The leading Lyapunov exponent in the glasma",
+      "authors": [
+        "Pooja",
+        "Dana Avramescu",
+        "Tuomas Lappi"
+      ],
+      "abstract": "We show that small perturbations in the boost-invariant color fields of the glasma exhibit an exponential growth with the square root of time. We interpret this growth rate as a Lyapunov exponent, related to entropy production and the thermalization timescale in the earliest stage of heavy-ion collisions. Working in a regime that is linear in this perturbation, we extract the time dependence of this mode as $\\sim \\exp(0.4\\sqrt{g^2μτ})$ for SU($2$), where $g^2μ$ is proportional to the saturation scale and the square-root dependence is caused by the boost-invariant expansion of the system. We show that the growth rate of this mode is, unlike its amplitude, remarkably insensitive to the details of how the perturbations are initialized. In particular, we show that the unstable mode couples to all momentum scales present in the initial perturbation.",
+      "categories": [
+        "hep-ph",
+        "hep-lat",
+        "nucl-th"
+      ],
+      "published": "2026-01-27T14:58:53+00:00",
+      "updated": "2026-06-15T13:54:51+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.19679v2",
+      "html_url": "https://arxiv.org/html/2601.19679v2",
+      "entry_url": "http://arxiv.org/abs/2601.19679v2"
+    }
+  ],
+  "total": 14
+}

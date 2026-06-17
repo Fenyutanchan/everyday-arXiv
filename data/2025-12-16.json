@@ -1,0 +1,441 @@
+{
+  "date": "2025-12-16",
+  "papers": [
+    {
+      "arxiv_id": "2512.14295v2",
+      "base_id": "2512.14295",
+      "title": "Conformal moments of the two-loop coefficient functions in DVCS",
+      "authors": [
+        "V. M. Braun",
+        "P. Gotzler",
+        "A. N. Manashov"
+      ],
+      "abstract": "We develop a new technique and calculate conformal (Gegenbauer) moments of the two-loop coefficient functions in Deeply Virtual Compton Scattering (DVCS). These results are necessary for the extraction of the generalized parton distributions from the experimental data to the NNLO accuracy within the Mellin-Barnes approach.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-12-16T11:08:33+00:00",
+      "updated": "2026-04-15T07:28:38+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.14295v2",
+      "html_url": "https://arxiv.org/html/2512.14295v2",
+      "entry_url": "http://arxiv.org/abs/2512.14295v2"
+    },
+    {
+      "arxiv_id": "2512.14921v2",
+      "base_id": "2512.14921",
+      "title": "$\\ell$-Boson stars in anti-de Sitter spacetime",
+      "authors": [
+        "Miguel Megevand"
+      ],
+      "abstract": "In previous work, we introduced the $\\ell$-boson stars, a generalization of standard boson stars, which are parameterized by an angular momentum number $\\ell$, while still preserving the spacetime's spherical symmetry. In this article, we present and study the properties of $\\ell$-boson stars in spacetimes with a negative cosmological constant, such that they are asymptotically anti-de Sitter.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE"
+      ],
+      "published": "2025-12-16T21:19:59+00:00",
+      "updated": "2026-04-22T19:44:09+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.14921v2",
+      "html_url": "https://arxiv.org/html/2512.14921v2",
+      "entry_url": "http://arxiv.org/abs/2512.14921v2"
+    },
+    {
+      "arxiv_id": "2512.14060v2",
+      "base_id": "2512.14060",
+      "title": "First-order general constitutive equations for relativistic fluids using the projection method in the Chapman-Enskog expansion of the Boltzmann equation",
+      "authors": [
+        "A. L. García-Perciante",
+        "A. R. Méndez",
+        "O. Sarbach"
+      ],
+      "abstract": "The first-order out of equilibrium correction to the distribution function, obtained by implementing the projection method for the perturbed relativistic Boltzmann equation using the Chapman-Enskog method, is generalized in order to explicitly include the freedom of choice for frame and representation. It is shown how this procedure leads to general constitutive equations that couple the dissipative fluxes to all derivatives of the state variables (forces), including a weak external electromagnetic field. Special cases of the resulting force-flux relations have been shown to lead to physically sound theories for relativistic fluids.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-12-16T03:53:21+00:00",
+      "updated": "2026-04-28T22:21:02+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.14060v2",
+      "html_url": "https://arxiv.org/html/2512.14060v2",
+      "entry_url": "http://arxiv.org/abs/2512.14060v2"
+    },
+    {
+      "arxiv_id": "2512.14649v2",
+      "base_id": "2512.14649",
+      "title": "Stochastic Inflation in Numerical Relativity",
+      "authors": [
+        "Yoann L. Launay",
+        "Gerasimos I. Rigopoulos",
+        "E. Paul S. Shellard"
+      ],
+      "abstract": "A set of 3+1 equations for stochastic inflation incorporating all metric and scalar matter degrees of freedom, first presented in previous work, are re-derived in a gauge invariant manner. We then present numerical implementations of these stochastic equations, cast in the BSSN formulation of Numerical Relativity, demonstrating their efficacy in both a slow-roll and an ultra slow-roll scenario. We find the evolution is correctly reproduced for all the dynamical variables, and the energy and momentum constraints are well-satisfied. This demonstrates that the stochastic equations are theoretically and numerically robust and ready to be applied to a wider inflationary landscape. Our simulations result in real space realizations of the fully non-linear stochastic dynamics with \\new{gradients and anisotropic expansion retained. This work generalizes standard stochastic inflation, inflationary numerical relativity and lattice cosmology, opening up the possibility for reliable predictions of non-perturbative phenomena and providing} precise initial conditions for subsequent cosmological eras.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-th"
+      ],
+      "published": "2025-12-16T18:11:34+00:00",
+      "updated": "2026-05-01T11:59:33+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.14649v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2512.14649v2"
+    },
+    {
+      "arxiv_id": "2512.14838v2",
+      "base_id": "2512.14838",
+      "title": "Non-Thermal Production of Sexaquark Dark Matter",
+      "authors": [
+        "Marianne Moore",
+        "Stefano Profumo"
+      ],
+      "abstract": "Standard thermal freeze-out scenarios with QCD-scale interaction rates predict a $uuddss$ sexaquark relic abundance many orders of magnitude below the observed dark matter density, representing a key challenge for sexaquark dark matter models. Additionally, if the maximum post-inflationary temperature never exceeds the QCD confinement scale, the usual thermal/chemical-equilibrium production of the sexaquark near $T \\sim T_{\\rm QCD} \\simeq 150 - 170$ MeV never occurs. In this work we show that non-thermal mechanisms can naturally overcome this obstacle. Using late-decaying reheatons as a representative case (while noting the broader applicability), we demonstrate that the final abundance is determined by two quantities: the branching fraction into strange-quark-rich matter and the coalescence probability into sexaquarks during the matter-dominated or early radiation-dominated epoch. We provide compact expressions and benchmark calculations for reheating temperatures $T_R \\in [10, 100]$ MeV and reheaton masses above the QCD confinement scale. Unlike the predictive but unsuccessful thermal scenario, non-thermal production is sensitive to injection microphysics, coalescence efficiency, and residual entropy dilution. We delineate the viable parameter space, evaluate collider and precision constraints on representative reheaton models, and derive indirect detection bounds on residual antisexaquark populations. Our results establish non-thermal production as a viable pathway to sexaquark dark matter and highlight broader implications for non-equilibrium mechanisms in the early universe.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "astro-ph.HE"
+      ],
+      "published": "2025-12-16T19:00:13+00:00",
+      "updated": "2026-05-04T12:51:05+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.14838v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2512.14838v2"
+    },
+    {
+      "arxiv_id": "2512.14670v2",
+      "base_id": "2512.14670",
+      "title": "A universal scaling law for gravitational waves induced during inflation",
+      "authors": [
+        "Martin Teuscher",
+        "Ruth Durrer",
+        "Killian Martineau",
+        "Aurélien Barrau"
+      ],
+      "abstract": "We consider the stochastic gravitational wave background induced by arbitrary source fields that are amplified during cosmological inflation. The associated tensor spectral index is shown to be given, under minimal assumptions, by a simple formula easy to apply in most situations of accelerated expansion. For slow-roll inflation, the induced spectrum is nearly scale invariant, with an index deviating from the standard outcome of vacuum generated gravitational waves. Remarkably, we demonstrate that scale invariance remains true regardless of the original spectrum of the source. We show how this generic approach reproduces the literature on specific models of gravitational wave primordial sources, and discuss its limitations. It provides a very practical estimation of the tensor spectral index for future models, to which subleading corrections can then be added.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "published": "2025-12-16T18:33:44+00:00",
+      "updated": "2026-05-04T09:59:20+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.14670v2",
+      "html_url": "https://arxiv.org/html/2512.14670v2",
+      "entry_url": "http://arxiv.org/abs/2512.14670v2"
+    },
+    {
+      "arxiv_id": "2512.14587v3",
+      "base_id": "2512.14587",
+      "title": "Charged Higgs Pairs at the LHC: A NLO Analysis",
+      "authors": [
+        "Mohamed Ahmed",
+        "Lisa Biermann",
+        "Harald Ita",
+        "Irina Rusetski",
+        "Michael Spira",
+        "Yelyzaveta Yedelkina"
+      ],
+      "abstract": "Charged Higgs-boson pair production at hadron colliders yields information about the trilinear couplings involving charged Higgs fields in extensions of the Standard Model (SM). We consider the type-I two-Higgs doublet model (2HDM) extension and obtain next-to-leading order QCD predictions for the charged-Higgs pair production ($H^+H^-$ production). All production modes, i.e. Drell--Yan-like production, gluon fusion and vector-boson fusion are included in the analysis. We determine uncertainties originating from the scale dependence, the parton-density functions and strong coupling $α_s$ at the LHC. We observe that the QCD corrections lead to a significant reduction of the relative scale dependences. These improved predictions will allow for a quantitative interpretation of experimental measurements, in case that charged Higgs states will be observed.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2025-12-16T16:56:21+00:00",
+      "updated": "2026-05-07T16:02:13+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.14587v3",
+      "html_url": "https://arxiv.org/html/2512.14587v3",
+      "entry_url": "http://arxiv.org/abs/2512.14587v3"
+    },
+    {
+      "arxiv_id": "2512.14110v3",
+      "base_id": "2512.14110",
+      "title": "Any Light Particle Searches with ALPS II: first science results",
+      "authors": [
+        "Daniel C. Brotherton",
+        "Zachary R. Bush",
+        "Sandy Croatto",
+        "Mauricio Diaz-Ortiz",
+        "Jacob Egge",
+        "Aldo Ejlli",
+        "Henry Frädrich",
+        "Joe Gleason",
+        "Hartmut Grote",
+        "Ayman Hallal",
+        "Michael T. Hartman",
+        "Harold Hollis",
+        "Katharina-Sophie Isleif",
+        "Alasdair L. James",
+        "Friederike Januschek",
+        "Kanioar Karan",
+        "Sven Karstensen",
+        "Todd Kozlowski",
+        "Axel Lindner",
+        "Giuseppe Messineo",
+        "Manuel Meyer",
+        "Guido Müller",
+        "Ryan Netrval",
+        "Isabella Oceano",
+        "Gulden Othman",
+        "Jan H. Põld",
+        "David Reuther",
+        "Andreas Ringwald",
+        "Elmeri Rivasto",
+        "José Alejandro Rubiera Gimeno",
+        "Jörn Schaffran",
+        "Uwe Schneekloth",
+        "Christina Schwemmbauer",
+        "Richard C. G. Smith",
+        "Aaron D. Spector",
+        "David B. Tanner",
+        "Dieter Trines",
+        "Li-Wei Wei",
+        "Benno Willke",
+        "Rachel Wolf"
+      ],
+      "abstract": "The light-shining-through-a-wall experiment ALPS II at DESY in Hamburg searched for axions and similar lightweight particles in its first science campaign from February to May 2024. No evidence for the existence of such particles was found. For pseudoscalar bosons like the axion, with masses below about 0.1 meV, we achieved a limit for the di-photon coupling strength of 1.5e-9 1/GeV at a 95% confidence level. This is more than a factor of 20 improvement compared to all previous similar experiments. We also provide limits on photon interactions for scalar, vector and tensor bosons. An achievement of this first science campaign is the demonstration of stable operation and robust calibration of the complex experiment. Currently, the optical system of ALPS II is being upgraded aiming for another two orders of magnitude sensitivity increase.",
+      "categories": [
+        "hep-ex",
+        "astro-ph.GA",
+        "hep-ph"
+      ],
+      "published": "2025-12-16T05:45:34+00:00",
+      "updated": "2026-05-15T15:09:09+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.14110v3",
+      "html_url": "https://arxiv.org/html/2512.14110v3",
+      "entry_url": "http://arxiv.org/abs/2512.14110v3"
+    },
+    {
+      "arxiv_id": "2512.14127v2",
+      "base_id": "2512.14127",
+      "title": "New analytic solutions of non-SUSY black branes in $10$-D heterotic supergravity and the phase transition",
+      "authors": [
+        "Seiken Chikazawa",
+        "Koji Hashimoto"
+      ],
+      "abstract": "In the exploration of the vast string landscape, we provide new analytic solutions of non-SUSY black branes in 10-D heterotic supergravity which exhibit a phase transition. Our black brane solutions carry two kinds of gauge charges but still are exact, which extends the recent developments in classification of heterotic branes. The solutions offer a novel method to embed previously known noncritical 2-D or 3-D solutions to the critical dimensions. Furthermore, by performing a perturbative analysis of the non-Abelian gauge field on this exact background, we analytically find that as the temperature decreases, a spontaneous symmetry breaking occurs, leading to a dynamical instability accompanied by gauge field condensation. This instability embodies a phase transition of black branes in heterotic supergravity, and analytically predicts the existence of unknown black hole solutions to be unveiled. Our results suggest that phase transition phenomena can be used to explore and analyze the phase structure of black hole solutions, for systematically discovering and classifying stringy black holes.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2025-12-16T06:18:12+00:00",
+      "updated": "2026-05-19T10:41:20+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.14127v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2512.14127v2"
+    },
+    {
+      "arxiv_id": "2512.14502v2",
+      "base_id": "2512.14502",
+      "title": "On the coverage of electroweak-inos within the pMSSM with SModelS -- a comparison with the ATLAS pMSSM study",
+      "authors": [
+        "Leo Constantin",
+        "Sabine Kraml",
+        "Andre Lessa",
+        "Theo Reymermier",
+        "Wolfgang Waltenberger"
+      ],
+      "abstract": "The ATLAS collaboration has recently performed a vast scan of the phenomenological Minimal Supersymmetric Standard Model (pMSSM) with a focus on the electroweak-ino sector, and analysed how their Run 2 searches for electroweak production of supersymmetric (SUSY) particles constrain this dataset. All the SLHA files from the scan as well as the constraints from the eight individual searches considered by ATLAS were made publicly available. We use this material to study how well the ATLAS constraints can be reproduced with SModelS v3.0. Moreover, we explore how the picture changes when also including CMS results, and what can be gained by the statistical combination of analyses. Finally, we discuss the part of parameter space with light electroweak-inos that remains valid despite the stringent LHC limits. Our results underscore the need of a broad, multifaceted approach for maximising sensitivity and closing loopholes in the extensive SUSY parameter space.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-12-16T15:39:20+00:00",
+      "updated": "2026-05-21T15:26:55+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.14502v2",
+      "html_url": "https://arxiv.org/html/2512.14502v2",
+      "entry_url": "http://arxiv.org/abs/2512.14502v2"
+    },
+    {
+      "arxiv_id": "2512.14455v3",
+      "base_id": "2512.14455",
+      "title": "Isocurvature-induced features in multi-field Higgs-$R^2$ inflation",
+      "authors": [
+        "Flavio Pineda",
+        "Luis O. Pimentel"
+      ],
+      "abstract": "We study primordial perturbations in Higgs--$R^2$ inflation in the presence of non-minimal kinetic mixing between the Higgs field and the scalaron. By numerically solving the multifield background and linear perturbation equations, we identify distinct dynamical regimes controlled by the Higgs non-minimal coupling $ξ_h$. For $ξ_h \\sim \\mathcal{O}(0.1)$, transient turning of the inflationary trajectory leads to a transfer between adiabatic and isocurvature modes, generating localized features in the primordial curvature power spectrum. In contrast, in the weak-coupling regime $ξ_h \\ll 1$, the curvature spectrum remains nearly featureless while isocurvature perturbations do not fully decay, resulting in a residual isocurvature component at the end of inflation. We compute the associated CMB angular power spectra and discuss the observational implications of these regimes. Our results highlight the role of multifield dynamics in shaping primordial perturbations and provide constraints on viable realizations of Higgs--$R^2$ inflation.",
+      "categories": [
+        "astro-ph.CO",
+        "hep-ph"
+      ],
+      "published": "2025-12-16T14:44:30+00:00",
+      "updated": "2026-05-20T23:22:00+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.14455v3",
+      "html_url": "https://arxiv.org/html/2512.14455v3",
+      "entry_url": "http://arxiv.org/abs/2512.14455v3"
+    },
+    {
+      "arxiv_id": "2512.14635v2",
+      "base_id": "2512.14635",
+      "title": "$B$-meson decay width up to $1/m_b^3$ corrections within and beyond the Standard Model",
+      "authors": [
+        "Martin Lang",
+        "Alexander Lenz",
+        "Ali Mohamed",
+        "Maria Laura Piscopo",
+        "Aleksey V. Rusov"
+      ],
+      "abstract": "Starting from the most general effective $|ΔB| = 1$ Hamiltonian describing non-leptonic $b$-quark decays $b\\to q_1 \\bar q_2 q_3$, we compute analytic expressions for all matching coefficients of the two-quark operator contributions in the heavy quark expansion~(HQE) of a $B$ meson, up to mass-dimension-six. In addition, we calculate the weak-annihilation contributions, which enter the matching of four-quark operators in the HQE at dimension-six and were previously missing. Our results complete the calculation of beyond Standard Model (BSM) effects in non-leptonic, tree-level, $b$-quark decays relevant for $B$ meson lifetimes and lifetime ratios such as $τ(B^0_s)/τ(B^0_d)$. Such BSM contributions naturally arise in generic extensions of the Standard Model (SM) that aim to address the observed tensions between experimental measurements and theoretical predictions based on QCD factorisation in several colour-allowed non-leptonic $B$-meson decays. As a by-product of our calculation, we also determine the matching coefficients in the HQE induced by the QCD-penguin operators within the SM, including both the interference between current-current and penguin operators and the contributions quadratic in the penguin operators. Owing to the suppression of the QCD-penguin Wilson coefficients within the SM, these effects are typically regarded as corrections of order $α_s$ and $α_s^2$ in the strong coupling, respectively. Our results reproduce the known expressions at dimension-three and provide new results for the coefficients of the chromomagnetic operator at dimension-five and of the Darwin operator at dimension-six.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2025-12-16T17:49:26+00:00",
+      "updated": "2026-05-26T09:02:55+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.14635v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2512.14635v2"
+    },
+    {
+      "arxiv_id": "2512.14009v2",
+      "base_id": "2512.14009",
+      "title": "Scaling solutions for gauge invariant flow equations in dilaton quantum gravity",
+      "authors": [
+        "Yadikaer Maitiniyazi",
+        "Christof Wetterich",
+        "Masatoshi Yamada"
+      ],
+      "abstract": "We discuss the ultraviolet fixed point of asymptotically safe dilaton quantum gravity. It differs from the Reuter fixed point by the dependence of the Planck mass on a scalar field. The gauge invariant functional flow equation in the most general approximation with up to two derivatives strengthens the argument for the existence of this fixed point. The quantum effective action obtained from the scaling solution for dilaton quantum gravity can describe inflation for early cosmology and dynamical dark energy for late cosmology.",
+      "categories": [
+        "hep-th",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "published": "2025-12-16T02:06:07+00:00",
+      "updated": "2026-05-26T07:28:50+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.14009v2",
+      "html_url": "https://arxiv.org/html/2512.14009v2",
+      "entry_url": "http://arxiv.org/abs/2512.14009v2"
+    },
+    {
+      "arxiv_id": "2512.14817v2",
+      "base_id": "2512.14817",
+      "title": "Calabi-Yau Threefolds from Vex Triangulations",
+      "authors": [
+        "Nate MacFadden",
+        "Elijah Sheridan"
+      ],
+      "abstract": "We study the birational geometry (i.e., Kähler moduli space) of Calabi--Yau (CY) threefold hypersurfaces in toric varieties arising from four-dimensional reflexive polytopes. In particular, it has been observed that the birational classes of these geometries are not exhausted by toric hypersurfaces arising from fine, regular, star triangulations (FRSTs). We begin by introducing a classification problem: enumeration of birational classes of toric varieties, which is equivalent to enumeration of certain triangulations/fans. We consider this problem from the complementary perspectives of triangulation theory and toric geometry, reviewing both theories in detail; this culminates in an explanation of how to generate all fine regular triangulations of a vector configuration (i.e., fine regular simplicial fans) which we implement in a Python package regfans [1]. We then apply this theory to the Kreuzer--Skarke (KS) database, where we encounter both FRSTs and vex triangulations. We study the non-weak-Fano toric varieties arising from vex triangulations, along with their CY hypersurfaces. In particular, we show that all fine regular triangulations of a fixed 4D reflexive polytope give rise to smooth birational CY hypersurfaces, extending Batyrev's result from FRSTs to vex triangulations. We exhaustively enumerate all $24,023,940$ fine regular triangulations in the KS database with $h^{1,1}\\leq 7$, of which over $70\\%$ are vex triangulations, and provide an upper bound of $10^{979}$ for fine regular triangulations in the entire KS database. We conclude that vex triangulations of four-dimensional reflexive polytopes give rise to a large number of smooth Calabi--Yau threefolds and importantly provide toric descriptions for novel regions in the Kähler moduli space.",
+      "categories": [
+        "hep-th",
+        "math.AG"
+      ],
+      "published": "2025-12-16T19:00:01+00:00",
+      "updated": "2026-05-25T21:47:30+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.14817v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2512.14817v2"
+    },
+    {
+      "arxiv_id": "2512.14260v2",
+      "base_id": "2512.14260",
+      "title": "On the Renormalization Group in EFTs: On-Shell Bases, Ambiguities, and Divergences",
+      "authors": [
+        "Anders Eller Thomsen"
+      ],
+      "abstract": "Recent results for two-loop renormalization group (RG) functions in effective field theories exhibit unphysical divergences when calculated in an on-shell operator basis. We demonstrate that this can be understood to be a result of omitting non-minimal source terms in the renormalized vacuum functional, which are essential to maintaining renormalizability of and describing the RG flow of Green's functions in an on-shell framework. With the inclusion of the missing source terms, any remaining divergences are ambiguous, generating only unphysical RG flow directed along flavor rotations, and the RG functions are RG-finite. We carefully examine the role of flavor rotations in generating ambiguities in both on- and off-shell RG functions and explore the geometry of a physical coupling space.",
+      "categories": [
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2025-12-16T10:13:00+00:00",
+      "updated": "2026-06-03T11:18:43+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.14260v2",
+      "html_url": "https://arxiv.org/html/2512.14260v2",
+      "entry_url": "http://arxiv.org/abs/2512.14260v2"
+    },
+    {
+      "arxiv_id": "2512.14679v2",
+      "base_id": "2512.14679",
+      "title": "Computing spectral shifts for Johannsen-Psaltis black holes",
+      "authors": [
+        "David G. Wu",
+        "Asad Hussain",
+        "Aaron Zimmerman"
+      ],
+      "abstract": "The growing number of gravitational wave (GW) detections and the increasing sensitivity of GW detectors have enabled precision tests of General Relativity (GR) in the strong-field regime. The recent observation of multiple quasinormal modes (QNMs) in GW250114 marks a major advance for observational black hole spectroscopy. This clear signal, together with the growing number of GW detections, highlights the need for accurate predictions of QNM spectra in beyond-GR theories in order to carry out precision searches for new physics. In this work, we continue to lay the foundation for such predictions using a modified Teukolsky formalism in conjunction with the eigenvalue perturbation method. We compute the spectral shifts of slowly rotating Johannsen-Psaltis black holes for $2 \\leq \\ell \\leq 10$, all $m$, and overtones $n = 0, 1, 2$, and confirm the large-$\\ell$ behavior of the modes by comparing with the WKB approximation. We find that these black holes admit definite-parity modes but break the isospectrality between even- and odd-parity QNMs at all spins, and that the shifts depend linearly on $m$ for slow spins. We further derive a general parity condition that any beyond-GR modification to the metric must satisfy to support definite-parity modes, providing new insights into isospectrality breaking and parity structure in gravitational perturbations.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-12-16T18:44:15+00:00",
+      "updated": "2026-06-02T20:05:19+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.14679v2",
+      "html_url": "https://arxiv.org/html/2512.14679v2",
+      "entry_url": "http://arxiv.org/abs/2512.14679v2"
+    },
+    {
+      "arxiv_id": "2512.14684v3",
+      "base_id": "2512.14684",
+      "title": "Cosmic Strings Gravitational Wave Probe of Leptogenesis: Thermal, Non-thermal, Near-resonant and Flavourful",
+      "authors": [
+        "Anish Ghoshal",
+        "Angus Spalding",
+        "Graham White"
+      ],
+      "abstract": "Breaking a global or local $U(1)_{\\rm B-L}$ symmetry at high scales simultaneously generates Majorana masses for heavy right-handed neutrinos and produces a network of cosmic strings. The evolution and decay of these strings source a stochastic gravitational-wave background that may be probed by current and future gravitational-wave experiments, while the decays of the resulting massive right-handed neutrinos can generate the baryon asymmetry of the Universe via leptogenesis. We derive analytical bounds for successful leptogenesis with a global and a local $U(1)_{B-L}$ symmetry, separately finding an absolute lower bound on the lightest right-handed neutrino mass $M_1 > 1.74 \\times 10^{8}\\,\\mathrm{GeV}$ for thermal initial conditions and $M_1 > \\mathcal{O}(10^{6})\\,\\mathrm{GeV}$ for non-thermal initial conditions. Allowing for near-resonant leptogenesis relaxes these bounds to TeV scale in both cases making it a viable target at collider searches complementing the GW signals. Full flavour effects are included, and crucially, we determine the region where successful leptogenesis can be probed through gravitational-wave observations in upcoming experiments such as LISA and Einstein Telescope. Importantly, we find that flavour effects rescue regions of the parameter space that are ruled out due to current CMB or gravitational wave measurements.",
+      "categories": [
+        "astro-ph.CO",
+        "hep-ph"
+      ],
+      "published": "2025-12-16T18:47:27+00:00",
+      "updated": "2026-06-02T19:56:57+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.14684v3",
+      "html_url": "https://arxiv.org/html/2512.14684v3",
+      "entry_url": "http://arxiv.org/abs/2512.14684v3"
+    },
+    {
+      "arxiv_id": "2512.14209v2",
+      "base_id": "2512.14209",
+      "title": "Analogue gravity with Bose-Einstein condensates",
+      "authors": [
+        "Adrià Delhom",
+        "Luca Giacomelli"
+      ],
+      "abstract": "Analogue gravity explores how collective excitations in condensed matter systems can reproduce the behavior of fields in curved spacetimes. An important example is the acoustic black holes that can occur for sound in a moving fluid. In these lecture notes, we focus on atomic Bose-Einstein condensates (BECs), quantum fluids that provide an interesting platform for analogue gravity studies thanks to their accurate theoretical description, remarkable experimental control, and ultralow temperatures that allow the quantum nature of sound to emerge. We give a pedagogical introduction to analogue black holes and the theoretical description of BECs and their elementary excitations, which behave as quantum fields in curved spacetimes. We then apply these tools to survey the current understanding of black-hole superradiance and analogue Hawking radiation, including explicit examples and numerical methods.",
+      "categories": [
+        "gr-qc",
+        "cond-mat.quant-gas",
+        "quant-ph"
+      ],
+      "published": "2025-12-16T09:08:42+00:00",
+      "updated": "2026-06-02T14:20:39+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.14209v2",
+      "html_url": "https://arxiv.org/html/2512.14209v2",
+      "entry_url": "http://arxiv.org/abs/2512.14209v2"
+    },
+    {
+      "arxiv_id": "2512.14074v3",
+      "base_id": "2512.14074",
+      "title": "Explicit Rephasing Transformation to PDG Parameterization and Simplified Expression of the Dirac CP Phase by Fermion-Specific Invariants",
+      "authors": [
+        "Masaki J. S. Yang"
+      ],
+      "abstract": "In this letter, we present an explicit rephasing transformation that maps an arbitrary mixing matrix $U$ to the PDG standard parameterization $U^{0} = {\\rm diag} ( e^{ - i \\arg U_{e1} } \\, , \\, e^{ i \\arg [ {U_{e2} U_{τ3} \\over \\det U } ]} \\, , \\, e^{ i \\arg [ { U_{e2} U_{μ3} \\over \\det U } ] } )$ $U \\, {\\rm diag} ( 1 \\, , \\, e^{ - i \\arg [{U_{e2} \\over U_{e1} } ] } \\, , \\, e^{ - i \\arg [ { U_{e2} U_{μ3} U_{τ3} \\over \\det U } ] })$. By this procedure, which has remained largely conceptual for more than four decades, six independent phases of the mixing matrix are expressed systematically in terms of the arguments. We also apply this framework to the fermion diagonalization matrices $U^{ν,e}$ under the approximation $U^{ν,e}_{13}=0$. By partially employing the inversion formula, we factorize all CP phases through the explicit rephasing, thereby revealing the entire CP structure of the mixing matrix. The observable Dirac phase depends only on two relative phases between the fermion sectors and is determined by fermion-specific invariants.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-12-16T04:23:03+00:00",
+      "updated": "2026-06-12T01:33:21+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.14074v3",
+      "html_url": "https://arxiv.org/html/2512.14074v3",
+      "entry_url": "http://arxiv.org/abs/2512.14074v3"
+    },
+    {
+      "arxiv_id": "2512.14108v3",
+      "base_id": "2512.14108",
+      "title": "An integrable hierarchy associated with loop extension of $\\mathbb{Z}_2^2$-graded $\\mathfrak{osp}(1|2)$",
+      "authors": [
+        "N. Aizawa",
+        "I. Fujii",
+        "R. Ito"
+      ],
+      "abstract": "A hierarchy of $\\mathbb{Z}_2^2$-graded integrable equations is constructed using the loop extension of the $\\mathbb{Z}_2^2$-graded Lie superalgebra $\\mathfrak{osp}(1|2)$. This hierarchy includes $\\mathbb{Z}_2^2$-graded extensions of the Liouville, sinh-Gordon, cosh-Gordon, and, in particular, the mKdV equations. The $\\mathbb{Z}_2^2$-graded KdV equation is also derived from the $\\mathbb{Z}_2^2$-mKdV equation via the Miura transformation. We present explicit formulas for the conserved charges of the $\\mathbb{Z}_2^2$-KdV and $\\mathbb{Z}_2^2$-mKdV equations. A distinctive feature of these $\\mathbb{Z}_2^2$-graded integrable systems is the existence of conserved charges with nontrivial grading.",
+      "categories": [
+        "math-ph",
+        "hep-th",
+        "nlin.SI"
+      ],
+      "published": "2025-12-16T05:43:13+00:00",
+      "updated": "2026-06-13T05:44:47+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.14108v3",
+      "html_url": "https://arxiv.org/html/2512.14108v3",
+      "entry_url": "http://arxiv.org/abs/2512.14108v3"
+    }
+  ],
+  "total": 20
+}

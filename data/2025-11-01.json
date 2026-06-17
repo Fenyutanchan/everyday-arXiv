@@ -1,0 +1,106 @@
+{
+  "date": "2025-11-01",
+  "papers": [
+    {
+      "arxiv_id": "2511.00565v3",
+      "base_id": "2511.00565",
+      "title": "Reflectionless and echo modes in asymmetric Damour-Solodukhin wormholes",
+      "authors": [
+        "Wei-Liang Qian",
+        "Qiyuan Pan",
+        "Ramin G. Daghigh",
+        "Bean Wang",
+        "Rui-Hong Yue"
+      ],
+      "abstract": "It is understood that the echo waveforms in ultracompact objects can be regarded as composed mainly of the asymptotic high-overtone quasinormal modes, dubbed echo modes, which predominantly lie parallel to the real frequency axis. Alternatively, Rosato {\\it et al.} recently suggested that high-frequency quasi-reflectionless scattering modes are primarily responsible for the echo phenomenon. In this work, by extending the definition of quasi-reflectionless modes to reflectionless ones and generalizing symmetric Damour-Solodukhin wormholes to asymmetric cases, we examine the underlying similarity between the reflectionless and echo mode spectra in the complex frequency plane. Through a primarily analytical treatment, we demonstrate that the asymptotic properties of these two spectra exhibit a strong resemblance, featuring an approximately uniform distribution parallel to the real frequency axis with the same spacing between successive modes. Specifically, the real parts of echo modes coincide with those of reflectionless modes at the limit $|\\mathrm{Re}ω| \\gg |\\mathrm{Im}ω|$. While echo modes typically possess non-vanishing imaginary parts, the reflectionless modes of symmetric Damour-Solodukhin wormholes lie precisely on the real frequency axis, with any deviation serving as a measure of the degree of asymmetry of the wormhole. For a given identical source, the waveforms are calculated numerically using the Green's functions. The amplitudes of the waveforms associated with reflectionless modes are found to be more pronounced than those of the echo modes, because reflectionless modes typically lie closer to the real frequency axis than the latter. It is argued that both perspectives provide effective tools for describing the echo phenomenon.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-11-01T14:05:54+00:00",
+      "updated": "2026-04-15T22:30:45+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.00565v3",
+      "html_url": "https://arxiv.org/html/2511.00565v3",
+      "entry_url": "http://arxiv.org/abs/2511.00565v3"
+    },
+    {
+      "arxiv_id": "2511.00437v2",
+      "base_id": "2511.00437",
+      "title": "Optimization of factorization scale in QED Drell-Yan-like processes",
+      "authors": [
+        "Andrej Arbuzov",
+        "Uliana Voznaya",
+        "Aliaksandr Sadouski"
+      ],
+      "abstract": "The dependence of corrections due to the initial state radiation in $e^+ e^-$-annihilation processes on the choice of the factorization scale is investigated. Different prescriptions of the factorization scale choice are analyzed within the leading and next-to-leading logarithmic approximations. Comparisons with the known complete two-loop results are used to optimize the scale choice.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-11-01T07:37:08+00:00",
+      "updated": "2026-04-29T08:40:55+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.00437v2",
+      "html_url": "https://arxiv.org/html/2511.00437v2",
+      "entry_url": "http://arxiv.org/abs/2511.00437v2"
+    },
+    {
+      "arxiv_id": "2511.00632v2",
+      "base_id": "2511.00632",
+      "title": "Weyl double copy in Lifshitz spacetimes",
+      "authors": [
+        "Gokhan Alkac",
+        "Mehmet Kemal Gumus",
+        "Mehmet Ali Olpak"
+      ],
+      "abstract": "Lifshitz black hole solutions pose particular challenges for reconciling the two main formulations of the classical double copy: the Kerr-Schild double copy and the Weyl double copy. Recent work has suggested that consistency between the two can be restored, in certain cases, only by adopting a regularization prescription in the Weyl double copy. In this paper, we test this prescription on three examples from the literature, each with a distinct novel feature, and show that the prescription remains valid in all cases.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2025-11-01T17:20:18+00:00",
+      "updated": "2026-05-11T13:23:00+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.00632v2",
+      "html_url": "https://arxiv.org/html/2511.00632v2",
+      "entry_url": "http://arxiv.org/abs/2511.00632v2"
+    },
+    {
+      "arxiv_id": "2511.00386v2",
+      "base_id": "2511.00386",
+      "title": "Conformal Bootstrap with Duality-Inspired Fusion Rule",
+      "authors": [
+        "Yu Nakayama",
+        "Toshiki Onagi"
+      ],
+      "abstract": "We present a systematic exploration of conformal field theories (CFTs) constrained by duality-inspired fusion rules using the conformal bootstrap. We classify the operator spectrum into three sectors: $[σ]$, $[ε]$, and $[1]$. The $[σ]$ sector consists of all $\\mathbb{Z}_{2}$-odd operators. The $\\mathbb{Z}_{2}$-even operators are further divided into the $[ε]$ sector, which contains only the operators that change sign under duality, and the $[1]$ sector, which encompasses all remaining operators. We impose a selection rule motivated by Kramers-Wannier duality, specifically forbidding the appearance of the $[ε]$ sector in the $[ε] \\times [ε]$ operator product expansion. By applying this constraint to the lowest-lying relevant scalars, we derive bounds on their conformal dimensions $(Δ_σ, Δ_ε)$ in dimensions $d=2$ through $d=7$. Our bounds correctly allow the $d=2$ Ising model while excluding the $d=3$ Ising model, demonstrating the effectiveness of the imposed condition. Furthermore, we observe a distinct feature in $d=2$ corresponding to the $\\mathcal{M}(8,7)$ minimal model and find non-trivial constraints in $d=3$ ($Δ_σ\\gtrsim 0.85$), relevant for theories like QED$_3$. This work opens a new avenue for non-perturbatively probing the landscape of CFTs constrained by fusion rules.",
+      "categories": [
+        "hep-th",
+        "cond-mat.str-el"
+      ],
+      "published": "2025-11-01T03:39:10+00:00",
+      "updated": "2026-05-19T13:08:03+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.00386v2",
+      "html_url": "https://arxiv.org/html/2511.00386v2",
+      "entry_url": "http://arxiv.org/abs/2511.00386v2"
+    },
+    {
+      "arxiv_id": "2511.00441v2",
+      "base_id": "2511.00441",
+      "title": "Non-perturbaitve effects for the isoscalar light vector $ω$-meson in charmed meson semileptonic decays",
+      "authors": [
+        "Yin-Long Yang",
+        "Fang-Ping Peng",
+        "Yan-Ting Yang",
+        "Hai-Bing Fu",
+        "Sheng-Quan Wang"
+      ],
+      "abstract": "Motivated by the renewed attention from the recent BESIII experiment on the semileptonic decay $D\\to V \\ellν_{\\ell}$, we investigate semileptonic decay $D^+\\to ω\\ell^+ν_{\\ell}$ within the framework of QCD light-cone sum rule in this work. By constructing correlation function with right-handed chiral current, the transverse twist-2 light-cone distribution amplitudes (LCDA) $φ^{\\perp}_{2;ω}(x,μ)$ dominates the contribution in TFFs. We study the properties of twist-2 LCDA $φ^{\\perp}_{2;ω}(x,μ)$ through light-cone harmonic oscillator model. Applying it to the TFFs, we obtained $A_1(0)$, $A_2(0)$, $V(0)$, and $A_0(0)$ at large recoil point. Two TFF ratios are $r_V=1.40^{+0.21}_{-0.19}$ and $r_2=1.01^{+0.17}_{-0.16}$. After extrapolating those TFFs to the whole physical $q^2$ region by using the simplified $z(q^2,t)$ series expansion, the ratio of longitudinal and transverse decay widths is $Γ_{\\rm{L}}/Γ_{\\rm{T}}=0.987^{+0.107}_{-0.121}$. Then, we get branching fraction $\\mathcal{B}(D^+\\to ωe^+ν_e)=(1.848^{+0.365}_{-0.330})\\times 10^{-3}$ and $\\mathcal{B}(D^+\\to ωμ^+ν_μ)=(1.782^{+0.334}_{-0.303})\\times 10^{-3}$, which is in good agreement with BESIII and CLEO Collaborations. Taking into account the secondary decay $ω\\to π^+π^-π^0$, we predict branching fraction of five body decay as $\\mathcal{B}(D^+\\to ω(\\to π^+π^-π^0)e^+ν_{e})=(1.648^{+0.341}_{-0.305})\\times 10^{-3}$ and $\\mathcal{B}(D^+\\to ω(\\to π^+π^-π^0)μ^+ν_μ)=(1.589^{+0.313}_{-0.281})\\times 10^{-3}$. Finally, we predict the forward-backward asymmetry $A_{\\rm{FB}}^{\\ell}$, lepton-side convexity parameter $C^{\\ell}_{\\rm{F}}$, longitudinal (transverse) polarization $P_{\\rm{L}(\\rm{T})}^{\\ell}$, as well as longitudinal polarization fraction $F_{\\rm{L}}^{\\ell}$.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-11-01T07:59:33+00:00",
+      "updated": "2026-05-26T12:06:15+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.00441v2",
+      "html_url": "https://arxiv.org/html/2511.00441v2",
+      "entry_url": "http://arxiv.org/abs/2511.00441v2"
+    }
+  ],
+  "total": 5
+}

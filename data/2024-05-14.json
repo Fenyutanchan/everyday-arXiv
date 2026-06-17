@@ -1,0 +1,27 @@
+{
+  "date": "2024-05-14",
+  "papers": [
+    {
+      "arxiv_id": "2405.08871v3",
+      "base_id": "2405.08871",
+      "title": "The DNA of Calabi-Yau Hypersurfaces",
+      "authors": [
+        "Nate MacFadden",
+        "Andreas Schachner",
+        "Elijah Sheridan"
+      ],
+      "abstract": "We implement Genetic Algorithms for triangulations of four-dimensional reflexive polytopes which induce Calabi-Yau threefold hypersurfaces via Batyrev's construction. We demonstrate that such algorithms efficiently optimize physical observables such as axion decay constants or axion-photon couplings in string theory compactifications. For our implementation, we choose a parameterization of triangulations that yields homotopy inequivalent Calabi-Yau threefolds by extending fine, regular triangulations of two-faces, thereby eliminating exponentially large redundancy factors in the map from polytope triangulations to Calabi-Yau hypersurfaces. In particular, we discuss how this encoding renders the entire Kreuzer-Skarke list amenable to a variety of optimization strategies, including but not limited to Genetic Algorithms. To achieve optimal performance, we tune the hyperparameters of our Genetic Algorithm using Bayesian optimization. We find that our implementation vastly outperforms other sampling and optimization strategies like Markov Chain Monte Carlo or Simulated Annealing. Finally, we showcase that our Genetic Algorithm efficiently performs optimization even for the maximal polytope with Hodge numbers $h^{1,1} = 491$, where we use it to maximize axion-photon couplings. Our methods for sampling and optimization are implemented in a Python package cyopt.",
+      "categories": [
+        "hep-th",
+        "cs.NE",
+        "hep-ph"
+      ],
+      "published": "2024-05-14T18:00:03+00:00",
+      "updated": "2026-06-11T15:40:03+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2405.08871v3",
+      "html_url": "https://arxiv.org/html/2405.08871v3",
+      "entry_url": "http://arxiv.org/abs/2405.08871v3"
+    }
+  ],
+  "total": 1
+}

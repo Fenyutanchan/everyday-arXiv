@@ -1,0 +1,180 @@
+{
+  "date": "2025-12-25",
+  "papers": [
+    {
+      "arxiv_id": "2512.21535v2",
+      "base_id": "2512.21535",
+      "title": "Bulk-cone singularities and echoes from AdS exotic compact objects",
+      "authors": [
+        "Heng-Yu Chen",
+        "Yasuaki Hikida",
+        "Yasutaka Koga"
+      ],
+      "abstract": "The region near a black hole horizon may be modified by quantum gravity effects that resolve the singularity. Such geometry may be represented by an exotic compact object. Because the horizon is enclosed by a photon sphere, it is difficult to probe this region directly. In this paper, we develop a method to study the region inside the photon sphere by applying the AdS/CFT correspondence. We extract signatures of the modified geometry from the retarded Green functions of the dual conformal field theory. The retarded Green functions can be computed from bulk wave functions of scalar field. We show that exotic compact objects leave two characteristic imprints: bulk-cone singularities and echoes. The bulk-cone singularities correspond to null geodesics in the bulk, allowing us to detect null trajectories that are specific to exotic compact objects. The echoes arise from wave modes trapped inside the photon sphere, and thus signal the absence of a horizon. As concrete examples, we study AdS gravastar and AdS wormhole. We compute the corresponding bulk wave functions both via the WKB approximation and through numerical analysis and observe the bulk-cone singularities and echoes explicitly.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2025-12-25T07:05:58+00:00",
+      "updated": "2026-04-29T04:12:08+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.21535v2",
+      "html_url": "https://arxiv.org/html/2512.21535v2",
+      "entry_url": "http://arxiv.org/abs/2512.21535v2"
+    },
+    {
+      "arxiv_id": "2512.21606v3",
+      "base_id": "2512.21606",
+      "title": "Shell formulas for instantons and gauge origami",
+      "authors": [
+        "Jiaqun Jiang"
+      ],
+      "abstract": "We introduce the shell formula-a framework that unifies the description of partition functions whose pole structures are classified by Young diagrams of arbitrary dimension. The formalism yields explicit closed-form expressions and recursion relations for a wide range of physical systems, including instanton partition functions of 5d pure super Yang-Mills theory with classical gauge groups, as well as gauge origami configurations such as the magnificent four, tetrahedron instantons, spiked instantons, and Donaldson-Thomas invariants in $\\mathbb{C}^3$ and $\\mathbb{C}^4$.",
+      "categories": [
+        "hep-th",
+        "math-ph"
+      ],
+      "published": "2025-12-25T10:01:13+00:00",
+      "updated": "2026-05-07T12:13:58+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.21606v3",
+      "html_url": "https://arxiv.org/html/2512.21606v3",
+      "entry_url": "http://arxiv.org/abs/2512.21606v3"
+    },
+    {
+      "arxiv_id": "2512.21690v2",
+      "base_id": "2512.21690",
+      "title": "On prethermal time crystals from semi-holography",
+      "authors": [
+        "Toshali Mitra",
+        "Sukrut Mondkar",
+        "Ayan Mukhopadhyay",
+        "Alexander Soloviev"
+      ],
+      "abstract": "We demonstrate the existence of a pair of almost dissipationless oscillating modes at low temperatures in both the shear and sound channels of a hybrid quantum system, comprised of a weakly self-interacting perturbative sector coupled to strongly self-interacting holographic degrees of freedom described by a black hole geometry. We argue that these modes realize prethermal time-crystal behavior in semi-holographic systems without fine-tuning and can be observed by measuring operators that probe either the hard (perturbative) or the soft (holographic) sector. We also find novel {short wavelength} instabilities that lead to the formation of inhomogeneities even at higher temperatures. These results provide evidence that black holes with planar horizons and dynamical boundary conditions can develop both inhomogeneous and metastable time-crystal phases over a wide range of temperatures set by an intermediate scale given by the intersector coupling. Furthermore, they suggest that such phases can be realized without external driving in non-Abelian plasmas of asymptotically free gauge theories in the large-$N$ limit.",
+      "categories": [
+        "hep-th",
+        "cond-mat.stat-mech",
+        "quant-ph"
+      ],
+      "published": "2025-12-25T14:32:33+00:00",
+      "updated": "2026-05-16T20:52:34+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.21690v2",
+      "html_url": "https://arxiv.org/html/2512.21690v2",
+      "entry_url": "http://arxiv.org/abs/2512.21690v2"
+    },
+    {
+      "arxiv_id": "2512.21729v2",
+      "base_id": "2512.21729",
+      "title": "Golden and Silver Dark Sirens for precise H0 measurement with HETDEX",
+      "authors": [
+        "Yixuan Dang",
+        "Ish Gupta",
+        "Robin Ciardullo",
+        "Erin Mentuch Cooper",
+        "Shiksha Pandey",
+        "Dustin Davis",
+        "Surhud More",
+        "Rachel Gray",
+        "Hsin-Yu Chen",
+        "Daniel J. Farrow",
+        "Caryl Gronwall",
+        "Donghui Jeong",
+        "Shun Saito",
+        "Donald P. Schneider",
+        "B. S. Sathyaprakash"
+      ],
+      "abstract": "Gravitational waves (GWs) from compact binary coalescences are standard sirens that provide a direct measure of the source's luminosity distance, enabling an independent measurement of the Hubble constant (H0). While a bright siren -- a GW event with an identified electromagnetic (EM) counterpart -- provided the first such constraint, most detections, currently dominated by black hole mergers, lack EM signatures. A measurement of H0 is still possible with these dark sirens by statistically associating GW events with galaxies in existing catalogs based on the sky localization. In this work, we explore the potential of two subsets of sirens: rare golden dark sirens, for which a single galaxy dominates the H0 posterior, and silver dark sirens, which are far more common but have a larger set of plausible host galaxies. Using the fifth internal data release of the Hobby-Eberly Telescope Dark Energy Experiment (HETDEX), we assess the suitability of the Visible Integral-field Replicable Unit Spectrograph (VIRUS) for spectroscopic follow-up of dark sirens. VIRUS exposures of the standard HETDEX depth provide precise redshifts and exquisite completeness within z = 0.2. After a single year of observations with the upgraded LIGO-A# network, the combined sample of golden and silver dark sirens with z < 0.2 and follow-up VIRUS observations can potentially yield a few-percent constraint on H0. Our predictions suggest that spectroscopic redshift surveys such as HETDEX can play a key role in realizing high-precision cosmology with dark sirens in the near future. Standard-siren distance measurements offer a critical, fully independent path to the local value of H0 to resolve the Hubble tension.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "published": "2025-12-25T16:24:58+00:00",
+      "updated": "2026-05-20T18:55:48+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.21729v2",
+      "html_url": "https://arxiv.org/html/2512.21729v2",
+      "entry_url": "http://arxiv.org/abs/2512.21729v2"
+    },
+    {
+      "arxiv_id": "2512.21608v3",
+      "base_id": "2512.21608",
+      "title": "Topological perspective on bulk boundary thermodynamic equivalence",
+      "authors": [
+        "Si-Jiang Yang",
+        "Shan-Ping Wu",
+        "Shao-Wen Wei",
+        "Yu-Xiao Liu"
+      ],
+      "abstract": "We establish an exact duality between the extended thermodynamics of five-dimensional charged Gauss-Bonnet AdS black holes and the thermodynamic framework of the dual boundary conformal field theory (CFT). The thermodynamics of the dual CFT involves two central charges originating from the trace anomaly. We demonstrate a precise correspondence between the extended first laws on the bulk and boundary sides. Moreover, the topological charges of the CFT thermodynamics, associated with the phase transition and critical point, coincide with those of the corresponding bulk black hole.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2025-12-25T10:08:11+00:00",
+      "updated": "2026-05-28T09:58:57+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.21608v3",
+      "html_url": "https://arxiv.org/html/2512.21608v3",
+      "entry_url": "http://arxiv.org/abs/2512.21608v3"
+    },
+    {
+      "arxiv_id": "2512.21761v2",
+      "base_id": "2512.21761",
+      "title": "Differentiable Principal-Value Inversion for Neural-Network Extraction of Generalized Parton Distributions",
+      "authors": [
+        "Dima Watkins",
+        "Ishara Fernando",
+        "Dustin Keller"
+      ],
+      "abstract": "We present a machine-learning method for the nonparametric extraction of generalized parton distributions (GPDs) from Compton form factors (CFFs) constrained by experimental data. The method addresses the longstanding inverse problem posed by the principal-value (PV) linear integral transform with a singular kernel that relates the charge-conjugation-even (C-even) quark GPD $H^{(+)}$ to the real part of the deeply virtual Compton scattering (DVCS) amplitude. Our approach constructs a differentiable representation of the Quantum Chromodynamics (QCD) PV kernel and embeds it as a fixed, physics-preserving layer inside a neural network that parameterizes the GPD $H^{(+)}(x,ξ,t,Q^{2})$ itself. The model enforces exact oddness in $x$, implements endpoint suppression, and includes curvature-based regularization that stabilizes the inversion in kinematically ill-conditioned regions. A Monte Carlo ensemble of CFFs, obtained from a global neural-network fit to unpolarized DVCS measurements with propagated experimental uncertainties, serves as input to a replica ensemble of GPD networks, yielding a fully probabilistic extraction of $H^{(+)}$ over the phase space. We demonstrate the method using a global determination of $\\mathrm{Re}\\,\\mathcal{H}$ for Jefferson Lab measurements, and present a direct neural-network reconstruction of three-dimensional GPD surfaces $H^{(+)}(x_{0},ξ,t,Q_{0}^{2})$ obtained from experimental CFF inputs. This work establishes a flexible, scalable, and model-independent strategy for extracting multidimensional hadronic structure from current and future DVCS data and other GPD-related processes.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-12-25T18:47:21+00:00",
+      "updated": "2026-05-24T19:18:56+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.21761v2",
+      "html_url": "https://arxiv.org/html/2512.21761v2",
+      "entry_url": "http://arxiv.org/abs/2512.21761v2"
+    },
+    {
+      "arxiv_id": "2512.21538v3",
+      "base_id": "2512.21538",
+      "title": "The Compact X and Z and their Invisible Molecular Partners",
+      "authors": [
+        "A. Carducci",
+        "B. Grinstein",
+        "D. Germani",
+        "A. D. Polosa"
+      ],
+      "abstract": "We propose a model explaining the strong isospin violations observed in X(3872) decays. The X is assumed to be a compact isosinglet tetraquark and its charged partners to form an isotriplet, together with an additional neutral state mixing with the isosinglet. The isotriplet results from the loose binding of open charm mesons and, in isolation, has strongly suppressed production rates. However, its neutral component can still mix with the isosinglet and induce the large isospin violations observed. The compact-isosinglet/molecular-isotriplet pattern appears reversed when the Z(3900) resonances are considered. The Z particles observed correspond to a compact isotriplet and there is no evidence of a neutral isosinglet Z. We show that no isospin violation in the Z decays is expected.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-12-25T07:14:45+00:00",
+      "updated": "2026-05-29T14:43:29+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.21538v3",
+      "html_url": "https://arxiv.org/html/2512.21538v3",
+      "entry_url": "http://arxiv.org/abs/2512.21538v3"
+    },
+    {
+      "arxiv_id": "2512.21704v2",
+      "base_id": "2512.21704",
+      "title": "Determination of the HERA coherent diffractive $J/ψ$ production cross section via artificial neural network",
+      "authors": [
+        "Taufiq Iqbal Baihaqi",
+        "Chalis Setyadi",
+        "Zulkaida Akbar",
+        "Parada T. P. Hutauruk",
+        "Apriadi Salim Adam"
+      ],
+      "abstract": "An exclusive coherent diffractive $J/ψ$ production dataset from HERA, covering a large kinematic range in the photon virtuality $Q^2$, the squared momentum transfer $t$, and the photon-proton center-of-mass energy $W$, has been analyzed using various theoretical models with different approaches. In common model analyses, the inherent assumptions and limited kinematic applicability somewhat restrict the predictive power of the models, resulting in model-dependent prediction results. In this paper, we present our model-independent approach for the same reaction process and dataset, utilizing an artificial neural network (ANN) technique. The prediction of the best ANN model for the HERA differential cross-section dataset over a range of $W$, $Q^2$, and $t$ is obtained. We then extend the ANN model by combining the HERA and LHC data at various values of $W$ to predict the total photoproduction cross-section and demonstrate how to extract the exponential slope $b$. We find that the exponential slope $b$ strongly depends on $Q^2$ and $W$.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2025-12-25T14:56:57+00:00",
+      "updated": "2026-06-03T07:36:13+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.21704v2",
+      "html_url": "https://arxiv.org/html/2512.21704v2",
+      "entry_url": "http://arxiv.org/abs/2512.21704v2"
+    }
+  ],
+  "total": 8
+}

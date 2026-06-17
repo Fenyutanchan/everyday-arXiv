@@ -1,0 +1,84 @@
+{
+  "date": "2024-12-12",
+  "papers": [
+    {
+      "arxiv_id": "2412.09730v4",
+      "base_id": "2412.09730",
+      "title": "Lorentz and CPT violation and the hydrogen and antihydrogen molecular ions I -- rovibrational states",
+      "authors": [
+        "Graham M. Shore"
+      ],
+      "abstract": "The extremely narrow natural linewidths of rovibrational energy levels in the molecular hydrogen ion $\\textrm{H}_2^{\\,+}$, and the prospect of synthesising its antimatter counterpart $\\overline{\\textrm{H}}_2^{\\,-}$, make it a promising candidate for high-precision tests of fundamental symmetries such as Lorentz and CPT invariance. In this paper, we present a detailed analysis of the rovibrational spectrum of the (anti-)hydrogen molecular ion in a low-energy effective theory incorporating Lorentz and CPT violation. The focus is on the spin-independent couplings in this theory, for which the best current bounds come from measurements of the 1S-2S transition in atomic hydrogen and antihydrogen. We show that in addition to the improvement in these bounds from the increased precision of the transition frequencies, potentially reaching 1 part in $10^{17}$, rovibrational transitions have an enhanced sensitivity to Lorentz and CPT violation of $O(m_p/m_e)$ in the proton (hadron) sector compared to atomic transitions.",
+      "categories": [
+        "physics.atom-ph",
+        "hep-ph"
+      ],
+      "published": "2024-12-12T21:38:46+00:00",
+      "updated": "2026-04-16T20:11:15+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2412.09730v4",
+      "html_url": "https://arxiv.org/html/2412.09730v4",
+      "entry_url": "http://arxiv.org/abs/2412.09730v4"
+    },
+    {
+      "arxiv_id": "2412.09459v3",
+      "base_id": "2412.09459",
+      "title": "Temperature-Resistant Order in 2+1 Dimensions",
+      "authors": [
+        "Zohar Komargodski",
+        "Fedor K. Popov"
+      ],
+      "abstract": "High temperatures are typically thought to increase disorder. Here we examine this idea in Quantum Field Theory in 2+1 dimensions. For this sake we explore a novel class of tractable models, consisting of nearly-mean-field scalars interacting with critical scalars. We identify UV-complete, local, unitary models in this class and show that symmetry breaking $\\mathbb{Z}_2 \\to \\emptyset$ occurs at any temperature in some regions of the phase diagram. This phenomenon, previously observed in models with fractional dimensions, or in the strict planar limits, or with non-local interactions, is now exhibited in a local, unitary 2+1 dimensional model with a finite number of fields.",
+      "categories": [
+        "hep-th",
+        "cond-mat.str-el"
+      ],
+      "published": "2024-12-12T17:09:43+00:00",
+      "updated": "2026-05-21T14:40:41+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2412.09459v3",
+      "html_url": "https://arxiv.org/html/2412.09459v3",
+      "entry_url": "http://arxiv.org/abs/2412.09459v3"
+    },
+    {
+      "arxiv_id": "2412.08925v3",
+      "base_id": "2412.08925",
+      "title": "Generalized CV Conjecture and Krylov Complexity in Two-Mode Hermitian Systems via Information Geometry",
+      "authors": [
+        "Ke-Hong Zhai",
+        "Lei-Hua Liu",
+        "Hai-Qing Zhang"
+      ],
+      "abstract": "We extend the CV conjecture to quantum states of two-mode Hermitian systems using the framework of information geometry. Specifically, we conjecture that the Krylov complexity of a quantum state equals the volume of the Fubini-Study metric. To test this conjecture, we construct the wave functions for both closed and open two-mode systems. For the closed system, the wave function corresponds to the well-known two-mode squeezed state, while for the open system, we employ the second kind of Meixner polynomials to generate an open two-mode squeezed state. Remarkably, in both cases, the calculated Fubini-Study volume matches the Krylov complexity, providing analytic evidence for the generalized CV relation in this controlled two-mode setting. Our results establish a direct link between operator growth in Krylov space and geometric properties of quantum states, highlighting the potential applications of this framework in quantum information and quantum optics.",
+      "categories": [
+        "hep-th",
+        "cond-mat.stat-mech",
+        "quant-ph"
+      ],
+      "published": "2024-12-12T04:23:29+00:00",
+      "updated": "2026-05-21T00:24:08+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2412.08925v3",
+      "html_url": "https://arxiv.org/html/2412.08925v3",
+      "entry_url": "http://arxiv.org/abs/2412.08925v3"
+    },
+    {
+      "arxiv_id": "2412.08928v4",
+      "base_id": "2412.08928",
+      "title": "The essential regularity of singular connections in geometry",
+      "authors": [
+        "Moritz Reintjes",
+        "Blake Temple"
+      ],
+      "abstract": "This paper, a culmination of the authors' theory of the RT-equations, accomplishes the following: (i) We discover there is a true (geometric) regularity associated with every affine connection, its ``essential regularity'', the highest possible regularity achievable by coordinate transformation, a geometric property independent of starting atlas. (ii) We give a checkable necessary and sufficient condition for determining whether or not a connection is at its essential regularity in a given atlas, based on the relative regularity of the connection and its Riemann curvature. (iii) We introduce a computable procedure based on the RT-equations for lifting any $L^p$ affine connection given in a starting atlas, to a new atlas in which the connection exhibits its essential regularity. This resolves the long-standing problem of determining whether or not a singularity in an affine connection is removable or essential, applicable to any connection with components locally in $L^p$, $p>n$, general enough to include GR shock wave and cusp singularities in General Relativity. Since a manifold by itself does not carry an intrinsic level of regularity, the authors propose that the essential regularity of a connection marks the point at which an intrinsic level of regularity enters the subject of geometry.",
+      "categories": [
+        "gr-qc",
+        "math-ph",
+        "math.DG"
+      ],
+      "published": "2024-12-12T04:30:41+00:00",
+      "updated": "2026-05-28T05:13:25+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2412.08928v4",
+      "html_url": "https://arxiv.org/html/2412.08928v4",
+      "entry_url": "http://arxiv.org/abs/2412.08928v4"
+    }
+  ],
+  "total": 4
+}

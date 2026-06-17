@@ -1,0 +1,30 @@
+{
+  "date": "2022-11-24",
+  "papers": [
+    {
+      "arxiv_id": "2211.13753v2",
+      "base_id": "2211.13753",
+      "title": "Inverse Problem Approach for Non-Perturbative QCD: Theoretical Foundation",
+      "authors": [
+        "Ao-Sheng Xiong",
+        "Fu-Sheng Yu",
+        "Yong Zheng",
+        "Ting Wei"
+      ],
+      "abstract": "A novel theoretical framework, the inverse problem approach, is proposed to calculate non-perturbative quantities in quantum chromodynamics (QCD). Based on the dispersion relation of quantum field theory, this approach determines unknown low-energy non-perturbative quantities from known high-energy perturbative inputs via solving an inverse problem. The resulting inverse problem is rigorously proven to be ill-posed, with the solutions being unique but unstable. To address this instability, the well-established Tikhonov regularization is employed, yielding stable approximate solutions that converge to the true values as input errors vanish. The key features of this approach are illustrated through three toy models, demonstrating that solution precision can be systematically improved through reduced input errors and optimized regularization strategies.",
+      "categories": [
+        "hep-th",
+        "hep-ex",
+        "hep-lat",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "published": "2022-11-24T18:45:34+00:00",
+      "updated": "2026-05-21T15:25:01+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2211.13753v2",
+      "html_url": "https://arxiv.org/html/2211.13753v2",
+      "entry_url": "http://arxiv.org/abs/2211.13753v2"
+    }
+  ],
+  "total": 1
+}

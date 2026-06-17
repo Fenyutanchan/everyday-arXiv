@@ -1,0 +1,28 @@
+{
+  "date": "2025-06-08",
+  "papers": [
+    {
+      "arxiv_id": "2506.07257v3",
+      "base_id": "2506.07257",
+      "title": "A Quantum Computational Perspective on Spread Complexity",
+      "authors": [
+        "Cameron Beetar",
+        "Eric L Graef",
+        "Jeff Murugan",
+        "Horatiu Nastase",
+        "Hendrik J R Van Zyl"
+      ],
+      "abstract": "We establish a direct connection between spread complexity and quantum circuit complexity by demonstrating that spread complexity emerges as a limiting case of a circuit complexity framework built from two fundamental operations: time-evolution and superposition. Our approach leverages a computational setup where unitary gates and beam-splitting operations generate target states, with the minimal cost of synthesis yielding a complexity measure that converges to spread complexity in the infinitesimal time-evolution limit. This perspective not only provides a physical interpretation of spread complexity but also offers computational advantages, particularly in scenarios where traditional methods like the Lanczos algorithm fail. We illustrate our framework with an explicit SU(2) example and discuss broader applications, including cases where return amplitudes are non-perturbative or divergent",
+      "categories": [
+        "hep-th",
+        "quant-ph"
+      ],
+      "published": "2025-06-08T19:04:42+00:00",
+      "updated": "2026-05-18T07:52:54+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.07257v3",
+      "html_url": "https://arxiv.org/html/2506.07257v3",
+      "entry_url": "http://arxiv.org/abs/2506.07257v3"
+    }
+  ],
+  "total": 1
+}

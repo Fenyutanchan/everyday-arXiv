@@ -1,0 +1,379 @@
+{
+  "date": "2025-12-17",
+  "papers": [
+    {
+      "arxiv_id": "2512.15578v2",
+      "base_id": "2512.15578",
+      "title": "Scalar, vector and tensor fields on $dS_3$ with arbitrary sources: harmonic analysis and antipodal maps",
+      "authors": [
+        "Geoffrey Compère",
+        "Sébastien Robert"
+      ],
+      "abstract": "The scalar, vector and tensor spherical harmonics on three-dimensional de Sitter spacetime are defined and analyzed. Each harmonic defines two sets of asymptotic data on the two sphere in the asymptotic expansion close to both the past and the future of de Sitter spacetime. For each case, we make explicit the antipodal relationship of both sets of asymptotic data between past and future infinity, which can be non-local. A procedure is defined to extract these asymptotic data in the presence of sources. This provides for each class of propagating field on de Sitter the relationship between two independent sets of data defined on the sphere in the asymptotic future with the corresponding data defined in the asymptotic past. We also provide several theorems on the decomposition of vector and tensors on de Sitter such as one proving that a large class of tensors obeying an inhomogeneous wave equation can be expressed locally in terms of a symmetric transverse traceless tensor. These results are instrumental in the description of interacting four-dimensional asymptotically flat fields at spatial infinity.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2025-12-17T16:36:42+00:00",
+      "updated": "2026-04-20T08:10:43+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.15578v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2512.15578v2"
+    },
+    {
+      "arxiv_id": "2512.15393v2",
+      "base_id": "2512.15393",
+      "title": "Spontaneous wave function collapse from non-local gravitational self-energy",
+      "authors": [
+        "Kimet Jusufi",
+        "Douglas Singleton",
+        "Francisco S. N. Lobo"
+      ],
+      "abstract": "We incorporate non-local gravitational self-energy, motivated by string-inspired T-duality, into the Schrödinger-Newton equation. In this framework spacetime has an intrinsic non-locality, rendering the standard linear superposition principle only an approximation valid in the absence of gravitational effects. We then invert the logic by assuming the validity of linear superposition and demonstrate that such superpositions inevitably become unstable once gravity is included. The resulting wave-function collapse arises from a fundamental tension between the equivalence principle and the quantum superposition principle in a semiclassical spacetime background. We further show that wave functions computed in inertial and freely falling frames differ by a gravitationally induced phase shift containing linear and cubic time contributions along with a constant global term. These corrections produce a global phase change and lead to a spontaneous, model-independent collapse time inversely proportional to the mass of the system.",
+      "categories": [
+        "gr-qc",
+        "hep-th",
+        "quant-ph"
+      ],
+      "published": "2025-12-17T12:45:35+00:00",
+      "updated": "2026-04-22T09:26:59+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.15393v2",
+      "html_url": "https://arxiv.org/html/2512.15393v2",
+      "entry_url": "http://arxiv.org/abs/2512.15393v2"
+    },
+    {
+      "arxiv_id": "2512.15960v3",
+      "base_id": "2512.15960",
+      "title": "DESI-DR1 $3 \\times 2$-pt analysis: consistent cosmology across weak lensing surveys",
+      "authors": [
+        "A. Porredon",
+        "C. Blake",
+        "J. U. Lange",
+        "N. Emas",
+        "J. Aguilar",
+        "S. Ahlen",
+        "A. Bera",
+        "D. Bianchi",
+        "D. Brooks",
+        "F. J. Castander",
+        "T. Claybaugh",
+        "J. Coloma Nadal",
+        "A. Cuceu",
+        "K. S. Dawson",
+        "A. de la Macorra",
+        "Biprateep Dey",
+        "P. Doel",
+        "A. Elliott",
+        "S. Ferraro",
+        "A. Font-Ribera",
+        "J. E. Forero-Romero",
+        "C. Garcia-Quintero",
+        "E. Gaztañaga",
+        "S. Gontcho A Gontcho",
+        "G. Gutierrez",
+        "J. Guy",
+        "B. Hadzhiyska",
+        "H. K. Herrera-Alcantar",
+        "S. Heydenreich",
+        "K. Honscheid",
+        "C. Howlett",
+        "D. Huterer",
+        "M. Ishak",
+        "S. Joudaki",
+        "R. Joyce",
+        "D. Kirkby",
+        "A. Kremin",
+        "A. Krolewski",
+        "O. Lahav",
+        "C. Lamman",
+        "M. Landriau",
+        "L. Le Guillou",
+        "A. Leauthaud",
+        "M. E. Levi",
+        "M. Manera",
+        "A. Meisner",
+        "R. Miquel",
+        "S. Nadathur",
+        "J. A. Newman",
+        "G. Niz",
+        "N. Palanque-Delabrouille",
+        "W. J. Percival",
+        "C. Poppett",
+        "F. Prada",
+        "I. Pérez-Ràfols",
+        "A. Robertson",
+        "G. Rossi",
+        "R. Ruggeri",
+        "E. Sanchez",
+        "C. Saulder",
+        "D. Schlegel",
+        "M. Schubnell",
+        "A. Semenaite",
+        "H. Seo",
+        "J. Silber",
+        "A. Souki",
+        "D. Sprayberry",
+        "G. Tarlé",
+        "M. Vargas-Magaña",
+        "B. A. Weaver",
+        "C. Zhou",
+        "R. Zhou",
+        "H. Zou"
+      ],
+      "abstract": "We present a joint cosmological analysis of projected galaxy clustering observations from the Dark Energy Spectroscopic Instrument Data Release 1 (DESI-DR1), and overlapping weak gravitational lensing observations from three datasets: the Kilo-Degree Survey (KiDS-1000), the Dark Energy Survey (DES-Y3), and the Hyper-Suprime-Cam Survey (HSC-Y3). This combination of large-scale structure probes allows us to measure a set of $3 \\times 2$-pt correlation functions, breaking the degeneracies between parameters in cosmological fits to individual observables. We obtain mutually-consistent constraints on the parameter $S_8 = σ_8 \\sqrt{Ω_{\\rm m}/0.3} = 0.786^{+0.022}_{-0.019}$ from the combination of DESI-DR1 and DES-Y3, $S_8 = 0.760^{+0.020}_{-0.018}$ from KiDS-1000, and $S_8 = 0.771^{+0.026}_{-0.027}$ from HSC-Y3. These parameter determinations are consistent with fits to the Planck Cosmic Microwave Background dataset, albeit with $1.5-2σ$ lower values in the $S_8-Ω_{\\rm m}$ plane. We perform our analysis with a unified pipeline tailored to the requirements of each cosmic shear survey, which self-consistently determines cosmological and astrophysical parameters. We generate an analytical covariance matrix for the correlation data including all cross-covariances between probes, and we design a new blinding procedure to safeguard our analysis against confirmation bias, whilst leaving goodness-of-fit statistics unchanged. Our study is part of a suite of papers that present joint cosmological analyses of DESI-DR1 and weak gravitational lensing datasets.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2025-12-17T20:47:38+00:00",
+      "updated": "2026-04-27T11:27:24+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.15960v3",
+      "html_url": "https://arxiv.org/html/2512.15960v3",
+      "entry_url": "http://arxiv.org/abs/2512.15960v3"
+    },
+    {
+      "arxiv_id": "2512.15242v4",
+      "base_id": "2512.15242",
+      "title": "Massive boson stars: Stability and GW emission in head-on mergers",
+      "authors": [
+        "Bo-Xuan Ge"
+      ],
+      "abstract": "We investigate quartically self-interacting massive boson stars by constructing equilibrium sequences and performing dynamical evolutions. The mass curve $M(|φ_c|)$ along these sequences develops multiple extrema, yet stability changes only at the first maximum; configurations beyond it become highly compact and collapse under numerically induced perturbations, with near-critical models displaying a short-lived double-dive behaviour. Head-on collisions of equal-mass stars yield three distinct outcomes -- boson star remnants, black hole formation at contact, and collapse of each star to a black hole prior to contact. The associated gravitational-wave energies reflect a competition between increasing compactness, which enhances the efficiency of gravitational-wave emission, and decreasing tidal deformability, which suppresses merger asymmetries, and at large self-interaction strengths the collapse-before-contact branch exhibits a pronounced non-monotonic structure. The simulations reported here constitute a substantial catalogue of initial conditions and waveforms, providing a natural basis for constructing surrogate models capable of rapidly predicting gravitational-wave signals across an extended parameter space.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE"
+      ],
+      "published": "2025-12-17T09:42:37+00:00",
+      "updated": "2026-05-28T12:59:09+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.15242v4",
+      "html_url": "https://arxiv.org/html/2512.15242v4",
+      "entry_url": "http://arxiv.org/abs/2512.15242v4"
+    },
+    {
+      "arxiv_id": "2512.15604v2",
+      "base_id": "2512.15604",
+      "title": "Comparing cosmic shear nulling methods for Stage-IV surveys",
+      "authors": [
+        "Naomi Clare Robertson",
+        "Alex Hall"
+      ],
+      "abstract": "We present an analysis comparing nulling strategies for reducing the impact of baryon feedback on cosmic shear measurements. We consider three different approaches which aim to `null' the high-$k$ modes using transformations applied to the data vector: the Bernardeau-Nishimichi-Taruya (BNT) transform which operates on the lensing field, a new implementation of an LU factorisation of the discretized Limber integral (LUnul) which operates on the lensing two-point statistics, and finally a method which uses a correlated LSS tracers to suppress contributions from lower redshifts (cross-correlation). We compare these methods to un-nulled (or standard) cosmic shear at the data vector level and assess whether these methods are able to reduce the bias on cosmological constraints using a Fisher forecast. We find that the nulling techniques considered can have a large impact on reducing the bias on $S_8$ and Dark Energy parameters. The cross-correlation method is effective at reducing biases in $S_8$, but requires additional information from galaxy clustering. The LUnul method is the most aggressive of the methods and hence reduces biases most efficiently as $k_{\\rm max}$ is increased, although this improvement in accuracy comes at the cost of precision. The BNT approach preserves more information than LUnul, and has a more rigorous theoretical grounding. We demonstrate that all three of these methods are effective at mitigating bias, and can be readily applied in forthcoming lensing analyses.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2025-12-17T17:12:43+00:00",
+      "updated": "2026-05-05T13:03:21+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.15604v2",
+      "html_url": "https://arxiv.org/html/2512.15604v2",
+      "entry_url": "http://arxiv.org/abs/2512.15604v2"
+    },
+    {
+      "arxiv_id": "2512.15877v2",
+      "base_id": "2512.15877",
+      "title": "Modeling the frequency-domain ringdown amplitude of comparable-mass mergers with greybody factors",
+      "authors": [
+        "Romeo Felice Rosato",
+        "Sophia Yi",
+        "Emanuele Berti",
+        "Paolo Pani"
+      ],
+      "abstract": "It was recently shown that, in a binary coalescence, the greybody factor of the remnant black hole modulates the post-merger ringdown signal. In this work, we demonstrate that a simple four-parameter model based on the greybody factor accurately reproduces the frequency-domain amplitude of a large set of comparable-mass, aligned-spin numerical relativity waveforms from the SXS catalog, achieving mismatches of order ${\\cal O}(10^{-5})$ and improving existing models by roughly two orders of magnitude. We also identify the optimal initial frequency for applying the model in the frequency domain and provide analytical fits of the model parameters in terms of the progenitor masses and aligned spins. Our results pave the way for new consistency tests of the ringdown phase, complementary to traditional black hole spectroscopy.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE",
+        "hep-ph"
+      ],
+      "published": "2025-12-17T19:00:11+00:00",
+      "updated": "2026-05-13T14:24:13+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.15877v2",
+      "html_url": "https://arxiv.org/html/2512.15877v2",
+      "entry_url": "http://arxiv.org/abs/2512.15877v2"
+    },
+    {
+      "arxiv_id": "2512.15961v2",
+      "base_id": "2512.15961",
+      "title": "Joint cosmological fits to DESI-DR1 full-shape clustering and weak gravitational lensing in configuration space",
+      "authors": [
+        "A. Semenaite",
+        "C. Blake",
+        "A. Porredon",
+        "J. Aguilar",
+        "S. Ahlen",
+        "D. Bianchi",
+        "D. Brooks",
+        "F. J. Castander",
+        "T. Claybaugh",
+        "A. Cuceu",
+        "K. S. Dawson",
+        "A. de la Macorra",
+        "Biprateep Dey",
+        "P. Doel",
+        "A. Eggemeier",
+        "A. Elliott",
+        "N. Emas",
+        "S. Ferraro",
+        "A. Font-Ribera",
+        "J. E. Forero-Romero",
+        "C. Garcia-Quintero",
+        "E. Gaztañaga",
+        "S. Gontcho A Gontcho",
+        "G. Gutierrez",
+        "J. Guy",
+        "B. Hadzhiyska",
+        "H. K. Herrera-Alcantar",
+        "S. Heydenreich",
+        "K. Honscheid",
+        "C. Howlett",
+        "D. Huterer",
+        "M. Ishak",
+        "S. Joudaki",
+        "R. Joyce",
+        "E. Jullo",
+        "D. Kirkby",
+        "A. Kremin",
+        "A. Krolewski",
+        "O. Lahav",
+        "C. Lamman",
+        "M. Landriau",
+        "J. U. Lange",
+        "L. Le Guillou",
+        "A. Leauthaud",
+        "M. E. Levi",
+        "M. Manera",
+        "A. Meisner",
+        "R. Miquel",
+        "J. Moustakas",
+        "S. Nadathur",
+        "J. A. Newman",
+        "N. Palanque-Delabrouille",
+        "W. J. Percival",
+        "A. Pezzotta",
+        "C. Poppett",
+        "F. Prada",
+        "I. Pérez-Ràfols",
+        "A. Robertson G. Rossi",
+        "R. Ruggeri",
+        "A. G. Sánchez",
+        "E. Sanchez",
+        "C. Saulder",
+        "D. Schlegel",
+        "M. Schubnell",
+        "H. Seo",
+        "J. Silber",
+        "D. Sprayberry",
+        "G. Tarlé",
+        "B. A. Weaver",
+        "P. Zarrouk",
+        "R. Zhou",
+        "H. Zou"
+      ],
+      "abstract": "We present a joint $3\\times2$-pt cosmological analysis of auto- and cross-correlations between the Dark Energy Spectroscopic Instrument Data Release 1 (DESI-DR1) Bright Galaxy Survey (BGS) and Luminous Red Galaxy (LRG) samples and overlapping shear measurements from the KiDS-1000, DES-Y3 and HSC-Y3 weak lensing surveys. We perform our analysis in configuration space and, in addition to the cosmic shear correlation functions for each weak lensing dataset, we fit the tangential shear of the weak lensing source galaxies around DESI lens galaxies. Finally, we make use of the anisotropic BGS and LRG clustering information by fitting the full shape of the two-point correlation function multipoles measured over the full DESI-DR1 footprint, presenting the first full-shape analysis of DESI measurements in configuration space. We find that the addition of weak lensing information serves to improve, with respect to the clustering-only case, the measurements of the power spectrum amplitude parameters $\\ln(10^{10}A_{\\rm{s}})$ and $σ_{12}$ by $15\\%$ and $36\\%$, respectively. It also improves measurements of the linear bias of the lens galaxies by $15-20\\%$, depending on the tracer. Our results show excellent consistency, regardless of the weak lensing survey considered, and are furthermore consistent with a companion analysis that fits $3\\times2$-pt correlations including DESI projected clustering measurements, as well as the results published by the weak lensing collaborations themselves. Our measured values for weak lensing amplitude are $S_{8}^{\\mathrm{DESI\\times HSC}}=0.787\\pm0.020$, $S_{8}^{\\mathrm{DESI\\times DES}}=0.791\\pm0.016$, $S_{8}^{\\mathrm{DESI\\times KiDS}}=0.771\\pm0.017$, which are $1.9σ-2.9σ$ below the $S_8$ value preferred by Planck. Finally, our clustering-only results are in good agreement with the Fourier space full-shape analysis of all DESI tracers.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2025-12-17T20:47:39+00:00",
+      "updated": "2026-05-15T06:04:12+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.15961v2",
+      "html_url": "https://arxiv.org/html/2512.15961v2",
+      "entry_url": "http://arxiv.org/abs/2512.15961v2"
+    },
+    {
+      "arxiv_id": "2512.15860v2",
+      "base_id": "2512.15860",
+      "title": "Particle Production by Time-Varying Dark Energy and the End of Cosmic Expansion",
+      "authors": [
+        "Nicolas Patino",
+        "Paul J. Steinhardt"
+      ],
+      "abstract": "We consider various possible consequences of time-varying dark energy due to a quintessence scalar field whose energy density is partially converted to particles as the field evolves down its potential. This particle production acts as a source of thermal friction on the field that can make it difficult to distinguish whether dark energy is due to a radiating field rolling down a steep potential, a purely self-interacting field moving down a flatter potential, or a cosmological constant. By reducing the acceleration of the scalar field, thermal friction increases the amount of accelerated expansion and can cause a sizable bump in the quintessence equation of state. We take special interest in the case where a steep potential rapidly changes from positive to negative as the field evolves, resulting in the end of cosmic expansion and the beginning of contraction. Even in this case, we find that thermal friction lengthens the period of accelerated expansion and consequently delays the end of cosmic expansion, making it challenging to detect the impending transition to contraction using conventional cosmological tests. However, particle production can also provide alternative avenues for detection by generating a background of thermal dark radiation, partly comprised of neutrinos or other particles, whose energy density exceeds the remnant photon energy density.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-th"
+      ],
+      "published": "2025-12-17T19:00:02+00:00",
+      "updated": "2026-05-19T18:00:01+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.15860v2",
+      "html_url": "https://arxiv.org/html/2512.15860v2",
+      "entry_url": "http://arxiv.org/abs/2512.15860v2"
+    },
+    {
+      "arxiv_id": "2512.15700v3",
+      "base_id": "2512.15700",
+      "title": "Fermionic Electroweak Two-Loop Corrections to Drell-Yan and Related Processes",
+      "authors": [
+        "Ayres Freitas",
+        "E. Jackson Wallace"
+      ],
+      "abstract": "We perform a complete calculation of the next-to-next-to-leading order (NNLO) electroweak fermionic corrections to fermion-pair production processes, where \"fermionic\" refers to contributions with closed fermion loops. We did this via a semi-numerical technique that uses dispersion relations for the fermion sub-loop in two-loop box and vertex diagrams and dispersion relations and Feynman parameters for vertex diagrams with fermionic triangle sub-loops. UV and IR divergences are treated with suitable subtraction terms. We present numerical results for the cross-sections of $e^+e^-\\to μ^+μ^-/u\\bar{u}/d\\bar{d}$ and differential distributions at representative center-of-mass energies. The NNLO corrections are found to modify the NLO cross-section on the order of 1%.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-12-17T18:52:54+00:00",
+      "updated": "2026-05-28T22:30:25+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.15700v3",
+      "html_url": "https://arxiv.org/html/2512.15700v3",
+      "entry_url": "http://arxiv.org/abs/2512.15700v3"
+    },
+    {
+      "arxiv_id": "2512.15704v3",
+      "base_id": "2512.15704",
+      "title": "Observable Gravitational Wave Strain at Second Order",
+      "authors": [
+        "Guillem Domènech",
+        "Shi Pi",
+        "Ao Wang"
+      ],
+      "abstract": "There is currently no rigorous definition of gravitational wave strain at second order in cosmological perturbation theory. The usual association of gravitational waves with transverse and traceless fluctuations of the metric on spatial hypersurfaces becomes ambiguous at second order, as it inherently depends on the spacetime slicing. While this poses no practical issues in linearized gravity, it presents a fundamental problem for secondary gravitational waves, especially notorious for gravitational waves induced by primordial fluctuations. We compute, for the first time, the observable gravitational wave strain at second order, as measured by geodesic observers that emit and receive electromagnetic signals, thereby settling the debate on gauge ambiguities. Working in a gauge invariant fashion, we find that the measured gravitational wave strain coincides with the transverse-traceless components in the Newton gauge.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2025-12-17T18:55:42+00:00",
+      "updated": "2026-06-03T14:17:11+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.15704v3",
+      "html_url": "https://arxiv.org/html/2512.15704v3",
+      "entry_url": "http://arxiv.org/abs/2512.15704v3"
+    },
+    {
+      "arxiv_id": "2512.15540v4",
+      "base_id": "2512.15540",
+      "title": "A Unique Bosonic Symmetry in a 4D Field-Theoretic System",
+      "authors": [
+        "R. P. Malik"
+      ],
+      "abstract": "For the combined field-theoretic system of the four (3 + 1)-dimensional (4D) Abelian 3-form and 1-form gauge theories, we show the existence of a unique bosonic symmetry transformation that is constructed from the four infinitesimal, continuous and off-shell nilpotent symmetry transformations which exist for the Becchi-Rouet-Stora-Tyutin (BRST) quantized versions of the coupled (but equivalent) Lagrangian densities that describe our present 4D field-theoretic system. The above off-shell nilpotent symmetry transformations are nothing but the BRST, co-BRST, anti-BRST and anti-co-BRST, under which, the Lagrangian densities transform to the total spacetime derivatives. The proof of the uniqueness of the above bosonic symmetry transformation operator crucially depends on the validity of all the four Curci-Ferrari (CF) type restrictions that exist on our theory. We highlight the importance of these CF-type restrictions, at various levels of our theoretical discussions, in the context of the unique bosonic symmetry transformation operator. We compare this observation against the backdrop of the three CF-type restrictions that appear in the requirements of the absolute anticommutativity between the specific set of a couple of nilpotent symmetry transformation operators.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2025-12-17T15:48:05+00:00",
+      "updated": "2026-06-03T08:55:16+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.15540v4",
+      "html_url": "https://arxiv.org/html/2512.15540v4",
+      "entry_url": "http://arxiv.org/abs/2512.15540v4"
+    },
+    {
+      "arxiv_id": "2512.15698v2",
+      "base_id": "2512.15698",
+      "title": "Probing the dynamics of stringy flux tubes with large $R$-charge",
+      "authors": [
+        "Davide Bonomi",
+        "Valentina Forini",
+        "Valentina Giangreco M. Puletti",
+        "Luca Griguolo",
+        "Domenico Seminara"
+      ],
+      "abstract": "We study the generalized cusp anomalous dimension, or quark-antiquark potential on the three-sphere, in the presence of a large $R$-charge $L$ and at strong coupling. Considering the insertion of a local scalar operator of charge $L$ on a cusped Wilson loop, we investigate the general solution of the dual string configuration for any value of cusp angles, paying particular attention to the different ranges of the physical parameters and obtaining a unified description that simultaneously captures the near BPS, the antiparallel lines and the large-$L$ regimes. We observe, in the limit of small separation between the lines, a non-analytic change in the behavior of the cusp anomaly at a critical value of $L$: one crosses from a region dominated by the familiar Coulomb-like singularity to a ``deconfined\" situation describing the leading Lüscher corrections at large $L$ of the generalized cusp anomalous dimension. We derive the equations for small fluctuations around the classical string solution, generalizing previous analysis of the uncharged case, and we study the behavior of the spectrum near the transition region. Finally, we speculate on the field theory origin of the transition and on its implications for the fusion of Wilson lines.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2025-12-17T18:52:35+00:00",
+      "updated": "2026-06-15T14:07:52+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.15698v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2512.15698v2"
+    }
+  ],
+  "total": 12
+}

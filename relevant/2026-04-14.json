@@ -1,0 +1,370 @@
+{
+  "date": "2026-04-14",
+  "total": 13,
+  "papers": [
+    {
+      "arxiv_id": "2602.07972v2",
+      "base_id": "2602.07972",
+      "title": "Self-resonance preheating in deformed attractor models: oscillon formation and evolution",
+      "authors": [
+        "Bao-Min Gu",
+        "Yu-Peng Zhang",
+        "Fu-Wen Shu",
+        "Yu-Xiao Liu"
+      ],
+      "abstract": "It is well known that, in potentials that are quadratic near the minimum but shallower away, such as small $α$ ($\\ll M_P^2$) attractors, the inflaton condensate fragments into localized compact objects known as oscillons during self-resonance preheating. In this work we investigate the self-resonance in deformed $α$-attractor T-model with a Gaussian feature near the minimum, distant from inflation's end. Linear analysis reveals altered resonance bands and deformed Floquet charts dependent on feature parameters. In fully nonlinear lattice simulations, we find that the gradient energy transfer is largely independent of the potential feature parameter $h$. In contrast, after resonance terminates, the subsequent evolution of gradient energy becomes strongly dependent on $h$. Statistical analysis reveals that models with the potential feature produce larger number of smaller oscillons, with a reduced energy stored in these objects, increasingly suppressed as the magnitude of $h$ grows. By tracking the total energy and the gradient energy contained in oscillons, we find that in models with nonzero $h$ oscillons are systematically shorter-lived, with this effect strengthening for larger $h$. The gravitational wave emission is dominated by the resonance stage and is strongly suppressed once oscillons form. Potential features leave the low-frequency spectrum largely unchanged but significantly modify the high-frequency tail. Although a complete reheating description requires external couplings and higher-resolution simulations, clear qualitative differences of cosmic expansion history already emerge within our simulated time window. These results highlight the important role of potential features in shaping reheating dynamics and their cosmological implications, and provide a deeper understanding of preheating dynamics and the properties of oscillons.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2026-02-08T13:51:03+00:00",
+      "updated": "2026-04-14T14:41:41+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2602.07972v2",
+      "html_url": "https://arxiv.org/html/2602.07972v2",
+      "entry_url": "http://arxiv.org/abs/2602.07972v2",
+      "relevance": {
+        "relevant": true,
+        "score": 9,
+        "reason": "This paper directly addresses the researcher's core interest in cosmic reheating dynamics and pre-thermalization gravitational waves, studying self-resonance preheating, oscillon formation, and the resulting gravitational wave spectrum in deformed α-attractor models.",
+        "pass_number": 1,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2604.12687v1",
+      "base_id": "2604.12687",
+      "title": "Graviton Production from Inflaton Condensate: Boltzmann vs Bogoliubov",
+      "authors": [
+        "Chenhuan Wang",
+        "Yong Xu",
+        "Wenbin Zhao"
+      ],
+      "abstract": "We study graviton production from an oscillating inflaton condensate during reheating by systematically comparing Boltzmann and Bogoliubov descriptions for inflaton potentials of the form $V(φ)\\proptoφ^n$ around the minimum. The Bogoliubov framework provides a unified description of graviton production, capturing both perturbative and non-perturbative effects across short and long wavelengths, whereas the Boltzmann approach is restricted to perturbative production at short wavelengths. For the quadratic case ($n=2$), we find that the two approaches yield identical graviton spectra at short wavelengths, indicating that the Boltzmann treatments fully captures perturbative gravitational production in this regime. For steeper potentials ($n>2$), however, we identify a sizable contribution arising from the non-adiabatic transition between inflation and reheating. This component is naturally incorporated in the Bogoliubov formalism but absent in the Boltzmann description, and we show that it is important over a broad range of momenta. We derive analytic approximations within both frameworks that clarify the physical origin and scaling behavior of the spectrum. Our results delineate the regime of validity of Boltzmann approaches and show that, for steeper inflaton potentials, graviton production is governed by non-adiabatic transition dynamics for which the Bogoliubov formalism provides the most appropriate description.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "published": "2026-04-14T12:58:33+00:00",
+      "updated": "2026-04-14T12:58:33+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.12687v1",
+      "html_url": "https://arxiv.org/html/2604.12687v1",
+      "entry_url": "http://arxiv.org/abs/2604.12687v1",
+      "relevance": {
+        "relevant": true,
+        "score": 9,
+        "reason": "The paper directly addresses cosmic reheating dynamics and pre-thermalization gravitational wave production from the inflaton condensate, which are core topics in the researcher's early-universe cosmology interests.",
+        "pass_number": 1,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2604.13012v1",
+      "base_id": "2604.13012",
+      "title": "Probing Scalar-Tensor-Induced Gravitational Waves in the nHz Band: $\\texttt{NANOGrav}$ and SKA",
+      "authors": [
+        "William Iania",
+        "Angelo Ricciardone"
+      ],
+      "abstract": "Scalar-induced gravitational waves (SIGWs) have recently attracted considerable interest, both as a possible explanation for the nanohertz signal reported by the Pulsar Timing Array (PTA) collaboration and for their connection with primordial black hole (PBH) physics. In addition to SIGWs, scalar-tensor-induced gravitational waves (STGWs) have emerged as a promising cosmological source of the stochastic gravitational wave background (SGWB). In this paper, we compute the STGWs generated during a generic matter-dominated (MD) era, as well as during an early matter-dominated (eMD) epoch followed by a sudden transition to the standard radiation-dominated (RD) stage, working in the Poisson gauge. We find that, in a purely MD age, the corresponding energy density rapidly dilutes, whereas in the presence of an eMD phase it remains non-vanishing due to the short duration of the eMD period. We then investigate whether the STGW signal could provide a dominant contribution to the $\\texttt{NANOGrav 15-year}$ dataset and we forecast the prospects for its detection with future observations by the Square Kilometre Array (SKA). In particular, we consider STGWs generated during both eMD and RD eras, including their linear-order contributions. Our results show that the GWs induced by scalar-tensor mixing constitute a viable target for future, more sensitive detections of the SGWB.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2026-04-14T17:46:24+00:00",
+      "updated": "2026-04-14T17:46:24+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.13012v1",
+      "html_url": "https://arxiv.org/html/2604.13012v1",
+      "entry_url": "http://arxiv.org/abs/2604.13012v1",
+      "relevance": {
+        "relevant": true,
+        "score": 9,
+        "reason": "This paper directly addresses stochastic gravitational-wave backgrounds from early matter-dominated epochs, reheating transitions, and PBH constraints—all core interests in the researcher's early-universe cosmology and primordial black hole research profile.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2604.12613v1",
+      "base_id": "2604.12613",
+      "title": "Next-to-next-to-next-to-leading order QCD corrections to photon-pair production",
+      "authors": [
+        "Michal Czakon",
+        "Felix Eschment",
+        "Terry Generet",
+        "Rene Poncelet"
+      ],
+      "abstract": "The production of two isolated photons in high-energy hadron collisions poses a challenge to perturbative QCD because of large corrections through next-to-next-to-leading order (NNLO). We present novel next-to-next-to-next-to-leading order ($\\text{N}^3$LO) predictions and finally demonstrate perturbative convergence for this process. We discuss the considerable computational challenges and phenomenological results for the Large Hadron Collider.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-04-14T11:41:25+00:00",
+      "updated": "2026-04-14T11:41:25+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.12613v1",
+      "html_url": "https://arxiv.org/html/2604.12613v1",
+      "entry_url": "http://arxiv.org/abs/2604.12613v1",
+      "relevance": {
+        "relevant": true,
+        "score": 8,
+        "reason": "This paper on N³LO QCD corrections to diphoton production is highly relevant to the researcher's interest in multi-loop perturbative QCD calculations, particularly their work on N³LO QCD corrections to top-quark decay width, even though the specific hadron-collider process differs from their primary applications.",
+        "pass_number": 1,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2604.12581v1",
+      "base_id": "2604.12581",
+      "title": "Primordial Black Holes Formation Beyond the Standard Cosmic QCD Transition",
+      "authors": [
+        "Maël Gonin",
+        "Oleksii Ivanytskyi",
+        "David Blaschke",
+        "Günther Hasinger"
+      ],
+      "abstract": "We review the role of primordial black holes (PBHs) for illuminating the dark ages of the cosmological evolution and as dark matter (DM) candidates. We elucidate the role of phase transitions for primordial black hole formation in the early Universe and focus our attention on the cosmological QCD phase transition within a recent microscopical model. We explore the impact of physics beyond the Standard Model (SM) on the cosmic equation of state and the probability distribution for the formation of PBHs which serve as candidates for DM and contribute to present-day binary black-hole merger events.",
+      "categories": [
+        "astro-ph.CO",
+        "hep-ph"
+      ],
+      "published": "2026-04-14T11:04:50+00:00",
+      "updated": "2026-04-14T11:04:50+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.12581v1",
+      "html_url": "https://arxiv.org/html/2604.12581v1",
+      "entry_url": "http://arxiv.org/abs/2604.12581v1",
+      "relevance": {
+        "relevant": true,
+        "score": 8,
+        "reason": "This paper directly addresses the researcher's core interest in primordial black holes, covering PBH formation mechanisms through QCD phase transitions and BSM physics, their role as dark matter candidates, and early-universe cosmology—all central topics in the researcher's profile.",
+        "pass_number": 1,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2604.13181v1",
+      "base_id": "2604.13181",
+      "title": "Searching for axions with quantum interferometry",
+      "authors": [
+        "Tanmay Kumar Poddar",
+        "Michael Spannowsky"
+      ],
+      "abstract": "Quantum phase measurements offer a complementary route to axion searches. We show that axion-photon interactions can imprint both Aharonov-Bohm (AB) and Berry phases in experimentally motivated quantum setups. For a coherently oscillating axion dark matter background, the induced effective current generates a time dependent magnetic flux in an rf-SQUID, leading to a measurable voltage signal through the Josephson phase. For representative benchmarks, this AB phase search reaches the minimum axion-photon coupling $g_{aγγ}^{\\mathrm{min}}\\sim 7.8\\times10^{-14}~\\mathrm{GeV}^{-1}$ at axion mass $m_a\\sim 10^{-10}~\\mathrm{eV}$, with projected sensitivity that can improve on existing limits in that parameter space by roughly one to two orders of magnitude. We also identify a geometric phase observable in a Mach-Zehnder interferometer with an adiabatically rotating magnetic field, providing a proof-of-principle phase-based probe of meV-scale axions even when they do not constitute the dark matter, although sensitivity on the coupling remains weaker than current bounds with conservative tabletop benchmarks. Extending the analysis to a three level photon-axion quasiparticle (AQP)-axion system, with the AQP realized in a topological magnetic insulator, we find a potentially measurable THz Berry phase dominated by the AQP sector, furnishing a nontrivial validation of the formalism in a richer coupled system. These setups establish quantum phase observables as a useful new framework for axion searches, with immediate phenomenological promise in superconducting circuits and longer term potential in quantum enhanced interferometry.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "published": "2026-04-14T18:03:42+00:00",
+      "updated": "2026-04-14T18:03:42+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.13181v1",
+      "html_url": "https://arxiv.org/html/2604.13181v1",
+      "entry_url": "http://arxiv.org/abs/2604.13181v1",
+      "relevance": {
+        "relevant": true,
+        "score": 7,
+        "reason": "The paper proposes novel axion detection strategies using quantum interferometry (Aharonov-Bohm and Berry phases in rf-SQUIDs and Mach-Zehnder interferometers), which directly aligns with the researcher's core interest in axion detection strategies, though the quantum measurement methodology differs from the researcher's typical focus on Primakoff solar axion flux and astrophysical axion production.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2509.25325v3",
+      "base_id": "2509.25325",
+      "title": "Direct Collapse Black Hole Candidates from Decaying Dark Matter",
+      "authors": [
+        "Yash Aggarwal",
+        "James B. Dent",
+        "Philip Tanedo",
+        "Tao Xu"
+      ],
+      "abstract": "Injecting 1-13.6 eV photons into the early universe can suppress the molecular hydrogen abundance and alter the star formation history dramatically enough to produce direct collapse black holes. These, in turn, could explain the recently observed population of puzzling high-redshift supermassive black holes that appear to require super-Eddington accretion. We show that axion dark matter decay in the intergalactic medium can account for this energy injection. We use a single zone model of the gas core and semi-analytically evolve its chemo-thermal properties to track the conditions for which the system becomes an atomic cooling halo-a necessary precursor for the production of heavy black hole seeds to explain the high-redshift black hole population. Windows of axions masses between 24.5-26.5 eV with photon couplings as low as $4\\times 10^{-12}$/GeV may realize this atomic cooling halo condition. We highlight the significance of the band structure of molecular hydrogen on the effectiveness of this process and discuss estimates of the heavy seed population and prospects for testing this model.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "published": "2025-09-29T18:00:03+00:00",
+      "updated": "2026-04-14T18:06:24+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.25325v3",
+      "html_url": "https://arxiv.org/html/2509.25325v3",
+      "entry_url": "http://arxiv.org/abs/2509.25325v3",
+      "relevance": {
+        "relevant": true,
+        "score": 6,
+        "reason": "The paper connects to the user's interests in axion dark matter physics (constraining axion-photon couplings in the 24-27 eV mass range) and early-universe cosmology, but is primarily an astrophysical study of direct collapse black hole formation through H₂ chemistry rather than focusing on the particle physics or detection phenomenology the user prioritizes.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2601.00068v2",
+      "base_id": "2601.00068",
+      "title": "Braking protons at the EIC: from invisible meson decay to new physics searches",
+      "authors": [
+        "Reuven Balkin",
+        "Ta'el Coren",
+        "Alexander Jentsch",
+        "Hongkai Liu",
+        "Maksym Ovchynnikov",
+        "Yotam Soreq",
+        "Sokratis Trifinopoulos"
+      ],
+      "abstract": "We investigate the sensitivity of the Electron-Ion Collider (EIC) to invisible final states in coherent exclusive electroproduction. The characteristic signal is a forward proton with reduced energy and little additional detector activity. Using the excellent particle detection capabilities and kinematics reconstruction at the EIC, we argue that backgrounds can be strongly suppressed. While our analysis applies to various states, we specifically focus on pseudoscalar particles: (i) neutral mesons ($π^0,η^{(\\prime)}$), whose invisible Standard Model decays are extremely suppressed, and (ii) gluon-coupled axion-like particles (ALPs) decaying invisibly to a dark sector. Depending on the meson species and the achievable background rejection, the EIC could strengthen existing bounds on invisible decays of pseudoscalar mesons by up to four orders of magnitude, probing branching ratios as small as ${\\rm BR}(η^{(\\prime)}\\to{\\rm inv})\\sim 10^{-8}$. In addition, the EIC would directly probe invisibly decaying ALPs with the couplings up to $f_a\\sim 10^5\\,\\text{GeV}$ and masses in the range $0.1$-$2\\,\\text{GeV}$.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-12-31T19:00:06+00:00",
+      "updated": "2026-04-14T14:30:19+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.00068v2",
+      "html_url": "https://arxiv.org/html/2601.00068v2",
+      "entry_url": "http://arxiv.org/abs/2601.00068v2",
+      "relevance": {
+        "relevant": true,
+        "score": 5,
+        "reason": "The paper involves axion-like particle (ALP) phenomenology and dark sector searches which partially overlaps with the user's interest in axion physics and detection strategies, but it is primarily an EIC experimental phenomenology paper focused on collider-based invisible decay searches rather than the user's core interests in solar axions, early-universe cosmology, neutrino physics, and multi-loop theoretical calculations.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2604.13156v1",
+      "base_id": "2604.13156",
+      "title": "Z Boson Radiative Decay $Z\\to μ^+ μ^- γ$ at the LHC",
+      "authors": [
+        "Yifan Fei",
+        "Peiran Li",
+        "Zhen Liu",
+        "Maxim Pospelov"
+      ],
+      "abstract": "We study the radiative decay of the $Z$ boson, $Z \\to μ^+μ^-γ$, at the LHC, providing both Standard Model (SM) precision analysis and new physics projections. With detailed analysis of Run-2 and future HL-LHC performances, we demonstrate that this decay mode can be measured with a statistical precision at the sub-percentage level. From existing Run-1 data, we extract $\\text{Br}^\\text{fid}(Z \\to μμγ) = (3.34 \\pm 0.016)\\times 10^{-4}$. We further explore the sensitivity of this channel to axion-like particles (ALPs) and to an anomalous $U(1)_X$ gauge boson coupled to the muon. Both scenarios feature resonant structures in the dimuon invariant mass spectrum within the $Z \\to a/X + γ\\to μ^+μ^-γ$ final state. Our results show that the radiative $Z$ decay provides a clean and statistically powerful probe of such leptophilic new physics, extending the current collider reach for ALPs and anomalous gauge forces down to $g_X \\sim \\mathcal{O}(10^{-3})$. This study highlights the potential of rare electroweak gauge boson decays as precision tests of the SM and sensitive probes of new interactions at the LHC.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2026-04-14T18:00:00+00:00",
+      "updated": "2026-04-14T18:00:00+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.13156v1",
+      "html_url": "https://arxiv.org/html/2604.13156v1",
+      "entry_url": "http://arxiv.org/abs/2604.13156v1",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "The paper touches on ALP physics and electroweak precision measurements which partially overlap with the user's interests, but it is primarily an LHC collider phenomenology study with detector-level simulations and experimental sensitivity projections, rather than the theoretical calculations, early-universe cosmology, or multi-loop perturbative methods that are central to the user's research profile.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2601.00955v2",
+      "base_id": "2601.00955",
+      "title": "Is the Conventional Picture of Coherence Time Complete? Dark Matter Recoherence",
+      "authors": [
+        "Chaitanya Paranjape",
+        "Gilad Perez",
+        "Wolfram Ratzinger",
+        "Somasundaram Sankaranarayanan"
+      ],
+      "abstract": "The local solar gravitational potential forms a basin for ultralight dark matter (ULDM), with discrete energy levels. Even if barely populated, it introduces a new characteristic timescale in DM dynamics. This necessitates a generalization of the notion of coherence time. We find that, at long times, the phenomenon of recoherence emerges, whereby a subcomponent of ULDM exhibits a formally divergent coherence time. The fact that this generalized coherence time can significantly exceed the naive estimate implies an enhanced sensitivity for dark matter searches that accumulate data over extended observation periods.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.SR",
+        "quant-ph"
+      ],
+      "published": "2026-01-02T19:00:06+00:00",
+      "updated": "2026-04-14T14:00:05+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.00955v2",
+      "html_url": "https://arxiv.org/html/2601.00955v2",
+      "entry_url": "http://arxiv.org/abs/2601.00955v2",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "The paper discusses ultralight dark matter detection strategies and coherence properties which partially overlaps with the researcher's interest in axion/dark matter physics and detection strategies, but the specific focus on coherence time generalization and Solar gravitational basin dynamics is tangential to the researcher's core interests in Primakoff solar axion flux calculations and JUNO phenomenology.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2511.16762v2",
+      "base_id": "2511.16762",
+      "title": "Radiative neutrino mass generation and dark matter through vectorlike leptons",
+      "authors": [
+        "Mohamed Amin Loualidi",
+        "Salah Nasri",
+        "Maximiliano A. Rivera"
+      ],
+      "abstract": "This study presents a radiative three-loop model for neutrino mass generation, employing an asymmetric Yukawa coupling between two new scalar $SU(2)_L$ doublets and vectorlike lepton doublets. Dark matter candidates arise from one of the scalar doublets and contribute to neutrino mass generation through the mass splitting between its neutral components. The singly charged scalars are also essential for neutrino mass, with the charged states of the two doublets mixing with one another. A single generation of vectorlike leptons yields two nonzero neutrino masses as a consequence of the asymmetric Yukawa combinations entering the neutrino mass matrix. The model is tested against dark matter phenomenology, neutrino mass and mixing data, and the charged lepton flavor-violating process $μ\\rightarrow e γ$, showing compatibility with current bounds and leading to experimentally accessible predictions.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-11-20T19:24:51+00:00",
+      "updated": "2026-04-14T21:10:59+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.16762v2",
+      "html_url": "https://arxiv.org/html/2511.16762v2",
+      "entry_url": "http://arxiv.org/abs/2511.16762v2",
+      "relevance": {
+        "relevant": true,
+        "score": 3,
+        "reason": "The paper touches on neutrino physics and dark matter which are in the user's interest profile, but the specific topics (radiative three-loop neutrino mass model with vectorlike leptons and inert scalar DM) do not overlap with the user's focused sub-interests (HNLs with dark decays, JUNO phenomenology, BBN/ΔN_eff constraints, PBHs, axions, or multi-loop QCD calculations).",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2604.13167v1",
+      "base_id": "2604.13167",
+      "title": "$N$-Jettiness Soft Functions Made Simple",
+      "authors": [
+        "Luca Buonocore",
+        "Maximilian Delto",
+        "Kirill Melnikov",
+        "Pier Francesco Monni",
+        "Andrey Pikelner",
+        "Gherardo Vita"
+      ],
+      "abstract": "We present a new method to compute the soft function for the $N$-Jettiness variable for arbitrary $N$ at high perturbative orders in QCD. It is based on the observation that the most singular part of the soft function, the dipole contribution, can be represented by a sum of an analytically calculable inclusive soft function and a remainder. The latter is absent at NLO, is immediately finite at NNLO and can be made finite with the help of simple NLO-like infrared subtractions at N$^3$LO. As a byproduct of this approach, we derive a very simple formula for the tripole contribution to the $N$-Jettiness NNLO soft function, which results in a fast numerical evaluation. We apply this method to compute the $N$-Jettiness soft function at NNLO, and report numerical results for up to five jets for the hadron-collider soft function. We finally outline the prospects for applications at N$^3$LO.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-04-14T18:00:03+00:00",
+      "updated": "2026-04-14T18:00:03+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2604.13167v1",
+      "html_url": "https://arxiv.org/html/2604.13167v1",
+      "entry_url": "http://arxiv.org/abs/2604.13167v1",
+      "relevance": {
+        "relevant": true,
+        "score": 3,
+        "reason": "While this paper involves multi-loop perturbative QCD calculations (NNLO/N³LO), it focuses on N-Jettiness soft functions for jet observables at hadron colliders, which is tangentially related to the researcher's multi-loop QCD interests but quite far from their specific topics of top-quark decay, semileptonic decays, electroweak precision calculations, and computational tools for amplitude generation.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2511.20757v2",
+      "base_id": "2511.20757",
+      "title": "Reanalyzing DESI DR1: 2. Constraints on Dark Energy, Spatial Curvature, and Neutrino Masses",
+      "authors": [
+        "Anton Chudaykin",
+        "Mikhail M. Ivanov",
+        "Oliver H. E. Philcox"
+      ],
+      "abstract": "We carry out an independent re-analysis of the Dark Energy Spectroscopic Instrument (DESI) public dataset, focusing on extensions to the standard cosmological model, $Λ$CDM. Utilizing the dataset and Effective Field Theory (EFT)-based pipeline described in Paper 1, we constrain cosmological models with massive neutrinos ($Λ$CDM+$M_ν$), spatial curvature ($oΛ$CDM), dynamical dark energy ($w_0w_a$CDM), and their combinations using the power spectrum and bispectrum of DESI galaxies and quasars. Our work also presents the first measurements of relevant non-minimal cosmological parameters from the combination of cosmic microwave background (CMB) and DESI full-shape (FS) data, which are made possible thanks to carefully chosen priors on EFT parameters. We find that the addition the FS likelihood to DESI's baryon acoustic oscillation (BAO) data improves the limits on the spatial curvature by a factor of two over the BAO only results, though the improvements are less significant with the CMB data. The dark energy equation of state figure-of-merit increases both with and without the supernovae data (SNe), by $\\approx30\\%$ and $\\approx20\\%$ relative to the CMB+BAO and CMB+BAO+SNe results, respectively. Our FS likelihood also yields the strongest CMB-independent constraint on the total neutrino mass $M_ν<0.32\\,{\\rm eV}$, with the $30\\%$ improvement due to the bispectrum. In combination with the CMB, we find a $14\\%$ improvement assuming the $Λ$CDM+$M_ν$ model (yielding $M_ν<0.059\\,{\\rm eV}$), but this increases to $22\\%$ when using non-minimal backgrounds: $M_ν<0.097\\,{\\rm eV}$ in $oΛ$CDM+$M_ν$ and $M_ν<0.13\\,{\\rm eV}$ in $w_0w_a$CDM+$M_ν$. Overall, our work illustrates that robust and substantial gains in constraining power can be obtained by incorporating the FS power spectrum and bispectrum measurements in analyses of non-minimal cosmological models.",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.GA",
+        "gr-qc",
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2025-11-25T19:00:04+00:00",
+      "updated": "2026-04-14T17:58:15+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.20757v2",
+      "html_url": "https://arxiv.org/html/2511.20757v2",
+      "entry_url": "http://arxiv.org/abs/2511.20757v2",
+      "relevance": {
+        "relevant": true,
+        "score": 3,
+        "reason": "While the paper constrains total neutrino masses cosmologically, which is tangentially related to the user's neutrino physics interests, it is primarily an observational cosmology/data analysis paper using DESI large-scale structure data and does not address the user's core interests in HNLs, dark decays, BBN/ΔNeff bounds, JUNO phenomenology, or theoretical particle physics.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    }
+  ]
+}

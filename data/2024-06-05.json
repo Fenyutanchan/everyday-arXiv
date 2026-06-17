@@ -1,0 +1,42 @@
+{
+  "date": "2024-06-05",
+  "papers": [
+    {
+      "arxiv_id": "2406.03568v3",
+      "base_id": "2406.03568",
+      "title": "Tests of General Relativity with GW230529: a neutron star merging with a lower mass-gap compact object",
+      "authors": [
+        "Elise M. Sänger",
+        "Soumen Roy",
+        "Michalis Agathos",
+        "Ofek Birnholtz",
+        "Alessandra Buonanno",
+        "Tim Dietrich",
+        "Maria Haney",
+        "Félix-Louis Julié",
+        "Geraint Pratten",
+        "Jan Steinhoff",
+        "Chris Van Den Broeck",
+        "Sylvia Biscoveanu",
+        "Prasanta Char",
+        "Anna Heffernan",
+        "Prathamesh Joshi",
+        "Atul Kedia",
+        "R. M. S. Schofield",
+        "M. Trevor",
+        "Michael Zevin"
+      ],
+      "abstract": "On May 29, 2023, the LIGO Livingston observatory detected the gravitational-wave signal GW230529_181500 from the merger of a neutron star with a lower mass-gap compact object. Its long inspiral signal provides a unique opportunity to test general relativity (GR) in a parameter space previously unexplored by strong-field tests. In this work, we performed parameterized inspiral tests of GR with GW230529_181500. Specifically, we search for deviations in the frequency-domain GW phase by allowing for agnostic corrections to the post-Newtonian coefficients. We performed tests with the Flexible Theory Independent and Test Infrastructure For General Relativity frameworks using several quasicircular waveform models that capture different physical effects (higher modes, spins, tides). We find that the signal is consistent with GR for all deviation parameters. Assuming the primary object is a black hole, we obtain particularly tight constraints on the dipole radiation at $-1$PN order of $|δ\\hat{\\varphi}_{-2}| \\lesssim 8 \\times 10^{-5}$, which is a factor $\\sim17$ times more stringent than previous bounds from the neutron star--black hole merger GW200115_042309, as well as on the 0.5PN and 1PN deviation parameters. We discuss some challenges that arise when analyzing this signal, namely biases due to correlations with tidal effects and the degeneracy between the 0PN deviation parameter and the chirp mass. To illustrate the importance of GW230529_181500 for tests of GR, we mapped the agnostic $-1$PN results to a class of Einstein-scalar-Gauss-Bonnet (ESGB) theories of gravity. We also conducted an analysis probing the specific phase deviation expected in ESGB theory and obtain an upper bound on the Gauss-Bonnet coupling of $\\ell_{\\rm GB} \\lesssim 0.51~\\rm{M}_\\odot$ ($\\sqrt{α_{\\rm GB}} \\lesssim 0.28$ km), which is better than any previously reported constraint.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE"
+      ],
+      "published": "2024-06-05T18:30:33+00:00",
+      "updated": "2026-05-13T13:40:15+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2406.03568v3",
+      "html_url": "https://arxiv.org/html/2406.03568v3",
+      "entry_url": "http://arxiv.org/abs/2406.03568v3"
+    }
+  ],
+  "total": 1
+}

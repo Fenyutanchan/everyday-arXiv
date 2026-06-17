@@ -1,0 +1,323 @@
+{
+  "date": "2026-06-16",
+  "total": 11,
+  "papers": [
+    {
+      "arxiv_id": "2505.13387v3",
+      "base_id": "2505.13387",
+      "title": "Constraining Reheating Temperature, Inflaton-SM Coupling and Dark Matter Mass in Light of ACT DR6 Observations",
+      "authors": [
+        "Rajesh Mondal",
+        "Sourav Mondal",
+        "Ayan Chakraborty"
+      ],
+      "abstract": "We explore the phenomenological implications of the latest Atacama Cosmology Telescope (ACT) DR6 observations, in combination with Planck 2018, BICEP/Keck 2018, and DESI, on the physics of inflation and post-inflationary reheating. We focus on the $α$-attractor class of inflationary models (both E- and T-models) and consider two reheating scenarios: perturbative inflaton ($φ$) decay ($φ\\rightarrow bb$) and inflaton annihilation ($φφ\\rightarrow bb$) into Standard Model (SM) bosonic particles ($b$). By solving the Boltzmann equations, we derive bounds on key reheating parameters, including the reheating temperature, the inflaton equation of state (EoS), and the inflaton-SM coupling, in light of ACT data. To accurately constrain the coupling, we incorporate the Bose enhancement effect in the decay width. To ensure the validity of our perturbative approach, we also identify the regime where nonperturbative effects, such as parametric resonance, become significant. Additionally, we include indirect constraints from primordial gravitational waves (PGWs), which can impact the effective number of relativistic species, $ΔN_{\\rm eff}$. These constraints further bound the reheating temperature, particularly in scenarios with a stiff EoS. Finally, we analyze dark matter (DM) production through purely gravitational interactions during reheating and determine the allowed mass ranges consistent with the constrained reheating parameter space and recent ACT data.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "hep-th"
+      ],
+      "published": "2025-05-19T17:28:52+00:00",
+      "updated": "2026-06-16T06:26:56+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2505.13387v3",
+      "html_url": "https://arxiv.org/html/2505.13387v3",
+      "entry_url": "http://arxiv.org/abs/2505.13387v3",
+      "relevance": {
+        "relevant": true,
+        "score": 9,
+        "reason": "This paper directly addresses the user's core interests in cosmic reheating dynamics, Bose-enhanced inflaton decay, primordial gravitational waves affecting ΔN_eff, and dark matter production during reheating, with all of these topics being central to the user's research profile.",
+        "pass_number": 1,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2511.19386v2",
+      "base_id": "2511.19386",
+      "title": "Gravitational Wave Probe of Singlet-Doublet Dark Matter Induced Radiative Neutrino Mass",
+      "authors": [
+        "Ujjal Kumar Dey",
+        "Santu Kumar Manna",
+        "Partha Kumar Paul",
+        "Sujit Kumar Sahoo",
+        "Narendra Sahu"
+      ],
+      "abstract": "We investigate an one loop radiative neutrino mass model, where the loop particles, notably a singlet fermion ($χ$), a doublet fermion ($Ψ$) and three generations of singlet scalars ($φ_i, i=\\{1,2,3\\}$) are assumed to be odd under an additional $\\mathcal{Z}_2$-symmetry. In this setup, the singlet fermion mixes with the neutral component of the doublet to give rise singlet-doublet Majorana dark matter. The addition of $\\mathcal{Z}_2$ odd scalars in the model provides rich phenomenological implications. We find that the quartic interaction terms between the SM Higgs and $φ_i$s play a significant role in modifying the scalar potential to have a first-order phase transition (FOPT) leading to observable gravitational waves (GWs) spectra. We also examine the non-trivial role played by the singlet-doublet fermion DM and the scalars in loop-induced neutrino mass, $(g-2)_μ$, and lepton flavor violation. We find that the model is predictive due to the combined constraints and can be verified at different terrestrial experiments.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "hep-ex",
+        "hep-th"
+      ],
+      "published": "2025-11-24T18:24:00+00:00",
+      "updated": "2026-06-16T12:55:24+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.19386v2",
+      "html_url": "https://arxiv.org/html/2511.19386v2",
+      "entry_url": "http://arxiv.org/abs/2511.19386v2",
+      "relevance": {
+        "relevant": true,
+        "score": 8,
+        "reason": "This paper directly connects several of the user's core interests—gravitational waves from first-order phase transitions, radiative neutrino mass models, and dark matter phenomenology—making it highly relevant to their research on early-universe cosmology and neutrino physics.",
+        "pass_number": 1,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2506.14659v2",
+      "base_id": "2506.14659",
+      "title": "Axion-like particle limits from multi-messenger sources",
+      "authors": [
+        "Ariane Dekker",
+        "Gonzalo Herrera",
+        "Dimitrios Kantzas"
+      ],
+      "abstract": "High-energy neutrino observation from the Seyfert galaxy NGC 1068 offers new insights into the non-thermal processes of active galactic nuclei. Simultaneous gamma-rays emitted by such sources can possibly oscillate into axion-like particles (ALPs) when propagating through astrophysical magnetic fields, potentially modifying the observed spectrum. To probe for ALP-induced signals, a robust understanding of the emission processes at the source is necessary. In this work, we perform a dedicated multi-messenger analysis by modeling a jet in the innermost vicinity of the central supermassive black hole of NGC 1068. We model in particular the neutrino and gamma-ray emission originating in lepto-hadronic collisions between jet accelerated particles and background particles from the corona, reproducing both the Fermi-LAT and IceCube data. These source models serve as a baseline for ALP searches, and we derive limits on the ALP-photon coupling by marginalizing over motivated ranges of astrophysical parameters. We find $g_{aγ} \\lesssim 7 \\times 10^{-11}$GeV$^{-1}$ for $m_a \\lesssim 10^{-9}$ eV. These limits may be weaker than existing constraints, but they demonstrate the potential of multi-messenger observations to probe new physics. We conclude by discussing how additional upcoming multi-messenger sources and improved observational precision can enhance ALP sensitivity.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.HE"
+      ],
+      "published": "2025-06-17T15:50:32+00:00",
+      "updated": "2026-06-16T16:02:27+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.14659v2",
+      "html_url": "https://arxiv.org/html/2506.14659v2",
+      "entry_url": "http://arxiv.org/abs/2506.14659v2",
+      "relevance": {
+        "relevant": true,
+        "score": 6,
+        "reason": "This paper derives ALP-photon coupling limits from multi-messenger observations, which directly overlaps with the researcher's interest in axion production in astrophysical environments and axion detection strategies, though it is primarily an astrophysical phenomenology paper rather than a theoretical particle physics or cosmology study.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.18088v1",
+      "base_id": "2606.18088",
+      "title": "Ultra-High-Energy Cosmic Ray Boosted Relic Neutrinos",
+      "authors": [
+        "Jiajie Zhang",
+        "Jiajun Liao"
+      ],
+      "abstract": "Ultra-high-energy cosmic rays (UHECRs) can boost relic neutrinos to high energies through Standard Model (SM) neutral-current interactions, providing an indirect probe of the cosmic neutrino background (C$ν$B). In this work, we perform a systematic study of the diffuse UHECR-boosted C$ν$B flux including elastic neutrino-nucleon scattering (ES), coherent elastic neutrino-nucleus scattering (COH), incoherent neutrino-nucleus scattering (INCOH), baryon-resonance production (RES), and deep inelastic scattering (DIS). For the UHECR flux, we use mixed-composition spectra obtained from the UHECR propagation code PriNCe and from the H3a and H4a implementations of the Hillas model, together with SFR, QSO and GRB source evolution models. We find a clear hierarchy of scattering channels in boosted neutrino energy. The coherent scattering dominates at low-energy neutrino flux for heavy nuclear component, while ES and INCOH become important once individual nucleons are resolved. The RES channel gives a non-negligible contribution in the high-energy region, and DIS appears only at the highest energies and is most visible for the H4a models. Using current IceCube and Pierre Auger Observatory data, we derive upper limits on the C$ν$B overdensity. Our results show that reliable predictions of the UHECR-boosted C$ν$B signal require a combined treatment of the relevant SM scattering channels, UHECR composition, source evolution and the neutrino mass spectrum.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.HE"
+      ],
+      "published": "2026-06-16T15:54:42+00:00",
+      "updated": "2026-06-16T15:54:42+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.18088v1",
+      "html_url": "https://arxiv.org/html/2606.18088v1",
+      "entry_url": "http://arxiv.org/abs/2606.18088v1",
+      "relevance": {
+        "relevant": true,
+        "score": 6,
+        "reason": "The paper is relevant to the researcher's interests in neutrino physics and cosmological probes of the cosmic neutrino background, with connections to high-energy neutrino phenomenology and observational constraints that complement their work on cosmological neutrino bounds and JUNO-related physics, though it is primarily a phenomenological scattering/cross-section study rather than a theoretical particle physics or early-universe cosmology calculation.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2603.20061v2",
+      "base_id": "2603.20061",
+      "title": "Exploring the electromagnetic properties of neutrinos at a short-baseline reactor neutrino experiment",
+      "authors": [
+        "Guo-Fu Cao",
+        "Xin Chen",
+        "Luis A. Delgadillo",
+        "Maxim Gonchar",
+        "Yu-Feng Li",
+        "Vitalii Zavadskyi"
+      ],
+      "abstract": "Upcoming and present reactor neutrino experiments represent an appealing tool to probe fundamental properties in the neutrino sector. In this paper, we study the physics potential to determine the electromagnetic properties of neutrinos via electron--neutrino elastic scattering (E$ν$ES) at a short-baseline neutrino experiment. We evaluate the sensitivity to the weak mixing angle, $\\sin^2θ_W$, employing antineutrinos from a nuclear reactor source. Furthermore, from the sensitivity to $\\sin^2 θ_W$, we obtain bounds on the neutrino charge radius. We also present the projected sensitivity to the effective neutrino magnetic moment, $μ_ν$. Compared with other reactor neutrino measurements, this experimental configuration may set competitive limits on the electromagnetic properties of neutrinos.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2026-03-20T15:43:38+00:00",
+      "updated": "2026-06-16T14:25:58+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2603.20061v2",
+      "html_url": "https://arxiv.org/html/2603.20061v2",
+      "entry_url": "http://arxiv.org/abs/2603.20061v2",
+      "relevance": {
+        "relevant": true,
+        "score": 5,
+        "reason": "This paper studies JUNO/TAO-related phenomenology at IHEP on neutrino electromagnetic properties, which connects to the researcher's JUNO work and neutrino physics interests, but its focus on detector-systematics-heavy sensitivity projections for neutrino charge radius and magnetic moment is outside the researcher's core theoretical and cosmological neutrino topics.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.17963v1",
+      "base_id": "2606.17963",
+      "title": "Sensing the Inflationary Production of Scalars",
+      "authors": [
+        "A. J. Foraci",
+        "C. Litos",
+        "R. P. Woodard"
+      ],
+      "abstract": "We review the mechanism by which loops of matter fields contribute to the graviton self-energy during de Sitter inflation. The self-energy is used to quantum-correct the linearized Einstein equations. A Green's function method is employed to obtain exact 1-loop corrections to the plane wave mode functions of gravitational radiation, subject to the usual ambiguity in the initial state. Conformally coupled matter, which does not experience inflationary particle production, makes only a logarithmic enhancement of the rate at which the imaginary part of the mode function goes to zero after horizon crossing. These corrections can be understood, and even summed up, using a variant of the renormalization group. However, massless, minimally coupled scalars, which experience massive inflationary particle production, induce a much stronger enhancement of the rate at which the real part of the mode function approaches a constant. One interpretation of this effect is as a shift of the inflationary Hubble parameter.",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2026-06-16T14:14:03+00:00",
+      "updated": "2026-06-16T14:14:03+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.17963v1",
+      "html_url": "https://arxiv.org/html/2606.17963v1",
+      "entry_url": "http://arxiv.org/abs/2606.17963v1",
+      "relevance": {
+        "relevant": true,
+        "score": 5,
+        "reason": "The paper studies 1-loop quantum corrections to gravitational wave mode functions during de Sitter inflation and inflationary particle production, which overlaps with the researcher's interest in early-universe cosmology and gravitational-wave backgrounds, but the specific focus on graviton self-energy and curved-spacetime QFT is somewhat tangential to the researcher's core topics of reheating dynamics, PBHs, neutrino physics, and multi-loop QCD.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2506.15407v4",
+      "base_id": "2506.15407",
+      "title": "What new physics can we extract from inflation using the ACT DR6 and DESI DR2 Observations?",
+      "authors": [
+        "Sayantan Choudhury",
+        "Gulnur Bauyrzhan",
+        "Swapnil Kumar Singh",
+        "Koblandy Yerzhanov"
+      ],
+      "abstract": "We present a comprehensive analysis of inflationary models in light of projected sensitivities from forthcoming CMB and gravitational wave experiments, incorporating data from recent ACT DR6, DESI DR2, CMB-S4, LiteBIRD, and SPHEREx. Focusing on precise predictions in the $(n_s, α_s, β_s)$ parameter space, we evaluate a broad class of inflationary scenarios -- including canonical single-field models, non-minimally coupled theories, and string-inspired constructions such as Starobinsky, Higgs, Hilltop, $α$-attractors, and D-brane models. Our results show that next-generation observations will sharply constrain the scale dependence of the scalar power spectrum, elevating $α_s$ and $β_s$ as key discriminants between large-field and small-field dynamics. Strikingly, several widely studied models -- such as quartic Hilltop inflation and specific DBI variants -- are forecast to be excluded at high significance. We further demonstrate that the combined measurement of $β_s$ and the field excursion $Δφ$ offers a novel diagnostic of kinetic structure and UV sensitivity. These findings underscore the power of upcoming precision cosmology to probe the microphysical origin of inflation and decisively test broad classes of theoretical models.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2025-06-18T12:24:43+00:00",
+      "updated": "2026-06-16T16:22:15+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.15407v4",
+      "html_url": "https://arxiv.org/html/2506.15407v4",
+      "entry_url": "http://arxiv.org/abs/2506.15407v4",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "The paper falls within the broad scope of early-universe cosmology and touches on reheating and primordial gravitational waves, but its focus on phenomenological model discrimination using CMB data (ns, r, αs, βs) does not deeply engage with the researcher's specific interests in reheating microphysics, Bose-enhanced decay, or pre-thermalization gravitational wave signatures.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.17994v1",
+      "base_id": "2606.17994",
+      "title": "Constraints on the Sum of Neutrino Masses from ACT DR6 and DESI DR2 Considering Isocurvature Initial Conditions",
+      "authors": [
+        "Hongsheng Hou",
+        "Sai Wang",
+        "Zhi-Chao Zhao",
+        "Xin Zhang"
+      ],
+      "abstract": "We present a robust assessment of cosmological constraints on the sum of neutrino masses ($\\sum m_ν$) when relaxing the standard assumption of purely adiabatic primordial initial conditions. Allowing for a neutrino density isocurvature (NDI) component alongside the adiabatic mode, we analyse the latest CMB-SPA combination (Planck 2018, ACT DR6, and SPT-3G), DESI DR2 baryon acoustic oscillation data, and the DES Year 5 supernova sample. Within the $Λ$CDM model, the 95\\% upper limit weakens only marginally from $\\sum m_ν< 0.052$ eV (purely adiabatic) to $< 0.057$ eV (including NDI), with the NDI amplitude consistent with zero. In the CPL dynamical dark energy model, the adiabatic limit is $< 0.111$ eV, shifting to $< 0.115$ eV with NDI, yet the isocurvature mode remains undetected. While these limits are robust against the inclusion of isocurvature perturbations, they are highly sensitive to both the assumed dark energy equation of state and the prior lower bound on $\\sum m_ν$. Notably, the adiabatic $Λ$CDM limit of $0.052$ eV lies below the minimum sum required by the normal neutrino mass hierarchy ($0.05878$ eV), indicating that this bound is an artifact of the statistical prior extending to zero. Imposing a physically motivated hierarchy-informed prior raises the limit to $< 0.092$ eV. Our results demonstrate that current data show no evidence for NDI modes and that the inferred neutrino mass upper limit is robust against this extension, but a definitive, model-independent bound requires addressing prior dependencies and dark energy uncertainties. This work provides the first joint constraint on $\\sum m_ν$ and NDI using the full CMB-SPA+DESI DR2+DES dataset.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "published": "2026-06-16T14:43:10+00:00",
+      "updated": "2026-06-16T14:43:10+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.17994v1",
+      "html_url": "https://arxiv.org/html/2606.17994v1",
+      "entry_url": "http://arxiv.org/abs/2606.17994v1",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "The paper addresses neutrino mass constraints from cosmological data with some overlap to the user's neutrino physics and early-universe cosmology interests, but it is primarily an observational cosmology data-analysis study rather than theoretical particle physics or the specific phenomenological topics (HNLs, PBHs, reheating dynamics, JUNO phenomenology) central to the user's profile.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.05157v2",
+      "base_id": "2605.05157",
+      "title": "Are PTA measurements sensitive to gravitational wave non-Gaussianities?",
+      "authors": [
+        "Chiara Cecchini",
+        "Jonas El Gammal",
+        "Gabriele Franciolini",
+        "Mauro Pieroni"
+      ],
+      "abstract": "Observing non-Gaussianities in the timing residuals of Pulsar Timing Arrays (PTAs) has recently attracted attention as a potential discriminator between astrophysical and cosmological origins of the observed Gravitational Wave (GW) signal. In this work, we show that even in an idealized signal-dominated setup, after decorrelating the data to avoid spurious detections, statistical tests applied to PTA data cannot distinguish between a Gaussian and a non-Gaussian amplitude distribution of the GWB in a model-agnostic way. In particular, without making strong assumptions on the GW spectrum or the properties of the population, the sensitivity to any distinctive non-Gaussian feature is washed out.",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.HE",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "published": "2026-05-06T17:28:29+00:00",
+      "updated": "2026-06-16T13:21:49+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.05157v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2605.05157v2",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "The paper touches on stochastic gravitational-wave backgrounds which overlaps with the researcher's interest in early-universe cosmology and gravitational waves, but its focus on PTA data analysis methodology is more observational/statistical than theoretical or particle-physics-oriented.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.17617v1",
+      "base_id": "2606.17617",
+      "title": "Synergy between CSST and future gravitational-wave detectors: Probing primordial black holes by cross-correlating dark sirens with galaxies",
+      "authors": [
+        "Ya-Nan Du",
+        "Ji-Yu Song",
+        "Jing-Fei Zhang",
+        "Xin Zhang"
+      ],
+      "abstract": "Gravitational-wave (GW) events and galaxies both trace the cosmic matter distribution, but the mergers of astrophysical black holes and primordial black holes (PBHs) are expected to populate different environments and therefore to cluster with different biases. The GW clustering bias is thus a statistical observable that can separate the two populations. We assess how well this can be done by cross-correlating the photometric galaxy survey of the Chinese Space-station Survey Telescope (CSST) with mock GW catalogs from two future detector networks: the third-generation ET2CE network (the Einstein Telescope and two Cosmic Explorer detectors) and the multi-band BDET2CE network, which adds the space-based baseline Decihertz Interferometer Gravitational-Wave Observatory. We find that CSST combined with 10 years of ET2CE observations can reveal a PBH contribution once its fraction in the total merger rate exceeds about $40\\%$, while the much sharper sky localization of BDET2CE lowers this threshold to about $20\\%$. The improvement comes from recovering the small-scale clustering information that localization errors would otherwise erase. These results show that combining future GW detector networks with CSST galaxy clustering offers a promising and largely independent route to identifying PBHs statistically.",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.GA",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "published": "2026-06-16T07:23:25+00:00",
+      "updated": "2026-06-16T07:23:25+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.17617v1",
+      "html_url": "https://arxiv.org/html/2606.17617v1",
+      "entry_url": "http://arxiv.org/abs/2606.17617v1",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "The paper addresses primordial black hole detection, which overlaps with the researcher's PBH interest, but its methodology (GW-galaxy cross-correlation forecasting for future detectors) is observational cosmology rather than the researcher's core focus on PBH particle-physics phenomenology such as Hawking evaporation, BBN constraints, or high-energy neutrino production.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2606.18248v1",
+      "base_id": "2606.18248",
+      "title": "Pushing the Primordial Frontier: Exact Linear Solutions in Multifield Inflation",
+      "authors": [
+        "Javier Huenupi",
+        "Claudio Muñoz",
+        "Gonzalo A. Palma",
+        "Spyros Sypsas"
+      ],
+      "abstract": "We present exact analytic solutions for the linear dynamics of a two-field inflationary system in which the primordial curvature perturbation $ζ$ is coupled to an isocurvature perturbation $σ$ of entropy mass $μ$. The solutions are valid for arbitrary values of $μ$ and the dimensionless interaction strength $λ$, within a quasi-de Sitter background. They therefore provide analytic control over the strongly coupled regime in which $ζ$ interacts with light isocurvature fields, commonly associated with rapid-turn inflation. As a first application, we derive the amplitude of the primordial power spectrum in closed form, obtaining an expression that interpolates between the weakly coupled, strongly coupled, light-field, and heavy-field regimes. These results open the way to analytic studies of multifield observables beyond the power spectrum, including non-Gaussianity, particle production, and loop corrections.",
+      "categories": [
+        "astro-ph.CO",
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2026-06-16T17:59:12+00:00",
+      "updated": "2026-06-16T17:59:12+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2606.18248v1",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2606.18248v1",
+      "relevance": {
+        "relevant": true,
+        "score": 3,
+        "reason": "While this paper falls under early-universe cosmology, its focus on exact linear perturbation solutions in multifield inflation is tangential to the user's specific interests in reheating dynamics, pre-thermalization gravitational waves, and PBH phenomenology, with only modest overlap via the mentioned future applications to particle production and loop corrections.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    }
+  ]
+}

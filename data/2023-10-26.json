@@ -1,0 +1,25 @@
+{
+  "date": "2023-10-26",
+  "papers": [
+    {
+      "arxiv_id": "2310.17578v4",
+      "base_id": "2310.17578",
+      "title": "Gravitational lensing for interstellar power transmission",
+      "authors": [
+        "Slava G. Turyshev"
+      ],
+      "abstract": "We investigate the propagation of monochromatic electromagnetic waves through multiple, well-separated, monopole gravitational lenses in the thin-lens/eikonal approximation. For the axially aligned transmitter--lens(es)--receiver geometry, the relevant diffraction integrals can be evaluated analytically, yielding closed-form expressions for the point-spread function (PSF) and for the aperture-averaged gain. A single gravitational lens can enhance transmission when it is used either at the transmitting end or at the receiving end. For a two-lens link, the second lens focuses the signal into a much smaller diffraction pattern; however, for optical wavelengths and metre-scale receiving apertures this fine structure is aperture-averaged, and the averaged additional gain becomes independent of the second lens mass. We estimate photon rates and shot-noise-limited SNRs for these idealized configurations. The results indicate that gravitational lensing can in principle support high-SNR interstellar optical power links, subject to stringent alignment, finite-aperture, transmitter-beam, and coronal-background assumptions.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.GA",
+        "astro-ph.IM"
+      ],
+      "published": "2023-10-26T17:03:12+00:00",
+      "updated": "2026-06-13T02:03:52+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2310.17578v4",
+      "html_url": "https://arxiv.org/html/2310.17578v4",
+      "entry_url": "http://arxiv.org/abs/2310.17578v4"
+    }
+  ],
+  "total": 1
+}

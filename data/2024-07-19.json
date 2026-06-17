@@ -1,0 +1,26 @@
+{
+  "date": "2024-07-19",
+  "papers": [
+    {
+      "arxiv_id": "2409.09033v3",
+      "base_id": "2409.09033",
+      "title": "Independent Chiral Control in Theory-Space Models:A Rank-Preserving Framework and Its Application to Neutrino Mass Generation",
+      "authors": [
+        "Aadarsh Singh"
+      ],
+      "abstract": "We develop a general framework of rank-preserving, element-wise matrix transformations for engineering fermion mass hierarchies in theory-space constructions. We prove that preservation of massless modes requires the transformation function to be separable, $g_f(i,j)=g^{(L)}_f(i)g^{(R)}_f(j)$, which in turn enables independent control of left- and right-chiral zero-mode profiles directly at the level of the theory-space mass matrix. This formalism unifies and extends the clockwork mechanism, permits controlled deformation of Kaluza--Klein spectra, and enhances hierarchy generation in GIM-like fine-cancellation scenarios. As a concrete application, we show that in theory-space models for neutrino masses, suitable transformations allow sub-eV light neutrinos to arise from TeV-scale new physics with only $\\mathcal{O}(40)$ additional fermionic sites, while remaining consistent with charged-lepton flavor-violation bounds. In contrast, the corresponding untransformed models asymptote at the MeV scale and cannot access the phenomenologically required regime without extreme field multiplicities or hierarchical parameters.",
+      "categories": [
+        "math.RA",
+        "hep-ph",
+        "hep-th",
+        "quant-ph"
+      ],
+      "published": "2024-07-19T16:05:35+00:00",
+      "updated": "2026-06-16T05:35:51+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2409.09033v3",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2409.09033v3"
+    }
+  ],
+  "total": 1
+}

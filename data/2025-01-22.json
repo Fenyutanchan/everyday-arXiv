@@ -1,0 +1,37 @@
+{
+  "date": "2025-01-22",
+  "papers": [
+    {
+      "arxiv_id": "2501.13046v2",
+      "base_id": "2501.13046",
+      "title": "GRTresna: An open-source code to solve the initial data constraints in numerical relativity",
+      "authors": [
+        "Josu C. Aurrekoetxea",
+        "Sam E. Brady",
+        "Llibert Aresté-Saló",
+        "Jamie Bamber",
+        "Liina Chung-Jukko",
+        "Katy Clough",
+        "Eloy de Jong",
+        "Matthew Elley",
+        "Pau Figueras",
+        "Thomas Helfer",
+        "Eugene A. Lim",
+        "Miren Radia",
+        "Areef Waeming",
+        "Zipeng Wang"
+      ],
+      "abstract": "GRTresna is a multigrid solver designed to solve the constraint equations for the initial data required in numerical relativity simulations. In particular, it is focussed on scenarios with fundamental fields around black holes and inhomogeneous cosmological spacetimes. The code is based on the formalism in Aurrekoetxea, Clough \\& Lim arXiv:2207.03125 and can be found at https://github.com/GRTLCollaboration/GRTresna",
+      "categories": [
+        "gr-qc",
+        "astro-ph.IM"
+      ],
+      "published": "2025-01-22T17:53:48+00:00",
+      "updated": "2026-05-26T20:15:21+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2501.13046v2",
+      "html_url": "https://arxiv.org/html/2501.13046v2",
+      "entry_url": "http://arxiv.org/abs/2501.13046v2"
+    }
+  ],
+  "total": 1
+}

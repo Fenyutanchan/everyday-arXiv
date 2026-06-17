@@ -1,0 +1,124 @@
+{
+  "date": "2025-08-26",
+  "papers": [
+    {
+      "arxiv_id": "2508.18948v2",
+      "base_id": "2508.18948",
+      "title": "Gauge-covariant stochastic neural fields: Stability and finite-width effects",
+      "authors": [
+        "Rodrigo Carmo Terin"
+      ],
+      "abstract": "We develop a gauge-covariant stochastic effective field theory for stability and finite-width effects in deep neural systems. The model uses classical commuting fields: a complex matter field, a real Abelian connection field, and a fictitious stochastic depth variable. Using the Martin--Siggia--Rose--Janssen--de~Dominicis formalism, we derive its functional representation and a two-replica linear-response construction defining the maximal Lyapunov exponent and the amplification factor for the edge of chaos. Finite-width effects appear as perturbative corrections to dressed kernels, and the marginality condition remains unchanged at the order considered for fixed kernel geometry. Numerically, finite-width multilayer perceptrons follow the mean-field instability threshold, and a linear stochastic effective sector reproduces the predicted low-frequency spectral deformation.",
+      "categories": [
+        "hep-th",
+        "cond-mat.dis-nn",
+        "cs.LG",
+        "stat.ML"
+      ],
+      "published": "2025-08-26T11:41:11+00:00",
+      "updated": "2026-04-22T09:07:09+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.18948v2",
+      "html_url": "https://arxiv.org/html/2508.18948v2",
+      "entry_url": "http://arxiv.org/abs/2508.18948v2"
+    },
+    {
+      "arxiv_id": "2508.19106v3",
+      "base_id": "2508.19106",
+      "title": "Tracing Signatures of Modified Gravity in Redshift-Space Galaxy Bispectrum Multipoles: Prospects for Euclid",
+      "authors": [
+        "Sourav Pal",
+        "Debanjan Sarkar",
+        "Alejandro Aviles"
+      ],
+      "abstract": "We study the galaxy bispectrum multipoles in the Hu-Sawicki $f(R)$ gravity model, where a scalar degree of freedom mediates a fifth force that is screened in high-density environments. The model is specified by $f_{R0}$, the present-day background value of the scalar field, which controls the strength of deviations from General Relativity (GR). Using perturbation theory, we compute the redshift-space galaxy bispectrum with the full scale- and time-dependent second-order kernels, incorporating corrections from the scale-dependent growth rate and nonlinear screening. Expanding the bispectrum in spherical harmonics, we analyze the sensitivity of the multipoles to modified gravity and forecast their detectability in a \\textit{Euclid}-like survey. The monopole ($B_0^0$) and quadrupole ($B_2^0$) show the strongest signatures, with relative deviations of $2\\%$--$8\\%$ at $z=0.7$ and $k_1\\simeq0.3\\,h\\,{\\rm Mpc}^{-1}$ (largest side of the triangle) for $f_{R0}=10^{-5}$. Higher multipoles provide weaker but complementary signals. For \\textit{Euclid}, we forecast signal-to-noise ratios up to $\\sim30$ for the monopole and $\\sim15$ for the quadrupole including the Finger-of-God damping and shot noise effect. These results demonstrate that bispectrum multipoles are a powerful probe of gravity, capable of breaking degeneracies with bias and velocity effects and strengthening constraints on deviations from $Λ$CDM.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "published": "2025-08-26T15:10:00+00:00",
+      "updated": "2026-05-05T13:24:19+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.19106v3",
+      "html_url": "https://arxiv.org/html/2508.19106v3",
+      "entry_url": "http://arxiv.org/abs/2508.19106v3"
+    },
+    {
+      "arxiv_id": "2508.19190v4",
+      "base_id": "2508.19190",
+      "title": "Hits to Higgs: Hit-Level Higgs Classification from Raw LHC Detector Data Using Higgsformer",
+      "authors": [
+        "Sascha Caron",
+        "Polina Moskvitina",
+        "Roberto Ruiz de Austri",
+        "Eugene Shalugin"
+      ],
+      "abstract": "We present Higgsformer, a transformer-based architecture that classifies Higgs events at the Large Hadron Collider directly from raw inner tracker hits, bypassing the traditional reconstruction chain of intermediate physics objects. As a benchmark, we focus on distinguishing $t\\bar{t}H$ from $t\\bar{t}$ events with $H \\to b\\bar{b}$, a particularly challenging task due to their similar final state topologies. Our pipeline begins with event generation in Pythia8, fast simulation with ACTS/Fatras, and classification directly from raw detector hits.   We show for the first time that a transformer model originally developed for inner tracker hit-to-track assignment can be retrained to classify Higgs signal events directly from raw hits. For comparison, we reconstruct the same events with Delphes and train a Particle Transformer as an object-based classifier. We evaluate both approaches under varying dataset sizes and pileup levels. Despite relying exclusively on inner tracker hits, our large Higgsformer achieves an AUC of $0.855$, matching the performance of the traditional reconstruction pipeline at a $b$-tagging efficiency of $\\approx 40\\%$ under the same detector constraints.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-08-26T16:54:19+00:00",
+      "updated": "2026-05-12T16:23:10+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.19190v4",
+      "html_url": "https://arxiv.org/html/2508.19190v4",
+      "entry_url": "http://arxiv.org/abs/2508.19190v4"
+    },
+    {
+      "arxiv_id": "2508.19217v3",
+      "base_id": "2508.19217",
+      "title": "The Magnetic Origin of Primordial Black Holes: A Viable Dark Matter Scenario",
+      "authors": [
+        "Subhasis Maiti",
+        "Debaprasad Maity"
+      ],
+      "abstract": "Primordial Black Holes (PBHs) are compelling candidates for explaining the present-day relic abundance of cold dark matter (CDM), yet their formation typically requires finely tuned early-universe dynamics. In this work, we propose a novel PBH formation mechanism within a well-established magnetogenesis framework. This scenario simultaneously accounts for the large-scale magnetic fields observed today and generates an enhanced curvature power spectrum at intermediate scales, leading to PBH formation with masses that can survive until the present epoch. We identify a narrow reheating temperature range, $10^5\\,\\mathrm{GeV} \\leq T_{re} \\leq 3\\times 10^5\\,\\mathrm{GeV}$, within which the resulting PBHs can constitute the entirety of the observed CDM abundance. Furthermore, our model predicts a stochastic gravitational wave (GW) background as a byproduct of the PBH formation process. Remarkably, the predicted GW signal lies within the sensitivity reach of upcoming space-based interferometers, such as the LISA, DECIGO, or SKA mission, offering a direct observational probe of this PBH generation mechanism.",
+      "categories": [
+        "astro-ph.CO",
+        "hep-ph"
+      ],
+      "published": "2025-08-26T17:30:56+00:00",
+      "updated": "2026-05-25T04:39:06+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.19217v3",
+      "html_url": "https://arxiv.org/html/2508.19217v3",
+      "entry_url": "http://arxiv.org/abs/2508.19217v3"
+    },
+    {
+      "arxiv_id": "2508.20129v2",
+      "base_id": "2508.20129",
+      "title": "Alleviating the $H_0$ tension in Rastall gravity",
+      "authors": [
+        "R. Mohebi",
+        "Kh. Saaidi T. Golanbari",
+        "K. Karami"
+      ],
+      "abstract": "The persistent discrepancy between local determinations of the Hubble constant $H_0$ and the Planck 2018 value ($67.4 \\pm 0.5~{\\rm km\\,s^{-1}\\,Mpc^{-1}}$) within $Λ$CDM remains a central challenge in precision cosmology. We investigate the Hubble tension in $Λ$CDM and its Rastall extension (R-$Λ$CDM) for flat, open, and closed geometries.   We analyze three primary dataset combinations: D$_1$ (late-time probes: SN + $H(z)$ + $fσ_8$), D$_2$ (late-time probes combined with DESI DR2 BAO and BBN), and D$_3$ (late-time probes combined with BAO and Planck 2018 CMB distance priors). Parameters are constrained via Markov Chain Monte Carlo sampling, and tensions with SH0ES ($73.2 \\pm 1.3~{\\rm km\\,s^{-1}\\,Mpc^{-1}}$) and Planck are expressed in units of the combined uncertainty.   In addition, we include a Planck-only configuration (D$_4$) as a reference baseline to isolate early-Universe constraints on $H_0$. Within $Λ$CDM, D$_1$ and D$_2$ yield $H_0 \\simeq 70.75$-$71.43~{\\rm km\\,s^{-1}\\,Mpc^{-1}}$, reducing the SH0ES discrepancy to $1.11σ$--$1.63σ$ while maintaining a $3.62σ$-$4.23σ$ tension with Planck. Including CMB distance priors (D$_3$) shifts the result to $H_0 \\simeq 67.18$--$67.55~{\\rm km\\,s^{-1}\\,Mpc^{-1}}$, consistent with Planck at $0.09σ$-$0.38σ$ but increasing the SH0ES discrepancy to $4.25σ$-$4.51σ$.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-08-26T10:33:07+00:00",
+      "updated": "2026-05-31T13:40:27+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.20129v2",
+      "html_url": "https://arxiv.org/html/2508.20129v2",
+      "entry_url": "http://arxiv.org/abs/2508.20129v2"
+    },
+    {
+      "arxiv_id": "2508.19328v2",
+      "base_id": "2508.19328",
+      "title": "Implications for Pulsar Timing Arrays of Sub-solar Black Hole Detections: From LVK to Einstein Telescope and Cosmic Explorer",
+      "authors": [
+        "Yann Gouttenoire",
+        "Sokratis Trifinopoulos",
+        "Miguel Vanvlasselaer"
+      ],
+      "abstract": "The detection of compact binary mergers with sub-solar masses at gravitational-wave observatories could mark the groundbreaking discovery of primordial black holes (PBHs). Concurrently, evidence for a nHz stochastic gravitational wave background observed by pulsar timing arrays (PTAs) could suggest a non-astrophysical origin, potentially arising from scalar-induced gravitational waves (SIGW). In this work, we analyze the connection between the two phenomena in the case where they share a common origin: the collapse of large primordial curvature perturbations in the early universe. We focus on sub-solar PBH populations within reach of upcoming experiments, including the current and future runs of LIGO-Virgo-KAGRA as well as the third generation observatories such as the Einstein Telescope and Cosmic Explorer. Using a Bayesian framework with physically motivated priors, we perform a consistent model comparison that incorporates existing astrophysical bounds together with the discovery potential of future detectors. Our analysis lends stronger support for the SIGW interpretation over the astrophysical one, as the narrowed priors place greater weight on the region of highest likelihood. Ultimately, we illustrate that combining PTA data with interferometer searches can deliver correlated evidence for new physics across multiple gravitational-wave bands.",
+      "categories": [
+        "astro-ph.CO",
+        "hep-ph"
+      ],
+      "published": "2025-08-26T18:00:00+00:00",
+      "updated": "2026-06-02T10:21:11+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.19328v2",
+      "html_url": "https://arxiv.org/html/2508.19328v2",
+      "entry_url": "http://arxiv.org/abs/2508.19328v2"
+    }
+  ],
+  "total": 6
+}

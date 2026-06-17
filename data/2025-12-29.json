@@ -1,0 +1,353 @@
+{
+  "date": "2025-12-29",
+  "papers": [
+    {
+      "arxiv_id": "2512.23699v3",
+      "base_id": "2512.23699",
+      "title": "Twisted de Rham theory for string double copy in AdS",
+      "authors": [
+        "Hiren Kakkad",
+        "Alexander Ochirov",
+        "Shijie Zhang"
+      ],
+      "abstract": "This work is motivated by the recent evidence for a double-copy relationship between open- and closed-string amplitudes in Anti-de Sitter (AdS) space. At present, the evidence has the form of a double-copy relation for string-amplitude building blocks, which are combined using the multiple-polylogarithm (MPL) generating functions. These generate MPLs relevant for all-order AdS curvature corrections of four-point string amplitudes. In this paper, we prove this building-block double copy using a new, noncommutative version of twisted de Rham theory. In flat space, the usual twisted de Rham theory is already known to be a natural framework to describe the Kawai-Lewellen-Tye (KLT) double-copy map from open- to closed-string amplitudes, in which the KLT kernel can be computed from the intersections of the open-string amplitude integration contours. We formulate twisted de Rham theory for noncommutative-ring-valued differential forms on complex manifolds and use it to derive the intersection number of two open-string contours, which are closed in the noncommutative twisted homology sense. The inverse of this intersection number is precisely the AdS double-copy kernel for the four-point open- and closed-string generating functions.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2025-12-29T18:56:44+00:00",
+      "updated": "2026-04-16T03:15:57+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.23699v3",
+      "html_url": "https://arxiv.org/html/2512.23699v3",
+      "entry_url": "http://arxiv.org/abs/2512.23699v3"
+    },
+    {
+      "arxiv_id": "2512.23226v3",
+      "base_id": "2512.23226",
+      "title": "Constraints on SMEFT operators from $Z \\to μμbb$ decay",
+      "authors": [
+        "Zijian Wang",
+        "Tianyi Yang",
+        "Tianyu Mu",
+        "Andrew Levin",
+        "Qiang Li"
+      ],
+      "abstract": "The Standard Model Effective Field Theory (SMEFT) provides a systematic framework to probe indirect effects of heavy new physics via precision measurements. While SMEFT constraints have been extensively studied using purely leptonic $Z$ decays and inclusive $Z$ production, mixed leptonic-hadronic modes remain largely unexplored. In this work, we analyze $Z \\to μμbb$ decays within the SMEFT framework, deriving constraints on dimension-six operators that affect four-fermion interactions between leptons and bottom quarks, as well as $Z$-fermion couplings. Signal and background events are simulated with state-of-the-art Monte Carlo tools, including detector effects such as $b$-tagging, and limits on the relevant Wilson coefficients are extracted using kinematic distributions and a profile likelihood approach. Our results provide complementary constraints to existing SMEFT studies and yield the first process-specific limits on flavor-resolved four-fermion operators involving muons and bottom quarks from $Z$ decays.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-12-29T06:05:54+00:00",
+      "updated": "2026-05-12T05:37:09+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.23226v3",
+      "html_url": "https://arxiv.org/html/2512.23226v3",
+      "entry_url": "http://arxiv.org/abs/2512.23226v3"
+    },
+    {
+      "arxiv_id": "2512.23159v2",
+      "base_id": "2512.23159",
+      "title": "Muonphilic asymmetric dark matter at a future muon collider",
+      "authors": [
+        "Arnab Roy",
+        "Raymond R. Volkas"
+      ],
+      "abstract": "We explore phenomenological constraints on, and future muon collider sensitivities to, the parameter spaces of various muonphilic portals to fermionic asymmetric dark matter (ADM). Both WEFT-level dimension-6 effective operators and two UV models based on gauged $L_μ- L_τ$ are considered. One of the latter features a vector coupling to the dark matter and the other an axial vector coupling. The ADM criterion that at least $99\\%$ of the dark matter relic density is asymmetric is also imposed. We identify which of these scenarios are currently allowed by direct detection and collider constraints, and then determine how much more of the parameter space could be probed by 3 and 10 TeV muon colliders with 1 ab$^{-1}$ of data. For the UV models, the constraints from $g-2$ of the muon are included. The future sensitivity curves due to neutron star heating considerations are also depicted. We present results for both the few-GeV dark matter mass regime motivated by ADM approaches to the $Ω_b \\simeq Ω_\\text{DM}/5$ coincidence problem, and for larger masses in the context of more general ADM.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2025-12-29T02:46:21+00:00",
+      "updated": "2026-04-30T14:57:10+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.23159v2",
+      "html_url": "https://arxiv.org/html/2512.23159v2",
+      "entry_url": "http://arxiv.org/abs/2512.23159v2"
+    },
+    {
+      "arxiv_id": "2512.23796v2",
+      "base_id": "2512.23796",
+      "title": "Strongly Coupled Sectors in Inflation: Gapped Theories of Unparticles",
+      "authors": [
+        "Yikun Jiang",
+        "Guilherme L. Pimentel",
+        "Chen Yang"
+      ],
+      "abstract": "We consider a novel scenario for a strongly coupled spectator sector during inflation, that of a higher dimensional conformal field theory with large anomalous dimensions -- ``unparticles'' -- and compactify the extra dimensions. More specifically, we take generalized free fields in five dimensions, where the extra dimension is compactified to a circle. Due to the usual Kaluza-Klein mechanism, the resulting excitations carry properties of both particles and unparticles, so we dub this scenario ``gapped unparticles''. We derive a two-point function of the gapped unparticles by performing dimensional reduction. We then compute, in the collapsed limit, the four-point correlation function of conformally coupled scalars exchanging a gapped unparticle, which are used as seed functions to obtain the correlation function of primordial density perturbations. The phenomenology of the resulting correlators presents some novel features, such as oscillations with an envelope controlled by the anomalous dimension, rather than the usual value of 3/2. Depending on the value of the five-dimensional scaling dimension and effective mass of the gapped unparticles, we find a clear strategy to distinguish gapped unparticles from heavy massive scalars. If we assume the interactions are localized on a brane, gapped unparticles with different effective masses will share a universal coupling, and their exchanges produce an interesting interference pattern.",
+      "categories": [
+        "hep-th",
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "published": "2025-12-29T19:00:01+00:00",
+      "updated": "2026-05-05T11:58:15+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.23796v2",
+      "html_url": "https://arxiv.org/html/2512.23796v2",
+      "entry_url": "http://arxiv.org/abs/2512.23796v2"
+    },
+    {
+      "arxiv_id": "2512.23838v3",
+      "base_id": "2512.23838",
+      "title": "Thermodynamic stability in an Einstein universe",
+      "authors": [
+        "E. S. Moreira",
+        "J. P. A. Paula"
+      ],
+      "abstract": "We calculate the Feynman propagator at finite temperature in an Einstein universe for a neutral massive scalar field arbitrarily coupled to the Ricci curvature. Then, the propagator is used to determine the mean square fluctuation, the internal energy, and pressure of a scalar blackbody radiation as functions of the curvature coupling parameter $ξ$. By studying thermodynamics of massless scalar fields, we show that the only value of $ξ$ consistent with stable thermodynamic equilibrium at all temperatures and for all radii of the universe is $1/6$, i.e., corresponding to the conformal coupling. Moreover, if electromagnetic and neutrino radiations are present at the regime of high temperatures and/or large radii, we show that at least one scalar field must also be present to ensure thermodynamic stability.",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2025-12-29T20:03:59+00:00",
+      "updated": "2026-05-05T21:54:43+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.23838v3",
+      "html_url": "https://arxiv.org/html/2512.23838v3",
+      "entry_url": "http://arxiv.org/abs/2512.23838v3"
+    },
+    {
+      "arxiv_id": "2512.23556v2",
+      "base_id": "2512.23556",
+      "title": "The new generation lunar gravitational wave detectors: sky map resolution and joint analysis",
+      "authors": [
+        "Xiaolin Zhang",
+        "Chengye Yu",
+        "Haoran Li",
+        "Sobhan Kazempour",
+        "Mingqiu Li",
+        "Sichun Sun"
+      ],
+      "abstract": "Lunar-based gravitational-wave interferometry is a fascinating endeavor, and was proposed as a promising approach to bridge the observational gap between space-borne and ground-based detectors. In this work, we adopt the Fisher-matrix method to examine the angular-resolution performance of the newly proposed Crater Interferometry Gravitational-wave Observatory (CIGO) on the lunar crater rim near the north pole, together with TianQin and LISA, for monochromatic sources in the 0.1-10 Hz band. We find that above 0.1 Hz, CIGO achieves better localization accuracy than the other two space-based missions and dominates the combined detector network's performance, provided that lunar noise mitigation is achieved in the 0.1-2.87 Hz frequency range. We further explore an upgraded Tetrahedron configuration, TCIGO, with a fourth station at the bottom of a crater, which forms a regular tetrahedral constellation on the lunar surface. The result shows that TCIGO yields a five-fold improvement in angular-resolution capability over CIGO and gets better sky coverage across the target frequency band.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.IM",
+        "hep-ph",
+        "physics.ins-det"
+      ],
+      "published": "2025-12-29T15:52:13+00:00",
+      "updated": "2026-05-09T12:38:18+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.23556v2",
+      "html_url": "https://arxiv.org/html/2512.23556v2",
+      "entry_url": "http://arxiv.org/abs/2512.23556v2"
+    },
+    {
+      "arxiv_id": "2512.23603v3",
+      "base_id": "2512.23603",
+      "title": "Two roads to fortuity in ABJM theory",
+      "authors": [
+        "Connor Behan",
+        "Leonardo Pipolo de Gioia"
+      ],
+      "abstract": "A recently proposed addition to the holographic dictionary connects extremal black holes to fortuitous operators -- those which are only supersymmetric for sufficiently small values of the central charge. The most efficient techniques for finding them come from studying the cohomology of a nilpotent supercharge. We explore two aspects of this problem in weakly-coupled ABJM theory, where the gauge group is $\\mathrm{U}(N) \\times \\mathrm{U}(N)$ and the Chern-Simons level is taken to be large. Adapting an algorithm which has been used to great effect in $\\mathcal{N} = 4$ Super Yang-Mills, we enumerate 244 low-lying fortuitous operators and sort them into multiplets of the centralizer algebra. This leads to the construction of two leading fortuitous representatives for $N = 3$ which are subleading for $N = 2$. In the second part of this work, we identify a truncation of ABJM theory where the action of the one-loop supercharge matches the one in the BMN subsector of $\\mathcal{N} = 4$ Super Yang-Mills. This allows a known infinite tower of representatives to be lifted from one theory to the other.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2025-12-29T16:58:03+00:00",
+      "updated": "2026-05-16T16:29:30+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.23603v3",
+      "html_url": "https://arxiv.org/html/2512.23603v3",
+      "entry_url": "http://arxiv.org/abs/2512.23603v3"
+    },
+    {
+      "arxiv_id": "2512.23656v2",
+      "base_id": "2512.23656",
+      "title": "Ordering-Independent Wheeler-DeWitt Equation for Flat Minisuperspace Models",
+      "authors": [
+        "Victor Franken",
+        "Eftychios Kaimakkamis",
+        "Hervé Partouche",
+        "Nicolaos Toumbas"
+      ],
+      "abstract": "We consider minisuperspace models with two-derivative kinetic terms, assuming a flat target space and a closed Universe. We show that, upon canonical quantization of the Hamiltonian, only a restricted class of operator orderings is compatible with the path-integral formulation. Remarkably, these orderings are physically equivalent to all orders in $\\hbar$. More precisely, each choice of path-integral measure in the definition of the wavefunction path integral uniquely determines an operator ordering, and hence a corresponding Wheeler-DeWitt equation. These orderings are in one-to-one correspondence with the Jacobians arising from field redefinitions of a set of canonical fields. For each operator ordering consistent with a path-integral measure, we identify a positive definite Hilbert-space inner product. All such prescriptions define the same quantum theory, in the sense that they yield identical physical observables. We illustrate our formalism by applying it to de Sitter Jackiw-Teitelboim gravity and to the Starobinsky model.",
+      "categories": [
+        "hep-th",
+        "gr-qc",
+        "quant-ph"
+      ],
+      "published": "2025-12-29T18:08:29+00:00",
+      "updated": "2026-05-16T10:21:18+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.23656v2",
+      "html_url": "https://arxiv.org/html/2512.23656v2",
+      "entry_url": "http://arxiv.org/abs/2512.23656v2"
+    },
+    {
+      "arxiv_id": "2512.23795v3",
+      "base_id": "2512.23795",
+      "title": "Correlators are simpler than wavefunctions",
+      "authors": [
+        "Nima Arkani-Hamed",
+        "Ross Glew",
+        "Francisco Vazão"
+      ],
+      "abstract": "Several recent works have revealed a simplicity in equal-time correlators that is absent in their wavefunction counterparts. In this letter, we show that this arises from the simple fact that the correlator is obtained by integrating Feynman propagators over the full spacetime, as opposed to the half-space for the wavefunction. Several striking new properties of correlators for any graph are made obvious from this picture. Certain patterns of poles that appear in the wavefunction do not appear in the correlator. The correlator also enjoys several remarkable factorization properties in various limits. Most strikingly, the correlator admits a systematic Laurent expansion in the neighborhood of every pole, with the first subleading term vanishing for every pole. There is an especially simple understanding of the expansion around the total energy pole up to second order, given by a differential operator acting on the amplitude. Finally, we show how these results extend beyond single graphs to the full correlator in Tr $φ^3$ theory.",
+      "categories": [
+        "hep-th",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "published": "2025-12-29T19:00:01+00:00",
+      "updated": "2026-05-19T15:20:56+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.23795v3",
+      "html_url": "https://arxiv.org/html/2512.23795v3",
+      "entry_url": "http://arxiv.org/abs/2512.23795v3"
+    },
+    {
+      "arxiv_id": "2512.23481v2",
+      "base_id": "2512.23481",
+      "title": "Central Charges and Vacuum Moduli of 2d $\\mathcal{N}=(0,4)$ Theories from Class $\\mathcal{S}$",
+      "authors": [
+        "Wei Cui",
+        "Junkang Huang",
+        "Zi-Xiao Huang",
+        "Satoshi Nawata",
+        "Shutong Zhuang"
+      ],
+      "abstract": "We investigate 2d $\\mathcal{N}=(0,4)$ supersymmetric theories obtained from a topologically-twisted reduction of 4d $\\mathcal{N}=2$ class $\\mathcal{S}$ theories on a Riemann surface. This study addresses subtle aspects of central charges, unbroken gauge groups, and emergent superconformal R-symmetries of these theories. Focusing on infrared vacuum structures, we propose conjectural formulas for the central charges. For theories with the gauge group $SU(2)$, we use a Lagrangian description to analyze the vacuum moduli spaces. In particular, we examine two distinct branches -- the special Higgs branch and the twisted Higgs branch -- by computing their Hilbert series, and find agreement with the proposed central charge formulas.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2025-12-29T14:07:30+00:00",
+      "updated": "2026-05-22T06:42:06+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.23481v2",
+      "html_url": "https://arxiv.org/html/2512.23481v2",
+      "entry_url": "http://arxiv.org/abs/2512.23481v2"
+    },
+    {
+      "arxiv_id": "2512.23462v2",
+      "base_id": "2512.23462",
+      "title": "Pion scattering in finite volume within the Inverse Amplitude Method",
+      "authors": [
+        "A. Gómez Nicola",
+        "R. Molina",
+        "Julián A. Sánchez"
+      ],
+      "abstract": "We study the effect of a finite volume for pion-pion scattering within Chiral Perturbation Theory (ChPT) and the Inverse Amplitude Method (IAM) in a $L^3$ box (rest frame). Our full ChPT calculation takes into account the discretization not only in the $s$-channel loops but also in the $t,u$- channels and tadpole contributions. Hence, not only the unitarity right-hand cut but also the left-hand one continuum contributions are calculated in the finite volume. A proper extension of the standard Veltman-Pasarino identities is needed, as well as a suitable projection on the internal space spanned by the irreducible representations (irreps) of the octahedral group, based on either a finite set of cubic harmonics or the matrices which represent the irreps properly. From the ChPT we construct the IAM in the internal space, which provides the full volume dependence of the interacting energy levels of two-pions scattering in the finite volume. Our results for various low-energy constants sets show sizable corrections with respect to previous analyses in the literature for $ m_πL \\lesssim 2$, being compatible with energy levels lattice data. We expect that our analysis and results will help to optimize the process of determination of energy levels and phase-shifts with higher accuracy.",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "published": "2025-12-29T13:42:19+00:00",
+      "updated": "2026-06-01T09:37:08+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.23462v2",
+      "html_url": "https://arxiv.org/html/2512.23462v2",
+      "entry_url": "http://arxiv.org/abs/2512.23462v2"
+    },
+    {
+      "arxiv_id": "2512.23456v2",
+      "base_id": "2512.23456",
+      "title": "Poles from the conserved kinetic equation: The emerging gradient structure and causality riddle of relativistic hydrodynamics",
+      "authors": [
+        "Sukanya Mitra"
+      ],
+      "abstract": "In this work, the poles and the resulting dispersion spectra from the relativistic kinetic equation have been analyzed with the help of a proposed collision kernel that conserves both the energy-momentum tensor and particle current by construction. The dispersion relations, which originally come out in the form of logarithmic divergences, in the long wavelength limit exhibit the systematic gradient structure of the relativistic hydrodynamics. The key result is that, in the derivative expansion series, the spatial gradients appear in perfect unison with the temporal gradients in the non-local relaxation operator like forms. It is then shown that this dispersion structure, including non-local temporal derivatives, is essential for the preservation of causality of the theory truncated at any desired order.",
+      "categories": [
+        "nucl-th",
+        "gr-qc",
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2025-12-29T13:28:42+00:00",
+      "updated": "2026-05-30T03:47:36+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.23456v2",
+      "html_url": "https://arxiv.org/html/2512.23456v2",
+      "entry_url": "http://arxiv.org/abs/2512.23456v2"
+    },
+    {
+      "arxiv_id": "2512.23771v4",
+      "base_id": "2512.23771",
+      "title": "Euler-Korteweg vortices: A fluid-mechanical analogue to the Schrödinger and Klein-Gordon equations",
+      "authors": [
+        "D. M. F. Bischoff van Heemskerck"
+      ],
+      "abstract": "Quantum theory and relativity exhibit several formal analogies with fluid mechanics. This paper extends upon known analogies by showing that under specific assumptions, an Euler-Korteweg vortex model can be cast into equations that are mathematically equivalent to the Schrödinger and Klein-Gordon equations. By assuming that the angular momentum of an irrotational vortex in an inviscid, barotropic, isothermal fluid with sound speed c is equal in magnitude to the reduced Planck constant, and incorporating Korteweg capillary stress, a complex wave equation describing the momentum and continuity equations of an Euler-Korteweg vortex is obtained. When uniform convection is introduced, the weak field approximation of this wave equation is formally equivalent to Schrödinger's equation. The model is shown to yield analogues to de Broglie wavelength, the Einstein-Planck relation, the Born rule and the uncertainty principle. Accounting for the retarded propagation of the wave field of a vortex in convection requires the Lorentz transformation and yields a wave equation mathematically equivalent to the Klein-Gordon equation, with Schrödinger's equation appearing as the low-Mach-number limit.",
+      "categories": [
+        "quant-ph",
+        "gr-qc",
+        "physics.flu-dyn"
+      ],
+      "published": "2025-12-29T07:38:30+00:00",
+      "updated": "2026-06-04T20:13:50+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.23771v4",
+      "html_url": "https://arxiv.org/html/2512.23771v4",
+      "entry_url": "http://arxiv.org/abs/2512.23771v4"
+    },
+    {
+      "arxiv_id": "2512.23401v2",
+      "base_id": "2512.23401",
+      "title": "Universal Nonminimal Coupling-to-Starobinsky Matching and a Single-Field Attractor",
+      "authors": [
+        "A. Savaş Arapoğlu",
+        "Sermet Çağan",
+        "Omer Guleryuz",
+        "Cemal Berfu Senisik"
+      ],
+      "abstract": "We establish an off-shell commutativity theorem in 4D parity-even quadratic gravity that the Hubbard-Stratonovich/Legendre lifts, algebraic elimination of auxiliaries, including the torsionless Palatini connection, and Jordan-Einstein Weyl rescalings commute at the action level up to boundary terms. This yields a frame-independent characterization of the propagating degrees of freedom and isolates a universal scalaron EFT in the metric branch, while clarifying the algebraic nature of the Palatini $f(R)$ scalar. We obtain, as a result, a frame-universal matching from the generic nonminimal couplings to a positive $R^2$ sector and a quantitative single-field attractor bound, enhanced by a $1/ΔN$ selection term, providing sharp and falsifiable CMB targets.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2025-12-29T11:44:14+00:00",
+      "updated": "2026-06-08T15:38:29+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.23401v2",
+      "html_url": "https://arxiv.org/html/2512.23401v2",
+      "entry_url": "http://arxiv.org/abs/2512.23401v2"
+    },
+    {
+      "arxiv_id": "2512.23629v3",
+      "base_id": "2512.23629",
+      "title": "Approaching a dynamical extreme black hole horizon",
+      "authors": [
+        "Achilleas P. Porfyriadis",
+        "Christopher Rosen",
+        "Georgios Tsaraktsidis"
+      ],
+      "abstract": "We give an explicit closed form description of the late-time near-horizon approach to dynamical extreme Reissner-Nordstrom (DERN) black holes. These are spherically symmetric dynamical solutions of Einstein-Maxwell theory coupled to a neutral scalar that feature: (i) a spacetime metric which tends to that of a static extreme Reissner-Nordstrom (RN), and (ii) a scalar field which exhibits the linear Aretakis instability ad infinitum in the non-linear theory. We employ the two-dimensional Jackiw-Teitelboim (JT) gravity to solve explicitly for the non-linear s-wave dynamics of the four-dimensional theory near an ${\\rm AdS}_2\\times {\\rm S}^2$ throat. For a teleologically defined black hole horizon, we impose boundary conditions on JT's dilaton field (which encodes the gravitational dynamics) and the scalar matter as follows: (i) the JT dilaton decays at late times on the ${\\rm AdS}_2$ boundary to a value that corresponds to a static extreme RN in the exterior, and (ii) the scalar obeys boundary conditions characteristic of linear Aretakis behavior on ${\\rm AdS}_2$. We ensure our DERN solutions are singularity-free and we note that our approach to DERN is accompanied by a final burst of outgoing scalar matter flux leaking out of the ${\\rm AdS}_2$ throat. The boundary conditions we impose on the JT dilaton place its late-time boundary profile on the threshold of black hole formation with sub-extreme and super-extreme RN on either side of our DERNs.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2025-12-29T17:39:27+00:00",
+      "updated": "2026-06-08T12:35:48+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.23629v3",
+      "html_url": "https://arxiv.org/html/2512.23629v3",
+      "entry_url": "http://arxiv.org/abs/2512.23629v3"
+    },
+    {
+      "arxiv_id": "2512.23432v3",
+      "base_id": "2512.23432",
+      "title": "Black Hole States in Quantum Spin Chains",
+      "authors": [
+        "Charlotte Kristjansen",
+        "Konstantin Zarembo"
+      ],
+      "abstract": "We define a black hole state in a spin chain by studying thermal correlators in holography. Focusing on the Heisenberg model we investigate the thermal and complexity properties of the black hole state by evaluating its entanglement entropy, emptiness formation probability and Krylov complexity. The entanglement entropy grows logarithmically with effective central charge c=5.2. We find evidence for thermalization at infinite temperature.",
+      "categories": [
+        "hep-th",
+        "cond-mat.stat-mech"
+      ],
+      "published": "2025-12-29T12:51:26+00:00",
+      "updated": "2026-06-05T21:20:55+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.23432v3",
+      "html_url": "https://arxiv.org/html/2512.23432v3",
+      "entry_url": "http://arxiv.org/abs/2512.23432v3"
+    },
+    {
+      "arxiv_id": "2512.23791v2",
+      "base_id": "2512.23791",
+      "title": "Energy correlators in four-dimensional gravity",
+      "authors": [
+        "Dmitry Chicherin",
+        "Gregory P. Korchemsky",
+        "Emery Sokatchev",
+        "Alexander Zhiboedov"
+      ],
+      "abstract": "We investigate energy correlators in four-dimensional gravitational theories, which provide a simple class of infrared-finite observables. We compute the one- and two-point energy correlators at one loop in $\\mathcal{N}=8$ supergravity and in pure Einstein gravity, with particular emphasis on the contact terms arising from the interplay between virtual corrections and real emissions. We explicitly demonstrate the cancellation of infrared divergences and verify the Ward identities associated with energy-momentum conservation. In the back-to-back limit, we derive an all-order expression for the energy-energy correlator, showing that it is governed by universal soft-graviton dynamics. We further introduce a particularly simple beam-averaged energy-energy correlator and compute it in different gravitational theories, including tree-level string theory. The resulting correlators exhibit analyticity and polynomial boundedness, allowing for the formulation of dispersion relations, which we explore. Finally, we discuss additional singularities of the gravitational energy correlators, absent in QCD, that originate from the long-range nature of the gravitational interactions.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2025-12-29T19:00:00+00:00",
+      "updated": "2026-06-10T09:14:42+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.23791v2",
+      "html_url": "https://arxiv.org/html/2512.23791v2",
+      "entry_url": "http://arxiv.org/abs/2512.23791v2"
+    }
+  ],
+  "total": 17
+}

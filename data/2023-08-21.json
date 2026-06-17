@@ -1,0 +1,47 @@
+{
+  "date": "2023-08-21",
+  "papers": [
+    {
+      "arxiv_id": "2308.10890v2",
+      "base_id": "2308.10890",
+      "title": "Dust collapse in asymptotic safety: a path to regular black holes",
+      "authors": [
+        "Alfio Bonanno",
+        "Daniele Malafarina",
+        "Antonio Panassiti"
+      ],
+      "abstract": "Regular black hole spacetimes are obtained from an effective Lagrangian for Quantum Einstein Gravity. The interior matter is modeled as a dust fluid, which interacts with the geometry through a multiplicative coupling function denoted as $χ$. The specific functional form of $χ$ is deduced from Asymptotically Safe gravity, under the key assumption that the Reuter fixed point remains minimally affected by the presence of matter. As a consequence the gravitational coupling vanishes at high energies. The static exterior geometry of the black hole is entirely determined by the junction conditions at the boundary surface. Consequently, the resulting global spacetime geometry remains devoid of singularities at all times. This outcome offers a new perspective on how regular black holes are formed through gravitational collapse.",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2023-08-21T17:44:26+00:00",
+      "updated": "2026-05-04T20:40:29+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2308.10890v2",
+      "html_url": "https://arxiv.org/html/2308.10890v2",
+      "entry_url": "http://arxiv.org/abs/2308.10890v2"
+    },
+    {
+      "arxiv_id": "2308.10926v2",
+      "base_id": "2308.10926",
+      "title": "Symfind: Addressing the Fragility of Subhalo Finders and Revealing the Durability of Subhalos",
+      "authors": [
+        "Philip Mansfield",
+        "Elise Darragh-Ford",
+        "Yunchong Wang",
+        "Ethan O. Nadler",
+        "Risa H. Wechsler"
+      ],
+      "abstract": "A major question in $Λ$CDM is what this theory actually predicts for the properties of subhalo populations. Subhalos are difficult to simulate and to find within simulations, and this propagates into uncertainty in theoretical predictions for satellite galaxies. We present Symfind, a new particle-tracking-based subhalo finder, and demonstrate that it can track subhalos to orders-of-magnitude lower masses than commonly used halo-finding tools, with a focus on Rockstar and consistent-trees. These longer survival mean that at a fixed peak subhalo mass, we find $\\approx 15\\%{-}40\\%$ more subhalos within the virial radius, $R_\\textrm{vir}$, and $\\approx 35\\%-120\\%$ more subhalos within $R_\\textrm{vir}/4$ in the Symphony dark-matter-only simulation suite. More subhalos are found as resolution is increased. We perform extensive numerical testing. In agreement with idealized simulations, we show that the $v_{\\rm max}$ of subhalos is only resolved at high resolutions ($n_\\textrm{peak}\\gtrsim3\\times 10^4$), but that mass loss itself can be resolved at much more modest particle counts ($n_\\textrm{peak}\\gtrsim4\\times 10^3$). We show that Rockstar converges to false solutions for the mass function, radial distribution, and disruption masses of subhalos. We argue that our new method can trace resolved subhalos until the point of typical galaxy disruption without invoking ``orphan'' modeling. We outline a concrete set of steps for determining whether other subhalo finders meet the same criteria. We publicly release Symfind catalogs and particle data for the Symphony simulation suite at \\url{web.stanford.edu/group/gfc/gfcsims/}.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2023-08-21T18:00:00+00:00",
+      "updated": "2026-05-11T17:50:24+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2308.10926v2",
+      "html_url": "https://arxiv.org/html/2308.10926v2",
+      "entry_url": "http://arxiv.org/abs/2308.10926v2"
+    }
+  ],
+  "total": 2
+}

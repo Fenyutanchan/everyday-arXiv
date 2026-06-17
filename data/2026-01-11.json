@@ -1,0 +1,81 @@
+{
+  "date": "2026-01-11",
+  "papers": [
+    {
+      "arxiv_id": "2601.06864v2",
+      "base_id": "2601.06864",
+      "title": "Boundary-only weak deflection angles from isothermal optical geometry",
+      "authors": [
+        "Ali Övgün",
+        "Reggie C. Pantig"
+      ],
+      "abstract": "We develop a boundary only method for computing weak gravitational deflection angles at finite source and receiver distances within the Gauss-Bonnet theorem formulation of optical geometry. Exploiting the fact that the relevant equatorial optical manifold is two dimensional, we introduce isothermal (conformal) coordinates in which the optical metric is locally conformal to a flat reference metric and the Gaussian curvature reduces to a Laplacian of the conformal factor. Such an identity converts the curvature area term in the Gauss-Bonnet theorem into a pure boundary contribution via Green/Stokes-type relations, yielding a deflection formula that depends only on boundary data and controlled closure terms. The residual normalization freedom of the isothermal radius is isolated as an additive freedom in the conformal factor and is shown to leave physical observables invariant, eliminating the need for orbit dependent calibration prescriptions. We explicitly implement the boundary only formalism in weak deflection, where the leading bending reduces to elementary one-dimensional integrals evaluated on a flat reference ray in the conformal plane, with finite distance dependence entering solely through endpoint data. We validate the construction by reproducing finite distance weak deflection for Schwarzschild, deriving the leading finite distance charge correction for Reissner-Nordström, and applying the same boundary only framework to the Kottler (Schwarzschild-de Sitter) geometry as a representative non-asymptotically flat test case, recovering the standard finite distance expansion including the explicit $\\mathcal{O}(Λ)$ and mixed $\\mathcal{O}(ΛM)$ contributions to the total deflection angle.",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2026-01-11T11:17:16+00:00",
+      "updated": "2026-05-05T01:33:32+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.06864v2",
+      "html_url": "https://arxiv.org/html/2601.06864v2",
+      "entry_url": "http://arxiv.org/abs/2601.06864v2"
+    },
+    {
+      "arxiv_id": "2601.07075v3",
+      "base_id": "2601.07075",
+      "title": "A New Consistency Test for the $Λ$CDM Model using Radial and Transverse BAO Measurements",
+      "authors": [
+        "Xing-Han A. Zhao",
+        "Zheng Cai"
+      ],
+      "abstract": "We present a calibration-free consistency test of spatially flat $Λ$CDM based on baryon acoustic oscillation (BAO) distance measurements. The method forms ratios of BAO distances including the Hubble distance, the comoving angular diameter distance, and the volume-averaged distance, so that the sound horizon scale cancels, and then maps each observed ratio to an effective flat-$Λ$CDM matter density parameter, $Ω_{\\rm M}^Λ$, defined as the value of $Ω_{\\rm M}$ that reproduces the measured ratio within $Λ$CDM. Flat $Λ$CDM predicts that $Ω_{\\rm M}^Λ$ should be independent of redshift and of the particular ratio used. For ratios involving the integrated distances, we associate them with well-defined effective line-of-sight redshift intervals based on the integral mean value theorem. We apply the test to BAO measurements from the Dark Energy Spectroscopic Instrument (DESI) Data Release~1 and Data Release~2, propagating the full published BAO covariance matrices into all derived ratios and $Ω_{\\rm M}^Λ$ constraints. Within current uncertainties, the inferred $Ω_{\\rm M}^Λ$ values are broadly consistent with a redshift-independent constant, providing an internal consistency check of flat $Λ$CDM that can be strengthened straightforwardly as BAO measurements improve.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2026-01-11T21:43:46+00:00",
+      "updated": "2026-05-25T07:31:57+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.07075v3",
+      "html_url": "https://arxiv.org/html/2601.07075v3",
+      "entry_url": "http://arxiv.org/abs/2601.07075v3"
+    },
+    {
+      "arxiv_id": "2601.06769v2",
+      "base_id": "2601.06769",
+      "title": "Constraints and Consistency of Rotating Regular Black Hole Thermodynamics",
+      "authors": [
+        "Qi-Quan Li",
+        "Yu Zhang",
+        "Hoernisa Iminniyaz"
+      ],
+      "abstract": "The thermodynamics of regular black holes has long suffered from a self-consistency problem: the Hawking temperature derived from the first law disagrees with the geometrically defined one, signaling that the thermodynamic quantities obtained in previous studies are unreliable. To resolve this, we construct a rotating ``mother'' black hole whose parameters are initially independent, forming an extended thermodynamic phase space. Thermodynamic quantities are first derived in this unconstrained phase space, and only then is the regularity condition imposed. We find a fundamental asymmetry between the geometric and thermodynamic derivations: the geometric temperature is invariant under the order of constraint application, whereas the thermodynamic temperature requires the correct order of operations to yield a physically meaningful result. This establishes a self-consistent thermodynamic framework for rotating regular black holes, in which all thermodynamic quantities are guaranteed to be physically correct, laying a rigorous foundation for investigating phase transitions and thermodynamic stability.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2026-01-11T03:59:06+00:00",
+      "updated": "2026-05-30T01:43:15+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.06769v2",
+      "html_url": "https://arxiv.org/html/2601.06769v2",
+      "entry_url": "http://arxiv.org/abs/2601.06769v2"
+    },
+    {
+      "arxiv_id": "2601.06815v3",
+      "base_id": "2601.06815",
+      "title": "Joint Optical-HI mock catalogues and prospects for upcoming HI surveys",
+      "authors": [
+        "Sauraj Bharti",
+        "J. S. Bagla"
+      ],
+      "abstract": "Atomic hydrogen (HI) regulates star formation as cold gas fuels star formation. It represents a key phase in the baryon cycle. Redshifted $21$ cm line emission serves as a key tracer for investigating HI in the interstellar medium (ISM) and circumgalactic medium (CGM) in distant galaxies, and enables the study of galaxy evolution. Direct detections of HI are currently limited to $z \\leq 0.4$ due to the inherently weak $21$ cm emission line. Ongoing and upcoming large radio surveys aim to detect $21$ cm emission from galaxies up to $z \\gtrsim 1$. We present a novel approach for creating optical-HI joint mock catalogues for upcoming SKA precursor surveys: MIGHTEE-HI, LADUMA and WALLABY. Incorporation of optical properties along with HI makes these mock catalogues a powerful tool for making predictions for surveys and provides a benchmark for exploring the HI science (e.g., conditional HIMF and optical-to-HI scaling relations) expected from these surveys. As a case study, we show the use of the joint catalogues for predicting the expected outcome of stacking detection for average HI mass in galaxies that are below the threshold for direct detection. We show that combining stacking observations with only the number of direct detections puts a strong constraint on the HI mass function. We also show that this can be done separately for parts of the color-magnitude diagram for galaxies, enabling a fine grained study of galaxy evolution. This may be used to set priors for the full determination of the HI mass function.",
+      "categories": [
+        "astro-ph.GA",
+        "astro-ph.CO"
+      ],
+      "published": "2026-01-11T08:57:20+00:00",
+      "updated": "2026-06-02T07:48:39+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2601.06815v3",
+      "html_url": "https://arxiv.org/html/2601.06815v3",
+      "entry_url": "http://arxiv.org/abs/2601.06815v3"
+    }
+  ],
+  "total": 4
+}

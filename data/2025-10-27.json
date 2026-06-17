@@ -1,0 +1,244 @@
+{
+  "date": "2025-10-27",
+  "papers": [
+    {
+      "arxiv_id": "2510.23750v2",
+      "base_id": "2510.23750",
+      "title": "Study of Neutron Star Properties under the Two-Flavor Quark NJL Model",
+      "authors": [
+        "Chunran Zhu",
+        "Bolin Li"
+      ],
+      "abstract": "The Equation of State (EOS) of matter within neutron stars is a central topic in nuclear physics and astrophysics.This study investigates hadron-quark hybrid stars by integrating the density-dependent DDME2 relativistic mean-field model for hadronic matter with a two-flavor Nambu-Jona-Lasinio (NJL) model for quark matter.A quintic polynomial interpolation is employed to construct a smooth ($C^2$ continuity) and thermodynamically consistent crossover between the phases.We systematically explore the parameter space to reconcile the tension between the high stiffness required by massive pulsars and the softness demanded by tidal deformability and radius constraints.Our analysis demonstrates that to simultaneously satisfy the mass measurement of PSR J0740+6620 and the compact radius constraints from NICER (e.g., PSR J0437-4715), the hadron-quark crossover must initiate in the vicinity of nuclear saturation density.This result suggests that the early percolation of quark degrees of freedom is a necessary feature to accommodate current multi-messenger observations.",
+      "categories": [
+        "astro-ph.HE",
+        "gr-qc",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "published": "2025-10-27T18:30:36+00:00",
+      "updated": "2026-04-17T16:44:41+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.23750v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2510.23750v2"
+    },
+    {
+      "arxiv_id": "2510.23838v2",
+      "base_id": "2510.23838",
+      "title": "Imperfect dark matter with higher derivatives",
+      "authors": [
+        "Mohammad Ali Gorji"
+      ],
+      "abstract": "We introduce a higher-derivative action for dark matter whose energy-momentum tensor describes an imperfect fluid with nonzero pressure, energy flux, and anisotropic stress. In the limit where the higher-derivative couplings are switched off, the energy-momentum tensor reduces to pressureless dust. A systematic derivation follows from extending the singular conformal transformation used in the mimetic dark matter scenario to include higher-derivative terms while the resulting action is general and does not rely on the mimetic framework. On a homogeneous cosmological background, the dynamics coincides with that of pressureless dust, while in the presence of inhomogeneities the higher-derivative terms generate nonzero acceleration and vorticity, making it possible to avoid the formation of caustic singularities even if the strong energy condition satisfies. In particular, within the mimetic realization these terms can resolve the usual caustic pathology of mimetic dark matter.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-th"
+      ],
+      "published": "2025-10-27T20:21:28+00:00",
+      "updated": "2026-04-16T13:05:07+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.23838v2",
+      "html_url": "https://arxiv.org/html/2510.23838v2",
+      "entry_url": "http://arxiv.org/abs/2510.23838v2"
+    },
+    {
+      "arxiv_id": "2510.23809v4",
+      "base_id": "2510.23809",
+      "title": "Recurrence Relations and Dispersive Techniques for Precision Multi-Loop Calculations",
+      "authors": [
+        "A. Aleksejevs",
+        "S. Barkanova",
+        "A. I. Davydychev"
+      ],
+      "abstract": "Ab initio predictions of two-loop electroweak contributions to observables are increasingly essential for precision collider experiments, yet their evaluation remains very challenging. We connect recurrence techniques and dispersive method in order to evaluate complex multi-loop Feynman diagrams. By expressing multi-point Passarino-Veltman functions in a two-point basis and using shifted space-time dimensions with recurrence relations, we minimize the number of required dispersive integrals. This approach reduces computation time and enables a precise and efficient analysis of one- and two-loop diagrams.",
+      "categories": [
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2025-10-27T19:45:44+00:00",
+      "updated": "2026-04-15T12:20:50+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.23809v4",
+      "html_url": "https://arxiv.org/html/2510.23809v4",
+      "entry_url": "http://arxiv.org/abs/2510.23809v4"
+    },
+    {
+      "arxiv_id": "2510.23808v3",
+      "base_id": "2510.23808",
+      "title": "Towards theory constraints on ultralight dark matter from quantum gravity",
+      "authors": [
+        "Gabriel Assant",
+        "Astrid Eichhorn",
+        "Benjamin Knorr"
+      ],
+      "abstract": "Ultralight scalar dark matter may couple to the Standard Model through dimension-five operators that contain the field-strength tensors of the gauge interactions. Recent progress in nuclear clocks is projected to increase the sensitivity to such couplings by several orders of magnitude. Future experimental constraints may even have Planck-scale sensitivity, calling for a study of such couplings in a framework that includes quantum gravity. We take a first step towards providing the theoretical constraints on such couplings that arise in asymptotically safe gravity. We find evidence that such couplings vanish in asymptotically safe gravity and are also not generated in a perturbative quantum-gravity regime that describes quantum gravity as an effective field theory.",
+      "categories": [
+        "hep-ph",
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2025-10-27T19:45:23+00:00",
+      "updated": "2026-04-30T10:07:37+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.23808v3",
+      "html_url": "https://arxiv.org/html/2510.23808v3",
+      "entry_url": "http://arxiv.org/abs/2510.23808v3"
+    },
+    {
+      "arxiv_id": "2510.23468v2",
+      "base_id": "2510.23468",
+      "title": "Model-independent mass determination of near-threshold states from short-range production",
+      "authors": [
+        "Yong-Hui Lin",
+        "Hans-Werner Hammer",
+        "Ulf-G. Meißner"
+      ],
+      "abstract": "We propose a novel observable for the precision measurements of a wide class of near-threshold dimer states: the short-range production rate of a dimer--spectator two-body system, composed of the given near-threshold state and one of its constituents. Within the framework of nonrelativistic effective field theory, these production rates exhibit characteristic line shapes for the specific partial wave and reach a model-independent minimum. This feature enables a precise extraction of their masses from experimental data, provided that the line shape can be resolved with sufficient accuracy. Applying this novel method to both the $T_{b\\bar{b}1}(10610)B$ and $T_{b\\bar{b}1}(10650)B^*$ systems allows for a precise determination of the binding energy $δ$ of the $T_{b\\bar{b}1}(10610)$ and $T_{b\\bar{b}1}(10650)$ via the relation of $δ=-{E_{\\text{dip}}^{\\text{exp}}}/{0.1983}$ once the respective dip position $E_{\\text{dip}}^{\\text{exp}}$ is experimentally identified.",
+      "categories": [
+        "hep-ph",
+        "hep-ex",
+        "nucl-th"
+      ],
+      "published": "2025-10-27T16:06:44+00:00",
+      "updated": "2026-05-10T04:25:23+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.23468v2",
+      "html_url": "https://arxiv.org/html/2510.23468v2",
+      "entry_url": "http://arxiv.org/abs/2510.23468v2"
+    },
+    {
+      "arxiv_id": "2510.23292v2",
+      "base_id": "2510.23292",
+      "title": "Energy extraction from a rotating black hole via magnetic reconnection: Bumblebee gravity",
+      "authors": [
+        "Ho-Yun YuChih",
+        "Ye Shen"
+      ],
+      "abstract": "Many efforts were made in order to better understand the energy extraction via magnetic reconnection from a rotating black hole, following the work of Comisso and Asenjo in 2021. We also tried to make some progress in our previous works, in which we discussed differences between bulk plasma with different streamlines and also defined the covering factor as an internal property of an accretion system to quantify its capability on extracting energy via magnetic reconnection from its central black hole. In this study, we aim to explore this topic within the framework of a Kerr-Sen-like spacetime induced from Bumblebee gravity, which, among various alternative theories of gravity beyond pure Einstein gravity, stands out as a promising candidate for explaining certain high energy astrophysical phenomena. More specifically, we would like to analyze the influence of the rate of Lorentz symmetry breaking and the Bumblebee charge, the two additional parameters in Bumblebee gravity except for the black hole mass and spin, on the energy extraction via magnetic reconnection. By analyzing the allowed regions for energy extraction and the variations of covering factor, we find that energy extraction becomes more likely to succeed and tends to occur closer to the central region when the spacetime carries bigger rate of Lorentz symmetry breaking and Bumblebee charge. Furthermore, our results indicate that the most favorable spacetime configuration for energy extraction via magnetic reconnection, when the extractable energy of the central black hole is determined, corresponds to the scenario in which the cosmic censorship hypothesis is marginally not violated.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2025-10-27T13:01:09+00:00",
+      "updated": "2026-05-10T04:06:46+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.23292v2",
+      "html_url": "https://arxiv.org/html/2510.23292v2",
+      "entry_url": "http://arxiv.org/abs/2510.23292v2"
+    },
+    {
+      "arxiv_id": "2510.23348v3",
+      "base_id": "2510.23348",
+      "title": "Complex $τ$ Electric Dipole Moment from GeV-Scale New Physics",
+      "authors": [
+        "Zhong-Lv Huang",
+        "Xin-Yu Du",
+        "Xiao-Gang He",
+        "Chia-Wei Liu",
+        "Zi-Yue Zou"
+      ],
+      "abstract": "Among the charged leptons, the $τ$ electric dipole moment~($d_τ$) is the least constrained. We show that the Im[$d_τ$] imposes strong constraints on new physics that have yet to be discussed. Motivated in particular by the Super Tau-Charm Facility (STCF), which will provide a uniquely clean environment for precision $τ$-physics, we study the momentum-transfer dependence of $d_τ(q^2)$ and compare the projected sensitivities of STCF and Belle II. Our analysis shows that an axion-like coupling of the $τ$ lepton can induce sizable real and imaginary components of the EDM. The predicted EDM values may approach the present experimental sensitivities, making them accessible to future measurements at Belle II and the STCF.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-10-27T14:01:42+00:00",
+      "updated": "2026-05-14T14:48:41+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.23348v3",
+      "html_url": "https://arxiv.org/html/2510.23348v3",
+      "entry_url": "http://arxiv.org/abs/2510.23348v3"
+    },
+    {
+      "arxiv_id": "2510.23387v2",
+      "base_id": "2510.23387",
+      "title": "Probing phase transitions of regular black holes in anti-de Sitter space with Lyapunov exponent",
+      "authors": [
+        "Hao Xie",
+        "Si-Jiang Yang"
+      ],
+      "abstract": "We investigate the relationship between thermodynamic phase transitions and the Lyapunov exponent of charged regular anti-de Sitter black holes in quasi-topological gravity. Our results show that the Lyapunov exponent displays oscillatory behavior during phase transitions. Moreover, along the coexistence curve the Lyapunov exponent changes discontinously and continuously at the critical point. Near the critical point, the Lyapunov exponent follows a power-law behavior with a critical exponent of 1/2, suggesting its role as an order parameter and encodes information on black hole phase transitions.",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2025-10-27T14:43:07+00:00",
+      "updated": "2026-05-28T09:49:34+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.23387v2",
+      "html_url": "https://arxiv.org/html/2510.23387v2",
+      "entry_url": "http://arxiv.org/abs/2510.23387v2"
+    },
+    {
+      "arxiv_id": "2510.23698v2",
+      "base_id": "2510.23698",
+      "title": "Towards the Non-Perturbative Completion of 4d N=1 Effective Theories of Gravity",
+      "authors": [
+        "Gonzalo F. Casas",
+        "Max Wiesner"
+      ],
+      "abstract": "We show that four-dimensional $\\mathcal N=1$ effective theories of gravity obtained from string compactifications require a non-perturbative completion, as additional light states of non-perturbative origin must be incorporated in the small volume regime to obtain a consistent low-energy description. This completion becomes concrete in subsectors that locally exhibit enhanced supersymmetry, where the enhancement predicts the existence of additional light degrees of freedom absent in the perturbative description. Motivated by analogous setups in six-dimensional $\\mathcal N=(1,0)$ theories, we focus on the Kähler moduli space of F-theory compactifications on Calabi--Yau fourfolds to four dimensions, where shrinkable curves not intersected by 7-planes realize such supersymmetry-enhanced subsectors. Guided by the enhanced supersymmetry, we use F-theory to identify the degrees of freedom missing in the small volume regime of the perturbative Type IIB description. A consistent embedding of these local subsectors into a four-dimensional $\\mathcal N=1$ theory of gravity requires an appropriate inclusion of complex structure moduli and spacetime-filling D3-branes. We also discuss supersymmetry enhancement in the complex structure sector and study how a heterotic dual description gives a unifying picture of the different F-theory sectors with enhanced supersymmetry. Finally, we comment on cases without local supersymmetry enhancement.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2025-10-27T18:00:00+00:00",
+      "updated": "2026-05-28T09:32:55+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.23698v2",
+      "html_url": "https://arxiv.org/html/2510.23698v2",
+      "entry_url": "http://arxiv.org/abs/2510.23698v2"
+    },
+    {
+      "arxiv_id": "2510.23696v2",
+      "base_id": "2510.23696",
+      "title": "Sub-GeV dark matter and multi-decay signatures from dark showers at beam-dump experiments",
+      "authors": [
+        "Elias Bernreuther",
+        "Nicoline Hemme",
+        "Felix Kahlhoefer",
+        "Suchita Kulkarni",
+        "Maksym Ovchynnikov"
+      ],
+      "abstract": "In models of strongly-interacting dark sectors, the production of dark quarks at accelerators can give rise to dark showers with multiple dark mesons in the final state. If some of these dark mesons are sufficiently light and long-lived, they can be detected with searches for displaced vertices at beam-dump experiments and electron-positron colliders. In this work we focus on the case that dark quark production proceeds via effective operators, while the dark sector analogue of the $ρ^0$ meson can decay via kinetic mixing. We evaluate current constraints from NA62 and BaBar as well as sensitivity projections for SHiP and Belle II. We find that there exists a sizable parameter region where SHiP may detect several displaced vertices in a single event and thus obtain valuable information about the structure of the dark sector.",
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "published": "2025-10-27T18:00:00+00:00",
+      "updated": "2026-06-03T01:26:00+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.23696v2",
+      "html_url": "https://arxiv.org/html/2510.23696v2",
+      "entry_url": "http://arxiv.org/abs/2510.23696v2"
+    },
+    {
+      "arxiv_id": "2510.23722v2",
+      "base_id": "2510.23722",
+      "title": "Revisiting the Quantum Geometry of Torus-fibered Calabi-Yau Threefolds",
+      "authors": [
+        "Boris Pioline",
+        "Thorsten Schimannek"
+      ],
+      "abstract": "About ten years ago, Katz, Klemm and Huang conjectured that topological string amplitudes on compact, elliptically fibered Calabi-Yau threefolds at fixed base degree could be expressed in terms of meromorphic Jacobi forms for $SL(2,\\mathbb{Z})$, giving access to Gromov-Witten invariants at arbitrary genus. This was later generalized to torus-fibered CY threefolds with $N$-sections, where topological string amplitudes are conjecturally governed by meromorphic Jacobi forms under the congruence subgroup $Γ_1(N)$. In this work, we show that these modularity properties follow from (and are equivalent to) the wave-function property of the topological string partition function $Z_{\\rm top}$ under a relative conifold monodromy, implementing a particular Fourier-Mukai transformation on the derived category of coherent sheaves. In particular, we introduce a variant of $Z_{\\rm top}$ which is both holomorphic and modular covariant. Under the same relative conifold monodromy, the generating series of genus 0 Gopakumar-Vafa invariants at fixed base degree is mapped to the generating series of rank 0 Donaldson-Thomas indices counting D4-D2-D0-brane bound states wrapped on the torus fiber. We show that the quasimodularity of the generating series of GV invariants matches the expected mock-modular behavior of the generating series of D4-D2-D0 indices, despite having different multi-cover contributions. We analyze and tabulate a large number of CY threefolds fibered over del Pezzo surfaces, with an $N$-section for $N\\leq 5$, including several new examples beyond the realm of toric geometry.",
+      "categories": [
+        "hep-th",
+        "math.AG"
+      ],
+      "published": "2025-10-27T18:01:00+00:00",
+      "updated": "2026-06-11T14:48:06+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.23722v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2510.23722v2"
+    },
+    {
+      "arxiv_id": "2510.23770v4",
+      "base_id": "2510.23770",
+      "title": "Bulk-to-bulk photon propagator in AdS",
+      "authors": [
+        "Radu N. Moga",
+        "Kostas Skenderis"
+      ],
+      "abstract": "We study the photon bulk-to-bulk propagator in AdS in various gauges, including axial, Coulomb, and the standard covariant gauge. We compute the propagator using both momentum and position space techniques. We ensure the propagators obtained obey the right subsidiary conditions arising from gauge invariance. In particular, BRST invariance implies a relation between the longitudinal components of the gauge field propagator and the ghost bulk-to-bulk propagator. Our method relies on decomposing the components of the propagator in terms of independent tensor structures and solving for the form factors. We recover some previously existing results and obtain new expressions for the propagator in other gauges. The propagator in axial and Coulomb gauge is simpler in momentum space, as momentum space makes manisfest the translational invariance in the boundary directions, while the position space expression is the simplest in the covariant Fried-Yennie gauge. In this gauge the propagator has an improved IR behavior, somewhat analogous to the UV improved behavior associated with the Landau gauge in flat space. The results readily extend to Yang-Mills fields.",
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "published": "2025-10-27T19:00:01+00:00",
+      "updated": "2026-06-11T10:08:48+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2510.23770v4",
+      "html_url": "https://arxiv.org/html/2510.23770v4",
+      "entry_url": "http://arxiv.org/abs/2510.23770v4"
+    }
+  ],
+  "total": 12
+}

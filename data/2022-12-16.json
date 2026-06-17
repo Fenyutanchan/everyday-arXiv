@@ -1,0 +1,29 @@
+{
+  "date": "2022-12-16",
+  "papers": [
+    {
+      "arxiv_id": "2212.08549v3",
+      "base_id": "2212.08549",
+      "title": "Microcanonical Hamiltonian Monte Carlo",
+      "authors": [
+        "Jakob Robnik",
+        "G. Bruno De Luca",
+        "Eva Silverstein",
+        "Uroš Seljak"
+      ],
+      "abstract": "We develop Microcanonical Hamiltonian Monte Carlo (MCHMC), a class of models which follow a fixed energy Hamiltonian dynamics, in contrast to Hamiltonian Monte Carlo (HMC), which follows canonical distribution with different energy levels. MCHMC tunes the Hamiltonian function such that the marginal of the uniform distribution on the constant-energy-surface over the momentum variables gives the desired target distribution. We show that MCHMC requires occasional energy conserving billiard-like momentum bounces for ergodicity, analogous to momentum resampling in HMC. We generalize the concept of bounces to a continuous version with partial direction preserving bounces at every step, which gives an energy conserving underdamped Langevin-like dynamics with non-Gaussian noise (MCLMC). MCHMC and MCLMC exhibit favorable scalings with condition number and dimensionality. We develop an efficient hyperparameter tuning scheme that achieves high performance and consistently outperforms NUTS HMC on several standard benchmark problems, in some cases by more than an order of magnitude.",
+      "categories": [
+        "stat.CO",
+        "astro-ph.IM",
+        "hep-lat",
+        "hep-th"
+      ],
+      "published": "2022-12-16T15:58:36+00:00",
+      "updated": "2026-05-27T20:36:48+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2212.08549v3",
+      "html_url": "https://arxiv.org/html/2212.08549v3",
+      "entry_url": "http://arxiv.org/abs/2212.08549v3"
+    }
+  ],
+  "total": 1
+}

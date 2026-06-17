@@ -1,0 +1,299 @@
+{
+  "date": "2025-09-22",
+  "papers": [
+    {
+      "arxiv_id": "2509.18086v2",
+      "base_id": "2509.18086",
+      "title": "DESI Strong Lens Foundry III: Keck Spectroscopy for Strong Lenses Discovered Using Residual Neural Networks",
+      "authors": [
+        "Shrihan Agarwal",
+        "Xiaosheng Huang",
+        "William Sheu",
+        "Christopher J. Storfer",
+        "Marcos Tamargo-Arizmendi",
+        "Suchitoto Tabares-Tarquinio",
+        "D. J. Schlegel",
+        "G. Aldering",
+        "A. Bolton",
+        "A. Cikota",
+        "Arjun Dey",
+        "A. Filipp",
+        "E. Jullo",
+        "K. J. Kwon",
+        "S. Perlmutter",
+        "Y. Shu",
+        "E. Sukay",
+        "N. Suzuki",
+        "J. Aguilar",
+        "S. Ahlen",
+        "S. BenZvi",
+        "D. Brooks",
+        "T. Claybaugh",
+        "P. Doel",
+        "J. E. Forero-Romero",
+        "E. Gaztañaga",
+        "S. Gontcho A Gontcho",
+        "G. Gutierrez",
+        "K. Honscheid",
+        "M. Ishak",
+        "S. Juneau",
+        "R. Kehoe",
+        "T. Kisner",
+        "S. E. Koposov",
+        "A. Lambert",
+        "M. Landriau",
+        "L. Le Guillou",
+        "A. de la Macorra",
+        "A. Meisner",
+        "R. Miquel",
+        "J. Moustakas",
+        "A. D. Myers",
+        "C. Poppett",
+        "F. Prada",
+        "I. Pérez-Ràfols",
+        "G. Rossi",
+        "E. Sanchez",
+        "M. Schubnell",
+        "D. Sprayberry",
+        "G. Tarlé",
+        "B. A. Weaver",
+        "H. Zou"
+      ],
+      "abstract": "We present spectroscopic data of strong lenses and their source galaxies using the Keck Near-Infrared Echellette Spectrometer (NIRES) and the Dark Energy Spectroscopic Instrument (DESI), providing redshifts necessary for nearly all strong-lensing applications with these systems, especially the extraction of physical parameters from lensing modeling. These strong lenses were found in the DESI Legacy Imaging Surveys using Residual Neural Networks (ResNet) and followed up by our Hubble Space Telescope program, with all systems displaying unambiguous lensed arcs. With NIRES, we target eight lensed sources at redshifts difficult to measure in the optical range and determine the source redshifts for six, between $z_s$ = 1.675 and 3.332. DESI observed one of the remaining source redshifts, as well as an additional source redshift within the six systems. The two systems with non-detections by NIRES were observed for a considerably shorter 600s at high airmass. Combining NIRES infrared spectroscopy with optical spectroscopy from our DESI Strong Lensing Secondary Target Program, these results provide the complete lens and source redshifts for six systems, a resource for refining automated strong lens searches in future deep- and wide-field imaging surveys and addressing a range of questions in astrophysics and cosmology.",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.GA"
+      ],
+      "published": "2025-09-22T17:58:39+00:00",
+      "updated": "2026-04-19T18:52:43+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.18086v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2509.18086v2"
+    },
+    {
+      "arxiv_id": "2509.17733v2",
+      "base_id": "2509.17733",
+      "title": "Well-posedness of Ricci Flow in Lorentzian Spacetime and its Entropy Formula",
+      "authors": [
+        "M. J. Luo"
+      ],
+      "abstract": "This paper attempts to construct monotonic entropy functionals for four-dimensional Lorentzian spacetime under physical boundary conditions, as an extension of Perelman's monotonic entropy functionals constructed for three-dimensional compact Riemannian manifolds. The monotonicity of these entropy functionals is utilized to prove the well-posedness of applying Ricci flow to four-dimensional Lorentzian spacetime for a long flow-time, particularly for the timelike modes which would seem blow up and ill-defined. The general idea is that the the Ricci flow of a Lorentzian spacetime metric and the coupled conjugate heat flow of a density on the Lorentzian spacetime as a whole turns out to be the gradient flows of the monotonic functionals for a long flow-time, so the superficial \"blow-up\" in the individual Ricci flow system or the conjugate heat flow system contradicts the boundedness of the monotonic functionals within finite flow interval, which gives a semi-global control to the whole coupled system. The physical significance and applications of these monotonic entropy functionals in real gravitational systems are also discussed.",
+      "categories": [
+        "gr-qc",
+        "hep-th",
+        "math-ph"
+      ],
+      "published": "2025-09-22T13:01:38+00:00",
+      "updated": "2026-04-16T02:01:34+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.17733v2",
+      "html_url": "https://arxiv.org/html/2509.17733v2",
+      "entry_url": "http://arxiv.org/abs/2509.17733v2"
+    },
+    {
+      "arxiv_id": "2509.18255v2",
+      "base_id": "2509.18255",
+      "title": "Bootstrapping transport in the Drude-Kadanoff-Martin model",
+      "authors": [
+        "Subham Dutta Chowdhury",
+        "Sean A. Hartnoll",
+        "Aditya Hebbar",
+        "Ruby Khondaker"
+      ],
+      "abstract": "The Drude-Kadanoff-Martin model is a simple low energy and long wavelength description of charge transport, parameterised by the current relaxation timescale $τ$, charge diffusivity $D$ and charge compressibility $χ$. We obtain sharp constraints on these parameters in terms of the microscopic energy and length scales of any underlying lattice model with local and bounded interactions. Our primary tools are upper bounds on the retarded Green's function for the charge density in such a setting. We first note that the Drude-Kadanoff-Martin model cannot pertain at microscopic energy scales because it is inconsistent with the exponential suppression of spectral weight at the highest frequencies in a lattice model. Secondly, under the assumption that the low energy dynamics is captured by the model, we obtain a lower bound on the collective mean free path $\\ell \\equiv \\sqrt{τD}$. This bound is shown to imply a version of the Mott-Ioffe-Regel bound: systems with $\\ell$ much shorter than the lattice length scale cannot have conventional Drude peaks.",
+      "categories": [
+        "hep-th",
+        "cond-mat.str-el"
+      ],
+      "published": "2025-09-22T18:00:03+00:00",
+      "updated": "2026-05-14T09:31:59+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.18255v2",
+      "html_url": "https://arxiv.org/html/2509.18255v2",
+      "entry_url": "http://arxiv.org/abs/2509.18255v2"
+    },
+    {
+      "arxiv_id": "2509.17596v5",
+      "base_id": "2509.17596",
+      "title": "Energy Correlators Resolving Proton Spin",
+      "authors": [
+        "Jun Gao",
+        "Hai Tao Li",
+        "Yu Jiao Zhu"
+      ],
+      "abstract": "We investigate the partonic origin of the proton longitudinal spin using spin-dependent energy correlators measured in lepton-hadron collisions with longitudinally polarized proton beams. These observables encode angular correlations in energy flow and are sensitive to the spin-momentum structure of confined partons. Using soft-collinear effective theory, we analyze the correlation patterns in both nearly back-to-back and forward limits, which establishes a direct correspondence with longitudinally polarized transverse momentum-dependent distributions (TMDs) and nucleon energy correlators (NECs). The TMDs and NECs allow consistent matching onto hard radiation regions and provide a comprehensive description of the transition from perturbative parton branching to nonperturbative confinement. Using renormalization group evolution, we obtain joint next-to-next-to-next-to-leading and next-to-next-to-leading logarithmic quantitative predictions for spin-dependent energy correlation patterns in the current and target fragmentation regions. The framework provides new theoretical insight into how the internal motion and spin of partons contribute to the formation of the proton longitudinal spin and offers an experimental paradigm for probing the interplay between color confinement and spin dynamics at the forthcoming Electron-Ion Collider.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2025-09-22T11:18:39+00:00",
+      "updated": "2026-05-17T15:35:09+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.17596v5",
+      "html_url": "https://arxiv.org/html/2509.17596v5",
+      "entry_url": "http://arxiv.org/abs/2509.17596v5"
+    },
+    {
+      "arxiv_id": "2509.18269v2",
+      "base_id": "2509.18269",
+      "title": "Eigenstate Thermalization in 1+1-Dimensional SU(2) Lattice Gauge Theory Coupled with Dynamical Fermions",
+      "authors": [
+        "Diptarka Das",
+        "Lukas Ebner",
+        "Saurabh V. Kadam",
+        "Indrakshi Raychowdhury",
+        "Andreas Schäfer",
+        "Xiaojun Yao"
+      ],
+      "abstract": "We test the eigenstate thermalization hypothesis (ETH) in 1+1-dimensional SU(2) lattice gauge theory (LGT) with one flavor of dynamical fermions. Using the loop-string-hadron framework of the LGT with a bosonic cut-off, we exactly diagonalize the Hamiltonian for finite size systems and calculate matrix elements (MEs) in the eigenbasis for both local and non-local operators. We analyze different indicators to identify the parameter space for quantum chaos at finite lattice sizes and investigate how the ETH behavior emerges in both the diagonal and off-diagonal MEs. Our investigations allow us to study various time scales of thermalization and the emergence of random matrix behavior, and highlight the interplays of the several diagnostics with each other. Furthermore, from the off-diagonal MEs, we extract a smooth function that is closely related to the spectral function for both local and non-local operators. We find numerical evidence of the spectral gap and the memory peak in the non-local operator case. Finally, we investigate aspects of subsystem ETH in the lattice gauge theory and identify certain features in the subsystem reduced density matrix that are unique to gauge theories.",
+      "categories": [
+        "hep-th",
+        "cond-mat.stat-mech",
+        "hep-lat",
+        "hep-ph",
+        "quant-ph"
+      ],
+      "published": "2025-09-22T18:00:14+00:00",
+      "updated": "2026-05-27T13:04:39+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.18269v2",
+      "html_url": "https://arxiv.org/html/2509.18269v2",
+      "entry_url": "http://arxiv.org/abs/2509.18269v2"
+    },
+    {
+      "arxiv_id": "2509.18285v2",
+      "base_id": "2509.18285",
+      "title": "Cardy limit of the 3d superconformal index",
+      "authors": [
+        "Arash Arabi Ardehali",
+        "Mathieu Boisvert",
+        "Shehab Hossam Fadda"
+      ],
+      "abstract": "We study the superconformal index $Z(q)$ of 3d $\\mathcal{N}=2$ gauge theories in Cardy-like limits $β= \\log \\tfrac{1}{q} \\to 0^+$, extending techniques recently developed in the 4d $\\mathcal{N}=1$ context. For theories with vectorlike matter content we find on the first sheet ($q \\to 1$) that $Z(q) \\sim β^{-\\#}$, where the exponent $\\#$ is determined by a $multiscale\\ decomposition$ of the BPS moduli space appearing in the localization formula for the index. On the second sheet ($q \\to e^{2πi})$ we find $Z(q) \\sim e^{\\#/ β}$, and that the long-standing puzzle of apparent gauge-enhancing saddles is resolved (in the absence of Chern--Simons couplings) via a novel $Lorentzian\\ factorization$ formula that establishes complete screening.   A key insight is the use of $Poisson\\ resummation$, which streamlines the asymptotic analysis, sharpens the link to Kaluza--Klein effective field theory, and provides a dual description of parts of the BPS moduli space in terms of punctured surfaces. The Lorentzian factorization formula also emerges from Poisson resummation, though applied after a contour crossing in moduli space. This, in turn, hints at a correspondence between 3d monopoles and vortices via 2d duality.",
+      "categories": [
+        "hep-th",
+        "math-ph",
+        "math.CA",
+        "math.QA"
+      ],
+      "published": "2025-09-22T18:12:24+00:00",
+      "updated": "2026-05-29T16:19:03+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.18285v2",
+      "html_url": "https://arxiv.org/html/2509.18285v2",
+      "entry_url": "http://arxiv.org/abs/2509.18285v2"
+    },
+    {
+      "arxiv_id": "2509.17586v3",
+      "base_id": "2509.17586",
+      "title": "Cosmological constraints on Galileon dark energy with broken shift symmetry",
+      "authors": [
+        "William J. Wolf",
+        "Pedro G. Ferreira",
+        "Carlos García-García"
+      ],
+      "abstract": "Current cosmological data seem to show that dark energy is evolving in time and that it possibly crossed the phantom divide in the past. So far the only theories that lead to such a behavior involve a non-trivial coupling between dark energy, in the form of a scalar field, and the gravitational or matter sector. We show that there is another possibility involving both a non-trivial kinetic sector in a cubic Galileon theory and a scalar field potential that breaks the Galileon shift symmetry, which can lead to a similar phenomenology on large scales. We perform a full Bayesian analysis using the latest cosmological data, including DESI DR2 BAO measurements, type Ia SNe measurements from DESY5, Union3, and Pantheon+, and CMB data from Planck and ACT. We find that it is statistically strongly favored over a Universe dominated by a cosmological constant (with a Bayes factor of $\\log B\\simeq 6.5$). Yet, as with other non-minimally coupled theories, it has severe ancillary gravitational effects. These can be mitigated to some extent, but as with other viable theories, the penalty is ever more elaborate scalar field models of dark energy.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2025-09-22T11:09:31+00:00",
+      "updated": "2026-05-29T12:14:37+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.17586v3",
+      "html_url": "https://arxiv.org/html/2509.17586v3",
+      "entry_url": "http://arxiv.org/abs/2509.17586v3"
+    },
+    {
+      "arxiv_id": "2509.18074v3",
+      "base_id": "2509.18074",
+      "title": "Thermal field theory correlators in the large-$N$ limit and the spectral duality relation",
+      "authors": [
+        "Sašo Grozdanov",
+        "Mile Vrbica"
+      ],
+      "abstract": "In Ref.~\\cite{Grozdanov:2024wgo}, we derived a spectral duality relation applicable to the spectra of 3$d$ conformal field theories (CFTs) and their holographically dual 4$d$ black holes. In this work, we further elaborate on the properties of this duality relation and argue that the same relation can be applied to certain pairs of thermal correlator spectra in large-$N$ quantum field theories in any number of spacetime dimensions, provided the correlators are meromorphic functions with only simple poles and satisfy the thermal product formula. We discuss a rich set of properties that such retarded two-point functions must exhibit. We then show that the spectral duality relation and its implications apply to pairs of correlators in double-trace deformed CFTs and, more generally, to correlators in theories related by the Legendre transform. We illustrate, through several examples, how the spectrum of one correlator can be reconstructed from that of its dual correlation function. Notably, this includes cases relating the thermal spectra of scalar primary operators at ultraviolet and infrared fixed points, as well as current operators in a CFT$_3$ and its particle-vortex dual.",
+      "categories": [
+        "hep-th",
+        "cond-mat.str-el"
+      ],
+      "published": "2025-09-22T17:54:26+00:00",
+      "updated": "2026-06-04T13:36:51+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.18074v3",
+      "html_url": "https://arxiv.org/html/2509.18074v3",
+      "entry_url": "http://arxiv.org/abs/2509.18074v3"
+    },
+    {
+      "arxiv_id": "2509.17372v2",
+      "base_id": "2509.17372",
+      "title": "Quantum Noise Reduction in the Space-based Gravitational Wave Antenna DECIGO Using Optical Springs and Homodyne Detection scheme",
+      "authors": [
+        "Kenji Tsuji",
+        "Tomohiro Ishikawa",
+        "Kentaro Komori",
+        "Yutaro Enomoto",
+        "Yuta Michimura",
+        "Kurumi Umemura",
+        "Shoki Iwaguchi",
+        "Keiko Kokeyama",
+        "Seiji Kawamura"
+      ],
+      "abstract": "The DECi-hertz Interferometer Gravitational-wave Observatory (DECIGO) is a planned space-based, next-generation gravitational wave detector aimed at observing primordial gravitational waves originating form cosmic inflation. This work focuses on reducing the quantum noise, in the instrument's observation band of 0.1 to 10 Hz, by employing optical springs and a homodyne detection scheme. Although detuning 1000\\,km long arm cavities was previously considered ineffective due to quantum state degradation from diffraction losses, we revisit this problem by formulating a new, rigorous model for quantum state of light by accounting for the vacuum state mixing as a result of diffraction losses. This work shows that high sensitivities can be achieved by employing optimal configurations of optical springs and homodyne detection schemes even with diffraction losses. These improvements alone are still not sufficient to achieve sensitivities to detect primordial gravitational waves as other technical noises limit further improvement.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.IM"
+      ],
+      "published": "2025-09-22T06:23:00+00:00",
+      "updated": "2026-06-09T05:53:18+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.17372v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2509.17372v2"
+    },
+    {
+      "arxiv_id": "2509.18271v2",
+      "base_id": "2509.18271",
+      "title": "Small-scale Lyman alpha forest cosmology with PRIYA: Constraints from XQ100 and KODIAQ-SQUAD one-dimensional flux power spectra",
+      "authors": [
+        "Ming-Feng Ho",
+        "Mahdi Qezlou",
+        "Simeon Bird",
+        "Yanhui Yang",
+        "Camille Avestruz",
+        "M. A. Fernandez",
+        "Vid Iršič"
+      ],
+      "abstract": "We present a new cosmological analysis of the small-scale Lyman alpha forest 1D flux power spectrum (P1D) using high-resolution quasar spectra from XQ100 and KODIAQ-SQUAD, interpreted through the PRIYA emulator. PRIYA is a suite of galaxy formation simulations spanning a range of cosmological and inhomogeneous HeII reionization parameters, enabling few-percent-level predictions of the P1D. These datasets, probing down to $k \\sim 6\\,h\\,\\mathrm{Mpc}^{-1}$ at $z = 2-5$, offer access to non-linear scales inaccessible to large-volume surveys like eBOSS. We find that the XQ100 P1D yields constraints on the primordial power spectrum parameters $(A_P, n_P)$ at pivot scale $k_0 = 0.78\\,\\mathrm{Mpc}^{-1}$ that are consistent with PRIYA results from eBOSS DR14 and Planck CMB, albeit with broader uncertainties. Notably, this is achieved without external IGM temperature data, showing that XQ100 alone provides stronger constraints on thermal history than eBOSS DR14. In contrast, the KODIAQ-SQUAD P1D favors a significantly higher $A_P$ value, driven by the selection bias toward high-column density absorbers (HCDs). We also find that the P1D at $k > 0.045\\,\\mathrm{s/km}$ is more sensitive to Lyman limit system contamination and thermal history. When imposing a prior on $(A_P, n_P)$, the reduced $χ^2$ remains unchanged and the inferred mean IGM temperature is unaffected, suggesting that cosmological and thermal parameters are largely sensitive to different scales. The XQ100 P1D therefore provides complementary information on thermal nuisance parameters, which can be jointly fit with eBOSS or DESI P1D measurements to improve cosmological constraints.",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.GA"
+      ],
+      "published": "2025-09-22T18:00:18+00:00",
+      "updated": "2026-06-08T20:27:30+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.18271v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2509.18271v2"
+    },
+    {
+      "arxiv_id": "2509.18078v2",
+      "base_id": "2509.18078",
+      "title": "DESI Strong Lens Foundry IV: Spectroscopic Confirmation of DESI Lens Candidates with VLT/MUSE",
+      "authors": [
+        "Emerald Lin",
+        "Ivonne Toro Bertolla",
+        "Aleksandar Cikota",
+        "Xiaosheng Huang",
+        "Christopher J. Storfer",
+        "Marcos Tamargo-Arizmendi",
+        "David J. Schlegel",
+        "William Sheu",
+        "Nao Suzuki"
+      ],
+      "abstract": "We present integral field spectroscopic observations of 76 strong gravitational lens candidates identified with a residual neural network in the DESI Legacy Imaging Surveys, obtained with the Multi Unit Spectroscopic Explorer (MUSE) on the ESO's Very Large Telescope. These observations are part of an ongoing effort to build a large, spectroscopically confirmed sample of strong lensing systems for studies on dark matter, galaxy structure, and cosmology. Our MUSE program targets both lens and source redshifts, with particular emphasis on southern hemisphere systems. MUSE's wide spectral coverage and integral field capability allow for efficient identification of multiple sources, lens environments, and weak spectral features. Redshifts for lenses and sources were obtained via manual identification of spectral features in extracted 1D spectra. Our dataset includes systems with complex configurations, such as multiple source planes and group or cluster-scale environments. We extracted and analyzed 223 spectra, successfully determining both the lens and the source redshifts for 55 gravitational lens systems. For an additional 15 targets, we measured the redshifts of the lenses but were unable to determine the redshifts of the background sources. Six targets were confirmed to not be gravitational lenses. The results presented here complement space-based imaging from our HST SNAPshot program and spectroscopic follow-up with DESI and Keck, and have lasting legacy value for identifying interesting high redshift sources and complex lensing configurations.",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.GA"
+      ],
+      "published": "2025-09-22T17:55:27+00:00",
+      "updated": "2026-06-11T00:05:27+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2509.18078v2",
+      "html_url": "https://arxiv.org/html/2509.18078v2",
+      "entry_url": "http://arxiv.org/abs/2509.18078v2"
+    }
+  ],
+  "total": 11
+}

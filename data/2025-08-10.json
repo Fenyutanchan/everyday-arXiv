@@ -1,0 +1,43 @@
+{
+  "date": "2025-08-10",
+  "papers": [
+    {
+      "arxiv_id": "2508.07508v2",
+      "base_id": "2508.07508",
+      "title": "Conditions for positivity of energy in superrenormalizable polynomial gravity",
+      "authors": [
+        "Públio Rwany B. R. do Vale"
+      ],
+      "abstract": "At the quantum level, the polynomial models of gravity with six and eight derivatives are superrenormalizable, but suffer from higher derivative ghost and/or tachyonic ghost states. On the other hand, these models may have advantages in the control of negative effects of ghosts, compared to the more common fourth-derivative theory. We explore the positiveness of energy of the individual plane wave solutions in the general models with six and eight derivatives. Different from the fourth-order gravity, the part of the energy which may be seen as the leading one in the UV, is positively defined in the tensor sector. We extend this investigation to the scalar sectors of the free theory.",
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "published": "2025-08-10T23:39:25+00:00",
+      "updated": "2026-05-02T22:21:11+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.07508v2",
+      "html_url": "https://arxiv.org/html/2508.07508v2",
+      "entry_url": "http://arxiv.org/abs/2508.07508v2"
+    },
+    {
+      "arxiv_id": "2508.07499v3",
+      "base_id": "2508.07499",
+      "title": "Comparing a Compact-Binary Mass-Shell Model with Select Observed Gravitational Waves",
+      "authors": [
+        "Noah M. MacKay"
+      ],
+      "abstract": "In a recent work, coalescing compact binaries (CCBs) were modeled as a rotating and contracting compact mass shell, providing an alternative effective representation to the state-of-the-art effective-one-body approach. Using a variational methodology, the Laplace-Beltrami formulation of the Ricci tensor was applied to a Kerr metric Ansatz, and the corresponding energy density $T_{00}$ of the CCB mass shell was obtained via the Einstein field equations. At the time of coalescence $t_C$, the resulting surface energy depends on the reduced mass $μ$, the symmetric mass ratio $α$, and the normalized orbital spin velocity of the CCB. In this work, we evaluate the radiated energy predicted by this variational approach for 45 select gravitational wave (GW) events from the O1--O4 runs, and compare these values with those inferred from observational catalogs, either directly or via the total-minus-remnant mass difference. For 38 of the 45 events analyzed, the predicted radiated energies agree with observationally inferred values within the reported uncertainties, with 1:1 ratios spanning from $0.828$ to $0.997$ (mean $0.942$, median $0.955$). Three events exhibit ratios in the range $0.721\\sim0.779$, one event yields a ratio of $0.466$, and for the remaining events the radiated energy is either unconstrained or inaccessible due to undocumented total-minus-remnant mass differences. These results indicate that the analytical approximation captures, for the most part, the leading-order energy scaling of compact binary mergers, while also suggesting clear avenues for further systematic improvement, including incorporating post-Newtonian corrections due to e.g. a non-zero eccentricity or combined tidal deformability.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE",
+        "hep-th"
+      ],
+      "published": "2025-08-10T22:12:00+00:00",
+      "updated": "2026-05-26T11:42:10+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.07499v3",
+      "html_url": "https://arxiv.org/html/2508.07499v3",
+      "entry_url": "http://arxiv.org/abs/2508.07499v3"
+    }
+  ],
+  "total": 2
+}

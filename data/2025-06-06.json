@@ -1,0 +1,128 @@
+{
+  "date": "2025-06-06",
+  "papers": [
+    {
+      "arxiv_id": "2506.05674v4",
+      "base_id": "2506.05674",
+      "title": "Observational Insights on DBI K-essence Models Using Machine Learning and Bayesian Analysis",
+      "authors": [
+        "Samit Ganguly",
+        "Arijit Panda",
+        "Eduardo Guendelman",
+        "Debashis Gangopadhyay",
+        "Abhijit Bhattacharyya",
+        "Goutam Manna"
+      ],
+      "abstract": "We perform a late-time cosmological study; we compare the performance of two Dirac-Born-Infeld (DBI)-type k-essence scalar field extensions of the $Λ$CDM model to the standard framework and a wCDM scenario using the Chevallier-Polarski-Linder (CPL) equation of state parametrization. We solve background dynamics numerically as functions of redshift and incorporate them into a Bayesian inference pipeline accelerated by machine learning. We use a Flax-based surrogate emulator to replace repeated direct integrations of the ODE system, reducing computational cost. A hybrid scheme that combines Stochastic Variational Inference (SVI) with No-U-Turn Hamiltonian Monte Carlo constrains cosmological parameters using the Pantheon$+$SH0ES Type Ia supernova sample, DESI BAO (DR2) data, and cosmic chronometer $H(z)$ measurements without CMB-based priors. In both DBI k-essence formulations, present-day dark energy equations of state are consistent with cosmic acceleration, indicating a $Λ$CDM-like regime with a modest redshift dependence. The $w$CDM model is marginally favored by conventional model selection measures such as $χ^2$, AIC, BIC, and DIC, which are based on goodness of fit and penalized. However, Bayesian predictive measures like WAIC and PSIS-LOO show no significant differences between $Λ$CDM, $w$CDM, and DBI k-essence scenarios. All have similar model weights and out-of-sample predictive performance for the datasets. Thus, DBI k-essence models mimic the success of the classic $Λ$CDM paradigm while allowing controlled, redshift-dependent deviations from a strict cosmological constant that are consistent with present late-time observations.",
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "published": "2025-06-06T01:55:19+00:00",
+      "updated": "2026-05-03T04:31:20+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.05674v4",
+      "html_url": "https://arxiv.org/html/2506.05674v4",
+      "entry_url": "http://arxiv.org/abs/2506.05674v4"
+    },
+    {
+      "arxiv_id": "2506.06497v3",
+      "base_id": "2506.06497",
+      "title": "New Methods for Offline GstLAL Analyses",
+      "authors": [
+        "Prathamesh Joshi",
+        "Leo Tsukada",
+        "Chad Hanna",
+        "Shomik Adhicary",
+        "Debnandini Mukherjee",
+        "Wanting Niu",
+        "Shio Sakon",
+        "Divya Singh",
+        "Pratyusava Baral",
+        "Amanda Baylor",
+        "Kipp Cannon",
+        "Sarah Caudill",
+        "Bryce Cousins",
+        "Jolien D. E. Creighton",
+        "Becca Ewing",
+        "Heather Fong",
+        "Richard N. George",
+        "Patrick Godwin",
+        "Reiko Harada",
+        "Yun-Jing Huang",
+        "Rachael Huxford",
+        "James Kennington",
+        "Soichiro Kuwahara",
+        "Alvin K. Y. Li",
+        "Ryan Magee",
+        "Duncan Meacher",
+        "Cody Messick",
+        "Soichiro Morisaki",
+        "Alexander Pace",
+        "Cort Posnansky",
+        "Anarya Ray",
+        "Surabhi Sachdev",
+        "Stefano Schmidt",
+        "Urja Shah",
+        "Ron Tapia",
+        "Koh Ueno",
+        "Aaron Viets",
+        "Leslie Wade",
+        "Madeline Wade",
+        "Zach Yarbrough",
+        "Noah Zhang"
+      ],
+      "abstract": "In this work, we present new methods implemented in the GstLAL offline gravitational wave search. These include a technique to reuse the matched filtering data products from a GstLAL online analysis, which hugely reduces the time and computational resources required to obtain offline results; a technique to combine these results with a separate search for heavier black hole mergers, enabling detections from a larger set of gravitational wave sources; changes to the likelihood ratio which increases the sensitivity of the analysis; and two separate changes to the background estimation, allowing more precise significance estimation of gravitational wave candidates. Some of these methods increase the sensitivity of the analysis, whereas others correct previous mis-estimations of sensitivity by eliminating false positives. These methods have been adopted for GstLAL's offline results during the fourth observing run of LIGO, Virgo, and KAGRA (O4). To test these new methods, we perform an offline analysis over one chunk of O3 data, lasting from May 12 19:36:42 UTC 2019 to May 21 14:45:08 UTC 2019, and compare it with previous GstLAL results over the same period of time. We show that cumulatively these methods afford around a 50% - 100% increase in sensitivity in the highest mass space, while simultaneously increasing the reliability of results, and making them more reusable and computationally cheaper.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.IM"
+      ],
+      "published": "2025-06-06T19:47:32+00:00",
+      "updated": "2026-05-09T06:37:12+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.06497v3",
+      "html_url": "https://arxiv.org/html/2506.06497v3",
+      "entry_url": "http://arxiv.org/abs/2506.06497v3"
+    },
+    {
+      "arxiv_id": "2506.06422v3",
+      "base_id": "2506.06422",
+      "title": "The analytic bootstrap at finite temperature",
+      "authors": [
+        "Julien Barrat",
+        "Deniz N. Bozkurt",
+        "Enrico Marchetto",
+        "Alessio Miscioscia",
+        "Elli Pomoni"
+      ],
+      "abstract": "We propose new universal formulae for thermal two-point functions of scalar operators based on their analytic structure, constructed to manifestly satisfy all the bootstrap conditions. We derive a dispersion relation in the complexified time plane, which fixes the correlator up to an additive constant and theory-dependent dynamical information. At non-zero spatial separation we introduce a formula for the thermal two-point function obtained by summing over images of the dispersion relation result obtained in the OPE regime. This construction satisfies all thermal bootstrap conditions, with the exception of clustering at infinite distance, which must be verified on a case-by-case basis. We test our results both in weakly and strongly-coupled theories. In particular, we show that the asymptotic behavior for the heavy sector proposed in~\\cite{Marchetto:2023xap} and its correction can be explicitly derived from the dispersion relation. We combine analytical and numerical results to compute the thermal two-point function of the energy operator in the $3d$ Ising model and find agreement with Monte Carlo simulations.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2025-06-06T18:00:01+00:00",
+      "updated": "2026-06-03T08:39:06+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.06422v3",
+      "html_url": "https://arxiv.org/html/2506.06422v3",
+      "entry_url": "http://arxiv.org/abs/2506.06422v3"
+    },
+    {
+      "arxiv_id": "2506.06554v3",
+      "base_id": "2506.06554",
+      "title": "Black-hole hair from vector dark matter accretion",
+      "authors": [
+        "Fredric Hancock",
+        "Helvi Witek"
+      ],
+      "abstract": "We model a single black hole in equilibrium with a dark photon-cold dark matter environment. Representing the dark photon as a Proca field, we show that a Schwarzschild black hole grows vector-field \"hair\" when allowed to accrete from an infinite homogeneous bath of particles far from the horizon. We solve the Proca equation in linear perturbation theory, separating it using the vector spherical harmonics and Frolov-Krtouš-Kubizňák-Santos approaches for the odd-parity and even-parity sectors, respectively. In the \"particle\" dark matter regime, the field is purely infalling and exhibits a sharply peaked density profile, in concordance with the particle dark matter \"spikes\" studied in the literature. In the \"wave\" regime, the field exhibits standing waves, and the profile is smeared. We find a dark-matter density amplification upward of $10^7$ near the horizon. Though small for most black holes, we find the mass enclosed in the cloud can reach $\\sim 1 \\%$ of the black hole mass for large supermassive black holes. These black holes are also most susceptible to vector dark matter accretion, with mass accretion rates as large as $10 M_\\odot/$yr.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE",
+        "hep-th"
+      ],
+      "published": "2025-06-06T22:01:29+00:00",
+      "updated": "2026-06-02T18:57:14+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.06554v3",
+      "html_url": "https://arxiv.org/html/2506.06554v3",
+      "entry_url": "http://arxiv.org/abs/2506.06554v3"
+    }
+  ],
+  "total": 4
+}

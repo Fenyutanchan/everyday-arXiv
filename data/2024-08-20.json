@@ -1,0 +1,46 @@
+{
+  "date": "2024-08-20",
+  "papers": [
+    {
+      "arxiv_id": "2408.10560v4",
+      "base_id": "2408.10560",
+      "title": "Redshift Evolution of the HII Galaxy $L$-$σ$ Relation: Gaussian Process Analysis and Cosmological Implications",
+      "authors": [
+        "Jiaze Gao",
+        "Yun Chen",
+        "Lixin Xu"
+      ],
+      "abstract": "The empirical correlation between the H$β$ luminosity ($L$) and the ionized gas velocity dispersion ($σ$) in HII starburst galaxies (HIIGs) provides a foundation for using them as cosmological standard candles. A key unresolved issue is whether this $L$-$σ$ relation changes with redshift, which would impact its application at high redshifts. We test for possible evolution using cosmology-independent distance estimates up to $z \\sim 1.8$, obtained from Gaussian Process regression of the Pantheon+ Type Ia supernovae Hubble diagram. These distances allow us to compare the standard $L$-$σ$ relation with three redshift-dependent extensions through Bayesian model comparison. We find that a logarithmic redshift correction is statistically preferred when the intrinsic dispersion of the relation is explicitly modeled, significantly improving the fit to high-$z$ data. However, the evidence for evolution strongly depends on how the likelihood function accounts for this intrinsic dispersion and is weaker if it is ignored. We also show that Malmquist bias significantly affects comparisons between low- and high-$z$ samples, reducing -- though not eliminating -- the statistical preference for redshift evolution after matching luminosity ranges. These results indicate that current HIIG data favor a redshift-dependent modification of the standard $L$-$σ$ relation, while highlighting the critical role of selection effects and intrinsic dispersion modeling in establishing HIIGs as precise cosmological probes.",
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "published": "2024-08-20T05:59:57+00:00",
+      "updated": "2026-05-21T02:31:07+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2408.10560v4",
+      "html_url": "https://arxiv.org/html/2408.10560v4",
+      "entry_url": "http://arxiv.org/abs/2408.10560v4"
+    },
+    {
+      "arxiv_id": "2408.11045v3",
+      "base_id": "2408.11045",
+      "title": "Representation Theory of Solitons",
+      "authors": [
+        "Clay Cordova",
+        "Nicholas Holfester",
+        "Kantaro Ohmori"
+      ],
+      "abstract": "Solitons in two-dimensional quantum field theory exhibit patterns of degeneracies and associated selection rules on scattering amplitudes. We develop a representation theory that captures these intriguing features of solitons. This representation theory is based on an algebra we refer to as the \"strip algebra\", $\\textrm{Str}_{\\mathcal{C}}(\\mathcal{M})$, which is defined in terms of the non-invertible symmetry, $\\mathcal{C},$ a fusion category, and its action on boundary conditions encoded by a module category, $\\mathcal{M}$. The strip algebra is a $C^*$-weak Hopf algebra, a fact which can be elegantly deduced by quantizing the three-dimensional Drinfeld center TQFT, $\\mathcal{Z}(\\mathcal{C}),$ on a spatial manifold with corners. These structures imply that the representation category of the strip algebra is also a unitary fusion category which we identify with a dual category $\\mathcal{C}_{\\mathcal{M}}^{*}.$ We present a straightforward method for analyzing these representations in terms of quiver diagrams where nodes are vacua and arrows are solitons and provide examples demonstrating how the representation theory reproduces known degeneracies and selection rules of soliton scattering. Our analysis provides the general framework for analyzing non-invertible symmetry on manifolds with boundary and applies both to the case of boundaries at infinity, relevant to particle physics, and boundaries at finite distance, relevant in conformal field theory or condensed matter systems.",
+      "categories": [
+        "hep-th",
+        "cond-mat.str-el",
+        "math.QA"
+      ],
+      "published": "2024-08-20T17:55:06+00:00",
+      "updated": "2026-06-11T16:50:59+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2408.11045v3",
+      "html_url": "https://arxiv.org/html/2408.11045v3",
+      "entry_url": "http://arxiv.org/abs/2408.11045v3"
+    }
+  ],
+  "total": 2
+}

@@ -1,0 +1,469 @@
+{
+  "date": "2026-05-25",
+  "total": 15,
+  "papers": [
+    {
+      "arxiv_id": "2605.26265v1",
+      "base_id": "2605.26265",
+      "title": "NuSTAR as an Axion Helioscope: probing axion-nucleon and axion-electron couplings",
+      "authors": [
+        "Tiziano Zanzarella",
+        "Francisco R. Candón",
+        "Maurizio Giannotti",
+        "Marco Regis",
+        "Jaime Ruz",
+        "Marco Taoso",
+        "Elisa Todarello",
+        "Julia K. Vogel"
+      ],
+      "abstract": "We investigate solar X-ray observations as a probe of axions and axion-like particles. These particles can be produced in the interior of the Sun via the conversion of thermal photons, as well as through processes involving axion-electron and axion-nucleon interactions. The resulting axions can then reconvert into photons in the Sun's atmospheric magnetic field, generating a signal in the X-ray energy range. In this work, we derive new limits on axions using X-ray observations with the Nuclear Spectroscopic Telescope Array (NuSTAR) during the 2020 solar minimum. In the regime where ALP production is dominated by couplings to electrons or nucleons, we obtain bounds on the product of couplings $g_{ae}\\cdot g_{aγ}\\lesssim 1.1\\times10^{-24}\\,\\rm GeV^{-1}$ and $g_{aN}^{\\rm eff}\\cdot g_{aγ}\\lesssim 2.3\\times 10^{-19}\\,\\rm GeV^{-1}$ at 95% CL, for axion masses $m_a\\lesssim10^{-6}\\,\\rm eV$. These constraints strongly improve current ground-based experimental limits, establishing solar X-ray observations as a powerful and robust method for axion searches.",
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.HE",
+        "hep-ph"
+      ],
+      "published": "2026-05-25T18:50:57+00:00",
+      "updated": "2026-05-25T18:50:57+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.26265v1",
+      "html_url": "https://arxiv.org/html/2605.26265v1",
+      "entry_url": "http://arxiv.org/abs/2605.26265v1",
+      "relevance": {
+        "relevant": true,
+        "score": 8,
+        "reason": "The paper is highly relevant to your interest in axion physics, specifically addressing solar axion production mechanisms (including Primakoff conversion and axion-electron/nucleon couplings) and axion detection strategies using astrophysical observations, though it focuses on deriving experimental constraints rather than flux calculations per se.",
+        "pass_number": 1,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.26204v1",
+      "base_id": "2605.26204",
+      "title": "Electromagnetic Signatures From Primordial Black Holes in the Solar System",
+      "authors": [
+        "Alexandra P. Klipfel",
+        "David I. Kaiser"
+      ],
+      "abstract": "Primordial black holes (PBHs) in the asteroid-mass range, with typical masses $10^{17}\\,{\\rm g}\\lesssim M \\lesssim 10^{23}\\,{\\rm g}$, have drawn significant recent attention as a viable dark matter candidate. The peak frequencies of photons emitted via Hawking radiation from asteroid-mass PBHs range from infrared to $γ$-ray bands. We calculate expected local transit rates for extended PBH mass distributions which could comprise all the dark matter. We evaluate prospects for detecting Hawking-radiated photons from local PBH transits through the inner Solar System and from PBH explosions in the far outer edges of the Solar System. We consider several existing and proposed ground-based and space-based instruments sensitive to photons from the radio band to ultrahigh energy $γ$-rays. We find that proposed instruments, such as the AMEGO-X satellite, could reliably detect PBH transits within ${\\it O} (0.1 \\, {\\rm AU})$ of the Earth, while the HAWC and LHAASO observatories are both sensitive to PBH explosions out to ${\\it O}(0.1 \\, {\\rm pc})$ and ${\\it O}(0.5 \\, {\\rm pc})$ respectively. We conclude by specifically considering potential companion electromagnetic signatures in the case of a PBH explosion about $10^3\\,{\\rm AU}$ from Earth, which has been suggested as a potential source for the $\\sim 220 \\, {\\rm PeV}$ ultrahigh-energy KM3-230213A neutrino event observed by the KM3NeT collaboration in 2023. Whereas we find that the recent KM3NeT event would not have yielded detectable electromagnetic signals -- due to its location on the sky, proposed distance from Earth, and the offline status of the HAWC observatory at that time -- we demonstrate that future PBH explosions at comparable distances could yield measurable electromagnetic signals at Earth, depending on alignment of the PBH burst with detector fields of view.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "astro-ph.HE"
+      ],
+      "published": "2026-05-25T18:00:00+00:00",
+      "updated": "2026-05-25T18:00:00+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.26204v1",
+      "html_url": "https://arxiv.org/html/2605.26204v1",
+      "entry_url": "http://arxiv.org/abs/2605.26204v1",
+      "relevance": {
+        "relevant": true,
+        "score": 8,
+        "reason": "This paper directly addresses multiple core interests listed under PBH research: Hawking evaporation spectra, high-energy neutrino production from PBHs (including analysis of the KM3-230213A event), and PBH dark matter constraints, making it highly relevant to the researcher's work on PBH phenomenology and high-energy neutrino production.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2508.19217v3",
+      "base_id": "2508.19217",
+      "title": "The Magnetic Origin of Primordial Black Holes: A Viable Dark Matter Scenario",
+      "authors": [
+        "Subhasis Maiti",
+        "Debaprasad Maity"
+      ],
+      "abstract": "Primordial Black Holes (PBHs) are compelling candidates for explaining the present-day relic abundance of cold dark matter (CDM), yet their formation typically requires finely tuned early-universe dynamics. In this work, we propose a novel PBH formation mechanism within a well-established magnetogenesis framework. This scenario simultaneously accounts for the large-scale magnetic fields observed today and generates an enhanced curvature power spectrum at intermediate scales, leading to PBH formation with masses that can survive until the present epoch. We identify a narrow reheating temperature range, $10^5\\,\\mathrm{GeV} \\leq T_{re} \\leq 3\\times 10^5\\,\\mathrm{GeV}$, within which the resulting PBHs can constitute the entirety of the observed CDM abundance. Furthermore, our model predicts a stochastic gravitational wave (GW) background as a byproduct of the PBH formation process. Remarkably, the predicted GW signal lies within the sensitivity reach of upcoming space-based interferometers, such as the LISA, DECIGO, or SKA mission, offering a direct observational probe of this PBH generation mechanism.",
+      "categories": [
+        "astro-ph.CO",
+        "hep-ph"
+      ],
+      "published": "2025-08-26T17:30:56+00:00",
+      "updated": "2026-05-25T04:39:06+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.19217v3",
+      "html_url": "https://arxiv.org/html/2508.19217v3",
+      "entry_url": "http://arxiv.org/abs/2508.19217v3",
+      "relevance": {
+        "relevant": true,
+        "score": 8,
+        "reason": "This paper directly addresses multiple core interests of the researcher: primordial black holes as dark matter candidates, cosmic reheating dynamics (constraining reheating temperatures), and stochastic gravitational-wave backgrounds from PBH formation, making it highly relevant to their early-universe cosmology and PBH research.",
+        "pass_number": 1,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.25863v1",
+      "base_id": "2605.25863",
+      "title": "Linac: linear algebra with CUDA over finite fields",
+      "authors": [
+        "Giuseppe De Laurentis",
+        "Jack Franklin"
+      ],
+      "abstract": "Solving linear systems of polynomial equations is a ubiquitous problem in both mathematics and physics. The standard approach, Gaussian elimination, scales cubically with system size and often constitutes a computational bottleneck. The algorithm's inherent parallelism makes it well-suited for modern computing architectures, namely graphics processing units (GPUs), which offer significantly higher throughput than CPUs. Additionally, the use of finite fields -- integers modulo a prime -- in place of floating-point arithmetic offers a scalable solution to the issue of numerical precision loss, which becomes increasingly problematic at large system sizes. With Linac, we present a high-performance, open-source, parallel implementation of Gaussian elimination over finite fields and floating-point arithmetic. This tool has been developed for applications to analytic reconstruction of scattering amplitudes in quantum field theory.",
+      "categories": [
+        "physics.comp-ph",
+        "hep-ph",
+        "hep-th"
+      ],
+      "published": "2026-05-25T13:54:00+00:00",
+      "updated": "2026-05-25T13:54:00+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.25863v1",
+      "html_url": "https://arxiv.org/html/2605.25863v1",
+      "entry_url": "http://arxiv.org/abs/2605.25863v1",
+      "relevance": {
+        "relevant": true,
+        "score": 7,
+        "reason": "Linac is a computational tool for GPU-accelerated Gaussian elimination over finite fields, directly applicable to scattering amplitude reconstruction and IBP reductions in multi-loop perturbative calculations, which falls squarely within the user's interest in computational tools for high-energy physics and supports their multi-loop QCD work.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2512.06441v2",
+      "base_id": "2512.06441",
+      "title": "Constraining meV Axion Dark Matter with ALMA Observations of the Galactic Center Magnetar SGR 1745-2900",
+      "authors": [
+        "Javier De Miguel",
+        "Evanthia Hatziminaoglou",
+        "Frédéric Poidevin",
+        "Nanda Rea",
+        "Daniel L. Walker",
+        "Davide De Grandis",
+        "Jaime Prieto-Polo"
+      ],
+      "abstract": "We report a mm-wave search for axion dark matter from SGR 1745-2900, based on 4.8 h of ALMA observations. No candidate features are found between 133.99-135.78, 135.91-137.70, 145.99-147.78, and 147.99-149.78~GHz, corresponding to 0.55-0.62 meV. Interpreting this null result within a state-of-the-art stellar framework, we derive sensitivity to the axion-photon coupling at the level of $g_γ\\gtrsim 2\\times10^{-11}$ GeV$^{-1}$ under a standard Navarro-Frenk-White profile; down to $g_γ\\gtrsim 2\\times10^{-13}$ GeV$^{-1}$ upon accounting for a dense dark-matter spike around Sagittarius A*, probing the quantum chromodynamics axion parameter space.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "astro-ph.HE",
+        "astro-ph.SR",
+        "hep-ex"
+      ],
+      "published": "2025-12-06T14:09:48+00:00",
+      "updated": "2026-05-25T08:24:54+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2512.06441v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2512.06441v2",
+      "relevance": {
+        "relevant": true,
+        "score": 7,
+        "reason": "The paper directly addresses axion detection strategies and axion production in astrophysical environments—both explicitly listed research interests—by using magnetar observations to constrain the axion-photon coupling in the meV mass range relevant for QCD axion dark matter.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2511.01655v2",
+      "base_id": "2511.01655",
+      "title": "Direct detection of solar chameleons with electron recoil data from XENONnT",
+      "authors": [
+        "Guan-Wen Yuan",
+        "Anne-Christine Davis",
+        "Maurizio Giannotti",
+        "Sunny Vagnozzi",
+        "Luca Visinelli",
+        "Julia K. Vogel"
+      ],
+      "abstract": "We reassess prospects for direct detection of solar chameleons, in light of recent progress in modeling their production, and the availability of new XENONnT data. We show that the contribution from Primakoff production in the electric fields of electrons and ions dominates the electron recoil event rate, which is enhanced compared to earlier estimates based on magnetic conversion in the tachocline alone. We argue that the signal is governed by the effective coupling $β_{\\text{eff}} \\equiv β_γM_e^{-4}$, which encodes the combined effects of production and detection, where $β_γ$ and $M_e$ are the chameleon-photon (conformal) coupling and chameleon-electron disformal coupling scale, respectively. Setting the height of the chameleon potential to the dark energy (DE) scale $Λ\\simeq 2.4\\,{\\text{meV}}$, we show that XENONnT electron recoil data set the upper limit $\\log_{10}β_{\\text{eff}}<-6.9$. This limit is independent of the conformal matter coupling $β_m$ and index $n$, and applies to the whole class of inverse power-law chameleons, well beyond the $n=1$ case usually studied. We comment on how future multi-target experiments and lower-threshold analyses could distinguish solar chameleons from other light (pseudo)scalar particles such as axions. Our work demonstrates that existing dark matter direct detection experiments can probe regions of parameter space relevant to screened DE models, providing complementary tests to astrophysical and fifth-force searches at no additional experimental cost.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ex"
+      ],
+      "published": "2025-11-03T15:17:25+00:00",
+      "updated": "2026-05-25T08:29:50+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2511.01655v2",
+      "html_url": "https://arxiv.org/html/2511.01655v2",
+      "entry_url": "http://arxiv.org/abs/2511.01655v2",
+      "relevance": {
+        "relevant": true,
+        "score": 6,
+        "reason": "The paper is relevant due to its overlap with the user's interest in Primakoff solar axion flux calculations and axion production in astrophysical environments, as it computes the solar chameleon spectrum via Primakoff production and magnetic conversion—techniques directly analogous to solar axion calculations—and discusses detection strategies for light scalar/pseudoscalar particles at direct detection experiments, though the focus on chameleons (screened dark energy) rather than axions or dark matter makes it only partially aligned with the user's core interests.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.25772v1",
+      "base_id": "2605.25772",
+      "title": "Polarized Anisotropic Stochastic Gravitational Wave Background Search with Ground-Based Detector Networks",
+      "authors": [
+        "Töre Boybeyi",
+        "Vuk Mandic"
+      ],
+      "abstract": "Gravitational waves admit a Stokes decomposition into intensity ($I$), circular polarization ($V$), and linear polarization ($Q$, $U$), analogous to Cosmic Microwave Background (CMB) polarimetry. We implement a full-Stokes maximum-likelihood SGWB map-making analysis for ground-based detector networks, promoting the standard cross-correlation data products used in existing pipelines to a joint reconstruction of $I$, $V$, $Q$, $U$. Applied to LVK O3 data, we constrain the polarized angular spectra $C^{VV}_\\ell$, $C^{EE}_\\ell$, $C^{BB}_\\ell$ and $|C^{IV}_\\ell|$. We show that an intensity-only model is biased when polarized sky components are present, since the detector-network Fisher inner product does not generally make the Stokes responses orthogonal. For transient CBC foregrounds, polarized shot noise is not parametrically suppressed relative to ordinary CBC intensity shot noise. The full Stokes framework separates the Stokes sectors while providing access to polarized anisotropies invisible to conventional intensity-only searches.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "astro-ph.IM"
+      ],
+      "published": "2026-05-25T12:22:14+00:00",
+      "updated": "2026-05-25T12:22:14+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.25772v1",
+      "html_url": "https://arxiv.org/html/2605.25772v1",
+      "entry_url": "http://arxiv.org/abs/2605.25772v1",
+      "relevance": {
+        "relevant": true,
+        "score": 5,
+        "reason": "The paper connects to the user's interest in stochastic gravitational-wave backgrounds and mentions early-universe sources like phase transitions and chiral GW production, but it is primarily a GW data analysis methodology paper focused on ground-based detector networks (LVK, CE, ET) rather than the user's theoretical particle physics or early-universe cosmology focus.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2506.19965v3",
+      "base_id": "2506.19965",
+      "title": "Unlocking Multidimensional Integration with Quantum Adaptive Importance Sampling",
+      "authors": [
+        "Konstantinos Pyretzidis",
+        "Jorge J. Martínez de Lejarza",
+        "Germán Rodrigo"
+      ],
+      "abstract": "Multidimensional numerical integration is a central ingredient of theoretical predictions in high-energy physics, where multiloop Feynman diagrams and phase-space integrals are computationally demanding due to divergences and complex mathematical structures. Established Adaptive Importance Sampling methods for numerical integration, such as VEGAS, iteratively refine a grid in a separable way, dimension by dimension. This keeps the algorithm scalable but reduces performance when strong inter-variable correlations are present. In this work, we introduce a hybrid quantum-classical algorithm that performs Quantum Adaptive Importance Sampling (QAIS) for multidimensional Monte Carlo integration. Our approach uses a Parametrized Quantum Circuit to encode a non-separable Probability Density Function on a multidimensional grid and allocate samples efficiently in the integration domain. We apply the method to a sharply peaked loop Feynman integral and to multi-modal benchmark integrals. Our results show that QAIS provides an efficient route for high-precision evaluation of multidimensional integrals.",
+      "categories": [
+        "quant-ph",
+        "hep-ph"
+      ],
+      "published": "2025-06-24T19:19:06+00:00",
+      "updated": "2026-05-25T14:37:44+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2506.19965v3",
+      "html_url": "https://arxiv.org/html/2506.19965v3",
+      "entry_url": "http://arxiv.org/abs/2506.19965v3",
+      "relevance": {
+        "relevant": true,
+        "score": 5,
+        "reason": "The paper introduces a quantum computing-based method for multidimensional numerical integration of Feynman integrals and phase-space integrals, which connects to the researcher's interest in computational tools for HEP and multi-loop perturbative calculations, but the focus is on quantum algorithm methodology rather than the specific physics topics (neutrino physics, cosmology, axions, or analytical multi-loop techniques) central to the researcher's profile.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.25473v1",
+      "base_id": "2605.25473",
+      "title": "The Diagrammar of Quantum Magnusian",
+      "authors": [
+        "Li Guo",
+        "Joon-Hwi Kim",
+        "Jung-Wook Kim",
+        "Sungsoo Kim",
+        "Sangmin Lee",
+        "Jian-Rong Li"
+      ],
+      "abstract": "The logarithm of the time-evolution operator has been termed Magnusian, on account of the fact that its expansion describes the Magnus series. The diagrammatic expansion and computation of the classical Magnusian has been completely established in terms of tree graphs and their Hopf algebra. Recent works initiated extensions into quantum field theory, revealing general structures of loop expansions while finding intriguing relations between different diagrams. In this work, we advance the loop expansion further by providing an efficient diagrammatic algorithm to calculate the weight factor of each graph in the quantum Magnusian, known as the Murua coefficient. This is achieved by incorporating two complementary perspectives on the Magnusian at the same time: the color basis and the black-and-white basis. We extract the Murua coefficients from the Magnus series by utilizing these two bases while implementing an exponentiated Wick contraction. In turn, we identify the loop-level extension of Murua's recursive formula. Eventually, we establish a set of edge contraction rules which facilitate a direct recursive computation of the Murua coefficients at the purely diagrammatic level, without referencing or directly manipulating the underlying Magnus expansion. This shows that the matrix elements of the quantum Magnusian can be computed from graph manipulations alone.",
+      "categories": [
+        "hep-th"
+      ],
+      "published": "2026-05-25T06:25:37+00:00",
+      "updated": "2026-05-25T06:25:37+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.25473v1",
+      "html_url": "https://arxiv.org/html/2605.25473v1",
+      "entry_url": "http://arxiv.org/abs/2605.25473v1",
+      "relevance": {
+        "relevant": true,
+        "score": 5,
+        "reason": "The paper develops formal diagrammatic algorithms and graph-theoretic rules for computing quantum amplitudes at loop level, which connects to the user's interests in computational tools for HEP (Feynman amplitude generation, topology construction) and multi-loop perturbative calculations, though it is a highly formal/mathematical treatment of the Magnus expansion rather than a direct application to the user's specific phenomenological topics.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.25709v1",
+      "base_id": "2605.25709",
+      "title": "Electromagnetic emission from a black-to-white hole transition -- Photospheric emission",
+      "authors": [
+        "Mattia Villani"
+      ],
+      "abstract": "We calculate the gamma ray emission from a black-to-white hole transition. We put forward a model for the prompt emission phase, based on the photospheric emission model with the underlying idea that the number of photons and leptons emitted by the white hole will be larger than the baryon content. We calculate the spectrum of the emitted radiation and give an estimate of the total energy emitted. Finally, we estimate the cosmological density of lunar mass primordial black holes.",
+      "categories": [
+        "gr-qc"
+      ],
+      "published": "2026-05-25T11:10:59+00:00",
+      "updated": "2026-05-25T11:10:59+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.25709v1",
+      "html_url": "https://arxiv.org/html/2605.25709v1",
+      "entry_url": "http://arxiv.org/abs/2605.25709v1",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "The paper addresses primordial black holes and their cosmological density constraints, which overlaps with the researcher's interest in PBHs, but the specific focus on black-to-white hole transitions from Loop Quantum Gravity and gamma-ray photospheric emission modeling diverges significantly from the researcher's core interests in Hawking evaporation, neutrino/UHECR production, and particle-physics implications.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2508.20984v2",
+      "base_id": "2508.20984",
+      "title": "Cosmic-ray boosted inelastic dark matter from neutrino-emitting active galactic nuclei",
+      "authors": [
+        "R. Andrew Gustafson",
+        "Gonzalo Herrera",
+        "Mainak Mukhopadhyay",
+        "Kohta Murase",
+        "Ian M. Shoemaker"
+      ],
+      "abstract": "Cosmic rays may scatter off dark matter particles in active galactic nuclei, where both the densities of cosmic rays and dark matter are expected to be very large. These scatterings could yield a flux of boosted dark matter particles directly detectable on Earth, which enhances the sensitivity of dark matter direct detection and neutrino experiments to light and inelastic dark matter models. Here we calculate the cosmic-ray boosted dark matter flux from the neutrino-emitting active galactic nuclei, NGC 1068 and TXS 0506+056, by considering realistic cosmic-ray distributions, deep inelastic scatterings, and mass splittings in the dark sector. From this we derive novel bounds from these sources on light and/or inelastic dark matter models with Super-K and XENONnT. We find that cosmic-ray boosted dark matter from neutrino-emitting active galactic nuclei can test regions of parameter space favored to reproduce the observed relic abundance of dark matter in the Universe, and that are otherwise experimentally inaccessible.",
+      "categories": [
+        "hep-ph",
+        "astro-ph.HE"
+      ],
+      "published": "2025-08-28T16:39:06+00:00",
+      "updated": "2026-05-25T15:23:16+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2508.20984v2",
+      "html_url": "https://arxiv.org/html/2508.20984v2",
+      "entry_url": "http://arxiv.org/abs/2508.20984v2",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "While this paper involves dark matter physics and neutrino experiments which are tangentially related to the researcher's interests in dark sector physics and JUNO phenomenology, it focuses on inelastic dark matter with vector mediators boosted by cosmic rays in AGN rather than the researcher's core topics of axion physics, early-universe cosmology, or multi-loop calculations.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2502.20138v2",
+      "base_id": "2502.20138",
+      "title": "Fundamental Physics and Cosmology with TianQin",
+      "authors": [
+        "Jun Luo",
+        "Haipeng An",
+        "Ligong Bian",
+        "Rong-Gen Cai",
+        "Zhoujian Cao",
+        "Wenbiao Han",
+        "Jianhua He",
+        "Martin A. Hendry",
+        "Wencong Hong",
+        "Bin Hu",
+        "Yi-Ming Hu",
+        "Fa Peng Huang",
+        "Shun-Jia Huang",
+        "Sang Pyo Kim",
+        "En-Kun Li",
+        "Yu-Xiao Liu",
+        "Vadim Milyukov",
+        "Shi Pi",
+        "Konstantin Postnov",
+        "Misao Sasaki",
+        "Cheng-Gang Shao",
+        "Lijing Shao",
+        "Changfu Shi",
+        "Shuo Sun",
+        "Anzhong Wang",
+        "Pan-Pan Wang",
+        "Sai Wang",
+        "Shao-Jiang Wang",
+        "Zhong-Zhi Xianyu",
+        "Huan Yang",
+        "Tao Yang",
+        "Jian-dong Zhang",
+        "Xin Zhang",
+        "Wen Zhao",
+        "Liang-Gui Zhu",
+        "Jianwei Mei"
+      ],
+      "abstract": "The exploration of the surrounding world and the universe is an important theme in the legacy of humankind. The detection of gravitational waves is adding a new dimension to this grand effort. What are the fundamental physical laws governing the dynamics of the universe? What is the fundamental composition of the universe? How has the universe evolved in the past and how will it evolve in the future? These are the basic questions that press for answers. The space-based gravitational wave detector TianQin will tune in to gravitational waves in the millihertz frequency range ($10^{-4} \\sim 1$ Hz, to be specific), opening a new gravitational wave spectrum window to explore many of the previously hidden sectors of the universe. TianQin will discover many astrophysical systems, populating the universe at different redshifts: some will be of new types that have never been detected before, some will have very high signal-to-noise ratios, and some will have very high parameter estimation precision. The plethora of information collected will bring us to new fronts on which to search for the breaking points of general relativity, the possible violation of established physical laws, the signature of possible new gravitational physics and new fundamental fields, and to improve our knowledge on the expansion history of the universe. In this white paper, we highlight the advances that TianQin can bring to fundamental physics and cosmology.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "astro-ph.IM",
+        "hep-th"
+      ],
+      "published": "2025-02-27T14:31:17+00:00",
+      "updated": "2026-05-25T10:43:21+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2502.20138v2",
+      "html_url": "N/A",
+      "entry_url": "http://arxiv.org/abs/2502.20138v2",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "The paper discusses gravitational-wave detection for fundamental physics and cosmology, which tangentially connects to the researcher's interest in stochastic gravitational-wave backgrounds, but it is primarily a broad mission overview paper focused on astrophysical sources in the millihertz range rather than the early-universe/pre-thermalization gravitational waves central to the researcher's work.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.26170v1",
+      "base_id": "2605.26170",
+      "title": "Probing Axion Nucleon Coupling with Optomechanical Frequency Shift Measurements",
+      "authors": [
+        "Jiawei Li",
+        "Ka-di Zhu"
+      ],
+      "abstract": "The search for non-baryonic dark matter remains a key focus in modern physics, with the light pseudoscalar axion serving as a well-motivated candidate. Here, we present a laboratory-scale detection scheme to constrain axion-nucleon interactions using a levitated optomechanical sensor, complementing conventional spin-precession and inverse-square-law tests. By monitoring a micro-spherical test mass levitated near alternative aluminum and silver substrate mirrors, our dual-channel differential readout extracts the spin-independent force gradient generated by two-axion exchange. This approach translates the short-range interaction directly into a resolvable splitting in the optical transmission peaks. Our evaluation indicates that for symmetric nucleon coupling , the dual-cavity platform establishes competitive upper bounds, improving upon existing constraints by up to two orders of magnitude within the $m_{a}$ in [0.1, 1]eV mass range.",
+      "categories": [
+        "hep-ph"
+      ],
+      "published": "2026-05-25T02:41:32+00:00",
+      "updated": "2026-05-25T02:41:32+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.26170v1",
+      "html_url": "https://arxiv.org/html/2605.26170v1",
+      "entry_url": "http://arxiv.org/abs/2605.26170v1",
+      "relevance": {
+        "relevant": true,
+        "score": 4,
+        "reason": "The paper concerns axion detection strategies (a listed interest), but it is primarily an experimental optomechanical detection proposal rather than the theoretical/phenomenological axion work (Primakoff flux, astrophysical production) the researcher focuses on, and borders on the 'purely instrumental' category they explicitly find less interesting.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2503.05570v2",
+      "base_id": "2503.05570",
+      "title": "Search for primordial black holes from gravitational wave populations using deep learning",
+      "authors": [
+        "Hai-Long Huang",
+        "Zhan-He Wang",
+        "Qing-Yu Lan",
+        "Jun-Qian Jiang",
+        "Jibin He",
+        "Yu-Tong Wang",
+        "Jun Zhang",
+        "Yun-Song Piao"
+      ],
+      "abstract": "Gravitational waves (GWs) signals detected by the LIGO/Virgo/KAGRA collaboration might be sourced (partly) by the merges of primordial black holes (PBHs). The conventional hierarchical Bayesian inference methods can allow us to study population properties of GW events to search for the hints for PBHs. However, hierarchical Bayesian analysis require an analytic population model, and becomes increasingly computationally expensive as the number of sources grows. In this paper, we present a novel population analysis method based on deep learning, which enables the direct and efficient estimation of PBH population hyperparameters, such as the PBH fraction in dark matter, $f_{\\rm PBH}$. Our approach leverages neural posterior estimation combined with conditional normalizing flows and two embedding networks. Our results demonstrate that inference can be performed within seconds, highlighting the promise of deep learning as a powerful tool for population inference with an increasing number of GW signals for next-generation detectors.",
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-ph"
+      ],
+      "published": "2025-03-07T16:53:10+00:00",
+      "updated": "2026-05-25T06:01:04+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2503.05570v2",
+      "html_url": "https://arxiv.org/html/2503.05570v2",
+      "entry_url": "http://arxiv.org/abs/2503.05570v2",
+      "relevance": {
+        "relevant": true,
+        "score": 3,
+        "reason": "While the paper discusses primordial black holes—a topic of interest to the researcher—the PBH physics covered here (merger rates and mass functions from gravitational wave populations) differs significantly from the researcher's focus on Hawking evaporation, BBN constraints, and neutrino/UHECR production, and the paper is primarily a machine learning methodology paper, which the researcher explicitly lists as less interesting unless fundamentally novel.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    },
+    {
+      "arxiv_id": "2605.26050v1",
+      "base_id": "2605.26050",
+      "title": "Early- and Late-Time Modifications to $Λ$CDM: Implications for the Hubble Tension",
+      "authors": [
+        "Rahul Dhyani",
+        "Purba Mukherjee",
+        "Arindam Chatterjee",
+        "Anjan A Sen"
+      ],
+      "abstract": "We investigate an extension of $Λ$CDM in which a fraction of cold Dark Matter (DM) decays into invisible dark radiation (DR) around the radiation-matter equality epoch, together with a non-standard dark energy (DE) equation of state characterized by $w_0$. The decaying DM component modifies the early expansion history and reduces the sound horizon at baryon drag, while the DE alters the expansion rate at the late times. A comprehensive analysis combining \\texttt{Planck 2018+ACT DR6+DESI DR2+CMB lensing} datasets has been carried out to explore the viability of this framework in addressing the $H_0$ tension. This model yields a Hubble constant of $H_0 = 69.83 \\pm 0.98~\\mathrm{km\\,s^{-1}\\,Mpc^{-1}}$, reducing the discrepancy with SH0ES measurement to ${\\sim}2.2σ$ and local distance network measurement (H0DN) to ${\\sim}2.9σ$. Further, considering \\texttt{SH0ES} and \\texttt{Pantheon+}, the inferred value of the Hubble constant becomes $H_0 = 70.20 \\pm 0.66~\\mathrm{km\\,s^{-1}\\,Mpc^{-1}}$. The Bayesian evidence suggests that this framework offers a fit to the relevant cosmological datasets at a statistically similar level as $Λ$CDM. It is observed that correlated early- and late-time modifications to the cosmological expansion history provide a more effective route to reducing the $H_0$ tension than either class of modification alone.",
+      "categories": [
+        "astro-ph.CO",
+        "hep-ph"
+      ],
+      "published": "2026-05-25T17:12:16+00:00",
+      "updated": "2026-05-25T17:12:16+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2605.26050v1",
+      "html_url": "https://arxiv.org/html/2605.26050v1",
+      "entry_url": "http://arxiv.org/abs/2605.26050v1",
+      "relevance": {
+        "relevant": true,
+        "score": 3,
+        "reason": "The paper touches on some peripherally related topics (dark matter decay channels, BBN constraints, ΔN_eff), but its primary focus on phenomenological ΛCDM extensions for resolving the Hubble tension through statistical data fitting does not align with the researcher's core interests in theoretical particle physics, specific particle models (PBHs, HNLs, axions), reheating dynamics, or multi-loop perturbative calculations.",
+        "pass_number": 2,
+        "evaluated": true
+      }
+    }
+  ]
+}
